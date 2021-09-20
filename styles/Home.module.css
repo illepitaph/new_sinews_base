@@ -1,0 +1,124 @@
+.top {
+  height:190vh;
+  background-image:url("../public/images/Arch New Sinew.jpg");
+  background-size:100vw 100vh;
+  background-repeat:no-repeat;
+  background-position:25% 35%;
+  background-attachment:fixed;
+  overflow:scroll;
+  font-size:1rem;
+}
+
+.iconPlusSitebar {
+  display:flex;
+  justify-content:space-between;
+}
+
+.iconPlusSitebar > a {
+  background-image:url("../public/images/new Sinews Icon.jpg");
+  background-repeat:no-repeat;
+  background-position:center;
+  background-size:contain;
+  width:25vw;
+  height:35vh;
+  margin-top:12vh;
+  margin-left:2vw;
+}
+
+.graffiti {
+  position:sticky;
+  font-family:"lores-9-plus-wide-bold-alt";
+  font-size:2.4rem;
+  text-transform:lowercase;
+  color:whitesmoke;
+  text-shadow:1px 1px 19px white, 3px 3px 19px black;
+  margin:19% 0 0 14%;
+}
+
+.siteNav {
+  align-self:center;
+  display:inline-flex;
+  justify-content:flex-end;
+  margin-right:6%;
+}
+
+.siteNav  > button {
+  border:none;
+  font-family:"lores-9-plus-narrow";
+  font-size: 0.7rem;
+  background-color:black;
+  color:#c0a5a5;
+  opacity: 0.8;
+  padding:12px 19px;
+  border-radius:45px;
+  text-transform:lowercase;
+  letter-spacing:1.5px;
+}
+
+.middle {
+  margin:6% 0 6% 6%;
+}
+
+.lightTypeface {
+  font-family:"lores-9-plus-wide-bold-alt";
+  color:#b0b0b0;
+  opacity: 1;
+  font-size:2.4rem;
+  font-weight:400;
+  text-transform:lowercase;
+}
+
+.darkTypeface {
+  font-family:"lores-9-plus-wide";
+  font-size:1.4rem;
+  font-weight:700;
+  text-transform:lowercase;
+  line-height:5.5rem;
+  letter-spacing:-0.02rem;
+}
+
+.darkTypefaceSpecial {
+  font-family:"lores-9-plus-wide";
+  font-size:1.4rem;
+  font-weight:700;
+  text-transform:lowercase;
+  line-height:5.4rem;
+  letter-spacing:-0.02rem;
+  font-style:italic;
+}
+
+
+.bottom {
+    height:90vh;
+    background-image:url("../public/images/New Sinews Cove Full.jpg");
+    background-repeat:no-repeat;
+    background-position:35% 35%;
+    background-size:cover;
+    background-attachment:fixed,scroll;
+}
+
+.socialLinkFooter {
+  height:18vh;
+  display:grid;
+  place-items:center;
+  font-size:1.7rem;
+
+}
+
+.socialLinkFooter > .socialLinkTag {
+  color:#b0b0b0;
+  opacity: 1;
+  font-family:"lores-9-plus-wide";
+  text-decoration:none;
+  letter-spacing:0.06em;
+  text-transform:lowercase;
+}
+
+.socialLinkTag:hover {
+  cursor:pointer;
+  text-shadow:3px 3px black;
+}
+
+.socialLinkTag:visited {
+  text-decoration:none;
+}
