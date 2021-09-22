@@ -1,0 +1,144 @@
+.top {
+  height:65vh;
+  background-image:url("../public/images/Line New Sinew.jpg");
+  background-size:cover;
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  font-size:1rem;
+}
+
+
+.iconPlusSitebar {
+  display:flex;
+  justify-content:space-between;
+}
+
+.iconPlusSitebar > a {
+  background-image:url("../public/images/new Sinews Icon.jpg");
+  background-repeat:no-repeat;
+  background-position:center;
+  background-size:contain;
+  width:25vw;
+  height:35vh;
+  margin-top:12vh;
+  margin-left:2vw;
+}
+
+.siteNav {
+  align-self:center;
+  display:inline-flex;
+  justify-content:flex-end;
+  margin-right:6%;
+}
+
+.siteNav > button {
+  border:none;
+  font-family:"lores-9-plus-narrow";
+  font-size: 0.7rem;
+  background-color:black;
+  color:#c0a5a5;
+  opacity: 0.8;
+  padding:12px 19px;
+  border-radius:45px;
+  text-transform:lowercase;
+  letter-spacing:1.5px;
+}
+
+.middle {
+  width:65vw;
+  margin:0 auto;
+  margin-top:3%;
+  padding-top:4%;
+  font-family: "astoria-sans-medium-condensed", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size:1.2rem;
+}
+
+.middle > p {
+  margin-bottom:6%;
+}
+
+.middle > p:first-child {
+  margin-bottom:0;
+}
+
+.middle > p > a {
+  text-decoration:none;
+  cursor:pointer;
+  color:red;
+}
+
+.middle > p > a:hover {
+  color:lightgray;
+}
+
+.jpegBox1 {
+  display:flex;
+  flex-flow:row wrap;
+  justify-content:flex-start;
+  margin-top:0;
+  padding-bottom:2rem;
+  margin:0 auto;
+  box-shadow: 3px;
+}
+
+.jpegBox1 > img {
+  height:50px;
+  flex:1 1 0;
+  border:2px double #303030;
+}
+
+.darkTypeface {
+  font-family:"lores-9-plus-wide";
+  font-size:2rem;
+  font-weight:700;
+  text-transform:lowercase;
+  line-height:9.4rem;
+  letter-spacing:-0.02rem;
+}
+
+.jpegBox2 {
+  display:flex;
+  flex-flow:row wrap;
+  justify-content:flex-start;
+  margin-top:0;
+  margin:0 auto;
+}
+
+.jpegBox2 > img {
+  height:100px;
+  flex:1 1 0;
+  border:2px solid black;
+}
+
+.jpegBox2 > img:nth-of-type(even) {
+  border:2px solid #404040;
+}
+
+
+.socialLinkFooter {
+  height:18vh;
+  display:grid;
+  place-items:center;
+  font-size:1.7rem;
+
+}
+
+.socialLinkFooter > a {
+  color:#b0b0b0;
+  opacity: 1;
+  font-family:"lores-9-plus-wide";
+  text-decoration:none;
+  letter-spacing:0.06em;
+  text-transform:lowercase;
+}
+
+.socialLinkFooter > a:hover {
+  cursor:pointer;
+  text-shadow:3px 3px black;
+}
+
+.socialLinkTag:visited {
+  text-decoration:none;
+}
