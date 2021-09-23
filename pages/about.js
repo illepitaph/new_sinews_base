@@ -22,28 +22,28 @@ export default function About() {
 
 <div className={styles.jpegBox1}>
 
-    <img src="images/Siracusa Wall.jpg"></img>
+    <img src="images/SiracusaWall.jpg"></img>
     <img src="images/Bubbles.jpg"></img>
-    <img src="images/Archaic Entity.jpg"></img>
+    <img src="images/ArchaicEntity.jpg"></img>
     <img src="images/Security.jpg"></img>
-    <img src="images/Archaic Entity.jpg"></img>
-    <img src="images/Siracusa Wall.jpg"></img>
+    <img src="images/ArchaicEntity.jpg"></img>
+    <img src="images/SiracusaWall.jpg"></img>
     <img src="images/Security.jpg"></img>
     <img src="images/Bubbles.jpg"></img>
     <img src="images/Security.jpg"></img>
-    <img src="images/Archaic Entity.jpg"></img>
+    <img src="images/ArchaicEntity.jpg"></img>
     <img src="images/Bubbles.jpg"></img>
-    <img src="images/Siracusa Wall.jpg"></img>
-    <img src="images/Siracusa Wall.jpg"></img>
+    <img src="images/SiracusaWall.jpg"></img>
+    <img src="images/SiracusaWall.jpg"></img>
     <img src="images/Bubbles.jpg"></img>
-    <img src="images/Archaic Entity.jpg"></img>
+    <img src="images/ArchaicEntity.jpg"></img>
     <img src="images/Security.jpg"></img>
-    <img src="images/Archaic Entity.jpg"></img>
-    <img src="images/Siracusa Wall.jpg"></img>
+    <img src="images/ArchaicEntity.jpg"></img>
+    <img src="images/SiracusaWall.jpg"></img>
     <img src="images/Bubbles.jpg"></img>
-    <img src="images/Archaic Entity.jpg"></img>
+    <img src="images/ArchaicEntity.jpg"></img>
     <img src="images/Security.jpg"></img>
-    <img src="images/Archaic Entity.jpg"></img>
+    <img src="images/ArchaicEntity.jpg"></img>
 
 </div>
 
@@ -60,42 +60,42 @@ export default function About() {
 
 <section className={styles.bottom}>
     <div className={styles.jpegBox2}>
-      <img src="images/Siracusa Wall.jpg"></img>
+      <img src="images/SiracusaWall.jpg"></img>
       <img src="images/Bubbles.jpg"></img>
-      <img src="images/Archaic Entity.jpg"></img>
+      <img src="images/ArchaicEntity.jpg"></img>
       <img src="images/Security.jpg"></img>
-      <img src="images/Archaic Entity.jpg"></img>
-      <img src="images/Siracusa Wall.jpg"></img>
-      <img src="images/Security.jpg"></img>
-      <img src="images/Bubbles.jpg"></img>
-      <img src="images/Security.jpg"></img>
-      <img src="images/Archaic Entity.jpg"></img>
-      <img src="images/Bubbles.jpg"></img>
-      <img src="images/Siracusa Wall.jpg"></img>
-      <img src="images/Siracusa Wall.jpg"></img>
-      <img src="images/Bubbles.jpg"></img>
-      <img src="images/Archaic Entity.jpg"></img>
-      <img src="images/Security.jpg"></img>
-      <img src="images/Archaic Entity.jpg"></img>
-      <img src="images/Siracusa Wall.jpg"></img>
+      <img src="images/ArchaicEntity.jpg"></img>
+      <img src="images/SiracusaWall.jpg"></img>
       <img src="images/Security.jpg"></img>
       <img src="images/Bubbles.jpg"></img>
       <img src="images/Security.jpg"></img>
-      <img src="images/Archaic Entity.jpg"></img>
+      <img src="images/ArchaicEntity.jpg"></img>
       <img src="images/Bubbles.jpg"></img>
-      <img src="images/Siracusa Wall.jpg"></img>
-      <img src="images/Siracusa Wall.jpg"></img>
+      <img src="images/SiracusaWall.jpg"></img>
+      <img src="images/SiracusaWall.jpg"></img>
       <img src="images/Bubbles.jpg"></img>
-      <img src="images/Archaic Entity.jpg"></img>
+      <img src="images/ArchaicEntity.jpg"></img>
       <img src="images/Security.jpg"></img>
-      <img src="images/Archaic Entity.jpg"></img>
-      <img src="images/Siracusa Wall.jpg"></img>
+      <img src="images/ArchaicEntity.jpg"></img>
+      <img src="images/SiracusaWall.jpg"></img>
       <img src="images/Security.jpg"></img>
       <img src="images/Bubbles.jpg"></img>
       <img src="images/Security.jpg"></img>
-      <img src="images/Archaic Entity.jpg"></img>
+      <img src="images/ArchaicEntity.jpg"></img>
       <img src="images/Bubbles.jpg"></img>
-      <img src="images/Siracusa Wall.jpg"></img>
+      <img src="images/SiracusaWall.jpg"></img>
+      <img src="images/SiracusaWall.jpg"></img>
+      <img src="images/Bubbles.jpg"></img>
+      <img src="images/ArchaicEntity.jpg"></img>
+      <img src="images/Security.jpg"></img>
+      <img src="images/ArchaicEntity.jpg"></img>
+      <img src="images/SiracusaWall.jpg"></img>
+      <img src="images/Security.jpg"></img>
+      <img src="images/Bubbles.jpg"></img>
+      <img src="images/Security.jpg"></img>
+      <img src="images/ArchaicEntity.jpg"></img>
+      <img src="images/Bubbles.jpg"></img>
+      <img src="images/SiracusaWall.jpg"></img>
 
     </div>
 </section>

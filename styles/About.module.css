@@ -1,6 +1,6 @@
 .top {
   height:65vh;
-  background-image:url("../public/images/Line New Sinew.jpg");
+  background-image:url("../public/images/LineNewSinew.jpg");
   background-size:cover;
   background-repeat:no-repeat;
   background-attachment:fixed;
@@ -14,7 +14,7 @@
 }
 
 .iconPlusSitebar > a {
-  background-image:url("../public/images/new Sinews Icon.jpg");
+  background-image:url("../public/images/newSinewsIcon.jpg");
   background-repeat:no-repeat;
   background-position:center;
   background-size:contain;

@@ -1,6 +1,6 @@
 .top {
   height:190vh;
-  background-image:url("../public/images/Arch New Sinew.jpg");
+  background-image:url("../public/images/ArchNewSinew.jpg");
   background-size:100vw 100vh;
   background-repeat:no-repeat;
   background-position:25% 35%;
@@ -15,7 +15,7 @@
 }
 
 .iconPlusSitebar > a {
-  background-image:url("../public/images/new Sinews Icon.jpg");
+  background-image:url("../public/images/newSinewsIcon.jpg");
   background-repeat:no-repeat;
   background-position:center;
   background-size:contain;
@@ -90,7 +90,7 @@
 
 .bottom {
     height:90vh;
-    background-image:url("../public/images/New Sinews Cove Full.jpg");
+    background-image:url("../public/images/NewSinewsCoveFull.jpg");
     background-repeat:no-repeat;
     background-position:35% 35%;
     background-size:cover;
