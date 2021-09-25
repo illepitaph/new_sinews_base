@@ -23,7 +23,7 @@ export default function About() {
       <button>issue_2</button>
       <button>issue_1</button>
       <button>new sinews</button>
-      <button>about</button>
+      <Link href="/about"><button>about</button></Link>
       </nav>
     </div>
 </section>

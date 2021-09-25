@@ -1,0 +1,139 @@
+.sitebarContainer {
+  height:61vh;
+  width:100%;
+  background-image:url("images/Eisen_Martin\ Header.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:38% 60%;
+  background-attachment:fixed;
+  font-size:1rem;
+  overflow:visible;
+}
+
+.iconPlusSitebar {
+  display:flex;
+  justify-content:space-between;
+}
+
+.iconPlusSitebar > a {
+  background-image:url("images/new Sinews Icon.jpg");
+  background-repeat:no-repeat;
+  background-position:center;
+  background-size:contain;
+  width:25vw;
+  height:35vh;
+  margin-top:12vh;
+  margin-left:2vw;
+}
+
+.siteNav {
+  align-self:center;
+  display:inline-flex;
+  justify-content:flex-end;
+  margin-right:6%;
+}
+
+.siteNav > button {
+  border:none;
+  font-family:"lores-9-plus-narrow";
+  font-size: 0.7rem;
+  background-color:black;
+  color:#c0a5a5;
+  opacity: 0.8;
+  padding:12px 19px;
+  border-radius:45px;
+  text-transform:lowercase;
+  letter-spacing:1.5px;
+}
+
+.authorName {
+  font-family:"lores-9-plus-wide-bold-alt";
+  color:#b0b0b0;
+  opacity: 1;
+  font-size:2.7rem;
+  font-weight:400;
+  text-align:center;
+  text-transform:lowercase;
+  margin: 19vh 0 9vh 0;
+}
+
+.compositionTitle {
+  font-family:"lores-9-plus-wide";
+  font-size:2rem;
+  font-weight:700;
+  font-style:italic;
+  text-align:center;
+  text-transform:lowercase;
+  letter-spacing:-0.02rem;
+  line-height:1.4em;
+  margin-bottom:7vh;
+}
+
+.authorName::before, .authorName::after {
+  content:"::";
+}
+
+.compositionTitle::before, .compositionTitle::after {
+  content:" ... ... ";
+}
+
+.poem {
+  display:grid;
+  grid-template-rows: 1fr;
+  margin:2% 15%;
+  max-width:70%;
+}
+
+p, pre {
+  font-family: "astoria-sans-medium-condensed", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size:1.2rem;
+  letter-spacing:-0.02rem;
+  line-height:1.4em;
+}
+
+.polyphony {
+  font-style:italic;
+}
+
+.rightJustified {
+  margin-top:7%;
+  text-align:right;
+}
+
+.centerJustified {
+  margin-top:7%;
+  margin-bottom:7%;
+  text-align:center;
+}
+
+.compositionTitle:nth-of-type(2) {
+  margin-top:7%;
+}
+
+.socialLinkFooter {
+  height:18vh;
+  display:grid;
+  place-items:center;
+  font-size:1.7rem;
+
+}
+
+.socialLinkFooter > a {
+  color:#b0b0b0;
+  opacity: 1;
+  font-family:"lores-9-plus-wide";
+  text-decoration:none;
+  letter-spacing:0.06em;
+  text-transform:lowercase;
+}
+
+.socialLinkFooter > a:hover {
+  cursor:pointer;
+  text-shadow:3px 3px black;
+}
+
+.socialLinkTag:visited {
+  text-decoration:none;
+}

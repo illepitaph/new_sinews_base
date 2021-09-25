@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import Link from 'next/link'
-import styles from '../styles/EisenMartin.module.css'
+import styles from '../styles/Eisenmartin.module.css'
 
 export default function Eisen_Martin() {
   return (
@@ -16,7 +16,6 @@ export default function Eisen_Martin() {
       <body>
 
       <header className={styles.sitebarContainer}>
-  <div className={styles.top}>
 <div className={styles.iconPlusSitebar}>
 <a href="https://newnewsinews.com"></a>
 <nav>
@@ -27,7 +26,6 @@ export default function Eisen_Martin() {
   <button>new sinews</button>
   <button>about</button>
   </nav>
-</div>
 </div>
 </header>
 
