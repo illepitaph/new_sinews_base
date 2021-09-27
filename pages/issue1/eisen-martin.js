@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import Link from 'next/link'
-import styles from '../styles/Eisenmartin.module.css'
+import styles from '../../styles/Eisenmartin.module.css'
 
 export default function Eisen_Martin() {
   return (
@@ -18,7 +18,7 @@ export default function Eisen_Martin() {
       <header className={styles.sitebarContainer}>
 <div className={styles.iconPlusSitebar}>
 <a href="https://newnewsinews.com"></a>
-<nav>
+<nav className={styles.siteNav}>
   <button>issue_4</button>
   <button>issue_3</button>
   <button>issue_2</button>
@@ -35,32 +35,32 @@ export default function Eisen_Martin() {
 <p className={styles.compositionTitle}>fish with<br/>ambition to become<br/>the river</p>
 
 <div className={styles.poem}>
-<p>I looked in my bank account</p>
-<p>It said, “you have five toilets to your name.”<br/>It said, “don’t just sit there. Return fire.”</p>
-<p>Talking head says, “go to sleep children. You will all be police tomorrow.”</p>
-<p>We say: No. We will be the poor.</p>
-<p>Talking head says, “ok scumbags, I talked to you like children; now you will be dogs”</p>
-<p>“Market Street” is the best two-word joke I have ever heard in San Francisco</p>
-<p>“Now I have to teach myself how to pass out sketches and throw pencils at pigeons when I retire”</p>
-<p>“I don’t have any friends who would reprimand me anyway”</p> 
-<pre>“Retire to the ocean and walk backwards into the surf 
+<p className={styles.leftJustified}>I looked in my bank account</p>
+<p className={styles.leftJustified}>It said, “you have five toilets to your name.”<br/>It said, “don’t just sit there. Return fire.”</p>
+<p className={styles.leftJustified}>Talking head says, “go to sleep children. You will all be police tomorrow.”</p>
+<p className={styles.leftJustified}>We say: No. We will be the poor.</p>
+<p className={styles.leftJustified}>Talking head says, “ok scumbags, I talked to you like children; now you will be dogs”</p>
+<p className={styles.leftJustified}>“Market Street” is the best two-word joke I have ever heard in San Francisco</p>
+<p className={styles.leftJustified}>“Now I have to teach myself how to pass out sketches and throw pencils at pigeons when I retire”</p>
+<p className={styles.leftJustified}>“I don’t have any friends who would reprimand me anyway”</p> 
+<pre className={styles.standardLineation}>“Retire to the ocean and walk backwards into the surf 
            pretending to fight off the weirdly dressed hordes”
 
                              —and I used to joke about being underwater.</pre>
 
-<p>Laughed at the people stealing my cigarettes<br/>Laughed at the people pretending to tie my shoes</p>
+<p className={styles.leftJustified}>Laughed at the people stealing my cigarettes<br/>Laughed at the people pretending to tie my shoes</p>
 
-<p>“now I have to put charcoal under the classroom and do impossible things with tap water”</p>
+<p className={styles.leftJustified}>“now I have to put charcoal under the classroom and do impossible things with tap water”</p>
 
-<p>“leave the window open so that the most respectful rats will come in and white enlightenment will have something to ponder.”</p>
+<p className={styles.leftJustified}>“leave the window open so that the most respectful rats will come in and white enlightenment will have something to ponder.”</p>
 
-<p>—oh what machines may come</p>
+<p className={styles.leftJustified}>—oh what machines may come</p>
 
-<p>“I should have never quit heroin,” we all say (all of the time)</p>
+<p className={styles.leftJustified}>“I should have never quit heroin,” we all say (all of the time)</p>
 
-<p>we started early.<br/>twenty wagons appeared in a dream I had about the 7th grade.</p>
+<p className={styles.leftJustified}>we started early.<br/>twenty wagons appeared in a dream I had about the 7th grade.</p>
 
-<p>Pathology needs a god to represent it to children and child-like states</p>
+<p className={styles.leftJustified}>Pathology needs a god to represent it to children and child-like states</p>
 
 <pre className={styles.polyphony}>Eat your people today
 
@@ -149,7 +149,7 @@ are mine.”
 </pre>
 
 
-<pre>
+<pre className={styles.standardLineation}>
 Before I opened the door to the street
      I knocked
             And the world let me in
@@ -173,7 +173,7 @@ Please take your seats.
 
 <div className="poem">
 
-<pre>
+<pre className={styles.standardLineation}>
 First, I must apologize to the souls of the house
 
             Wearing the cheek bones of the mask only
@@ -222,14 +222,14 @@ Some transactionally
 
 In a cotton gothic society
 </pre>
-<p>Class betrayal gone glassless // I mean ironically // my window started fogging over too</p>
+<p className={styles.leftJustified}>Class betrayal gone glassless // I mean ironically // my window started fogging over too</p>
 
 <pre className={styles.rightJustified}>
 I remember childhood
 Remember the word “Childhood” being a beginning
 </pre>
 
-<pre>
+<pre className={styles.standardLineation}>
 A poet loses his mind, you know, like the room has weather
 Or first-girlfriend gravity
 Poem gravity
@@ -248,7 +248,7 @@ I mean, if I had to fall in love today
 My grandchildren would be doomed
 </pre>
 
-<pre>
+<pre className={styles.standardLineation}>
 A pair of apartments
      Defining both my family
      And political composure

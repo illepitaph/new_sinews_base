@@ -45,8 +45,10 @@ export default function issue1() {
       </div>
 
       <div className={styles.siteShortcuts}>
-            <button className={styles.linkButton}><a className={styles.innerSiteLinkTag} href="https://newnewsinews.com">new sinews</a></button>
-            <button className={styles.linkButton}><a className={styles.innerSiteLinkTag} href="https://newnewsinews.com/about">about</a></button>
+            <button className={styles.linkButton}><a
+            className={styles.innerSiteLinkTag} href="https://newnewsinews.com">new sinews</a></button>
+            <button className={styles.linkButton}><a
+            className={styles.innerSiteLinkTag} href="https://newnewsinews.com/about">about</a></button>
             <button className={styles.linkButton}>
               <a className={styles.twitterLinkTag} href="https://twitter.com/new_sinews">[Bird App]</a>
             </button>
