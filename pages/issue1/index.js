@@ -38,7 +38,7 @@ export default function issue1() {
       </div>
       <div className={styles.col2}>
         <a className={styles.workLink} href=""
-        >even flesh seems a formality<br />or: vi khi nao's organic
+        >even flesh seems a formality<br/>or: vi khi nao's organic
           oscillations
         </a>
         <a className={styles.workLink} href="">~~~b  i  os ~~~</a>

@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import Link from 'next/link'
+import Footer from '../../components/footer.js'
 import styles from '../../styles/Eisenmartin.module.css'
 
 export default function Eisen_Martin() {
@@ -43,10 +44,10 @@ export default function Eisen_Martin() {
 <p className={styles.leftJustified}>“Market Street” is the best two-word joke I have ever heard in San Francisco</p>
 <p className={styles.leftJustified}>“Now I have to teach myself how to pass out sketches and throw pencils at pigeons when I retire”</p>
 <p className={styles.leftJustified}>“I don’t have any friends who would reprimand me anyway”</p> 
-<pre className={styles.standardLineation}>“Retire to the ocean and walk backwards into the surf 
+<pre className={styles.standardLineation}>`“Retire to the ocean and walk backwards into the surf 
            pretending to fight off the weirdly dressed hordes”
 
-                             —and I used to joke about being underwater.</pre>
+                             —and I used to joke about being underwater.`</pre>
 
 <p className={styles.leftJustified}>Laughed at the people stealing my cigarettes<br/>Laughed at the people pretending to tie my shoes</p>
 
@@ -273,9 +274,7 @@ Teeth of the mask again</pre>
 </div>
 </main>
 
-<footer className={styles.socialLinkFooter}>
-<a className={styles.socialLinkTag} href="https://www.twitter.com/new_sinews">twitter</a>
-  </footer>
+   <Footer/>
 
       </body>
 

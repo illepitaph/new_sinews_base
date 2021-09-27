@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import Link from 'next/link'
+import Footer from '../components/footer.js'
 import styles from '../styles/Home.module.css'
 
 export default function Home() {
@@ -27,7 +28,7 @@ export default function Home() {
             <Link href="/about"><button>about</button></Link>
             </nav>
           </div>
-            <pre className={styles.graffiti}>
+            <pre className={styles.graffiti}>{`
                  new sinews             new
               sinews     new sin        sin
 
@@ -37,11 +38,11 @@ export default function Home() {
               sinews new   sinews    new    
               sinews sinews new new  sin
             new sinews
-          </pre>
+          `}</pre>
             </section>
 
             <section className={styles.middle}>
-            <pre>
+            <pre>`
 
       <span className={styles.lightTypeface}>new sinews</span>
 
@@ -70,15 +71,13 @@ export default function Home() {
       grant maierhofer
        </span>
       <span className={styles.darkTypefaceSpecial}>now showing</span>
-      </pre>
+      `</pre>
 
               </section>
               <section className={styles.bottom}>
                 </section>
 
-                <footer className={styles.socialLinkFooter}>
-      <a className={styles.socialLinkTag} href="https://www.twitter.com/new_sinews">twitter</a>
-                  </footer>
+                <Footer/>
 
                 </body>
 

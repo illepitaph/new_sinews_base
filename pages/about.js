@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import Link from 'next/link'
+import Footer from '../components/footer.js'
 import styles from '../styles/About.module.css'
 
 export default function About() {
@@ -111,9 +112,7 @@ export default function About() {
 </section>
 
 
-    <footer className={styles.socialLinkFooter}>
-  <a className={styles.socialLinkTag} href="https://www.twitter.com/new_sinews">twitter</a>
-      </footer>
+    <Footer/>
     </body>
     </div>
   )

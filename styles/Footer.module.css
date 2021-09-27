@@ -1,0 +1,25 @@
+.socialLinkFooter {
+  height:18vh;
+  display:grid;
+  place-items:center;
+  font-size:1.7rem;
+
+}
+
+.socialLinkFooter > a {
+  color:#b0b0b0;
+  opacity: 1;
+  font-family:"lores-9-plus-wide";
+  text-decoration:none;
+  letter-spacing:0.06em;
+  text-transform:lowercase;
+}
+
+.socialLinkFooter > a:hover {
+  cursor:pointer;
+  text-shadow:3px 3px black;
+}
+
+.socialLinkTag:visited {
+  text-decoration:none;
+}
