@@ -1,0 +1,56 @@
+.sitebarContainerEisen {
+  height:61vh;
+  width:100%;
+  background-image:url("../public/images/EisenMartinHeader.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:38% 60%;
+  background-attachment:fixed;
+  font-size:1rem;
+  overflow:visible;
+}
+
+.siteBarContainerAbout {
+  height:65vh;
+  background-image:url("../public/images/LineNewSinew.jpg");
+  background-size:cover;
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  font-size:1rem;
+}
+
+.iconPlusSitebar {
+  display:flex;
+  justify-content:space-between;
+}
+
+.iconPlusSitebar > a {
+  background-image:url("../public/images/newSinewsIcon.jpg");
+  background-repeat:no-repeat;
+  background-position:center;
+  background-size:contain;
+  width:25vw;
+  height:35vh;
+  margin-top:12vh;
+  margin-left:2vw;
+}
+
+.siteNav {
+  align-self:center;
+  display:inline-flex;
+  justify-content:flex-end;
+  margin-right:6%;
+}
+
+.siteNav > button {
+  border:none;
+  font-family:"lores-9-plus-narrow";
+  font-size: 0.7rem;
+  background-color:black;
+  color:#c0a5a5;
+  opacity: 0.8;
+  padding:12px 19px;
+  border-radius:45px;
+  text-transform:lowercase;
+  letter-spacing:1.5px;
+}

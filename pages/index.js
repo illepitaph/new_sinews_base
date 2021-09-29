@@ -42,7 +42,7 @@ export default function Home() {
             </section>
 
             <section className={styles.middle}>
-            <pre>`
+            <pre className={styles.marquee}>{`
 
       <span className={styles.lightTypeface}>new sinews</span>
 
@@ -71,7 +71,7 @@ export default function Home() {
       grant maierhofer
        </span>
       <span className={styles.darkTypefaceSpecial}>now showing</span>
-      `</pre>
+      `}</pre>
 
               </section>
               <section className={styles.bottom}>

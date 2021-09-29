@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import Link from 'next/link'
+import Header from '../components/header.js'
 import Footer from '../components/footer.js'
 import styles from '../styles/About.module.css'
 
