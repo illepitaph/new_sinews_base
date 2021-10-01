@@ -12,13 +12,36 @@
 
 .compositionTitle {
   max-width:70vw;
-  margin: 19vh 0 9vh 9vw;
+  margin: 19vh 0 11vh 9vw;
   font-family:"lores-9-plus-wide";
   font-size:2rem;
   font-weight:700;
   font-style:normal;
   text-align:left;
   text-transform:lowercase;
+  letter-spacing:-0.02rem;
+  line-height:1.4em;
+}
+
+.poemTitle {
+  font-family: "astoria-sans-medium-condensed", sans-serif;
+  font-weight: 600;
+  font-style: italic;
+  font-size:1.2rem;
+  text-align:center;
+  text-transform: capitalize;
+  letter-spacing:-0.02rem;
+  line-height:1.4em;
+
+}
+
+.standardLineation {
+  max-width:30vw;
+  margin:0 auto;
+  font-family: "astoria-sans-medium-condensed", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size:1.2rem;
   letter-spacing:-0.02rem;
   line-height:1.4em;
 }
