@@ -1,0 +1,51 @@
+.authorName {
+  font-family:"lores-9-plus-wide";
+  font-size:2rem;
+  font-weight:700;
+  font-style:normal;
+  text-align:right;
+  text-transform:lowercase;
+  letter-spacing:-0.02rem;
+  line-height:1.4em;
+  margin:0 7vh 7vw 0;
+}
+
+.compositionTitle {
+  font-family:"lores-9-plus-wide-bold-alt";
+  color:#b0b0b0;
+  opacity: 1;
+  font-size:2.7rem;
+  font-weight:400;
+  text-align:center;
+  text-transform:lowercase;
+  margin: 9vh 0 9vh 0;
+}
+
+.authorName::before, .authorName::after {
+  content:" ... ";
+}
+
+.storyTitle {
+  font-family:"lores-9-plus-wide";
+  font-size:2rem;
+  font-weight:700;
+  font-style:italic;
+  text-align:left;
+  text-transform:lowercase;
+  letter-spacing:-0.02rem;
+  line-height:1.4em;
+  margin:7vh 0 7vh 7vw;
+
+}
+
+.storyBody {
+  max-width:70vw;
+  margin:0 auto;
+  font-family: "astoria-sans-medium-condensed", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size:1.2rem;
+  letter-spacing:-0.02rem;
+  line-height:1.4em;
+
+}
