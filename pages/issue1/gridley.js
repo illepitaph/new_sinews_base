@@ -51,11 +51,11 @@ export default function Romanosky() {
 
             <p className={styles.poemTitle}>Compounding Pharmacy</p>
             <pre className={styles.standardLineation}>{`
-      Disquiet adopts                    a whetstone’s grit
-      An undercroft                      had better be what you think it is
-      A timepiece                        cleans its feathers in the spring
-      As a windfall                      is wise to attachment
-      Attachment is a metaphysic         hunting from the ground
+      Disquiet adopts                           a whetstone’s grit
+      An undercroft                              had better be what you think it is
+      A timepiece                                 cleans its feathers in the spring
+      As a windfall                                is wise to attachment
+      Attachment is a metaphysic       hunting from the ground
               `}
             </pre>
 
