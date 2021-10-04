@@ -2,6 +2,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import Link from 'next/link'
 import Header from '../../components/header.js'
+import AuthorName from '../../components/authorName.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Eisenmartin.module.css'
 
