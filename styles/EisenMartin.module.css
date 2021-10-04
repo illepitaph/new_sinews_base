@@ -75,6 +75,7 @@
 
 .compositionTitle::before, .compositionTitle::after {
   content:" ... ... ";
+  font-style:normal;
 }
 
 .poem {
@@ -94,15 +95,33 @@
 }
 
 .polyphony {
+  font-family: "astoria-sans-medium-condensed", sans-serif;
+  font-weight: 300;
+  font-size:1.2rem;
+  letter-spacing:-0.02rem;
+  line-height:1.4em;
   font-style:italic;
 }
 
 .rightJustified {
+  font-family: "astoria-sans-medium-condensed", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size:1.2rem;
+  letter-spacing:-0.02rem;
+  line-height:1.4em;
   margin-top:7%;
   text-align:right;
 }
 
 .centerJustified {
+  font-family: "astoria-sans-medium-condensed", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size:1.2rem;
+  letter-spacing:-0.02rem;
+  line-height:1.4em;
+  margin-top:7%;
   margin-top:7%;
   margin-bottom:7%;
   text-align:center;

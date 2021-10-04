@@ -162,7 +162,7 @@ Please take your seats.
 
 <p className={styles.compositionTitle}>two<br/>nights on 16th<br/>street</p>
 
-<div className="poem">
+<div className={styles.poem}>
 
 <pre className={styles.standardLineation}>{`
 First, I must apologize to the souls of the house
@@ -192,7 +192,7 @@ About hating your enemies
 A little more realistically
 `}</pre>
 
-<pre>{`
+<pre className={styles.standardLineation}>{`
 Our eyesight returning to red // Notepad swimming to red // Bracing for the medicine’s recoil
 
 I need my left hand back
