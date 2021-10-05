@@ -25,6 +25,7 @@
 .standardProse {
   max-width:70vw;
   margin:0 auto;
+  padding-bottom:10vh;
   font-family: "astoria-sans-medium-condensed", sans-serif;
   font-weight: 300;
   font-style: normal;

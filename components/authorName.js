@@ -2,8 +2,12 @@ import Image from 'next/image'
 import Link from 'next/link'
 import styles from '../styles/AuthorName.module.css'
 
-export default function AuthorName(props) {
+export default function AuthorName() {
+  render() {
   return (
-    <p className={styles.authorName}>{this.props.name}</p>
-  )
+    <div>
+    <p className={styles.authorName}></p>
+    </div>
+  );
+}
 }
