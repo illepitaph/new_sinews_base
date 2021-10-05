@@ -36,3 +36,13 @@
   letter-spacing:-0.02rem;
   line-height:1.4em;
 }
+
+.externalLink {
+  font-style:italic;
+  text-decoration:underline;
+}
+
+.externalLink > a:hover {
+  cursor:pointer;
+  text-shadow:3px 3px black;
+}

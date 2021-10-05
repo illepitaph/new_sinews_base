@@ -22,14 +22,66 @@ export default function EvenFlesh() {
        <p className={styles.compositionTitle}>even flesh seems a formality</p>
        <p className={styles.proseTitle}>or: Vi Khi Nao’s organic oscillations</p>
 
-       <p className={styles.authorItalic}>Steve Barbaro</p>
-
        <article className={styles.standardProse}>
-       How might the partakers of cynically sensible deeds be freed in the very course of their yielding? “The virtue of ecstasy robs reality of its synthetic robes,” Vi Khi Nao answers by way of her first book, The Vanishing Point of Desire (2011). And in this novel-in-roomily-white-spaced-prose, the bleh ritual of a two-person interview in a conference room is rejigged, via the 1st person narrator’s eros-engined mid-interview reveries, to encapsulate Charles de Gaulle Airport, of all earthly backdrops.
+       <br/>
+       <span className={styles.authorItalic}>Steve Barbaro</span>
        <br/>
        <br/>
-       As if said hub of hubbub might indeed prove a kind of ideal destination, the interview-ensconced interviewer-narrator recurrently muses—so as to ground the novel in an escape-dense space—upon “the city made of arrivals and departures.” Not to be ensnared however, the narrative is thence redirected into the interviewer’s own paintings which dangle, for some reason, from the airport’s ceiling. Weirdly convincingly, and via the descriptively-consummated engine of latent interviewer-interviewee attraction, the interview’s constituents thus assume the very space of inert canvases. The proper remedy for thwarting the soul-sapping ceremonies undergirding much of “normal life” is as such a redoubled dose of fiction; and the-novel-according-to-Nao, in all of its self-propelling self-corrections, manifests as a sensorium where incompatible-seeming entities perched at not inconsiderable removes attain astonishingly urgent correspondence, up to and including “the torment or equanimity they must feel having to exist with one another.”
+       How might the partakers of cynically sensible deeds be freed in the very
+       course of their yielding? “The virtue of ecstasy robs reality of its
+       synthetic robes,” Vi Khi Nao answers by way of her first book, <cite>The
+       Vanishing Point of Desire</cite> (2011). And in this novel-in-roomily-white-
+       spaced-prose, the bleh ritual of a two-person interview in a conference
+       room is rejigged, via the 1st person narrator’s eros-engined mid-interview
+       reveries, to encapsulate Charles de Gaulle Airport, of all earthly backdrops.
+       <br/>
+       <br/>
+       As if said hub of hubbub might indeed prove a kind of ideal destination,
+       the interview-ensconced interviewer-narrator recurrently muses—so as to
+       ground the novel in an escape-dense space—upon “the city made of arrivals
+       and departures.” Not to be ensnared however, the narrative is thence
+       redirected into the interviewer’s own paintings which dangle, for some
+       reason, from the airport’s ceiling. Weirdly convincingly, and via the
+       descriptively-consummated engine of latent interviewer-interviewee
+       attraction, the interview’s constituents thus assume the very space of
+       inert canvases. The proper remedy for thwarting the soul-sapping ceremonies
+       undergirding much of “normal life” is as such a redoubled dose of fiction;
+       and the-novel-according-to-Nao, in all of its self-propelling self-corrections,
+       manifests as a sensorium where incompatible-seeming entities perched at not
+       inconsiderable removes attain astonishingly urgent correspondence, up to and
+       including “the torment or equanimity they must feel having to exist with one another.”
+       <br/>
+       <br/>
+       In the seven-some years since <cite>The Vanishing Point of Desire</cite>,
+       Vi Khi Nao has persisted to chart a singularly protean course through seven-plus
+       books of poems and prose, with the latter’s component pieces often mixing the lyric,
+       the essayistic, and the fictive. But even prior to the cross-genre autonomy there
+       is an innate textural slipperiness to Nao’s work, something Megan Jeanne Gette keenly
+       diagnoses in a vibrant <a className={styles.externalLink} target="_blank"
+       href="https://www.3ammagazine.com/3am/vi-khi-naos-molecular-agriculture-something-looms/">
+       3:AM essay</a> on Nao as “molecular architecture.”
+       To focus however for now on Nao’s earlier oeuvre—and to again monitor the way that
+       Nao subverts contemporary life’s sundry supposedly urgent ceremonies—it is worth
+       pondering the consistency of space in Nao’s punchily dexterous, poem-speckled
+       fiction collection, <cite>Oh, God, Your Babies Are So Delicious!</cite> (2015,
+       Per Second Press).
+       <br/>
+       <br/>
+       A profanely diffuse cosmos wherein the wedding of piety and conventionality
+       births brisk breeds of everyday extremity, <cite>Oh, God, Your Babies Are So Delicious!</cite>
+       conjures characters who are as self-subvertingly proverbial as a home invasion
+       carried out by the home’s very constituents. There is a daughter who sabotages
+       an impending family dinner by resolutely vanishing. There is a shopper intent
+       on urinating mid-grocery-store and there is a middle-class man named Tom
+       whose handsomeness is offset by a lawnmower. There is even a fella named Eugene
+       who asks a coroner if the latter might not de-skin Eugene’s recently deceased wife
+       so as to re-render her hip bones into the perversely practical memento of a walker.
+       And where injurious ideology may well have created the corporeally-cruxed world
+       of these characters, each story seems part and parcel of a kind of post-intellect
+       economy of pure body to which each character—with terrifying gradations of
+       credulity—succumbs, as if as a matter of fate.
        </article>
+
 
     <Footer/>
           </body>
