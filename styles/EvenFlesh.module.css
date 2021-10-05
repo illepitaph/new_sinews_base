@@ -22,10 +22,6 @@
 
 }
 
-.authorItalic {
-  font-style:italic;
-}
-
 .standardProse {
   max-width:70vw;
   margin:0 auto;
@@ -35,6 +31,12 @@
   font-size:1.2rem;
   letter-spacing:-0.02rem;
   line-height:1.4em;
+}
+
+.authorItalic {
+  display:block;
+  font-style:italic;
+  text-align:right;
 }
 
 .externalLink {
