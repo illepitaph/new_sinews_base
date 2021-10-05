@@ -80,6 +80,62 @@ export default function EvenFlesh() {
        of these characters, each story seems part and parcel of a kind of post-intellect
        economy of pure body to which each character—with terrifying gradations of
        credulity—succumbs, as if as a matter of fate.
+       <br/>
+       <br/>
+       The daughter-narrator of “On Flesh (or, Propulsion)” for instance details
+       the atavistic sensorial invasion she feels upon hearing her mother screaming
+       after being pierced by a sewing needle. “Sonic flesh has none,” Nao writes,
+       apropos of the yelling, “only pores.” So it is that where the meeting of cold
+       utility and sensory shiftiness in <cite>The Vanishing Point of Desire</cite> is generally
+       liberating, the world of <cite>Oh, God, Your Babies Are So Delicious!</cite> renders
+       the ears and eyes and their ilk into such profoundly vulnerable sieves
+        that bodily harm seems an intrinsic facet of a more general doom.
+        <br/>
+        <br/>
+       In the story “The Baby,” for instance, an adult relates the play-by-play
+       of prepping an infant as a matter of culinary necessity. Within the narrative
+       there is zero question about the feasibility—let alone the ethics—of eating
+       a child. In fact, the narrator crosses a supplementary threshold of the
+       grotesque by imbuing the act with no small sense of aesthetic glory.
+       “I begin to peel the baby’s skin,” the narrator states, with a characteristically
+       perverse pedestrian tone. “The baby doesn’t scream when I place the blade on her.
+       This does not surprise me […] I love how smooth she whispers her skin
+       out from her flesh. She is throbbing with orange hues. So naked and vulnerable.”
+        <br/>
+        <br/>
+       This sense of everyday brutality is pushed to yet further organically profane
+       extremes by the way that <cite>Oh, God, Your Babies Are So Delicious!</cite>
+       often imbues inanimate objects—modern machines, frequently—with sentience
+       and even desire. One story is dramatically hinged upon a living breathing
+       (even boredom-capable) Xerox machine, say, self-conscious of its own obligatory
+       power of reproduction. Likewise, another fiction has a sexualized vending machine
+       serving not merely as a stock sci-fi sort of supra-corporeal substitute for
+        bodily need, but instead quite literally incorporating—and yet again in
+        the way of horrifically casual practicality—the bodies of nine women.
+        <br/>
+        <br/>
+        Perhaps the eeriest proof of Nao’s uncanny capacity for creating syntaxes
+        of corporeal conjugation however occurs in the story “Three Hours.” A
+        sparely-personed yet astonishingly intense sort of word-map of a domestic-
+        space-become-body-of-suicide-inclusive-water, the narrative depicts a setting
+        wherein a “doorknob breathes unhumanly” and where “doorframes are very sexual,”
+        and where the emotive capacities of objects appear to have generally eclipsed
+        our own dynamism of sentiment. Indeed, when hyper- (and very much pre-digital)
+        interconnectedness is a matter of seething self-consciousness, even bleh
+        units of the built world come to seem vigorously vulnerable. “Near the roof,”
+        Nao writes, “a skylight implodes into the mental state of the garret. A window
+        below with white frame and gray trimming elevates its untelevised, electromagnetic
+        sexuality into pre-launching positions. Dusk is making the sky descend.
+        The silence is so military.” Here, as throughout the book, Vi Khi Nao gains
+        terrifyingly assured torque via the wont to depict, as it were, not only
+        the deliriously organic and reality-ridden singular tree, but also the trees
+        comprising even seemingly unassuming phenomenological dynamics in such a way
+        as to recreate—as if via secret byways between words and the senses—the
+        root-networked and perversely pragmatic forests constituting much of modern “reality.”
+        <br/>
+        <br/>
+        <pre className={styles.standardProseSectionBreak}>{` —  —  —  —  —  — `}</pre>
+
        </article>
 
 
