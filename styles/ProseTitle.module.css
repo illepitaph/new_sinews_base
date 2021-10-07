@@ -1,0 +1,11 @@
+.proseTitle {
+  font-family:"lores-9-plus-wide";
+  font-size:2rem;
+  font-weight:700;
+  font-style:italic;
+  text-align:left;
+  text-transform:lowercase;
+  letter-spacing:-0.02rem;
+  line-height:1.4em;
+  margin:7vh 0 7vh 7vw;
+}

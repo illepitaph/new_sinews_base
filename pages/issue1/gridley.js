@@ -2,6 +2,8 @@ import Head from 'next/head'
 import Image from 'next/image'
 import Link from 'next/link'
 import Header from '../../components/header.js'
+import AuthorName from '../../components/authorName.js'
+import CompositionTitle from '../../components/compositionTitle.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Gridley.module.css'
 
@@ -17,10 +19,10 @@ export default function Romanosky() {
 
           <body>
 
-          <Header/>
+          <Header headerBackground="gridleyBackground"/>
 
-          <p className={styles.authorName}>sarah gridley</p>
-          <p className={styles.compositionTitle}>four poems</p>
+          <AuthorName authorName="sarah gridley"/>
+          <CompositionTitle compositionTitle="four poems"/>
           <p className={styles.poemTitle}>Do No Harm</p>
           <pre className={styles.standardLineation}>{`
       As if the bird were not

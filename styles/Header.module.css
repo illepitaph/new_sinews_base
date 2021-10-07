@@ -1,13 +1,24 @@
-.sitebarContainerEisen {
+.siteBarContainer {
   height:61vh;
   width:100%;
-  background-image:url("../public/images/EisenMartinHeader.jpg");
-  background-repeat:no-repeat;
-  background-size:cover;
   background-position:38% 60%;
+  background-size:cover;
+  background-repeat:no-repeat;
   background-attachment:fixed;
   font-size:1rem;
   overflow:visible;
+}
+
+.blackwellBackground {
+  background-image:url("../public/images/BlackwellHeader.jpg");
+}
+
+.eisenBackground {
+  background-image:url("../public/images/EisenMartinHeader.jpg");
+}
+
+.gridleyBackground {
+  background-image:url("../public/images/GridleyBackground.jpg");
 }
 
 .siteBarContainerAbout {

@@ -4,8 +4,7 @@ import styles from '../styles/Header.module.css'
 
 export default function Header(props) {
   return (
-    //<header className={styles.siteBarContainer} style={{backgroundImage=`url(${props.sitebarStructure})`}}>
-    <header className={styles.siteBarContainer} >
+  <header className={`${styles.siteBarContainer} ${styles[props.headerBackground]}`}>
   <div className={styles.iconPlusSitebar}>
   <a href="https://newnewsinews.com"></a>
   <nav className={styles.siteNav}>

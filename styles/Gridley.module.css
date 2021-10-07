@@ -1,15 +1,3 @@
-.authorName {
-  max-width:70vw;
-  margin: 19vh 0 7vh 9vw;
-  font-family:"lores-9-plus-wide-bold-alt";
-  color:#b0b0b0;
-  opacity: 1;
-  font-size:2.7rem;
-  font-weight:400;
-  text-align:left;
-  text-transform:lowercase;
-}
-
 .compositionTitle {
   max-width:70vw;
   margin: 19vh 0 11vh 9vw;

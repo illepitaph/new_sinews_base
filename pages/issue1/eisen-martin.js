@@ -18,7 +18,7 @@ export default function Eisen_Martin() {
 
       <body>
 
-      <Header sitebarStructure={"EisenMartinHeader.jpg"}/>
+      <Header headerBackground="eisenBackground"/>
 
 <main>
 

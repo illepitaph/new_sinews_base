@@ -134,7 +134,7 @@ export default function EvenFlesh() {
        root-networked and perversely pragmatic forests constituting much of modern “reality.”
        <br className={styles.proseAerator}/>
        <br className={styles.proseAerator}/>
-       <pre className={styles.standardProseSectionBreak}>{` —  —  —  —  —  — `}</pre>
+       <p className={styles.standardProseSectionBreak}>{` —  —  —  —  —  — `}</p>
        <br className={styles.proseAerator}/>
        <br className={styles.proseAerator}/>
        Building imaginative worlds whose radiance both stems from and rivals that of our

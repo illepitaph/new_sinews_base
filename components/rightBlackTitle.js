@@ -1,9 +1,9 @@
 import Image from 'next/image'
 import Link from 'next/link'
-import styles from '../styles/AuthorName.module.css'
+import styles from '../styles/RightBlackTitle.module.css'
 
 export default function AuthorName(props) {
   return (
-    <p className={styles.authorName}>{props.authorName}</p>
+    <p className={styles.rightBlackTitle}>{props.title}</p>
   );
 }
