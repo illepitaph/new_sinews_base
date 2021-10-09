@@ -4,6 +4,6 @@ import styles from '../styles/StandardProse.module.css'
 
 export default function StandardProse(props) {
   return (
-    <p className={styles.standardProse}>{props.proseContent}</p>
+    <article className={styles.standardProse}>{props.children}</article>
   );
 }

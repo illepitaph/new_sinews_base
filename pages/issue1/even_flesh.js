@@ -2,6 +2,9 @@ import Head from 'next/head'
 import Image from 'next/image'
 import Link from 'next/link'
 import Header from '../../components/header.js'
+import CenterGrayTitle from '../../components/CenterGrayTitle.js'
+import CenterBlackTitle from '../../components/CenterBlackTitle.js'
+import StandardProse from '../../components/standardProse.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/EvenFlesh.module.css'
 
@@ -19,23 +22,22 @@ export default function EvenFlesh() {
 
        <Header/>
 
-       <p className={styles.compositionTitle}>even flesh seems a formality</p>
-       <p className={styles.proseTitle}>or: Vi Khi Nao’s organic oscillations</p>
+       <CenterGrayTitle title="even flesh seems a formality"/>
+       <CenterBlackTitle title="or: Vi Khi Nao’s organic oscillations"/>
 
-       <article className={styles.standardProse}>
-       <br className={styles.proseAerator}/>
-       <span className={styles.authorItalic}>—Steve Barbaro</span>
-       <br className={styles.proseAerator}/>
-       <br className={styles.proseAerator}/>
-       How might the partakers of cynically sensible deeds be freed in the very
+
+       <br/>
+       <br/>
+       <StandardProse>
+       "How might the partakers of cynically sensible deeds be freed in the very
        course of their yielding? “The virtue of ecstasy robs reality of its
        synthetic robes,” Vi Khi Nao answers by way of her first book, <cite> The
        Vanishing Point of Desire </cite> (2011). And in this novel-in-roomily-white-spaced-prose,
        the bleh ritual of a two-person interview in a conference
        room is rejigged, via the 1st person narrator’s eros-engined mid-interview
-       reveries, to encapsulate Charles de Gaulle Airport, of all earthly backdrops.
-       <br className={styles.proseAerator}/>
-       <br className={styles.proseAerator}/>
+       reveries, to encapsulate Charles de Gaulle Airport, of all earthly backdrops."
+       <br/>
+       <br/>
        As if said hub of hubbub might indeed prove a kind of ideal destination,
        the interview-ensconced interviewer-narrator recurrently muses—so as to
        ground the novel in an escape-dense space—upon “the city made of arrivals
@@ -50,8 +52,8 @@ export default function EvenFlesh() {
        manifests as a sensorium where incompatible-seeming entities perched at not
        inconsiderable removes attain astonishingly urgent correspondence, up to and
        including “the torment or equanimity they must feel having to exist with one another.”
-       <br className={styles.proseAerator}/>
-       <br className={styles.proseAerator}/>
+       <br/>
+       <br/>
        In the seven-some years since <cite> The Vanishing Point of Desire</cite>,
        Vi Khi Nao has persisted to chart a singularly protean course through seven-plus
        books of poems and prose, with the latter’s component pieces often mixing the lyric,
@@ -65,8 +67,8 @@ export default function EvenFlesh() {
        pondering the consistency of space in Nao’s punchily dexterous, poem-speckled
        fiction collection, <cite> Oh, God, Your Babies Are So Delicious! </cite> (2015,
        Per Second Press).
-       <br className={styles.proseAerator}/>
-       <br className={styles.proseAerator}/>
+       <br/>
+       <br/>
        A profanely diffuse cosmos wherein the wedding of piety and conventionality
        births brisk breeds of everyday extremity, <cite> Oh, God, Your Babies Are So Delicious! </cite>
        conjures characters who are as self-subvertingly proverbial as a home invasion
@@ -80,8 +82,8 @@ export default function EvenFlesh() {
        of these characters, each story seems part and parcel of a kind of post-intellect
        economy of pure body to which each character—with terrifying gradations of
        credulity—succumbs, as if as a matter of fate.
-       <br className={styles.proseAerator}/>
-       <br className={styles.proseAerator}/>
+       <br/>
+       <br/>
        The daughter-narrator of “On Flesh (or, Propulsion)” for instance details
        the atavistic sensorial invasion she feels upon hearing her mother screaming
        after being pierced by a sewing needle. “Sonic flesh has none,” Nao writes,
@@ -90,8 +92,8 @@ export default function EvenFlesh() {
        liberating, the world of <cite> Oh, God, Your Babies Are So Delicious! </cite> renders
        the ears and eyes and their ilk into such profoundly vulnerable sieves
        that bodily harm seems an intrinsic facet of a more general doom.
-       <br className={styles.proseAerator}/>
-       <br className={styles.proseAerator}/>
+       <br/>
+       <br/>
        In the story “The Baby,” for instance, an adult relates the play-by-play
        of prepping an infant as a matter of culinary necessity. Within the narrative
        there is zero question about the feasibility—let alone the ethics—of eating
@@ -101,8 +103,8 @@ export default function EvenFlesh() {
        perverse pedestrian tone. “The baby doesn’t scream when I place the blade on her.
        This does not surprise me […] I love how smooth she whispers her skin
        out from her flesh. She is throbbing with orange hues. So naked and vulnerable.”
-       <br className={styles.proseAerator}/>
-       <br className={styles.proseAerator}/>
+       <br/>
+       <br/>
        This sense of everyday brutality is pushed to yet further organically profane
        extremes by the way that <cite> Oh, God, Your Babies Are So Delicious! </cite>
        often imbues inanimate objects—modern machines, frequently—with sentience
@@ -112,8 +114,8 @@ export default function EvenFlesh() {
        serving not merely as a stock sci-fi sort of supra-corporeal substitute for
        bodily need, but instead quite literally incorporating—and yet again in
        the way of horrifically casual practicality—the bodies of nine women.
-       <br className={styles.proseAerator}/>
-       <br className={styles.proseAerator}/>
+       <br/>
+       <br/>
        Perhaps the eeriest proof of Nao’s uncanny capacity for creating syntaxes
        of corporeal conjugation however occurs in the story “Three Hours.” A
        sparely-personed yet astonishingly intense sort of word-map of a domestic-
@@ -132,27 +134,27 @@ export default function EvenFlesh() {
        comprising even seemingly unassuming phenomenological dynamics in such a way
        as to recreate—as if via secret byways between words and the senses—the
        root-networked and perversely pragmatic forests constituting much of modern “reality.”
-       <br className={styles.proseAerator}/>
-       <br className={styles.proseAerator}/>
+       <br/>
+       <br/>
        <p className={styles.standardProseSectionBreak}>{` —  —  —  —  —  — `}</p>
-       <br className={styles.proseAerator}/>
-       <br className={styles.proseAerator}/>
+       <br/>
+       <br/>
        Building imaginative worlds whose radiance both stems from and rivals that of our
        own, Vi Khi Nao has alas not filled some or other literary niche so much as embodied
        an itinerancy whose elasticity is so generative as to subsume genre. And if Nao’s
        practicality-jabbing fits of fancy run the risk of verging into aloofness—the
        contradictory-seeming boast by the vehement Realist painter Gustave Courbet that
        he even makes stones think comes to mind—Nao’s recent work serves as model rebuttal.
-       <br className={styles.proseAerator}/>
-       <br className={styles.proseAerator}/>
+       <br/>
+       <br/>
        See for instance the errantly erudite fiction collection <cite> A Brief Alphabet of
        Torture </cite> (2017, FC2), where Nao’s uncompromising shifts of register prove not
        at all ill-fitted for prodding topics such as the war in Syria, suicide bombers,
        and the state-sponsored torture invoked by the title-story. Or otherwise peruse Nao’s
        cooly perilous collection of poems, <cite> The Old Philosopher </cite> (2016, Nightboat), where
        faith in realism itself seems disturbingly compatible with subservience.
-       <br className={styles.proseAerator}/>
-       <br className={styles.proseAerator}/>
+       <br/>
+       <br/>
        Nao’s most recent collection, <cite>Sheep Machine</cite> (2018, Black Sun Lit) is meanwhile
        her second consecutive book—the first being <cite>Umbilical Hospital</cite> (2017, 1913 Press)—prodding
        Leslie Thornton’s <cite>Sheep Machine</cite>. The latter is a two minute and fifty-two-second-long
@@ -165,8 +167,8 @@ export default function EvenFlesh() {
        while also literally reproducing—with each title devoted to one of the movie’s
        particular seconds, and with the seconds moving in a linear fashion—the majority
        of the frame-by-frame content.
-       <br className={styles.proseAerator}/>
-       <br className={styles.proseAerator}/>
+       <br/>
+       <br/>
        As far as debased pragmatism goes, the wool-bestowing, milk- and meat-granting
        sheep stands as but one of Nao’s oeuvre’s many keen metaphors for the brute reduction
        of organic complexity. A long-time Vi Khi Nao fan of a pessimistic persuasion might
@@ -176,8 +178,8 @@ export default function EvenFlesh() {
        <cite> Sheep Machine </cite> tunnel through Thornton’s own <cite>Sheep Machine </cite>
        until centripetal attention somehow breeds centrifugal musings and “the quotidian
        terrain begins to terrify the lens of perception.”
-       <br className={styles.proseAerator}/>
-       <br className={styles.proseAerator}/>
+       <br/>
+       <br/>
        As duly frenetic as any setting in Nao’s oeuvre, the landscape of <cite> Sheep Machine </cite>
        both hosts and causes action, comments and is commented upon. “Even the grass, calm in a sea
        of sunlight,” the 1:07 mark has it, “can over exhaust our imagination when we don’t prepare
@@ -187,16 +189,16 @@ export default function EvenFlesh() {
        “to overcompensate for its lateral, provincial demeanor with a more ballistic flair,”
        pathos is induced with supra-temporal exuberance, fostering an atmosphere of conjecture
        that is somehow both pre- and hyper-modern.
-       <br className={styles.proseAerator}/>
-       <br className={styles.proseAerator}/>
+       <br/>
+       <br/>
        Amidst the film-turned-poem’s unfolding however, one thing is certain: the narrator’s voice
        roves with weirdly centering élan, at times weirdly personal—musing upon a nephew’s mid-bathroom-
        habit facial expressions, say—and at times studied, such as when Dr. Bhrigupati Singh is
        invoked to provide geo-philosophical contextualization. But if even, as Nao writes at the 1:30
        mark, “the small organic gestures of life emulate the various efforts of modernization,” is
        not the natural world fated for uniform exploitation?
-       <br className={styles.proseAerator}/>
-       <br className={styles.proseAerator}/>
+       <br/>
+       <br/>
        “Most sheep devote their lives to be de-skinned, to be de-wooled,” Nao states as the
        movie-mirroring poem-sequence approaches its own conclusion. “What is the purpose of a human’s
        existence? If not to be breathing on earth, our soul deskinned, de-wooled for ontological
@@ -204,8 +206,8 @@ export default function EvenFlesh() {
        becomes apparent that the systematic nature of Nao’s own ordering principle would, with
        signature dexterity, subsume the very sort of interspecies power that the narrative is
        all the while critiquing.
-      <br className={styles.proseAerator}/>
-      <br className={styles.proseAerator}/>
+      <br/>
+      <br/>
        The wont to simply break down a motion picture into its constituent parts—to return,
        that is to say, a kinesis-dense, stock unit of modern life such as a film to its frame-by-frame
        units of stasis—is itself a fruitfully intrusive stratagem granted extra vigor via the assiduousness
@@ -215,8 +217,8 @@ export default function EvenFlesh() {
        Perhaps the reality ensnaring us—an overarching reality of our own making, legitimized anew
        each day by the cynical acts to which we accede and accede—is ripe for an ameliorating
        flux via our own rejigged will. “I have nothing to say to things,” Vi Khi Nao insists,
-       elucidating a frontier in an otherwise brink-breaching oeuvre, “that appear to be not changing.”
-       </article>
+       elucidating a frontier in an otherwise brink-breaching oeuvre, “that appear to be not changing.
+       </StandardProse>
 
 
     <Footer/>

@@ -2,6 +2,10 @@ import Head from 'next/head'
 import Image from 'next/image'
 import Link from 'next/link'
 import Header from '../../components/header.js'
+import LeftGrayTitle from '../../components/leftGrayTitle.js'
+import LeftBlackTitle from '../../components/leftBlackTitle.js'
+import StandardMiniTitle from '../../components/standardMiniTitle.js'
+import StandardLineation from '../../components/standardLineation.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Romanosky.module.css'
 
@@ -17,12 +21,12 @@ export default function Romanosky() {
 
           <body>
 
-          <Header/>
+          <Header headerBackground="romanoskyBackground"/>
 
-          <p className={styles.authorName}>christa romanosky</p>
-          <p className={styles.compositionTitle}>three poems</p>
-          <p className={styles.poemTitle}>Extinction Opus, No. 16</p>
-          <pre className={styles.standardLineation}>{`
+          <LeftGrayTitle title="christa romanosky"/>
+          <LeftBlackTitle title="three poems"/>
+          <StandardMiniTitle title="Extinction Opus, No. 16"/>
+          <StandardLineation content={`
           The future on stilts now. Corpus
           callosum like a paperclip
           unbent. Co-mingling. They say, “dirty”
@@ -44,68 +48,67 @@ export default function Romanosky() {
           in progress. Forsythia: yellow wands
           to lodge a vase. In this way, nothing
           gets past the parts.
-            `}</pre>
+            `}/>
 
-            <p className={styles.poemTitle}>Extinction Opus, No. 17</p>
-            <pre className={styles.standardLineation}>{`
-            Darning the world—
-            a widening sock. Mahogany axed
-            solitary lash of trap where last
-            saw saola, latitudes
-            like bars or bark that serve
-            relapse. All trumpet, that lover
-            left notes: we are too alike, you
-            might be affected by my
-            moats and such. So thus,
-            goodbye. Cannot lay
-            blame. Need him a destroyer
-            not an empty dress. Live-snare,
-            electrical bolts. Habitat
-            sold, you spread
-            like sumac, mate with
-            one eye
-            open. Cast spells. Eye of newt
-            and forest vat. Bare
-            as veal in pens. Your past
-            catches, latches on.
-              `}</pre>
+          <StandardMiniTitle title="Extinction Opus, No. 17"/>
+          <StandardLineation content={`
+          Darning the world—
+          a widening sock. Mahogany axed
+          solitary lash of trap where last
+          saw saola, latitudes
+          like bars or bark that serve
+          relapse. All trumpet, that lover
+          left notes: we are too alike, you
+          might be affected by my
+          moats and such. So thus,
+          goodbye. Cannot lay
+          blame. Need him a destroyer
+          not an empty dress. Live-snare,
+          electrical bolts. Habitat
+          sold, you spread
+          like sumac, mate with
+          one eye
+          open. Cast spells. Eye of newt
+          and forest vat. Bare
+          as veal in pens. Your past
+          catches, latches on.
+            `}/>
 
-            <p className={styles.poemTitle}>The Woman Who Climbed The Beanstalk</p>
-            <pre className={styles.standardLineation}>{`
-            Sick in June, I started having the dreams again,
-            of the giant, offering his office for me to hide
+          <StandardMiniTitle title="The Woman Who Climbed The Beanstalk"/>
+          <StandardLineation content={`
+          Sick in June, I started having the dreams again,
+          of the giant, offering his office for me to hide
 
-            from some terrible crime I’d done
-            on his behalf. I funneled money
+          from some terrible crime I’d done
+          on his behalf. I funneled money
 
-            out of his mattress, into my mouth. “Hope drinks
-            through a straw,” he said in the dream, nodding.
+          out of his mattress, into my mouth. “Hope drinks
+          through a straw,” he said in the dream, nodding.
 
-            In 1970, Soviets drilled a hole so deep
-            the core seeped out and turned to birds, slick
+          In 1970, Soviets drilled a hole so deep
+          the core seeped out and turned to birds, slick
 
-            magenta flock. I was wingless at thirty. I said,
-            crush me, demolish me, do something. The roundup
+          magenta flock. I was wingless at thirty. I said,
+          crush me, demolish me, do something. The roundup
 
-            won’t fit down my throat. Will I go sterile
-            from the tap water alone? Will the pesticides turn me on?
+          won’t fit down my throat. Will I go sterile
+          from the tap water alone? Will the pesticides turn me on?
 
-            My hair is full of drug history and Vidal Sassoon.
-            My sinuses have violins sticking out.
+          My hair is full of drug history and Vidal Sassoon.
+          My sinuses have violins sticking out.
 
-            Even when I woke, I wasn’t sure
-            what I was fleeing from. When the sun gives up,
+          Even when I woke, I wasn’t sure
+          what I was fleeing from. When the sun gives up,
 
-            we’ll still arabesque for eight minutes, unaware. The doctors ask,
-            “Still Vitamin C, still ibuprofen, probiotic,
+          we’ll still arabesque for eight minutes, unaware. The doctors ask,
+          “Still Vitamin C, still ibuprofen, probiotic,
 
-            nasal spray, antihistamine, zinc?” The giant
-            orders octopus, arugula, flatbread, coke. My inner throat
+          nasal spray, antihistamine, zinc?” The giant
+          orders octopus, arugula, flatbread, coke. My inner throat
 
-            has a homunculus. I pickled a harmonica. I wanted
-            the music to outlive the dream.
-              `}
-            </pre>
+          has a homunculus. I pickled a harmonica. I wanted
+          the music to outlive the dream.
+              `}/>
 
           <Footer/>
 

@@ -46,17 +46,6 @@
   letter-spacing:1.5px;
 }
 
-.authorName {
-  font-family:"lores-9-plus-wide-bold-alt";
-  color:#b0b0b0;
-  opacity: 1;
-  font-size:2.7rem;
-  font-weight:400;
-  text-align:center;
-  text-transform:lowercase;
-  margin: 19vh 0 9vh 0;
-}
-
 .compositionTitle {
   font-family:"lores-9-plus-wide";
   font-size:2rem;
@@ -67,10 +56,6 @@
   letter-spacing:-0.02rem;
   line-height:1.4em;
   margin-bottom:7vh;
-}
-
-.authorName::before, .authorName::after {
-  content:"::";
 }
 
 .compositionTitle::before, .compositionTitle::after {

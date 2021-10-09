@@ -42,36 +42,48 @@ export default function Home() {
             </section>
 
             <section className={styles.middle}>
-            <pre className={styles.marquee}>{`
 
       <span className={styles.lightTypeface}>new sinews</span>
-
+      <br/>
+      <br/>
       <span className={styles.darkTypeface}>late empire new writing</span>
-
+      <br/>
+      <br/>
       <span className={styles.lightTypeface}>issue four</span>
-
+      <br/>
+      <br/>
       <span className={styles.darkTypeface}>featuring</span>
-
+      <br/>
+      <br/>
       <span className={styles.lightTypeface}>brandon shimoda
-
+      <br/>
+      <br/>
       k-ming chang
-
+      <br/>
+      <br/>
       evan isoline
-
+      <br/>
+      <br/>
       christa romanosky
-
+      <br/>
+      <br/>
       gabriel palacios
-
+      <br/>
+      <br/>
       allison hummel
-
+      <br/>
+      <br/>
       mike corrao
-
+      <br/>
+      <br/>
       vi khi nao
-
+      <br/>
+      <br/>
       grant maierhofer
-       </span>
+      <br/>
+      <br/>
+           </span>
       <span className={styles.darkTypefaceSpecial}>now showing</span>
-      `}</pre>
 
               </section>
               <section className={styles.bottom}>

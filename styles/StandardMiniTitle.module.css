@@ -1,0 +1,11 @@
+.standardMiniTitle {
+  font-family: "astoria-sans-medium-condensed", sans-serif;
+  font-weight: 600;
+  font-style: italic;
+  font-size:1.2rem;
+  text-align:center;
+  text-transform: uppercase;
+  letter-spacing:0.4rem;
+  line-height:1.4em;
+  margin-top:15vh;
+}
