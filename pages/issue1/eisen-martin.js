@@ -3,7 +3,6 @@ import Image from 'next/image'
 import Link from 'next/link'
 import Header from '../../components/header.js'
 import CenterGrayTitle from '../../components/centerGrayTitle.js'
-import LeftJustifiedLineationBlock from '../../components/leftJustifiedLineationBlock.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Eisenmartin.module.css'
 
@@ -27,9 +26,9 @@ export default function Eisen_Martin() {
 <p className={styles.compositionTitle}>fish with<br/>ambition to become<br/>the river</p>
 
 <div className={styles.poem}>
-<LeftJustifiedLineationBlock content="I looked in my bank account"/>
-<LeftJustifiedLineationBlock content={`It said,“you have five toilets to your name."
-                          It said, “don’t just sit there. Return fire.`}/>
+<p className={styles.leftJustified}>I looked in my bank account</p>
+<p className={styles.leftJustified}>It said,“you have five toilets to your name."<br/>
+                          It said, “don’t just sit there. Return fire."</p>
 <p className={styles.leftJustified}>Talking head says, “go to sleep children. You will all be police tomorrow.”</p>
 <p className={styles.leftJustified}>We say: No. We will be the poor.</p>
 <p className={styles.leftJustified}>Talking head says, “ok scumbags, I talked to you like children; now you will be dogs”</p>

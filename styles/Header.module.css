@@ -25,6 +25,10 @@
   background-image:url("../public/images/RomanoskyBackground.jpg");
 }
 
+.naoBackground {
+  background-image:url("../public/images/NaoBackground.jpg");
+}
+
 .siteBarContainerAbout {
   height:65vh;
   background-image:url("../public/images/LineNewSinew.jpg");
