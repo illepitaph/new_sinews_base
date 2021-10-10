@@ -29,6 +29,14 @@
   background-image:url("../public/images/NaoBackground.jpg");
 }
 
+.brianteBackground {
+  background-image:url("../public/images/BrianteBackground.jpg");
+}
+
+.corraoBackground {
+  background-image:url("../public/images/CorraoBackground.jpg");
+}
+
 .siteBarContainerAbout {
   height:65vh;
   background-image:url("../public/images/LineNewSinew.jpg");
