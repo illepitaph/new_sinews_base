@@ -3,7 +3,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 import styles from '../../styles/Issue1.module.css'
 
-export default function issue1() {
+export default function Issue1() {
   return (
     <div classNameName={styles.container}>
     <html className={styles.fullPageBackground}>

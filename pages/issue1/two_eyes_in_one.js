@@ -25,19 +25,19 @@ export default function TwoEyesInOneEye() {
 
  <div class="mySlides fade">
    <div class="numbertext">1 / 3</div>
-   <img src="img1.jpg" style="width:100%"/>
+   <img src="Nao0.jpg"/>
    <div class="text">Caption Text</div>
  </div>
 
  <div class="mySlides fade">
    <div class="numbertext">2 / 3</div>
-   <img src="img2.jpg" style="width:100%"/>
+   <img src="Nao1.jpg"/>
    <div class="text">Caption Two</div>
  </div>
 
  <div class="mySlides fade">
    <div class="numbertext">3 / 3</div>
-   <img src="img3.jpg" style="width:100%"/>
+   <img src="Nao2.jpg"/>
    <div class="text">Caption Three</div>
  </div>
 
@@ -48,7 +48,7 @@ export default function TwoEyesInOneEye() {
 <br/>
 
 
-<div style="text-align:center">
+<div>
  <span class="dot" onclick="currentSlide(1)"></span>
  <span class="dot" onclick="currentSlide(2)"></span>
  <span class="dot" onclick="currentSlide(3)"></span>
