@@ -7,11 +7,10 @@ import LeftGrayTitle from '../../components/leftGrayTitle.js'
 import StandardProse from '../../components/standardProse.js'
 import StandardLineation from '../../components/standardLineation.js'
 import Footer from '../../components/footer.js'
-import styles from '../../styles/Corrao.module.css'
 
 export default function Corrao() {
   return (
-      <div className={styles.container}>
+      <div>
           <Head>
             <title>mike_corrao ~ the_archaelogy_of_virtual_spaces — new_sinews</title>
             <meta charset="utf-8"/>

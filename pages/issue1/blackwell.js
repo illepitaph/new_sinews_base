@@ -10,6 +10,7 @@ import Footer from '../../components/footer.js'
 import styles from '../../styles/Blackwell.module.css'
 
 export default function Blackwell() {
+  console.log("This is Gabriel's page");
   return (
       <div className={styles.container}>
           <Head>

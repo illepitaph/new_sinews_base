@@ -17,8 +17,8 @@ export default function Issue2() {
 
       <body className={styles.pageStructure}>
     <div className={styles.titleAndSubtitle}>
-      <div className={styles.pageTitle}>n<i>e</i>w  _   <span className={styles.inverseColor}>s<i>i</i>n</span>  _  e<i>w</i> s</div>
-      <div className={styles.issue}><span className={styles.inverseColor}>i</span> s <span className={styles.inverseColor}>s</span> u <span className={styles.inverseColor}>e</span>   _   <span className={styles.inverseColor}>2</span></div></div>
+      <div className={styles.pageTitle}>n<i>e</i>w  _   <span className={styles.inverseTitleColor}>s<i>i</i>n</span>  _  e<i>w</i> s</div>
+      <div className={styles.issue}><span className={styles.inverseTitleColor}>i</span> s <span className={styles.inverseTitleColor}>s</span> u <span className={styles.inverseTitleColor}>e</span>   _   <span className={styles.inverseTitleColor}>2</span></div></div>
 
     <div className={styles.issueContents}>
       <div className={styles.col1}>
@@ -37,7 +37,7 @@ export default function Issue2() {
         <a className={styles.workLink} href="">adam strauss_five poems</a>
       </div>
       <div className={styles.col1}>
-        <a className={styles.workLink} href="">brandon shimoda_brandon shimoda_excerpts from ‘tomb model of a noble’s house’</a>
+        <a className={styles.workLink} href="">brandon shimoda_excerpts from ‘tomb model of a noble’s house’</a>
       </div>
       <div className={styles.col2}>
         <a className={styles.workLink} href="">mike corrao_the archaeology of virtual spaces</a>
@@ -57,7 +57,7 @@ export default function Issue2() {
         </a>
       </div>
       <div className={styles.col2}>
-        <a className={styles.workLink} href="">~~~ cont ri bu tor b  i  os ~~~</a>
+        <a className={styles.workLink} href="">~~~ contri butor_ _ _b  i  os ~~~</a>
       </div>
 
       <div className={styles.siteShortcuts}>

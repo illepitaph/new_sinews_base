@@ -42,7 +42,7 @@
   margin-left:15px;
 }
 
-.inverseColor {
+.inverseTitleColor {
   color: snow;
   text-shadow: 6px 4px #6b6b6b;
 }
@@ -81,17 +81,23 @@
 
 .workLink {
   position: relative;
-  font-family: "lores-9-minus-narrow";
+  font-family: "lores-21-serif", sans-serif;
   text-shadow: 6px 4px #6b6b6b;
   position: relative;
   color: white;
-  font-size: 1.4em;
-  text-transform: lowercase;
+  font-size: 1.6em;
+  text-transform: uppercase;
+  letter-spacing:0.3rem;
   cursor: pointer;
 }
 
+.inverseWorkLinkColor {
+  color: #6b6b6b;
+  text-shadow: 2px 1px white;
+}
+
 .workLink:hover {
-  letter-spacing: 0.3rem;
+  letter-spacing: 0.6rem;
   text-shadow: none;
 }
 

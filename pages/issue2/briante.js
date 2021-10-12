@@ -6,11 +6,10 @@ import RightBlackTitle from '../../components/rightBlackTitle.js'
 import LeftGrayTitle from '../../components/leftGrayTitle.js'
 import StandardProse from '../../components/standardProse.js'
 import Footer from '../../components/footer.js'
-import styles from '../../styles/Briante.module.css'
 
 export default function Briante() {
   return (
-      <div className={styles.container}>
+      <div>
           <Head>
             <title>susan_briante ~ two_poems — new_sinews</title>
             <meta charset="utf-8"/>
