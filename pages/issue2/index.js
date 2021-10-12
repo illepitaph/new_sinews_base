@@ -16,11 +16,11 @@ export default function Issue2() {
       </Head>
 
       <body className={styles.pageStructure}>
-
+    <div className={styles.titleAndSubtitle}>
       <div className={styles.pageTitle}>n<i>e</i>w  _   <span className={styles.inverseColor}>s<i>i</i>n</span>  _  e<i>w</i> s</div>
+      <div className={styles.issue}><span className={styles.inverseColor}>i</span> s <span className={styles.inverseColor}>s</span> u <span className={styles.inverseColor}>e</span>   _   <span className={styles.inverseColor}>2</span></div></div>
 
     <div className={styles.issueContents}>
-      <div className={styles.issue}><span className={styles.inverseColor}>i</span> s <span className={styles.inverseColor}>s</span> u <span className={styles.inverseColor}>e</span>   _   <span className={styles.inverseColor}>2</span></div>
       <div className={styles.col1}>
         <a className={styles.workLink} href="">susan briante_two poems</a>
       </div>
@@ -28,20 +28,36 @@ export default function Issue2() {
         <a className={styles.workLink} href="">felicia zamora_selections from 'quotient'</a>
       </div>
       <div className={styles.col1}>
-        <a className={styles.workLink} href="">christa romanosky_three poems</a>
+        <a className={styles.workLink} href="">sam taylor_five poems</a>
+      </div>
+      <div className={styles.col1}>
+        <a className={styles.workLink} href="">rebecca ariel porte_some portraits of persons as imaginary cities</a>
+      </div>
+      <div className={styles.col1}>
+        <a className={styles.workLink} href="">adam strauss_five poems</a>
+      </div>
+      <div className={styles.col1}>
+        <a className={styles.workLink} href="">brandon shimoda_brandon shimoda_excerpts from ‘tomb model of a noble’s house’</a>
       </div>
       <div className={styles.col2}>
         <a className={styles.workLink} href="">mike corrao_the archaeology of virtual spaces</a>
       </div>
       <div className={styles.col2}>
-        <a className={styles.workLink} href="">vi khi nao_2 eyes in 1 eye: a delirium</a>
+        <a className={styles.workLink} href="">susan lewis_two poems</a>
+      </div>
+      <div className={styles.col2}>
+        <a className={styles.workLink} href="">babak lakghomi_two stories</a>
+      </div>
+      <div className={styles.col2}>
+        <a className={styles.workLink} href="">vi khi nao_le yeaste</a>
       </div>
       <div className={styles.col2}>
         <a className={styles.workLink} href=""
-        >even flesh seems a formality<br/>or: vi khi nao's organic
-          oscillations
+        >saluting a hex of gangrenous sky<br/>or: brandon shimoda's ritual inversions
         </a>
-        <a className={styles.workLink} href="">~~~b  i  os ~~~</a>
+      </div>
+      <div className={styles.col2}>
+        <a className={styles.workLink} href="">~~~ cont ri bu tor b  i  os ~~~</a>
       </div>
 
       <div className={styles.siteShortcuts}>
