@@ -37,6 +37,10 @@
   background-image:url("../public/images/CorraoBackground.jpg");
 }
 
+.zamoraBackground {
+  background-image:url("../public/images/ZamoraBackground.jpg");
+}
+
 .siteBarContainerAbout {
   height:65vh;
   background-image:url("../public/images/LineNewSinew.jpg");

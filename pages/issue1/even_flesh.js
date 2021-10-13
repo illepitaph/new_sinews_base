@@ -217,7 +217,7 @@ export default function EvenFlesh() {
        Perhaps the reality ensnaring us—an overarching reality of our own making, legitimized anew
        each day by the cynical acts to which we accede and accede—is ripe for an ameliorating
        flux via our own rejigged will. “I have nothing to say to things,” Vi Khi Nao insists,
-       elucidating a frontier in an otherwise brink-breaching oeuvre, “that appear to be not changing.
+       elucidating a frontier in an otherwise brink-breaching oeuvre, “that appear to be not changing."
        </StandardProse>
 
 
