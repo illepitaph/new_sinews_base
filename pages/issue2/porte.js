@@ -23,6 +23,7 @@ export default function Porte() {
        <Header headerBackground="porteBackground"/>
 
  <CenterGrayTitle><h3>portraits of some persons<br/>as imaginary cities</h3></CenterGrayTitle>
+ <RightBlackTitle><h3> ...rebecca ... </h3><h3> ... ariel ... </h3><h3> ... porte ... </h3></RightBlackTitle>
 
        <Footer/>
              </body>

@@ -7,12 +7,11 @@ import CenterGrayTitle from '../../components/centerGrayTitle.js'
 import LeftBlackTitle from '../../components/leftBlackTitle.js'
 import StandardProse from '../../components/standardProse.js'
 import Footer from '../../components/footer.js'
-import styles from '../../styles/Blackwell.module.css'
 
 export default function Blackwell() {
   console.log("This is Gabriel's page");
   return (
-      <div className={styles.container}>
+      <div>
           <Head>
             <title>gabriel_blackwell ~ two_stories — new_sinews</title>
             <meta charset="utf-8"/>
@@ -27,7 +26,7 @@ export default function Blackwell() {
 
        <RightBlackTitle><h3> ... gabriel ... </h3><h3> ... blackwell ... </h3></RightBlackTitle>
        <CenterGrayTitle><h3>two stories</h3></CenterGrayTitle>
-       <LeftBlackTitle><span className={styles.storyTitles}><h3>scenery</h3></span></LeftBlackTitle>
+       <LeftBlackTitle><span style={{fontStyle:"italic"}}><h3>scenery</h3></span></LeftBlackTitle>
        <StandardProse> Kierkegaard attributes a memory to Johannes Climacus
        (in the introduction to the book of the same name) that could well have
        been his own: as a boy, Johannes asked his father to please allow him to go
@@ -57,7 +56,7 @@ export default function Blackwell() {
        these “walks.” And yet still the boy could never be allowed outside.
        This, and only this, was prevented him.
        </StandardProse>
-       <LeftBlackTitle><span className={styles.storyTitles}><h3>bedtime</h3></span></LeftBlackTitle>
+       <LeftBlackTitle><span style={{fontStyle:"italic"}}><h3>bedtime</h3></span></LeftBlackTitle>
        <StandardProse> I told my son a disappointing story, a story, he said, that
        was no good. That wasn’t very good, he said, deadly serious and not at
        all tired. Not that I had so much invested in this story, but I wasn’t

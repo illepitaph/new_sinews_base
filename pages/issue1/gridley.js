@@ -7,11 +7,10 @@ import CenterGrayTitle from '../../components/CenterGrayTitle.js'
 import StandardMiniTitle from '../../components/standardMiniTitle.js'
 import StandardLineation from '../../components/standardLineation.js'
 import Footer from '../../components/footer.js'
-import styles from '../../styles/Gridley.module.css'
 
-export default function Romanosky() {
+export default function Gridley() {
   return (
-      <div className={styles.container}>
+      <div>
           <Head>
             <title>sarah_gridley ~ four_poems — new_sinews</title>
             <meta charset="utf-8"/>
