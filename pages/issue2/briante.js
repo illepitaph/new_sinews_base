@@ -22,8 +22,8 @@ export default function Briante() {
 
        <Header headerBackground="brianteBackground"/>
 
-       <RightBlackTitle title=" ... susan ... briante ... "/>
-       <LeftGrayTitle title="may day"/>
+       <RightBlackTitle><h3> ... susan ... briante ... </h3></RightBlackTitle>
+       <LeftGrayTitle><h3>may day</h3></LeftGrayTitle>
        <StandardProse> And I think about the beautiful production, the general strike,
        the poem before a poem, and I wonder if the riot thinks.
        <br/>
@@ -56,7 +56,7 @@ export default function Briante() {
        poem. Clover may be crushed under feet or freed from all obligation to feed
        a blossom-clad riot, a season of flower and hunger out of which we step.
        </StandardProse>
-       <LeftGrayTitle title="gallery walls"/>
+       <LeftGrayTitle><h3>gallery walls</h3></LeftGrayTitle>
        <StandardProse>
        Women wash in the ruins of a stone house. A child cups water from a stream
        to lift into an infant’s mouth. In the Pablo Picasso museum, I look at

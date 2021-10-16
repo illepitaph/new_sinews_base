@@ -23,8 +23,8 @@ export default function Corrao() {
 
        <Header headerBackground="corraoBackground"/>
 
-       <LeftGrayTitle title="the archaeology of virtual spaces"/>
-       <RightBlackTitle title="... mike ... corrao ..."/>
+       <LeftGrayTitle><h3>the archaeology of virtual spaces</h3></LeftGrayTitle>
+       <RightBlackTitle><h3> ... mike ... corrao ... </h3></RightBlackTitle>
        <StandardProse>
        <br/>
        <br/>

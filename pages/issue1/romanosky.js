@@ -23,8 +23,8 @@ export default function Romanosky() {
 
           <Header headerBackground="romanoskyBackground"/>
 
-          <LeftGrayTitle title="christa romanosky"/>
-          <LeftBlackTitle title="three poems"/>
+          <LeftGrayTitle><h3>christa romanosky</h3></LeftGrayTitle>
+          <LeftBlackTitle><h3>three poems</h3></LeftBlackTitle>
           <StandardMiniTitle title="Extinction Opus, No. 16"/>
           <StandardLineation content={`
           The future on stilts now. Corpus

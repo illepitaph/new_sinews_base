@@ -4,6 +4,6 @@ import styles from '../styles/CenterGrayTitle.module.css'
 
 export default function CenterGrayTitle(props) {
   return (
-    <p className={styles.centerGrayTitle}>{props.title}</p>
+    <p className={styles.centerGrayTitle}>{props.children}</p>
   )
 }

@@ -1,0 +1,15 @@
+.carousel {
+  width:60vw;
+  height:70vh;
+  margin-top:15vh;
+  background:#fcd667;
+}
+
+.carouselInner {
+  display:flex;
+  background-size: cover;
+  background-position:center;
+  background-repeat:no-repeat;
+  width:100%;
+  height:100%;
+}

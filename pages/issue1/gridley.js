@@ -24,8 +24,8 @@ export default function Romanosky() {
 
           <Header headerBackground="gridleyBackground"/>
 
-          <RightBlackTitle title="sarah gridley"/>
-          <CenterGrayTitle title="four poems"/>
+          <RightBlackTitle><h3>sarah gridley</h3></RightBlackTitle>
+          <CenterGrayTitle><h3>four poems</h3></CenterGrayTitle>
           <StandardMiniTitle title="Do No Harm"/>
           <StandardLineation content={`
       As if the bird were not

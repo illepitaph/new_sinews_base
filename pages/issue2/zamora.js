@@ -3,10 +3,49 @@ import Image from 'next/image'
 import Link from 'next/link'
 import Header from '../../components/header.js'
 import Footer from '../../components/footer.js'
-import SlideShow from '../../components/slideshow.js'
 import styles from '../../styles/Zamora.module.css'
+import React, {useState} from 'react'
+
+import Zamora0 from "../../public/images/Zamora0.png"
+import Zamora1 from "../../public/images/Zamora1.png"
+import Zamora2 from "../../public/images/Zamora2.png"
+import Zamora3 from "../../public/images/Zamora3.png"
+import Zamora4 from "../../public/images/Zamora4.png"
+import Zamora5 from "../../public/images/Zamora5.png"
+import Zamora6 from "../../public/images/Zamora6.png"
+
 
 export default function Zamora() {
+
+    const textPics = [
+      {
+        image: "../../public/images/Zamora0.png"
+      },
+
+      {
+        image: "../../public/images/Zamora1.png"
+      },
+
+      {
+        image: "../../public/images/Zamora2.png"
+      },
+    ];
+
+    const imageSlider = () => {
+      const [current, setCurrent] = useState(0);
+      const length = textPics.length;
+
+      return (
+        <section className={styles.slider}>
+          <a className={styles.prev} onClick={prevSlide}>&#10094;</a>
+          <a className={styles.next} onClick={nextSlide}>&#10095;</a>
+        {textPics.map((slide, index) => {
+          return <img className={styles.pic} src={textPics.image} alt="travel image" />;
+        })}
+        </section>
+      );
+    }
+
   return (
       <div className={styles.container}>
           <Head>
@@ -20,13 +59,72 @@ export default function Zamora() {
 
           <Header headerBackground="zamoraBackground"/>
 
-          <SlideShow/>
+          <section className={styles.slideshowContainer}>
+            <a className={styles.prev}>&#10094;</a>
+            <a className={styles.next}>&#10095;</a>
+
+      <div className={styles.mySlides}>
+  <div class="numbertext">1 / 7</div>
+        <Image src={Zamora0}/>
+  <div class="text">Caption Text</div>
+</div>
+
+      <div className={styles.mySlides}>
+<div class="numbertext">2 / 7</div>
+  <Image src={Zamora1}/>
+<div class="text">Caption Text</div>
+</div>
+
+      <div className={styles.mySlides}>
+<div class="numbertext">3 / 7</div>
+<Image src={Zamora2}/>
+<div class="text">Caption Text</div>
+</div>
+
+      <div className={styles.mySlides}>
+<div class="numbertext">4 / 7</div>
+<Image src={Zamora3}/>
+<div class="text">Caption Text</div>
+</div>
+
+      <div className={styles.mySlides}>
+<div class="numbertext">5 / 7</div>
+<Image src={Zamora4}/>
+<div class="text">Caption Text</div>
+</div>
+
+      <div className={styles.mySlides}>
+<div class="numbertext">6 / 7</div>
+<Image src={Zamora5}/>
+<div class="text">Caption Text</div>
+</div>
+
+      <div className={styles.mySlides}>
+<div class="numbertext">7 / 7</div>
+<Image src={Zamora6}/>
+<div class="text">Caption Text</div>
+</div>
+
+<br/>
+
+<div className={styles.dotBox}>
+  <span className={styles.dot} onclick="currentSlide(1)"></span>
+   <span className={styles.dot} onclick="currentSlide(2)"></span>
+    <span className={styles.dot} onclick="currentSlide(3)"></span>
+      <span className={styles.dot} onclick="currentSlide(4)"></span>
+        <span className={styles.dot} onclick="currentSlide(5)"></span>
+          <span className={styles.dot} onclick="currentSlide(6)"></span>
+            <span className={styles.dot} onclick="currentSlide(7)"></span>
+</div>
+
+          </section>
+
 
           <Footer/>
 
           </body>
 
-          </div>
+      </div>
 
         )
       }

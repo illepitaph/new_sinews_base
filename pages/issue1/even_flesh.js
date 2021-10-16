@@ -22,8 +22,8 @@ export default function EvenFlesh() {
 
        <Header/>
 
-       <CenterGrayTitle title="even flesh seems a formality"/>
-       <CenterBlackTitle title="or: Vi Khi Nao’s organic oscillations"/>
+       <CenterGrayTitle><h3>even flesh seems a formality</h3></CenterGrayTitle>
+       <CenterBlackTitle><h3>or: Vi Khi Nao’s organic oscillations</h3></CenterBlackTitle>
 
 
        <br/>

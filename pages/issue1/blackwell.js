@@ -25,9 +25,9 @@ export default function Blackwell() {
 
        <Header headerBackground="blackwellBackground"/>
 
-       <RightBlackTitle title=" ... gabriel ... blackwell ... "/>
-       <CenterGrayTitle title="two stories"/>
-       <span className={styles.storyTitles}><LeftBlackTitle title="scenery"/></span>
+       <RightBlackTitle><h3> ... gabriel ... </h3><h3> ... blackwell ... </h3></RightBlackTitle>
+       <CenterGrayTitle><h3>two stories</h3></CenterGrayTitle>
+       <LeftBlackTitle><span className={styles.storyTitles}><h3>scenery</h3></span></LeftBlackTitle>
        <StandardProse> Kierkegaard attributes a memory to Johannes Climacus
        (in the introduction to the book of the same name) that could well have
        been his own: as a boy, Johannes asked his father to please allow him to go
@@ -57,7 +57,7 @@ export default function Blackwell() {
        these “walks.” And yet still the boy could never be allowed outside.
        This, and only this, was prevented him.
        </StandardProse>
-       <span className={styles.storyTitles}><LeftBlackTitle title="bedtime"/></span>
+       <LeftBlackTitle><span className={styles.storyTitles}><h3>bedtime</h3></span></LeftBlackTitle>
        <StandardProse> I told my son a disappointing story, a story, he said, that
        was no good. That wasn’t very good, he said, deadly serious and not at
        all tired. Not that I had so much invested in this story, but I wasn’t

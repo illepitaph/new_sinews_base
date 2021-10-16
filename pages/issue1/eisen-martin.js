@@ -22,7 +22,7 @@ export default function Eisen_Martin() {
 
 <main>
 
-<CenterGrayTitle title=":: tongo :: eisen :: martin ::"/>
+<CenterGrayTitle><h3> :: tongo :: <br/> :: eisen :: <br/> :: martin :: </h3></CenterGrayTitle>
 <p className={styles.compositionTitle}>fish with<br/>ambition to become<br/>the river</p>
 
 <div className={styles.poem}>

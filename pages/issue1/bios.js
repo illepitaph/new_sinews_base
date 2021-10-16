@@ -22,9 +22,9 @@ export default function Issue1Bios() {
 
    <Header/>
 
-   <CenterBlackTitle title="new_sinews"/>
-   <CenterGrayTitle title="issue_one"/>
-   <CenterBlackTitle title="contributors"/>
+   <CenterBlackTitle><h3>new_sinews</h3></CenterBlackTitle>
+   <CenterGrayTitle><h3>issue_one</h3></CenterGrayTitle>
+   <CenterBlackTitle><h3>contributors</h3></CenterBlackTitle>
 
    <StandardProse>
    <br/>

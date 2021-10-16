@@ -4,6 +4,6 @@ import styles from '../styles/LeftBlackTitle.module.css'
 
 export default function LeftBlackTitle(props) {
   return (
-    <p className={styles.leftBlackTitle}>{props.title}</p>
+    <p className={styles.leftBlackTitle}>{props.children}</p>
   );
 }
