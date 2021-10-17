@@ -41,6 +41,10 @@
   background-image:url("../public/images/ZamoraBackground.jpg");
 }
 
+.taylorBackground {
+  background-image:url("../public/images/TaylorBackground.jpg");
+}
+
 .porteBackground {
   background-image:url("../public/images/PorteBackground.jpg");
 }
