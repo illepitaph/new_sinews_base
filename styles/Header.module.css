@@ -45,6 +45,10 @@
   background-image:url("../public/images/PorteBackground.jpg");
 }
 
+.lakghomiBackground {
+  background-image:url("../public/images/LakghomiBackground.jpg");
+}
+
 .siteBarContainerAbout {
   height:65vh;
   background-image:url("../public/images/LineNewSinew.jpg");
