@@ -6,7 +6,6 @@ import LeftBlackTitle from '../../components/leftBlackTitle.js'
 import LeftGrayTitle from '../../components/leftGrayTitle.js'
 import StandardLineation from '../../components/standardLineation.js'
 import Footer from '../../components/footer.js'
-import styles from '../../styles/Porte.module.css'
 
 export default function Taylor() {
   return (

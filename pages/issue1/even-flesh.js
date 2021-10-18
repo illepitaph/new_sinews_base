@@ -6,7 +6,7 @@ import CenterGrayTitle from '../../components/CenterGrayTitle.js'
 import CenterBlackTitle from '../../components/CenterBlackTitle.js'
 import StandardProse from '../../components/standardProse.js'
 import Footer from '../../components/footer.js'
-import styles from '../../styles/EvenFlesh.module.css'
+import styles from '../../styles/EssayMode.module.css'
 
 export default function EvenFlesh() {
   return (
@@ -25,6 +25,7 @@ export default function EvenFlesh() {
        <CenterGrayTitle><h3>even flesh seems a formality</h3></CenterGrayTitle>
        <CenterBlackTitle><h3>or: Vi Khi Nao’s organic oscillations</h3></CenterBlackTitle>
 
+       <p className={styles.authorItalic}>—Steve Barbaro</p>
 
        <br/>
        <br/>
