@@ -75,7 +75,6 @@ export default function SalutingAHex() {
        their bodies, their destinies, death, in general, as being part of the evolving topography of earth.
        </blockquote>
        <br/>
-       <br/>
        In this way, at least, the history of breath would achieve some less incommensurate equilibrium
        with the history of the planet. The solution at hand is not fanciful so much as lucidly drastic.
        Aggregate, urgent. Aggressively non-transient. The structures necessary for a truer (see: calamity-
@@ -177,33 +176,92 @@ export default function SalutingAHex() {
        vibrantly.
        <br/>
        <br/>
-       Amidst the film-turned-poem’s unfolding however, one thing is certain: the narrator’s voice
-       roves with weirdly centering élan, at times weirdly personal—musing upon a nephew’s mid-bathroom-
-       habit facial expressions, say—and at times studied, such as when Dr. Bhrigupati Singh is
-       invoked to provide geo-philosophical contextualization. But if even, as Nao writes at the 1:30
-       mark, “the small organic gestures of life emulate the various efforts of modernization,” is
-       not the natural world fated for uniform exploitation?
+       Á la Shimoda’s first collection <cite> The Alps </cite>(2008, Flim Forum), the geological
+       cadences of <cite> The Desert </cite> are punchily diffuse in a way that seems functionally
+       aware of the perils of formal intricacy:
+       <pre className={styles.quotedPoemLineation}>{`
+         There are the mountains, I see them
+         From town, the mountains are magnificent
+         Federal Bureau of Investigation, et cetera
+         Enormous the mountains are golden and black
+         When we go to the mountains, town becomes pathetic
+         But we miss it, we want to get back to the lights
+         We miss them, the lights being thrown momentarily
+
+         From far away                      (“Mountains”)
+         `}</pre>
+       As is evident even above, the rarified separateness of <cite> The Desert </cite>
+       renders the brutal facts of surveillance and incarceration (and the imperialist
+       State’s manipulation of bodies more generally) all the more lucid in relief. “The
+       desert,” one journal entry realizes, “is the landscape of coordinated disappearance.”
+       Registers (vocal, social, even mineral) are all the while aggregating. Disparate
+       timbres click into sonic communality damn near sedimentarily. And if the desert is
+       indeed so commodious as to intrinsically hide away its endlessness-tending inventory,
+       it’s also true that <cite> The Desert </cite>at hand is a habitat of overriding
+       confinement, custody, trauma, abuse, raw hunger, and blindness (willed or involuntary).
        <br/>
        <br/>
-       “Most sheep devote their lives to be de-skinned, to be de-wooled,” Nao states as the
-       movie-mirroring poem-sequence approaches its own conclusion. “What is the purpose of a human’s
-       existence? If not to be breathing on earth, our soul deskinned, de-wooled for ontological
-       certainties?” But as the film is all the while being ekphrastically peeled and peeled, it
-       becomes apparent that the systematic nature of Nao’s own ordering principle would, with
-       signature dexterity, subsume the very sort of interspecies power that the narrative is
-       all the while critiquing.
-      <br/>
-      <br/>
-       The wont to simply break down a motion picture into its constituent parts—to return,
-       that is to say, a kinesis-dense, stock unit of modern life such as a film to its frame-by-frame
-       units of stasis—is itself a fruitfully intrusive stratagem granted extra vigor via the assiduousness
-       of Nao’s attention. But if the overarching reality of early 21st century modernity is such
-       that protracted attention itself seems exotic if not luxurious, <cite>Sheep Machine</cite>’s dispersed
-       thematics also seem a subversion of the entrapment-conducive fixity of prolonged attention.
-       Perhaps the reality ensnaring us—an overarching reality of our own making, legitimized anew
-       each day by the cynical acts to which we accede and accede—is ripe for an ameliorating
-       flux via our own rejigged will. “I have nothing to say to things,” Vi Khi Nao insists,
-       elucidating a frontier in an otherwise brink-breaching oeuvre, “that appear to be not changing."
+       As if by historical mandate, the lyric diversity of <cite> The Desert </cite>wires and
+       weirds its very silences into something self-escapingly jittery. “Perpetual rejection
+       [‘Incarceration’] is comfort.” A keenness bred of restlessness becomes something of an
+       ideal in the face of late-empire reality. Yet precisely because <cite> The Desert </cite>
+       so assuredly self-niches in an ecologically extreme (see: historically appropriate) setting,
+       the book’s radar for breath-beyond-breathing—like The Corpse Eater’s ability to channel
+       sentience via the very abyss of mortality—is again fueled by an emphasis on the urgency of
+       communal memory:
+       <pre className={styles.quotedPoemLineation}>{`
+         without ending    migration becomes internal
+         for those who do not leave
+         keep the memory leaving
+
+         de-located,
+
+         migration was a test. the destination was the extent to which
+         a soul could be transformed. The United States wanted to replace
+         with a clock,
+         the furnace of assimilation. earth harbors
+         unintelligible tongues
+         in the core,      tongues of flame, they are called,
+         the earth answers
+         with its cavernous body, I release you
+         into the custody of culture      The toll is paid
+         by the enslaved,
+         exploited, exterminated                          (“Gila River”)
+         `}</pre>
+       Not coincidentally, the hinge of migration is also one of the main hinges
+       on which <cite> The Grave on The Wall </cite> self-acclimates. Following
+       the narrator’s grandfather Midori Shimoda’s immigration to the United States,
+       <cite> The Grave on The Wall </cite> relates Midori’s vocation as a photographer;
+       Midori’s excursion to Utah during World War 2 and the Department of Justice’s
+       subsequent tracking of Midori; Midori’s relocation and forced incarceration
+       at Fort Missoula, Montana during the War under suspicion of being a spy for
+       Japan; and Midori’s postwar move to New York City.
+       <br/>
+       <br/>
+       Via just one of <cite> The Grave on The Wall </cite>’s uncannily future-haunting
+       calibrations of memory, Minoru Yamasaki, Midori’s childhood friend who helped
+       facilitate Midori’s move to New York City, also happened to be designer of the
+       selfsame World Trade Center whose institutionalized gone-ness the narrative
+       ponders not-un-ceremonially. A kind of cooly intransigent geometry of memory
+       is thus achieved wherein the past clutters the present ominously. Intricately
+       stitching history-caked prognoses with the specter of prospective memory, <cite> The
+       Grave on The Wall </cite> corrects the monuments it critiques not merely
+       intellectually but sensorially. Bodily. In lieu of memorial mounds that would
+       defy the orders of greed which daily erase memory in the way of deifying the very
+       defeat of any equilibrium between the earth and humanity, <cite> The Grave on The Wall </cite>
+       crawls over and across itself via a kind timeliness-beyond-temporality. Indeed, there
+       is even something of an aptly preemptive nostalgia for our shared future embedded in
+       <cite> The Grave on The Wall’s </cite> forecast for communal memory:
+       <blockquote className={styles.boldQuote}>
+       The secret life of memorials is not as much a secret as a subtext: that the memorial
+       will not only outlast the people who might remember, who might have experienced, what
+       is being memorialized, but people in general: human beings, entirely. That is what
+       I see when I see seven mounds or twin holes in the ground (or, for that matter, memorial
+       statues, plaques, signposts, inscriptions, etc): a future in which only memorials remain.
+       Then the future will be the memorial. To all that came before. The mounds and the holes
+       will endure as enigmatic earthworks, expressing, exerting their language, their code,
+       for no audience, but for the people-less earth.
+       </blockquote>
        </StandardProse>
 
 
