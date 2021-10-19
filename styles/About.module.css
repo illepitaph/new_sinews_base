@@ -52,6 +52,7 @@
   font-weight: 300;
   font-style: normal;
   font-size:1.2rem;
+  text-shadow:1px 1px #b0b0b0;
 }
 
 .middle > p {
@@ -66,10 +67,12 @@
   text-decoration:none;
   cursor:pointer;
   color:red;
+  text-shadow:1px 1px #b0b0b0;
 }
 
 .middle > p > a:hover {
-  color:lightgray;
+  cursor:pointer;
+  letter-spacing:2px;
 }
 
 .jpegBox1 {
@@ -92,6 +95,7 @@
   font-family:"lores-9-plus-wide";
   font-size:2rem;
   font-weight:700;
+  text-shadow:1px 1px red;
   text-transform:lowercase;
   line-height:9.4rem;
   letter-spacing:-0.02rem;

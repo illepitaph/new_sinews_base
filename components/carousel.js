@@ -19,7 +19,7 @@ const [currImg, setCurrImg] = useState(0);
     <div className={styles.carousel}>
     <div className={styles.prev} onClick={prevImage}>&#10094;</div>
     //<div className={styles.carouselInner} style={{ backgroundImage: `url(${images[currImg].img})` }}></div>
-    <Image src={`/images/Zamora${currImg}.png`} width={8400} height={600}/>
+    <Image src={`/images/Zamora${currImg}.png`} width={6000} height={600}/>
     <div className={styles.next} onClick={nextImage}>&#10095;</div>
     </div>
   )

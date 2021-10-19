@@ -23,13 +23,11 @@ return (
 
         <Header headerBackground="zamoraBackground"/>
 
-<div className={styles.container}>
 
         <Carousel/>
 
         <Footer/>
 
-      </div>
                   </body>
 
               </div>

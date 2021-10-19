@@ -29,13 +29,13 @@ export default function Issue2Bios() {
    <StandardProse>
    <br/>
    <br/>
-   SUSAN BRIANTE is the author of three books of poetry: <cite><strong>Pioneers in the
-   Study of Motion</strong></cite>, <cite><strong>Utopia Minus</strong></cite>, and
-   <cite><strong>The Market Wonders</strong></cite>, all from Ahsahta Press. She is
+   SUSAN BRIANTE is the author of three books of poetry: <cite><strong> Pioneers in the
+   Study of Motion</strong></cite>, <cite><strong> Utopia Minus</strong></cite>, and
+   <cite><strong> The Market Wonders</strong></cite>, all from Ahsahta Press. She is
    a professor of creative writing at the University of Arizona, where she also serves
    as faculty liaison and co-coordinator of the Southwest Field Studies in Writing
    Program. The program brings MFA students to the US-Mexico border to work with
-   community-based environmental and social justice groups. <cite><strong>Defacing
+   community-based environmental and social justice groups. <cite><strong> Defacing
    the Monument</strong></cite>, a series of essays on immigration, archives, aesthetics
    and the state, will be published by Noemi Press in December 2019.
    </StandardProse>
@@ -43,8 +43,8 @@ export default function Issue2Bios() {
    <br/>
    <br/>
    <StandardProse>
-   MIKE CORRAO is the author of <cite><strong>Man, Oh Man</strong></cite> (Orson's
-   Publishing) and <cite><strong>Gut Text</strong></cite> (11:11 Press). His work
+   MIKE CORRAO is the author of <cite><strong> Man, Oh Man </strong></cite> (Orson's
+   Publishing) and <cite><strong> Gut Text </strong></cite> (11:11 Press). His work
    has been featured in publications such as <i>Collagist</i>, <i>3:AM</i>, <i>Always
    Crashing</i>, and <i>The Portland Review</i>. He lives in Minneapolis.
    Learn more at <a className={styles.biosExternalLink} target="_blank"
@@ -54,10 +54,10 @@ export default function Issue2Bios() {
    <br/>
    <br/>
    <StandardProse>
-   FELICIA ZAMORA is the author of the poetry books: <cite><strong>Quotient</strong></cite> (Tinderbox
-   Editions 2021), <cite><strong>Body of Render</strong></cite>, winner of the 2018
-   Benjamin Saltman Award from Red Hen Press (2020), <cite><strong>Instrument of Gaps</strong></cite> (Slope
-   Editions 2018), <cite><strong>& in Open, Marvel</strong></cite> (Parlor Press 2018), and <cite><strong>Of
+   FELICIA ZAMORA is the author of the poetry books: <cite><strong> Quotient </strong></cite> (Tinderbox
+   Editions 2021), <cite><strong> Body of Render </strong></cite>, winner of the 2018
+   Benjamin Saltman Award from Red Hen Press (2020), <cite><strong> Instrument of Gaps </strong></cite> (Slope
+   Editions 2018), <cite><strong> & in Open, Marvel </strong></cite> (Parlor Press 2018), and <cite><strong> Of
    Form & Gather</strong></cite>, winner of the 2016 Andrés Montoya Poetry Prize
    (University of Notre Dame Press 2017). She is a 2019 CantoMundo Fellow, won the 2015 Tomaž
    Šalamun Prize from <i>Verse</i>, and was the 2017 Poet Laureate for Fort Collins, CO. She received
@@ -69,9 +69,9 @@ export default function Issue2Bios() {
    <br/>
    <br/>
    <StandardProse>
-   SAM TAYLOR is the author of three books of poems, <cite><strong>Body of the World</strong></cite>
-   (Ausable/Copper Canyon), <cite><strong>Nude Descending an Empire</strong></cite> (Pitt Poetry),
-   and <cite><strong>The Book of Fools: An Essay in Memoir and Verse</strong></cite> (forthcoming,
+   SAM TAYLOR is the author of three books of poems, <cite><strong> Body of the World </strong></cite>
+   (Ausable/Copper Canyon), <cite><strong> Nude Descending an Empire </strong></cite> (Pitt Poetry),
+   and <cite><strong> The Book of Fools: An Essay in Memoir and Verse </strong></cite> (forthcoming,
    Negative Capability). A native of Miami and a former caretaker of a wilderness refuge in New Mexico,
    he currently tends a wild garden in Kansas, where he is an Associate Professor and the Director of
    the MFA Program at Wichita State. His work has been recognized with the Amy Lowell Poetry Traveling
@@ -85,7 +85,7 @@ export default function Issue2Bios() {
    <StandardProse>
    SUSAN LEWIS <a className={styles.biosExternalLink} target="_blank"
    href="http://www.susanlewis.net/">www.susanlewis.net</a> is the author of ten books and chapbooks,
-   including <cite><strong>Zoom</strong></cite>, winner of the Washington Prize, and <cite><strong>Heisenberg’s
+   including <cite><strong> Zoom</strong></cite>, winner of the Washington Prize, and <cite><strong> Heisenberg’s
    Salon</strong></cite>. Recently, her work has appeared in <i>Agni</i>, <i>Boston Review</i>, <i>The
    Brooklyn Rail</i>, <i>Conjunctions</i> (online), <i>Diode</i>, <i>Interim</i>, <i>New American
    Writing</i>, <i>VOLT</i>, and many other journals and anthologies. She is the founding
