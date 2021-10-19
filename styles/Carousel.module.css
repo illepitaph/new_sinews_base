@@ -2,15 +2,37 @@
   position:relative;
   display:flex;
   justify-content:center;
-  background-size: cover;
-  background-position:center;
-  background-repeat:no-repeat;
   width:90%;
   height:70vh;
   margin-top:15vh;
 }
 
-.carouselInner {
-  width:100%;
+.carousel > .prev {
+  position:absolute;
+  z-index: 1;
+  bottom:14px;
+  left:84px;
+  flex:5%;
   height:100%;
+  background-color:rgba(0, 0, 0, 0.6);
+  display:grid;
+  place-items:center;
+  color:#b0b0b0;
+}
+
+.carousel > .next {
+  position:absolute;
+  z-index: 1;
+  bottom:14px;
+  right:24px;
+  flex:5%;
+  height:100%;
+  background-color:rgba(0, 0, 0, 0.6);
+  display:grid;
+  place-items:center;
+  color:#b0b0b0;
+}
+
+.carousel > .imagery {
+  object-fit: contain;
 }
