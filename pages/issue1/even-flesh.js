@@ -22,7 +22,7 @@ export default function EvenFlesh() {
 
        <Header/>
 
-       <CenterGrayTitle><h3>even flesh seems a formality</h3></CenterGrayTitle>
+       <CenterGrayTitle><h3>even flesh<br/>seems<br/>a formality</h3></CenterGrayTitle>
        <CenterBlackTitle><h3>or: Vi Khi Nao’s organic oscillations</h3></CenterBlackTitle>
 
        <p className={styles.authorItalic}>—Steve Barbaro</p>

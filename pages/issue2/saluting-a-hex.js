@@ -22,7 +22,7 @@ export default function SalutingAHex() {
 
        <Header/>
 
-       <CenterGrayTitle><h3>saluting a hex of gangrenous sky</h3></CenterGrayTitle>
+       <CenterGrayTitle><h3>saluting <br/>a hex of gangrenous<br/> sky</h3></CenterGrayTitle>
        <CenterBlackTitle><h3>or: Brandon Shimdoa's ritual inversions</h3></CenterBlackTitle>
 
        <p className={styles.authorItalic}>—Steve Barbaro</p>
@@ -79,7 +79,7 @@ export default function SalutingAHex() {
        with the history of the planet. The solution at hand is not fanciful so much as lucidly drastic.
        Aggregate, urgent. Aggressively non-transient. The structures necessary for a truer (see: calamity-
        precluding) attunement with the past simply seem beyond current imaginative capacities. Yet if
-       the cooly relentless laments for the failures of communal memory in The Grave on The Wall—itself
+       the cooly relentless laments for the failures of communal memory in <cite> The Grave on The Wall</cite>—itself
        the first non-poem-predominating book in Brandon Shimoda’s opus—are in no small part the fruit of
        Shimoda’s unusually hyper-un-myopic sense of scale, such scale is a constant in his oeuvre.
        <br/>
@@ -134,7 +134,7 @@ export default function SalutingAHex() {
        becomes so mellifluously navigable as to cascade down the page with the capsized sacramentality
        of the flags at the poem’s beginning descending—like a kind of anticipatory corrective of
        the snake-like national memorial water flowing lamentably aloofly through <cite> The Grave on
-       The Wall</cite>’s very framework—into oblivious corpuses of liquid.
+       The Wall</cite> ’s very framework—into oblivious corpuses of liquid.
        <br/>
        <br/>
        <p className={styles.standardProseSectionBreak}>{` —  —  —  —  —  — `}</p>

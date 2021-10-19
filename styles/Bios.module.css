@@ -1,0 +1,10 @@
+.biosExternalLink {
+  text-decoration:none;
+  color:red;
+  text-shadow:1px 1px #b0b0b0;
+}
+
+.biosExternalLink:hover {
+  cursor:pointer;
+  letter-spacing:2px;
+}

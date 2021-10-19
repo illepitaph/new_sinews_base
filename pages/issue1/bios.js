@@ -29,7 +29,7 @@ export default function Issue1Bios() {
    <StandardProse>
    <br/>
    <br/>
-   <p>SARAH GRIDLEY is an associate professor of English at
+   SARAH GRIDLEY is an associate professor of English at
    Case Western Reserve University in Cleveland, Ohio. Her poetry collections
    include:<cite><strong> Weather Eye Open </strong></cite> (University of California Press, 2005);
    <cite><strong> Green is the Orator </strong></cite> (University of California Press, 2010); and
@@ -37,7 +37,7 @@ export default function Issue1Bios() {
    from The Poetry Society of America, and a 2009 Creative Workforce Fellowship
    from Cleveland’s Community Partnership for Arts and Culture, she holds a B.A.
    in English and American Literature from Harvard University, and an MFA in
-   poetry from the University of Montana.</p>
+   poetry from the University of Montana.
    </StandardProse>
    <br/>
    <br/>
