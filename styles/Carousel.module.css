@@ -1,19 +1,20 @@
 .carousel {
   position:relative;
   display:flex;
+  flex-flow:row wrap;
   justify-content:center;
+  align-items:center;
   width:90%;
   height:70vh;
-  margin-top:15vh;
+  margin:15vh 0 15vh 0;
 }
 
 .carousel > .prev {
   position:absolute;
   z-index: 1;
-  bottom:14px;
-  left:84px;
+  left:5vw;
   flex:5%;
-  height:100%;
+  height:15%;
   background-color:rgba(0, 0, 0, 0.6);
   display:grid;
   place-items:center;
@@ -22,17 +23,12 @@
 
 .carousel > .next {
   position:absolute;
-  z-index: 1;
-  bottom:14px;
-  right:24px;
+  z-index:1;
+  right:5vw;
   flex:5%;
-  height:100%;
+  height:15%;
   background-color:rgba(0, 0, 0, 0.6);
   display:grid;
   place-items:center;
   color:#b0b0b0;
-}
-
-.carousel > .imagery {
-  object-fit: contain;
 }

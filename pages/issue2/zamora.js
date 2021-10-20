@@ -19,16 +19,15 @@ return (
           <link rel="stylesheet" href="https://use.typekit.net/xhi6gvp.css"/>
         </Head>
 
-        <body>
-
         <Header headerBackground="zamoraBackground"/>
 
+        <div className={styles.container}>
 
         <Carousel/>
 
-        <Footer/>
+     </div>
 
-                  </body>
+        <Footer/>
 
               </div>
 
