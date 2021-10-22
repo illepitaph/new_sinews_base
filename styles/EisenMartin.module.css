@@ -1,68 +1,3 @@
-.sitebarContainer {
-  height:61vh;
-  width:100%;
-  background-image:url("../public/images/EisenMartinHeader.jpg");
-  background-repeat:no-repeat;
-  background-size:cover;
-  background-position:38% 60%;
-  background-attachment:fixed;
-  font-size:1rem;
-  overflow:visible;
-}
-
-.iconPlusSitebar {
-  display:flex;
-  justify-content:space-between;
-}
-
-.iconPlusSitebar > a {
-  background-image:url("../public/images/newSinewsIcon.jpg");
-  background-repeat:no-repeat;
-  background-position:center;
-  background-size:contain;
-  width:25vw;
-  height:35vh;
-  margin-top:12vh;
-  margin-left:2vw;
-}
-
-.siteNav {
-  align-self:center;
-  display:inline-flex;
-  justify-content:flex-end;
-  margin-right:6%;
-}
-
-.siteNav > button {
-  border:none;
-  font-family:"lores-9-plus-narrow";
-  font-size: 0.7rem;
-  background-color:black;
-  color:#c0a5a5;
-  opacity: 0.8;
-  padding:12px 19px;
-  border-radius:45px;
-  text-transform:lowercase;
-  letter-spacing:1.5px;
-}
-
-.compositionTitle {
-  font-family:"lores-9-plus-wide";
-  font-size:2rem;
-  font-weight:700;
-  font-style:italic;
-  text-align:center;
-  text-transform:lowercase;
-  letter-spacing:-0.02rem;
-  line-height:1.4em;
-  margin-bottom:7vh;
-}
-
-.compositionTitle::before, .compositionTitle::after {
-  content:" ... ... ";
-  font-style:normal;
-}
-
 .poem {
   display:grid;
   grid-template-rows: 1fr;
@@ -75,6 +10,7 @@
   font-weight: 300;
   font-style: normal;
   font-size:1.2rem;
+  text-shadow:1px 1px #b0b0b0;
   letter-spacing:-0.02rem;
   line-height:1.4em;
 }
@@ -83,6 +19,7 @@
   font-family: "astoria-sans-medium-condensed", sans-serif;
   font-weight: 300;
   font-size:1.2rem;
+  text-shadow:1px 1px #b0b0b0;
   letter-spacing:-0.02rem;
   line-height:1.4em;
   font-style:italic;
@@ -93,6 +30,7 @@
   font-weight: 300;
   font-style: normal;
   font-size:1.2rem;
+  text-shadow:1px 1px #b0b0b0;
   letter-spacing:-0.02rem;
   line-height:1.4em;
   margin-top:7%;
@@ -104,6 +42,7 @@
   font-weight: 300;
   font-style: normal;
   font-size:1.2rem;
+  text-shadow:1px 1px #b0b0b0;
   letter-spacing:-0.02rem;
   line-height:1.4em;
   margin-top:7%;

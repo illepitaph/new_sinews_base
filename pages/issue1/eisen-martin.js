@@ -3,6 +3,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 import Header from '../../components/header.js'
 import CenterGrayTitle from '../../components/centerGrayTitle.js'
+import CenterBlackTitle from '../../components/centerBlackTitle.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Eisenmartin.module.css'
 
@@ -23,7 +24,7 @@ export default function Eisen_Martin() {
 <main>
 
 <CenterGrayTitle><h3> :: tongo :: <br/> :: eisen :: <br/> :: martin :: </h3></CenterGrayTitle>
-<p className={styles.compositionTitle}>fish with<br/>ambition to become<br/>the river</p>
+<CenterBlackTitle><h3> ... ... <i>fish with<br/>ambition to become<br/>the river</i> ... ... </h3></CenterBlackTitle>
 
 <div className={styles.poem}>
 <p className={styles.leftJustified}>I looked in my bank account</p>

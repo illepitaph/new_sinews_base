@@ -24,9 +24,9 @@ export default function TwoEyesRawText() {
         <br/><br/>
         <CenterGrayTitle><span className={styles.blackShadow}><h3>two<br/>eyes in one<br/>eye: a delirium</h3></span></CenterGrayTitle>
         <br/><br/>
-        <CenterGrayTitle><span className={styles.blackShadow}><h3>version<br/>1: two eyes in one<br/>eye</h3></span></CenterGrayTitle>
+        <CenterGrayTitle><span className={styles.blackShadow}><h3>version<br/>one: two eyes in one<br/>eye</h3></span></CenterGrayTitle>
         <br/><br/><br/><br/><br/><br/>
-       <StandardProse> Kierkegaard attributes a memory to Johannes Climacus
+       <StandardProse><span className={styles.grayShadow}>Kierkegaard attributes a memory to Johannes Climacus
        (in the introduction to the book of the same name) that could well have
        been his own: as a boy, Johannes asked his father to please allow him to go
        out for a walk in the city—he was kept at home and not allowed out—and
@@ -54,7 +54,7 @@ export default function TwoEyesRawText() {
        suddenly become a manse. Johannes was given perfect freedom to invent on
        these “walks.” And yet still the boy could never be allowed outside.
        This, and only this, was prevented him.
-       </StandardProse>
+       </span></StandardProse>
 
        <StandardProse> I told my son a disappointing story, a story, he said, that
        was no good. That wasn’t very good, he said, deadly serious and not at
