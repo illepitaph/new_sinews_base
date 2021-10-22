@@ -1,94 +1,73 @@
-/* Slideshow container */
-.slideshow-container {
-  box-sizing:border-box;
-  max-width: 1000px;
-  position: relative;
-  margin: auto;
+.container {
+  display:grid;
+  place-items: center;
+  margin-bottom:12%;
 }
 
-/* Hide the images by default */
-.mySlides {
-  display: none;
-  width:100%;
+.carousel {
+  position:relative;
+  display:flex;
+  flex-flow:row wrap;
+  justify-content:center;
+  align-items:center;
+  width:90%;
+  height:70vh;
+  margin:6% 0 4% 0;
 }
 
-/* Next & previous buttons */
-.prev, .next {
-  cursor: pointer;
-  position: absolute;
-  top: 50%;
-  width: auto;
-  margin-top: -22px;
-  padding: 16px;
-  color: white;
-  font-weight: bold;
-  font-size: 18px;
-  transition: 0.6s ease;
-  border-radius: 0 3px 3px 0;
-  user-select: none;
+.carousel > .prev {
+  position:absolute;
+  z-index: 1;
+  top:48%;
+  left:0;
+  flex:5%;
+  height:5%;
+  display:grid;
+  place-items:center;
+  color:red;
+  font-size:3rem;
+  font-weight:700;
+  text-shadow: 1px 1px black;
+  cursor:pointer;
 }
 
-/* Position the "next button" to the right */
-.next {
-  right: 0;
-  border-radius: 3px 0 0 3px;
+.carousel > .next {
+  position:absolute;
+  z-index:1;
+  top:48%;
+  right:0;
+  flex:5%;
+  height:5%;
+  display:grid;
+  place-items:center;
+  font-size:3rem;
+  font-weight:700;
+  text-shadow: 1px 1px red;
+  cursor:pointer;
 }
 
-/* On hover, add a black background color with a little bit see-through */
-.prev:hover, .next:hover {
-  background-color: rgba(0,0,0,0.8);
+.border {
+  position:relative;
+  z-index:-1;
+  border:8px double #b0b0b0;
+  box-shadow: 20px 10px 5px #e2e2e2;
 }
 
-/* Caption text */
-.text {
-  color: #f2f2f2;
-  font-size: 15px;
-  padding: 8px 12px;
-  position: absolute;
-  bottom: 8px;
-  width: 100%;
-  text-align: center;
-}
-
-/* Number text (1/3 etc) */
-.numbertext {
-  color: #f2f2f2;
-  font-size: 12px;
-  padding: 8px 12px;
-  position: absolute;
-  top: 0;
-}
-
-/* The dots/bullets/indicators */
 .dot {
   cursor: pointer;
   height: 15px;
   width: 15px;
   margin: 0 2px;
-  background-color: #bbb;
+  background-color: #b0b0b0;
   border-radius: 50%;
   display: inline-block;
   transition: background-color 0.6s ease;
 }
 
-.active, .dot:hover {
-  background-color: #717171;
+.grayShadow {
+  text-shadow:1px 1px #b0b0b0;
 }
 
-/* Fading animation */
-.fade {
-  -webkit-animation-name: fade;
-  -webkit-animation-duration: 1.5s;
-  animation-name: fade;
-  animation-duration: 1.5s;
-}
-
-@-webkit-keyframes fade {
-  from {opacity: .4}
-  to {opacity: 1}
-}
-
-@keyframes fade {
-  from {opacity: .4}
-  to {opacity: 1}
+.blackShadow {
+  text-shadow:1px 1px black;
 }
