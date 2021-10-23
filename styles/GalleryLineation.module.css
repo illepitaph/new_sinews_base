@@ -1,0 +1,11 @@
+.galleryLineation {
+  font-family: "astoria-sans-medium-condensed", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size:1.5rem;
+  padding:10vw 10vh;
+  margin:0 auto;
+  text-shadow:1px 1px #b0b0b0;
+  letter-spacing:0.04rem;
+  line-height:1.4em;
+}

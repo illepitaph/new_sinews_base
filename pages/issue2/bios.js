@@ -29,7 +29,7 @@ export default function Issue2Bios() {
    <StandardProse>
    <br/>
    <br/>
-   SUSAN BRIANTE is the author of three books of poetry: <cite><strong> Pioneers in the
+   <span className={styles.grayInverse}>SUSAN BRIANTE</span> is the author of three books of poetry: <cite><strong> Pioneers in the
    Study of Motion</strong></cite>, <cite><strong> Utopia Minus</strong></cite>, and
    <cite><strong> The Market Wonders</strong></cite>, all from Ahsahta Press. She is
    a professor of creative writing at the University of Arizona, where she also serves
@@ -43,7 +43,7 @@ export default function Issue2Bios() {
    <br/>
    <br/>
    <StandardProse>
-   MIKE CORRAO is the author of <cite><strong> Man, Oh Man </strong></cite> (Orson's
+   <span className={styles.grayInverse}>MIKE CORRAO</span> is the author of <cite><strong> Man, Oh Man </strong></cite> (Orson's
    Publishing) and <cite><strong> Gut Text </strong></cite> (11:11 Press). His work
    has been featured in publications such as <i>Collagist</i>, <i>3:AM</i>, <i>Always
    Crashing</i>, and <i>The Portland Review</i>. He lives in Minneapolis.
@@ -54,7 +54,7 @@ export default function Issue2Bios() {
    <br/>
    <br/>
    <StandardProse>
-   FELICIA ZAMORA is the author of the poetry books: <cite><strong> Quotient </strong></cite> (Tinderbox
+   <span className={styles.grayInverse}>FELICIA ZAMORA</span> is the author of the poetry books: <cite><strong> Quotient </strong></cite> (Tinderbox
    Editions 2021), <cite><strong> Body of Render </strong></cite>, winner of the 2018
    Benjamin Saltman Award from Red Hen Press (2020), <cite><strong> Instrument of Gaps </strong></cite> (Slope
    Editions 2018), <cite><strong> & in Open, Marvel </strong></cite> (Parlor Press 2018), and <cite><strong> Of
@@ -69,7 +69,7 @@ export default function Issue2Bios() {
    <br/>
    <br/>
    <StandardProse>
-   SAM TAYLOR is the author of three books of poems, <cite><strong> Body of the World </strong></cite>
+   <span className={styles.grayInverse}>SAM TAYLOR</span> is the author of three books of poems, <cite><strong> Body of the World </strong></cite>
    (Ausable/Copper Canyon), <cite><strong> Nude Descending an Empire </strong></cite> (Pitt Poetry),
    and <cite><strong> The Book of Fools: An Essay in Memoir and Verse </strong></cite> (forthcoming,
    Negative Capability). A native of Miami and a former caretaker of a wilderness refuge in New Mexico,
@@ -83,7 +83,7 @@ export default function Issue2Bios() {
    <br/>
    <br/>
    <StandardProse>
-   SUSAN LEWIS <a className={styles.biosExternalLink} target="_blank"
+   <span className={styles.grayInverse}>SUSAN LEWIS</span> <a className={styles.biosExternalLink} target="_blank"
    href="http://www.susanlewis.net/">www.susanlewis.net</a> is the author of ten books and chapbooks,
    including <cite><strong> Zoom</strong></cite>, winner of the Washington Prize, and <cite><strong> Heisenberg’s
    Salon</strong></cite>. Recently, her work has appeared in <i>Agni</i>, <i>Boston Review</i>, <i>The
@@ -96,14 +96,14 @@ export default function Issue2Bios() {
    <br/>
    <br/>
    <StandardProse>
-   REBECCA ARIEL PORTE is a member of the Core Faculty at the Brooklyn Institute for Social Research.
+  <span className={styles.grayInverse}>REBECCA ARIEL PORTE</span> is a member of the Core Faculty at the Brooklyn Institute for Social Research.
    She is at work on a long, wicked book about Paradise, Arcadia, and the Golden Age.
    <br/>
    <br/>
    <br/>
    </StandardProse>
    <StandardProse>
-   BABAK LAKGHOMI is the author of <cite><strong> Floating Notes </strong></cite>(Tyrant Books, 2018).
+   <span className={styles.grayInverse}>BABAK LAKGHOMI</span> is the author of <cite><strong> Floating Notes </strong></cite>(Tyrant Books, 2018).
    His fiction has appeared or forthcoming in <i>NOON</i>, <i>Ninth Letter</i>, <i>Green Mountains
    Review</i>, and <i>New York Tyrant</i>, among others.
    <br/>
@@ -111,7 +111,7 @@ export default function Issue2Bios() {
    <br/>
    </StandardProse>
    <StandardProse>
-   VI KHI NAO is the author of four poetry collections: <a className={styles.biosExternalLink} target="_blank"
+   <span className={styles.grayInverse}>VI KHI NAO</span> is the author of four poetry collections: <a className={styles.biosExternalLink} target="_blank"
    href="http://1111press.com/human-tetris/"> <cite><strong> Human Tetris </strong></cite></a>(11:11
    Press, 2019), <a className={styles.biosExternalLink} target="_blank" href="http://blacksunlit.com/sheep-machine/">
    <cite><strong> Sheep Machine </strong></cite></a> (Black Sun Lit, 2018), <a className={styles.biosExternalLink}
@@ -132,7 +132,7 @@ export default function Issue2Bios() {
    <br/>
    </StandardProse>
    <StandardProse>
-   ADAM STRAUSS lives in Louisville, KY. Most recently, poems of his appear in <i>Dream
+   <span className={styles.grayInverse}>ADAM STRAUSS</span> lives in Louisville, KY. Most recently, poems of his appear in <i>Dream
    Pop</i>, <i>Sporklet</i>, and <i>Prelude</i>. The poems in this issue are from a chapbook
    manuscript titled <strong><cite> Syntactic Ekphrastic</cite></strong>.
    <br/>
@@ -140,7 +140,7 @@ export default function Issue2Bios() {
    <br/>
    </StandardProse>
    <StandardProse>
-   BRANDON SHIMODA's most recent books include <strong><cite> The Grave on the Wall </cite>
+   <span className={styles.grayInverse}>BRANDON SHIMODA</span>'s most recent books include <strong><cite> The Grave on the Wall </cite>
    </strong>(City Lights, 2019) and <strong><cite> The Desert </cite></strong>(The Song Cave,
    2018). He is the curator of the Hiroshima Library, an itinerant reading room/collection of
    books on the atomic bombings of Hiroshima and Nagasaki, which appeared at BRUNA

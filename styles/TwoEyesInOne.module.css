@@ -11,30 +11,31 @@
   justify-content:center;
   align-items:center;
   width:90%;
-  height:70vh;
+  height:100vh;
   margin:6% 0 4% 0;
 }
 
 .carousel > .prev {
   position:absolute;
   z-index: 1;
-  top:48%;
+  top:50%;
   left:0;
   flex:5%;
   height:5%;
   display:grid;
   place-items:center;
-  color:red;
+  color:#b0b0b0;
   font-size:3rem;
   font-weight:700;
-  text-shadow: 1px 1px black;
+  text-shadow: 2px 2px black;
+  letter-spacing:0.2rem;
   cursor:pointer;
 }
 
 .carousel > .next {
   position:absolute;
   z-index:1;
-  top:48%;
+  top:50%;
   right:0;
   flex:5%;
   height:5%;
@@ -42,14 +43,25 @@
   place-items:center;
   font-size:3rem;
   font-weight:700;
-  text-shadow: 1px 1px red;
+  text-shadow: 2px 2px #b0b0b0;
+  letter-spacing:0.2rem;
   cursor:pointer;
+}
+
+.prev:hover {
+  font-size:3.2rem;
+  color:black;
+  text-shadow:3px 3px #b0b0b0;
+}
+
+.next:hover {
+  color:#b0b0b0;
+  text-shadow:3px 3px black;
 }
 
 .border {
   position:relative;
   z-index:-1;
-  border:8px double #b0b0b0;
   box-shadow: 20px 10px 5px #e2e2e2;
 }
 

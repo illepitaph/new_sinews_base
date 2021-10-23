@@ -42,7 +42,7 @@ export default function TwoEyesInOneEye() {
           <div className={styles.prev} onClick={prevImage}>&#10094;&#10094;&#10094;</div>
           <div className={styles.next} onClick={nextImage}>&#10095;&#10095;&#10095;</div>
           <div className={styles.border}>
-          <Image src={`/images/Nao${currImg}.png`} width={1800} height={800}
+          <Image src={`/images/Nao${currImg}.png`} width={1250} height={500}
           alt="Two Eyes in One Eye: A Delirium"/>
           </div>
           </div>

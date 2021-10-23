@@ -8,3 +8,8 @@
   cursor:pointer;
   letter-spacing:2px;
 }
+
+.grayInverse {
+  color:#b0b0b0;
+  text-shadow:1px 1px black;
+}

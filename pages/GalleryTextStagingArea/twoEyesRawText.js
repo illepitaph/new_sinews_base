@@ -2,7 +2,7 @@ import Head from 'next/head'
 import CenterGrayTitle from '../../components/centerGrayTitle.js'
 import CenterBlackTitle from '../../components/centerBlackTitle.js'
 import StandardProse from '../../components/standardProse.js'
-import StandardLineation from '../../components/standardLineation.js'
+import GalleryLineation from '../../components/galleryLineation.js'
 import styles from '../../styles/TwoEyesInOne.module.css'
 
 
@@ -26,35 +26,24 @@ export default function TwoEyesRawText() {
         <br/><br/>
         <CenterGrayTitle><span className={styles.blackShadow}><h3>version<br/>one: two eyes in one<br/>eye</h3></span></CenterGrayTitle>
         <br/><br/><br/><br/><br/><br/>
-       <StandardProse><span className={styles.grayShadow}>Kierkegaard attributes a memory to Johannes Climacus
-       (in the introduction to the book of the same name) that could well have
-       been his own: as a boy, Johannes asked his father to please allow him to go
-       out for a walk in the city—he was kept at home and not allowed out—and
-       was refused. This happened again and again, the boy kept at home no matter
-       what. Occasionally, though, “by way of compensation” as Kierkegaard’s
-       translators have rendered it, the father would ask him where it was he
-       wanted to go, walking up and down the room with the boy: “They walked
-       through the city gate to the country palace nearby or to the seashore
-       or about the streets—according to Johannes’s wish, for his father,”
-       Kierkegaard-as-Johannes writes, “was capable of everything. While they
-       walked up and down the floor, his father would tell about everything
-       they saw. They greeted the passers-by; the carriages rumbled past,
-       drowning out his father’s voice; the pastry-woman’s fruits were more
-       tempting than ever. Whatever was familiar to Johannes, his father delineated
-       so exactly, so vividly, so directly and on the spot, down to the most
-       trifling detail, and so minutely and graphically whatever was unfamiliar
-       to him, that after a half-hour’s walk with his father he was as overwhelmed
-       and weary as if he had been out a whole day.” Eventually, Johannes himself
-       begins to add details to these imagined walks—“they carried on a dialogue
-       on their tour,” Johannes says—and, Kierkegaard writes, “he was never
-       rebuffed” in these additions; “his father was never disturbed.” Anything
-       could be incorporated, any suggestion of the boy’s was taken up and made
-       part of the whole. A farrier might take up residence where once there
-       had been a market stall; a field could be filled in by stables or stables
-       suddenly become a manse. Johannes was given perfect freedom to invent on
-       these “walks.” And yet still the boy could never be allowed outside.
-       This, and only this, was prevented him.
-       </span></StandardProse>
+       <GalleryLineation content= {`
+The bird is walking around the courtyard      
+
+                                                                  looking for a religion with a pair of oculi.
+                                                                  Comparing itself to the cathedral. Landscape greets their
+                                                                  bodies. Bird and cathedral share contorted & arched
+                                                                  postures. The bird bent by fata morgana gazes at
+                                                                  the light /// the light is eating into one another. Eating
+                                                                  into each other’s time. The father of the moment eats
+                                                                  eats eats into [    ]. It blinks—in no [      ]—
+                                                                  metamorphoses into a cathedral. The bird opens wide its
+                                                                  buttresses, spreading its congregation of feathers. 
+        `}/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
 
        <StandardProse> I told my son a disappointing story, a story, he said, that
        was no good. That wasn’t very good, he said, deadly serious and not at
@@ -97,6 +86,7 @@ export default function TwoEyesRawText() {
        about, I thought: The other twin had been absorbed by either its brother
        or its mother. I had enough sense not to say this aloud.
        </StandardProse>
+
           </body>
       </div>
   )

@@ -29,7 +29,7 @@ export default function Issue1Bios() {
    <StandardProse>
    <br/>
    <br/>
-   SARAH GRIDLEY is an associate professor of English at
+   <span className={styles.grayInverse}>SARAH GRIDLEY</span> is an associate professor of English at
    Case Western Reserve University in Cleveland, Ohio. Her poetry collections
    include:<cite><strong> Weather Eye Open </strong></cite> (University of California Press, 2005);
    <cite><strong> Green is the Orator </strong></cite> (University of California Press, 2010); and
@@ -43,7 +43,7 @@ export default function Issue1Bios() {
    <br/>
    <br/>
    <StandardProse>
-   Originally from San Francisco, TONGO EISEN-MARTIN is a poet, movement worker,
+   Originally from San Francisco, <span className={styles.grayInverse}>TONGO EISEN-MARTIN</span> is a poet, movement worker,
    and educator. His latest curriculum on extrajudicial killing of Black people,
   <cite><strong> We Charge Genocide Again</strong></cite>, has been used as an
   educational and organizing tool throughout the country. His book <cite><strong>
@@ -56,7 +56,7 @@ export default function Issue1Bios() {
    <br/>
    <br/>
    <StandardProse>
-   GABRIEL BLACKWELL is the author of four books, the most recent of which is
+   <span className={styles.grayInverse}>GABRIEL BLACKWELL</span> is the author of four books, the most recent of which is
    <cite><strong> Madeleine E.</strong></cite> (Outpost19, 2016). His essays and
    fictions have appeared in <i>Conjunctions</i>, <i>Tin House</i>, <i>DIAGRAM</i>,
    <i> Post Road</i>, and elsewhere. He is the editor of <i>The Collagist</i>.
@@ -65,7 +65,7 @@ export default function Issue1Bios() {
    <br/>
    <br/>
    <StandardProse>
-   CHRISTA ROMANOSKY is a native of southwestern Pennsylvania. Her work has
+   <span className={styles.grayInverse}>CHRISTA ROMANOSKY</span> is a native of southwestern Pennsylvania. Her work has
    appeared in <i>Glimmer Train</i>, <i>The Kenyon Review Online</i>, <i>The
    Massachusetts Review</i>, <i>The Missouri Review</i>, and elsewhere. She was
    a 2017-2018 fiction fellow at the Provincetown Fine Arts Work Center,
@@ -76,7 +76,7 @@ export default function Issue1Bios() {
    <br/>
    <br/>
    <StandardProse>
-   VI KHI NAO is the author of <cite><strong> Sheep Machine </strong></cite> (Black
+   <span className={styles.grayInverse}>VI KHI NAO</span> is the author of <cite><strong> Sheep Machine </strong></cite> (Black
    Sun Lit, 2018) and <cite><strong> Umbilical Hospital </strong></cite> (Press 1913, 2017), and of the short
    stories collection, <cite><strong> A Brief Alphabet of Torture</strong></cite>,
    which won FC2’s Ronald Sukenick Innovative Fiction Prize in 2016, the novel,
