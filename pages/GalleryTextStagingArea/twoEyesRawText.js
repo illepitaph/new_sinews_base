@@ -45,48 +45,46 @@ The bird is walking around the courtyard      
         <br/>
         <br/>
 
-       <StandardProse> I told my son a disappointing story, a story, he said, that
-       was no good. That wasn’t very good, he said, deadly serious and not at
-       all tired. Not that I had so much invested in this story, but I wasn’t
-       sure where to look for a moment. For a moment—and this will be unflattering,
-       I think—I wondered if maybe it wasn’t the story after all, a pretty good one,
-       I thought, exactly like the one he’d liked so much the night before, just
-       with different animals and a little girl instead of a little boy, and I
-       thought, maybe he would have said this after any story I told that night,
-       no matter how good, which is to say that, for a fraction of a second, I
-       wondered about my son’s true motivations, which is also to say that I
-       wondered if it wasn’t so much the story I’d told as that I’d told it and
-       not, I mean, his mother, and so I inhaled and held my breath for just
-       long enough to calm myself but not so long that it would alarm my son,
-       and then I asked him to tell me a story, and he did. He told me a story
-       about a fish (we’d been to the aquarium the weekend before) who was friends
-       with Hal (his toy dog) who were both, for reasons that were unclear to me,
-       in a sort of running conflict with a shark who wore a trenchcoat (I wondered
-       how he knew what a trenchcoat was; I didn’t own one, and his mother didn’t,
-       either; life was like this now, complicated). It was over very quickly,
-       and I couldn’t follow it at all. That was a good story, I said, because
-       there were things in it I thought were interesting or clever, like the
-       way the shark tied his trenchcoat together with a bed sheet to escape
-       from Hal at the end. The look on my son’s face when I said this had
-       a kind of sureness I would later envy. Now you go, he said. You know,
-       I don’t know if my wife has told you this, but our son originally had
-       a twin. I remember we had one set of names picked out, one for a boy
-       and one for a girl, and then, bang, twins. What, my wife asked, if
-       they were two boys? Two girls? Now, all of a sudden, we were having
-       a fight we’d already had, over a name she’d wanted me to consider
-       but that I really didn’t like. She felt I wasn’t listening to her and
-       I felt she was bullying me. I remember I wondered, in the car with my
-       wife (she was driving), whether we’d treat the twin with the second-choice
-       name differently from the one with the name we’d agreed on—maybe I meant
-       I’d treat that twin differently, though I doubted my wife would just
-       forget our argument or behave as though it’d never happened—but then,
-       at our next ultrasound, there was only one fetus. Sometimes it happens,
-       the doctor told us. When I stupidly asked what had happened to the other
-       fetus, the doctor said, It has been absorbed. This was a thing to think
-       about, I thought: The other twin had been absorbed by either its brother
-       or its mother. I had enough sense not to say this aloud.
-       </StandardProse>
+        <GalleryLineation content= {`
+  The church opens its white      
 
+                                                                  buttresses. Flock into oblivion. Lusters of
+                                                                  awakening open the throat of Our Lady’s chapel. Shove
+                                                                  down all the doors. It will make the body hide the bread.
+                                                                  The church is going to ask the bread to molest the body. 
+                                                                  Spread the legs open and shovel the past into it.
+         `}/>
+         <br/>
+         <br/>
+         <br/>
+         <br/>
+         <br/>
+         <GalleryLineation content= {`
+         The heart of the church is cold    
+
+                                                                               & blistery. Ready to be lightwood—splintered
+                                                                  by time /// Darkness is gentle and enhances the stomach
+                                                                  lining, the ambulatory nave, with wisdom and
+                                                                  confidence.
+          `}/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <GalleryLineation content= {`
+          The congregation walks into the stomach    
+
+                                                                               lining of the bird. Sits down. The professor, a 
+                                                                  physicist, opens the bible made of birdseeds. Looks down
+                                                                  at her watch. The priest will cut the lives of others with
+                                                                  his cryptic voice.
+           `}/>
+           <br/>
+           <br/>
+           <br/>
+           <br/>
+           <br/>
           </body>
       </div>
   )

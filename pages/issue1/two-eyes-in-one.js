@@ -11,15 +11,13 @@ export default function TwoEyesInOneEye() {
 
   const [currImg, setCurrImg] = useState(0);
     function prevImage() {
-      if (currImg == -1) {
-      setCurrImg(currImg.length)
-    } else if (currImg > 0) {
+       if (currImg > 0) {
       setCurrImg(currImg - 1);
      }
     }
 
     function nextImage() {
-      if (currImg < 3) {
+      if (currImg < 6) {
       setCurrImg(currImg + 1);
      }
     }
@@ -42,7 +40,7 @@ export default function TwoEyesInOneEye() {
           <div className={styles.prev} onClick={prevImage}>&#10094;&#10094;&#10094;</div>
           <div className={styles.next} onClick={nextImage}>&#10095;&#10095;&#10095;</div>
           <div className={styles.border}>
-          <Image src={`/images/Nao${currImg}.png`} width={1250} height={500}
+          <Image src={`/images/Nao${currImg}.png`} width={1050} height={500}
           alt="Two Eyes in One Eye: A Delirium"/>
           </div>
           </div>
