@@ -24,9 +24,11 @@ export default function TwoEyesRawText() {
         <br/>
         <CenterBlackTitle><span className={styles.grayShadow}><h3>vi khi nao</h3></span></CenterBlackTitle>
         <br/><br/>
-        <CenterGrayTitle><span className={styles.blackShadow}><h3>two<br/>eyes in one<br/>eye: a delirium</h3></span></CenterGrayTitle>
+        <CenterGrayTitle><span className={styles.blackShadow}>
+        <h3>two<br/>eyes in one<br/>eye: a delirium</h3></span></CenterGrayTitle>
         <br/><br/>
-        <CenterGrayTitle><span className={styles.blackShadow}><h3>version<br/>one: two eyes in one<br/>eye</h3></span></CenterGrayTitle>
+        <CenterGrayTitle><span className={styles.blackShadow}>
+        <h3>version<br/>one: two eyes in one<br/>eye</h3></span></CenterGrayTitle>
         <br/><br/><br/><br/><br/><br/>
        <GalleryLineation> <pre>{`
 The bird is walking around the courtyard      
@@ -248,6 +250,23 @@ Two lovers sit in a Houston
                     <br/>
                     <br/>
                     <br/>
+            <CenterGrayTitle><span className={styles.blackShadow}>
+            <h3>version<br/>two: two eyes in one<br/>eye</h3></span></CenterGrayTitle>
+            <br/><br/><br/><br/><br/><br/>
+            <GalleryLineation> <pre>{`
+             ~ital/strong BIRD                                ~ital/strong CATHEDRAL
+            My feathers are singing buttresses                   My buttresses are buttresses
+            I have two eyes                                      I have one
+
+
+                                               Who sees better?
+            `}</pre></GalleryLineation>
+            <br/>
+            <br/>
+            <br/>
+            <CenterGrayTitle><span className={styles.blackShadow}>
+            <h3>version<br/>three: two eyes in one<br/>eye</h3></span></CenterGrayTitle>
+            <br/><br/><br/><br/><br/><br/>
 
           </body>
       </div>
