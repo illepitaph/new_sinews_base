@@ -17,7 +17,7 @@ export default function TwoEyesInOneEye() {
     }
 
     function nextImage() {
-      if (currImg < 6) {
+      if (currImg < 16) {
       setCurrImg(currImg + 1);
      }
     }

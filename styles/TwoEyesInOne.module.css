@@ -30,6 +30,7 @@
   text-shadow: 2px 2px black;
   letter-spacing:0.2rem;
   cursor:pointer;
+  opacity:0.2;
 }
 
 .carousel > .next {
@@ -46,6 +47,7 @@
   text-shadow: 2px 2px #b0b0b0;
   letter-spacing:0.2rem;
   cursor:pointer;
+  opacity:0.5;
 }
 
 .prev:hover {
