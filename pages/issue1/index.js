@@ -22,7 +22,7 @@ export default function Issue1() {
     <div className={styles.issueContents}>
       <div className={styles.issue}>issue_1</div>
       <div className={styles.col1}>
-        <a className={styles.workLink} href="">sarah gridley_four poems</a>
+        <Link href="/issue1/gridley"><a className={styles.workLink} href="">sarah gridley_four poems</a></Link>
       </div>
       <div className={styles.col1}>
         <a className={styles.workLink} href="">gabriel blackwell_two stories</a>

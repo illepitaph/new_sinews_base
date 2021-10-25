@@ -29,7 +29,7 @@ export default function ZamoraRawText() {
         <h3>felicia zamora</h3></span></CenterGrayTitle>
         <br/><br/>
         <CenterBlackTitle><span className={styles.grayShadow}>
-        <h3>selection from 'quotient'</h3></span></CenterBlackTitle>
+        <h3>selections from 'quotient'</h3></span></CenterBlackTitle>
         <br/><br/>
        <GalleryLineation> <pre>{`
                         what is still is not

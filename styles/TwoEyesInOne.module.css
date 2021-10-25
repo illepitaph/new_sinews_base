@@ -13,8 +13,10 @@
   width:90%;
   height:100vh;
   margin:6% 0 6% 0;
-  background:linear-gradient(snow 10%, gainsboro 17%, white 25%, snow 35%, white 51%,
-    gainsboro 71%, white 75%, gainsboro 88%, snow 94%);
+  background:
+    linear-gradient(white 6%, gainsboro 10%, #e8e8e8 12%, whitesmoke 17%, snow 20%,
+      whitesmoke 31%, white 41%, whitesmoke 51%, whitesmoke 71%,
+      snow 75%, #e2e2e2 88%, snow 94%, gainsboro 96%, whitesmoke 98%);
   border-radius:30px;
   box-shadow: 20px 12px 5px #e2e2e2;
 }
@@ -68,12 +70,4 @@
 
 .imagery {
   mix-blend-mode:darken;
-}
-
-.grayShadow {
-  text-shadow:1px 1px #b0b0b0;
-}
-
-.blackShadow {
-  text-shadow:1px 1px black;
 }
