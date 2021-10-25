@@ -3,13 +3,24 @@ import Image from 'next/image'
 import Link from 'next/link'
 import Header from '../../components/header.js'
 import Footer from '../../components/footer.js'
-import Carousel from '../../components/carousel.js'
 import styles from '../../styles/Zamora.module.css'
 import React, {useState} from 'react'
+import { images } from '../../GalleryData/ZamoraCarouselData'
 
 
 export default function Zamora() {
+    const [currImg, setCurrImg] = useState(0);
+    function prevImage() {
+       if (currImg > 0) {
+      setCurrImg(currImg - 1);
+     }
+    }
 
+    function nextImage() {
+      if (currImg < 7) {
+      setCurrImg(currImg + 1);
+     }
+    }
 return (
     <div>
         <Head>
@@ -23,9 +34,14 @@ return (
 
         <div className={styles.container}>
 
-        <Carousel/>
+        <div className={styles.carousel}>
+        <div className={styles.prev} onClick={prevImage}>&#10094;&#10094;&#10094;</div>
+        <div className={styles.next} onClick={nextImage}>&#10095;&#10095;&#10095;</div>
+        <Image src={`/images/Zamora${currImg}.png`} width={1050} height={500}
+        className={styles.imagery} alt="Two Eyes in One Eye: A Delirium"/>
+        </div>
 
-     </div>
+         </div>
 
         <Footer/>
 

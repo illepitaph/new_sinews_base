@@ -267,6 +267,75 @@ Two lovers sit in a Houston
             <CenterGrayTitle><span className={styles.blackShadow}>
             <h3>version<br/>three: two eyes in one<br/>eye</h3></span></CenterGrayTitle>
             <br/><br/><br/><br/><br/><br/>
+            <GalleryLineation> <pre>{`
+            After winter gives the keys of daylight
+            Hours over to Spring——Spring opens the screen door
+            To ziplock Winter in cereal bowls——
+            The bird circles the cathedral once, twice in the Spring
+            The third time it pretends to be a cathedral
+            Having two oculi——
+            It thinks it can triumph light
+            Clattered incandescently through the pillars
+            The heart of the church is cold & blistery——
+            Ready to be lightwood——splintered by time
+             `}</pre></GalleryLineation>
+             <br/>
+             <br/>
+             <br/>
+             <br/>
+             <br/>
+             <GalleryLineation> <pre>{`
+      The bird opens its congregation of feathers
+              The physicist opens the bible made of birdseeds
+      She is a professor of time
+      Outside she sees the trees in the priest voices
+      Slants of light slaughter throats of the trees
+            Trees fall slightly, holding on to their spines ///// gaze down at the floor of the earth
+            At their shadow
+            A dialogue of death startles the church
+      The professor ambles outside from the aisle
+      Her pleats swing like lawnmower blades
+      Through the scattered bones of the trees
+      Near the flowerbeds saturated with worried blue gems, bindweeds, scarlet
+      Pimpernels, & Bermuda buttercups
+      Flowers square their soft blades of affection——fearing for their lives
+              `}</pre></GalleryLineation>
+              <GalleryLineation> <pre>{`
+          Avifaunal memory gathers at the foreheads
+          Of flowers, bird, & cathedral
+          The blades of the dress move gracefully
+          Through light
+          Leaving the church to molest the body
+          Spreading its legs open
+          For the past to shovel into
+          The hearts of the congregation are lifted higher and higher
+          Light sways; darkness sways
+          The Bermuda buttercups hang on tightly to their open blouses
+          The scarlet pimpernels pull down their floating hearts
+          Grappling for another portion of immortality
+               `}</pre></GalleryLineation>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <GalleryLineation> <pre>{`
+                 The professor tosses the bible in the air
+                 Arrives at the door of a slaughter house
+                 A flock of prayers float out of the blue gems’ mouths
+                 The blades of the dress                         Swing
+                 The flowers become a graveyard of inflorescent sexual desires
+                 Blinded by biblical hunger & anguish——
+                 The bird pecks at the flesh of the bible
+                 The bird has two eyes
+                 The church has one
+                 Who sees better?
+                `}</pre></GalleryLineation>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
 
           </body>
       </div>

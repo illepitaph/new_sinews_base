@@ -17,7 +17,7 @@ export default function TwoEyesInOneEye() {
     }
 
     function nextImage() {
-      if (currImg < 20) {
+      if (currImg < 24) {
       setCurrImg(currImg + 1);
      }
     }
@@ -40,7 +40,7 @@ export default function TwoEyesInOneEye() {
           <div className={styles.prev} onClick={prevImage}>&#10094;&#10094;&#10094;</div>
           <div className={styles.next} onClick={nextImage}>&#10095;&#10095;&#10095;</div>
           <Image src={`/images/Nao${currImg}.png`} width={1050} height={500}
-          alt="Two Eyes in One Eye: A Delirium"/>
+          className={styles.imagery} alt="Two Eyes in One Eye: A Delirium"/>
           </div>
 
            </div>

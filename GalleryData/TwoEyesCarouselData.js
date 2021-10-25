@@ -18,6 +18,10 @@ import Nao16 from "../public/images/Nao16.png"
 import Nao17 from "../public/images/Nao17.png"
 import Nao18 from "../public/images/Nao18.png"
 import Nao19 from "../public/images/Nao19.png"
+import Nao20 from "../public/images/Nao20.png"
+import Nao21 from "../public/images/Nao21.png"
+import Nao22 from "../public/images/Nao22.png"
+import Nao23 from "../public/images/Nao23.png"
 
 
 export const images = [
@@ -38,8 +42,12 @@ export const images = [
   {title : "Two Eyes 15", img: Nao14},
   {title : "Two Eyes 16", img: Nao15},
   {title : "Two Eyes 17", img: Nao16},
-  {title : "Two Eyes 17", img: Nao17},
-  {title : "Two Eyes 17", img: Nao18},
-  {title : "Two Eyes 17", img: Nao19}
+  {title : "Two Eyes 18", img: Nao17},
+  {title : "Two Eyes 19", img: Nao18},
+  {title : "Two Eyes 20", img: Nao19},
+  {title : "Two Eyes 21", img: Nao20},
+  {title : "Two Eyes 22", img: Nao21},
+  {title : "Two Eyes 23", img: Nao22},
+  {title : "Two Eyes 24", img: Nao23}
 
 ]

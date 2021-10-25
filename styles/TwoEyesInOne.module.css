@@ -13,10 +13,10 @@
   width:90%;
   height:100vh;
   margin:6% 0 6% 0;
-  background:linear-gradient(snow 10%, gainsboro 25%, snow 35%,
-    gainsboro 71%, #090909 75%, gainsboro 88%, snow 94%);
+  background:linear-gradient(snow 10%, gainsboro 17%, white 25%, snow 35%, white 51%,
+    gainsboro 71%, white 75%, gainsboro 88%, snow 94%);
   border-radius:30px;
-  box-shadow: 20px 10px 5px #e2e2e2;
+  box-shadow: 20px 12px 5px #e2e2e2;
 }
 
 .carousel > .prev {
@@ -66,15 +66,8 @@
   text-shadow:3px 3px black;
 }
 
-.dot {
-  cursor: pointer;
-  height: 15px;
-  width: 15px;
-  margin: 0 2px;
-  background-color: #b0b0b0;
-  border-radius: 50%;
-  display: inline-block;
-  transition: background-color 0.6s ease;
+.imagery {
+  mix-blend-mode:darken;
 }
 
 .grayShadow {
