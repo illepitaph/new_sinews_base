@@ -53,12 +53,12 @@ export default function ZamoraRawText() {
                         Synesthesia evokes before
                         speech lost in its own
                         trembling throat; language mutates
-                        with us — ~ITAL pick a number ~ITALI
+                        with us — `} <i>pick a number</i>{`
                         & the card game becomes
                         mathematical. Creation
                         in sequence before — the counters
                         of numbers only count. Quantity
-                        allows observance. ~ITAL How do you spell~Ital — ? Observe
+                        allows observance. `}<i>How do you spell</i> {`— ? Observe
          `}</pre></GalleryLineation>
          <br/>
          <br/>
@@ -68,9 +68,9 @@ export default function ZamoraRawText() {
          <GalleryLineation> <pre>{`
                         & what forms magic
                         originates as magic. We think
-                        in ITAL inventory ITAL to lock universals
-                        in brainwaves & tongues. ITAL Ownership ITAL
-                        out of word is dangerous. ITAL Forget, ITAL
+                        in `} <i>inventory</i> {`to lock universals
+                        in brainwaves & tongues. `}<i>Ownership</i>{`
+                        out of word is dangerous. `}<i>Forget</i>{`,
                         the same. No matter
                         calls forth without action. Words
                         reveal magical elements.
@@ -103,13 +103,13 @@ export default function ZamoraRawText() {
                         How eyelashes & tree branches
                         cast similar shadows — a game
                         of proportions. & when we admit:
-                        ITAL My magnitude hides, swallows
-                        in this body ITAL — a grave
+                        `}<i>My magnitude hides, swallows</i>{`
+                        `}<i>in this body</i>{` — a grave
                         tucks in fissures of hemispheres,
                         mirroring. In the cerebral cortex,
                         we fall into lobes & bones. Sutures
-                        of intersection. We count: ITAL one one-thousand,
-                        two one-thousand ITAL, under folds, in wait of boom.
+                        of intersection. We count: `}<i>one one-thousand</i>,{`
+                        `}<i>two one-thousand</i>{`, under folds, in wait of boom.
            `}</pre></GalleryLineation>
             <br/>
             <br/>

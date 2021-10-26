@@ -5,6 +5,17 @@ import StandardProse from '../../components/standardProse.js'
 import GalleryLineation from '../../components/galleryLineation.js'
 import styles from '../../styles/TwoEyesInOne.module.css'
 
+export function twoEyesRawText0(){
+  return   (
+          <>
+          <CenterBlackTitle><span className={styles.grayShadow}><h3>vi khi nao</h3></span></CenterBlackTitle>
+          <br/><br/>
+          <CenterGrayTitle><span className={styles.blackShadow}>
+          <h3>two<br/>eyes in one<br/>eye: a delirium</h3></span></CenterGrayTitle>
+          <br/><br/>
+          </>
+    )
+}
 
 export default function TwoEyesRawText() {
   let ital = "I am the only one who moves the seasons around";
@@ -22,11 +33,6 @@ export default function TwoEyesRawText() {
           <body>
         <br/>
         <br/>
-        <CenterBlackTitle><span className={styles.grayShadow}><h3>vi khi nao</h3></span></CenterBlackTitle>
-        <br/><br/>
-        <CenterGrayTitle><span className={styles.blackShadow}>
-        <h3>two<br/>eyes in one<br/>eye: a delirium</h3></span></CenterGrayTitle>
-        <br/><br/>
         <CenterGrayTitle><span className={styles.blackShadow}>
         <h3>version<br/>one: two eyes in one<br/>eye</h3></span></CenterGrayTitle>
         <br/><br/><br/><br/><br/><br/>
@@ -137,8 +143,8 @@ The congregation walks into the stomach    
                                         becoming less and less afraid of the bathroom and the
                                         stained glass windows near the aisle. After the light locks
                                         the earth in from its circular commotion, winter deceives
-                                  itself by thinking in sotto voce, ITAL~I am the only one who moves
-                                        the seasons around~ITAL, and says out loud, “You are eating my
+                                        itself by thinking in sotto voce, `}<i>I am the only one who moves</i>{`
+                                        `}<i>the seasons around</i>{`, and says out loud, “You are eating my
                                         heartbeat, you are eating, eating, eating me, Spring. Let
                                         me move through the season like a barren queen.”
               `}</pre></GalleryLineation>
@@ -150,10 +156,10 @@ The congregation walks into the stomach    
               <GalleryLineation> <pre>{`
 After the winter gives the keys of daylight  
 
-                                        hours over to Spring, Spring opens the screen
-                                        door. Ziplocks winter away in cereal bowls. In the
-                                        afternoon, Spring and Winter remove each other’s 
-                            company: ~ital You and the trees. You will meet them again.~ital
+                                             hours over to Spring, Spring opens the screen
+                                             door. Ziplocks winter away in cereal bowls. In the
+                                             afternoon, Spring and Winter remove each other’s 
+                                             company: `}<i>You and the trees. You will meet them again.</i>{`
                `}</pre></GalleryLineation>
                <br/>
                <br/>
@@ -254,7 +260,7 @@ Two lovers sit in a Houston
             <h3>version<br/>two: two eyes in one<br/>eye</h3></span></CenterGrayTitle>
             <br/><br/><br/><br/><br/><br/>
             <GalleryLineation> <pre>{`
-             ~ital/strong BIRD                                ~ital/strong CATHEDRAL
+                      `}<strong>BIRD</strong>{`                                                `}<strong>CATHEDRAL</strong>{`
             My feathers are singing buttresses                   My buttresses are buttresses
             I have two eyes                                      I have one
 

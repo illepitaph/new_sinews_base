@@ -8,19 +8,23 @@ import styles from '../../styles/TwoEyesInOne.module.css'
 import { images } from '../../GalleryData/TwoEyesCarouselData'
 
 export default function TwoEyesInOneEye() {
-
   const [currImg, setCurrImg] = useState(0);
     function prevImage() {
        if (currImg > 0) {
       setCurrImg(currImg - 1);
-     }
+    } else {
+      setCurrImg(images.length - 1);
     }
+}
 
     function nextImage() {
       if (currImg < 24) {
       setCurrImg(currImg + 1);
-     }
+    } else {
+      setCurrImg(0);
     }
+}
+
   return (
       <div>
           <Head>
