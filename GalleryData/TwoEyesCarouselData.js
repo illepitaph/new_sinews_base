@@ -1,53 +1,54 @@
-import Nao0 from "../public/images/Nao0.png"
-import Nao1 from "../public/images/Nao1.png"
-import Nao2 from "../public/images/Nao2.png"
-import Nao3 from "../public/images/Nao3.png"
-import Nao4 from "../public/images/Nao4.png"
-import Nao5 from "../public/images/Nao5.png"
-import Nao6 from "../public/images/Nao6.png"
-import Nao7 from "../public/images/Nao7.png"
-import Nao8 from "../public/images/Nao8.png"
-import Nao9 from "../public/images/Nao9.png"
-import Nao10 from "../public/images/Nao10.png"
-import Nao11 from "../public/images/Nao11.png"
-import Nao12 from "../public/images/Nao12.png"
-import Nao13 from "../public/images/Nao13.png"
-import Nao14 from "../public/images/Nao14.png"
-import Nao15 from "../public/images/Nao15.png"
-import Nao16 from "../public/images/Nao16.png"
-import Nao17 from "../public/images/Nao17.png"
-import Nao18 from "../public/images/Nao18.png"
-import Nao19 from "../public/images/Nao19.png"
-import Nao20 from "../public/images/Nao20.png"
-import Nao21 from "../public/images/Nao21.png"
-import Nao22 from "../public/images/Nao22.png"
-import Nao23 from "../public/images/Nao23.png"
+import { TwoEyesRawText1 } from "../components/blank.js"
+import { TwoEyesRawText2 } from "../components/blank.js"
+import { TwoEyesRawText3 } from "../components/blank.js"
+import { TwoEyesRawText4 } from "../components/blank.js"
+import { TwoEyesRawText5 } from "../components/blank.js"
+import { TwoEyesRawText6 } from "../components/blank.js"
+import { TwoEyesRawText7 } from "../components/blank.js"
+import { TwoEyesRawText8 } from "../components/blank.js"
+import { TwoEyesRawText9 } from "../components/blank.js"
+import { TwoEyesRawText10 } from "../components/blank.js"
+import { TwoEyesRawText11 } from "../components/blank.js"
+import { TwoEyesRawText12 } from "../components/blank.js"
+import { TwoEyesRawText13 } from "../components/blank.js"
+import { TwoEyesRawText14 } from "../components/blank.js"
+import { TwoEyesRawText15 } from "../components/blank.js"
+import { TwoEyesRawText16 } from "../components/blank.js"
+import { TwoEyesRawText17 } from "../components/blank.js"
+import { TwoEyesRawText18 } from "../components/blank.js"
+import { TwoEyesRawText19 } from "../components/blank.js"
+import { TwoEyesRawText20 } from "../components/blank.js"
+import { TwoEyesRawText21 } from "../components/blank.js"
+import { TwoEyesRawText22 } from "../components/blank.js"
+import { TwoEyesRawText23 } from "../components/blank.js"
+import { TwoEyesRawText24 } from "../components/blank.js"
+import { TwoEyesRawText25 } from "../components/blank.js"
 
 
-export const images = [
-  {title : "Two Eyes 1", img: Nao0},
-  {title : "Two Eyes 2", img: Nao1},
-  {title : "Two Eyes 3", img: Nao2},
-  {title : "Two Eyes 4", img: Nao3},
-  {title : "Two Eyes 5", img: Nao4},
-  {title : "Two Eyes 6", img: Nao5},
-  {title : "Two Eyes 7", img: Nao6},
-  {title : "Two Eyes 8", img: Nao7},
-  {title : "Two Eyes 9", img: Nao8},
-  {title : "Two Eyes 10", img: Nao9},
-  {title : "Two Eyes 11", img: Nao10},
-  {title : "Two Eyes 12", img: Nao11},
-  {title : "Two Eyes 13", img: Nao12},
-  {title : "Two Eyes 14", img: Nao13},
-  {title : "Two Eyes 15", img: Nao14},
-  {title : "Two Eyes 16", img: Nao15},
-  {title : "Two Eyes 17", img: Nao16},
-  {title : "Two Eyes 18", img: Nao17},
-  {title : "Two Eyes 19", img: Nao18},
-  {title : "Two Eyes 20", img: Nao19},
-  {title : "Two Eyes 21", img: Nao20},
-  {title : "Two Eyes 22", img: Nao21},
-  {title : "Two Eyes 23", img: Nao22},
-  {title : "Two Eyes 24", img: Nao23}
-
+export const text = [
+  {title : "Two Eyes 1", textName: TwoEyesRawText1},
+  {title : "Two Eyes 2", textName: TwoEyesRawText2},
+  {title : "Two Eyes 3", textName: TwoEyesRawText3},
+  {title : "Two Eyes 4", textName: TwoEyesRawText4},
+  {title : "Two Eyes 5", textName: TwoEyesRawText5},
+  {title : "Two Eyes 6", textName: TwoEyesRawText6},
+  {title : "Two Eyes 7", textName: TwoEyesRawText7},
+  {title : "Two Eyes 8", textName: TwoEyesRawText8},
+  {title : "Two Eyes 9", textName: TwoEyesRawText9},
+  {title : "Two Eyes 10", textName: TwoEyesRawText10},
+  {title : "Two Eyes 11", textName: TwoEyesRawText11},
+  {title : "Two Eyes 12", textName: TwoEyesRawText12},
+  {title : "Two Eyes 13", textName: TwoEyesRawText13},
+  {title : "Two Eyes 14", textName: TwoEyesRawText14},
+  {title : "Two Eyes 15", textName: TwoEyesRawText15},
+  {title : "Two Eyes 16", textName: TwoEyesRawText16},
+  {title : "Two Eyes 17", textName: TwoEyesRawText17},
+  {title : "Two Eyes 18", textName: TwoEyesRawText18},
+  {title : "Two Eyes 19", textName: TwoEyesRawText19},
+  {title : "Two Eyes 20", textName: TwoEyesRawText20},
+  {title : "Two Eyes 21", textName: TwoEyesRawText21},
+  {title : "Two Eyes 22", textName: TwoEyesRawText22},
+  {title : "Two Eyes 23", textName: TwoEyesRawText23},
+  {title : "Two Eyes 24", textName: TwoEyesRawText24},
+  {title : "Two Eyes 25", textName: TwoEyesRawText25}
 ]

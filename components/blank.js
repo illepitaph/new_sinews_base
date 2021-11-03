@@ -1,15 +1,12 @@
-import Head from 'next/head'
-import CenterGrayTitle from '../../components/centerGrayTitle.js'
-import CenterBlackTitle from '../../components/centerBlackTitle.js'
-import StandardProse from '../../components/standardProse.js'
-import GalleryLineation from '../../components/galleryLineation.js'
-import styles from '../../styles/TwoEyesInOne.module.css'
+import CenterGrayTitle from '../components/centerGrayTitle.js'
+import CenterBlackTitle from '../components/centerBlackTitle.js'
+import StandardProse from '../components/standardProse.js'
+import GalleryLineation from '../components/galleryLineation.js'
+import styles from '../styles/TwoEyesInOne.module.css'
 
-export function twoEyesRawText1(){
+export function TwoEyesRawText1(){
   return   (
           <>
-          <CenterBlackTitle><span className={styles.grayShadow}><h3>vi khi nao</h3></span></CenterBlackTitle>
-          <br/><br/>
           <CenterGrayTitle><span className={styles.blackShadow}>
           <h3>two<br/>eyes in one<br/>eye: a delirium</h3></span></CenterGrayTitle>
           <br/><br/>
@@ -17,7 +14,16 @@ export function twoEyesRawText1(){
     )
 }
 
-export function TwoEyesRawText2() {
+export function TwoEyesRawText2(){
+  return   (
+          <>
+          <CenterBlackTitle><span className={styles.grayShadow}><h3>vi khi nao</h3></span></CenterBlackTitle>
+          <br/><br/>
+          </>
+    )
+}
+
+export function TwoEyesRawText3() {
     return (
         <>
         <CenterGrayTitle><span className={styles.blackShadow}>
@@ -27,7 +33,7 @@ export function TwoEyesRawText2() {
       )
 }
 
-export function TwoEyesRawText3() {
+export function TwoEyesRawText4() {
     return (
        <>
        <GalleryLineation> <pre>{`
@@ -52,7 +58,7 @@ The bird is walking around the courtyard      
   )
 }
 
-export function TwoEyesRawText4() {
+export function TwoEyesRawText5() {
     return (
         <>
         <GalleryLineation> <pre>{`
@@ -73,7 +79,7 @@ The church opens its white      
    )
  }
 
- export function TwoEyesRawText5() {
+ export function TwoEyesRawText6() {
      return (
          <>
          <GalleryLineation> <pre>{`
@@ -93,7 +99,7 @@ The heart of the church is cold    
       )
     }
 
-export function TwoEyesRawText6() {
+export function TwoEyesRawText7() {
         return (
             <>
           <GalleryLineation> <pre>{`
@@ -113,7 +119,7 @@ The congregation walks into the stomach    
         )
     }
 
-export function TwoEyesRawText7() {
+export function TwoEyesRawText8() {
             return (
                 <>
            <GalleryLineation> <pre>{`
@@ -140,7 +146,7 @@ export function TwoEyesRawText7() {
      )
    }
 
-  export function TwoEyesRawText8() {
+  export function TwoEyesRawText9() {
            return (
                <>
             <GalleryLineation> <pre>{`
@@ -165,7 +171,7 @@ export function TwoEyesRawText7() {
         )
     }
 
-    export function TwoEyesRawText9() {
+    export function TwoEyesRawText10() {
             return (
                 <>
              <GalleryLineation> <pre>{`
@@ -192,7 +198,7 @@ export function TwoEyesRawText7() {
       )
     }
 
-export function TwoEyesRawText10() {
+export function TwoEyesRawText11() {
             return (
                 <>
               <GalleryLineation> <pre>{`
@@ -212,7 +218,7 @@ After the winter gives the keys of daylight  
         )
     }
 
-    export function TwoEyesRawText11() {
+    export function TwoEyesRawText12() {
                 return (
                     <>
                <GalleryLineation> <pre>{`
@@ -231,7 +237,7 @@ The priest is breathing finally and eating
         )
     }
 
-    export function TwoEyesRawText12() {
+    export function TwoEyesRawText13() {
                 return (
                     <>
                 <GalleryLineation> <pre>{`
@@ -260,7 +266,7 @@ The priest is breathing finally and eating
             )
       }
 
-    export function TwoEyesRawText13() {
+    export function TwoEyesRawText14() {
                   return (
                       <>
                  <GalleryLineation> <pre>{`
@@ -286,7 +292,7 @@ United in prayer, they pray:
           )
     }
 
-    export function TwoEyesRawText14() {
+    export function TwoEyesRawText15() {
                 return (
                     <>
                   <GalleryLineation> <pre>{`
@@ -303,7 +309,7 @@ The blades of the pleats
         )
     }
 
-    export function TwoEyesRawText15() {
+    export function TwoEyesRawText16() {
                 return (
                     <>
                    <GalleryLineation> <pre>{`
@@ -324,7 +330,7 @@ The church does not
       }
 
 
-      export function TwoEyesRawText16() {
+      export function TwoEyesRawText17() {
                       return (
                        <>
                     <GalleryLineation> <pre>{`
@@ -337,7 +343,7 @@ Two lovers sit in a Houston
               )
         }
 
-        export function TwoEyesRawText17() {
+        export function TwoEyesRawText18() {
                           return (
                               <>
 
@@ -353,13 +359,20 @@ Two lovers sit in a Houston
                 )
           }
 
-          export function TwoEyesRawText18() {
+          export function TwoEyesRawText19() {
                             return (
                                 <>
 
             <CenterGrayTitle><span className={styles.blackShadow}>
             <h3>version<br/>two: two eyes in one<br/>eye</h3></span></CenterGrayTitle>
             <br/><br/><br/><br/><br/><br/>
+            </>
+        )
+    }
+
+    export function TwoEyesRawText20() {
+                      return (
+                          <>
             <GalleryLineation> <pre>{`
                       `}<strong>BIRD</strong>{`                                                `}<strong>CATHEDRAL</strong>{`
             My feathers are singing buttresses                   My buttresses are buttresses
@@ -375,7 +388,7 @@ Two lovers sit in a Houston
     )
 }
 
-export function TwoEyesRawText19() {
+export function TwoEyesRawText21() {
                   return (
                       <>
             <CenterGrayTitle><span className={styles.blackShadow}>
@@ -385,7 +398,7 @@ export function TwoEyesRawText19() {
         )
     }
 
-export function TwoEyesRawText20() {
+export function TwoEyesRawText22() {
                       return (
                           <>
 
@@ -410,7 +423,7 @@ export function TwoEyesRawText20() {
         )
     }
 
-    export function TwoEyesRawText21() {
+    export function TwoEyesRawText23() {
                       return (
                           <>
              <GalleryLineation> <pre>{`
@@ -433,7 +446,7 @@ export function TwoEyesRawText20() {
              )
         }
 
-        export function TwoEyesRawText22() {
+        export function TwoEyesRawText24() {
                           return (
                               <>
 
@@ -460,7 +473,7 @@ export function TwoEyesRawText20() {
         )
   }
 
-  export function TwoEyesRawText23() {
+  export function TwoEyesRawText25() {
                     return (
                         <>
                <GalleryLineation> <pre>{`
@@ -483,8 +496,3 @@ export function TwoEyesRawText20() {
                 </>
         )
     }
-
-          </body>
-      </div>
-  )
-}

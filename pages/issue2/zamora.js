@@ -21,6 +21,7 @@ export default function Zamora() {
       setCurrImg(currImg + 1);
      }
     }
+
 return (
     <div>
         <Head>

@@ -1,29 +1,34 @@
 import React, {useState} from 'react'
+import dynamic from 'next/dynamic'
 import Head from 'next/head'
-import Image from 'next/image'
 import Link from 'next/link'
+import Image from 'next/image'
 import Header from '../../components/header.js'
+import GalleryLineation from '../../components/galleryLineation.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/TwoEyesInOne.module.css'
-import { images } from '../../GalleryData/TwoEyesCarouselData'
+import { text } from '../../GalleryData/TwoEyesCarouselData'
+import { TwoEyesRawText1, TwoEyesRawText2 } from '../../components/blank.js'
 
 export default function TwoEyesInOneEye() {
-  const [currImg, setCurrImg] = useState(0);
-    function prevImage() {
-       if (currImg > 0) {
-      setCurrImg(currImg - 1);
+  const [textArrayIndex, setTextArrayIndex] = useState(0);
+    function prevText() {
+       if (textArrayIndex > 0) {
+      setTextArrayIndex(textArrayIndex - 1);
     } else {
-      setCurrImg(images.length - 1);
+      setTextArrayIndex(text.length - 1);
     }
 }
 
-    function nextImage() {
-      if (currImg < 24) {
-      setCurrImg(currImg + 1);
+    function nextText() {
+      if (textArrayIndex < 25) {
+      setTextArrayIndex(textArrayIndex + 1);
     } else {
-      setCurrImg(0);
+      setTextArrayIndex(0);
     }
 }
+
+const RawText = text[textArrayIndex]["textName"];
 
   return (
       <div>
@@ -41,10 +46,9 @@ export default function TwoEyesInOneEye() {
           <div className={styles.container}>
 
           <div className={styles.carousel}>
-          <div className={styles.prev} onClick={prevImage}>&#10094;&#10094;&#10094;</div>
-          <div className={styles.next} onClick={nextImage}>&#10095;&#10095;&#10095;</div>
-          <Image src={`/images/Nao${currImg}.png`} width={1050} height={500}
-          className={styles.imagery} alt="Two Eyes in One Eye: A Delirium"/>
+          <div className={styles.prev} onClick={prevText}>&#10094;&#10094;&#10094;</div>
+          <div className={styles.next} onClick={nextText}>&#10095;&#10095;&#10095;</div>
+          <div><RawText/></div>
           </div>
 
            </div>
