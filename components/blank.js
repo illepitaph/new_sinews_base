@@ -9,7 +9,6 @@ export function TwoEyesRawText1(){
           <>
           <CenterGrayTitle><span className={styles.blackShadow}>
           <h3>two<br/>eyes in one<br/>eye: a delirium</h3></span></CenterGrayTitle>
-          <br/><br/>
           </>
     )
 }
@@ -17,8 +16,7 @@ export function TwoEyesRawText1(){
 export function TwoEyesRawText2(){
   return   (
           <>
-          <CenterBlackTitle><span className={styles.grayShadow}><h3>vi khi nao</h3></span></CenterBlackTitle>
-          <br/><br/>
+          <CenterBlackTitle><span className={styles.grayShadow}><h3>_ vi _ khi _ nao _</h3></span></CenterBlackTitle>
           </>
     )
 }
@@ -28,7 +26,6 @@ export function TwoEyesRawText3() {
         <>
         <CenterGrayTitle><span className={styles.blackShadow}>
         <h3>version<br/>one: two eyes in one<br/>eye</h3></span></CenterGrayTitle>
-        <br/><br/><br/><br/><br/><br/>
       </>
       )
 }
@@ -49,11 +46,6 @@ The bird is walking around the courtyard      
                                         metamorphoses into a cathedral. The bird opens wide its
                                         buttresses, spreading its congregation of feathers. 
         `}</pre></GalleryLineation>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
         </>
   )
 }
@@ -70,12 +62,7 @@ The church opens its white      
                                         The church is going to ask the bread to molest the body. 
                                         Spread the legs open and shovel the past into it.
          `}</pre></GalleryLineation>
-         <br/>
-         <br/>
-         <br/>
-         <br/>
-         <br/>
-       </>
+           </>
    )
  }
 
@@ -90,11 +77,6 @@ The heart of the church is cold    
                                         lining, the ambulatory nave, with wisdom and
                                         confidence.
           `}</pre></GalleryLineation>
-          <br/>
-          <br/>
-          <br/>
-          <br/>
-          <br/>
           </>
       )
     }
@@ -110,11 +92,6 @@ The congregation walks into the stomach    
                                         at her watch. The priest will cut the lives of others with
                                         his cryptic voice.
            `}</pre></GalleryLineation>
-           <br/>
-           <br/>
-           <br/>
-           <br/>
-           <br/>
            </>
         )
     }
@@ -137,12 +114,7 @@ export function TwoEyesRawText8() {
                                         with you, floating on the earth’s surface like a buffalo
                                         hide, dehydrated by the sun. But I’d rather not...”
             `}</pre></GalleryLineation>
-            <br/>
-            <br/>
-            <br/>
-            <br/>
-            <br/>
-            </>
+              </>
      )
    }
 
@@ -162,12 +134,7 @@ export function TwoEyesRawText8() {
                                         violates becomes unequal to anything. Or anybody. And
                                         rain:
              `}</pre></GalleryLineation>
-             <br/>
-             <br/>
-             <br/>
-             <br/>
-             <br/>
-             </>
+                 </>
         )
     }
 
@@ -189,11 +156,6 @@ export function TwoEyesRawText8() {
                                         heartbeat, you are eating, eating, eating me, Spring. Let
                                         me move through the season like a barren queen.”
               `}</pre></GalleryLineation>
-              <br/>
-              <br/>
-              <br/>
-              <br/>
-              <br/>
               </>
       )
     }
@@ -209,12 +171,7 @@ After the winter gives the keys of daylight  
                                              afternoon, Spring and Winter remove each other’s 
                                              company: `}<i>You and the trees. You will meet them again.</i>{`
                `}</pre></GalleryLineation>
-               <br/>
-               <br/>
-               <br/>
-               <br/>
-               <br/>
-               </>
+                 </>
         )
     }
 
@@ -228,12 +185,7 @@ The priest is breathing finally and eating
                                          Never on the table of God. Landscape knows that night
                                          will murder the day each time.
                 `}</pre></GalleryLineation>
-                <br/>
-                <br/>
-                <br/>
-                <br/>
-                <br/>
-                </>
+                    </>
         )
     }
 
@@ -257,12 +209,7 @@ The priest is breathing finally and eating
                                         empty their inflorescences into the shadow cast by the
                                         sun.
                  `}</pre></GalleryLineation>
-                 <br/>
-                 <br/>
-                 <br/>
-                 <br/>
-                 <br/>
-                 </>
+                     </>
             )
       }
 
@@ -283,12 +230,7 @@ United in prayer, they pray:
                                         holding up the spine. To maintain the posture of tenacity
                                         & fragility. 
                   `}</pre></GalleryLineation>
-                  <br/>
-                  <br/>
-                  <br/>
-                  <br/>
-                  <br/>
-                  </>
+                    </>
           )
     }
 
@@ -296,16 +238,11 @@ United in prayer, they pray:
                 return (
                     <>
                   <GalleryLineation> <pre>{`
-The blades of the pleats
+  The blades of the pleats
 
-                                                       swing. The flowers lose their spines.
+                                          swing. The flowers lose their spines.
                   `}</pre></GalleryLineation>
-                   <br/>
-                   <br/>
-                   <br/>
-                   <br/>
-                   <br/>
-                   </>
+                       </>
         )
     }
 
@@ -334,10 +271,10 @@ The church does not
                       return (
                        <>
                     <GalleryLineation> <pre>{`
-Two lovers sit in a Houston
+ Two lovers sit in a Houston
 
-                                                Church in the middle of the afternoon. Their
-                                        orgasms sprawl out onto the nave.
+                                      Church in the middle of the afternoon. Their
+                              orgasms sprawl out onto the nave.
                     `}</pre></GalleryLineation>
                     </>
               )
@@ -348,14 +285,9 @@ Two lovers sit in a Houston
                               <>
 
                     <GalleryLineation> <pre>{`
-    The bird has two eyes.                The Church has one.                Whoseesbetter?
+The bird has two eyes.          The Church has one.          Whoseesbetter?
                     `}</pre></GalleryLineation>
-                    <br/>
-                    <br/>
-                    <br/>
-                    <br/>
-                    <br/>
-                    </>
+                        </>
                 )
           }
 
@@ -365,7 +297,6 @@ Two lovers sit in a Houston
 
             <CenterGrayTitle><span className={styles.blackShadow}>
             <h3>version<br/>two: two eyes in one<br/>eye</h3></span></CenterGrayTitle>
-            <br/><br/><br/><br/><br/><br/>
             </>
         )
     }
@@ -374,17 +305,14 @@ Two lovers sit in a Houston
                       return (
                           <>
             <GalleryLineation> <pre>{`
-                      `}<strong>BIRD</strong>{`                                                `}<strong>CATHEDRAL</strong>{`
-            My feathers are singing buttresses                   My buttresses are buttresses
-            I have two eyes                                      I have one
+                      `}<strong>BIRD</strong>{`                                    `}<strong>CATHEDRAL</strong>{`
+My feathers are singing buttresses                   My buttresses are buttresses
+I have two eyes                                      I have one
 
 
-                                               Who sees better?
+                                  Who sees better?
             `}</pre></GalleryLineation>
-            <br/>
-            <br/>
-            <br/>
-            </>
+              </>
     )
 }
 
@@ -393,7 +321,6 @@ export function TwoEyesRawText21() {
                       <>
             <CenterGrayTitle><span className={styles.blackShadow}>
             <h3>version<br/>three: two eyes in one<br/>eye</h3></span></CenterGrayTitle>
-            <br/><br/><br/><br/><br/><br/>
                   </>
         )
     }
@@ -414,11 +341,6 @@ export function TwoEyesRawText22() {
             The heart of the church is cold & blistery——
             Ready to be lightwood——splintered by time
              `}</pre></GalleryLineation>
-             <br/>
-             <br/>
-             <br/>
-             <br/>
-             <br/>
              </>
         )
     }
@@ -464,12 +386,7 @@ export function TwoEyesRawText22() {
           The scarlet pimpernels pull down their floating hearts
           Grappling for another portion of immortality
                `}</pre></GalleryLineation>
-               <br/>
-               <br/>
-               <br/>
-               <br/>
-               <br/>
-               </>
+                             </>
         )
   }
 
@@ -480,7 +397,7 @@ export function TwoEyesRawText22() {
                  The professor tosses the bible in the air
                  Arrives at the door of a slaughter house
                  A flock of prayers float out of the blue gems’ mouths
-                 The blades of the dress                         Swing
+                 The blades of the dress                   Swing
                  The flowers become a graveyard of inflorescent sexual desires
                  Blinded by biblical hunger & anguish——
                  The bird pecks at the flesh of the bible
@@ -488,11 +405,6 @@ export function TwoEyesRawText22() {
                  The church has one
                  Who sees better?
                 `}</pre></GalleryLineation>
-                <br/>
-                <br/>
-                <br/>
-                <br/>
-                <br/>
                 </>
         )
     }
