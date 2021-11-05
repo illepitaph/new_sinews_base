@@ -71,6 +71,12 @@
 
 }
 
-.imagery {
-  mix-blend-mode:darken;
+.grayShadow {
+  text-shadow:2px 2px #b0b0b0,
+              4px 4px black;
+}
+
+.blackShadow {
+  text-shadow:2px 2px black,
+              4px 4px #b0b0b0;
 }

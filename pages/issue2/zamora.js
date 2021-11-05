@@ -5,22 +5,28 @@ import Header from '../../components/header.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Zamora.module.css'
 import React, {useState} from 'react'
-import { images } from '../../GalleryData/ZamoraCarouselData'
+import { text } from '../../GalleryData/ZamoraCarouselData'
 
 
 export default function Zamora() {
-    const [currImg, setCurrImg] = useState(0);
-    function prevImage() {
-       if (currImg > 0) {
-      setCurrImg(currImg - 1);
-     }
+  const [textArrayIndex, setTextArrayIndex] = useState(0);
+    function prevText() {
+       if (textArrayIndex > 0) {
+      setTextArrayIndex(textArrayIndex - 1);
+    } else {
+      setTextArrayIndex(text.length - 1);
     }
+}
 
-    function nextImage() {
-      if (currImg < 7) {
-      setCurrImg(currImg + 1);
-     }
+    function nextText() {
+      if (textArrayIndex <= 7) {
+      setTextArrayIndex(textArrayIndex + 1);
+    } else {
+      setTextArrayIndex(0);
     }
+}
+
+const RawText = text[textArrayIndex]["textName"];
 
 return (
     <div>
@@ -36,10 +42,9 @@ return (
         <div className={styles.container}>
 
         <div className={styles.carousel}>
-        <div className={styles.prev} onClick={prevImage}>&#10094;&#10094;&#10094;</div>
-        <div className={styles.next} onClick={nextImage}>&#10095;&#10095;&#10095;</div>
-        <Image src={`/images/Zamora${currImg}.png`} width={1050} height={500}
-        className={styles.imagery} alt="Two Eyes in One Eye: A Delirium"/>
+        <div className={styles.prev} onClick={prevText}>&#10094;&#10094;&#10094;</div>
+        <div className={styles.next} onClick={nextText}>&#10095;&#10095;&#10095;</div>
+        <div><RawText/></div>
         </div>
 
          </div>

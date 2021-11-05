@@ -8,7 +8,6 @@ import GalleryLineation from '../../components/galleryLineation.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/TwoEyesInOne.module.css'
 import { text } from '../../GalleryData/TwoEyesCarouselData'
-import { TwoEyesRawText1, TwoEyesRawText2 } from '../../components/blank.js'
 
 export default function TwoEyesInOneEye() {
   const [textArrayIndex, setTextArrayIndex] = useState(0);
