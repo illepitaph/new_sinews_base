@@ -53,6 +53,10 @@
   background-image:url("../public/images/LakghomiBackground.jpg");
 }
 
+.leYeasteBackground {
+  background-image:url("../public/images/LeYeasteBackground.jpg");
+}
+
 .siteBarContainerAbout {
   height:65vh;
   background-image:url("../public/images/LineNewSinew.jpg");
