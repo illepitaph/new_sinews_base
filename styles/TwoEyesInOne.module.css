@@ -69,11 +69,11 @@
 }
 
 .grayShadow {
-  text-shadow:2px 2px #b0b0b0,
-              4px 4px black;
+  text-shadow:2px 2px snow,
+              4px 4px #b0b0b0;
 }
 
 .blackShadow {
-  text-shadow:2px 2px black,
-              4px 4px #b0b0b0;
+  text-shadow:2px 2px snow,
+              4px 4px black;
 }

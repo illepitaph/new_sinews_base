@@ -1,6 +1,5 @@
 import CenterGrayTitle from '../components/centerGrayTitle.js'
 import CenterBlackTitle from '../components/centerBlackTitle.js'
-import StandardProse from '../components/standardProse.js'
 import GalleryLineation from '../components/galleryLineation.js'
 import styles from '../styles/TwoEyesInOne.module.css'
 

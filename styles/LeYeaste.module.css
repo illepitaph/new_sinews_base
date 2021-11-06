@@ -14,7 +14,7 @@
   height:100vh;
   margin:6% 0 6% 0;
   background:
-    linear-gradient(white 6%, gainsboro 10%, #e8e8e8 12%, whitesmoke 17%, snow 20%,
+    linear-gradient(black 1%, white 6%, gainsboro 10%, #e8e8e8 12%, whitesmoke 17%, snow 20%,
       whitesmoke 31%, white 41%, whitesmoke 51%, whitesmoke 71%,
       snow 75%, #e2e2e2 88%, snow 94%, gainsboro 96%, whitesmoke 98%);
   border-radius:30px;
@@ -30,13 +30,14 @@
   height:5%;
   display:grid;
   place-items:center;
-  color:#b0b0b0;
+  color:snow;
   font-size:4rem;
   font-weight:700;
-  text-shadow: 2px 2px black;
+  text-shadow: 2px 3px black,
+                4px 6px red;
   letter-spacing:0.2rem;
   cursor:pointer;
-  opacity:0.7;
+  opacity:0.3;
 }
 
 .carousel > .next {
@@ -48,22 +49,46 @@
   height:5%;
   display:grid;
   place-items:center;
+  color:red;
   font-size:4rem;
   font-weight:700;
-  text-shadow: 2px 2px #b0b0b0;
+  text-shadow: 2px 2px #b0b0b0,
+                 4px 4px black;
   letter-spacing:0.2rem;
   cursor:pointer;
-  opacity:0.3;
+  opacity:0.2;
 }
 
 .prev:hover {
   font-size:4.2rem;
   color:black;
-  text-shadow:3px 3px #b0b0b0;
+  text-shadow:2px 3px snow,
+             5px 5px red;
 }
 
 .next:hover {
   font-size:4.2rem;
   color:#b0b0b0;
   text-shadow:3px 3px black;
+}
+
+.blackShadow {
+  color:black;
+  text-shadow:4px 4px snow,
+              6px 6px #b0b0b0;
+  font-style:italic;
+}
+
+.grayShadow {
+  color:gainsboro;
+  text-shadow:2px 2px black,
+              4px 4px #b0b0b0;
+  text-transform: uppercase;
+  letter-spacing:1.4rem;
+  line-height:5.4rem;
+}
+
+.boldText {
+  font-weight:700;
+  font-style:italic;
 }
