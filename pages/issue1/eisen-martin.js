@@ -162,7 +162,7 @@ Please take your seats.
 `}</pre>
 </div>
 
-<p className={styles.compositionTitle}>two<br/>nights on 16th<br/>street</p>
+<CenterBlackTitle><h3> ... ... <i>two<br/>nights on 16th<br/>street</i> ... ... </h3></CenterBlackTitle>
 
 <div className={styles.poem}>
 

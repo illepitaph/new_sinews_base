@@ -5,9 +5,28 @@ import Link from 'next/link'
 import Header from '../../components/header.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/LeYeaste.module.css'
-import { text } from '../../GalleryData/LeYeasteCarouselData'
+import { leYeasteText } from '../../GalleryData/LeYeasteCarouselData.js'
 
 export default function LeYeaste() {
+  const [textArrayIndex, setTextArrayIndex] = useState(0);
+    function prevText() {
+       if (textArrayIndex > 0) {
+      setTextArrayIndex(textArrayIndex - 1);
+    } else {
+      setTextArrayIndex(text.length - 1);
+    }
+}
+
+    function nextText() {
+      if (textArrayIndex < 2) {
+      setTextArrayIndex(textArrayIndex + 1);
+    } else {
+      setTextArrayIndex(0);
+    }
+}
+
+const RawText = leYeasteText[textArrayIndex]["textName"];
+
 
   return (
       <div>
@@ -21,12 +40,15 @@ export default function LeYeaste() {
 
           <Header headerBackground="leYeasteBackground"/>
 
+          <div className={styles.container}>
+
           <div className={styles.carousel}>
-          <div className={styles.prev}>&#10094;&#10094;&#10094;</div>
-          <div className={styles.next} >&#10095;&#10095;&#10095;</div>
+          <div className={styles.prev} onClick={prevText}>&#10094;&#10094;&#10094;</div>
+          <div className={styles.next} onClick={nextText}>&#10095;&#10095;&#10095;</div>
+          <div><RawText/></div>
           </div>
 
-
+           </div>
               <Footer/>
 
                     </div>

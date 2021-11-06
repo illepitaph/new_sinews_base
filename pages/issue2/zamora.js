@@ -5,7 +5,7 @@ import Header from '../../components/header.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Zamora.module.css'
 import React, {useState} from 'react'
-import { text } from '../../GalleryData/ZamoraCarouselData'
+import { zamoraText } from '../../GalleryData/ZamoraCarouselData'
 
 
 export default function Zamora() {
@@ -26,7 +26,7 @@ export default function Zamora() {
     }
 }
 
-const RawText = text[textArrayIndex]["textName"];
+const RawText = zamoraText[textArrayIndex]["textName"];
 
 return (
     <div>

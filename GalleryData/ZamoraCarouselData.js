@@ -7,7 +7,7 @@ import { ZamoraRawText6 } from "../galleryText/zamoraGalleryText.js"
 import { ZamoraRawText7 } from "../galleryText/zamoraGalleryText.js"
 import { ZamoraRawText8 } from "../galleryText/zamoraGalleryText.js"
 
-export const text = [
+export const zamoraText = [
   {title : "Quotient 1", textName: ZamoraRawText1},
   {title : "Quotient 2", textName: ZamoraRawText2},
   {title : "Quotient 3", textName: ZamoraRawText3},
