@@ -14,7 +14,7 @@ export default function Zamora() {
        if (textArrayIndex > 0) {
       setTextArrayIndex(textArrayIndex - 1);
     } else {
-      setTextArrayIndex(text.length - 1);
+      setTextArrayIndex(zamoraText.length - 1);
     }
 }
 

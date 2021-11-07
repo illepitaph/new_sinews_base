@@ -7,7 +7,7 @@ export function LeYeasteRawText1(){
   return   (
           <>
           <CenterGrayTitle><span className={styles.blackShadow}>
-          <h3>le yeaste</h3></span></CenterGrayTitle>
+          <h3>le ye<span className={styles.inverse}>a</span>st<span className={styles.inverse}>e</span></h3></span></CenterGrayTitle>
           </>
     )
 }
@@ -15,7 +15,9 @@ export function LeYeasteRawText1(){
 export function LeYeasteRawText2(){
   return   (
           <>
-          <CenterBlackTitle><span className={styles.grayShadow}><h3>_ vi _ <br/> +khi+ <br/> _ nao _</h3></span></CenterBlackTitle>
+          <CenterBlackTitle><span className={styles.grayShadow}><h3>_ v<span className={styles.inverse}>i</span> _ <br/> <span
+          className={styles.inverse}>+</span>k<span className={styles.inverse}>h</span>i+ <br/> _ <span
+          className={styles.inverse}>n</span>ao <span className={styles.inverse}>_</span></h3></span></CenterBlackTitle>
           </>
     )
 }
@@ -63,6 +65,53 @@ export function LeYeasteRawText4() {
 
                 You   are,     g o d   / and / I,  am>
                 the table ( - Cassava-
+        `}</pre></GalleryLineation>
+        </>
+  )
+}
+
+export function LeYeasteRawText5() {
+    return (
+       <>
+       <GalleryLineation><pre>{`
+        relic water
+      on your ( endosperm )             h
+    ide
+        y  o u r        m
+          a     m
+    m   o   t
+    h            m   o   u
+                                    t   h
+
+
+
+    is   so        small
+                         beyond
+        `}</pre></GalleryLineation>
+        </>
+  )
+}
+
+export function LeYeasteRawText6() {
+    return (
+       <>
+       <GalleryLineation><pre>{`
+         Judas
+         		EAT my bread .
+         		your ego ,,,,,,,,,,,,,  surprises
+            sedation	  &                                    h
+      yperventilation
+
+  -your mouth at the table-
+  i threaten:
+  Water into Merlot
+           					‘i
+         					‘forgive
+         					‘you,
+
+  if. you.   suck<<< in reverse   my .blood. /you
+   o   o  o o o o  o  o o                h 		   son-
+  of-an- oven
         `}</pre></GalleryLineation>
         </>
   )

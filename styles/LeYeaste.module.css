@@ -88,7 +88,15 @@
   line-height:5.4rem;
 }
 
+.inverse {
+  color:black;
+  text-shadow:4px 4px snow,
+              6px 6px red;
+}
+
 .boldText {
+  color:red;
+  text-shadow:1px 1px snow;
   font-weight:700;
   font-style:italic;
 }

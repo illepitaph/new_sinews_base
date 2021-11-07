@@ -13,12 +13,12 @@ export default function LeYeaste() {
        if (textArrayIndex > 0) {
       setTextArrayIndex(textArrayIndex - 1);
     } else {
-      setTextArrayIndex(text.length - 1);
+      setTextArrayIndex(leYeasteText.length - 1);
     }
 }
 
     function nextText() {
-      if (textArrayIndex < 4) {
+      if (textArrayIndex < 6) {
       setTextArrayIndex(textArrayIndex + 1);
     } else {
       setTextArrayIndex(0);
