@@ -14,7 +14,7 @@
   height:100vh;
   margin:6% 0 6% 0;
   background:
-    linear-gradient(silver 1%, white 2%, silver 3%, white 6%, gainsboro 10%, #e8e8e8 12%, whitesmoke 17%, snow 20%,
+    linear-gradient(to right, silver 1%, white 2%, silver 3%, white 6%, gainsboro 10%, #e8e8e8 12%, whitesmoke 17%, snow 20%,
       whitesmoke 31%, white 41%, whitesmoke 51%, whitesmoke 71%,
       snow 75%, #e2e2e2 88%, snow 94%, silver 96%, whitesmoke 97%, silver 98%, white 99%);
   border-radius:30px;
@@ -91,4 +91,9 @@
   color:black;
   text-shadow:4px 4px snow,
               6px 6px red;
+}
+
+.asterisk {
+  font-size:3rem;
+  text-shadow:1px 1px red;
 }

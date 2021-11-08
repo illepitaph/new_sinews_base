@@ -19,7 +19,7 @@ export default function Lewis() {
 }
 
     function nextText() {
-      if (textArrayIndex <= 2) {
+      if (textArrayIndex <= 10) {
       setTextArrayIndex(textArrayIndex + 1);
     } else {
       setTextArrayIndex(0);
