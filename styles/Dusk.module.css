@@ -1,0 +1,19 @@
+.duskShadow {
+  font-style:italic;
+  text-shadow:2px 2px snow,
+              4px 4px black;
+}
+
+.inverse {
+  color:black;
+  text-shadow:4px 4px snow,
+              6px 6px #b0b0b0;
+}
+
+.bareHeader {
+  text-shadow:none;
+}
+
+.poemFormat {
+  margin: 10px 30px 20px 40px;
+}

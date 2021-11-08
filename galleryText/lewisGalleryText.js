@@ -7,9 +7,9 @@ export function LewisRawText1(){
   return   (
           <>
           <CenterGrayTitle><span className={styles.blackShadow}>
-          <h3>su<span
+          <h3>Su<span
           className={styles.inverse}>s</span>a<span
-          className={styles.inverse}>n</span>   <i>le<span
+          className={styles.inverse}>n</span>   <i>Le<span
           className={styles.inverse}>w</span>is</i></h3></span></CenterGrayTitle>
           </>
     )
@@ -18,7 +18,7 @@ export function LewisRawText1(){
 export function LewisRawText2(){
   return   (
           <>
-          <CenterBlackTitle><h4>the aggregate of flown fur</h4></CenterBlackTitle>
+          <CenterBlackTitle><h4>The Aggregate of Flown Fur</h4></CenterBlackTitle>
           <GalleryLineation><pre>                 {`          `}<i>——after Pre & Con, or Positions </i>&{`
                     `}<i>Junctions</i> by Rosmarie Waldrop</pre></GalleryLineation>
           </>
@@ -176,7 +176,7 @@ export function LewisRawText7(){
 export function LewisRawText8(){
   return   (
           <>
-          <CenterBlackTitle><h4>simple pleasures</h4></CenterBlackTitle>
+          <CenterBlackTitle><h4>Simple Pleasures</h4></CenterBlackTitle>
           <GalleryLineation><pre>                 {`          `}<i>——after Pre & Con, or Positions </i>&{`
                     `}<i>Junctions</i> by Rosmarie Waldrop</pre></GalleryLineation>
           </>
