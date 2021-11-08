@@ -221,8 +221,90 @@ export default function Dusk() {
   Is love an empty device of sorrow?
 
 
+  3.
+  The night lasted a long time in her mouth.
+  I tuck the experimental books away and the horse postcard from France.
+  I don’t think I am poking the elusive legs of darkness.
+  This dream is sweet.
+  The song keeps running the current over my face.
+  Each cup is floating down the street.
+  I phoned my mother. Told her about the café girl with beautiful luminous eyes.
+  And there is so much transcendence.
+  And then the rim of the mouth.
 
 
+  4.
+  Once in a while while someone is standing still the moon sits on someone’s heart.
+  She begins to code her ordinary language with her meaning as if to avoid the inner seam of being
+  discovered.
+  I sit better
+
+
+  5.
+  I sat there on the sofa futon reading all day and not breathing.
+  You think the night could slip into your face and your face can fall asleep.
+
+  “Now all I can do is breathe like the vegetables in the garden. I have a physical longing for you.”`}/>
+
+  <br/><pre className={styles.italAnomaly}>  The Land of Green Plums.</pre><StandardLineation content={`
+
+
+  6.
+  Her arms are waterhoses, inflated.
+  No one can ever brush his face under the rug.
+
+
+  7.
+  Tomorrow I will eat eggs.
+  And there is a little bit of cranberry juice left.
+  The grapes were so pure and delicious.
+  Julia wanted to watch me eat.
+  Helia is dropping the room in everyone’s lap.
+  Everyone is so beautiful.
+  Their ears are slipping down to their arms.
+  Even the biceps are listening onto the conversation.
+  I feel closer to Helia because of this event.
+
+
+  8.
+  Her father will fly and she will be heading to New York.
+  I hope all the best for her.
+  As she travels far and wide.
+
+
+  9.
+  She has been cutting the poppycakes in segments.
+  I hope it is large as my mouth is not fitting in.
+  It hasn’t registered to me yet that it will be awhile deep in the distant of the future.
+  I won’t see her again.
+  But I feel so sad.
+  Sad.
+  All goodbyes without having a permanent relation.
+  Helia told me that she had a hard time she didn’t want to wash the saucer.
+  And the teacup because of the extremely rare vortex of my fortunes.
+  So she let it sits and just stared at it longer.
+  She is holding my fortunes in her eyes for a little longer.
+  And this is at the edge of existence.
+  I smell the perfume in the clearing.
+  As people are slipping away and there is no need to wave the air.
+  Cut the button off the shirt and drop it down the well of the lungs.
+  Or drop it down the well of the asshole.
+  It is night and perhaps I will be able to sleep.
+  I remember heart heart is shaped like a cupcake.
+  It is nice to know that it is fluffy and has an expiration date.
+  I think I was a child when I had a night like tonight.
+  Being this way.
+  Staying a little longer.
+  Yes, stay.
+  I think it is Helia who doesn’t have an ego.
+  I think Helia is egoless.
+  She has grand schemes of working a lot and not getting paid.
+  I wish I had grown up with a best friend like Helia.
+  I’ll probably learn how to serve Turkish coffee and Turkish apricots.
+  Sometimes to strangers.
+  Her eyes, yes, they are burning.
+  It seems all the MFA students are having health issues.
+  Yes, the maternity of the year.
 
           `}/>
 
