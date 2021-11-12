@@ -1,0 +1,17 @@
+.centeringContainer {
+  display:grid;
+  place-items:center;
+  max-width:90%;
+}
+
+.galleryLineation {
+  max-width:90%;
+  font-family: "astoria-sans-medium-condensed", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size:1.2rem;
+  margin:0 auto;
+  text-shadow:1px 1px #b0b0b0;
+  letter-spacing:0.04rem;
+  line-height:1.4em;
+}
