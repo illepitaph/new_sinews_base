@@ -78,6 +78,14 @@
               2px 2px red;
 }
 
+.galleryArrows {
+  margin-right:300px;
+  font-size:4.6rem;
+  text-shadow:1px 1px snow,
+              2px 2px red;
+}
+
+
 .link {
   text-shadow:2px 2px snow,
               4px 4px #b0b0b0;

@@ -12,12 +12,12 @@ export default function TombModelOne() {
        if (textArrayIndex > 0) {
       setTextArrayIndex(textArrayIndex - 1);
     } else {
-      setTextArrayIndex(leYeasteText.length - 1);
+      setTextArrayIndex(tombModelOneText.length - 1);
     }
 }
 
     function nextText() {
-      if (textArrayIndex < 8) {
+      if (textArrayIndex < 21) {
       setTextArrayIndex(textArrayIndex + 1);
     } else {
       setTextArrayIndex(0);

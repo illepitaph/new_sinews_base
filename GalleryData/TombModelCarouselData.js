@@ -7,6 +7,17 @@ import { TombModel1RawText6 } from "../galleryText/tombModelGalleryText.js"
 import { TombModel1RawText7 } from "../galleryText/tombModelGalleryText.js"
 import { TombModel1RawText8 } from "../galleryText/tombModelGalleryText.js"
 import { TombModel1RawText9 } from "../galleryText/tombModelGalleryText.js"
+import { TombModel1RawText10 } from "../galleryText/tombModelGalleryText.js"
+import { TombModel1RawText11 } from "../galleryText/tombModelGalleryText.js"
+import { TombModel1RawText12 } from "../galleryText/tombModelGalleryText.js"
+import { TombModel1RawText13 } from "../galleryText/tombModelGalleryText.js"
+import { TombModel1RawText14 } from "../galleryText/tombModelGalleryText.js"
+import { TombModel1RawText15 } from "../galleryText/tombModelGalleryText.js"
+import { TombModel1RawText16 } from "../galleryText/tombModelGalleryText.js"
+import { TombModel1RawText17 } from "../galleryText/tombModelGalleryText.js"
+import { TombModel1RawText18 } from "../galleryText/tombModelGalleryText.js"
+import { TombModel1RawText19 } from "../galleryText/tombModelGalleryText.js"
+import { TombModel1RawText20 } from "../galleryText/tombModelGalleryText.js"
 
 export const tombModelOneText = [
   {title: "TombModel1", textName: TombModel1RawText1},
@@ -17,5 +28,17 @@ export const tombModelOneText = [
   {title: "TombModel6", textName: TombModel1RawText6},
   {title: "TombModel7", textName: TombModel1RawText7},
   {title: "TombModel8", textName: TombModel1RawText8},
-  {title: "TombModel9", textName: TombModel1RawText9}
+  {title: "TombModel9", textName: TombModel1RawText9},
+  {title: "TombModel10", textName: TombModel1RawText10},
+  {title: "TombModel11", textName: TombModel1RawText11},
+  {title: "TombModel12", textName: TombModel1RawText12},
+  {title: "TombModel13", textName: TombModel1RawText13},
+  {title: "TombModel14", textName: TombModel1RawText14},
+  {title: "TombModel15", textName: TombModel1RawText15},
+  {title: "TombModel16", textName: TombModel1RawText16},
+  {title: "TombModel17", textName: TombModel1RawText17},
+  {title: "TombModel18", textName: TombModel1RawText18},
+  {title: "TombModel19", textName: TombModel1RawText19},
+  {title: "TombModel20", textName: TombModel1RawText20}
+
 ]

@@ -5,8 +5,7 @@ import styles from '../styles/TombModel.module.css'
 export function TombModel1RawText1(){
   return   (
           <>
-          <GalleryLineation><pre>{`
-     `}</pre><pre><i>{`Place is our new destitute imperative`}</i> (Fred Moten)</pre>
+     <GalleryLineation><pre><i>{`Place is our new destitute imperative`}</i> (Fred Moten)</pre>
      <br/><br/><br/><pre><i>{`All ya’ll in the falling altar`}</i> (Fred Moten)</pre>
      <br/><br/><br/><pre><i>{`We must be rooted in the absence of a place.`}</i> (Simone Weil)
      </pre></GalleryLineation>
@@ -149,3 +148,168 @@ export function TombModel1RawText9(){
           </>
     )
 }
+
+export function TombModel1RawText10(){
+  return   (
+          <>
+          <GalleryProse>
+          <p>You would assume someone is embarrassed by his or herself until you realize they’ve made
+          a point of embodying embarrassment, so therefore have created the privilege of staying
+          aloof/lacking humility. </p><br/><br/>
+          <p><i>Many years before when Arp had asked for Swiss citizenship he had been told: “Your art
+          will lead you to the lunatic asylum and we will have to pay for your keep and the treatment
+          which will be lavished upon you.” He gave up the attempt.</i>  (Klee, by San Lazzaro)</p><br/><br/>
+          <p>In 1939, Klee painted two thousands works. </p><br/><br/>
+          <p>The only books worth owning, having, keeping—are those which can be opened anywhere, to any
+          page, at any time, and immediately entered into, without need or recall of what came before and
+          what’s coming: books of writing, no beginning or end.</p>
+          </GalleryProse>
+          </>
+    )
+}
+
+export function TombModel1RawText11(){
+  return   (
+          <>
+          <GalleryProse>
+          <p>Dream: the main attraction in the Japanese village was the small fountain, European in design,
+          a rarity. The village was near water, so why the fountain?</p>
+          </GalleryProse>
+          </>
+    )
+}
+
+export function TombModel1RawText12(){
+  return   (
+          <>
+          <GalleryProse>
+          <p><u>THE MIRTH TUNNEL</u> </p>
+          <p>An underground tunnel connecting a school on a hill with a public works facility, i.e. a massive septic
+          tank or water treatment facility or underground power plant. I walked the halls and up and down the stairs
+          and opened doors encountering dead-ends but did not find the MIRTH TUNNEL ... (I used to teach in the school
+          on the hill. It was special ed.—I sat with one of the students in a room with padded walls. He was given
+          a guitar to keep him occupied. I called out requests, beginning with Black Sabbath.)  </p><br/><br/>
+          <p>“Immigration is the soul” </p><br/>
+          <p>We only hear the sirens, never the people who are suffering at the sirens’ destination.</p><br/>
+          <p>Learning as a form of witness.</p>
+          </GalleryProse>
+          </>
+    )
+}
+
+export function TombModel1RawText13(){
+  return   (
+          <>
+          <GalleryProse>
+          <p><i>There is eagerness and apprehension.</i> (Eva Hesse)</p><br/><br/><br/><br/>
+          <p>Revelations count on either side like the opening and closing of a dream.</p><br/><br/><br/><br/>
+          <p>I am both a fragmented version of who I started as, and an accumulation of the moments
+          that have caused my fragmentation.</p>
+          </GalleryProse>
+          </>
+    )
+}
+
+export function TombModel1RawText14(){
+  return   (
+          <>
+          <GalleryProse>
+          <br/><br/><pre className={styles.galleryArrows}>{`GALLERY ← → GALLOWS`}</pre>
+          </GalleryProse>
+          </>
+    )
+}
+
+export function TombModel1RawText15(){
+  return   (
+          <>
+          <GalleryProse>
+          <p>I don’t want my identity to be neutral, but I want it to be a process, it is a process, for which I
+          feel a healthy amount of obscurity is necessary—not oppositional, but interconnected. </p><br/>
+          <p>My aspiration is to be, become, the great-grandparent to a mushroom.</p><br/><br/>
+          <p>Terri asks 2 questions:<br/>1. What’s breast cancer?<br/>2. What’s The Illiad?</p><br/><br/>
+          <p><i>The audience situation and the whole art context makes it impossible to do anything.</i><br/>
+          (Adrian Piper)</p>
+          </GalleryProse>
+          </>
+    )
+}
+
+export function TombModel1RawText16(){
+  return   (
+          <>
+          <GalleryProse>
+          <p>SOLAR PROMINENCE </p><br/>
+          <p><i>My ancestors, malevolent and smug, are trying to frighten me.</i> (Leonora Carrington,
+          <i> Down Below</i>)</p><br/><br/>
+          <p><i>a prey to the most complete panic, I saw pine trees in the snow.</i> (Leonora Carrington,
+          <i> Down Below</i>)</p><br/><br/>
+          <p>CHINESE WHITE (?) </p><br/>
+          <p>Reading Alice Notley’s “January” while walking to Safeway to buy a hamsteak.</p>
+          </GalleryProse>
+          </>
+    )
+}
+
+export function TombModel1RawText17(){
+  return   (
+          <>
+          <GalleryProse>
+          <p>I could be romantic, or express a nostalgia FROM me, but the rain is depressing my mind—my imagination,
+          not even soporific, is null and void. I can still listen, can’t I? To rubber in rainwater, the unbroken
+          drone of weight through space, pushing through gravity, buses, people sleeping, everyone is sad, sad,
+          sad.</p><br/><br/>
+          <p>I had a vision that there was an androgynous orphan encased in a drop of rain hanging from
+          the limb of a tall bush.</p><br/><br/>
+          <p>(Incidentally, I had a dream that Joshua Beckman and I were having drinks at a bar called Strawberry
+          Order or Strawberry Organs.)</p>
+          </GalleryProse>
+          </>
+    )
+}
+
+export function TombModel1RawText18(){
+  return   (
+          <>
+          <GalleryProse>
+          <br/><br/><p>Someone takes a very long time to die (equivalent to being alive) then dies. That person’s loved ones
+          are shocked and begin to mourn at the moment of death, not before. The failure of imagination meets reality.
+          Shock is an indication we did not have the capacity to imagine. We should be mourning our loved ones’
+          deaths while they are still alive. </p>
+          </GalleryProse>
+          </>
+    )
+}
+
+export function TombModel1RawText19(){
+  return   (
+          <>
+          <GalleryProse>
+          <p><i>A dwelling in which a ghost appears becomes a ruin not gradually, consequent of being deserted by
+          its frightened occupants, but immediately and even if its occupants remain in it, maintaining
+          it</i> (Jalal Toufic, Undying Love, or Love Dies)</p><br/><br/>
+          <p><i>It is not time that makes us forget; rather to forget we deteriorate to a time that is
+          degenerate, that passes.</i> (Jalal Toufic)</p><br/><br/>
+          <p>I saw two grasshoppers, one larger than the other, angled towards each other, sitting on
+          the tire of a parked Saturn in the Safeway parking lot.</p>
+          </GalleryProse>
+          </>
+    )
+}
+
+export function TombModel1RawText20(){
+      return   (
+              <>
+              <GalleryProse>
+              <p>Children are horrifying because their parents are pitiless voids out of which they crawled.
+              Better for a child is the parent who is not fully there. The children ranged from 3 to 10.
+              All the mothers were white but not all the fathers were white.</p><br/><br/>
+              <p>I just want to bathe in reading with the door open. But am always thwarted by hallucinations of
+              my body on the ceiling. </p><br/><br/>
+              <p>It should not be so distracting but it is. Then the moment you put your hand on your friend’s
+              father’s shoulder and speak not as an equal but as an untouchable.</p><br/><br/>
+              <p>There’s a large gray moth on the screen door but it’s a paint stain, that was an afternoon.</p>
+              </GalleryProse>
+              </>
+        )
+    }
