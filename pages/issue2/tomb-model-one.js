@@ -4,7 +4,7 @@ import Link from 'next/link'
 import Header from '../../components/header.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/TombModel.module.css'
-import { tombModelText } from '../../GalleryData/TombModelCarouselData.js'
+import { tombModelOneText } from '../../GalleryData/TombModelCarouselData.js'
 
 export default function TombModelOne() {
   const [textArrayIndex, setTextArrayIndex] = useState(0);
@@ -17,14 +17,14 @@ export default function TombModelOne() {
 }
 
     function nextText() {
-      if (textArrayIndex < 2) {
+      if (textArrayIndex < 8) {
       setTextArrayIndex(textArrayIndex + 1);
     } else {
       setTextArrayIndex(0);
     }
 }
 
-const RawText = tombModelText[textArrayIndex]["textName"];
+const RawText = tombModelOneText[textArrayIndex]["textName"];
 
   return (
       <div>
