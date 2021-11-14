@@ -313,3 +313,128 @@ export function TombModel1RawText20(){
               </>
         )
     }
+
+    export function TombModel1RawText21(){
+      return   (
+              <>
+              <GalleryProse>
+              <p><u>relingos</u>—unloved pockets of space in cities </p><br/><br/>
+              <p><i>Today some poets were sensible the best was Japanese</i> (Bernadette Mayer, “Mariechen”)</p><br/><br/>
+              <p>I was in a helicopter over the US-Mexico border, the sun was setting, the light was steely
+              and white in the buildings and bodies of water, implications of an ocean. It was getting dark
+              and I was losing my sight. We were in an airplane that glided. My dad was the pilot. I called
+              him Dad, then took it back. When did he learn how to fly? But sure he can’t fly in this lack
+              of light, can he?</p>
+              </GalleryProse>
+              </>
+        )
+    }
+
+    export function TombModel1RawText22(){
+      return   (
+              <>
+              <GalleryProse>
+              <p>The second coming is man’s entrance into society, and is what is made more permanent
+              than the wildness of youth.</p><br/><br/>
+              <p>Dream: I killed a man. He stopped moving. He asked me what I thought was the worst
+              thing about 9/11. I said, <i>Everything that happened after.</i> That offended him. I excused
+              myself from the conversation and walked away. He followed me. We were in a gas station.
+              He started kicking me. I picked a bottle of Snapple off the ground and broke it across
+              his face then threw him onto the ground between the gas pump and a pickup truck. I
+              hefted a sack of New York Times on top of his body. It was raining. The man was 7 feet tall.</p>
+              </GalleryProse>
+              </>
+        )
+    }
+
+    export function TombModel1RawText23(){
+      return   (
+              <>
+              <GalleryProse>
+              <p><i>one of Bachmann’s most emblematic statements on the function of the poet: as a bridge
+              or border to utopia, both land and language, an imaginative “nowhere” where possibility abides
+              rather than necessity, and the speaking subject is free. </i></p><br/>
+              <p>
+              The art collector was inspired by images of people on their way to houses of worship—nuns
+              walking in tandem to church, for example. He reveled in the approach, but rarely the arrival.
+              This is an efficient analogy for his relationship to art, which he ultimately did not understand
+              (he wasn’t an artist, though neither are many).</p><br/><br/><br/>
+              <p>We hold each other in terrible suspension. We squander each other. We ask the wrong questions.
+              We set each other back. We arrest each other.</p>
+              </GalleryProse>
+              </>
+        )
+    }
+
+  export function TombModel1RawText24(){
+      return   (
+              <>
+              <GalleryProse>
+              <p>Return to the basics of a mysterious, even comically mysterious, sound with an unseen source,
+              and in an instant the day is transformed into an improbable event—as paralyzing as it is
+              imperative—to pay attention. To not pay attention: what’s the difference? Is the difference
+              more than negligible? Every day, the bells. Every morning, an elderly couple. The man is falling
+              apart more conspicuously than the woman, but the woman is falling apart on the inside. Then
+              there are nipples in the tree (Tada Chimako). The man and woman have been awake for many hours.
+              It is morning, no longer early morning. They went to the “store” and bought some things and now
+              she’s hammering nails into a wooden frame. She’s going to hang a picture on the wall.</p>
+              </GalleryProse>
+              </>
+        )
+    }
+
+    export function TombModel1RawText25(){
+        return   (
+                <>
+                <GalleryProse>
+                <p>Oh, the woman is a caseworker. She’s wearing her ID on a lanyard. There’s no rush getting
+                into the car. The car is a boat. Now the man can exhale. He can look at the picture on the wall.
+                It is new. He can give himself to the picture if he chooses—until he sees the very morbid waterfall,
+                skeletal, cryptic, the opposite of life-giving, life taking away. What is she contemplating? If
+                the waterfall is the woman’s conscience—The waterfall is the intimation of darkness such as exists
+                obscuring the young girl’s face on the other wall. There is in each picture something white. The
+                young girl is holding a bird. The waterfall is pallid. The moon. A triangular window. Is it true?
+                The eyes. That’s where I am? A dormer or a window, looking out, worrying, though the source of my
+                worry has already expired. My worry has taken on a life of its own. My worry is a monster. If I
+                make monster, if I manifest monster, am I monster? </p>
+                </GalleryProse>
+                </>
+          )
+      }
+
+      export function TombModel1RawText26(){
+        return   (
+                <>
+                <GalleryProse>
+                <p>When you’re giddy with thinking you’re meeting a genuine one you’re not conscious and want what
+                the other one wants even if you’re not hungry, you’re not hungry, it’s an irrational diversion.</p><br/>
+                <p>The moonlight on the roof of the truck looks like snow.</p><br/>
+                <p>A massive and terrifying organism—militant, military, mindless, barking, exhaling. I can see
+                the relentless organism, like a demonic jellyfish, being supported and empowered and uplifted by
+                a mob, a moss, a mindlessness of spectators at a slaughter—</p><br/>
+                <p>The first image appears so briefly, so rapidly, it’s subliminal. It’s not even IN between. That
+                is what IN America means: subliminally. To be a subliminal immigrant, to be a subliminal citizen,
+                not yet actually here/there. The first image is of jellyfish.</p>
+                </GalleryProse>
+                </>
+          )
+      }
+
+      export function TombModel1RawText27(){
+        return   (
+                <>
+                <GalleryProse>
+                <p><i>I would prefer to sit on the outside</i>, <i>personally</i>, says the middle-aged boyfriend with
+                the tight ponytail to his girlfriend, in the Indian restaurant.</p><br/>
+                <p>Osmanthus (?) tea grows on the moon</p><br/>
+                <p><i>Ease is tough, whoever wants to be born will bear the burden of their choice—so claim
+                the Inaccessible songs, (quiet quiera nacer que nazca a su propio arbitrio: así dicen los cantos
+                de la Inaccesible,)</i> (María Negroni)</p><br/>
+                <p><i>Painters grow on earth so as to paint toward Fujiyama ... The entire history of painting:
+                the dream of painting Fujiyama.</i> (Hélène Cixous) </p><br/>
+                <p><i>I am like she who attempts to have the cello’s carcass rolled into an aviation
+                hangar.</i> (Hélène Cixous, <cite>First Days of the Year</cite>)</p>
+                </GalleryProse>
+                </>
+          )
+      }
