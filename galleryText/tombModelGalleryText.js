@@ -699,10 +699,133 @@ export function TombModel1RawText20(){
                 he made in his life is not Chinese. His wife and children are Belizean; the jungle is his living
                 burial. He does not love it, but needs it. What am I doing here, in it? It is a lush: my insides
                 spilled everywhere, impossible to describe ... To die in the desert is to become a ceramic figurine,
-                fall over and crack, and exhale all your organs as dust ... .</p><br/><br/>
+                fall over and crack, and exhale all your organs as dust ... </p><br/><br/>
                 <h3>FIG/URINE</h3><br/><br/><br/>
                 <pre><i>{`                                        September 2014 - November 2014`}</i></pre>
                 </GalleryProse>
                 </>
           )
       }
+
+      export function TombModel2RawText1(){
+        return   (
+                <>
+           <GalleryLineation><pre><i>{`     We need to find the right`}<br/><br/>{`geography for our revelations.`}</i> (<span
+            className={styles.grayShadow}>Etel Adnan</span>)</pre><br/><br/><br/>
+           <br/><br/><br/><pre><i>{`     I’m describing all this because I`}<br/><br/>{`want to be done with my story already..`}</i> (<span
+            className={styles.grayShadow}>Andrzej Stasiuk</span>)</pre></GalleryLineation>
+                </>
+          )
+      }
+
+      export function TombModel2RawText2(){
+        return   (
+          <>
+          <GalleryProse>
+          <p>I walked on a shadow, I stepped on a shadow, and it felt softer than the ground it was cast upon. Where there
+          was light was harder, more solid. Where there was shadow was softer. I didn’t touch it—I didn’t touch the shadow
+          with my hand, I didn’t touch the shadow with my hand to see if it was a color, colder, the question being whether
+          or not what is colder is softer, I would think the opposite.</p>
+          </GalleryProse>
+          </>
+          )
+      }
+
+    export function TombModel2RawText3(){
+        return   (
+          <>
+          <GalleryProse>
+          <p>Dream: I was a young girl. It was New Year’s Eve. On New Year’s Day, I was going to be joined with what I
+          knew were the greatest books—the books I most wanted, most needed, the most sacred books. But I knew something
+          about the books: none of them were done. They were all incomplete. And yet, all of their authors were dead.
+          This did not diminish my love and respect and desire for the books, but rather completed it.</p><br/><br/>
+          <p>Part 2: A coastal town in Germany. Germany was on the open ocean. The waves were high and coming in strong
+          against the shore, covering the shore, penetrating the town, covering the streets, yet shallowly, the flood
+          was not too deep or treacherous; people could still walk, but their shoes soaked through. I had been to this
+          town before. The waves had been even higher then and the town was underwater.</p>
+          </GalleryProse>
+          </>
+          )
+      }
+
+      export function TombModel2RawText4(){
+          return   (
+            <>
+            <GalleryProse>
+            <p><i>I want to scream from color to color.</i> (<span
+            className={styles.grayShadow}>Bhanu Kapil</span>)</p><br/>
+            <p>When I think of adding books to books, when I think of adding my books to my books, and reading books,
+            love and what feels like love, momentary surges of feelings that are nevertheless momentary and amnesiac
+            and, being surges, withdraw, and withdraw to leave behind a socket, a dry socket, but for a suffocating,
+            acid feeling, and adding books I’ve read to books I’ve read, thinking I will not get that back again, I
+            will not be able to find my way back to that love or that feeling of love, that momentary surge, that
+            momentary surge is conditional, of perpetually adding books to books, they don’t speak for me, they are
+            not my expression, they do not share my expression, the books add themselves to obscurity, there is no nature,
+            there is no freedom, they are, the books are, individually essential, not collectively, I sink myself, I
+            sink myself into depression, I perish by that which I love most, no, by what gives me the most pleasure,
+            I mean inspiration, ideas. </p><br/><br/>
+            <p>When I’m standing before a shelf of books ... the fear ... </p>
+            </GalleryProse>
+            </>
+            )
+        }
+
+      export function TombModel2RawText5(){
+            return   (
+              <>
+              <GalleryProse>
+              <p>Sleeping in the museum</p><br/>
+              <p><span className={styles.galleryArrows}>⬇</span></p><br/>
+              <p>The last thing I took with me, which was [also] the first and only, was [ ] rectangle of many colors
+              hanging suspended on a wall and my mother standing behind me staring ...  </p><br/>
+              <p>To attempt to re-experience that first experience, which was complete—You have to go to the <i>same</i> altar
+              every day</p><br/>
+              <p>like climbing out of an open grave, dusting oneself of flowers, then expending the day’s
+              ambition in the first hours ... </p>
+              </GalleryProse>
+              </>
+              )
+          }
+      export function TombModel2RawText6(){
+            return   (
+              <>
+              <GalleryProse>
+              <p>The first principle of existence is burning out: </p><br/>
+              <p>When I read without my glasses, I can’t remember what I’ve read. I hold the book very close to my face—my
+              vision is very poor, the worst in my family—so that each word is exceptionally clear—</p>
+              </GalleryProse>
+              </>
+              )
+          }
+
+          export function TombModel2RawText7(){
+                return   (
+                  <>
+                  <GalleryProse>
+                  <p>The human being is long gone. Or, it happened, was clear, fruited, what it bore was clear, it
+                  experienced itself, invented, what it invented it had already invented, but still the discovery was
+                  genuine, only so, so long, it invented what it needed, it surpassed its own clarity, there it goes,
+                  now it remembers ..</p>
+                  </GalleryProse>
+                  </>
+                  )
+              }
+
+        export function TombModel2RawText8(){
+              return   (
+                <>
+                <GalleryProse>
+                <p>There’s never a river. There’s been a river but there’s never one now. A hard rain: a river. That’s
+                when Johanna saw a man being pulled by other men from the river. The man was dead. The men needed
+                a net to pull him up.</p><br/>
+                <p>Oh good, <br/><br/>Another day embarrassed that I do not know what’s being said, I hear it, it sounds
+                like my day wd be improved if I cd be improved It’s friendly, repetetive [sic] and has the quality of
+                jubilation (jubilee) but I’m on earth, is day only of I’m looking at where it begins but still I can
+                see through it What would have to be added to it for me to better understand exactly what it is? Color?
+                I think I’d still be off Even inside of it moving along the limit, looking back up through the beginning
+                But it begins even before that <span className={styles.smallGalleryArrows}>➜</span> not like a feeling, but an ecosystem which we think is total synthesis, 
+                but really, a few aspects in control ...</p>
+                </GalleryProse>
+                </>
+            )
+}
