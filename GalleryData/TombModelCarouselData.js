@@ -25,6 +25,22 @@ import { TombModel1RawText24 } from "../galleryText/tombModelGalleryText.js"
 import { TombModel1RawText25 } from "../galleryText/tombModelGalleryText.js"
 import { TombModel1RawText26 } from "../galleryText/tombModelGalleryText.js"
 import { TombModel1RawText27 } from "../galleryText/tombModelGalleryText.js"
+import { TombModel1RawText28 } from "../galleryText/tombModelGalleryText.js"
+import { TombModel1RawText29 } from "../galleryText/tombModelGalleryText.js"
+import { TombModel1RawText30} from "../galleryText/tombModelGalleryText.js"
+import { TombModel1RawText31} from "../galleryText/tombModelGalleryText.js"
+import { TombModel1RawText32} from "../galleryText/tombModelGalleryText.js"
+import { TombModel1RawText33} from "../galleryText/tombModelGalleryText.js"
+import { TombModel1RawText34} from "../galleryText/tombModelGalleryText.js"
+import { TombModel1RawText35} from "../galleryText/tombModelGalleryText.js"
+import { TombModel1RawText36} from "../galleryText/tombModelGalleryText.js"
+import { TombModel1RawText37} from "../galleryText/tombModelGalleryText.js"
+import { TombModel1RawText38} from "../galleryText/tombModelGalleryText.js"
+import { TombModel1RawText39} from "../galleryText/tombModelGalleryText.js"
+import { TombModel1RawText40} from "../galleryText/tombModelGalleryText.js"
+import { TombModel1RawText41} from "../galleryText/tombModelGalleryText.js"
+import { TombModel1RawText42} from "../galleryText/tombModelGalleryText.js"
+import { TombModel1RawText43} from "../galleryText/tombModelGalleryText.js"
 
 export const tombModelOneText = [
   {title: "TombModel1", textName: TombModel1RawText1},
@@ -53,5 +69,21 @@ export const tombModelOneText = [
   {title: "TombModel24", textName: TombModel1RawText24},
   {title: "TombModel25", textName: TombModel1RawText25},
   {title: "TombModel26", textName: TombModel1RawText26},
-  {title: "TombModel27", textName: TombModel1RawText27}
+  {title: "TombModel27", textName: TombModel1RawText27},
+  {title: "TombModel28", textName: TombModel1RawText28},
+  {title: "TombModel29", textName: TombModel1RawText29},
+  {title: "TombModel30", textName: TombModel1RawText30},
+  {title: "TombModel31", textName: TombModel1RawText31},
+  {title: "TombModel32", textName: TombModel1RawText32},
+  {title: "TombModel33", textName: TombModel1RawText33},
+  {title: "TombModel34", textName: TombModel1RawText34},
+  {title: "TombModel35", textName: TombModel1RawText35},
+  {title: "TombModel36", textName: TombModel1RawText36},
+  {title: "TombModel37", textName: TombModel1RawText37},
+  {title: "TombModel38", textName: TombModel1RawText38},
+  {title: "TombModel39", textName: TombModel1RawText39},
+  {title: "TombModel40", textName: TombModel1RawText40},
+  {title: "TombModel41", textName: TombModel1RawText41},
+  {title: "TombModel42", textName: TombModel1RawText42},
+  {title: "TombModel43", textName: TombModel1RawText43},
 ]

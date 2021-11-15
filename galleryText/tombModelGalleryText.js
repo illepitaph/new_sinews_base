@@ -5,9 +5,9 @@ import styles from '../styles/TombModel.module.css'
 export function TombModel1RawText1(){
   return   (
           <>
-     <GalleryLineation><pre><i>{`Place is our new destitute imperative`}</i> (Fred Moten)</pre>
-     <br/><br/><br/><pre><i>{`All ya’ll in the falling altar`}</i> (Fred Moten)</pre>
-     <br/><br/><br/><pre><i>{`We must be rooted in the absence of a place.`}</i> (Simone Weil)
+     <GalleryLineation><pre><i>{`Place is our new destitute imperative`}</i> (<span className={styles.grayShadow}>Fred Moten</span>)</pre>
+     <br/><br/><br/><pre><i>{`All ya’ll in the falling altar`}</i> (<span className={styles.grayShadow}>Fred Moten</span>)</pre>
+     <br/><br/><br/><pre><i>{`We must be rooted in the absence of a place.`}</i> (<span className={styles.grayShadow}>Simone Weil</span>)
      </pre></GalleryLineation>
           </>
     )
@@ -42,7 +42,7 @@ export function TombModel1RawText3(){
           <p>First sun on the brow (forehead)</p><br/>
           <p>First revelation of teeth</p><br/><br/>
           <p><i>These artists might be described as modern ancients redefining freedom, imagining a communal
-          future (and present) without exploitation</i> (Robin D.G. Kelley)</p><br/><br/><br/>
+          future (and present) without exploitation</i> (<span className={styles.grayShadow}>Robin D.G. Kelley</span>)</p><br/><br/><br/>
           </GalleryProse>
           </>
     )
@@ -57,7 +57,7 @@ export function TombModel1RawText4(){
           (and conspicuous) fact of the landscape for me to be reminded of where I am, which is not the mountains,
           but the starving, broken-hearted valley. </p><br/><br/><br/><br/><br/><br/>
           <p><i>The owners of the house commemorated his passing by adding figures of a skeleton against a lamp post
-          and a devil riding a velocipede.</i> (The Mini Time Machine Museum of Miniatures)</p><br/><br/><br/>
+          and a devil riding a velocipede.</i> (<span className={styles.grayShadow}>The Mini Time Machine Museum of Miniatures</span>)</p><br/><br/><br/>
           </GalleryProse>
           </>
     )
@@ -102,12 +102,13 @@ export function TombModel1RawText7(){
           <>
           <GalleryProse>
           <p><i>They dare to dream of a utopia, a new kind of synthesis and equilibrium.</i> (Patricia
-          Hayden, Donna Middleton, and Patricia Robinson, A Historical and Critical Essay for Black Women) </p><br/><br/>
+          Hayden, Donna Middleton, and Patricia Robinson, <span className={styles.grayShadow}>A Historical
+          and Critical Essay for Black Women)</span> </p><br/><br/>
           <p><i>By definition subversive, surrealist thought and action are intended not only to discredit
           and destroy the forces of repression, but also to emancipate desire and supply it with new poetic
-          weapons</i> ... (Chicago Surrealist Group, 1976)  </p><br/><br/>
+          weapons</i> ... (<span className={styles.grayShadow}>Chicago Surrealist Group</span>, 1976)  </p><br/><br/>
           <p><i>The challenge of the 21st century is not to demand equal opportunity to participate in
-          the machinery of oppression</i>  ... (Angela Davis) </p><br/><br/>
+          the machinery of oppression</i>  ... (<span className={styles.grayShadow}>Angela Davis</span>) </p><br/><br/>
           <p>An individual can become a citizen of the United States, but what is withheld from that individual
           is <i>which</i> United States they are becoming a citizen of—</p>
           </GalleryProse>
@@ -119,12 +120,15 @@ export function TombModel1RawText8(){
   return   (
           <>
           <GalleryProse>
-          <p><i>The true poet does not preach work. He preaches availability.</i> (Aimé Césaire) </p><br/><br/>
-          <p><i>Nationalism always requires an enemy—whether inside or outside the nation.</i> (Angela Davis)</p><br/><br/>
+          <p><i>The true poet does not preach work. He preaches availability.</i> (<span className={styles.grayShadow}>Aimé
+          Césaire</span>) </p><br/><br/>
+          <p><i>Nationalism always requires an enemy—whether inside or outside the nation.</i> (<span
+          className={styles.grayShadow}>Angela Davis</span>)</p><br/><br/>
           <p>Dog barking near midnight on Sunday ... has much in common with an old man of obtuse gravity.
           Trapped behind a white wall. </p><br/><br/>
           <p>Dream: Mom hangs a Christmas wreath on the face of a cliff. She climbs a ladder to do so.
-          (Bosch, and Sugimoto’s photo on the cliff on Naoshima)</p>
+          (<span className={styles.grayShadow}>Bosch</span>, and <span className={styles.grayShadow}>Sugimoto’s
+          photo on the cliff on Naoshima</span>)</p>
           </GalleryProse>
           </>
     )
@@ -158,7 +162,8 @@ export function TombModel1RawText10(){
           aloof/lacking humility. </p><br/><br/>
           <p><i>Many years before when Arp had asked for Swiss citizenship he had been told: “Your art
           will lead you to the lunatic asylum and we will have to pay for your keep and the treatment
-          which will be lavished upon you.” He gave up the attempt.</i>  (Klee, by San Lazzaro)</p><br/><br/>
+          which will be lavished upon you.” He gave up the attempt.</i>  (<cite>Klee</cite>, by <span
+          className={styles.grayShadow}>San Lazzaro</span>)</p><br/><br/>
           <p>In 1939, Klee painted two thousands works. </p><br/><br/>
           <p>The only books worth owning, having, keeping—are those which can be opened anywhere, to any
           page, at any time, and immediately entered into, without need or recall of what came before and
@@ -183,7 +188,7 @@ export function TombModel1RawText12(){
   return   (
           <>
           <GalleryProse>
-          <p><u>THE MIRTH TUNNEL</u> </p>
+          <h3><u><span className={styles.bigGrayShadow}>THE MIRTH TUNNEL</span></u> </h3>
           <p>An underground tunnel connecting a school on a hill with a public works facility, i.e. a massive septic
           tank or water treatment facility or underground power plant. I walked the halls and up and down the stairs
           and opened doors encountering dead-ends but did not find the MIRTH TUNNEL ... (I used to teach in the school
@@ -201,7 +206,7 @@ export function TombModel1RawText13(){
   return   (
           <>
           <GalleryProse>
-          <p><i>There is eagerness and apprehension.</i> (Eva Hesse)</p><br/><br/><br/><br/>
+          <p><i>There is eagerness and apprehension.</i> (<span className={styles.grayShadow}>Eva Hesse</span>)</p><br/><br/><br/><br/>
           <p>Revelations count on either side like the opening and closing of a dream.</p><br/><br/><br/><br/>
           <p>I am both a fragmented version of who I started as, and an accumulation of the moments
           that have caused my fragmentation.</p>
@@ -229,7 +234,7 @@ export function TombModel1RawText15(){
           <p>My aspiration is to be, become, the great-grandparent to a mushroom.</p><br/><br/>
           <p>Terri asks 2 questions:<br/>1. What’s breast cancer?<br/>2. What’s The Illiad?</p><br/><br/>
           <p><i>The audience situation and the whole art context makes it impossible to do anything.</i><br/>
-          (Adrian Piper)</p>
+          (<span className={styles.grayShadow}>Adrian Piper</span>)</p>
           </GalleryProse>
           </>
     )
@@ -239,11 +244,11 @@ export function TombModel1RawText16(){
   return   (
           <>
           <GalleryProse>
-          <p>SOLAR PROMINENCE </p><br/>
-          <p><i>My ancestors, malevolent and smug, are trying to frighten me.</i> (Leonora Carrington,
-          <i> Down Below</i>)</p><br/><br/>
-          <p><i>a prey to the most complete panic, I saw pine trees in the snow.</i> (Leonora Carrington,
-          <i> Down Below</i>)</p><br/><br/>
+          <h3><span className={styles.bigGrayShadow}>SOLAR PROMINENCE</span> </h3><br/>
+          <p><i>My ancestors, malevolent and smug, are trying to frighten me.</i> (<span
+          className={styles.grayShadow}>Leonora Carrington</span>,<i> <cite>Down Below</cite></i>)</p><br/><br/>
+          <p><i>a prey to the most complete panic, I saw pine trees in the
+          snow.</i> (<span className={styles.grayShadow}>Leonora Carrington</span>,<i> <cite>Down Below</cite></i>)</p><br/><br/>
           <p>CHINESE WHITE (?) </p><br/>
           <p>Reading Alice Notley’s “January” while walking to Safeway to buy a hamsteak.</p>
           </GalleryProse>
@@ -287,9 +292,9 @@ export function TombModel1RawText19(){
           <GalleryProse>
           <p><i>A dwelling in which a ghost appears becomes a ruin not gradually, consequent of being deserted by
           its frightened occupants, but immediately and even if its occupants remain in it, maintaining
-          it</i> (Jalal Toufic, Undying Love, or Love Dies)</p><br/><br/>
+          it</i> (<span className={styles.grayShadow}>Jalal Toufic</span>, <cite>Undying Love, or Love Dies</cite>)</p><br/><br/>
           <p><i>It is not time that makes us forget; rather to forget we deteriorate to a time that is
-          degenerate, that passes.</i> (Jalal Toufic)</p><br/><br/>
+          degenerate, that passes.</i> (<span className={styles.grayShadow}>Jalal Toufic</span>)</p><br/><br/>
           <p>I saw two grasshoppers, one larger than the other, angled towards each other, sitting on
           the tire of a parked Saturn in the Safeway parking lot.</p>
           </GalleryProse>
@@ -319,7 +324,8 @@ export function TombModel1RawText20(){
               <>
               <GalleryProse>
               <p><u>relingos</u>—unloved pockets of space in cities </p><br/><br/>
-              <p><i>Today some poets were sensible the best was Japanese</i> (Bernadette Mayer, “Mariechen”)</p><br/><br/>
+              <p><i>Today some poets were sensible the best was Japanese</i> (<span
+              className={styles.grayShadow}>Bernadette Mayer</span>, “Mariechen”)</p><br/><br/>
               <p>I was in a helicopter over the US-Mexico border, the sun was setting, the light was steely
               and white in the buildings and bodies of water, implications of an ocean. It was getting dark
               and I was losing my sight. We were in an airplane that glided. My dad was the pilot. I called
@@ -375,7 +381,8 @@ export function TombModel1RawText20(){
               imperative—to pay attention. To not pay attention: what’s the difference? Is the difference
               more than negligible? Every day, the bells. Every morning, an elderly couple. The man is falling
               apart more conspicuously than the woman, but the woman is falling apart on the inside. Then
-              there are nipples in the tree (Tada Chimako). The man and woman have been awake for many hours.
+              there are nipples in the tree (<span className={styles.grayShadow}>Tada Chimako</span>). The
+              man and woman have been awake for many hours.
               It is morning, no longer early morning. They went to the “store” and bought some things and now
               she’s hammering nails into a wooden frame. She’s going to hang a picture on the wall.</p>
               </GalleryProse>
@@ -429,11 +436,272 @@ export function TombModel1RawText20(){
                 <p>Osmanthus (?) tea grows on the moon</p><br/>
                 <p><i>Ease is tough, whoever wants to be born will bear the burden of their choice—so claim
                 the Inaccessible songs, (quiet quiera nacer que nazca a su propio arbitrio: así dicen los cantos
-                de la Inaccesible,)</i> (María Negroni)</p><br/>
+                de la Inaccesible,)</i> (<span className={styles.grayShadow}>María Negroni</span>)</p><br/>
                 <p><i>Painters grow on earth so as to paint toward Fujiyama ... The entire history of painting:
-                the dream of painting Fujiyama.</i> (Hélène Cixous) </p><br/>
+                the dream of painting Fujiyama.</i> (<span className={styles.grayShadow}>Hélène Cixous</span>) </p><br/>
                 <p><i>I am like she who attempts to have the cello’s carcass rolled into an aviation
-                hangar.</i> (Hélène Cixous, <cite>First Days of the Year</cite>)</p>
+                hangar.</i> (<span className={styles.grayShadow}>Hélène Cixous</span>, <cite>First Days of the Year</cite>)</p>
+                </GalleryProse>
+                </>
+          )
+      }
+
+      export function TombModel1RawText28(){
+        return   (
+                <>
+                <GalleryProse>
+                <p>The first person I see in Oaxaca is Osama Bin Laden. He’s wearing an army jacket and black boots,
+                has a long black beard, and is made out of rubber.</p><br/>
+                <p>No word from Etel. No word from Wong May. No word—though neither from me. Until I feel it, without
+                appeal, but that too surfaces silence: only the transient observation that needs no response and
+                wants (even) no response: </p><br/>
+                <p>Dream: I hadn’t seen Farid in awhile. Then we were seated next to each other at a dinner. <i>I’ve
+                been making wooden instruments</i>, he said. He was sitting at the table making a wooden instrument.
+                It was small and exquisitely precise, he was carving it, a wooden instrument. It was in his lap.
+                It had a disc-shaped part and a rotating part and another moving part. He was finishing it then
+                finished it and handed it to a curly-haired boy with glasses. The boy moved a part and an old blues
+                guitar emanated from this extraordinary wooden creation.</p>
+                </GalleryProse>
+                </>
+          )
+      }
+
+      export function TombModel1RawText29(){
+        return   (
+                <>
+                <GalleryProse>
+                <p>Of note about the tunnels beneath the city: they have no smell.</p><br/>
+                <p>Smell needs light, otherwise is invisible and cannot proliferate.</p><br/>
+                <p><i>I remember I was at my grandma’s house. Her house was turquoise; it still is.
+                The sun was setting and I was facing west. I walked up to a fence and I don’t
+                remember the rest. I’m glad I don’t.</i> (T.)</p><br/>
+                <p>Megan’s mother died when Megan was five. For many years, she thought she was
+                6 months old. She’d been lied to. I asked her how old her mom was when she died
+                and she said she didn’t know. I rephrased the question: <i>How old would she be now</i>?
+                <i>In her thirties, her mid-thirties</i>, she said, then added, <i>How would I know</i>
+                ... <i>She’s decayed</i>.</p>
+                </GalleryProse>
+                </>
+          )
+      }
+
+      export function TombModel1RawText30(){
+        return   (
+                <>
+                <GalleryProse>
+                <p>I asked Alexis what the book was about and she said, <i>A woman</i>, <i>a woman</i>,
+                <i>a woman</i> ... <i>A woman who has a guest</i>. </p><br/>
+                <p><i>I need to be respectful</i>. <i>I don’t know how to be respectful</i>. (M.)</p><br/>
+                <p>Elephants live underneath the skin on my hands, and are rising. They remember<br/><br/>
+                the love of a sibling from the first hour— </p><br/>
+                <p>To complete the vision of the space that is beginning to form and by writing into / the space.</p><br/>
+                <p>To rise, like bread<br/><br/>
+                To exist, like a vegetable</p>
+                </GalleryProse>
+                </>
+          )
+      }
+
+      export function TombModel1RawText31(){
+        return   (
+                <>
+                <GalleryProse>
+                <pre><h3>{`Trees or crosses or graves`}</h3></pre>
+                </GalleryProse>
+                </>
+          )
+      }
+
+      export function TombModel1RawText32(){
+        return   (
+                <>
+                <GalleryProse>
+                <p>We sat in the bleachers and listened to the white woman talk about Shinto. All I could
+                think was that the white woman was my mother.</p><br/><br/>
+                <p>Because I want to sleep, it pulls at the foods.</p><br/><br/>
+                <p>There was a mailbox set into a stone wall covered with leaves. I opened the box because
+                someone had left something there—for me—something I needed. The box was stuffed with small
+                boxes containing miscellaneous parts, like hardware and fittings, for plumbing or electric:
+                maybe parts for making a bomb. If that was true, the bomb was elsewhere, back at home, nearly
+                finished, and waiting.</p><br/><br/>
+                <p><i>it made me remember my great grandmother’s hair and altars</i> (<span className={styles.grayShadow}>Diane
+                Wald</span>, “Little Matches”)</p>
+                </GalleryProse>
+                </>
+          )
+      }
+
+      export function TombModel1RawText33(){
+        return   (
+                <>
+                <GalleryProse>
+                <p><i>The initiatic husk of self-inflicted static or the residual hum of self-ingesting suns
+                (call it what you will)</i> (<span className={styles.grayShadow}>Nathaniel Mackey</span>)</p><br/>
+                <p>Lisa plugs in the string of red lights, and with it I feel a small/short surge of hope.</p><br/>
+                <p><i>It makes me sad to read poems by people I know. I don’t want to know them like
+                that.</i> (<span className={styles.grayShadow}>Dot Devota</span>)
+                </p><br/><br/>
+                <p>Sitting in front of a long rectangular mirror, I heard a woman’s voice talking (speaking) to someone
+                who was not me and was not there (here), somewhere essentially impossible. The moment I was drawn into
+                the conversation, the woman’s voice disappeared. The mirror, like an old, wise animal ...</p>
+                </GalleryProse>
+                </>
+          )
+      }
+
+      export function TombModel1RawText34(){
+        return   (
+                <>
+                <GalleryProse>
+                <p>In order to cross the border, one needs to become invisible. Becoming invisible, many do not become
+                visible again.</p><br/>
+                <p><i>escribir sin hacer leyendas</i> (<span className={styles.grayShadow}>Heriberto Yépez</span>)</p><br/>
+                <p><i>La luz corrompe. Nos deja sin misterio.</i> (<span className={styles.grayShadow}>Claudia
+                Hernández de Valle-Arizpe</span>)</p><br/><br/>
+                <p>I write poetry to organize my anxiety ...</p>
+                </GalleryProse>
+                </>
+          )
+      }
+
+      export function TombModel1RawText35(){
+        return   (
+                <>
+                <GalleryProse>
+                <p>Spent 5 hours watching the news out of Ferguson, it’s going, it has never not been. Live
+                video of the street <i>where we ate Vietnamese food</i>, Lisa said (St. Louis), hundreds of people
+                observing a moment of silence, standing silently in the street, not talking, not moving,
+                people staring into their phones—twin commons, motionless, <i>is</i> the motion ... Yet, no one
+                was touching. Everyone was autonomous, people looking at each other, the ground: the night,
+                street lights, heads of strangers.</p>
+                </GalleryProse>
+                </>
+          )
+      }
+
+      export function TombModel1RawText36(){
+        return   (
+                <>
+                <GalleryProse>
+                <h3><span className={styles.bigGrayShadow}>NEGATIVE SPACE</span></h3><p>The people were standing
+                silently in the street, down the street, a block or two, from the park. The park was dark ... The
+                people did not move and everyone minded the call for silence (the call to prayer), looking at
+                each other, moving their eyes. There were eyes at the end of the street: streetlights, red and
+                green, and in downtown Ferguson,
+                SEASON’S GREETINGS, which I tried to write backwards, like:<br/><br/>Negative space is what
+                is between, but only if the value of a thing is assigned, for which everything else (air,
+                distance) is not a thing, even less ... Negative, a word: the negative of: something
+                subtracted from, every <i>thing</i> has agency but negative space, which is naked, invisible.
+                Positive space makes me anxious, so that light, i.e. fire, is of a depth even more dreadful
+                than darkness, i.e. the park ... Negative space is a judgment, becomes a judgment.<br/><br/>
+                Negative space is made. It takes an imposing army. No, the people wake up and walk outside
+                and fear their own impulses, which become more and more foreign until they separate from
+                their bodies and ... assume the form of an alternative people.</p>
+                </GalleryProse>
+                </>
+          )
+      }
+
+      export function TombModel1RawText37(){
+        return   (
+                <>
+                <GalleryProse>
+                <p><i>suffer the rootlessness of a “hyphenated” people.</i> (<span
+                className={styles.grayShadow}>Audre Lorde</span>)</p><br/>
+                <p>The desert exiles the body, because it bears no eco-systemic relationship to
+                the body: more like when the body dries out—</p><br/>
+                <p>I’ll sit in the sun and move as it moves until sitting is done. </p><br/>
+                <p>Lights are not the semblance of a call, but a kind of idiot, unthinking
+                perseverance in the FACE.</p>
+                </GalleryProse>
+                </>
+          )
+      }
+
+      export function TombModel1RawText38(){
+        return   (
+                <>
+                <GalleryProse>
+                <p>When I am looking, I am, in effect, looking through bodies, into negative space ...
+                the bodies are active, even when they are not moving. There is no such thing as
+                motionlessness when an action is being performed, though it’s true the mind can relent.</p>
+                </GalleryProse>
+                </>
+          )
+      }
+
+      export function TombModel1RawText39(){
+        return   (
+                <>
+                <GalleryProse>
+                <p><u>James Baldwin, The Discovery of What It Means to Be an American</u>: <i>There, in that
+                absolutely alabaster landscape, armed with two Bessie Smith records and a typewriter, I
+                began to re-create the life that I had first known as a child</i> ... </p>
+                <p><i>the book is more likely to be a symptom of our tension than an examination of it.</i></p><br/>
+                <p><u>Princes and Powers</u>: <i>A people deprived of political sovereignty finds it very
+                nearly impossible to recreate, for itself, the image of its past, this perpetual recreation
+                being an absolute necessity for, if not, indeed, the definition of a living culture.</i> ... </p>
+                <p><i>It was precisely their intention, their necessity, to keep the people they ruled in a state
+                of cultural anarchy, that is, simply in a barbaric state</i>.</p>
+                <p><i>The anatomizing of the great injustice which is the irreducible fact of colonialism was yet not
+                enough to give the victims of that injustice a new sense of themselves.</i></p><br/>
+                <p><u>East River, Downtown</u>: <i>Their presence is not as frightening as the discontent which
+                creates their opportunity.</i> ... </p>
+                </GalleryProse>
+                </>
+          )
+      }
+
+      export function TombModel1RawText40(){
+        return   (
+                <>
+                <GalleryProse>
+                <p>Two irreconcilable sentiments: that there’s too much going on and not enough. Irreconcilable?
+                They are the same thing.</p><br/><br/>
+                <p>My doctor said I was going to live forever. Was.</p><br/><br/>
+                <p>The tree is languid with water running or (a) lake renewal, and those are the perfect desert
+                moments: when water can be felt because it can be heard. The trees are of the telepathic species;
+                water is a configuration of elements, we are a configuration of elements, feeling is stimulus
+                response, a prior, primordial intelligence: we are blocked, fruit flies are flying around my mouth
+                like cats. I keep blowing them back, until they take to my eyes.</p>
+                </GalleryProse>
+                </>
+          )
+      }
+
+      export function TombModel1RawText41(){
+        return   (
+                <>
+                <GalleryProse>
+                <pre>{`It is`}<br/><br/>{`TEARS`}<br/><br/>{`  Naturally`}<br/><br/>{`Tears,`}<br/>
+                <br/>{`Necessarily plural &`}<br/><br/>{`        in excess of`}<br/><br/>{`(Wong May)`}</pre>
+                </GalleryProse>
+                </>
+          )
+      }
+
+      export function TombModel1RawText42(){
+        return   (
+                <>
+                <GalleryProse>
+                <br/><br/><pre>{`I want to answer seriously Robert’s question: Can you live in the desert?`}</pre><br/><br/>
+                <pre>{`Am I living in the desert?`}</pre>
+                </GalleryProse>
+                </>
+          )
+      }
+
+      export function TombModel1RawText43(){
+        return   (
+                <>
+                <GalleryProse>
+                <p>I’m walking in the jungle with my Chinese father, he is a nebulous character, because everything
+                he made in his life is not Chinese. His wife and children are Belizean; the jungle is his living
+                burial. He does not love it, but needs it. What am I doing here, in it? It is a lush: my insides
+                spilled everywhere, impossible to describe ... To die in the desert is to become a ceramic figurine,
+                fall over and crack, and exhale all your organs as dust ... .</p><br/><br/>
+                <h3>FIG/URINE</h3><br/><br/><br/>
+                <pre><i>{`                                        September 2014 - November 2014`}</i></pre>
                 </GalleryProse>
                 </>
           )
