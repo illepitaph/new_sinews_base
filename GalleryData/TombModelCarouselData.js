@@ -59,6 +59,11 @@ import { TombModel2RawText15} from "../galleryText/tombModelGalleryText.js"
 import { TombModel2RawText16} from "../galleryText/tombModelGalleryText.js"
 import { TombModel2RawText17} from "../galleryText/tombModelGalleryText.js"
 import { TombModel2RawText18} from "../galleryText/tombModelGalleryText.js"
+import { TombModel2RawText19} from "../galleryText/tombModelGalleryText.js"
+import { TombModel2RawText20} from "../galleryText/tombModelGalleryText.js"
+import { TombModel2RawText21} from "../galleryText/tombModelGalleryText.js"
+import { TombModel2RawText22} from "../galleryText/tombModelGalleryText.js"
+import { TombModel2RawText23} from "../galleryText/tombModelGalleryText.js"
 
 export const tombModelOneText = [
   {title: "TombModel1", textName: TombModel1RawText1},
@@ -124,5 +129,10 @@ export const tombModelTwoText = [
     {title: "TombModel57", textName: TombModel2RawText15},
     {title: "TombModel58", textName: TombModel2RawText16},
     {title: "TombModel59", textName: TombModel2RawText17},
-    {title: "TombModel60", textName: TombModel2RawText18}
+    {title: "TombModel60", textName: TombModel2RawText18},
+    {title: "TombModel61", textName: TombModel2RawText19},
+    {title: "TombModel62", textName: TombModel2RawText20},
+    {title: "TombModel63", textName: TombModel2RawText21},
+    {title: "TombModel64", textName: TombModel2RawText22},
+    {title: "TombModel65", textName: TombModel2RawText23}
   ]

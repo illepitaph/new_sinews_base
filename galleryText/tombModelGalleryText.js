@@ -953,7 +953,7 @@ export function TombModel2RawText16(){
         <GalleryProse>
         <p><i>I haven’t seen sassafras in a really long time and I really regret that we haven’t kept in touch.</i> (<span
             className={styles.grayShadow}>Phil Cordelli</span>, 1/13/14) )</p><br/>
-        <p>Matthew 27:7 <br/><br/><span className={styles.galleryArrows}>⬇</span><br/><br/>potter’s field?</p>
+        <p>Matthew 27:7 <br/><br/><span className={styles.galleryArrows}>⬇</span><br/><br/>potter’s field?</p><br/><br/><br/><br/>
         <p>Dürer’s melancholy</p>
         </GalleryProse>
         </>
@@ -992,6 +992,83 @@ export function TombModel2RawText18(){
         slowly, meditatively, like stalkers; we jumped over the wooden railing ... </p><br/>
         <p>THE EXILES</p><br/>
         <p>IMMURE</p>
+        </GalleryProse>
+        </>
+    )
+}
+
+export function TombModel2RawText19(){
+      return   (
+        <>
+        <GalleryProse>
+        <p><i>And indeed the gangrene was climbing higher and higher.</i> (<span
+            className={styles.grayShadow}>Flaubert</span>, M. Bovary)</p><br/>
+        <p>Dream: The unhappy life of a corpse</p><br/>
+        <p>Atomic Cocktail Party + Trivia Book<br/><u>Little Boy</u><br/>20 oz. citrus vodka <br/>6 oz hard
+        apple cider<br/>1 TB grenadine syrup <br/>Pour Grenadine over ice in a highball. Add V. Fill with cider,
+        and watch the lovely red ice cubes float up + down</p><br/>
+        <p>Peace is never fully won. It is only kept from moment to moment.</p>
+        </GalleryProse>
+        </>
+    )
+}
+
+export function TombModel2RawText20(){
+      return   (
+        <>
+        <GalleryProse>
+        <p>bullets <i>coast</i></p><br/>
+        <p>mutual annihilation  aka mutual assured destruction (MAD)</p><br/>
+        <p>soft sights</p><br/>
+        <p>atomic clock in Ft. Collins, CO</p><br/>
+        <p>hi-tech grease pencil</p><br/>
+        <p>Voltaire died eating his own excrement? tarred/coal-black automata in an open pit mine</p>
+        </GalleryProse>
+        </>
+    )
+}
+
+export function TombModel2RawText21(){
+      return   (
+        <>
+        <GalleryProse>
+        <p>To write about what it was like to have been alive.</p><br/><br/>
+        <p>Doughnuts yesterday with Josh. Alvernon Donuts. Family run. Father, mother, young daughter,
+        wearing a dress. They ran out of doughnuts, or so they said, which was clearly untrue, we could
+        see the doughnuts in the glass case. The father poured us the last of the coffee then asked us,
+        politely, to leave. The mother and the daughter were already in the car, waiting. They had
+        a white pick-up. I kept looking out the window, but what did I see? My own fat face, omnipresent
+        about the dereliction. We relocated to Bananas. Men with shrunken faces. Is the bartender lonely?
+        She has to be sympathetic. The men were innocuous, helpless. They were quiet. There was little
+        camaraderie, despite the bar was full; every stool was occupied. 3 drinks apiece. What does
+        Elizabeth Hardwick say about nostalgia? <i>Their tone about themselves, their mood, is the fatal
+        one of nostalgia—a passive, consuming, repetitive poetry.</i></p>
+        </GalleryProse>
+        </>
+    )
+}
+
+export function TombModel2RawText22(){
+      return   (
+        <>
+        <GalleryProse>
+        <br/><p>These poems are corollary to what I’m trying to write in prose. It’s okay, neither will get me ... </p><br/><br/>
+        <p>The right to establish free agency</p><br/><br/>
+        <p>the right to not live in a home</p>
+        </GalleryProse>
+        </>
+    )
+}
+
+export function TombModel2RawText23(){
+      return   (
+        <>
+        <GalleryProse>
+        <p>Tucson city code 11-36.2</p>
+        <p><span className={styles.galleryArrows}>⬇</span></p>
+        <p>people sleeping on the sidewalk (?) </p><br/><br/>
+        <p><i>Correctional facilities are not correcting</i> ... <br/><i>but they’ve got space</i> ... <i>and heat</i>.</p><br/><br/>
+        <pre><i>{`                                 January 2014 - February 2014`}</i></pre>
         </GalleryProse>
         </>
     )
