@@ -17,7 +17,7 @@ export default function TombModelOne() {
 }
 
     function nextText() {
-      if (textArrayIndex < 43) {
+      if (textArrayIndex < 42) {
       setTextArrayIndex(textArrayIndex + 1);
     } else {
       setTextArrayIndex(0);
