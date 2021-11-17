@@ -24,7 +24,7 @@
 .carousel > .prev {
   position:absolute;
   z-index: 1;
-  top:50%;
+  top:20%;
   left:-3%;
   flex:5%;
   height:5%;
@@ -43,7 +43,7 @@
 .carousel > .next {
   position:absolute;
   z-index:1;
-  top:50%;
+  top:70%;
   right:-3%;
   flex:5%;
   height:5%;

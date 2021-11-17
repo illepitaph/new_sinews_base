@@ -64,6 +64,31 @@ import { TombModel2RawText20} from "../galleryText/tombModelGalleryText.js"
 import { TombModel2RawText21} from "../galleryText/tombModelGalleryText.js"
 import { TombModel2RawText22} from "../galleryText/tombModelGalleryText.js"
 import { TombModel2RawText23} from "../galleryText/tombModelGalleryText.js"
+import { TombModel3RawText0} from "../galleryText/tombModelGalleryText.js"
+import { TombModel3RawText1} from "../galleryText/tombModelGalleryText.js"
+import { TombModel3RawText2} from "../galleryText/tombModelGalleryText.js"
+import { TombModel3RawText3} from "../galleryText/tombModelGalleryText.js"
+import { TombModel3RawText4} from "../galleryText/tombModelGalleryText.js"
+import { TombModel3RawText5} from "../galleryText/tombModelGalleryText.js"
+import { TombModel3RawText6} from "../galleryText/tombModelGalleryText.js"
+import { TombModel3RawText7} from "../galleryText/tombModelGalleryText.js"
+import { TombModel3RawText8} from "../galleryText/tombModelGalleryText.js"
+import { TombModel3RawText9} from "../galleryText/tombModelGalleryText.js"
+import { TombModel3RawText10} from "../galleryText/tombModelGalleryText.js"
+import { TombModel3RawText11} from "../galleryText/tombModelGalleryText.js"
+import { TombModel3RawText12} from "../galleryText/tombModelGalleryText.js"
+import { TombModel3RawText13} from "../galleryText/tombModelGalleryText.js"
+import { TombModel3RawText14} from "../galleryText/tombModelGalleryText.js"
+import { TombModel3RawText15} from "../galleryText/tombModelGalleryText.js"
+import { TombModel3RawText16} from "../galleryText/tombModelGalleryText.js"
+import { TombModel3RawText17} from "../galleryText/tombModelGalleryText.js"
+import { TombModel3RawText18} from "../galleryText/tombModelGalleryText.js"
+import { TombModel3RawText19} from "../galleryText/tombModelGalleryText.js"
+import { TombModel3RawText20} from "../galleryText/tombModelGalleryText.js"
+import { TombModel3RawText21} from "../galleryText/tombModelGalleryText.js"
+import { TombModel3RawText22} from "../galleryText/tombModelGalleryText.js"
+import { TombModel3RawText23} from "../galleryText/tombModelGalleryText.js"
+import { TombModel3RawText24} from "../galleryText/tombModelGalleryText.js"
 
 export const tombModelOneText = [
   {title: "TombModel1", textName: TombModel1RawText1},
@@ -136,3 +161,31 @@ export const tombModelTwoText = [
     {title: "TombModel64", textName: TombModel2RawText22},
     {title: "TombModel65", textName: TombModel2RawText23}
   ]
+
+  export const tombModelThreeText = [
+    {title: "TombModel66", textName: TombModel3RawText1},
+    {title: "TombModel67", textName: TombModel3RawText2},
+    {title: "TombModel68", textName: TombModel3RawText3},
+    {title: "TombModel69", textName: TombModel3RawText4},
+    {title: "TombModel70", textName: TombModel3RawText5},
+    {title: "TombModel71", textName: TombModel3RawText6},
+    {title: "TombModel72", textName: TombModel3RawText7},
+    {title: "TombModel73", textName: TombModel3RawText8},
+    {title: "TombModel74", textName: TombModel3RawText9},
+    {title: "TombModel75", textName: TombModel3RawText10},
+    {title: "TombModel76", textName: TombModel3RawText11},
+    {title: "TombModel77", textName: TombModel3RawText12},
+    {title: "TombModel78", textName: TombModel3RawText13},
+    {title: "TombModel79", textName: TombModel3RawText14},
+    {title: "TombModel80", textName: TombModel3RawText15},
+    {title: "TombModel81", textName: TombModel3RawText16},
+    {title: "TombModel82", textName: TombModel3RawText17},
+    {title: "TombModel83", textName: TombModel3RawText18},
+    {title: "TombModel84", textName: TombModel3RawText19},
+    {title: "TombModel85", textName: TombModel3RawText20},
+    {title: "TombModel86", textName: TombModel3RawText21},
+    {title: "TombModel87", textName: TombModel3RawText22},
+    {title: "TombModel88", textName: TombModel3RawText23},
+    {title: "TombModel89", textName: TombModel3RawText24}
+
+]

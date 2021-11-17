@@ -1073,3 +1073,394 @@ export function TombModel2RawText23(){
         </>
     )
 }
+
+export function TombModel3RawText1(){
+  return   (
+          <>
+     <GalleryLineation><pre><i>{`Don’t forget that for now it’s strawberry season. Yes.`}</i> (<span
+      className={styles.grayShadow}>Clarice Lispector</span>)</pre><br/><br/>
+     </GalleryLineation>
+     </>
+)
+}
+
+
+export function TombModel3RawText2(){
+  return   (
+          <>
+     <GalleryProse>
+      <p>Lake M. Single image conforming a single chapter: white cloud (maiden) floating over a mountain </p><br/><br/>
+      <p><i>Zone of Enchantment</i> btw. book, reader, and listener: consolation zone</p><br/><br/>
+      <p>Pilgrim. Desecration rituals: put one’s foot directly through the image of Christ into Hell.</p>
+     </GalleryProse>
+          </>
+    )
+}
+
+export function TombModel3RawText3(){
+  return   (
+          <>
+      <GalleryProse>
+      <p>Agamben, cont.<i> In Auschwitz, people did not die; rather, corpses were produced. Corpses without
+      death, non-humans whose decease is debased into a matter of serial production. And, according to
+      a possible and widespread interpretation, precisely this degradation of death constitutes the specific
+      offense of Auschwitz, the proper names of its horror.</i> (72)</p><br/>
+      <p><i>But to die means: to bear death in one’s own Being. To be able to die means: to be capable of
+      this decisive bearing. And we are capable of it only if our Being is capable of the Being of death ... Everywhere
+      we face the immense misery of innumerable, atrocious deaths that have not died, and yet the essence of death
+      is closed off to man.</i> (Heidegger on death, in “The Danger” (a lecture))</p><br/>
+      <p>Book, my neglect of you is becoming the climate. I am sharing myself, my observations, with too many
+      people, too frequently, too little with you. Your richness overwhelms me. I am small and insufferable. I
+      have nothing coming or going but in your presence, your order. So I return. You’ve never left.</p>
+     </GalleryProse>
+          </>
+    )
+}
+
+export function TombModel3RawText4(){
+  return   (
+          <>
+      <GalleryLineation>
+      <pre>{`My cyclopic goes into the small bird’s throat.`}</pre><br/><br/><br/><br/><br/><br/><br/><br/>
+      <pre>{`There is a balloon in the apartment on its third day of floating.`}</pre>
+     </GalleryLineation>
+          </>
+    )
+}
+
+export function TombModel3RawText5(){
+  return   (
+          <>
+      <GalleryProse>
+      <p>Riding a bus through the downtown of an anonymous city, elevated slightly on the overpass would be nice. </p><br/>
+      <p>Pilgrim. Keiko gave The Poet an enormous apple. The Poet is skeptical at first, though he does not
+      admit to skepticism, saying instead it’s not the kind of apple he normally likes. The Poet accepts
+      the apple but does not eat it. He carries it around for days; bears knowledge without formalizing it.
+      Days later, The Poet rediscovers the apple in his bag and eats it, all but the core. Keiko reconstitutes
+      herself in The Poet’s mouth, though once the apple enters The Poet’s digestive system, Keiko is gone. The
+      Poet, having indulged himself on the apple has indulged knowledge and evil, and with the apple still inside
+      him, disappears. It was his acceptance. He accepted, he assented. The apple foretold. </p><br/>
+      <p>Letters: desire, <i>to await from the stars</i>.</p>
+     </GalleryProse>
+          </>
+    )
+}
+
+export function TombModel3RawText6(){
+  return   (
+          <>
+      <GalleryProse>
+      <p>Wilfred Owen’s sentries were scattered in the mud and snow.</p><br/>
+      <p>What did I learn? That all writing is addressed to death: our own, of our childhood, the liminal/critical
+      space btw. traumas, inside traumas, that of a loved one, an epoch ... </p><br/>
+      <p><u><i>Evening Oracle</i> alt. titles:</u><br/><i>Old Masters </i><br/><i>I Am an Old Woman</i><br/><i>Old
+      Woman </i><br/><i>Old Women </i><br/><i>An Old Woman</i></p><br/>
+      <p>Is venom green?</p>
+     </GalleryProse>
+          </>
+    )
+}
+
+export function TombModel3RawText7(){
+  return   (
+          <>
+      <GalleryProse>
+      <p>Mr. Layton, the Agriculture Education teacher, is deaf. His lesson today implemented by a plastic
+      black bag in which he had mixed rabbit shit and rabbit urine. He was gleeful. He ushered us into
+      the copy room, closed the door, and opened the bag.></p><br/>
+      <p>I read from <cite>The Girl</cite> in Cambridge, regretted it. That reading was a fraud, a dead body stretched
+      long and wide to occupy the spaces of the other, more vibrant dead. Cannibalism <span
+      className={styles.smallGalleryArrows}>➜</span> it can either
+      imply a respectful sustaining of the self or a selfish dependence on more vibrant, productive bodies.
+      We need a small amp with two inputs and an easily portable drumkit.</p>
+     </GalleryProse>
+          </>
+    )
+}
+
+export function TombModel3RawText8(){
+  return   (
+          <>
+      <GalleryProse>
+      <br/><br/><br/><br/><br/><br/><br/><br/><br/><p>I dreamt two nights ago that two ducks were standing in an open doorway, both with the right sides of their
+      thin bodies facing into the kitchen where Lisa was, I was outside, both facing in the same direction, and
+      shitting, their shit was runny and streaming in an unbroken ribbon, though it was accumulating into massive
+      ball-shaped piles, we picked them up, we kicked them into the woods, I buried one shit-ball beneath leaves.</p>
+     </GalleryProse>
+          </>
+    )
+}
+
+export function TombModel3RawText9(){
+  return   (
+          <>
+      <GalleryProse>
+      <p>Went looking for Fall. That was one of the premises. Fall is on top of the mountain. We stopped at the labor
+      camp. Shortly before the turn-off, a small road crew, four helmeted men. One’s head, beneath his helmet, was
+      draped in a towel. (Not that I could smell the rabbit when I entered.) I thought of the men who built
+      the road, the prisoners, nearing the middle of the twentieth century. Gordon Hirabayashi was one of them. We
+      sang songs to and about G.H. while ascending a ridge. Lisa said, <i>Look at the pillow of green</i>. We ate tart cherries,
+      goji berries, shared a banana. Later, back in the valley, I envision a giant, insect-like organism coming over
+      the mtns. down into the valley. I was pumping gas. I envisioned driving off a cliff, our facial expressions.</p>
+     </GalleryProse>
+          </>
+    )
+}
+
+export function TombModel3RawText10(){
+  return   (
+          <>
+      <GalleryProse>
+      <p>Lake M. There are no people on the road or in the woods on either side. A thin brook is frozen. There are
+      no sounds. My father, profoundly deaf... hears birds + water, but there are none. Were the battles of the past
+      fought for such a desolate future, or what exactly was imagined. They had no <i>life</i>; their universe was closed.
+      One body hit the ground, then ten thousand... </p><br/><br/>
+      <p><i>To be loved, baby, hard, at once, and forever, to strengthen you against the loveless world.</i> (<span
+          className={styles.grayShadow}>James Baldwin</span>, “My Dungeon Shook”)</p><br/><br/><br/>
+      <h3><span className={styles.bigGrayShadow}>DYBBUK</span></h3>
+     </GalleryProse>
+          </>
+    )
+}
+
+export function TombModel3RawText11(){
+      return   (
+        <>
+        <GalleryProse>
+        <p>To enable my life as a poet <span className={styles.smallGalleryArrows}>➜</span> to fund my life as a poet,
+        I feed, I must feed, prune pudding to a little boy with no nose. My range of responses has been curtailed,
+        I speak programmatically, wonder if I’m saying the wrong thing, death of speech. Sitting on a large rubber
+        egg, both Jesus and Victoria are licking toys. Later, Phoebe scoots over to me. She cries for 20 minutes
+        in the bathroom. One of the middle-aged women who comes in to observe Phoebe has a wine-soaked nose, powdered
+        with pancake make-up that makes her cadaverous, though she is puffy, and has red bags beneath her eyes.</p>
+        </GalleryProse>
+        </>
+    )
+}
+
+export function TombModel3RawText12(){
+      return   (
+        <>
+        <GalleryProse>
+        <p>The Desert (outside Marana): I’ve sweat more on this book than I’ve written in it. I am standing in the desert
+        and the desert is sound. Voices behind the cactus, green is only a part of it. <i>Be Still and Silent</i>. The drums
+        off the palisades, not the echo, the hair of the reverberation creates a wind, the hair rolls southeast down
+        the 40, 50 foot palisade. It is because the moon is east southeast. Is the water moving? Is the water moved?
+        Then the hair, having grown and being made real, disappears. Hair is not accurate. I am the embodiment of there
+        being drums excerpted from dismantled kits, as clauses. Not a hair, a fur, a fuzz, a puff (an exhalation), if
+        hair was a consequence of condensation.</p>
+        </GalleryProse>
+        </>
+    )
+}
+
+export function TombModel3RawText13(){
+      return   (
+        <>
+        <GalleryProse>
+        <p><i>We leap, not in the festival, but in its epilogue.</i> (<span
+            className={styles.grayShadow}>René Char</span>)</p><br/><br/><br/>
+        <p>In the mid. of the night, fingernails grow in the drain</p><br/><br/>
+        <p>Grams and Poppi are both in the hospital. Grams fell out of bed and landed on a box of tissues. It took two
+        firemen to carry her out of the house. Mom moved things out of the way, also cleaned, so the firemen, upon
+        entering the dark house, it was 3 or 4 in the morning, to find a small, frail old lady crumpled atop a box
+        of tissues, would not suspect abuse. Grams does not yet know or understand her future. It will be delivered
+        to her. Mom is going to suffer, she is already: thinking that she is going to have to deliver her mother’s
+        future.</p>
+        </GalleryProse>
+        </>
+    )
+}
+
+export function TombModel3RawText14(){
+      return   (
+        <>
+        <GalleryProse>
+        <p>We drove, on a whim, up Kitt Peak yesterday. Sunday, the desert was thick, we passed border patrolmen
+        wearing shades, armed, chew in their cheeks, a black helicopter landed off the side of the road and rousted
+        a fat cloud of dirt and earth, the helicopter’s blades scything the vegetation. A large board depicted
+        the state’s most wanted criminals, 30, a calendar month-like arrangement of Latino faces, only one woman,
+        number 27.</p>
+        </GalleryProse>
+        </>
+    )
+}
+
+export function TombModel3RawText15(){
+      return   (
+        <>
+        <GalleryProse>
+        <p>If I write one scene, even if a small scene, at a time. Or look at what I’m looking at translated into text:
+        weaving. Dad’s story of the glowing ball in the woods he told to Jan and Greg, he told to Kelly and me: the woods
+        became our woods, I pursued the glowing ball, I went into the woods in pursuit, the sun does not change
+        positions, it stays fixed, implacable, encomium to rage, a photogram in the sky tangled by limbs, the story
+        is one of day, and death, it takes leaping over a wall, the pursuit is one of faith and an inextinguishable
+        need to know, to reach the sun, but also a need to understand distance, how nothing moves, how we are forever
+        conscripted to our own perspectives, framed by our faces, which we never see: we worship distance, distance
+        makes the story, all we know of history, that is, the world, in one way, we know by virtue of distance,
+        which enforces correspondence: we drain as we eternalize the letters, we drain them and get drunk, I’m
+        going to Los Angeles, it is now the next generation, what will remain of the previous generations, for us, for
+        those following us, its a crude way of measuring distance and time...</p>
+        </GalleryProse>
+        </>
+    )
+}
+
+export function TombModel3RawText16(){
+      return   (
+        <>
+        <GalleryProse>
+        <p>Then suddenly I realize the tulip trees are before me in the form of what I look at now and how they have
+        always been there and are disappearing. The tulip trees fully described as presences in the past, if I cannot
+        see them clearly, can I feel them clearly, they are quiet in their associations, I am coming back to them,
+        they are patient despite not waiting, I catch in the photosphere (they are in the photosphere; what I can
+        see of them is <i>their</i> photosphere). </p><br/>
+        <p>What two children see of a circular light in the woods is the sun. There’s a galaxy approaching us, how
+        does it move in unison with itself and by what force? That is 5 billion years, which is beyond the span of time
+        taken to get us here; it more than doubles all we can measure of everything.</p><br/>
+        <p>The ears of poetry scare me.</p>
+        </GalleryProse>
+        </>
+    )
+}
+
+export function TombModel3RawText17(){
+      return   (
+        <>
+        <GalleryProse>
+        <p>That first night in the hospital, before Greta died, though after it was determined
+        that she was mostly brain dead, a few of us gathered in the waiting area outside the elevators on the 4th floor
+        and, with bottles of wine and cans of beer from the grocery store a block west, got drunk, and refused to
+        leave...</p><br/><br/><br/><br/><br/>
+        <p>We couldn’t, anyway..</p><br/>
+        <p>Not far from where we were getting drunk, a brain was coming apart, and where before we were held by the brain,
+        we were now too getting drunk, and by oblivion, where we would remain; to the brain, we were no longer.</p>
+        </GalleryProse>
+        </>
+    )
+}
+
+export function TombModel3RawText18(){
+      return   (
+        <>
+        <GalleryProse>
+        <p>The trees grew larger until they overtook the eye and all around the eye and themselves (each other), then
+        pushed thru the back of the eye, the head, themselves, each other, replaced by another staggering gang of trees,
+        there never was any diminishment, though the sun did not change size increase at all; it did not grow, but hung
+        back behind the overtaking of the trees as a paper disk across which a few strokes of black might indicate birds
+        flying home against a limpid sky</p>
+        </GalleryProse>
+        </>
+    )
+}
+
+export function TombModel3RawText19(){
+      return   (
+        <>
+        <GalleryProse>
+        <p>The story was short, practically airless. It held (existed in) the same airless space as its
+        content: <span className={styles.smallGalleryArrows}>➜</span> And it was told with a smile, a knowing smile <span
+        className={styles.smallGalleryArrows}>➜</span> sly, yet didactic... </p>
+        <p>We wish to cleanse ourselves of (the) complexes that have sustained us? however</p>
+        <p>A week ago tonight, my 80 year-old grandmother fell out of bed and landed on a cardboard box on which
+        were perched...</p>
+        <p>Her shoulder was pulverized...</p>
+        <p>My mom, two days later, <span className={styles.smallGalleryArrows}>➜</span><br/>The story was as airless
+        as the woods (landscape) it enabled</p>
+        </GalleryProse>
+        </>
+    )
+}
+
+export function TombModel3RawText20(){
+      return   (
+        <>
+        <GalleryProse>
+        <p><i>When I look at my aunt in these photographs, she and I appear in reverse chronological order. Yes, my
+        aunt is only a Chinese photograph in a photograph that is not Chinese. She seems to be preparing footnotes
+        for my death or preventing another one from taking place.</i> (<span
+            className={styles.grayShadow}>Tan Lin</span>, <cite>Insomnia & The Aunt</cite>)</p><br/><br/><br/>
+        <p><i>When constructing a depiction of thinking in</i> The Life of the Mind<i>, Hannah Arendt asks where it is
+        that we go when we think, rather than asking what thinking is—the customary philosophical inquiry. She
+        shifts the emphasis of the ancient question from ontological query to spatial trajectory. For Arendt,
+        thinking resembles tracking, a kind of place “beaten by the activity of thought,” which turns to
+        ploddingly follow a course towards a pause. It is “the small, inconspicuous track of non-time ...
+        beaten between an infinite past and an infinite future by accepting past and future as directed, aimed,
+        as it were, at themselves—as</i> their <i>predecessors and successors,</i> their <i>past and their future—thus
+        establishing a present for themselves, “a space that is neither inherited nor received from tradition,
+        but which is made from what is touched in passing: “the ruin of historical and biographical time.”</i> (<span
+        className={styles.grayShadow}>Lisa Robertson</span>, footnote in <cite>Nilling</cite> pp.13-14)</p>
+        </GalleryProse>
+        </>
+    )
+}
+
+export function TombModel3RawText21(){
+      return   (
+        <>
+        <GalleryLineation>
+        <pre>{`; it’s not difficult to be lured, or to be so by the writing like a dog`}</pre>
+        </GalleryLineation>
+        </>
+    )
+}
+
+export function TombModel3RawText22(){
+      return   (
+        <>
+        <GalleryProse>
+        <p>You put a man in the ground he becomes he is removed (taken away) from harm—whether against or by him—but
+        also becomes elusive—</p><br/>
+        <pre>{`
+                                  (a grave)
+                                  (entombed)
+                                  (vegetable)`}</pre><br/><br/>
+        <p>Keep writing and rewriting until each moment, each image, each transition,— there are not transitions,
+        each unit of the narrative becomes ineluctable feeling, and the entire body begins to levitate. Not
+        an exorcism—a séance. I want to keep the body in the room. I am in a no-man’s-land presently, and all
+        the personae are linked to a central heart, which is cooked yet, discovering itself. Two books today:
+        photographs, more so than photographs, and barbed wire...</p>
+        </GalleryProse>
+        </>
+    )
+}
+
+export function TombModel3RawText23(){
+      return   (
+        <>
+        <GalleryProse>
+        <p>Arrived in the desert southwest of Tucson ... It is spectacularly quiet. A crow caws into a distant
+        immediacy. It is in my ear, though far, as if I’ve thrown my hearing. The only trees I see are paloverde,
+        green and wily, no wind could stir a single limb. Barrel cactus, prickly pear, Lisa called them beavertail
+        cactus as we [were] driving on Old Spanish Trail, who is Lisa, I hear footfalls on a tiled floor, someone
+        is opening a window, what will happen to people in the desert, there is not a spot on this earth that
+        did not catch a body in its fall. The saguaro are intermittent. The sun is full frontal and mutely radiant,
+        not glittering on the desert floor. We are not far from where Tucson ends, and it is strong on the mind,
+        it goes on beating its insensible beats. The house makes sounds <span
+        className={styles.smallGalleryArrows}>➜</span> the house is a machine, a sociopathic
+        ecosystem that can be disguised not to feel but to make the people in it believe the house is feeling them,
+        as they are believing themselves. “Everyone’s in like a totally different part of the house.” Ocotillo,
+        sagebrush, my knowledge of the desert floor, one year and two months later, has not advanced, is as
+        insufficient as the day we arrived</p>
+        </GalleryProse>
+        </>
+    )
+}
+
+export function TombModel3RawText24(){
+      return   (
+        <>
+        <GalleryProse>
+        <p>Arrived in the absence of sound, the desert convects hysteria. Civilization cannot hear itself;
+        civilization cannot apprehend itself <i>as hell</i>—for it and its constituents, every pope and pig, within
+        the same order, for equivalent reasons—other than as a matrix of distributing justice. Because hell
+        is a phenomenon, it can be experienced like a phenomenal showing of lights, however inexplicable,
+        on the horizon. It is always near. Everyone has lived there at least once. Meanwhile, photographs
+        are thought to be soundless. But in the same way the hysterics of hell can be heard just below
+        the horizon, concealed within the lower registers of a photograph are the sounds of hell,
+        the cacophony of the underworld. </p><br/><br/>
+        <pre><i>{`                                 October 2012 - December 2012`}</i></pre>
+        </GalleryProse>
+        </>
+    )
+}

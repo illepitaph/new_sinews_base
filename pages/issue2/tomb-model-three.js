@@ -1,9 +1,31 @@
+import React, {useState} from 'react'
 import Head from 'next/head'
 import Link from 'next/link'
 import Header from '../../components/header.js'
 import Footer from '../../components/footer.js'
+import styles from '../../styles/TombModel.module.css'
+import { tombModelThreeText } from '../../GalleryData/TombModelCarouselData.js'
 
 export default function TombModelThree() {
+  const [textArrayIndex, setTextArrayIndex] = useState(0);
+    function prevText() {
+       if (textArrayIndex > 0) {
+      setTextArrayIndex(textArrayIndex - 1);
+    } else {
+      setTextArrayIndex(tombModelThreeText.length - 1);
+    }
+}
+
+    function nextText() {
+      if (textArrayIndex < 24) {
+      setTextArrayIndex(textArrayIndex + 1);
+    } else {
+      setTextArrayIndex(0);
+    }
+}
+
+const RawText = tombModelThreeText[textArrayIndex]["textName"];
+
   return (
       <div>
           <Head>
@@ -16,6 +38,19 @@ export default function TombModelThree() {
           <body>
 
        <Header headerBackground="tombBackground"/>
+
+       <div className={styles.container}>
+
+       <div className={styles.carousel}>
+       <div className={styles.prev} onClick={prevText}>&#10094;&#10094;&#10094;</div>
+       <div className={styles.next} onClick={nextText}>&#10095;&#10095;&#10095;</div>
+       <div><RawText/></div>
+       </div>
+
+        </div>
+
+       <Footer/>
+
 
        <Footer/>
 
