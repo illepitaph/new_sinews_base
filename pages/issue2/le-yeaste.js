@@ -18,7 +18,7 @@ export default function LeYeaste() {
 }
 
     function nextText() {
-      if (textArrayIndex < 6) {
+      if (textArrayIndex < 5) {
       setTextArrayIndex(textArrayIndex + 1);
     } else {
       setTextArrayIndex(0);

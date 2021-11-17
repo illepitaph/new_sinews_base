@@ -19,7 +19,7 @@ export default function Zamora() {
 }
 
     function nextText() {
-      if (textArrayIndex <= 7) {
+      if (textArrayIndex < 7) {
       setTextArrayIndex(textArrayIndex + 1);
     } else {
       setTextArrayIndex(0);

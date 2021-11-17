@@ -18,7 +18,7 @@ export default function TwoEyesInOneEye() {
 }
 
     function nextText() {
-      if (textArrayIndex < 25) {
+      if (textArrayIndex < 24) {
       setTextArrayIndex(textArrayIndex + 1);
     } else {
       setTextArrayIndex(0);

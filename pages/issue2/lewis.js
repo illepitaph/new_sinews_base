@@ -14,12 +14,11 @@ export default function Lewis() {
        if (textArrayIndex > 0) {
       setTextArrayIndex(textArrayIndex - 1);
     } else {
-      setTextArrayIndex(zamoraText.length - 1);
+      setTextArrayIndex(lewisText.length - 1);
     }
 }
-
     function nextText() {
-      if (textArrayIndex <= 10) {
+      if (textArrayIndex < 12) {
       setTextArrayIndex(textArrayIndex + 1);
     } else {
       setTextArrayIndex(0);
