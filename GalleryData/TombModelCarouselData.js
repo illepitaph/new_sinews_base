@@ -89,6 +89,19 @@ import { TombModel3RawText21} from "../galleryText/tombModelGalleryText.js"
 import { TombModel3RawText22} from "../galleryText/tombModelGalleryText.js"
 import { TombModel3RawText23} from "../galleryText/tombModelGalleryText.js"
 import { TombModel3RawText24} from "../galleryText/tombModelGalleryText.js"
+import { TombModel4RawText1} from "../galleryText/tombModelGalleryText.js"
+import { TombModel4RawText2} from "../galleryText/tombModelGalleryText.js"
+import { TombModel4RawText3} from "../galleryText/tombModelGalleryText.js"
+import { TombModel4RawText4} from "../galleryText/tombModelGalleryText.js"
+import { TombModel4RawText5} from "../galleryText/tombModelGalleryText.js"
+import { TombModel4RawText6} from "../galleryText/tombModelGalleryText.js"
+import { TombModel4RawText7} from "../galleryText/tombModelGalleryText.js"
+import { TombModel4RawText8} from "../galleryText/tombModelGalleryText.js"
+import { TombModel4RawText9} from "../galleryText/tombModelGalleryText.js"
+import { TombModel4RawText10} from "../galleryText/tombModelGalleryText.js"
+import { TombModel4RawText11} from "../galleryText/tombModelGalleryText.js"
+import { TombModel4RawText12} from "../galleryText/tombModelGalleryText.js"
+import { TombModel4RawText13} from "../galleryText/tombModelGalleryText.js"
 
 export const tombModelOneText = [
   {title: "TombModel1", textName: TombModel1RawText1},
@@ -187,5 +200,20 @@ export const tombModelTwoText = [
     {title: "TombModel87", textName: TombModel3RawText22},
     {title: "TombModel88", textName: TombModel3RawText23},
     {title: "TombModel89", textName: TombModel3RawText24}
+]
 
+export const tombModelFourText = [
+  {title: "TombModel90", textName: TombModel4RawText1},
+  {title: "TombModel91", textName: TombModel4RawText2},
+  {title: "TombModel92", textName: TombModel4RawText3},
+  {title: "TombModel93", textName: TombModel4RawText4},
+  {title: "TombModel94", textName: TombModel4RawText5},
+  {title: "TombModel95", textName: TombModel4RawText6},
+  {title: "TombModel96", textName: TombModel4RawText7},
+  {title: "TombModel97", textName: TombModel4RawText8},
+  {title: "TombModel98", textName: TombModel4RawText9},
+  {title: "TombModel99", textName: TombModel4RawText10},
+  {title: "TombModel100", textName: TombModel4RawText11},
+  {title: "TombModel101", textName: TombModel4RawText12},
+  {title: "TombModel102", textName: TombModel4RawText13}
 ]

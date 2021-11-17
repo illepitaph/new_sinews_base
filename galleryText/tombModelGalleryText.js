@@ -1464,3 +1464,219 @@ export function TombModel3RawText24(){
         </>
     )
 }
+
+export function TombModel4RawText1(){
+  return   (
+          <>
+     <GalleryLineation>
+     <br/><br/><pre><i>{`I still have no way to survive but to keep writing one
+       line, one more line, one
+     more line ...`}</i> (<span className={styles.grayShadow}>Yukio Mishima</span>)</pre><br/><br/>
+     </GalleryLineation>
+     </>
+  )
+}
+
+export function TombModel4RawText2(){
+  return   (
+          <>
+          <GalleryProse>
+          <p>Dream: Viridian Tree Frog. Design Materials. A boy writes a perfect sentence. It is an opening sentence.
+          It is about the viridian tree frog, a small, bright green, nearly translucent, frog that lives in
+          the trees—high up—in South America. I am struggling with my sentence, so someone recommends I read
+          this one. The boy who wrote it is also a singer and a breakdancer. His video is #1. I watch the first
+          few seconds. He’s breakdancing in a back alley, surrounded by other dancers, all faceless, and brick
+          walls. The part of the inner ear that replicates sound—because the ear doesn’t just receive sound, it
+          records and replicates/reproduces sound in real time—is called Design Materials. I am looking at
+          a diagram of the inner ear. Design Materials looks like a bass drum or a small barrel. I meet
+          the dog that my father grew up with. The dog is 18 years old. My father is crippled, though it is not
+          clear how. In the basement, the hip-hop artist’s video is playing.</p><br/><br/>
+        <p>A magazine composed of my favorite (individual) pages from literature <span
+          className={styles.smallGalleryArrows}>➜</span></p>
+          </GalleryProse>
+     </>
+  )
+}
+
+export function TombModel4RawText3(){
+  return   (
+          <>
+          <GalleryProse>
+          <p>Senpo Sugihara, consul to Kuanas, Lithuania<br/>
+          issued 6000 passports to Jews, </p><br/><br/>
+          <p>We went to the Museum of Contemporary Art today. A man walked through one of the smaller galleries,
+          the one with the white blimps suspended from the ceiling, and said to the woman working in the gift
+          shop, “Are those phallic symbols?” It took her a few seconds to say that they were blimps. He didn’t
+          bother to turn around to regard her or her answer. Rephrased his question as a statement: “They look
+          like phallic symbols."</p>
+          </GalleryProse>
+     </>
+  )
+}
+
+export function TombModel4RawText4(){
+  return   (
+          <>
+          <GalleryLineation>
+          <pre><i>{`        Memory heaping and building in the dusk of our souls
+        holds itself ever ready to restore to us what the universal
+        flux withdraws from us instant by instant ...`}</i> (<span className={styles.grayShadow}>Paul Valéry</span>)</pre><br/><br/>
+         <pre><i>{`        Now I find myself pushing writers to get
+        closer to the bone, to use the document not as
+        a way to write about their subject, but to enter
+        a wormhole that may resemble an abyss.`}</i> (<span className={styles.grayShadow}>Susan Schultz</span>)</pre>
+          </GalleryLineation>
+     </>
+  )
+}
+
+export function TombModel4RawText5(){
+  return   (
+          <>
+          <GalleryProse>
+          <p>Sitting on a stranger’s step. The house is white, the yard shin-high with weeds—it raises its
+          profile in the low stratosphere, which gives the appearance of neglect or death, which is where
+          desperation lands the living plant: desperate to reach a private space, at least for safety,
+          relinquish seed. Offspring will also grow tall and crowded. Inside the white house, cement floor
+          littered with iridescent beetles—their wings and husks (hulls). A nightgown hung with a wire hanger
+          in an otherwise empty closet. There is a cop car parked, idly, at the stop sign on 17th Street,
+          waiting to catch someone speeding up or down 4th Avenue. Neither gender, deviousness, dubiousness,
+          but an automatic machine. There are a few flayed, spread feathers of white wing in the sky. The
+          cop car’s fan is loud—the car is overheating. Cops stare for hours at small colorful squares,
+          their kitchens are painted yellow, white curtains over the sink, but still they stand at a distance
+          from their possessions—they’ve purchased a space for their distance, with what they’ve earned from
+          staring at small colorful squares. It is hot sitting here on the stranger’s step, four days in a row.</p>
+          </GalleryProse>
+     </>
+  )
+}
+
+export function TombModel4RawText6(){
+  return   (
+          <>
+        <GalleryProse>
+        <p>I used to read in a room like a cellar, imagining myself swimming along the ceiling—</p><br/>
+        <p><i>And most of all beware, even in though, of assuming the sterile attitude of the spectator, for
+        life is not a spectacle, a sea of grief is not a proscenium, a man who wails is not a dancing bear</i> ... (<span
+            className={styles.grayShadow}>Aimé Césaire</span>, 1971, pp. 60-62)</p><br/>
+        <p>Mom’s 61st birthday today. She was driving down the Bitterroot Valley to take pictures of fog when I called.</p><br/>
+        <p>Walking back from the laundromat, reading Muriel Rukeyser’s <cite>The Life of Poetry</cite>, shadows of trees moving
+        down the page: water washing over Muriel’s words—not being under water, but in a state of suspension,
+        water becoming  the trees overhead. I am not moving, my mind is and by Muriel’s words, the desert
+        profound with its ancient seas beating down its well-worn and precarious walls into rivers.</p>
+          </GalleryProse>
+     </>
+  )
+}
+
+export function TombModel4RawText7(){
+  return   (
+          <>
+          <GalleryProse>
+          <pre>{`I don’t remember any of the flowers or trees in Hiroshima ... `}</pre><br/><br/><br/>
+          <pre>{`Maybe it lacks a kind of truth—it does not find
+            itself in the upsweep ... `}</pre><br/><br/><br/>
+          <p className={styles.grayShadow}>I got lines all over<br/>my fucking face.</p>
+          </GalleryProse>
+     </>
+  )
+}
+
+export function TombModel4RawText8(){
+  return   (
+          <>
+        <GalleryProse>
+        <p>A mourning dove is sitting on the top of a utility pole, at the top of the cross, and could
+        be in the most remote part of the desert but for its coo and the apparent need for utility. Though
+        there is no one around, and the mourning dove both approves of such absences and has no choice,
+        is a bird, and somehow, underneath its sun-bleached clay-colored feathers, does not feel a single
+        flush of grief. It does not take the highest seat in the neighborhood, though it might as well.</p><br/>
+        <p>We’re surrounded by flowers, which exist as human mute, but communicate with the means of painters.
+        Lisa surprised me with a visit to the art museum library today, which I didn’t know existed.</p><br/>
+        <p>Lisa made photocopies of Buddhist art (Japanese), which she now has leaning against the wall
+        she faces when she meditates.</p><br/>
+        <p>The library is exactly the focus of the moral imperative I was talking about: hidden from us, but
+        known to some segment, however small. It needs to be recognized and sustained, recorded in its own
+        blood development.</p>
+        </GalleryProse>
+     </>
+  )
+}
+
+export function TombModel4RawText9(){
+  return   (
+          <>
+        <GalleryProse>
+        <p>While walking down the alleyway back to the apt. this morning, I heard a goat (maybe it was a sheep).
+        All I could see was the darkness beyond an open door and I wondered who was sitting around and how they
+        were holding themselves in relation to the animal ... </p><br/>
+        <p>All our conversations are efforts to understand: death, history, the transference of events and
+        moments and experiences across history, what constitutes the self, presence, present, in exile, in
+        exile from itself in the present, the rituals that give <span className={styles.grayShadow}>ORDER</span>,
+        the symbolic orders and what they are made of.</p>
+        </GalleryProse>
+     </>
+  )
+}
+
+export function TombModel4RawText10(){
+  return   (
+          <>
+        <GalleryProse>
+        <p>Lit candles for Sam. He goes into surgery tomorrow. One blue candle. One green candle. The red
+        candle Lisa lit last night is still burning. The wax is liquid, the wick persists. Sam’s presence
+        is in the acknowledgment.</p><br/>
+        <p>Morning. Sam’s surgery apparently without incident. He now holds within him a larger valve. He’s
+        waking up. Our candles put a glaze on the memory, the future. The future is memory, projected. The
+        sky is mostly white, herringbone.</p><br/>
+        <p><i>Now I know where Depression comes from: rereading my diary of this summer, I am both “charmed”
+        (lured) and disappointed; hence writing at its best is merely a mockery. Depression comes when,
+        in the depths of despair, I cannot manage to save myself by my attachment to writing. </i>(<span
+            className={styles.grayShadow}>Roland Barthes</span>, Mourning Diary, Nov. 21, 1977)</p><br/>
+        </GalleryProse>
+     </>
+  )
+}
+
+export function TombModel4RawText11(){
+  return   (
+          <>
+        <GalleryProse>
+        <br/><br/><br/><br/><p>It has not rained in months, the streets will be flooded, road construction will
+        be halted, the rain will have nowhere to go, it falls with a lightness that fairly represents each thing
+        it passes on its way down—no lack of things to photosynthesize, no lack of solar cells, each being a laborer
+        for a single small heart—an egg rather, a spore.</p>
+        </GalleryProse>
+     </>
+  )
+}
+
+export function TombModel4RawText12(){
+  return   (
+          <>
+        <GalleryProse>
+        <p>John and Johanna have a lime tree in their yard. We finished the whiskey that has been sitting in
+        the freezer for months. Johanna brought out a plate of pineapple and strawberries. Johanna broke
+        a branch off the lime tree and fed it into the fire.</p><br/>
+        <p>Does one’s “voice” include also the non-verbal things that issue from their mouths?</p><br/>
+        <p>I had a dream last night that before entering a music venue to see some band play, a girl in her
+        mid-20s came up to me with a lit match and a tuning fork. She stuck the tuning fork into my head
+        then lit the end of it with the match.</p><br/>
+        <p><i>I do not intend to speak about / Just speak near by.</i> (<span
+            className={styles.grayShadow}>Trinh T. Minh-ha</span>, <cite>Reassemblage</cite>)</p><br/>
+        <p><i>accumulation of sediments</i> (<span className={styles.grayShadow}>Glissant</span>)</p><br/>
+        </GalleryProse>
+     </>
+  )
+}
+
+export function TombModel4RawText13(){
+      return   (
+        <>
+        <GalleryProse>
+        <br/><br/><br/><br/><p>I have been seeing hummingbirds by the aloe.</p><br/><br/><br/><br/>
+        <pre><i>{`                                  March 2012 - April 2012`}</i></pre>
+        </GalleryProse>
+        </>
+    )
+}
