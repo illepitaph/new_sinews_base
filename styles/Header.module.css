@@ -62,6 +62,10 @@
   background-image:url("../public/images/LeYeasteBackground.jpg");
 }
 
+.straussBackground {
+  background-image:url("../public/images/StraussBackground.jpg")
+}
+
 .tombBackground {
   background-image:url("../public/images/TombBackground.jpg");
 }
