@@ -43,7 +43,7 @@ return (
 
         <div className={styles.carousel}>
         <div className={styles.prev} onClick={prevText}>&#10094;&#10094;&#10094;</div>
-        <div className={styles.next} onClick={nextText}>&#10095;&#10095;&#10095;</div>
+        <div className={styles.next} onClick={nextText}>➭	➭</div>
         <div><RawText/></div>
         </div>
 

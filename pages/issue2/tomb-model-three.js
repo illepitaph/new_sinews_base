@@ -42,8 +42,8 @@ const RawText = tombModelThreeText[textArrayIndex]["textName"];
        <div className={styles.container}>
 
        <div className={styles.carousel}>
-       <div className={styles.prev} onClick={prevText}>&#10094;&#10094;&#10094;</div>
-       <div className={styles.next} onClick={nextText}>&#10095;&#10095;&#10095;</div>
+       <div className={styles.prev} onClick={prevText}>←<br/>←</div>
+       <div className={styles.next} onClick={nextText}>→<br/>→</div>
        <div><RawText/></div>
        </div>
 

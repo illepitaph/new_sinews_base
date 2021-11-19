@@ -43,8 +43,8 @@ const RawText = text[textArrayIndex]["textName"];
           <div className={styles.container}>
 
           <div className={styles.carousel}>
-          <div className={styles.prev} onClick={prevText}>&#10094;&#10094;&#10094;</div>
-          <div className={styles.next} onClick={nextText}>&#10095;&#10095;&#10095;</div>
+          <div className={styles.prev} onClick={prevText}>← ←</div>
+          <div className={styles.next} onClick={nextText}>&#10139; &#10139;</div>
           <div><RawText/></div>
           </div>
 

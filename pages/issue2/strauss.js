@@ -3,7 +3,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 import Header from '../../components/header.js'
 import Footer from '../../components/footer.js'
-import styles from '../../styles/Zamora.module.css'
+import styles from '../../styles/Strauss.module.css'
 import React, {useState} from 'react'
 import { straussText } from '../../GalleryData/StraussCarouselData'
 
@@ -19,7 +19,7 @@ export default function Strauss() {
 }
 
     function nextText() {
-      if (textArrayIndex < 1) {
+      if (textArrayIndex < 5) {
       setTextArrayIndex(textArrayIndex + 1);
     } else {
       setTextArrayIndex(0);
@@ -42,8 +42,8 @@ return (
         <div className={styles.container}>
 
         <div className={styles.carousel}>
-        <div className={styles.prev} onClick={prevText}>&#10094;&#10094;&#10094;</div>
-        <div className={styles.next} onClick={nextText}>&#10095;&#10095;&#10095;</div>
+        <div className={styles.prev} onClick={prevText}>&#8678;<br/><br/>&#8678;<br/><br/>&#8678;</div>
+        <div className={styles.next} onClick={nextText}>&#8680;<br/><br/>&#8680;<br/><br/>&#8680;</div>
         <div><RawText/></div>
         </div>
 

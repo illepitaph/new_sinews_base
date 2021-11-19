@@ -106,6 +106,7 @@
 }
 
 .grayShadow {
+  font-family:"lores-9-plus-wide";
   text-shadow:1px 1px snow,
               2px 2px #b0b0b0;
 }
