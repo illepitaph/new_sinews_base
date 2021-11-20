@@ -42,8 +42,8 @@ const RawText = tombModelTwoText[textArrayIndex]["textName"];
        <div className={styles.container}>
 
        <div className={styles.carousel}>
-       <div className={styles.prev} onClick={prevText}>←<br/>←</div>
-       <div className={styles.next} onClick={nextText}>→<br/>→</div>
+       <div className={styles.prev} onClick={prevText}>&#10232;<br/>&#10229;<br/>&#10232;</div>
+       <div className={styles.next} onClick={nextText}>&#10230;<br/>&#10233;<br/>&#10230;</div>
        <div><RawText/></div>
        </div>
 

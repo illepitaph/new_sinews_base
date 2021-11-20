@@ -73,7 +73,8 @@ export function TombModel1RawText5(){
           of a quotation or a quotation of a passage equivalent to the length of a passage the author has
           written but not written by the author, and so on—anyway, I fell asleep, and when I woke all my
           fingers were in pain, stressed, at least, as if they’d all been bent back or pulled loose of
-          their joints. I dreamed the book contained three central themes: RACE, DEATH & ART ... The dream
+          their joints. I dreamed the book contained three central themes: <span className={styles.grayShadow}>RACE</span>,
+          <span className={styles.roughAltText}>DEATH</span>, & <span className={styles.grayShadow}>ART</span> ... The dream
           was the incarnation of a prematurity, because the subject, or the theme or themes, is a consequence
           of the writing, not the instruction, so that the dream was also expressing an impatience with
           the writing, or more exactly, the lack of writing.</p>
@@ -140,7 +141,7 @@ export function TombModel1RawText9(){
           <GalleryProse>
           <p>My internment research has consisted of reading and visiting the ruins of camps and isolation centers,
           many of which are little more than cracked + overgrown foundations. But I cannot write about internment—</p><br/><br/>
-          <p>Dream: resurrection of the garage as a foundational place. There was snow on the ground and no moon,
+          <p><span className={styles.roughAltText}>dream</span>: resurrection of the garage as a foundational place. There was snow on the ground and no moon,
           so the twilight was missing its light. The dismal luminosity, if that could be said, was coming from
           a kind of lingering dread <i>becalmed</i>. </p><br/><br/>
           <p>I read a friend’s novel and it was OK—I made marks on every page, but, turning back through the pages,
@@ -177,7 +178,7 @@ export function TombModel1RawText11(){
   return   (
           <>
           <GalleryProse>
-          <p>Dream: the main attraction in the Japanese village was the small fountain, European in design,
+          <p><span className={styles.roughAltText}>dream</span>: the main attraction in the Japanese village was the small fountain, European in design,
           a rarity. The village was near water, so why the fountain?</p>
           </GalleryProse>
           </>
@@ -219,7 +220,8 @@ export function TombModel1RawText14(){
   return   (
           <>
           <GalleryProse>
-          <br/><br/><pre className={styles.galleryArrows}>{`GALLERY ← → GALLOWS`}</pre>
+          <br/><br/><pre className={styles.galleryArrows}><span
+          className={styles.roughAltText}>{`GALLERY ← → GALLOWS`}</span></pre>
           </GalleryProse>
           </>
     )
@@ -260,10 +262,10 @@ export function TombModel1RawText17(){
   return   (
           <>
           <GalleryProse>
-          <p>I could be romantic, or express a nostalgia FROM me, but the rain is depressing my mind—my imagination,
-          not even soporific, is null and void. I can still listen, can’t I? To rubber in rainwater, the unbroken
-          drone of weight through space, pushing through gravity, buses, people sleeping, everyone is sad, sad,
-          sad.</p><br/><br/>
+          <p>I could be romantic, or express a nostalgia <span className={styles.grayShadow}> FROM</span> me,
+          but the rain is depressing my mind—my imagination, not even soporific, is null and void. I can still
+          listen, can’t I? To rubber in rainwater, the unbroken drone of weight through space, pushing through
+          gravity, buses, people sleeping, everyone is sad, sad, sad.</p><br/><br/>
           <p>I had a vision that there was an androgynous orphan encased in a drop of rain hanging from
           the limb of a tall bush.</p><br/><br/>
           <p>(Incidentally, I had a dream that Joshua Beckman and I were having drinks at a bar called Strawberry
@@ -506,7 +508,7 @@ export function TombModel1RawText20(){
         return   (
                 <>
                 <GalleryProse>
-                <pre><h3>{`Trees or crosses or graves`}</h3></pre>
+                <pre><h3><span className={styles.grayShadow}>{`Trees  or  crosses  or  graves`}</span></h3></pre>
                 </GalleryProse>
                 </>
           )
@@ -583,7 +585,7 @@ export function TombModel1RawText20(){
         return   (
                 <>
                 <GalleryProse>
-                <h3><span className={styles.bigGrayShadow}>NEGATIVE SPACE</span></h3><p>The people were standing
+                <h3><span className={styles.roughAltText}>NEGATIVE SPACE</span></h3><p>The people were standing
                 silently in the street, down the street, a block or two, from the park. The park was dark ... The
                 people did not move and everyone minded the call for silence (the call to prayer), looking at
                 each other, moving their eyes. There were eyes at the end of the street: streetlights, red and
@@ -673,8 +675,9 @@ export function TombModel1RawText20(){
         return   (
                 <>
                 <GalleryProse>
-                <pre>{`It is`}<br/><br/>{`TEARS`}<br/><br/>{`  Naturally`}<br/><br/>{`Tears,`}<br/>
-                <br/>{`Necessarily plural &`}<br/><br/>{`        in excess of`}<br/><br/>{`(Wong May)`}</pre>
+                <pre><span className={styles.grayShadow}>{`It is`}<br/><br/>{`TEARS`}<br/><br/>{`  Naturally`}<br/>
+                <br/>{`Tears,`}<br/><br/>{`Necessarily plural and`}<br/><br/>{`        in excess of`}<br/>
+                <br/>{`(Wong May)`}</span></pre>
                 </GalleryProse>
                 </>
           )
@@ -818,7 +821,7 @@ export function TombModel1RawText20(){
                 <p>There’s never a river. There’s been a river but there’s never one now. A hard rain: a river. That’s
                 when Johanna saw a man being pulled by other men from the river. The man was dead. The men needed
                 a net to pull him up.</p><br/>
-                <p>Oh good, <br/><br/>Another day embarrassed that I do not know what’s being said, I hear it, it sounds
+                <p><span className={styles.grayShadow}>Oh good,</span> <br/><br/>Another day embarrassed that I do not know what’s being said, I hear it, it sounds
                 like my day wd be improved if I cd be improved It’s friendly, repetetive [sic] and has the quality of
                 jubilation (jubilee) but I’m on earth, is day only of I’m looking at where it begins but still I can
                 see through it What would have to be added to it for me to better understand exactly what it is? Color?
@@ -954,7 +957,7 @@ export function TombModel2RawText16(){
         <p><i>I haven’t seen sassafras in a really long time and I really regret that we haven’t kept in touch.</i> (<span
             className={styles.grayShadow}>Phil Cordelli</span>, 1/13/14) )</p><br/>
         <p>Matthew 27:7 <br/><br/><span className={styles.galleryArrows}>⬇</span><br/><br/>potter’s field?</p><br/><br/><br/><br/>
-        <p>Dürer’s melancholy</p>
+        <p><span className={styles.grayShadow}>Dürer’s melancholy</span></p>
         </GalleryProse>
         </>
     )
@@ -990,7 +993,7 @@ export function TombModel2RawText18(){
         thought it might attack. The like-monkey had a small face ... a sun, made by the sun, abandoned by the sun.
         The kind of swamp where exotic birds, tall birds with long head feathers, towering, arched head feathers, walk
         slowly, meditatively, like stalkers; we jumped over the wooden railing ... </p><br/>
-        <p>THE EXILES</p><br/>
+        <p><span className={styles.grayShadow}>THE EXILES</span></p><br/>
         <p>IMMURE</p>
         </GalleryProse>
         </>
@@ -1004,7 +1007,7 @@ export function TombModel2RawText19(){
         <p><i>And indeed the gangrene was climbing higher and higher.</i> (<span
             className={styles.grayShadow}>Flaubert</span>, M. Bovary)</p><br/>
         <p>Dream: The unhappy life of a corpse</p><br/>
-        <p>Atomic Cocktail Party + Trivia Book<br/><u>Little Boy</u><br/>20 oz. citrus vodka <br/>6 oz hard
+        <p>Atomic Cocktail Party + Trivia Book<br/><u><span className={styles.grayShadow}>Little Boy</span></u><br/>20 oz. citrus vodka <br/>6 oz hard
         apple cider<br/>1 TB grenadine syrup <br/>Pour Grenadine over ice in a highball. Add V. Fill with cider,
         and watch the lovely red ice cubes float up + down</p><br/>
         <p>Peace is never fully won. It is only kept from moment to moment.</p>
@@ -1021,7 +1024,7 @@ export function TombModel2RawText20(){
         <p>mutual annihilation  aka mutual assured destruction (MAD)</p><br/>
         <p>soft sights</p><br/>
         <p>atomic clock in Ft. Collins, CO</p><br/>
-        <p>hi-tech grease pencil</p><br/>
+        <p><span className={styles.roughAltText}>hi-tech grease pencil</span></p><br/>
         <p>Voltaire died eating his own excrement? tarred/coal-black automata in an open pit mine</p>
         </GalleryProse>
         </>
@@ -1140,7 +1143,7 @@ export function TombModel3RawText5(){
       herself in The Poet’s mouth, though once the apple enters The Poet’s digestive system, Keiko is gone. The
       Poet, having indulged himself on the apple has indulged knowledge and evil, and with the apple still inside
       him, disappears. It was his acceptance. He accepted, he assented. The apple foretold. </p><br/>
-      <p>Letters: desire, <i>to await from the stars</i>.</p>
+      <p><span className={styles.roughAltText}>Letters</span>: desire, <i>to await from the stars</i>.</p>
      </GalleryProse>
           </>
     )
@@ -1169,7 +1172,7 @@ export function TombModel3RawText7(){
       black bag in which he had mixed rabbit shit and rabbit urine. He was gleeful. He ushered us into
       the copy room, closed the door, and opened the bag.></p><br/>
       <p>I read from <cite>The Girl</cite> in Cambridge, regretted it. That reading was a fraud, a dead body stretched
-      long and wide to occupy the spaces of the other, more vibrant dead. Cannibalism <span
+      long and wide to occupy the spaces of the other, more vibrant dead. <span className={styles.grayShadow}>Cannibalism </span><span
       className={styles.smallGalleryArrows}>➜</span> it can either
       imply a respectful sustaining of the self or a selfish dependence on more vibrant, productive bodies.
       We need a small amp with two inputs and an easily portable drumkit.</p>
@@ -1411,10 +1414,10 @@ export function TombModel3RawText22(){
         <GalleryProse>
         <p>You put a man in the ground he becomes he is removed (taken away) from harm—whether against or by him—but
         also becomes elusive—</p><br/>
-        <pre>{`
+        <pre><span className={styles.grayShadow}>{`
                                   (a grave)
                                   (entombed)
-                                  (vegetable)`}</pre><br/><br/>
+                                  (vegetable)`}</span></pre><br/><br/>
         <p>Keep writing and rewriting until each moment, each image, each transition,— there are not transitions,
         each unit of the narrative becomes ineluctable feeling, and the entire body begins to levitate. Not
         an exorcism—a séance. I want to keep the body in the room. I am in a no-man’s-land presently, and all
@@ -1574,7 +1577,7 @@ export function TombModel4RawText7(){
           <>
           <GalleryProse>
           <pre>{`I don’t remember any of the flowers or trees in Hiroshima ... `}</pre><br/><br/><br/>
-          <pre>{`Maybe it lacks a kind of truth—it does not find
+          <pre>{`Maybe it lacks a kind of truth——it does not find
             itself in the upsweep ... `}</pre><br/><br/><br/>
           <p className={styles.grayShadow}>I got lines all over<br/>my fucking face.</p>
           </GalleryProse>
