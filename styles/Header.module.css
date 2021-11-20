@@ -74,6 +74,10 @@
   background-image:url("../public/images/DuskBackground.jpg");
 }
 
+.stoughBackground {
+  background-image:url("../public/images/StoughBackground.jpg");
+}
+
 .siteBarContainerAbout {
   height:65vh;
   background-image:url("../public/images/LineNewSinew.jpg");
