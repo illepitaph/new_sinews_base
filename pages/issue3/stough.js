@@ -434,9 +434,278 @@ export default function Stough() {
         <br/>
         <br/>
         <br/>
-
-
-
+        Refrain arises out of a rhythmic impulse, like the flutter of street light before it is “lighght” (Aram Saroyan).
+        <br/>
+        <br/>
+        <br/>
+        Often others refuse the 1:1 relation of things while also in metaphorical substancing. When we say "refrain
+        from ____, please" (“stop doing x action”), we make an appeal to the autonomic without even realizing. We
+        chain a command.
+        <br/>
+        <br/>
+        <br/>
+        From Kant we come to believe we possess the right to be right, not to cry when it isn't seemly to, no coffee
+        past certain thresholds of human time. Rather with duration, the unthought of the body comes visible once
+        more (as in the time after infancy, before childhood, where the dreams are stored). We place our hands in
+        a circle below the gut and something simultaneous urges the sense of the body's being locked into place,
+        yet never more free. It's about setting a plane. You can think of destination and speed as a wooden disk,
+        if you want. With metaphor in tow, we grope into physics. You don't have to think of anything, really. You
+        can just walk, let truth rally behind your thought like the wind through a flag.
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <span className={styles.sectionBreakSymbol}>~</span>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        Utterly depressed these past weeks. Manic, really. Unable to feel and then feeling it all, the all of it.
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <span className={styles.sectionBreakSymbol}>~</span>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        It's been ten years since I began my life as someone whose father had died.
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <span className={styles.sectionBreakSymbol}>~</span>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <span className={styles.boldHeader}>november</span>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        I need to relearn. Five panic attacks, bad ones. I poured through Oliveros' book again. I needed to learn
+        how to walk so I did it, with Pauline, or tried. I bought a pair of fresh-colored New Balance 574's,
+        plugged in my headphones, and for 20 minutes every week this summer I listened to  <span
+        className={styles.grayShadow}><i>Horse Sings From A Cloud</i></span> in attempts to revive myself, one who
+        had been forgotten by poetry. What role does repetition play in a person's personological stupidity, was
+        the type of question I tried asking myself. Tried to reach my own personological stupidity plane. I didn’t.
+        I didn't reach it. I tired easily. I tired, though.
+        <br/>
+        <br/>
+        <br/>
+        I let pace establish itself as I walked. I mimicked, willing or unwittingly, a form of stepping first theorized
+        by people long gone. People who had to walk to get places, I'm told. For some reason I think of the nuns in
+        Powell and Pressburger's <span className={styles.grayShadow}><i>Black Narcissus</i></span>.
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <span className={styles.sectionBreakSymbol}>~</span>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        Then Young Thug released <span className={styles.grayShadow}><i>So Much Fun</i></span> and once again I awoke, to
+        a life.
+        <br/>
+        <br/>
+        <br/>
+        Then Young Thug released <span className={styles.grayShadow}><i>So Much Fun</i></span> and I awoke to
+        this life.
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <span className={styles.sectionBreakSymbol}>~</span>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        I learned the Tibetan face wash, which I will reproduce here:
+        <br/>
+        <br/>
+        <br/>
+        Rub your palms together vigorously.
+        <br/>
+        <br/>
+        <br/>
+        Then rub your palms up and down your face.
+        <br/>
+        <br/>
+        <br/>
+        As if you’re washing a monk
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <span className={styles.sectionBreakSymbol}>~</span>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <i>You know where the bag at, tell me where it is / ...I don’t care about no cop, I’m tellin you just how
+        it is.</i>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <span className={styles.sectionBreakSymbol}>~</span>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        I worked for 500 hours. I had sex with my body and yours.  I would start books just to abandon them in a day
+        or two. Somewhere, the runner lost track of the shade. I had to change.
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <span className={styles.sectionBreakSymbol}>~</span>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <span className={styles.boldHeader}>december</span>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        In December, you hit me with something new. Forcing me to evaluate. Luckily, repositioning is easy. Too bad
+        it was too cold to walk bloomingly, or I would have walked bloomingly. In the cold one walks like a soldier,
+        I think Spinoza once said.
+        <br/>
+        <br/>
+        <br/>
+        We did sing to the bookshelves, I fondly totaled. Danced on the rung. The rug. Grasped many a night in
+        the nigh. The night.
+        <br/>
+        <br/>
+        <br/>
+        Too bad it meant this was the end of something that felt so enduring from the beginning. Not necessarily
+        enduring lovingly, but enduring. There I said it.
+        <br/>
+        <br/>
+        <br/>
+        Mornings orphaned spheres, or an ectoplasm, repeating those contours. There.
+        <br/>
+        <br/>
+        <br/>
+        So much of our love I sought to relearn. Or something like it. Remembering walking around the side streets of
+        the neighborhood in a city to which we’d just moved. Every corner so far away, to be anywhere was like
+        a course in bereavement.
+        <br/>
+        <br/>
+        <br/>
+        I grieve that my grief.
+        <br/>
+        <br/>
+        <br/>
+        I thought in the car yesterday about how our love made a refrain for me, or what Stern (who I’m reading right
+        now) calls a RIG (Representation of Interactions that have been Generalized), within which our sense of emerging
+        selves, itself within a core, unfolds through repetition, into episodes of consistent affection.
+        <br/>
+        <br/>
+        <br/>
+        I didn’t <i>discover</i> that love made a refrain. I’m not so naive as I often appear—due to my forgetfulness. What
+        I realized was how moments return. Not memories of moments, but the conditions themselves—their conditions of
+        being felt, seen, withdrawn from. I began to regain a sense of myself as it was when your love was so new to me.
+        When I wouldn't know what the next day would bring, walking back from fucking in your house on the dark Providence
+        street, listening to Angel Olsen (for empathy) and Deathheaven (in honor of ecstasy), not wanting to die.
+        <br/>
+        <br/>
+        <br/>
+        That me that felt wonder at living somewhere so alien to a Missourian and, miraculous to all, somehow surviving.
+        <br/>
+        <br/>
+        <br/>
+        For Christmas I ask for a pair of Sony Bluetooth Over-The-Ear Headphones, coveting their higher fidelity and
+        cordless capabilities. I wondered how this would adjust to the contours of the walk. A week before Christmas
+        you informed me the price had gone up. I didn't expect you to pay $200 for headphones. Instead I asked for
+        a pair of black Cowin E7's. Cheaper, still cordless. I didn't like them at first, or was hesitant to make
+        an evaluation. Until I lay down in bed and flicked on that song.
+        <br/>
+        <br/>
+        <br/>
+        I heard the note that I'd always heard. The note I keep hearing. But I heard something else. I could, for
+        the first time, hear Oliveros' fingers clicking the bass switches of her accordion. I tried to imagine
+        how the dog on the cover of the album understood bass switches, their itinerant clinking. A dog howls
+        with a timbre we recognize. I was in bed but felt lifted. I remembered the walk I took in May or June,
+        whenever it was, or in some way I rewalked it. I didn't think of Deleuze or Guattari, or Thoreau or
+        Kant or anyone other than Pauline, who had given me this message: I hope that when we finally buy
+        a house together we own this album on vinyl and can walk together inside it. We meaning me now.
+        <br/>
+        <br/>
+        <br/>
+        Blue tooth. We meaning me. There.
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <span className={styles.sectionBreakSymbol}>~</span>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        Rub your palms together.
+        <br/>
+        <br/>
+        <br/>
+        Then run them up and down.
+        <br/>
+        <br/>
+        <br/>
+        As if you're walking.
+        <br/>
+        As if
+        <br/>
+        <br/>
+        <br/>
+        I’m telling you this.
+        <br/>
+        <br/>
+        <br/>
+        I’m telling you just how it is.
+        <br/>
+        <br/>
+        <br/>
         </StandardProse>
 
                      <Footer/>
