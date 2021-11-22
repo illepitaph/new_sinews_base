@@ -78,6 +78,10 @@
   background-image:url("../public/images/StoughBackground.jpg");
 }
 
+.akantBackground {
+  background-image:url("../public/images/AkantBackground.jpg");
+}
+
 .siteBarContainerAbout {
   height:65vh;
   background-image:url("../public/images/LineNewSinew.jpg");
