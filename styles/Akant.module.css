@@ -33,7 +33,7 @@
   color:black;
   text-shadow:2px 3px snow,
              5px 5px red;
-  font-size:4rem;
+  font-size:5rem;
   font-weight:700;
   letter-spacing:0.2rem;
   cursor:pointer;
@@ -50,7 +50,7 @@
   display:grid;
   place-items:center;
   color:red;
-  font-size:4rem;
+  font-size:5rem;
   font-weight:700;
   text-shadow: 2px 2px #b0b0b0,
                  4px 4px black;
@@ -60,14 +60,14 @@
 }
 
 .prev:hover {
-  font-size:4.2rem;
+  font-size:5.2rem;
   color:snow;
   text-shadow: 2px 3px black,
                 4px 6px red;
 }
 
 .next:hover {
-  font-size:4.2rem;
+  font-size:5.2rem;
   color:#b0b0b0;
   text-shadow:3px 3px black;
 }

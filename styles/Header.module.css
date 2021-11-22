@@ -82,6 +82,10 @@
   background-image:url("../public/images/AkantBackground.jpg");
 }
 
+.alvarezBackground {
+  background-image:url("../public/images/AlvarezBackground.jpg");
+}
+
 .siteBarContainerAbout {
   height:65vh;
   background-image:url("../public/images/LineNewSinew.jpg");
