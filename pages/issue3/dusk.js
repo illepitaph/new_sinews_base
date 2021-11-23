@@ -130,7 +130,7 @@ export default function Dusk() {
   Opening and closing.
   They feel closer to mussels than ever before.
   Closer to the muscles of mussels than ever as the men fuck them.
-  They thought of clams and the different layers of octopus fleh.
+  They thought of clams and the different layers of octopus flesh.
   Alex turns her gaze toward Marie’s as Malix fucks her.
   There is a certain rhyme to this fuck.
   The way she has been handled.

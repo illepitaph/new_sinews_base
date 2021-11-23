@@ -86,6 +86,11 @@
   background-image:url("../public/images/AlvarezBackground.jpg");
 }
 
+.getteBackground {
+  background-image:url("../public/images/GetteBackground.jpg");
+}
+
+
 .siteBarContainerAbout {
   height:65vh;
   background-image:url("../public/images/LineNewSinew.jpg");

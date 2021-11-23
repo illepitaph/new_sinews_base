@@ -300,8 +300,6 @@ one reason it is that easy—yesterday—
  the good—must eat—the share—which
 too serious—either on—the business`}</pre>
 
-
-
                      <Footer/>
                            </body>
                        </div>

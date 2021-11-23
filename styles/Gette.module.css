@@ -1,0 +1,10 @@
+.titleShadow {
+  text-shadow:2px 2px snow,
+              4px 4px black;
+}
+
+.inverseShadow {
+  color:black;
+  text-shadow:4px 4px snow,
+              6px 6px palegreen;
+}
