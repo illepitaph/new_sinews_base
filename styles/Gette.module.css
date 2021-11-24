@@ -36,3 +36,14 @@
   text-shadow:1px 1px snow,
               2px 2px palegreen;
 }
+
+.caption {
+  max-width:50vw;
+  margin:0 auto;
+  margin-top:3vh;
+  font-family:"lores-9-plus-wide";
+  color:#b0b0b0;
+  font-size:2rem;
+  text-transform:lowercase;
+  text-align:center;
+}

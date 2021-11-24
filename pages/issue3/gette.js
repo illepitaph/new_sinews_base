@@ -23,8 +23,8 @@ export default function Gette() {
        <Header headerBackground="getteBackground"/>
 
         <RightGrayTitle><h3><span className={styles.titleShadow}>su<span
-        className={styles.inverseShadow}>mm</span>oni<span
-        className={styles.inverseShadow}>ng g</span>r<span
+        className={styles.inverseShadow}>mm</span>onin<span
+        className={styles.inverseShadow}>g g</span>r<span
         className={styles.inverseShadow}>ee</span>n, a <span
         className={styles.inverseShadow}>leprosy of the heart</span></span></h3></RightGrayTitle>
 
@@ -225,7 +225,88 @@ slow inhalation in his sleep</p>
 
         <div className={styles.container}><Image src="/../public/images/Gette9.jpg" width={100} height={100}
         layout={`responsive`}/></div>
+        <p className={styles.caption}><i>COLLECTION TROPEN MUSEUM</i><br/>Fighting malaria; pollination of
+        a canal with Paris greenery, Java.</p>
 
+      <div className={styles.poemContainer}>
+      <p className={styles.getteLineation}>Lepers don’t feel anything insists the ennui woman in Duras’s
+      film, dancing boringly to the <span className={styles.grayShadow}><cite>India Song</cite></span></p>
+      <p className={styles.getteLineation}>“Don’t suffer? No, don’t feel anything”</p>
+      <p className={styles.getteLineation}>She means that <i>Mycobacterium leprae</i> results in “lesions [that]
+      usually do not itch or hurt; they lack sensation to heat, touch, and pain,” <span
+      className={styles.grayShadow}>[2]</span></p>
+      <p className={styles.getteLineation}>Where humans and armadillos are the only reservoirs;</p>
+      <p className={styles.getteLineation}>they pass it along through respiratory droplets</p>
+      <p className={styles.getteLineation}>The off-camera gossipers infer that the ennui woman identifies
+      strongly with the lepers, their physical toxicity is in analog to the toxicity of her heart</p>
+      <p className={styles.getteLineation}>When she rejects the Vice-Counsul (who seems to be the only man
+      she rejects) (he is a big baby) he goes howling into the night to everyone’s great embarrassment</p>
+      <p className={styles.getteLineation}>Howling her Venetian name</p>
+      <p className={styles.getteLineation}>As a virgin he claims she is the only woman he’s ever loved</p>
+      <p className={styles.getteLineation}>She’s been with so many others he insists why not him</p>
+      <p className={styles.getteLineation}>He screams about this into the night</p>
+      <p className={styles.getteLineation}>To her great ennui — kindness is an expense of injustice — she
+      writes off: “In China, the war went on. The Japanese were still advancing. In Spain, they were still
+      fighting. In Russia, the Revolution was betrayed. The Congress of Nuremberg has just taken place.”</p>
+      <p className={styles.getteLineation}>As off-camera gossipers we infer these references mean to common
+      historical distinction by the montage of their intent,</p>
+      <p className={styles.getteLineation}>the facts of matters across time and space that make surfaces shared
+      but eschew the facts of complex interiors wallpapered with technicolor realities</p>
+      <p className={styles.getteLineation}>Long choreographies long epidemologies transgressing boundaries</p>
+      <p className={styles.getteLineation}>THERE ARE WARS PPL ARE DYING THERE ARE VIRUSES LURKING IN ALL OUR LIPID LAYERS</p>
+      <p className={styles.getteLineation}>As off-camera gossipers we infer this is what the ennui woman is
+      thinking as she lies down on the green rug in the green palace meant to protect her from these other
+      greens of contaminated grass while she breathes the green of copper-arsenic and gargoyles and pillars
+      pose a threat to those outside the palace walls</p>
+      </div>
+
+        <div className={styles.container}><Image src="/../public/images/Gette10.jpg" width={100} height={100}
+        layout={`responsive`}/></div>
+
+      <div className={styles.poemContainer}>
+      <p className={styles.getteLineation}>She lies down on the rug</p>
+      <p className={styles.getteLineation}>Everyone tries so hard at not spitting up these internalized systemic
+      droplets N-95 mask or no</p>
+      <p className={styles.getteLineation}>Don’t they? the woman cannot feel anything, the reviewer writes, she
+      suffers “leprosy of the heart” she bursts like a sack of dust</p>
+      <p className={styles.getteLineation}>I do not know how to spell leprosy and it comes out as le-porous-y</p>
+      <p className={styles.getteLineation}>Breathe the leper air breathed outside the Paris Green walls (further West
+      and ahead in time) Without speaking</p>
+      <p className={styles.getteLineation}>What leaks out is the voice of a kid who breathed in the grain and dust</p>
+      <p className={styles.getteLineation}>(Something gets pushed to the island of attention and is forgotten about)</p>
+      <p className={styles.getteLineation}>A life is garbage and holes and refrains of ordinariness that become munched dreams</p>
+      <p className={styles.getteLineation}>Then gossip kills a figure by slow consensus</p>
+      </div>
+
+        <div className={styles.container}><Image src="/../public/images/Gette11.jpg" width={100} height={100}
+        layout={`responsive`}/></div>
+
+      <div className={styles.poemContainer}>
+      <p className={styles.getteLineation}><span className={styles.grayShadow}>[1]</span>Wikipedia tells me the Rothschild
+      building was condemned and its interior chandeliers sold for far below their value; also, Napoleon’s Longwood house
+      was so damaged by termites that contemporary curators only preserved the original stone stairwell.</p>
+      <br/><br/>
+      <p className={styles.getteLineation}><span className={styles.grayShadow}>[2]</span>“Leprosy (Hansen’s
+      Disease).” 2019. <i>Communicable Disease Management Protocol</i>.  Accessed April 2020. <a href="https://www.manitoba.ca/health/publichealth/cdc/protocol/leprosy.pdf"
+      target="_blank">www.manitoba.ca/health/publichealth/cdc/protocol/leprosy.pdf.</a></p>
+      <br/><br/>
+      <p className={styles.getteLineation}><span className={styles.grayShadow}><i>Appearances</i></span> ::</p>
+      <br/><br/>
+      <p className={styles.getteLineation}>All images from Wikimedia Commons or screenshots from Marguerite
+      Duras’ <span className={styles.grayShadow}><cite>India Song</cite></span></p>
+      <br/><br/>
+      <p className={styles.getteLineation}>Edmond, R. (2006). <span className={styles.grayShadow}><cite>Leprosy
+      and Empire: A Medical and Cultural History  </cite></span> (Cambridge Social and Cultural Histories). Cambridge: Cambridge University Press. doi:10.1017/CBO9780511497285 </p>
+      <br/><br/>
+      <p className={styles.getteLineation}>Gachelin, G., Garner, P., Ferroni, E., Verhave, J. P., & Opinel, A
+      (2018). “Evidence and strategies for malaria prevention and control: a historical analysis.” <i>Malaria Journal</i>. 17(1),
+      96. <a href="https://doi.org/10.1186/s12936-018-2244-2"
+      target="_blank">https://doi.org/10.1186/s12936-018-2244-2</a></p>
+      <br/><br/>
+      <p className={styles.getteLineation}>Loayza, Beatrice. “Close-Up on Marguerite Duras's ‘India Song.’” MUBI, 4 Apr.
+      2020, <a href="https://www.mubi.com/notebook/posts/close-up-on-marguerite-duras-s-india-song"
+      target="_blank">mubi.com/notebook/posts/close-up-on-marguerite-duras-s-india-song.</a></p>
+      </div>
                      <Footer/>
                            </body>
                        </div>
