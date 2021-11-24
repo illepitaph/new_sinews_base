@@ -13,6 +13,11 @@
   margin: 0 3vw;
 }
 
+.poemContainer {
+  max-width:90%;
+  margin: 3vh 9vw;
+}
+
 .getteLineation {
   max-width:90%;
   font-family: "astoria-sans-medium-condensed", sans-serif;
@@ -23,7 +28,7 @@
   text-align:left;
   letter-spacing:-0.02rem;
   line-height:1.4em;
-  margin: 3vh 9vw;
+  margin: 1vh 0;
 }
 
 .grayShadow {
