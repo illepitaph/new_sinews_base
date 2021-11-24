@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Link from 'next/link'
+import Image from 'next/image'
 import Header from '../../components/header.js'
 import RightGrayTitle from '../../components/rightGrayTitle.js'
 import RightBlackTitle from '../../components/rightBlackTitle.js'
@@ -21,9 +22,8 @@ export default function Gette() {
 
        <Header headerBackground="getteBackground"/>
 
-        <RightGrayTitle><h3><span className={styles.titleShadow}>s<span
-        className={styles.inverseShadow}>u</span>mm<span
-        className={styles.inverseShadow}>o</span>ni<span
+        <RightGrayTitle><h3><span className={styles.titleShadow}>su<span
+        className={styles.inverseShadow}>mm</span>oni<span
         className={styles.inverseShadow}>ng g</span>r<span
         className={styles.inverseShadow}>ee</span>n, a <span
         className={styles.inverseShadow}>leprosy of the heart</span></span></h3></RightGrayTitle>
@@ -31,6 +31,103 @@ export default function Gette() {
 
         <RightBlackTitle><span className={styles.authorName}>——<i>megan<br/>jeanne<br/>gette</i></span>
         </RightBlackTitle>
+        <br/>
+        <br/>
+        <div className={styles.container}><Image src="/../public/images/Gette1.jpg" width={793} height={800}
+        layout={`responsive`}/></div>
+
+        <p className={styles.getteLineation}>When I write the lines it comes out in a child’s voice</p>
+  <p className={styles.getteLineation}>And the child’s voice sounds like the mouth was stuffed with something—confetti,
+  cotton, dust, sock, apple, duct tape, Stoffer’s, cranberries, fists, locusts, toilet paper, unsharpened pencils, pogs,
+  kinetic sand, dry leaves, soil (wet or caked), feathers (obviously), mattress springs, tulle and tinsel, polymers and
+  lead, Jupiter’s seventh moon, the cartographic remains of a failed vacation, its fold-up road atlas, corner of a
+  month-old large supreme pizza box from Little Ceasar’s, chalk dust from sidewalk hopscotch, three neon orange
+  tyrannosaurus rex arranged in a tea party pattern on the edge of the neighbor’s roadside garden, 3 copies of Poetry
+  magazine (still in plastic), a tiny ceramic cat that bears no resemblance to the real cat you miss and its attempt
+  to fill that fur hole, one locust (real) hanging from a magnolia branch whose leaves occasion to a sunset color
+  at the edges, and are plucked in the moment of attention drifted from the locust to the leaves, coffee coasters that
+  might be bathroom tiles, the overwhelm of material detail,</p>
+  <p className={styles.getteLineation}>the shape of innocuous objects that try to fill that fur hole, fur, fur, and
+  the murmurs of others...</p>
+  <p className={styles.getteLineation}>The voice I think I am writing in is much more sophisticated, raspy even, the one
+  that has succumb to the chemical world & inhales its sentencing to produce a sound too low to hear but can be felt as
+  nausea, the innocuous appliance is a killer (this sound is a matter of time)</p>
+  <p className={styles.getteLineation}>Curlie-cues of throaty resignation that come out in-audible and supplicating so
+  that the air confuses it for gratitude</p>
+  <p className={styles.getteLineation}>But I am not grateful, I think</p>
+  <p className={styles.getteLineation}>it as ambient as air and innocuous as air that seems breathable enough</p>
+  <p className={styles.getteLineation}>Or nice enough, like bubbles and desk fans blowing directly into your eyeballs
+  on hot afternoons, balloons and butterflies, whatever</p>
+  <p className={styles.getteLineation}>can’t remember the kicker so it goes like (                      )</p>
+  <p className={styles.getteLineation}>Need to spit</p>
+  <p className={styles.getteLineation}>As a dream without memory is a waste of time</p>
+  <p className={styles.getteLineation}>Permanent dream permanent dream</p>
+
+      <div className={styles.container}><Image src="/../public/images/Gette2.jpg" width={400} height={500}
+      layout={`responsive`}/></div>
+
+  <p className={styles.getteLineation}>
+When I wake up I watch Marguerite Duras’ <span className={styles.grayShadow}><cite>India Song</cite></span> and I write
+down one line that seems to have hit reviewers at the time it goes “lepers burst like sacks of dust”</p>
+<p className={styles.getteLineation}>
+But the reviewer or the translator of the film got it wrong—the reviewer said “like sacks of grain,” and I wonder
+about the difference
+</p>
+<p className={styles.getteLineation}>In the first the leper is more like dust</p>
+<p className={styles.getteLineation}>In the second the leper is more like the sack—I have never heard of a sack of
+dust, but it’s easier to imagine it bursting</p>
+<p className={styles.getteLineation}>A leper standing for a someone too porous to keep to herself when the world got in
+her particulate matter spattering all over the nearest solid container</p>
+<p className={styles.getteLineation}>Or outward as solar diffusion that cute poets like to write about twirling in the rays
+coming in through the morning’s window</p>
+<p className={styles.getteLineation}>One day you burst like a sack of dust</p>
+<p className={styles.getteLineation}>Other days the grain spills out and it is a waste of a harvest hoarded for a future
+hurtled toward but easefully ignored</p>
+<p className={styles.getteLineation}>The technofuturist pours hot pink dye all over your head to coordinate with hot pink
+sweatpants and the pink shirt with a cute pink bra</p>
+<p className={styles.getteLineation}>Hello to all my fans! you say, I love you, I love my fans...</p>
+<p className={styles.getteLineation}>In <span className={styles.grayShadow}><cite>India Song</cite></span>, the camera pans over her
+red wig, her jewelry, the piano and an incessant gesture of incense —too-long shots of the Palais Rothschild painted
+everywhere in a sick green, and I wonder if it is Paris Green, the color of Napoleon’s wallpaper that killed him by
+slow inhalation in his sleep</p>
+
+      <div className={styles.container}><Image src="/../public/images/Gette3.jpg" width={100} height={100}
+      layout={`responsive`}/></div>
+
+  <p className={styles.getteLineation}>I think of this in the context of household toxins and what it means to keep
+  a house virus-free and to what extent a surface is shared if its reality isn’t— the line between dream and not,
+  virus and loved ones, sickness and health, Napoleon withering by breathing green wallpaper or Napoleon figure of
+  colonial power, the evil of stillness or the evil of movement</p>
+  <p className={styles.getteLineation}>When he dreamt did he dream of winning the Napoleonic wars and rising through
+  the military ranks after the French Revolution to be a general at age 24</p>
+  <p className={styles.getteLineation}>Did he dream his luscious colonies’ return to slavery?</p>
+  <p className={styles.getteLineation}>Did he dream of the detail of the Louisiana Territory?</p>
+  <p className={styles.getteLineation}>Did he dream of the mouths of Saint-Dominigue that spat him out like
+  a symptom of respiratory droplets?</p>
+  <p className={styles.getteLineation}>Spat him like tobacco, sugarcane, unripe banana etc.?</p>
+  <p className={styles.getteLineation}>Spat him like he spat arsenic, orgeat syrup, potassium tartrate, calomel, copper in
+  the wallpaper and household items of the Longwood house, where he spent his exile in the clutches of Britain's East
+  India Company?</p>
+  <p className={styles.getteLineation}>Spat him like a locust spits as it covers the sky in swarms as a symptom of
+  thoughtless human tearing up the topsoil, scraping the mantle-deep grasses that turned wheat into dust (too far West
+  and ahead in time)?</p>
+  <p className={styles.getteLineation}>The house bursts like a sack of grain but it dreams in imperial time</p>
+  <p className={styles.getteLineation}>This is the message of the film it seems, we surround the afflicted with posthumous
+  gossip</p>
+
+      <div className={styles.container}><Image src="/../public/images/Gette4.jpg" width={100} height={100}
+      layout={`responsive`}/></div>
+
+    <p className={styles.getteLineation}>No one speaks they just loll around performing dull movements to this song while
+    people gossip</p>
+    <p className={styles.getteLineation}>At the beginning of the film it seems the voices are the ghosts, but then we
+    realize their disembodiment is what’s alive in the film, their assumptions are what lives</p>
+    <p className={styles.getteLineation}>While the figures move in time slow as an image</p>
+    <p className={styles.getteLineation}>Anne-Marie, the “promiscuous wife of the French ambassador in India” is dead</p>
+    <p className={styles.getteLineation}>She grew bored with the Empire and decided to die</p>
+
+      <div className={styles.container}><Image src="/../public/images/Gette5.jpg" width={100} height={100}
+      layout={`responsive`}/></div>
 
                      <Footer/>
                            </body>

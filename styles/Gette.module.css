@@ -8,3 +8,26 @@
   text-shadow:4px 4px snow,
               6px 6px palegreen;
 }
+
+.container {
+  margin: 0 3vw;
+}
+
+.getteLineation {
+  max-width:90%;
+  font-family: "astoria-sans-medium-condensed", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size:1.2rem;
+  text-shadow:1px 1px #b0b0b0;
+  text-align:left;
+  letter-spacing:-0.02rem;
+  line-height:1.4em;
+  margin: 3vh 9vw;
+}
+
+.grayShadow {
+  font-family:"lores-9-plus-wide";
+  text-shadow:1px 1px snow,
+              2px 2px palegreen;
+}
