@@ -288,7 +288,7 @@ slow inhalation in his sleep</p>
       <br/><br/>
       <p className={styles.getteLineation}><span className={styles.grayShadow}>[2]</span>“Leprosy (Hansen’s
       Disease).” 2019. <i>Communicable Disease Management Protocol</i>.  Accessed April 2020. <a href="https://www.manitoba.ca/health/publichealth/cdc/protocol/leprosy.pdf"
-      target="_blank">www.manitoba.ca/health/publichealth/cdc/protocol/leprosy.pdf.</a></p>
+      target="_blank">www.manitoba.ca/health/publichealth/cdc/protocol/leprosy.pdf</a></p>
       <br/><br/>
       <p className={styles.getteLineation}><span className={styles.grayShadow}><i>Appearances</i></span> ::</p>
       <br/><br/>
@@ -305,7 +305,7 @@ slow inhalation in his sleep</p>
       <br/><br/>
       <p className={styles.getteLineation}>Loayza, Beatrice. “Close-Up on Marguerite Duras's ‘India Song.’” MUBI, 4 Apr.
       2020, <a href="https://www.mubi.com/notebook/posts/close-up-on-marguerite-duras-s-india-song"
-      target="_blank">mubi.com/notebook/posts/close-up-on-marguerite-duras-s-india-song.</a></p>
+      target="_blank">mubi.com/notebook/posts/close-up-on-marguerite-duras-s-india-song</a></p>
       </div>
                      <Footer/>
                            </body>
