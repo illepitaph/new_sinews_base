@@ -17,7 +17,7 @@ export default function Krumrie() {
 }
 
     function nextText() {
-      if (textArrayIndex < 1) {
+      if (textArrayIndex < 7) {
       setTextArrayIndex(textArrayIndex + 1);
     } else {
       setTextArrayIndex(0);
