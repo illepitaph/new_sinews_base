@@ -17,7 +17,7 @@ export default function Ovid() {
 }
 
     function nextText() {
-      if (textArrayIndex < 4) {
+      if (textArrayIndex < 18) {
       setTextArrayIndex(textArrayIndex + 1);
     } else {
       setTextArrayIndex(0);
