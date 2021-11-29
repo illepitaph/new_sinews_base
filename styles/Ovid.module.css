@@ -14,7 +14,7 @@
   height:100vh;
   margin:6% 0 6% 0;
   background:
-    linear-gradient(to right, silver 1%, white 2%, silver 3%, white 6%, gainsboro 10%, #e8e8e8 12%, whitesmoke 17%, snow 20%,
+    linear-gradient(to top right, silver 1%, white 2%, silver 3%, white 6%, gainsboro 10%, #e8e8e8 12%, whitesmoke 17%, snow 20%,
       whitesmoke 31%, white 41%, whitesmoke 51%, whitesmoke 71%,
       snow 75%, #e2e2e2 88%, snow 94%, silver 96%, whitesmoke 97%, silver 98%, white 99%);
   border-radius:30px;
@@ -24,7 +24,7 @@
 .carousel > .prev {
   position:absolute;
   z-index: 1;
-  top:70%;
+  top:60%;
   left:-3%;
   flex:5%;
   height:5%;
@@ -34,7 +34,7 @@
   font-size:4rem;
   font-weight:700;
   text-shadow: 2px 3px black,
-                4px 6px red;
+                4px 6px #2cbae7;
   letter-spacing:0.2rem;
   cursor:pointer;
   opacity:0.3;
@@ -46,10 +46,10 @@
   top:5%;
   right:-3%;
   flex:5%;
-  height:5%;
+  height:20%;
   display:grid;
   place-items:center;
-  color:red;
+  color:#2cbae7;
   font-size:4rem;
   font-weight:700;
   text-shadow: 2px 2px #b0b0b0,
@@ -63,7 +63,7 @@
   font-size:4.2rem;
   color:black;
   text-shadow:2px 3px snow,
-             5px 5px red;
+             5px 5px #2cbae7;
 }
 
 .next:hover {
@@ -90,9 +90,11 @@
 .alternateShadow {
   color:#b0b0b0;
   text-shadow:4px 4px snow,
-              6px 6px gainsboro;
+              6px 6px #2cbae7;
 }
 
-.reducedLineation {
-  font-size:1rem;
+.blueLetter {
+  color:#2cbae7;
+  text-shadow:4px 4px snow,
+              6px 6px #b0b0b0;
 }

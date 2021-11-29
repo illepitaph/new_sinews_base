@@ -7,12 +7,12 @@ export function KrumrieRawText1(){
   return   (
           <>
           <CenterGrayTitle><span className={styles.blackShadow}>
-          <h3><i>k<span
-          className={styles.inverse}>e</span>l<span
-          className={styles.inverse}>l</span>y</i><br/>   k<span
-          className={styles.inverse}>r</span>u<span
-          className={styles.inverse}>m</span>r<span
-          className={styles.inverse}>i</span>e</h3></span></CenterGrayTitle>
+          <h3><i>k <span
+          className={styles.alternateShadow}> e</span> l<span
+          className={styles.alternateShadow}> l</span> y</i><br/>   k <span
+          className={styles.alternateShadow}> r</span> u<span
+          className={styles.alternateShadow}> m</span> r<span
+          className={styles.alternateShadow}> i</span> e</h3></span></CenterGrayTitle>
           </>
     )
 }
@@ -20,7 +20,8 @@ export function KrumrieRawText1(){
 export function KrumrieRawText2(){
   return   (
           <>
-          <CenterGrayTitle><h4>selections<br/>from<br/><i>no<br/>measure</i></h4></CenterGrayTitle>
+          <CenterGrayTitle><h4>selections<br/>from<br/><br/><i><span className={styles.blackShadow}>no<br/>
+          measure</span></i></h4></CenterGrayTitle>
           </>
     )
 }

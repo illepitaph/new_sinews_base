@@ -98,6 +98,10 @@
   background-image:url("../public/images/DasguptaBackground.jpg");
 }
 
+.ovidBackground {
+  background-image:url("../public/images/OvidBackground.jpg");
+}
+
 .siteBarContainerAbout {
   height:65vh;
   background-image:url("../public/images/LineNewSinew.jpg");
