@@ -26,19 +26,18 @@
 }
 
 .pageStructure {
+  margin: 0;
+  max-height:100vh;
   position: relative;
-  max-height:95vh;
   display: grid;
   grid-auto-flow: column;
   grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
   grid-template-columns: 1fr 1fr 1fr;
-  margin: 0;
-  margin: 1% 0 0 1%;
+
 }
 
 .titleAndSubtitle {
   position:relative;
-  max-height:90vh;
   grid-column: 1 / span 1;
   display:grid;
   grid-template-columns:1fr 1fr;
@@ -47,17 +46,18 @@
 
 .pageTitle {
   grid-column: 2 / span 1;
-  grid-area: 1 / 1 / 9 / 2;
+  grid-area: 1 / 1 / 7 / 2;
   font-family: "lores-9-plus-wide-bold-alt";
   color: #6b6b6b;
   font-size: 3.2rem;
   text-transform: lowercase;
   max-width:8%;
+  margin:1rem 0 0 1rem;
 }
 
 .issueTitle {
   position: relative;
-  grid-area: 1 / 2 / 9 / 3;
+  grid-area: 1 / 2 / 7 / 3;
   align-self:center;
   font-family: "lores-9-minus-narrow";
   color: white;
@@ -80,24 +80,25 @@
 }
 
 .issueContents {
+  position:relative;
   display: grid;
   grid-auto-flow: row;
   height: 70vh;
-  margin-left:60vw;
+  margin:1rem 0 0 60vw;
   align-content: space-between;
-  grid-column:3 / span 1;
+  grid-column:4 / span 1;
 }
 
 .workColumn {
   width:21rem;
-  margin-bottom:0.9rem;
+  margin-bottom:0.5rem;
 }
 
 .workLink {
   position: relative;
   font-family: ubuntu, sans-serif;
   color: white;
-  font-size: 1.2em;
+  font-size: 1.3em;
   text-transform: uppercase;
   letter-spacing:0.3rem;
   cursor: zoom-in;
@@ -105,4 +106,34 @@
 
 .workLink:hover {
   color:#6b6b6b;
+}
+
+.siteShortcuts {
+  grid-column:3 / span 1;
+  margin-top:10px;
+}
+
+.siteShortcuts > .linkButton {
+  position: relative;
+  border: 0;
+  background-color: #6b6b6b;
+  padding: 1.3vh 1.2vw;
+  font-size: 0.7rem;
+  border-radius: 44px;
+  cursor: pointer;
+}
+
+.innerSiteLinkTag, .twitterLinkTag {
+  position: relative;
+  font-family: "lores-9-plus-narrow";
+  text-decoration: none;
+  color: white;
+}
+
+.twitterLinkTag {
+  position: relative;
+  background-color: inherit;
+  padding: 1.3vh 1.7vw;
+  border: 1px solid white;
+  border-radius: 50%;
 }

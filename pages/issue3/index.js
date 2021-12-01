@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import Link from 'next/link'
-import styles from '../../styles/Alternate.module.css'
+import styles from '../../styles/Issue3.module.css'
 
 export default function Issue3() {
   return (
@@ -19,7 +19,8 @@ export default function Issue3() {
       <div className={styles.pageTitle}>n <i>e </i>w __   <span
       className={styles.inverseTitleColor}>  s <i>i</i> n</span><br/>  __  e<i> w </i> s</div>
       <div className={styles.issueTitle}>i<br/> s<br/> s<br/> u<br/> e <br/><br/>      <span
-      className={styles.inverseSubtitleColor}>t<br/>h<br/>r<br/>e<br/>e</span></div></div>
+      className={styles.inverseSubtitleColor}>t<br/>h<br/>r<br/>e<br/>e</span></div>
+        </div>
 
       <div className={styles.issueContents}>
         <div className={styles.workColumn}>
@@ -48,7 +49,16 @@ export default function Issue3() {
         </div>
         <div className={styles.workColumn}>
           <a className={styles.workLink} href="">~~~ contri butor_ _ _b  i  os ~~~</a>
-        </div>
+        <div className={styles.siteShortcuts}>
+              <button className={styles.linkButton}><a
+              className={styles.innerSiteLinkTag} href="https://newnewsinews.com">new sinews</a></button>
+              <button className={styles.linkButton}><a
+              className={styles.innerSiteLinkTag} href="https://newnewsinews.com/about">about</a></button>
+              <button className={styles.linkButton}>
+                <a className={styles.twitterLinkTag} href="https://twitter.com/new_sinews">[Bird App]</a>
+              </button>
+              </div>
+          </div>
         </div>
 
  </body>
