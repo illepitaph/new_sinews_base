@@ -204,7 +204,7 @@ export function OvidRawText17(){
 export function OvidRawText18(){
   return   (
           <>
-            <h4><span className={styles.roughAltText}>ONE HUNDRED PHANTOM LIMBS SPROUT ACROSS THE EXTERIOR OF THE TORSO. THE
+            <h4><span className={styles.roughAltText}>ONE HUNDRED PHANTOM LIMBS SPROUT ACROSS THE EXTERIOR OF <i>THE TORSO</i>. THE
             ARBOR BECOMES A LANDMINE. THE ARBOR CRAWLS LIKE A CEPHALOPOD ON THE SEAFLOOR.</span></h4>
           </>
     )

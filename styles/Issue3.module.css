@@ -1,0 +1,135 @@
+.fullPageBackground {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  font-size: 16px;
+  margin: 0;
+}
+
+.fullPageBackground::before {
+  content: "";
+  background: linear-gradient(
+      90deg,
+      rgba(32, 32, 32, 0.15),
+      rgba(32, 32, 32, 0.45)
+    ),
+    url("../public/images/Issue3Cover.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+}
+
+.pageStructure {
+  display: grid;
+  align-content: center;
+  position: relative;
+  margin: 0;
+  margin: 2% 0 0 2%;
+}
+
+.pageTitle {
+  font-family: "lores-9-plus-wide-bold-alt";
+  color: #6b6b6b;
+  font-size: 3.7rem;
+  text-shadow: 6px 4px snow;
+  text-transform: lowercase;
+  margin-left:15px;
+}
+
+.inverseTitleColor {
+  color: snow;
+  text-shadow: 6px 4px #6b6b6b;
+}
+
+.issueContents {
+  display: grid;
+  grid-auto-flow: column;
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+  height: 70vh;
+  margin-top:5vh;
+}
+
+.col1 {
+  display:grid;
+  align-content: space-between;
+  grid-column: 1 / span 1;
+}
+
+.col2 {
+  display:grid;
+  align-content: space-between;
+  grid-column: 2 / span 1;
+}
+
+.issue {
+  position: relative;
+  font-family: "lores-9-minus-narrow";
+  color: #6b6b6b;
+  font-size: 2em;
+  text-transform: uppercase;
+  text-shadow: 6px 4px snow;
+  grid-area: 1 / 1 / 3/ 3;
+  margin-left:8vw;
+}
+
+.workLink {
+  position: relative;
+  font-family: "lores-21-serif", sans-serif;
+  text-shadow: 6px 4px #6b6b6b;
+  position: relative;
+  color: white;
+  font-size: 1.6em;
+  text-transform: uppercase;
+  letter-spacing:0.3rem;
+  cursor: pointer;
+}
+
+.inverseWorkLinkColor {
+  color: #6b6b6b;
+  text-shadow: 2px 1px white;
+}
+
+.workLink:hover {
+  letter-spacing: 0.6rem;
+  text-shadow: none;
+}
+
+.siteShortcuts {
+  display:flex;
+  justify-content:center;
+  grid-area: 7/ 1/ 8 / 4;
+  margin-top: 5%;
+}
+
+.siteShortcuts > .linkButton {
+  position: relative;
+  border: 0;
+  background-color: #6b6b6b;
+  padding: 1.9vh 1.8vw;
+  font-size: 0.9rem;
+  border-radius: 44px;
+  cursor: pointer;
+  margin-right:3vw;
+}
+
+.innerSiteLinkTag, .twitterLinkTag {
+  position: relative;
+  font-family: "lores-9-plus-narrow";
+  text-decoration: none;
+  color: white;
+}
+
+.twitterLinkTag {
+  position: relative;
+  background-color: inherit;
+  padding: 1.3vh 1.7vw;
+  border: 1px solid white;
+  border-radius: 50%;
+}
