@@ -1,0 +1,33 @@
+.titleShadow {
+  text-shadow:2px 2px snow,
+              4px 4px black;
+}
+
+.inverseShadow {
+  color:black;
+  text-shadow:4px 4px snow,
+              6px 6px #b0b0b0;
+}
+
+
+.rat {
+  font-family: "astoria-sans-medium-condensed", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size:1.2rem;
+  text-shadow:1px 1px #b0b0b0;
+  letter-spacing:-0.02rem;
+  line-height:1.4em;
+  margin-left:15rem;
+}
+
+
+.ratAsterisk {
+  font-family: "astoria-sans-medium-condensed", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size:3.2rem;
+  color:#b0b0b0;
+  letter-spacing:-0.02rem;
+  margin-left:15rem;
+}

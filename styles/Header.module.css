@@ -102,6 +102,10 @@
   background-image:url("../public/images/OvidBackground.jpg");
 }
 
+.ratBackground {
+  background-image:url("../public/images/RatBackground.jpg");
+}
+
 .siteBarContainerAbout {
   height:65vh;
   background-image:url("../public/images/LineNewSinew.jpg");
