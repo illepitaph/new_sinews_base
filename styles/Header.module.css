@@ -106,6 +106,10 @@
   background-image:url("../public/images/RatBackground.jpg");
 }
 
+.guanyinBackground {
+  background-image:url("../public/images/guanyinBackground.jpg");
+}
+
 .siteBarContainerAbout {
   height:65vh;
   background-image:url("../public/images/LineNewSinew.jpg");
