@@ -107,7 +107,11 @@
 }
 
 .guanyinBackground {
-  background-image:url("../public/images/guanyinBackground.jpg");
+  background-image:url("../public/images/GuanyinBackground.jpg");
+}
+
+.isolineBackground {
+  background-image:url("../public/images/IsolineBackground.jpg");
 }
 
 .siteBarContainerAbout {
