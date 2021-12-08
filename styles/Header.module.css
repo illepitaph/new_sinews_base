@@ -114,6 +114,10 @@
   background-image:url("../public/images/IsolineBackground.jpg");
 }
 
+.howFarBackground {
+  background-image:url("../public/images/HowFarBackground.jpg");
+}
+
 .siteBarContainerAbout {
   height:65vh;
   background-image:url("../public/images/LineNewSinew.jpg");
