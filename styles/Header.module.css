@@ -118,6 +118,10 @@
   background-image:url("../public/images/HowFarBackground.jpg");
 }
 
+.palaciosBackground {
+  background-image:url("../public/images/PalaciosBackground.jpg");
+}
+
 .siteBarContainerAbout {
   height:65vh;
   background-image:url("../public/images/LineNewSinew.jpg");
