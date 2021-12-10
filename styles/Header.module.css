@@ -122,6 +122,10 @@
   background-image:url("../public/images/PalaciosBackground.jpg");
 }
 
+.hummelBackground {
+  background-image:url("../public/images/HummelBackground.jpg");
+}
+
 .siteBarContainerAbout {
   height:65vh;
   background-image:url("../public/images/LineNewSinew.jpg");
