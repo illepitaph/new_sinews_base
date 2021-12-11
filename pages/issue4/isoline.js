@@ -20,7 +20,7 @@ export default function Isoline() {
 
        <Header headerBackground="isolineBackground"/>
 
-       <RightGrayTitle><h3 className={styles.title}>><span className={styles.titleShadow}><span
+       <RightGrayTitle><h3 className={styles.title}><span className={styles.titleShadow}><span
        className={styles.inverseShadow}>a</span>s<br/>foam<span
        className={styles.inverseShadow}><br/>f</span>r<span
        className={styles.inverseShadow}>o</span>m t<span
@@ -32,7 +32,7 @@ export default function Isoline() {
 
        <br/>
 
-        <CenterBlackTitle><span className={styles.bareHeader}>... ...evan + isoline... ...</span>
+        <CenterBlackTitle><span className={styles.bareHeader}>......<i>evan</i> + <i>isoline</i>......</span>
         </CenterBlackTitle>
 
         <br/><br/>
