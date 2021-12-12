@@ -53,10 +53,10 @@ export default function Hummel() {
 
 Are fires born low, pressed
 against the dirt or
-           do they descend
-           are they borne
-           is this madness
-           is it all madness
+            do they descend
+            are they borne
+            is this madness
+            is it all madness
 
 It is hard to worship fire
 `}<i>it’s hard for me, I see only</i>{` :
@@ -83,15 +83,14 @@ gold coins as big as the sky.
 
 Old god wouldn’t consider
 anything, would just burn
-            in response to existence
+             in response to existence
 
 blotting out life, kind of on accident, in
 its compulsion to be`}</pre>
 <br/><br/><br/><br/>
 <h3 className={styles.poemTitle}>I Look At Sauce and Say Reduce, Reduce!</h3>
 <br/>
-<pre className={styles.poem}>{`
-I look at sauce and say reduce, reduce!
+<pre className={styles.poem}>{`I look at sauce and say reduce, reduce!
 
 I look at myself in the chromey echo
 of the expansive car lot
@@ -177,11 +176,11 @@ which sour candy you’ll select.
 Feel the disconcerting
 vulnerability of the
 contracting anemones    their
-slick                     craggy gardens.
+slick                      craggy gardens.
 
 Allow a bizarre
 and menacing bug to
-bore beneath your          flesh.
+bore beneath your            flesh.
 
 It’s almost as if
            you’re somewhere

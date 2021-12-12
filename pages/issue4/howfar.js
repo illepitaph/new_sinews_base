@@ -31,6 +31,7 @@ export default function HowFar() {
       <pre className={styles.title}>... ... <b>... christa      <i>romanosky</i> ...</b> ... ...</pre>
       <br/>
       <br/>
+      <br/>
       <StandardProse>
       Tiff was most ashamed that she was born soft, and that softness was construed as weakness, and cultivated as weakness,
       and for the first eighteen years, like a fucking flower, no one saw that she was on a dark shelf and simply moved her
@@ -652,7 +653,7 @@ export default function HowFar() {
       cheek against the window, closed her eyes again. Everyone was the same. That was the problem. No one surprised
       Tiff—not with how they acted or what they wanted, or what they said. It was so predictable. That was the
       problem. Tiff knew why he stopped, why all these men stopped, but to be honest there was nothing left of her, either.
-      </StandardProse> 
+      </StandardProse>
        <Footer/>
              </body>
          </div>

@@ -126,6 +126,10 @@
   background-image:url("../public/images/HummelBackground.jpg");
 }
 
+.poemsBornBackground {
+  background-image:url("../public/images/PoemsBornBackground.jpg");
+}
+
 .siteBarContainerAbout {
   height:65vh;
   background-image:url("../public/images/LineNewSinew.jpg");
