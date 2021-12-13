@@ -29,18 +29,8 @@ export default function TextSpinality() {
        <pre className={styles.title}><span
        className={styles.blueShadowHeader}>{`text   spin a l  i  t  y`}</span></pre>
 
-       <RightGrayTitle><h3><span
-       className={styles.inverseShadow}>.</span>.<span
-       className={styles.inverseShadow}>. </span>.<span
-       className={styles.inverseShadow}>.</span>.<span
-       className={styles.inverseShadow}> m</span>i<span
-       className={styles.inverseShadow}>k</span>e<br/><span
-       className={styles.inverseShadow}>.</span>.<span
-       className={styles.inverseShadow}>. </span><span className={styles.titleShadow}> c<span
-       className={styles.inverseShadow}>o</span>r</span><span
-       className={styles.inverseShadow}>r</span><span
-       className={styles.titleShadow}>a</span><span
-       className={styles.inverseShadow}>o</span></h3></RightGrayTitle>
+       <RightGrayTitle><h3>... ... <span className={styles.titleShadow}>mike</span><br/>... <span
+       className={styles.titleShadow}>corrao</span></h3></RightGrayTitle>
 
        <br/>
 

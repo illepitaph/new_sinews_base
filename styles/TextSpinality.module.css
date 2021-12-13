@@ -13,7 +13,8 @@
 
 .titleShadow {
   text-shadow:2px 2px snow,
-              4px 4px black;
+              4px 4px black,
+              6px 6px #b0b0b0;
 }
 
 .inverseShadow {
