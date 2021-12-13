@@ -69,7 +69,7 @@ export default function Gette() {
 
   <div className={styles.poemContainer}>
   <p className={styles.getteLineation}>
-When I wake up I watch Marguerite Duras’ <span className={styles.grayShadow}><cite>India Song</cite></span> and I write
+When I wake up I watch Marguerite Duras’ <span className={styles.greenShadow}><cite>India Song</cite></span> and I write
 down one line that seems to have hit reviewers at the time it goes “lepers burst like sacks of dust”</p>
 <p className={styles.getteLineation}>
 But the reviewer or the translator of the film got it wrong—the reviewer said “like sacks of grain,” and I wonder
@@ -88,7 +88,7 @@ hurtled toward but easefully ignored</p>
 <p className={styles.getteLineation}>The technofuturist pours hot pink dye all over your head to coordinate with hot pink
 sweatpants and the pink shirt with a cute pink bra</p>
 <p className={styles.getteLineation}>Hello to all my fans! you say, I love you, I love my fans...</p>
-<p className={styles.getteLineation}>In <span className={styles.grayShadow}><cite>India Song</cite></span>, the camera pans over her
+<p className={styles.getteLineation}>In <span className={styles.greenShadow}><cite>India Song</cite></span>, the camera pans over her
 red wig, her jewelry, the piano and an incessant gesture of incense—too-long shots of the Palais Rothschild painted
 everywhere in a sick green, and I wonder if it is Paris Green, the color of Napoleon’s wallpaper that killed him by
 slow inhalation in his sleep</p>
@@ -178,13 +178,13 @@ slow inhalation in his sleep</p>
       <p className={styles.getteLineation}>When asleep to remain asleep</p>
       <p className={styles.getteLineation}>When awake to remain awake</p>
       <p className={styles.getteLineation}>The dream in which someone recommends a little-known book by Lacan
-      called <span className={styles.grayShadow}><cite>Mechanics</cite></span>, in which psychoanalysis is
+      called <span className={styles.greenShadow}><cite>Mechanics</cite></span>, in which psychoanalysis is
       applied to robots and puppets</p>
       <p className={styles.getteLineation}>There is an accompanying film called <span
-      className={styles.grayShadow}><cite>Imagination</cite></span></p>
+      className={styles.greenShadow}><cite>Imagination</cite></span></p>
       <p className={styles.getteLineation}>But that is not real</p>
       <p className={styles.getteLineation}>What is real is long choreography through greening
-      walls on the brink of decay <span className={styles.grayShadow}>[1]</span></p>
+      walls on the brink of decay <span className={styles.greenShadow}>[1]</span></p>
       <p className={styles.getteLineation}>All poets burst like sacks of grain</p>
       <p className={styles.getteLineation}>Wasting everyone’s foodstuffs with their holes</p>
       <p className={styles.getteLineation}>A long choreographed circulation of variables with unseeable consequence until!</p>
@@ -230,11 +230,11 @@ slow inhalation in his sleep</p>
 
       <div className={styles.poemContainer}>
       <p className={styles.getteLineation}>Lepers don’t feel anything insists the ennui woman in Duras’s
-      film, dancing boringly to the <span className={styles.grayShadow}><cite>India Song</cite></span></p>
+      film, dancing boringly to the <span className={styles.greenShadow}><cite>India Song</cite></span></p>
       <p className={styles.getteLineation}>“Don’t suffer? No, don’t feel anything”</p>
       <p className={styles.getteLineation}>She means that <i>Mycobacterium leprae</i> results in “lesions [that]
       usually do not itch or hurt; they lack sensation to heat, touch, and pain,” <span
-      className={styles.grayShadow}>[2]</span></p>
+      className={styles.greenShadow}>[2]</span></p>
       <p className={styles.getteLineation}>Where humans and armadillos are the only reservoirs;</p>
       <p className={styles.getteLineation}>they pass it along through respiratory droplets</p>
       <p className={styles.getteLineation}>The off-camera gossipers infer that the ennui woman identifies
@@ -282,20 +282,20 @@ slow inhalation in his sleep</p>
         layout={`responsive`}/></div>
 
       <div className={styles.poemContainer}>
-      <p className={styles.getteLineation}><span className={styles.grayShadow}>[1]</span>Wikipedia tells me the Rothschild
+      <p className={styles.getteLineation}><span className={styles.greenShadow}>[1]</span>Wikipedia tells me the Rothschild
       building was condemned and its interior chandeliers sold for far below their value; also, Napoleon’s Longwood house
       was so damaged by termites that contemporary curators only preserved the original stone stairwell.</p>
       <br/><br/>
-      <p className={styles.getteLineation}><span className={styles.grayShadow}>[2]</span>“Leprosy (Hansen’s
+      <p className={styles.getteLineation}><span className={styles.greenShadow}>[2]</span>“Leprosy (Hansen’s
       Disease).” 2019. <i>Communicable Disease Management Protocol</i>.  Accessed April 2020. <a href="https://www.manitoba.ca/health/publichealth/cdc/protocol/leprosy.pdf"
       target="_blank">www.manitoba.ca/health/publichealth/cdc/protocol/leprosy.pdf</a></p>
       <br/><br/>
-      <p className={styles.getteLineation}><span className={styles.grayShadow}><i>Appearances</i></span> ::</p>
+      <p className={styles.getteLineation}><span className={styles.greenShadow}><i>Appearances</i></span> ::</p>
       <br/><br/>
       <p className={styles.getteLineation}>All images from Wikimedia Commons or screenshots from Marguerite
-      Duras’ <span className={styles.grayShadow}><cite>India Song</cite></span></p>
+      Duras’ <span className={styles.greenShadow}><cite>India Song</cite></span></p>
       <br/><br/>
-      <p className={styles.getteLineation}>Edmond, R. (2006). <span className={styles.grayShadow}><cite>Leprosy
+      <p className={styles.getteLineation}>Edmond, R. (2006). <span className={styles.greenShadow}><cite>Leprosy
       and Empire: A Medical and Cultural History  </cite></span> (Cambridge Social and Cultural Histories). Cambridge: Cambridge University Press. doi:10.1017/CBO9780511497285 </p>
       <br/><br/>
       <p className={styles.getteLineation}>Gachelin, G., Garner, P., Ferroni, E., Verhave, J. P., & Opinel, A

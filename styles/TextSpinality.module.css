@@ -1,0 +1,46 @@
+.title {
+    font-family:"lores-9-plus-wide";
+    font-size:2rem;
+    font-weight:700;
+    font-style:italic;
+    text-align:center;
+    text-transform:lowercase;
+    letter-spacing:-0.02rem;
+    line-height:1.4em;
+    margin:7vh 0 7vh 0;
+}
+
+
+.titleShadow {
+  text-shadow:2px 2px snow,
+              4px 4px black;
+}
+
+.inverseShadow {
+  color:black;
+  text-shadow:4px 4px snow,
+              6px 6px #b0b0b0;
+}
+
+.blueShadowHeader {
+  text-shadow: 2px 2px snow,
+                4px 4px #b0b0b0,
+                 6px 6px snow,
+                  8px 8px #2cbae7,
+                   10px 10px snow,
+                    12px 12px black;
+}
+
+.blueShadowBig {
+  text-shadow: 2px 2px snow,
+                4px 4px #b0b0b0,
+                 6px 6px snow,
+                  8px 8px #2cbae7;
+}
+
+.blueShadowLittle {
+  font-family:"lores-9-plus-wide";
+  text-shadow:1px 1px snow,
+              2px 2px #2cbae7;
+  font-style:italic;
+}

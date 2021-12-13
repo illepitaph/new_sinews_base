@@ -25,7 +25,7 @@ export default function PoemsBorn() {
        <br/>
        <br/>
 
-       <RightGrayTitle><h3 className={styles.title}><span
+       <RightGrayTitle><h3><span
        className={styles.inverseShadow}>poem</span>s<br/><span
        className={styles.inverseShadow}>bor</span>n <span
        className={styles.titleShadow}>fro</span>m<br/><span
