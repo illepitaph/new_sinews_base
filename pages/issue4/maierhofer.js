@@ -2,9 +2,12 @@ import Head from 'next/head'
 import Image from 'next/image'
 import Link from 'next/link'
 import Header from '../../components/header.js'
+import LeftBlackTitle from '../../components/leftBlackTitle.js'
+import CenterGrayTitle from '../../components/centerGrayTitle.js'
+import CenterBlackTitle from '../../components/centerBlackTitle.js'
 import StandardProse from '../../components/standardProse.js'
 import Footer from '../../components/footer.js'
-import styles from '../../styles/HowFar.module.css'
+import styles from '../../styles/Maierhofer.module.css'
 
 export default function Maierhofer() {
   return (
@@ -19,641 +22,592 @@ export default function Maierhofer() {
           <body>
 
        <Header headerBackground="maierhoferBackground"/>
+
+      <br/><br/><br/>
+       <pre className={styles.title}>{`... in  the   time
+      when  my    memory
+fixated  on   the
+   death  of  princess
+           diana ...`}</pre><br/>
+
+     <CenterGrayTitle><h3>++grant++<br/>maierhofer</h3></CenterGrayTitle>
+     <br/>
+     <br/>
+     <br/>
+      <StandardProse>
+      <i>My head is against the scalding yellow wall, my toes have torn my socks, I eat something that’s coming apart. I
+      keep a light in case of tremor. I use a boarding pass to mark my place. As for we who love to be astonished, we
+      close our eyes so as to remain for a little while longer within the realm of the imaginary, the mind, so as to
+      avoid having to recognize our utter separateness from each other, a separateness that is instantly recognizable
+      in your familiar face.</i>
+      </StandardProse>
+      <pre><span
+      className={styles.epigraphAttribution}>{`                                                                                                                                                                  “My Life in the Nineties” Lyn Hejinian`}</span></pre>
       <br/>
       <br/>
       <br/>
       <br/>
       <br/>
-      <br/>
-      <br/>
-      <pre className={styles.title}>... <b>...  How</b>   Far <b>  You   Can</b>    Get <b> On    An</b>     Empty <b>   Tank  Of Gas  ...</b>  ...</pre>
-      <br/>
-      <pre className={styles.title}>... ... <b>... christa      <i>romanosky</i> ...</b> ... ...</pre>
       <br/>
       <br/>
       <br/>
       <StandardProse>
-      Tiff was most ashamed that she was born soft, and that softness was construed as weakness, and cultivated as weakness,
-      and for the first eighteen years, like a fucking flower, no one saw that she was on a dark shelf and simply moved her
-      into the daylight. And she never considered seeking light, either—not one time, until she got caught up in shit she
-      couldn’t solve on her own. With Grubber John, Bucky, with her parents—all of them breaking free of her, and not
-      the other way around. Like lizard tails, or like crayfish claws—their bodies floated downstream to freedom while
-      she clutched at the detached parts.
-      <br/>
-      <br/>
-      Tiff went to NA. She went to drug court, rehab. But that crawling, itching feeling beneath her skin, deep in her
-      muscles stayed put. Every time she saw an asshole, a faker, someone who skidded along the surface of the world
-      like beads of hot oil while Tiff sunk, she wanted to pummel them, to force them to feel the shame they deserved
-      to feel but somehow didn’t. And of all people it was her son Bucky who was skidding now. He wasn’t even thirteen
-      yet and was already smoking those expensive asshole cigarettes, stealing beer from open garages in the wide daylight
-      and denying it to Tiff while it was stank on his breath. “Where’d you get the money?” Tiff always asked. “Where’d
-      you get the fucking money?”
-      <br/>
-      <br/>
-      Whenever Tiff or her parents tried to lay down the law, he bolted—to other people’s houses, to empty buildings.
-      The state game land. This time, he’d caught a ride with some older guys to a field party, then to a trailer outside
-      of town, and then he was gone. There was a police report, but they didn’t do jack shit. The cop said, “Wait a few
-      days, he’ll probably come back with his tail between his legs.” But Bucky had never been that kind of kid.
-      <br/>
-      <br/>
-      The sky was bruised a yellow-green and Tiff had been asking customers at the truck stop outside of town if they’d
-      seen Bucky, showing his picture. The semis idled along the side of the exit and entrance, clogging the air with
-      diesel, while people in polo shirts with out-of-state plates filled up on gas, blinking at the shithole they’d
-      found themselves in.
-      <br/>
-      <br/>
-      From where Tiff was standing she could see the sign for the state line on the highway: <i>West Virginia</i>, <i>Wild
-      and Wonderful</i>. Tiff kicked at the cigar wrappers, chip bags, roach clips. Gum speckled the parking lot, black
-      with soot, like if you made yourself small enough, you could fall through one of those black spots and be gone.
-      <br/>
-      <br/>
-      “Seen him?” she said to a couple getting into an SUV, shoving the picture at them. “That’s my kid—he ran away from home.”
-      <br/>
-      <br/>
-      “He’s <i>your</i> kid?” the woman said, raising her brow, filling the tank like she was filling a void. And when the
-      door closed, Tiff said, “Racist-ass bitch.” She wiped her hands on her shirt she got at Cheat Lake with Bucky two
-      years back: <i>Kiss My Ass</i>, <i>I’m on Vacation</i>. She was a mess and she knew it—mismatched socks with one broke flip-flop,
-      jeans that hadn’t been washed in a week because she was out of detergent again. Her parents dropped off groceries
-      once every two weeks, but half that shit was nasty anyway. On weekends when she did have Bucky, they were living
-      on mac and cheese, Chef Boyardee, McDonalds.
-      <br/>
-      <br/>
-      She felt a swell of satisfaction imagining these gas station assholes discussing Tiff and Bucky over some hoity-toity
-      dinner, exclaiming, “I wonder what she did to cause him to run off?” They would make assumptions because they could
-      never understand Tiff’s life.
-      <br/>
-      <br/>
-      She drove towards Mather where Bucky’d been found last time, in someone else’s old barn surrounded by Doritos bags,
-      candy bars, “living like a packrat,” the cop said, “off someone else’s dime.” At the police station, Bucky had gone
-      to hug Tiff and she’d said, “You think I want to hug you after what you put us through?” She regretted that now.
-      <br/>
-      <br/>
-      Driving out, the vibration of the car on the road soothed Tiff—reminded her of being very small, still in her car seat.
-      Trusting that her father would deliver them safely, that nothing bad would ever happen to them. And for a while, it was
-      true.
-      <br/>
-      <br/>
-      It’s just that the pieces never fit together in Tiff’s life, like someone sanded down all the edges, so it was just
-      a bunch of circles, jellyfish. After the first bad thing happened, it seems to lead her into a world that only got
-      more terrible. Her car was shit; she missed Don. No one else in this entire world understood her, or cared. Late
-      at night, she’d sometimes walk from her rental down to the creek by where the old house was, bought up by a developer,
-      unrented and crusted over in soot. She’d throw something into the deep end of the creek that belonged to Don: a comic
-      book, a mug. A collectable. Then she’d wait for a sign, like maybe the ghost of him would rise up to retrieve it.
-      <br/>
-      <br/>
-      Tiff had only driven a couple miles on the access road alongside the highway before the heat warning came on like it
-      had been doing, and Tiff had to double back to the truck stop, popped the hood and dumped water into the coolant tank.
-      This piece of shit was always steaming, busting open—causing her to have to wait for hours for the radiator to cool down.
-      Everything leaked. Everything in this goddamn world was just leaking out of itself, onto Tiff.
-      <br/>
-      <br/>
-      Beyond the truck stop—thick woods. Each tree ended at the sky like the tip of a needle. Now that Tiff was sober she
-      felt slower, like she was carrying rocks. Everything took more effort. And memories resurfaced of things that had
-      been done to her—by Grubber John, by the three men at the Motel 6, but why the fuck did she trust them in the first
-      place? She’d been desperate. Back then she hadn’t given a fuck.
-      <br/>
-      <br/>
-      The memory was like a wave knocking her flat, washing her below the surface.
-      <br/>
-      <br/>
-      So those men had done what they’d done. But afterwards, CPS had come to the hospital, and among the beeping machines
-      informed Tiff that she was under investigation for child neglect.
-      <br/>
-      <br/>
-      “It couldn’t wait until I was out of the hospital?” Tiff said, blinking like a reptile because if the Motel 6 guys
-      couldn’t make her cry, CPS wasn’t going to be the ones to crush Tiff. People who felt they had the power used it
-      however they so chose, in ways that made them think they deserved the power they were given, but it was all bullshit.
-      They were just flimsy sock puppet people, running their mouths like everyone else.
-      <br/>
-      <br/>
-      Tiff blew her nose into an old baby wipe she’d found in the glove. The problem with this world, she decided, was
-      that everything got used up so quickly, and then it was just trash. It was gone. But she would not let Bucky be gone.
-      Bucky was hers and no one else’s, no matter what CPS decided. She made him. She gave birth to him. He came from
-      inside of her.
-      <br/>
-      <br/>
-      The sun was sticky on her back. She trekked to the entrance ramp of the highway, then jumped the barrier. Her
-      polished nails reflected what was left of the sunlight. Tiff had hitched before; mostly semis picked her up. Everyone
-      else was too chicken shit.
-      <br/>
-      <br/>
-      Cars blew by her, truckers slowed and honked and carried on. The blaring movements were overwhelming and Tiff
-      felt a wave of nausea—like the suctioning end of a syringe.
-      <br/>
-      <br/>
-      Then a Wal-Mart semi pulled off ahead of her, rattled and sooting and honking twice, and she hurried to get in.
-      <br/>
-      <br/>
-      “Bad place to hitch,” the trucker said as he opened the passenger door for her. “You’re lucky. Most guys won’t
-      pick up anymore. Even girls. They’re afraid of big hairy boyfriends hiding in the bushes.” His eyes were bloodshot.
-      He was blinking a lot. “You don’t have a big hairy boyfriend hiding out there, do you?” he said. He laughed, but
-      it was forced. Tiff could always tell that shit. The fakery.
-      <br/>
-      <br/>
-      “I am the hairy boyfriend,” she said, which shut him up for a minute. But then he faked another laugh and said, “You
-      ain’t shit, girl.”
-      <br/>
-      <br/>
-      “That’s probably true,” she finally said, sitting back, pulling out a cigarette. “And neither are you.”
-      <br/>
-      <br/>
-      In the old days Tiff liked to play the game: <i>how far can you get on an empty tank of gas</i>. She liked to play <i>how
-      do you fix this with a paperclip</i>, <i>a rubber band</i>, <i>and a string</i>? She liked to take risks.
-      <br/>
-      <br/>
-      As the truck emitted its heavy guttural fumes and accelerated, Tiff stared out at the woods, scattered with trailers,
-      doublewides, whatever would fit a space that no one else wanted. Somewhere out there Bucky was running away from his
-      life, just like Tiff had. She wanted to tell him, you always end up right where you started. Running is a waste of
-      time. And right when you think you’re where you’re supposed to be, everything will be taken from you.
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <p className={styles.sectionBreak}>*</p>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      Back when Bucky was younger and Tiff still had full custody, they found a small pup in a cardboard box outside
-      the Shop Rite, flea-bit and tick-infested. “What kind of asshole would leave a dog in the hot sun?” Tiff said,
-      cuddling it, picking off the ticks, wiping the eye boogers, like she used to do with her parents’ dogs.
-      <br/>
-      <br/>
-      They bought some water from the vending machine out front. Bucky cupped his hands, Tiff poured, and the dog drank.
-      “I love her already,” Bucky had squealed, and Tiff felt a pang of irritation.
-      <br/>
-      <br/>
-      “She needs a bath,” Tiff said, trying to bury her feelings. “If we keep her, you’re taking care of her, not me.”
-      <br/>
-      <br/>
-      At first they kept the pup in the trailer, but by the time it was a year old it was pissing everywhere and tearing
-      through the trash, chewing at the walls, digging up the carpet like it was dirt. So Tiff drug the wire crate outside
-      under an oak tree, but then that dog just barked incessantly. “Shut the fuck up!” Tiff would shout. She gave it extra
-      food, threw things at it. She’d go out and spray the damn dog with the water hose, screaming until her throat
-      hurt. Nothing worked. Then finally Some Bitch gave her sound advice—Tiff rolled a half a Benadryl in lunch meat—and
-      the dog slept.
-      <br/>
-      <br/>
-      After the first year Bucky lost interest in that dog, started obsessively playing game boy in his room, and Tiff
-      found herself doing all the work, tossing dry food directly into the cage some days when she could not handle that
-      shit. Opening that cage meant she was going to get clobbered. The dog rasped and hacked. The dog overturned its
-      water every day. She thought about dropping it off somewhere. But then it was winter. So the dog stayed.
-      <br/>
-      <br/>
-      And then Bucky got off the bus one day and found the dog dead. He began screaming and Tiff already knew. She
-      ran to Bucky, feeling like a parachute having to propel a heavy body, but she came. Bucky was crouched at the dog
-      cage, where the dog’s body was. She was barefoot. The snow stung her. Her fingers hurt—the webbing hurt—everything
-      ached.
-      <br/>
-      <br/>
-      “Oh, baby. She was probably sick,” Tiff said to soothe him. “She probably died in her sleep.” But Bucky kept
-      crying. “She was never quite right in the head,” Tiff said. “You know that. That’s probably why she was left there
-      in the first place.” But he kept wailing, and Tiff couldn’t stand his tears, like they were accusing Tiff of something
-      Tiff didn’t do. “Stop crying,” she finally snapped, because she could no longer hold it in. “You’re acting like
-      a little baby.”
-      <br/>
-      <br/>
-      While Bucky dumbly watched, Tiff was the one who dumped hot water to thaw the dog out, pry her from the wire. The
-      ground was too hard to bury her, so Tiff bagged the dog for trash pickup. The weight of that dog, it ripped through
-      the first bag, and Tiff shouted “mother fuck!” and brought out three more bags, drug that dead dog through the
-      grass to the can at the top of the driveway.
-      <br/>
-      <br/>
-      “Don’t put her in the trash!” Bucky was screaming. “Do not put her in the trash!” And Tiff was cold, achy, feverish
-      on and off, back pain rippling through her. She wanted to cut and empty these feelings like an artery, and Bucky
-      was the only thing there to absorb it. His nose was too big, his eyes too small, this molting, reforming creature
-      that was once her sweet baby. She could barely recognize him now.
-      <br/>
-      <br/>
-      The next time he shouted at her, Tiff struck up, “Oh, you are a real piece of work, aren’t you,” she said, repeating
-      words her mother used to say to her. “You make me do all the work then criticize me for it. It’s <i>neh neh neh neh</i>. You
-      are just like your grandmother, I swear to god,” she huffed.
-      <br/>
-      <br/>
-      “I’m nothing like gran,” he was shouting. “<i>You’re</i> like gran.”
-      <br/>
-      <br/>
-      Tiff kept on: “Why didn’t you drape a blanket over the top of that cage like I’d told you to do? You just sit in that
-      room of yours staring at that game boy screen like a bump on a log and meanwhile, your damn dog froze to death.”
-      <br/>
-      <br/>
-      She marched inside and he followed her, crying harder.
-      <br/>
-      <br/>
-      Tiff could not stop what was tumbling out of her.
-      <br/>
-      <br/>
-      He shouted, “I hate you!” And Tiff mocked right back in his little girl voice, <i>I hate you</i>. She started washing
-      the dishes that Bucky was supposed to wash but never did, tiny floret edges that came from the old Canonsburg
-      ceramic mill, dumped when it closed. People, including her own grandmother, dug the dishes up from the soil like
-      onions. Her life was full of the things that other people left behind: old furniture, used dishes—even the newspapers
-      were from her parents, dropped off two days later, stained with food. And Bucky.
-      <br/>
-      <br/>
-      Bucky didn’t know a thing about what Tiff had sacrificed to keep him. Bucky took and took and took and what did he
-      ever give back? At least when he was little, he’d hugged and cuddled and been sweet to her.
-      <br/>
-      <br/>
-      Tiff slammed a plate down on the yellow plastic counter. Instead of shattering, the plate just spun in circles until
-      Tiff brought her hand down on it. “You think you’re so special...” Tiff started up. “Tell me, what makes you so
-      special?” She ripped the radio out of the wall and threw it, and he dodged and ran down the front steps shoeless
-      into the snow, and the minute the door slammed, Tiff felt the surge of rage begin to dissipate, retract its
-      shards, but what replaced it was too horrible to let herself feel.
-      <br/>
-      <br/>
-      She got into the bath, let herself go numb, her mind went somewhere else. But it kept returning to the year
-      before, when three men at the Motel 6 invited her there to party—a date—she used to call it. They grabbed at Tiff
-      when her back was turned, when it was all finished and she was waiting for the money. And when she fought back she
-      got cut by a screwdriver. One held a gun right up to her temple; she could smell it. After a while of doing what
-      they told her to do, things she would never let a man do willingly, they actually stuffed her <i>into</i> the
-      futon. She had thought to herself: I am like toothpaste, I am like ravioli. That was where her mind went.
-      <br/>
-      <br/>
-      They left her beneath that yellow mattress that stunk like old sweat. And eventually, Tiff crawled out like she
-      was pulling herself out of a sinkhole. Like an alligator from a boiling swamp. Because she was a thing that could
-      not be killed.
-      <br/>
-      <br/>
-      She was in the hospital for six days, and CPS decided that would be a good time to try and take Bucky too, because
-      they were god awful creatures that tore families apart and laughed about it. Where was CPS when Tiff needed real
-      help? Not once did they provide work or food or housing or medicine or anything else. They were looking to take
-      Bucky from the beginning, because like everyone else, all they ever did was take.
-      <br/>
-      <br/>
-      “Were you at the motel for prostitution?” they kept asking, folder perched under their arms. Notepad out and
-      ready to record it all.
-      <br/>
-      <br/>
-      “Do I look like a prostitute?” Tiff spat back.
-      <br/>
-      <br/>
-      When she had begged them for help after Don died, these same assholes had crossed their arms over the top of their
-      ugly pantsuits and said, “Do you think you’re capable of caring for your child?” in a tone that indicated to Tiff
-      that this was a trap.
-      <br/>
-      <br/>
-      That day the dog died, after Bucky ran out, Tiff let the hot water run in the bath until it burned her skin, until
-      it was sucked back into the overflow hole, back down into the septic tank, which hadn’t been changed in years, and
-      leaked right into the field.
-      <br/>
-      <br/>
-      She wanted to hold Bucky, to never let him go. She wanted to go back in time to when he was small and loved her back.
-      <br/>
-      <br/>
-      Tiff fell asleep on the cat-piss-stained couch with the front door unlocked, and by morning, Bucky was in his
-      bed, curled and shivering and tear-tracked, twitching in his sleep. Tiff draped another blanket on top of him, turned
-      up the thermostat. Finally, at noon, she woke him. “I made some eggs for you,” she said. “You got to get up, baby.”
-      <br/>
-      <br/>
-      She let him watch his favorite cartoons all day. She took his temperature twice, washed his hair in the sink like
-      he was a baby, kept saying, “The dog wasn’t your fault, hun. She was sick from the moment we found her.” She repeated
-      what Some Bitch had told her once, sitting in the Wal-Mart lot, smoking up: “No one gets out of this life alive.”
-      <br/>
-      <br/>
-      But back then Tiff was defiant. “I will get out of this life alive,” she had said back, blowing rings of her own
-      air. “I will be the one.”
-      <br/>
-      <br/>
-      And then she finally understood that no, she wouldn’t. She was just like everybody else.
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <p className={styles.sectionBreak}>*</p>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      Tiff woke late from a dream of Don, stuck in a shed without any windows or doors, screaming that he could not
-      breathe, while Tiff clawed at the wooden beams to try and free him, knowing, understanding, that one way or another,
-      by the time she got to him, he’d be gone.
-      <br/>
-      <br/>
-      She woke sweated to her bare mattress, shuddering the way she used to when she needed a fix.
-      <br/>
-      <br/>
-      The sky was as grey as the ash off her cigarette. She bummed a ride to the truck stop, a jump for her car. Then she
-      spent the morning driving around fields looking for any sign of Bucky—smoke, fire, the kids he hung with, who swore
-      they didn’t know where he was, because they were all lying little shits. In the late afternoon she drove out to the
-      old Rockwell Co. mineshaft near the Amwell line where they sometimes hung out, through the grown-over dirt
-      road, down a deer trail through the woods. Bucky had been caught there before, drunk and giggly like a girl.
-      <br/>
-      <br/>
-      Tiff left the engine running at the dirt pull-off—if she turned the car off, she’d need a jump again. Then she
-      walked up passed a collapsed mill house, maple trees filling the interior. “Buck?” she shouted. “Bucky?”
-      <br/>
-      <br/>
-      Around here you needed to know where you were to know where you were going. The woods were sharp with rattling
-      jaggers, stinging nettle. If you weren’t used to it, it was a thing that hurt. Most of the time when Tiff used
-      to run away from home she ended up in these woods, curled up between logs or inside a cavern created by grape
-      vines snuffing out hawthorn trees. Because once you understood it, it was a thing that kept you safe.
-      <br/>
-      <br/>
-      The property was marked No Trespassing, but no one listened to those signs. This was Ruby Mine property, abandoned
-      and forgotten. The mine entrance had been gated off years ago, but kids had dug like dogs into the loose shale
-      nd mud, squeezed underneath the iron gate. They liked to drink and smoke inside the mine. Their voices sometimes
-      carried in the empty evening air, before the crickets, cicadas, frogs began. Every once in a while, the police
-      did drive out there, but then the kids scattered deep into the mine—disappearing into the blackness.
-      <br/>
-      <br/>
-      It wasn’t worth following them in.
-      <br/>
-      <br/>
-      Today was quiet except for the crows. Tiff navigated between groves of multi-floral rose, around what once was
-      a conveyor system to get the coal to the river below, and now, on the sunk and collapsing ravine, pieces of metal, a
-      strip of belt, hung mid-air, the soil pitch black and glittering beneath it.
-      <br/>
-      <br/>
-      Two years ago, a couple of meth heads got lost here, came out another entrance three days later dehydrated
-      and oxygen-starved, half-dead. Grubber John, who she’d been working with back then, said that they’d probably
-      been looking for copper, and he was usually right about stuff like that.
-      <br/>
-      <br/>
-      At that time, Tiff had thought that Grubber John had been her rock bottom. He had gotten her into what she
-      called “dates,” which just happened to begin in a motel room, or a car, or a vacant lot, and ended in Tiff
-      getting paid.
-      <br/>
-      <br/>
-      She’d thought it was just once. Then just a couple of times, to get her through. But that’s never how a lucrative
-      thing works.
-      <br/>
-      <br/>
-      And when she tried to quit that lifestyle, to go on real dates, it felt artificial, she felt as though she
-      could see right through these men—they yammered on about their jobs, their kids, their love of fishing, how much
-      they liked Gatorade, all the while Tiff thought to herself, “Why the fuck would I listen to this for free?”
-      <br/>
-      <br/>
-      People thought for some reason other people wanted to know about their lives.
-      <br/>
-      <br/>
-      But nothing was free. These men moaned and panted and wiped sweat from their necks, and Tiff was well
-      aware of what they were paying for.
-      <br/>
-      <br/>
-      It was better not to think about who she was back then.
-      <br/>
-      <br/>
-      She gave it up for Bucky. Everything she’d ever done right she’d done for Bucky.
-      <br/>
-      <br/>
-      But she still fucked it up, and here she was, trying to find a kid that didn’t want to be found.
-      <br/>
-      <br/>
-      Beneath the grey sky Tiff heard a bobwhite, an oriole call out. Then the crows started up with their warnings
-      again. This whole area was connected with mineshafts from the long haul days, but you had to be careful about
-      the out-gassing. The miners had a ventilation system back then. But all of that was long gone, collapsed
-      or barricaded.
-      <br/>
-      <br/>
-      Tiff slid beneath the iron bars blocking the entrance into the hillside, where the shale was crumbling—all
-      that slag and crumbling rock and soot and further in, wet crevices that reminded her of the time spent doing
-      work for Grubber John—what felt like a lifetime ago. All kinds of shit was left behind: discarded beer cans
-      smashed and piled, and a half a shoelace, severed. Rotten railroad ties. She was used to the smell. She
-      turned on her cell phone light, which was jack shit against the blackness.
-      <br/>
-      <br/>
-      “Hello? Anyone home?” she sang out. “It’s me, your conscience. You need to get the fuck out of here.” She
-      heard nothing but her own voice echoing.
-      <br/>
-      <br/>
-      She followed the main shaft and at the bifurcation, she went right. “Bucky!” she shouted. “Buck?” She thought
-      she heard something scraping on the walls. Maybe the chime of voices, but then nothing. She followed the walls
-      down to the next drift level, still couldn’t see shit. The lower level was slick and everything stunk worse. A
-      wood ladder led to another level, but it was all rotted out and collapsed. Beer cans, shattered bottles. Roof
-      bolters, supports that were rusted and decaying. And against one end of the shaft, a black tee shirt that
-      looked fresh.
-      <br/>
-      <br/>
-      “Buck?” she shouted. She made another right at the fork, heard a hollow click, then another. She remembered
-      what Grubber John told her—when you hear the tommyknockers, a cave-in’s coming. But that was Irish myth. Her
-      own family had been miners—her pap and all of his brothers. They used to tell stories about afterdamp. “There’s
-      a reason people don’t live underground,” her pap used to say. “Turning the lights on is like lighting a fire
-      inside a paper mill.”
-      <br/>
-      <br/>
-      Now he was dead, and Don was dead and if one more person Tiff loved died she was going to go ballistic.
-      <br/>
-      <br/>
-      “Bucky!” she shouted again, her voice moving through the chambers, boomeranging back. She followed
-      the clicking, like after a rain, when the water moves through the grass down into the earth. Everything
-      was rotting—that sweet stink of old wood and animals and wet metal and shit. She stepped over piles of tiny bones.
-      <br/>
-      <br/>
-      When the chamber opened like a vault into a larger room, Tiff saw two bodies, laying in the soot, about
-      a foot from each other near an old oil can, pocked-faced and dressed in flannel, jeans, heavy boots. One
-      was bleeding from the forehead, the other was shirtless with his arms out. Surrounding them, coiled
-      copper, glinting like a burst open star.
-      <br/>
-      <br/>
-      “God. This is just what I need,” Tiff said out loud. The sound of her own voice was important. She was in control here.
-      <br/>
-      <br/>
-      She reached down and checked for a pulse, like she had done with Don when he ODed. She put a hand on their
-      chest to feel them inhale. It was probably bad air. The dummies probably didn’t know about outgassing.
-      <br/>
-      <br/>
-      “Bucky?” she shouted once more, but if he’d had been here he’d have tried to pull them out. Tiff felt
-      light-headed, like the oxygen was being pulled from her, too.
-      <br/>
-      <br/>
-      She stepped over a bag of aluminum nitrate, compressed oil canisters strewn about, a ladder with metal
-      rungs, going lower, went back out to get air.
-      <br/>
-      <br/>
-      After a few minutes she went back for the men. She drug them one at a time by the arms, resting outside
-      to catch her breath. They were both skinny but their limpness made it hard to move them. <i>Dead weight</i>, she
-      repeated in her head. She was carrying so much dead weight.
-      <br/>
-      <br/>
-      She wouldn’t be surprised if she pulled something out of a socket, but she really didn’t care. They’d be alive
-      and out of the mine, so her job there was done. What they chose to do after that was on them.
-      <br/>
-      <br/>
-      There was no light, but Tiff memorized her path back, was used to keeping track from when she was cooking in
-      Grubber John’s mineshaft.
-      <br/>
-      <br/>
-      “Always know exactly where you are,” he’d taught her. “Memorize that shit, imprint it in your mind, because
-      if you know where you are, you know how to escape it.”
-      <br/>
-      <br/>
-      Tiff had a throbbing headache. Getting those fuckers up the short ladder was a fucking pain, but she went
-      back once more for the copper. The men had stripped a lot of it already, taking apart old machinery, fans
-      and transporters and such. And Tiff felt like a pack animal, like a she was lugging the weight of every
-      year since Don died—out and into the open.
-      <br/>
-      <br/>
-      At the entrance, a leftover sign that read “100 days since last accident.” But that was a lie. The last blast
-      had taken out 54 workers and they’d shut it down. They’d never updated the sign, and the land sat there untouched
-      and unwanted.
-      <br/>
-      <br/>
-      Tiff left the men at the mine entrance, took their wallets and a whopping seventeen dollars in cash. She shoved
-      the copper beneath the gate. Used her feet to push it up and out, then drug it like a deer carcass down the
-      trail. The birds were shouting. In the woods everything darkened early. She loaded the copper into the trunk
-      of her still-running car. It took her a long time—that shit was heavy—maybe an hour passed. But the copper
-      would pay for most of a new car battery. If she went back some day, she might find enough to buy a radiator
-      that didn’t leak. She might be able to get somewhere.
-      <br/>
-      <br/>
-      She’d left the engine running on account of the battery, but now the gas was low again. The sunset glinted
-      a deep burning rage. She swerved for a rabbit, then for a possum. The darkness swarmed the valleys, this
-      quick absence, as the sun emptied out. It was chilling to watch and it pissed her off.
-      <br/>
-      <br/>
-      She wondered if Bucky got scared at night the way he used to, if he missed his own bed. When she’d begun
-      running away, all she focused on was how to get out. Shit, her parents had tied her to her bed at night
-      with a bike chain, and even that had not worked. Tiff busted free of every cage they’d ever put her in.
-      But once she was finally free, she had no idea what to do with her life.
-      <br/>
-      <br/>
-      Then Don came along, and Bucky came after that. And for a short period of time, she thought she was
-      free of the cage. That she was right where she was supposed to be. But that was a trap, too.
-      <br/>
-      <br/>
-      She kept her eyes peeled for lights in odd places—along a creek, in a barn loft. The sky took on a color
-      like someone was field dressing a campfire, then went deep blue.
-      <br/>
-      <br/>
-      The gas light came on three miles later, and she rolled the windows down, turned off the AC. Coasted
-      when she could.
-      <br/>
-      <br/>
-      For a second, the air and the deep light, the scent of honeysuckle was the exact same as another time many
-      years ago, when Don was still alive they were driving to the river to swim, and Tiff knew she was going to
-      be someone some day—there was no question. Tiff felt the excitement of a life that was still forming—one
-      in which she was with Don and they both had the rest of their lives together. The wrongs of their lives
-      would right themselves with enough time like an inflatable bed filling with air. And then—everything
-      collapsed. Within a few years, Don died, her parents got custody of Bucky, and she’d stopped trying
-      to find work, because what was the point, after Grubber John got arrested and she got probation, after
-      she was told she’d never get full custody of Bucky back, what was the point of it all?
-      <br/>
-      <br/>
-      Caring took too much energy. That was the thing. Most days she woke up exhausted, like she’d been
-      running all night, and yet she was right back where she started: shit out of luck and jobless and
-      without any path but the one she was on. And every time she found something she loved, it was taken from her.
-      <br/>
-      <br/>
-      She had twenty miles to get home, and Tiff coasted hills with the four-ways blinking. But even that
-      couldn’t save her.
-      <br/>
-      <br/>
-      The coolant tank melted out right as she got to the Conoco lot. The heat gauge sprung, coolant was
-      leaking green everywhere, and then a few minutes later, the engine started smoking. She could feel
-      the car emptying itself onto the asphalt, could smell burnt chemicals. And when Tiff finally popped
-      the hood, there was a small fire in the center of it.
-      <br/>
-      <br/>
-      The other people getting gas just stood there gaping. Tiff was always the one who did something—the
-      first person in a room with a loud talker to tell them to shut the fuck up, the first person to tell
-      a parent whipping at their kid that they were about to have bigger problems if they didn’t quit. “Stop
-      rubber-necking and call the fire department,” she snapped at the fatty standing at his pickup a
-      couple spots over.
-      <br/>
-      <br/>
-      Tiff’s body tightened like a slingshot, like a fence line. For the first minute she tried to blow
-      the fire out like a birthday cake. It was sheer stupidity, she realized, screamed “Mother fuck!” and
-      stormed into the Conoco. She grabbed two baking sodas from the foods aisle, stormed back to the clunker
-      and dumped it onto the engine, which seemed to momentarily snuff the flame to a blue-grey smoke. Then
-      she pulled out her purse, grabbed the papers from the glove box, Grubber John’s gun she’d never parted
-      with, a knife, some chapstick. She walked into the gas station and said, “I need to use your phone.”
-      <br/>
-      <br/>
-      “Oh god,” The attendant gasped, finally seeing everything through the glass door, the smoking vehicle
-      by the gas pumps. He pulled out his cell phone to call for help. “It’s fine,” Tiff said, but that idiot
-      didn’t know fine if it hit him upside the head. “It’s taken care of now.”
-      <br/>
-      <br/>
-      And when no one—not her parents or Some Bitch or Feather or Ralph or her brothers answered Tiff’s call, she
-      threw the phone onto the plastic counter and started walking towards the highway, because fuck that car, and
-      fuck all the people who never lifted a finger to help her. She was wearing the same black tee shirt as
-      the day before, flip flops were so worn she might as well have been barefoot.
-      <br/>
-      <br/>
-      She thought about how she’d make the whole world pay. Once she found Bucky, she would get a lawyer and
-      get custody back, or she would take him and run for another state. She clutched the purse close to her.
-      <br/>
-      <br/>
-      When the blaring semi pulled over, she wasn’t thinking about anything but getting home.
-      <br/>
-      <br/>
-      “Where ya headed, young lady?” the driver said like he had better things to do, adjusting his ball cap—and
-      Tiff wanted to tell him she was no longer young. But then—she felt all of it, every age she’d ever been
-      inside of her, tangled like the copper in the trunk now burnt and worthless. That was her future.
-      <br/>
-      <br/>
-      “Snickers?” he offered, and she waved him away. You never got caught taking the things you wanted. You
-      lifted them from pockets, stole when they were sleeping; that way, you went through life never owing
-      anyone a thing. “Have you seen my kid?” she asked, holding out a crumpled picture. “He sometimes hitchhikes
-      around here.”
-      <br/>
-      <br/>
-      “Nah,” he said. “I don’t pick up boys.”
-      <br/>
-      <br/>
-      Tiff glared through him, out the driver’s side window, at the prison complex nestled beside the farmland, a
-      bright, beckoning abscess. Her head hurt, like someone had sliced from her forehead to her shoulder blade. Her
-      purse was heavy on her bare legs.
-      <br/>
-      <br/>
-      “You got any of that upper shit?” she said to the driver.
-      <br/>
-      <br/>
-      “Oh, lady, you don’t want what I got. It is too much. I don’t even want it.”
-      <br/>
-      <br/>
-      “Give it to me anyway.”
-      <br/>
-      <br/>
-      “I don’t think so. Lay back. You can sleep while I drive,” the trucker said. “Take a little cat nap. Hit
-      the snooze button.”
-      <br/>
-      <br/>
-      She didn’t want to listen to him, but she was so tired.
-      <br/>
-      <br/>
-      Don used to say the same kind of thing to Tiff, after a long day. She felt a chill, imagining it that way—Don
-      at the wheel of the semi, him listening while Tiff would berate everything he loved—the music, the Steelers, the
-      zebra stripe gum, the dirt caked to the dashboard he never cleaned. And Don always just laughed and said, “You’re
-      so prickly. Like a porcupine.” He would say: “Stop acting tough. You’re just a big softy deep down.” And back
-      then, maybe he was right. She’d say something like, “Wrong,” and he’d take her hand, and she’d allow it, and
-      after a few minutes of huffing and pretending to be annoyed, she’d kiss his fingertips, fall asleep to
-      the vibrations, knowing that wherever they were going, they’d get there safely.
-      <br/>
-      <br/>
-      She felt waves, that stretching feeling of being in two places at once. She wondered if Bucky was warm. When
-      she found him she wouldn’t even whoop his ass, that little shit she loved more than life itself who wanted more
-      than anything, to be free of her. She would hug him and tell him it would be okay, that life had a way of working
-      itself out, all of those lies people needed to survive.
-      <br/>
-      <br/>
-      She was jarred awake by the semi’s horn.
-      <br/>
-      <br/>
-      “Sorry, toots,” the driver said. “This guy thinks he’s James Bond. I swear, everyone on the road is either an
-      asshole or asleep. Can you believe the nerve of this guy? All these young bucks think they’re stunt devils. You
-      know I saw a biker hit a jersey barrier, fly off his bike the other day, straight into an oncoming trucker?” He
-      snorted. “There was nothing left of him. Meat.”
-      <br/>
-      <br/>
-      “Did you stop?” Tiff said.
-      <br/>
-      <br/>
-      “Nothing to stop for.”
-      <br/>
-      <br/>
-      “You stopped for me.”
-      <br/>
-      <br/>
-      “For the life of me, I don’t know why.”
-      <br/>
-      <br/>
-      He was greasy, wrinkled like someone had suctioned the life right out of him—ten or fifteen years ago he would
-      have been good looking. He might not even know he wasn’t anymore. She adjusted the bag on her lap, pressed her
-      cheek against the window, closed her eyes again. Everyone was the same. That was the problem. No one surprised
-      Tiff—not with how they acted or what they wanted, or what they said. It was so predictable. That was the
-      problem. Tiff knew why he stopped, why all these men stopped, but to be honest there was nothing left of her, either.
+      I forget the exact situation, but it happened: someone interested in the difference between art and entertainment
+      turned on some Beethoven as loud as it would go, and asked the listeners if they were entertained. Something on
+      that order anyway. I do think there are complicating factors here. I don’t look at images of Gunter Brus to feel
+      entertained exactly. I don’t read about John Duncan’s works or listen to Atrax Morgue because I want to escape
+      exactly. And in turn I don’t believe I seek this sort of work because I’m a particularly sick person. The violence
+      and horror in the world committed by apparently average individuals leads me to believe that there might not even
+      be such a thing as a particularly sick person. And when I open the pages of de Sade, I’m not caught up in some
+      sort of reverie, and when I’m watching certain films I’m not in a state of pure bliss. I think these encounters
+      are, however, a form of entertainment, the same as when I snuck behind a house at the end of a cul de sac one
+      night, in my father’s neighborhood, and walked in darkness to the top of a large hill there, and climbed a deer
+      stand in a tall tree and looked down at the city below. It was entertainment and it was experience, and I did
+      need it. The more like that you do, though, the less you need to sit with your face in a book. And the more you
+      do have your face in a book, the less you need to compulsively masturbate and have a sad cum, as all cums are
+      inevitably sad cums. I’m drawn then to the figure of an artist who is at odds with the world, and doesn’t try
+      to mend that distance or break from it but rather sits contentedly out on their little homemade island, sending
+      back the occasional record of what they’ve been doing out there, beside the world. I think that this sort of
+      thing is less and less desired in a world where entertainment has become almost as important and significant
+      as food and water, but that doesn’t mean it’s dead and rotting beneath some museum.
+      <br/>
+      <br/>
+      <p className={styles.sectionBreak}>~</p>
+      <br/>
+      <br/>
+      The watch my father died with is a silver Tissot that frequently pops off of my wrist because of the design of
+      the clasps. He didn’t leave it to me or anyone in his will but when I asked my family if they’d mind if I had
+      it nobody protested. The battery on the watch is dead and the only local jeweler I’ve gone to for the watch
+      in the past was recently shuttered and so for now I’m stuck in the small town in Idaho where we live where we
+      were when we heard about my father’s death. It was sent back with his effects and an autopsy written out in
+      Greek which felt very strange to try and make sense of. I enjoy having the watch nearby and I enjoy not knowing
+      much about the watch because the watch’s value is sort of all its own and it could be from Walmart or be worth
+      ten thousand dollars and I wouldn’t be aware. I wouldn’t care. I like things this way. When I was younger I
+      liked to spend time in the basement of my parents’ house. My father had an office down there and we stayed out
+      of it. He used the bathroom down there in the mornings and none of us used it. I remember playing video games
+      on a small TV with my brother and my sister and a variation of our friends. When the death of Princess Diana
+      happened I remember watching about it on the TV with my mother. My mother was attached to something Princess
+      Diana represented and all I remember is feeling like it mattered. I remember scenes of people in mourning. This
+      was my first real introduction to the end of the twentieth century. I believe the massacre at Columbine High
+      School was the second, I was nine years old.
+      <br/>
+      <br/>
+      <p className={styles.sectionBreak}>~</p>
+      <br/>
+      <br/>
+      Is the difference between guilt and shame that we deserve it? I’ve felt guilty about things that I don’t
+      know if I deserved. Whenever I feel shame, though, it seems clear that I deserve it. The medicine I’m on,
+      the therapies I’ve done, they try to alleviate these feelings using misdirection, and sometimes it works
+      and even makes sense, but I still cling to shame more than other feelings. If art can only conjure a mood, I
+      would hope to conjure an art of shame, a mutual shame to be shared between two failures of the moral order.
+      When my father died I was thinking about this kind of thing constantly. I spoke to several consecutive
+      therapists about it. I spoke with my wife about it, all the things I felt ashamed of, and she finally
+      had to shut me up—I wouldn’t stop talking, I had a seemingly insatiable appetite for confession, which
+      is probably why I always loved AA and NA meetings but hated working with sponsors. A room full of fresh
+      faces is always going to forgive your shameful ramblings far easier than the same sad person you’ve been
+      talking to for weeks. Even now, I feel compelled to apologize to you, and hope to be forgiven. I would
+      welcome your apologies, for anything, and I would forgive.
+      <br/>
+      <br/>
+      <p className={styles.sectionBreak}>~</p>
+      <br/>
+      <br/>
+      I have it, the filth, the nausea, the paranoia, the readiness, the thoughts, the wetness, the dampness, the
+      putridity, the saturation, the passivity, the violence, the criminal, the disgust, the sickness, the damnation,
+      the water, the leaking, the urine, the excrement, the garbage, the vileness, the trash, the self, the
+      wandering, the gasoline, the kerosene, the mud, the muck, the oil, the coarseness, the bodies, the blood,
+      the light, the steps, the melting, the dead animals, the cannibals, the ugliness, the piss, the spit, the
+      cum, every moment, I have it, the eyes, the organs, the failing livers, the jaundiced body, the yellowed
+      skin, the burnt flesh, the wars, the body, the bodies, the murders, the corpses, the self, the mirror, looking
+      into one’s own eyes, the filth, the scum, the rot, the compost, the nausea, the disgust, the sickness, the
+      horror, I have it, all of it, every drop, there within me, and I am looking at the world.
+      <br/>
+      <br/>
+      <p className={styles.sectionBreak}>~</p>
+      <br/>
+      <br/>
+      When we arrived in Minnesota a friend of my sister’s picked us up there, and it felt strange, arriving and
+      having this be our introduction to this place where my father was now dead and we were now in mourning. I
+      haven’t had a lot of experience with mourning which I guess makes me lucky. The world has always been at
+      a slight distance for me and I’m grateful for that but when we returned home and saw this distant face of this
+      distant person at this gray and empty, sprawling airport, it felt bizarre. I would’ve liked to meet my mother
+      there getting off the plane. I would’ve liked for her to see my children and for us to reunite in a brief, sad
+      embrace in the parking garage before we drove home. Things are never working out how you want them to or even
+      how you hope they don’t. You’re consistently anxious about how things are going to happen so that when they
+      finally do you’re inevitably let down and depressed. This is the situation and it never stops. Life is always
+      letting all of us down.
+      <br/>
+      <br/>
+      <p className={styles.sectionBreak}>~</p>
+      <br/>
+      <br/>
+      When we were in the car driving home it was my father’s car and my sister’s friend was driving and my kids
+      were in the backseat with my wife and we talked about religion and a creek by the friend’s house and drove
+      home in periods of silence and I remember feeling happy to be going back to my father’s house then, and not
+      thinking too much then about how sad everything was. I had a message from my father on my phone that I wouldn’t
+      delete until much later and it was nice knowing it was there. We hugged and kissed our family members when
+      we got home and I think some people maybe distant relatives were visiting to help out and give us food and
+      things and it was good to see everybody. Other distant relatives would be making their way to the Midwest
+      over the next several days and we would all be staying together and my wife was wonderful about asking how
+      I was doing because I have a tendency to go silent when lots of people are around. I’ve never dealt well
+      with crowds. Something in me shuts down and I can’t find a way out of it. Even in the car heading back I
+      clammed up, this stranger, I just wanted to be home. My wife would look at me, though, and we’d roll our
+      eyes, or we’d text each other, and it helped. Marriage, when it’s best, is that ongoing huddle between two
+      similarly-plighted friends, in love and making fun of the world.
+      <br/>
+      <br/>
+      <p className={styles.sectionBreak}>~</p>
+      <br/>
+      <br/>
+      The summer before my father died when my wife and our kids and I had driven to Glacier National Park to meet
+      my father, my mother and my brother for some vacation days, I couldn’t have known the importance of it then—the
+      last real trip with him. We had brought the disc that contained my son’s MRI results after he had had some
+      seizures and it was clear he was having trouble. Shortly after being born my son had contracted Meningitis
+      and we thought that would be the worst of it. Then the seizures came and partial blindness came and favoring
+      one side came and it felt like it was never going to stop—I lived a lot in denial then. I was always trying
+      to deny things. I still try to deny things. I tried to reject the idea that anything was going on with our
+      son because nothing had been wrong with our daughter and my relationship to our son felt largely the
+      same. It turned out he’d had a stroke in utero, causing part of his brain to effectively shut down and
+      after all the dust of these appointments and hospitalizations were settled it was clear that my son had
+      cerebral palsy, and I probably struggle even now to remain aware of that fact, no matter how many times
+      these moments repeat in my skull like cut films. My father used to say how awful he felt when I became
+      type one diabetic because he was a nephrologist, and he worked with patients on the bad side of lives
+      with that sort of difficulty. My son is one of my only male friends, and even then when he was a baby
+      going through all these things I tried to just be present because I wasn’t sure how to deal with
+      anything. At the time we were acquainted with a lot of different new parents, and several were facing
+      very dire situations, and I’ve tried to remain aware of that, even if sometimes it doesn’t do a thing.
+      I just want my children safe and happy, that’s all I want. If they’re able to experience that then I’m O.K.
+      <br/>
+      <br/>
+      <p className={styles.sectionBreak}>~</p>
+      <br/>
+      <br/>
+      I don’t remember much concrete material from when we first arrived home. It was interesting because for
+      the first time in my memory everybody was there, and they weren’t about to leave, because we were dealing
+      with something that would take some time to see through. My father died in Greece, on a painting trip. The
+      leader of this trip knew my mother and called her to tell her, but there were also calls and correspondence
+      from the Greek funeral home there that was taking care of my father’s corpse and beginning the slow process
+      of flying him home. Although he would eventually be cremated, it apparently made more sense to embalm him
+      there and fly him home. Getting home, then, only felt like a small step in an arduous walk that wouldn’t
+      be resolved for several weeks. I was relieved to be free of teaching for a bit, but it didn’t help matters
+      much. We were miserable. People kept randomly weeping and needing to be talked to. My children were passed
+      around as little beacons of warmth and hope, especially for my mother. My father’s siblings were making
+      their way to us. Whether or not somebody’s there doesn’t matter if you’ve spent enough time with them
+      in a particular place. It’s like the dreams I’ll have about my father still. He was a vital part of my
+      life for such a long time that I couldn’t avoid thinking about him or feeling him around if I wanted to.
+      Being at his house, then, and being surrounded by these people who wanted to communicate and wanted to
+      commune on the occasion of his death made him as present as ever, even as I felt this growing void. I
+      think the void, though, was disconnected from his actual former presence in life, so that the two things
+      exist forever simultaneously and neither cancels out the other. That’s as effectively as I’ve been able
+      to articulate the feeling, I think, and it’s something I try to process day after day and week after week
+      and month after month and year after year. He’s there. I’m not.
+      <br/>
+      <br/>
+      <p className={styles.sectionBreak}>~</p>
+      <br/>
+      <br/>
+      It felt good to be able to say <i>fuck you</i> to every living and dead thing in the universe because my father
+      wasn’t there anymore. Fuck you to Elvis Presley. Fuck you to the rest areas on highways. Fuck you to phones.
+      Fuck you to writing, to art. Fuck you to speech. Fuck you to every billionaire. Fuck you to Bono. Fuck you
+      to hospitals. Fuck you to my Luvox. Fuck you to my Seroquel. Fuck you to my insulin. Fuck you to waking
+      up. Fuck you to every job every person’s ever worked. Fuck you to water. Fuck you to the right. Fuck you
+      to the left. Fuck you to the center. Fuck you to New York City. Fuck you to California. Fuck you to my
+      kitchen. Fuck you to Greece. Fuck you to shoes. Fuck you to reading. Fuck you to listening. Fuck you
+      to you. Fuck you to you. Fuck you to you. Fuck you to me. Fuck you to my entire life. Fuck you to
+      everyone. Fuck you to cars. Fuck you to every insurance company. Fuck you to music. Fuck you to pants. Fuck
+      you to sex. Fuck you to Freud. Fuck you to Gilles Deleuze. Fuck you to money. Fuck you to sleep. Fuck you
+      to Joyce. Fuck you to coffee. Fuck you to tea. Fuck you to instruments. Fuck you to medicine. Fuck you to
+      everything ancient. Fuck you to Proust. Fuck you to poems. Fuck you to chicken. Fuck you to eyes. Fuck you
+      to healing. Fuck you to dying. Fuck you to this sentence. Fuck you to this sentence. Fuck you to this
+      sentence. Fuck you to this sentence. Fuck you to this sentence. Fuck you to this sentence. Fuck you to
+      this sentence. Fuck you to this sentence. Fuck you to this sentence. Fuck you to this sentence. Fuck you
+      to this sentence. Fuck you to this sentence. Fuck you to this sentence. Fuck you to this sentence. Fuck
+      you to this sentence. Fuck you to this sentence. Fuck you to this sentence. Fuck you to this sentence. Fuck
+      you to this sentence. Fuck you to this sentence. Fuck you to this sentence. I am not interested in a new
+      way of looking at the world, or life. I do not hope to find an openness in the work. I only hope for my
+      small life to mete itself out in minor steps in no particular direction as the noise of life gets ever
+      quieter and quieter. Before I’m old and shitting myself and watching the same film over and over and over
+      while my family awkwardly whispers in the kitchen, I’ll throw myself from some window. I’ll find it, any
+      building anywhere, and go as far up as I’m able, and I’ll make myself a minor news story in the evening.
+      Defenestration and the noise of my life will be forever quieted, the matter of my flesh buried without
+      a box underground with two acorns scattered over it and my legacy to be forgotten. I don’t hold onto this
+      world. I don’t hold onto life. You don’t hold onto something that wrongs you and continues to do so. You let
+      it sleep like the noise of your mind and living and you wander out some day and set it free as you turn back
+      to the middling existence you’ve established there. The plague overwhelming things. The year 1666 Pepys is
+      frantically scribbling London is on fire the great plague is overwhelming everything and Newton is watching
+      an apple fall near to where some bodies are buried and the world is collapsing as they know it. There’s no
+      further reading to do. There is the work, it is in front of you there, and you must return to it, as he
+      returned to it. As the citizens returned to the city after they’d watched it burn up all the disease
+      spreading madly. The burning forests in California. The smell of fire as you walk out to take the garbage
+      out on a warm Monday evening in Moscow, Idaho, your family getting ready for bed inside. The forests are
+      burning as they were the night you arrived in the place. Ascending a mountain on a tiny road and to the
+      left up on the mountain fire was racing down and time was moving and your wife-to-be was asleep and you
+      would arrive and you would assemble the sleeping bag bed and you would shop at the Dollar Tree for months
+      and things would get no closer to making sense but you would persist and maybe that was sufficient.
+      <br/>
+      <br/>
+      <p className={styles.sectionBreak}>~</p>
+      <br/>
+      <br/>
+      We had been sitting in the basement on this leather furniture my parents had purchased that I would constantly
+      get stuck to after laying down too long watching TV or falling asleep. I believe we saw it on the news but
+      my parents had already known and told us what happened. Our babysitter, a nice college student with long
+      curly hair, who had stayed with us while my parents went to Russia, had died. I believe she died in a car
+      accident. I believe she was the one who stayed with us while my parents went to Russia, though I’m not
+      sure. My parents went to Russia for about a month, to adopt two young boys. Adoption, at that point in the
+      1990s, was in vogue. Another family had adopted a Chinese boy. Another family my parents were closer with
+      had adopted a Russian boy. A few months before this my parents had sat us all down to say they were getting
+      a divorce, I think—in retrospect I’m not certain this happened, and yet the memory is there. I believe my
+      older brother was barely over ten at that point, if that, and all of us kids cried so much that my parents
+      decided they couldn’t get a divorce. Then came the plan about adoption, and I’m not sure how clearly related
+      they were to my parents at the time, but whatever the case I think they were doing their best—it’s very
+      difficult for me to differentiate between things I’m certain happened, and thoughts, or dreams, or tricks
+      my mind plays on me. My father worked a lot, and my mother was prone to depression and anxiety. My father’s
+      sexuality wasn’t brought up to us until later, when they would finally fully get divorced, and so for the time
+      being they were going to Russia, and we were staying back for a month with our babysitter, who would eventually
+      tragically die. I remember, perhaps because I was about six years old, a powerful closeness to this babysitter. I
+      remember being excited to come home from school and have her there. I remember giving her hugs. She attended
+      the university in the town where I’m from and even though I would someday return to the same university to
+      pursue a bachelor’s degree it felt like she was impossibly mature and cool, and I never felt that way about
+      myself or anybody my age when we were the same age as she was when she passed. My parents had given her small
+      things to give to us each day that they were in Russia. They were there for a month. I can’t remember any of
+      the things they gave to us but I do remember sitting around with the babysitter and watching things, or eating,
+      or reading something. People talk about the change in America after 9/11 happened. I don’t remember that
+      change. I remember, though, how it felt to have a babysitter you were close with, and this sense of their
+      life as fundamentally important to yours, and this admiration you had for them which often blurred with a
+      sense of awe or attraction to their beauty. When I was that age I remember hearing about Hitler, I don’t
+      remember who told me. I always had this fear that Hitler would come to our house and take me away. I remember
+      once when it was night and a babysitter was at our house and I woke up having been severely troubled by
+      a dream about Hitler. I remember my babysitter wearing a yellow sweater from the university she was attending.
+      After she passed away, a friend of hers became our babysitter, and they were similar. She came to my father’s
+      funeral, or to my father’s home to visit with us, and I remember briefly feeling as young as I’d been when
+      I’d really known her. Both of them had this warmth that I can’t explain. I remember watching Disney movies
+      in the evening after spending the day with friends swimming, or rollerblading, or playing video games, or
+      something else. I remember sitting in the porch of my father’s house where they had this massive TV lined
+      with wood that had a vinyl screen. It was probably 1998, maybe 1999. I remember that comfort and it’s how
+      I felt toward the babysitter who eventually tragically died. This too is all blurred with the death of Princess
+      Diana, the same relationship to the television and this overwhelming sense of tragedy, met with the closeness of
+      my family then.
+      <br/>
+      <br/>
+      <p className={styles.sectionBreak}>~</p>
+      <br/>
+      <br/>
+      I remember the meetings after my father died. I don’t know when we found out how he died. It was strange
+      being back at his home knowing he wasn’t going to walk through the door again. I felt bad having people
+      take care of our kids or leaving my wife with them when I talked with my family about his funeral. The thing
+      that nobody tells you is that death is like everything else in life. If you’re an anxious, stressed-out
+      person, experiencing death is going to be like that. People try and push back against this sort of thing
+      by having impulsive sex or getting drunk, but when everything settles back and they’ve got to look at the
+      situation they’re faced with, it’s going to feel like everything else has felt in your life—this constant
+      presence of a dull and inexpressible ache, this pain. I don’t know what medication I was on when my father
+      died. I remember his siblings coming to our house and playing games together and talking. I remember all
+      of us sitting around the TV watching something or playing video games. It wasn’t really nice though. It
+      was calm, and it wasn’t bad, but it didn’t really feel like anything. People asked me things and I said
+      whatever you say back to people who have asked you things. I never learned how to just talk. I’m always
+      lying and always indirect and I haven’t even stayed with a therapist long enough to tell them that. My
+      father died on September 11, 2018, I think. I might have the year wrong. I stopped noticing things like
+      that after our first daughter was born, and now I’m basically brain dead.
+      <br/>
+      <br/>
+      <p className={styles.sectionBreak}>~</p>
+      <br/>
+      <br/>
+      I would have you know the work and engage it and when you’re finished with it. I would have you take
+      it, all of it, and put it over the drain in the shower. Pack all of the pages of the work you’ve
+      assembled over time on top of there in a sleek little mass, covers and pages of text or images bleeding
+      through. Then, do something you don’t intend to tell anybody else about, take a spray paint can and
+      paint over the front of your body. Randomly but remain within the area of your flesh that will be
+      covered by a shirt and pants. It’s sticky and uncomfortable. The paint is thick. It’s up to you whether
+      to cover your genitalia. I did because I think it’s sensible to spend a day or more with this secret
+      thing happening under your clothing that you’re not going to tell anybody about. Then turn on the
+      shower. The ways the books are shaped and distinct will leave some room, ideally enough, for water to
+      drain so that your shower doesn’t just suddenly overflow. Stand on top of the work that is there, this
+      work, and slowly knead your feet into it, letting the cold, or burning hot water spray the paint on your
+      flesh and fall into the floor you’ve assembled there on top of all this text. This is the relationship
+      you should have with yourself and with the work. An author is there, with you, and would prefer this
+      sort of treatment anyhow. Take time and let this develop as it needs to. Turn out the light. Sit down
+      on the mass and try to distinguish between the texts and images you’ve got there. Call it your shame, and
+      hold the experience close to your heart forever.
+      <br/>
+      <br/>
+      <p className={styles.sectionBreak}>~</p>
+      <br/>
+      <br/>
+      I remember my babysitter being one of my first experiences with death and I also remember the
+      death of Princess Diana. At the time I didn’t understand it. I didn’t understand her desire to watch TV
+      constantly after 9/11 had happened either. I was staying home faking sick and I changed the channel. Looking
+      back, though, I think her processing of Diana’s death must’ve come from a place deep within her, the
+      teenager who watched with her parents and eight brothers and sisters when JFK was shot. The only thing
+      that could really be done then was to pay close attention. To watch the TV and communicate with those
+      people you see every day and try to move forward in this situation that feels impossible. That
+      level of fear isn’t something people get much experience with. If they do, if say they live in a
+      third world country being constantly bombed by other countries, if say they work in an emergency room
+      in south Chicago and don’t get through a shift without removing bullets from a stranger’s guts, if
+      say they’re a woman in Juarez, Mexico, if say they’re a woman on planet earth, if say they’re a child
+      on planet earth, if say they’re in a stretch of aggressive methamphetamine addiction living on a reservation
+      in Minnesota, if say they’re on the run, if say their father violates them, if say they’re schizophrenic, if
+      say drive a bus, if say they’re a working mother, if they do, if their daily life is this way, if they see
+      it, and they live in fear, and they witness new depths of fear each day, there are ways of coping the world
+      as such passes judgment upon, none of them really adequate to deal with anything at all, and each opening
+      up new caves within the chest that hold no light.
+      <br/>
+      <br/>
+      <p className={styles.sectionBreak}>~</p>
+      <br/>
+      <br/>
+      When I was young before I would’ve really had the words for it I would’ve called my anxiety a
+      discomfort. There’s a level of anxiety wherein every moment seems vaguely connected to an electrical
+      socket reverberating a dull wave of constant paranoia and that’s the kind of anxiety I’ve always had. I
+      was first medicated for ADHD because that was in vogue in the 90s. That medicine made my weight plummet
+      and my interest also and then I was hospitalized. We watched videos recorded by my 3rd grade teacher
+      before and after I was in the hospital and it made us all laugh, my family. I was skinny and mumbling
+      in the first, and jovial and average-looking in the second, separated by the month of outpatient treatment
+      in Rochester, at Mayo. We laughed I think because the only alternative would’ve been to read into it and
+      wallow a little. I didn’t want to do that and I didn’t want my family to do that and so we laughed. I don’t
+      think it’s bad. In fact I think it <i>is</i> bad if you’re incapable of laughing at the previous self. People
+      are ridiculous. Being human is unbearably stupid. The second you stop being able to laugh at what an idiot
+      you’ve been might indicate something dangerous. The anxiety, though, or discomfort, has always been there. In
+      fact, laughing helps the anxiety. I don’t need to drink coffee. I don’t really need to smoke or anything like
+      that. Sometimes I want to but it’s not worth it. If I have coffee my anxiety is simply worse, and I’m twice
+      as awake as I already was by way of my anxiety. As an addict there’s often a temptation to find
+      the end-all-be-all cure for my condition but it doesn’t exist. Just like the ideal scenario in which to
+      write. Or something in the past we regret or want to return to. None of it is real, and life is about
+      acknowledging that when you’re faced with it.
+      <br/>
+      <br/>
+      <p className={styles.sectionBreak}>~</p>
+      <br/>
+      <br/>
+      I remember my life in the 1990s and I lived in Wisconsin and the parents were drinking Miller Genuine
+      Draft and we were in the backyard and I was a pervert. I remember my life in the 1990s and death was in various
+      places and the elementary school I attended had a bomb threat called one day and I thought it was one of those
+      big black cartoon bombs with a fuse burning down, in someone’s backpack. I remember my life in the 1990s and
+      I went to Shopko with my middle eastern friend and he bought the Nas album with the gold cover. I remember
+      my life in the 1990s before I became diabetic but not before I had depression and anxiety and ADHD and was
+      hospitalized in Rochester, MN. I remember my life in the 1990s and Columbine. I remember my life in the 1990s
+      and Wendy’s. I remember my life in the 1990s and the yellow school bus and giving notes to girls and never
+      getting a note back, a little void there. I remember my life in the 1990s and the rooms at my elementary
+      school and the bathrooms where I felt safest. I remember my life in the 1990s and going to Noah’s Ark at
+      the end of the summer and those days feeling like they lasted forever with someone who would eventually
+      commit suicide. I remember my life in the 1990s and being at my friend’s house and kissing his sister
+      and she was younger than me so I bit my hand and ran downstairs and said she’d bit me. I remember my
+      life in the 1990s and feeling fucked up like I wouldn’t ever fit anywhere but then I had eye surgery
+      the summer after I was in the hospital and my neighbor came over and gave me a Super Soaker and I
+      lifted my eyepatch and it was very sunny and the summer was just starting, and I missed the last
+      day of school—when they’d have this massive carnival—but when my neighbor came over I felt good. I
+      remember my life in the 1990s and that summer I sat watching TV most days and they’d play movies I
+      loved at night and I’d watch them downstairs in the nice cold basement and I felt good. I remember
+      my life in the 1990s and watching professional wrestling and feeling whole. I remember my life in
+      the 1990s and Ritalin. I remember my life in the 1990s and LA Gear. I remember my life in the 1990s
+      and my neighborhood. I remember my life in the 1990s and going to the movies. I remember my life
+      in the 1990s and VHS tapes. I remember my life in the 1990s and Grunge. I remember my life in
+      the 1990s and Behind the Music. I remember my life in the 1990s and constant television. I remember
+      my life in the 1990s and complete hysteria gripping everything. I remember my life in the 1990s and
+      Y2K. I remember my life in the 1990s and moments on screens, video cameras. I remember my life in
+      the 1990s and Pizza Hut. I remember my life in the 1990s and drinking soda. I remember my life in
+      the 1990s and the haircuts. I remember my life in the 1990s and sleeping in. I remember my life in
+      the 1990s and a sense of completeness, and my family, and the moonlight, and once my father was
+      brought home drunk from a neighborhood party, carried up the steps and old voices are telling me
+      what to do and I don’t get it.
+      <br/>
+      <br/>
+      <p className={styles.sectionBreak}>~</p>
+      <br/>
+      <br/>
+      This friend once, I don’t know why the two of us were at his school. He lived in a part of town that
+      meant he went to a different high school. Before that we had been very close. I don’t know if the
+      both of us were addicts. I know that I was. We were curious, though, and we liked escaping stuff
+      together. He was a nice person, probably the nicer of the two of us. I was sort of an asshole. I
+      liked to escape stuff. I liked to leave the world and I didn’t do all that well in the daytime. I
+      went to a high school whose colors were purple. He went to a high school whose colors were blue. We
+      were at his high school in its large gym watching people play basketball, I think. There were people
+      there we knew and we always liked being in the stands with people. We were good at being funny in those
+      situations. I don’t think we were high when we got there, but we were trying to get high. We would’ve
+      taken anything. That was something that bound us. I don’t want to tell you his name. My name is Grant
+      Maierhofer, I can’t imagine it matters. I sort of had a girlfriend at the time but I was a very fucked
+      up person in a lot of ways I wasn’t prepared to really think about too much. That’s where the drugs
+      came in then. I think I was fourteen or fifteen years old. He was older than me and had his license. He
+      smoked Camels. We would drive around a lot, with all sorts of people. We had gone there I think to find
+      drugs. That was the hope, anyway. It was daytime. The way we talked, the way we interacted with the people
+      around us, the way we joked even, it was clear we weren’t really fitting in with them. In good moments
+      we didn’t really want to fit in with them, but sort of hover up above them. This day, though, was
+      strange. The middle of the day, watching sports that we didn’t care about. One of our older friends
+      was obsessive about basketball. I envied him that, I remember. We went to a gas station then and
+      bought a box of Benadryl and he took half and I took half and we went back to the school to watch
+      some more and then we drove around smoking cigarettes until later when we went to my mother’s house
+      and I fell asleep in the basement in the middle of the afternoon and didn’t wake up until much later
+      when my friend had gone and I was very confused. I remember going upstairs and there was a bottle of
+      antidepressants I hadn’t taken for a long time so I took a handful of them and they didn’t do anything
+      to me but it was something. They were blue. Stout little blue tablets I poured into my palm. I think
+      I found a bottle of gin or I took some other pills or I drank some leftover beers I had in my room
+      that were warm. After I’d consumed this stuff I took a long shower and then I remembered that it
+      was the day of my brother’s graduation party. He was a couple of years older than me. I don’t know
+      if this was before or after when I relapsed, the first time. I can’t keep things organized all that
+      well in retrospect. I remember I went to the graduation party and I sat by the keg that was full of root
+      beer and I pulled the hose for the beer keg over to me and drank awhile there. I think I took some clothes
+      off and jumped into the pool. This wasn’t the sort of party where people jumped partially-clothed into the
+      pool. Our family was there. All these people were there and I did this impossibly stupid thing. I looked
+      like a gigantic fucking asshole. I can’t believe what a moron I’ve been. I can.
+      <br/>
+      <br/>
+      <p className={styles.sectionBreak}>~</p>
+      <br/>
+      <br/>
+      I can remember feeling as though the end was always looming, and so I did what I could to ensure it never
+      did. I only went to sleep when I was so fucked up it was impossible to do anything else. I only took time
+      for myself if it was to fulfill some other addictive thing, to masturbate or take drugs on my own, to
+      drink or watch TV. I was always looking for the feeling of being absolutely immersed in a stretch of being
+      fucked up. In the morning when my mom drove me to school I would go into the gas station and buy a bottle
+      of water, some gum or something, and a box of twenty Nyquil liquigels. I’d take them all before school. I
+      never fell asleep from those. Benadryl was stronger and made everything feel much stranger, like there
+      was speed mixed in. Closer to Sudafed, to meth. Nyquil just sort of took the edge off of things. I was
+      always trying. I look at the world now and I see that everyone is always doing some version of what I
+      did. I’m even doing it, writing this way. I do it when I watch TV. I do it when I eat. I do it when I
+      take medicine. I don’t take too much anymore. When I was using I might just take a random sampling of
+      anything they’d put me on. I remember when I was younger nearer to my mother watching the TV as tragedies
+      ensued in the 90s I could feel the edges of days and the sorrow that broke through there. My mother and
+      I have always hated Sundays. The only time they were anything was when something exciting could happen
+      and you could sort of melt into the week without thinking. Otherwise there was always sorrow there. It
+      wasn’t drugs until I first took any at eleven years old and from then on it’s all it was. It was
+      films, or food, or drinks, or moments, or situations that I clung to back then, watching my mother
+      watching the TV.
+      <br/>
+      <br/>
+      <p className={styles.sectionBreak}>~</p>
+      <br/>
+      <br/>
+      I’m only really interested in the sort of writing undertaken by people apparently equally
+      capable of a profound hatred that can sometimes exist in the hearts of people at the end of their
+      rope. Falling down. I stand alone. I will never forget the color of the light outside the window in
+      the room where I was hospitalized for depression and whatever else when I was seven. The wound
+      there, started there. It was a gift given to me by parents who were confused and doing the best
+      they could because it gave me access to that visceral place below the tar of self and ego that wells
+      up in the heart and allows an individual to escape life at need and separate from the mindless nodding
+      dogs lining the street. Oh please. You feel this way but then there’s something empty there. The
+      assumption of this emptiness in their heads winds up doing less for you than fantasizing their
+      thoughts. The anger in the face of a cashier. The fury in the hands of a waiter. The suicidal
+      thoughts of a bus driver. I want to hold onto that. I want to hold onto the hatred I feel within
+      when I stare at the sorry state of structures in the world as it stands. I want to go to the beach
+      and lay there in the sun until it’s freezing in the dead of night. I want to wade into the water
+      with my pockets lined with rocks. I want to pick up a large rock and walk slowly into the water
+      and just before my head’s submerged I want to lift the rock high up there and drop it right on
+      the top of my head and collapse slowly into the moving water there, the little cloud of my blood
+      and brain matter billowing out, softly. I haven’t found a lot of peace. I’ve worked to find peace
+      and I’m usually only met with a short reprieve from a day of anxious thinking. When I was young I
+      would take the drugs. Me and my friend would take any drugs that were put in front of us. We would
+      go to secondhand stores and spend the day trying on clothes while we were very stoned on painkillers
+      and whatever concoctions a gas station offered. This is for him.
+      <br/>
+      <br/>
+      <p className={styles.sectionBreak}>~</p>
+      <br/>
+      <br/>
+      I do not wake up and feel the necessity of work. Beside my bed there is typically a number of books
+      from which I’ve read fifteen pages or so. When I was a kid I did not keep books around me. I started
+      to write in a rehab center, or before that, in the hospital, or something. I don’t remember when I
+      started to see things a certain way. I would always obsess, fixate. When my parents got divorced my
+      OCD became more pronounced. I would move my fingers and fidget in sequences of five. I was medicated
+      for a time then. I might’ve had it before. I’ve had doctors since then wonder whether it was tied
+      in with my alcoholism. That’s the biggest problem with addiction. The longer you’re able to stay
+      clean the more your brain wonders whether you were ever really an addict at all. You’ve got to find
+      ways to remind yourself. OCD helps, oddly enough. I can see how extreme those thoughts are and
+      the feelings therein and I realize that if I were to take a drink, or if I were to use drugs, I
+      would need such a syrupy quiet to coat my brain that I wouldn’t stop until I was a corpse, and even
+      then I’d probably haunt the living over it. I remember being an emotional kid. I remember looking
+      down at my desk and wondering why I didn’t seem to feel like the kids around me. I remember being
+      in first grade, and second grade, and third grade, and moving from classroom to classroom until
+      it was all done and I went to an alternative school to test out of high school after I got sober
+      for the last time. Once my mother went away. Twice maybe. Once her depression had so overwhelmed
+      her that she needed to seek hospitalization, help. Another time I don’t know where she went. She
+      might’ve been visiting my younger brother. We had this felt material at home. I realized that I
+      could make her a simple vest to wear using the felt, and so that’s what I worked on in the basement
+      while watching TV for most of the day. I gave it to her at the end of the day and like most mothers
+      she was kind and supportive of this thing I’d done. I’d never done anything like that before and I
+      haven’t done anything like that since. I don’t understand.
+      <br/>
+      <br/>
+      <p className={styles.sectionBreak}>~</p>
+      <br/>
+      <br/>
+      I was a little fucked up kid and prone to lots of inward hatred even then. I hated school. I hated
+      waking up in the morning. I hated my family. I hated nearly everything except television. I still
+      hate most things. I spend most of my life trapped in my skull. My skull hates me. I hate my
+      skull. I hate to think. I hate music. I hate recovery. I hate the AA meetings. I hate walking. I
+      hate getting fatter every day. I hate the anger I put out into the world. I hate that my kids may
+      know me as an middling loser. I hate that I’m so fed up. I hate America. I hate everywhere else. I
+      hate to read. I hate to learn. I hate to see the world again. I hate sitting down to write. I hate
+      my phone. I hate the people. I hate the street. I hate church. I hate art. I hate the artists. I
+      hate the music. I hate the city. I hate Idaho. I hate the world. I hate the president. I hate the
+      internet. I hate their talking. I hate my body. I hate my legs. I hate my gender. I hate my
+      face. I hate my race. I hate the bicyclists. I hate the runners. I hate the meatheads. I hate
+      the anorexics. I hate the actors. I hate the writers. I hate the antiseptics. I hate the
+      writers. I hate the image. I hate Twitter. I hate speech. I hate the forest. I hate the snow. I
+      hate the wars. I hate the films. I hate the conversations. I hate the classrooms. I hate the
+      talking. I hate the spinning world. I hate the sun. I hate the straights. I hate the liberals. I
+      hate the conservatives. I hate the days. I hate the stores. I hate the countries. I hate the books. I
+      hate their piling up. I hate their opinions. I hate my fat gut. I hate the masturbation. I hate
+      the showers. I hate the cars. I hate the windows. I hate the workers. I hate the rich. I
+      hate the organizations. I hate the fraternities. I hate art.
+      <br/>
+      <br/>
+      <p className={styles.sectionBreak}>~</p>
+      <br/>
+      <br/>
+      I remember taking a shower downstairs and trying to meditate on thoughts of my own death. I thought
+      of taking a rifle and putting it up under my chin sitting there in the shower and spraying my brain
+      and blood up along the white wall for someone to come and see. I thought of going out and buying
+      a bottle of vodka and sitting in the car taking pill after pill until things started to get blurry
+      and then laying my seat back to ensure I choked on my own puke. I thought of going to the lake
+      where someone had killed himself and doing it in the same way, paddling way out into the center
+      of the water, having a cigarette or something, then jumping in and swimming as far down as I could
+      until I choked, the taste of acid and vomit and muddy water my last experience. I thought of going
+      over to these highway bridges by my father’s home and walking up and toward an incoming semi on
+      the side of the road, jumping out into the middle when they were close enough and being spattered
+      and crushed by the massive machine. I tried to breathe very heavily there and take the thoughts
+      completely in and expel them fully when I breathed out, adding a new means of dying where that
+      one left over and over and turning the water hotter and hotter until an hour had passed and my
+      wife was knocking at the door, confused by what was happening.
+      <br/>
+      <br/>
+      <p className={styles.sectionBreak}>~</p>
+      <br/>
+      <br/>
+      When I was a kid I remember being inside my own head in situations where I was inside my own head later
+      in life as well. For instance, it was rare that I would have a session with a counselor or therapist who
+      I did not envision having sex with. As life went on it became clear that I could envision this with male
+      and female therapists alike. The America of the present moment seemed most interested in what people have
+      to say if they weren’t just average white heterosexual people, and for a time I emphasized my bisexuality
+      because of that—I’m not straight but I’m boring in other ways—but it’s also a thing that was basically
+      always there, as well as the occasional feeling of gender dysphoria wherein I see a woman and imagine
+      being her because of the way she seems to so comfortably exist in the world. I remember farther into
+      the past when I really felt the need to explore whatever sexual leanings I seemed to have, so I’d
+      go online and talk with men and talk with them over the phone and it became clear then that this
+      too was part of me. Older men mostly, I’m not sure why that was. I think I tried to explore
+      it in Postures but I bet I failed there too. The title says more than the book ever could. I’m
+      an opportunist dilletante little shit. I remember coming out to certain people. I’m keeping to myself. The
+      thing always is to keep to yourself. What would you hope to know about me, given that I believe in privacy?<i> What
+      do you know about me, given that I believe in secrecy?</i> Who said that? Gilles Deleuze said it. He
+      said <i>if I stick where I am</i>, <i>if I don't travel around</i>, <i>like anyone else I make my inner
+      journeys that I can only measure by my emotions</i>, <i>and express very obliquely and circuitously in
+      what I write</i>. He said other things. He jumped from the window of a building when he was old and an
+      illness was unbearable. He had no fingerprints. His fingernails were kept long because of it. My own perversion
+      seemed to materialize in tandem with my treatment for whatever ailments I seemed to have in my brain. It
+      started with the therapists though. First the one at my elementary school where I was seven or eight, who
+      I’d imagine having sex with while we talked about my thoughts and I frequently lost my lines of thinking
+      because of it. It’s rare that I’ll be in a situation with just one person where I don’t think about sexual
+      things. It’s a problem. I’m sick to death of it. <i>What do you know about me, given that I believe in secrecy?</i>
       </StandardProse>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <h3 className={styles.pressAttribution}>© Grant Maierhofer. Reprinted with permission
+      from <i>Shame</i>, published by FC2/The University of Alabama Press.</h3>
        <Footer/>
              </body>
          </div>
