@@ -7,7 +7,7 @@ import StandardProse from '../../components/standardProse.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Bios.module.css'
 
-export default function Issue3ios() {
+export default function Issue3Bios() {
   return (
   <div className={styles.container}>
       <Head>
