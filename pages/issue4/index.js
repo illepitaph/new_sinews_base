@@ -12,10 +12,8 @@ export default function Issue4() {
         <link rel="stylesheet" href="https://use.typekit.net/xhi6gvp.css"/>
       </Head>
 
-        <body className={styles.pageStructure}>
-
-
-      <div className={styles.issueContents}>
+        <div className={styles.pageStructure}>
+          <div className={styles.issueContents}>
         <div className={styles.workColumn}>
           <a className={styles.workLink} href="">... brandon shimoda + the hour of the rat ...</a>
         </div>
@@ -46,28 +44,36 @@ export default function Issue4() {
         </div>
         <div className={styles.workColumn}>
           <a className={styles.workLink} href="">~~~ contri butor_ _ _b  i  os ~~~</a>
-
-          <div className={styles.titleAndSubtitle}>
-            <div className={styles.pageTitle}>n <i>e </i>w __   <span
-            className={styles.inverseTitleColor}>  s <i>i </i> n</span><br/>  __  e<i> w </i> s</div>
-            <div className={styles.issueTitle}>i<br/> s<br/> s<br/> u<br/> e <br/><br/>      <span
-            className={styles.inverseSubtitleColor}>t<br/>h<br/>r<br/>e<br/>e</span></div>
-              </div>
-
-        <div className={styles.siteShortcuts}>
-              <button className={styles.linkButton}><a
-              className={styles.innerSiteLinkTag} href="https://newnewsinews.com">new sinews</a></button>
-              <button className={styles.linkButton}><a
-              className={styles.innerSiteLinkTag} href="https://newnewsinews.com/about">about</a></button>
-              <button className={styles.linkButton}>
-                <a className={styles.twitterLinkTag} href="https://twitter.com/new_sinews">[Bird App]</a>
-              </button>
-              </div>
           </div>
+          </div>
+
+             <div className={styles.issueDecor}>
+             <div className={styles.titleAndSubtitle}>
+               _ n e w + <br/>s i n e w s _<br/><br/><span className={styles.subtitle}>issue _ 4</span></div>
+             <div className={styles.backgroundBox}></div>
+             <div className={styles.backgroundBox}></div>
+             <div className={styles.backgroundBox}></div>
+             <div className={styles.backgroundBox}></div>
+             <div className={styles.backgroundBox}></div>
+             <div className={styles.backgroundBox}></div>
+             <div className={styles.backgroundBox}></div>
+             <div className={styles.backgroundBox}></div>
+             <div className={styles.backgroundBox}></div>
+             <div className={styles.backgroundBox}></div>
+             <div className={styles.backgroundBox}></div>
+             <div className={styles.backgroundBox}></div>
+             <div className={styles.siteShortcuts}>
+                   <button className={styles.linkButton}><a
+                   className={styles.innerSiteLinkTag} href="https://newnewsinews.com">new sinews</a></button>
+                   <button className={styles.linkButton}><a
+                   className={styles.innerSiteLinkTag} href="https://newnewsinews.com/about">about</a></button>
+                   <button className={styles.linkButton}>
+                     <a className={styles.twitterLinkTag} href="https://twitter.com/new_sinews">[Bird App]</a>
+                   </button>
+                   </div>
+             </div>
         </div>
 
- </body>
-</div>
-
-  )
-}
+        </div>
+      )
+    }
