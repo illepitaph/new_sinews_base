@@ -19,7 +19,7 @@ export default function TextSpinality() {
 
           <body>
 
-       <Header headerBackground="poemsBornBackground"/>
+       <Header headerBackground="textSpinalityBackground"/>
 
        <br/>
        <br/>
@@ -29,8 +29,11 @@ export default function TextSpinality() {
        <pre className={styles.title}><span
        className={styles.blueShadowHeader}>{`text   spin a l  i  t  y`}</span></pre>
 
-       <RightGrayTitle><h3>... ... <span className={styles.titleShadow}>mike</span><br/>... <span
-       className={styles.titleShadow}>corrao</span></h3></RightGrayTitle>
+       <RightGrayTitle><h3>... ... m<br/><span className={styles.titleShadowAnomaly}>i<br/></span>k<br/><span
+       className={styles.titleShadow}>... ... e</span><br/><br/><span
+       className={styles.titleShadow}>... ... c</span><br/>o<br/><span
+       className={styles.titleShadow}>r</span><br/>r<br/><span
+       className={styles.titleShadow}>a<br/></span>... ...  o</h3></RightGrayTitle>
 
        <br/>
 

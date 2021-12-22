@@ -130,6 +130,10 @@
   background-image:url("../public/images/PoemsBornBackground.jpg");
 }
 
+.textSpinalityBackground {
+  background-image:url("../public/images/TextSpinalityBackground.jpg");
+}
+
 .maierhoferBackground {
   background-image:url("../public/images/MaierhoferBackground.jpg");
 }
