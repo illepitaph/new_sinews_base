@@ -1,0 +1,50 @@
+.titleShadow {
+  font-size:3.3rem;
+  text-shadow:2px 2px snow,
+              4px 4px black;
+}
+
+.inverseShadow {
+  font-size:3.7rem;
+  color:black;
+  text-shadow:4px 4px snow,
+              5px 5px black,
+              6px 6px #b0b0b0;
+              text-transform:uppercase;
+}
+
+.left {
+  font-family: "astoria-sans-medium-condensed", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size:1.5rem;
+  text-shadow:1px 1px snow, 2px 2px #b0b0b0;
+  text-align:left;
+  letter-spacing:-0.02rem;
+  line-height:1.4em;
+  margin-left:6rem;
+}
+
+.alternateVoiceOne {
+ font-size:1.1rem;
+ line-height:0.8em;
+ text-shadow:1px 1px snow, 2px 2px #b0b0b0;
+}
+
+.alternateVoiceTwo {
+ font-size:1.3rem;
+ line-height:1.1em;
+ text-shadow:1px 1px snow, 2px 2px #b0b0b0;
+}
+
+.right {
+  font-family: "astoria-sans-medium-condensed", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size:1.5rem;
+  text-shadow:1px 1px snow, 2px 2px #b0b0b0;
+  text-align:right;
+  letter-spacing:-0.02rem;
+  line-height:1.4em;
+  margin-right:6rem;
+}

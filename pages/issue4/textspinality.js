@@ -32,12 +32,10 @@ export default function TextSpinality() {
        <RightGrayTitle><h3>... ... m<br/><span className={styles.titleShadowAnomaly}>i<br/></span>k<br/><span
        className={styles.titleShadow}>... ... e</span><br/><br/><span
        className={styles.titleShadow}>... ... c</span><br/>o<br/><span
-       className={styles.titleShadow}>r</span><br/>r<br/><span
+       className={styles.titleShadowDoubleAnomaly}>r</span><br/>r<br/><span
        className={styles.titleShadow}>a<br/></span>... ...  o</h3></RightGrayTitle>
 
        <br/>
-
-        <br/><br/>
 
 
         <CenterBlackTitle><h4>In the same way that the human spine</h4></CenterBlackTitle>
@@ -130,7 +128,7 @@ export default function TextSpinality() {
           <br/>
           <br/>
           “<i>But <span className={styles.blueShadowLittle}>Memoires</span> is not a tome</i>. <i>It is barely 75 pages long</i>.”
-          It’s uprightness is fragile, and only maintained by rigid plates of the hardcover.
+          Its uprightness is fragile, and only maintained by rigid plates of the hardcover.
           <br/>
           <br/>
           <br/>

@@ -138,6 +138,14 @@
   background-image:url("../public/images/MaierhoferBackground.jpg");
 }
 
+.shiotaBackground {
+  background-image:url("../public/images/ShiotaBackground.jpg");
+}
+
+.terrariumBackground {
+  background-image:url("../public/images/TerrariumBackground.jpg");
+}
+
 .siteBarContainerAbout {
   height:65vh;
   background-image:url("../public/images/LineNewSinew.jpg");
