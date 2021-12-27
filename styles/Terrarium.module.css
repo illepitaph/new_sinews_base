@@ -2,6 +2,16 @@
   font-size:3.3rem;
   text-shadow:2px 2px snow,
               4px 4px black;
+              text-transform:uppercase;
+}
+
+.titleShadowAlternate {
+  font-size:3.3rem;
+  text-shadow:2px 2px snow,
+              4px 4px black,
+              6px 6px snow,
+              8px 8px #b0b0b0;
+              text-transform:lowercase;
 }
 
 .inverseShadow {
@@ -10,7 +20,6 @@
   text-shadow:4px 4px snow,
               5px 5px black,
               6px 6px #b0b0b0;
-              text-transform:uppercase;
 }
 
 .left {

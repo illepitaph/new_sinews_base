@@ -29,7 +29,7 @@ export default function Terrarium() {
        className={styles.inverseShadow}>w </span><span
        className={styles.titleShadow}>h</span> e <span
        className={styles.inverseShadow}>n</span><br/><span
-       className={styles.inverseShadow}>m</span>y <br/><span
+       className={styles.inverseShadow}>my</span> <br/><span
        className={styles.titleShadow}>bo </span>dy<br/><br/><span
        className={styles.inverseShadow}>w</span>a<span
        className={styles.inverseShadow}> s</span><br/> a <br/><span
@@ -44,10 +44,10 @@ export default function Terrarium() {
         <br/>
 
         <CenterGrayTitle>:: <span
-        className={styles.titleShadow}>vi</span> ::<br/>:: khi <span
-        className={styles.titleShadow}>nao</span> <span
+        className={styles.titleShadowAlternate}><i>vi</i></span> ::<br/>:: khi <span
+        className={styles.titleShadowAlternate}><i>nao</i></span> <span
         className={styles.inverseShadow}>+</span> jess ::<br/>:: <span
-        className={styles.titleShadow}>alexander</span> ::</CenterGrayTitle>
+        className={styles.titleShadowAlternate}><i>alexander</i></span> ::</CenterGrayTitle>
 
         <br/>
         <br/>
@@ -266,7 +266,32 @@ sky,  with  the  sunlight  behind  us,  and
 I   was   thinking,    Belial   is   so   naive.
 Satan’s   daughter,   Sin,  was  born  out
 of  his  head   precocial — meaning   full
-grown.`}</span></pre>
+grown.`}</span><span
+className={styles.alternateVoiceTwo}>{`   And,  he  raped  her.  And,
+when   he   raped  her,  she  gave
+birth  to  Death,  their  son.`}</span><span
+className={styles.alternateVoiceOne}>{`      And,
+their    son,    Death,    inspired    by  his
+father’s  genetic   gene  pool  of      rape,
+raped his mother, Sin.`}</span>{`    Back then,
+you said,  people didn’t know
+how   to   fuck.`}<span
+className={styles.alternateVoiceOne}>{`  There were limited
+orifices.  And,  they  only  knew  how  to
+rape.`}</span>{`   Mary was   a victim   of
+such. `}<span
+className={styles.alternateVoiceOne}>{`It  was  a  huge  inconvenience
+    for her, you said. And, I    laughed as
+you pulled us into the front parking    lot
+of   Blueground.    Later,   you   read   a
+   boring flash fiction from a boring flash
+fiction  book,   and`}</span>{`    I learned you
+love   to   eat    muffins    and
+drink  coffee  in   the  parking
+lot            of           expensive
+pharmacies   while    I   pack
+books & ship    them back to
+11:11 Press.`}</pre>
 
                      <Footer/>
                            </body>
