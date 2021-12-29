@@ -23,28 +23,28 @@ export default function Issue1() {
         <Link href="/issue1/gridley"><a className={styles.workLink} href="">sarah gridley_four poems</a></Link>
       </div>
       <div className={styles.col1}>
-        <a className={styles.workLink} href="">gabriel blackwell_two stories</a>
+        <Link href="/issue1/blackwell"><a className={styles.workLink} href="">gabriel blackwell_two stories</a></Link>
       </div>
       <div className={styles.col1}>
-        <a className={styles.workLink} href="">christa romanosky_three poems</a>
+          <Link href="/issue1/romanosky"><a className={styles.workLink} href="">christa romanosky_three poems</a></Link>
       </div>
       <div className={styles.col2}>
-        <a className={styles.workLink} href="">tongo eisen-martin_two poems</a>
+        <Link href="/issue1/eisen-martin"><a className={styles.workLink} href="">tongo eisen-martin_two poems</a></Link>
       </div>
       <div className={styles.col2}>
-        <a className={styles.workLink} href="">vi khi nao_2 eyes in 1 eye: a delirium</a>
+        <Link href="/issue1/two-eyes-in-one"><a className={styles.workLink} href="">vi khi nao_2 eyes in 1 eye: a delirium</a></Link>
       </div>
       <div className={styles.col2}>
-        <a className={styles.workLink} href=""
+        <Link href="/issue1/even-flesh"><a className={styles.workLink} href=""
         >even flesh seems a formality<br/>or: vi khi nao's organic
           oscillations
-        </a>
-        <a className={styles.workLink} href="">~~~b  i  os ~~~</a>
+        </a></Link>
+        <Link href="/issue1/bios"><a className={styles.workLink} href="">~~~b  i  os ~~~</a></Link>
       </div>
 
       <div className={styles.siteShortcuts}>
-            <button className={styles.linkButton}><a
-            className={styles.innerSiteLinkTag} href="https://newnewsinews.com">new sinews</a></button>
+            <Link href="/"><button className={styles.linkButton}><a
+            className={styles.innerSiteLinkTag} href="https://newnewsinews.com">new sinews</a></button></Link>
             <button className={styles.linkButton}><a
             className={styles.innerSiteLinkTag} href="https://newnewsinews.com/about">about</a></button>
             <button className={styles.linkButton}>

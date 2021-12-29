@@ -20,7 +20,7 @@ export default function Issue2() {
 
     <div className={styles.issueContents}>
       <div className={styles.col1}>
-        <a className={styles.workLink} href="">susan briante_two poems</a>
+          <Link href="/issue2/briante"><a className={styles.workLink} href="">susan briante_two poems</a></Link>
       </div>
       <div className={styles.col1}>
         <a className={styles.workLink} href="">felicia zamora_selections from 'quotient'</a>

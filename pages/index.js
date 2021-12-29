@@ -18,7 +18,7 @@ export default function Home() {
       <body>
         <section className={styles.top}>
           <div className={styles.iconPlusSitebar}>
-          <a href="https://newnewsinews.com"></a>
+            <Link href="/"><a href=""></a></Link>
           <nav className={styles.siteNav}>
             <button>issue_4</button>
             <button>issue_3</button>
