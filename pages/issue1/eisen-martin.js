@@ -21,8 +21,6 @@ export default function Eisen_Martin() {
 
       <Header headerBackground="eisenBackground"/>
 
-<main>
-
 <CenterGrayTitle><h3> :: tongo :: <br/> :: eisen :: <br/> :: martin :: </h3></CenterGrayTitle>
 <CenterBlackTitle><h3> ... ... <i>fish with<br/>ambition to become<br/>the river</i> ... ... </h3></CenterBlackTitle>
 
@@ -264,7 +262,6 @@ Psychology of the mask now
 Teeth of the mask again`}</pre>
 
 </div>
-</main>
 
    <Footer/>
 
