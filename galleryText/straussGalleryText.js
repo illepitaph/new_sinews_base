@@ -9,8 +9,9 @@ export function StraussRawText1(){
           <br/><br/><br/>
           <CenterBlackTitle><h3><span className={styles.grayShadow}>adam</span> <i>strauss</i></h3></CenterBlackTitle>
           <br/>
-          <CenterGrayTitle><h3>one <span className={styles.blackShadow}>2</span> 3<br/> <span
-          className={styles.blackShadow}>four</span> 5 <i><span className={styles.blackShadow}>poems</span></i></h3></CenterGrayTitle>
+          <CenterGrayTitle><h3>f<i><span className={styles.blackShadow}>i</span>v<span
+          className={styles.blackShadow}>e </span></i> p<i><span
+          className={styles.blackShadow}>oems</span></i></h3></CenterGrayTitle>
           </>
     )
 }

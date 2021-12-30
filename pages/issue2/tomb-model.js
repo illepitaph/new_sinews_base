@@ -24,21 +24,21 @@ export default function TombModelCover() {
        <br/><br/>
        <CenterGrayTitle><h2> :: brandon<br/>shimoda :: </h2></CenterGrayTitle>
        <br/><br/>
-       <CenterBlackTitle><h3><span className={styles.arrows}> ➜ ➜ </span><span
-       className={styles.link}>place is our new<br/>destitute imperative</span></h3></CenterBlackTitle>
+       <CenterBlackTitle><Link href="/issue2/tomb-model-one"><h3><span className={styles.arrows}> ➜ ➜ </span><span
+       className={styles.link}>place is our new<br/>destitute imperative</span></h3></Link></CenterBlackTitle>
        <br/><br/>
-       <CenterBlackTitle><h3><span className={styles.arrows}> ➜ ➜ </span><span
+       <CenterBlackTitle><Link href="/issue2/tomb-model-two"><h3><span className={styles.arrows}> ➜ ➜ </span><span
        className={styles.link}>we need to find<br/>the right geography<br/>for
-       our revelations</span></h3></CenterBlackTitle>
+       our revelations</span></h3></Link></CenterBlackTitle>
        <br/><br/>
-       <CenterBlackTitle><h3><span className={styles.arrows}> ➜ ➜ </span><span
+       <CenterBlackTitle><Link href="/issue2/tomb-model-three"><h3><span className={styles.arrows}> ➜ ➜ </span><span
        className={styles.link}>don't forget that for<br/>now it's strawberry season.<br/>yes.
-       </span></h3></CenterBlackTitle>
+       </span></h3></Link></CenterBlackTitle>
        <br/><br/>
-       <CenterBlackTitle><h3><span className={styles.arrows}> ➜ ➜ </span><span
+       <CenterBlackTitle><Link href="/issue2/tomb-model-four"><h3><span className={styles.arrows}> ➜ ➜ </span><span
        className={styles.link}>i still have no way to<br/>survive but to keep
       writing<br/>one line, one more line, one<br/>more line...
-       </span></h3></CenterBlackTitle>
+       </span></h3></Link></CenterBlackTitle>
 
        <Footer/>
 

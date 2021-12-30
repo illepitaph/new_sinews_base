@@ -1,24 +1,14 @@
 .fullPageBackground {
-  position: relative;
-  height: 100%;
-  width: 100%;
-  font-size: 16px;
-  margin: 0;
-}
-
-.fullPageBackground::before {
-  content: "";
+  position: fixed;
   background: linear-gradient(
       90deg,
       rgba(32, 32, 32, 0.15),
       rgba(32, 32, 32, 0.45)
     ),
     url("../public/images/Issue2Cover.jpg") no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
   background-size: cover;
-  position: absolute;
+  min-height: 100%;
+  min-width: 100%;
   top: 0px;
   right: 0px;
   bottom: 0px;
@@ -29,8 +19,6 @@
   display: grid;
   align-content: center;
   position: relative;
-  margin: 0;
-  margin: 2% 0 0 2%;
 }
 
 .pageTitle {
@@ -40,6 +28,7 @@
   text-shadow: 6px 4px snow;
   text-transform: lowercase;
   margin-left:15px;
+  margin: 5% 0 0 4%;
 }
 
 .inverseTitleColor {
@@ -54,6 +43,8 @@
   grid-template-columns: 1fr 1fr;
   height: 70vh;
   margin-top:5vh;
+  margin: 0;
+  margin: 2% 0 0 4%;
 }
 
 .col1 {
@@ -89,6 +80,7 @@
   text-transform: uppercase;
   letter-spacing:0.3rem;
   cursor: pointer;
+  margin-top:5px;
 }
 
 .inverseWorkLinkColor {
@@ -105,7 +97,7 @@
   display:flex;
   justify-content:center;
   grid-area: 7/ 1/ 8 / 4;
-  margin-top: 5%;
+  margin-top: 3%;
 }
 
 .siteShortcuts > .linkButton {
