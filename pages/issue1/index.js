@@ -36,21 +36,21 @@ export default function Issue1() {
         <div className={styles.workLink}><Link href="/issue1/two-eyes-in-one">vi khi nao_2 eyes in 1 eye: a delirium</Link></div>
       </div>
       <div className={styles.col2}>
-        <Link href="/issue1/even-flesh"><a className={styles.workLink} href=""
+        <Link href="/issue1/even-flesh"><div className={styles.workLink} href=""
         >even flesh seems a formality<br/>or: vi khi nao's organic
           oscillations
-        </a></Link>
-        <Link href="/issue1/bios"><a className={styles.workLink} href="">~~~b  i  os ~~~</a></Link>
+        </div></Link>
+        <Link href="/issue1/bios"><div className={styles.workLink} href="">~~~b  i  os ~~~</div></Link>
       </div>
 
       <div className={styles.siteShortcuts}>
-            <Link href="/"><button className={styles.linkButton}><a
-            className={styles.innerSiteLinkTag} href="https://newnewsinews.com">new sinews</a></button></Link>
-            <button className={styles.linkButton}><a
-            className={styles.innerSiteLinkTag} href="https://newnewsinews.com/about">about</a></button>
+            <button className={styles.linkButton}><div
+            className={styles.innerSiteLinkTag}><Link href="/">new sinews</Link></div></button>
+            <button className={styles.linkButton}><div
+            className={styles.innerSiteLinkTag}><Link href="/about">about</Link></div></button>
             <button className={styles.linkButton}>
-              <a className={styles.twitterLinkTag} href="https://twitter.com/new_sinews">[Bird App]</a>
-            </button>
+              <div className={styles.twitterLinkTag}><Link
+              href="https://twitter.com/new_sinews">tweeter</Link></div></button>
         </div>
     </div>
  </body>

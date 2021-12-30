@@ -65,13 +65,13 @@ export default function Issue2() {
       </div>
 
       <div className={styles.siteShortcuts}>
-            <button className={styles.linkButton}><a
-            className={styles.innerSiteLinkTag} href="https://newnewsinews.com">new sinews</a></button>
-            <button className={styles.linkButton}><a
-            className={styles.innerSiteLinkTag} href="https://newnewsinews.com/about">about</a></button>
+            <button className={styles.linkButton}><div
+            className={styles.innerSiteLinkTag}><Link href="/">... new sinews ...</Link></div></button>
+            <button className={styles.linkButton}><div
+            className={styles.innerSiteLinkTag}><Link href="/about">... about ...</Link></div></button>
             <button className={styles.linkButton}>
-              <a className={styles.twitterLinkTag} href="https://twitter.com/new_sinews">[Bird App]</a>
-            </button>
+              <div className={styles.twitterLinkTag}><Link
+              href="https://twitter.com/new_sinews">... tweeter ...</Link></div></button>
         </div>
     </div>
  </body>

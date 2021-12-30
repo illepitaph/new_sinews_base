@@ -103,13 +103,19 @@
 .siteShortcuts > .linkButton {
   position: relative;
   border: 0;
-  background-color: #6b6b6b;
-  padding: 1.9vh 1.8vw;
+  background-color: inherit;
+  padding: 1.4vh 1.3vw;
   font-size: 0.9rem;
   border-radius: 44px;
   cursor: pointer;
-  margin-right:3vw;
+  margin-right:8vw;
 }
+
+.siteShortcuts > .linkButton:hover {
+     background-color:#6b6b6b;
+     letter-spacing:5px;
+     font-style:italic;
+  }
 
 .innerSiteLinkTag, .twitterLinkTag {
   position: relative;
@@ -121,7 +127,8 @@
 .twitterLinkTag {
   position: relative;
   background-color: inherit;
-  padding: 1.3vh 1.7vw;
+  padding: 0.2vh 0.6vw;
   border: 1px solid white;
-  border-radius: 50%;
+  border: 1px dashed white;
+  border-radius: 44px;
 }
