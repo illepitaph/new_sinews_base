@@ -18,32 +18,37 @@ export default function Issue4() {
             <div className={styles.workLink}><Link href="/issue4/rat">... brandon shimoda + the hour of the rat ...</Link></div>
         </div>
         <div className={styles.workColumn}>
-          <a className={styles.workLink} href="">... k-ming chang + guanyin ...</a>
+          <div className={styles.workLink}><Link href="/issue4/guanyin">... k-ming chang + guanyin ...</Link></div>
         </div>
         <div className={styles.workColumn}>
-          <a className={styles.workLink} href="">... evan isoline + as foam from this sweet hour ...</a>
+          <div className={styles.workLink}><Link href="/issue4/isoline">... evan isoline + as foam from
+          this sweet hour ...</Link></div>
         </div>
         <div className={styles.workColumn}>
-          <a className={styles.workLink} href="">... christa romanosky + how far you can get on an empty tank of gas ...</a>
+          <div className={styles.workLink}><Link href="/issue4/howfar">... christa romanosky + how far you can
+          get on an empty tank of gas ...</Link></div>
         </div>
         <div className={styles.workColumn}>
-          <a className={styles.workLink} href="">... gabriel palacios + poems from lunar hilton elegy ...</a>
+          <div className={styles.workLink}><Link href="/issue4/palacios">... gabriel palacios + poems from lunar hilton
+          elegy ...</Link></div>
         </div>
         <div className={styles.workColumn}>
-          <a className={styles.workLink} href="">... allison hummel + the fires are back // i look at sauce // untitled // comfort like the ...</a>
+          <div className={styles.workLink}><Link href="/issue4/hummel">... allison hummel + the fires are back // i look at
+          sauce // untitled // comfort like the ...</Link></div>
         </div>
         <div className={styles.workColumn}>
-          <a className={styles.workLink} href="">... mike corrao + text spinality ...</a>
+          <div className={styles.workLink}><Link href="/issue4/textspinality">... mike corrao + text spinality ...</Link></div>
         </div>
         <div className={styles.workColumn}>
-          <a className={styles.workLink} href="">... vi khi nao + poems born from basic words ...</a>
+          <div className={styles.workLink}><Link href="/issue4/poemsborn">... vi khi nao + poems born from basic
+          words ...</Link></div>
         </div>
         <div className={styles.workColumn}>
-          <a className={styles.workLink} href="">... grant maierhofer + in the time when my memory fixated on the
-          death of princess diana ...</a>
+          <div className={styles.workLink}><Link href="/issue4/maierhofer">... grant maierhofer + in the time when my memory
+          fixated on the death of princess diana ...</Link></div>
         </div>
         <div className={styles.workColumn}>
-          <a className={styles.workLink} href="">~~~ contri butor_ _ _b  i  os ~~~</a>
+            <div className={styles.workLink}><Link href="/issue4/bios">~~~ contri butor_ _ _b  i  os ~~~</Link></div>
           </div>
           </div>
 
@@ -63,13 +68,13 @@ export default function Issue4() {
              <div className={styles.backgroundBox}></div>
              <div className={styles.backgroundBox}></div>
              <div className={styles.siteShortcuts}>
-                   <button className={styles.linkButton}><a
-                   className={styles.innerSiteLinkTag} href="https://newnewsinews.com">new sinews</a></button>
-                   <button className={styles.linkButton}><a
-                   className={styles.innerSiteLinkTag} href="https://newnewsinews.com/about">about</a></button>
+                   <button className={styles.linkButton}><div
+                   className={styles.innerSiteLinkTag}><Link href="/">new sinews</Link></div></button>
+                   <button className={styles.linkButton}><div
+                   className={styles.innerSiteLinkTag}><Link href="/about">about</Link></div></button>
                    <button className={styles.linkButton}>
-                     <a className={styles.twitterLinkTag} href="https://twitter.com/new_sinews">[Bird App]</a>
-                   </button>
+                     <div className={styles.twitterLinkTag}><Link href="https://twitter.com/new_sinews">tweeter</Link>
+                     </div></button>
                    </div>
              </div>
         </div>

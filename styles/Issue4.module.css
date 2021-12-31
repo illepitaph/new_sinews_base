@@ -155,7 +155,7 @@
 
 .twitterLinkTag {
   background-color: inherit;
-  padding: 1.3vh 1.7vw;
-  border: 1px solid white;
-  border-radius: 50%;
+  padding: 0.2vh 0.5vw;
+  border: 1px dashed white;
+  border-radius: 44px;
 }
