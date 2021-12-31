@@ -13,7 +13,6 @@ export default function Issue3() {
       </Head>
 
       <div className={styles.fullPageBackground}>
-        <body className={styles.pageStructure}>
 
     <div className={styles.titleAndSubtitle}>
       <div className={styles.pageTitle}>n <i>e </i>w __   <span
@@ -21,6 +20,8 @@ export default function Issue3() {
       <div className={styles.issueTitle}>i<br/> s<br/> s<br/> u<br/> e <br/><br/>      <span
       className={styles.inverseSubtitleColor}>t<br/>h<br/>r<br/>e<br/>e</span></div>
         </div>
+
+       <div className={styles.workStructure}>
 
       <div className={styles.issueContents}>
         <div className={styles.workColumn}>
@@ -30,25 +31,27 @@ export default function Issue3() {
           <div className={styles.workLink}><Link href="/issue3/stough">cary stough_balance sheet</Link></div>
         </div>
         <div className={styles.workColumn}>
-          <a className={styles.workLink} href="">sara deniz akant_how t langed</a>
+          <div className={styles.workLink}><Link href="/issue3/akant">sara deniz akant_how t langed</Link></div>
         </div>
         <div className={styles.workColumn}>
-          <a className={styles.workLink} href="">steven alvarez_data blood // zero progress silhouette</a>
+          <div className={styles.workLink}><Link href="/issue3/alvarez">steven alvarez_data blood // zero progress
+          silhouette</Link></div>
         </div>
         <div className={styles.workColumn}>
-          <a className={styles.workLink} href="">megan jeanne gette_summoning green, a leprosy of the heart</a>
+          <div className={styles.workLink}><Link href="/issue3/gette">megan jeanne gette_summoning green, a leprosy of the
+          heart</Link></div>
         </div>
         <div className={styles.workColumn}>
-          <a className={styles.workLink} href="">kelly krumrie_excerpts from ‘no measure’</a>
+          <div className={styles.workLink}><Link href="/issue3/krumrie">kelly krumrie_excerpts from ‘no measure’</Link></div>
         </div>
         <div className={styles.workColumn}>
-          <a className={styles.workLink} href="">shome dasgupta_remember nothing</a>
+          <div className={styles.workLink}><Link href="/issue3/dasgupta">shome dasgupta_remember nothing</Link></div>
         </div>
         <div className={styles.workColumn}>
-          <a className={styles.workLink} href="">mike corrao_ovidian dynamics</a>
+          <div className={styles.workLink}><Link href="/issue3/ovid">mike corrao_ovidian dynamics</Link></div>
         </div>
         <div className={styles.workColumn}>
-          <a className={styles.workLink} href="">~~~ contri butor_ _ _b  i  os ~~~</a>
+          <div className={styles.workLink}><Link href="/issue3/bios">~~~ contri butor_ _ _b  i  os ~~~</Link></div>
         <div className={styles.siteShortcuts}>
               <button className={styles.linkButton}><a
               className={styles.innerSiteLinkTag} href="https://newnewsinews.com">new sinews</a></button>
@@ -60,8 +63,7 @@ export default function Issue3() {
               </div>
           </div>
         </div>
-
- </body>
+      </div>
 </div>
 </>
 

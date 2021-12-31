@@ -15,7 +15,7 @@ export default function Issue4() {
         <div className={styles.pageStructure}>
           <div className={styles.issueContents}>
         <div className={styles.workColumn}>
-          <a className={styles.workLink} href="">... brandon shimoda + the hour of the rat ...</a>
+            <div className={styles.workLink}><Link href="/issue4/rat">... brandon shimoda + the hour of the rat ...</Link></div>
         </div>
         <div className={styles.workColumn}>
           <a className={styles.workLink} href="">... k-ming chang + guanyin ...</a>
