@@ -21,6 +21,9 @@ export default function Gridley() {
           <Header headerBackground="gridleyBackground"/>
 
           <RightBlackTitle><h3>sarah gridley</h3></RightBlackTitle>
+
+              <body>
+
           <CenterGrayTitle><h3>four poems</h3></CenterGrayTitle>
           <StandardMiniTitle title="Do No Harm"/>
           <StandardLineation content={`
@@ -78,6 +81,8 @@ export default function Gridley() {
       name for Northern Lights.
       A whale had fur. A whale was once
       a proto mouse.`}/>
+
+         </body>
 
           <Footer/>
 

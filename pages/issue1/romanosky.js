@@ -21,6 +21,7 @@ export default function Romanosky() {
           <Header headerBackground="romanoskyBackground"/>
 
           <LeftGrayTitle><h3>christa romanosky</h3></LeftGrayTitle>
+          <body>
           <LeftBlackTitle><h3>three poems</h3></LeftBlackTitle>
           <StandardMiniTitle title="Extinction Opus, No. 16"/>
           <StandardLineation content={`
@@ -106,6 +107,8 @@ export default function Romanosky() {
           has a homunculus. I pickled a harmonica. I wanted
           the music to outlive the dream.
               `}/>
+
+          </body>
 
           <Footer/>
 
