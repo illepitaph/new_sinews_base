@@ -2,12 +2,11 @@ import Head from 'next/head'
 import Image from 'next/image'
 import Link from 'next/link'
 import Header from '../../components/header.js'
-import RightGrayTitle from '../../components/rightGrayTitle.js'
 import CenterGrayTitle from '../../components/centerGrayTitle.js'
 import LeftBlackTitle from '../../components/leftBlackTitle.js'
 import StandardProse from '../../components/standardProse.js'
 import Footer from '../../components/footer.js'
-import styles from '../../styles/Shiota.module.css'
+import styles from '../../styles/Moss.module.css'
 
 export default function Moss() {
   return (
@@ -29,13 +28,16 @@ export default function Moss() {
       <br/>
       <br/>
       <br/>
-      <RightGrayTitle><h3 className={styles.title}>the <i>veldt</i> light</h3></RightGrayTitle>
+      <pre className={styles.title}><span className={styles.inverseShadow}><span className={styles.t}>{` t`}</span>{`
+  h
+      e`}<br/><br/>{`ve ld `}<span className={styles.t}>t</span>{`  `}</span> <br/>{`l i gh `}<span
+      className={styles.t}>t</span></pre>
       <br/>
       <CenterGrayTitle><h4>... ... samuel ... <br/>... moss ... ...</h4></CenterGrayTitle>
       <br/>
       <br/>
       <br/>
-      <LeftBlackTitle><h3>the veldt-light</h3></LeftBlackTitle>
+      <LeftBlackTitle><h3><span className={styles.titleShadow}>the veldt-light</span></h3></LeftBlackTitle>
       <StandardProse>
       Of the qualities of the Veldt, that which is most striking is the light itself. I can tolerate it now. Upon first
       coming to the Institute it was utterly overwhelming. It is not uncommon for new patients to stay in their room
@@ -133,7 +135,7 @@ export default function Moss() {
       themselves particularly to the pursuit of motionlessness. Those who practice assiduously can, in their
       motionlessness, dance and even fly like acrobats.
       </StandardProse>
-      <LeftBlackTitle><h3>myth</h3></LeftBlackTitle>
+      <LeftBlackTitle><h3><span className={styles.titleShadow}>myth</span></h3></LeftBlackTitle>
       <StandardProse>
       The advent of the Veldt Institute occurred with the destruction of everything outside of the Veldt
       Institute. This place precipitated on the cool lens of existence from the dust, ash and vapor of the previous
@@ -157,7 +159,7 @@ export default function Moss() {
       than—any other myth, at least for the ends set out here. Foremost in importance is that one learns to construct
       their own myths, for this is the only way to take agency over one’s existence.
       </StandardProse>
-      <LeftBlackTitle><h3>trauma</h3></LeftBlackTitle>
+      <LeftBlackTitle><h3><span className={styles.titleShadow}>trauma</span></h3></LeftBlackTitle>
       <StandardProse>
       Living itself is a form of trauma. A perpetual, nagging trauma that wears one down with its inimical
       persistence. This is considered a truism at the institute.
@@ -169,7 +171,7 @@ export default function Moss() {
       <br/>
       All of the things we do are done with this intention.
       </StandardProse>
-      <LeftBlackTitle><h3>dreams</h3></LeftBlackTitle>
+      <LeftBlackTitle><h3><span className={styles.titleShadow}>dreams</span></h3></LeftBlackTitle>
       <StandardProse>
       My dreams. Before coming the Veldt Institute I would never have considered my dreams. They passed through me like
       so much vapor, in and out and forgotten once the day had taken its hold. But now my dreams hamper me. Haunt
@@ -227,7 +229,7 @@ export default function Moss() {
       I’ll tell you my dreams though, as you are a dream yourself. There won’t be any harm in this, airing out
       a dream to a dream deeper still.
       </StandardProse>
-      <LeftBlackTitle><h3>dr. mellinger</h3></LeftBlackTitle>
+      <LeftBlackTitle><h3><span className={styles.titleShadow}>dr. mellinger</span></h3></LeftBlackTitle>
       <StandardProse>
       I came in to Dr. Mellinger’s office today. She is thin and elongated and though she seems very serious she is
       occasionally prone to a dry humor.
