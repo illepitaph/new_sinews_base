@@ -26,12 +26,12 @@ export default function PoemsBorn() {
        <br/>
 
        <RightGrayTitle><h3><span
-       className={styles.inverseShadow}>poem</span>s<br/><span
-       className={styles.inverseShadow}>bor</span>n <span
+       className={styles.inverseShadow}>poem</span>s<br/><br/><i><span
+       className={styles.inverseShadow}>bor</span>n </i><span
        className={styles.titleShadow}>fro</span>m<br/><span
-       className={styles.inverseShadow}>basi</span>c<br/><span className={styles.titleShadow}> w <span
-       className={styles.inverseShadow}>o </span></span><span className={styles.titleShadow}>r </span><span
-       className={styles.inverseShadow}>d </span>s</h3></RightGrayTitle>
+       className={styles.inverseShadow}>basi</span>c<br/><br/><span className={styles.titleShadow}> w<br/> <span
+       className={styles.inverseShadow}>o<br/> </span></span><span className={styles.titleShadow}>r <br/></span><span
+       className={styles.inverseShadow}>d<br/></span>s</h3></RightGrayTitle>
 
        <br/>
 
