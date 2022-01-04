@@ -146,16 +146,20 @@
   background-image:url("../public/images/TerrariumBackground.jpg");
 }
 
-.bisagniBackground {
-  background-image:url("../public/images/BisagniBackground.jpg");
-}
-
 .mossBackground {
   background-image:url("../public/images/MossBackground.jpg");
 }
 
 .feldmanBackground {
   background-image:url("../public/images/FeldmanBackground.jpg");
+}
+
+.yrClimateBackground {
+  background-image:url("../public/images/YrClimateBackground.jpg");
+}
+
+.bisagniBackground {
+  background-image:url("../public/images/BisagniBackground.jpg");
 }
 
 .siteBarContainerAbout {

@@ -2,7 +2,6 @@ import Head from 'next/head'
 import Link from 'next/link'
 import Header from '../../components/header.js'
 import LeftGrayTitle from '../../components/leftGrayTitle.js'
-import RightBlackTitle from '../../components/rightBlackTitle.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Alvarez.module.css'
 
@@ -18,17 +17,14 @@ export default function YrClimate() {
 
           <body>
 
-       <Header headerBackground="alvarezBackground"/>
+       <Header headerBackground="yrClimateBackground"/>
 
-       <RightBlackTitle><span className={styles.bareHeader}>... ...  steven<br/>... ... alvarez</span>
-       </RightBlackTitle>
-
-        <LeftGrayTitle><h3>_ <span className={styles.titleShadow}>d<span
-        className={styles.inverseShadow}>a </span>t<span
-        className={styles.inverseShadow}>a</span>   |   <span
-        className={styles.inverseShadow}>b</span>l <span
-        className={styles.inverseShadow}>o</span>o<span
-        className={styles.inverseShadow}>  d _</span></span></h3></LeftGrayTitle>
+        <LeftGrayTitle><h3>_ <span className={styles.titleShadow}>s<span
+        className={styles.inverseShadow}>t </span>e<span
+        className={styles.inverseShadow}>v</span>   e   <span
+        className={styles.inverseShadow}>n</span><br/> a l <span
+        className={styles.inverseShadow}>v</span>a<span
+        className={styles.inverseShadow}>  re </span>z _</span></h3></LeftGrayTitle>
 
 
 <pre className={styles.dataBlood}>{`you

@@ -25,13 +25,13 @@ export default function Alvarez() {
 
         <LeftGrayTitle><h3>_ <span className={styles.titleShadow}>d<span
         className={styles.inverseShadow}>a</span><span
-        className={styles.titleShadowUpper}>t</span><span
+        className={styles.titleShadowUppercase}>t</span><span
         className={styles.inverseShadow}>a</span>   <span
         className={styles.bigSeparator}>|</span>   <span
         className={styles.inverseShadow}>b</span><span
-        className={styles.titleShadowUpper}>l </span><span
+        className={styles.titleShadowUppercase}>l </span><span
         className={styles.inverseShadow}>o</span>o<span
-        className={styles.inverseShadowUpper}>  d _</span></span></h3></LeftGrayTitle>
+        className={styles.inverseShadowUppercase}>  d _</span></span></h3></LeftGrayTitle>
 
 
 <pre className={styles.dataBlood}>{`you

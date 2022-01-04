@@ -9,13 +9,13 @@
               6px 6px #b0b0b0;
 }
 
-.titleShadowUpper {
+.titleShadowUppercase {
   text-shadow:2px 2px snow,
               4px 4px black;
   text-transform:uppercase;
 }
 
-.inverseShadowUpper {
+.inverseShadowUppercase {
   color:black;
   text-shadow:4px 4px snow,
               6px 6px #b0b0b0;
@@ -24,6 +24,7 @@
 
 .bigSeparator {
   font-size:6rem;
+  opacity:0.5;
 }
 
 
