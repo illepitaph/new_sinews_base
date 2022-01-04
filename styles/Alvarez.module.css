@@ -9,6 +9,24 @@
               6px 6px #b0b0b0;
 }
 
+.titleShadowUpper {
+  text-shadow:2px 2px snow,
+              4px 4px black;
+  text-transform:uppercase;
+}
+
+.inverseShadowUpper {
+  color:black;
+  text-shadow:4px 4px snow,
+              6px 6px #b0b0b0;
+  text-transform:uppercase;
+}
+
+.bigSeparator {
+  font-size:6rem;
+}
+
+
 .dataBlood {
   font-family: "astoria-sans-medium-condensed", sans-serif;
   font-weight: 300;
