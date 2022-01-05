@@ -7,6 +7,7 @@ import CenterGrayTitle from '../../components/centerGrayTitle.js'
 import StandardMiniTitle from '../../components/standardMiniTitle.js'
 import StandardLineation from '../../components/standardLineation.js'
 import Footer from '../../components/footer.js'
+import styles from '../../styles/Gridley.module.css'
 
 export default function Gridley() {
   return (
@@ -20,11 +21,19 @@ export default function Gridley() {
 
           <Header headerBackground="gridleyBackground"/>
 
-          <RightBlackTitle><h3>sarah gridley</h3></RightBlackTitle>
+          <body>
 
-              <body>
+          <RightBlackTitle><h3>... ... sarah<br/> ... ...gridley</h3></RightBlackTitle>
 
-          <CenterGrayTitle><h3>four poems</h3></CenterGrayTitle>
+          <CenterGrayTitle><h3>p<span
+          className={styles.inverseShadow}> o</span>e <span
+          className={styles.inverseShadowUppercase}>m</span>s <br/><br/>f<span
+          className={styles.titleShadow}>r</span><span
+          className={styles.inverseShadow}>o</span> <i>m</i><br/><br/> _i<span
+          className={styles.inverseShadowUppercase}>n</span>s<span
+          className={styles.inverseShadow}>o</span>fa<span
+          className={styles.inverseShadowUppercase}>r</span>_</h3></CenterGrayTitle>
+          <br/>
           <StandardMiniTitle title="Do No Harm"/>
           <StandardLineation content={`
       As if the bird were not
@@ -83,6 +92,7 @@ export default function Gridley() {
       a proto mouse.`}/>
 
          </body>
+         <br/>
 
           <Footer/>
 

@@ -3,10 +3,11 @@ import Image from 'next/image'
 import Link from 'next/link'
 import Header from '../../components/header.js'
 import LeftGrayTitle from '../../components/leftGrayTitle.js'
-import LeftBlackTitle from '../../components/leftBlackTitle.js'
+import RightBlackTitle from '../../components/rightBlackTitle.js'
 import StandardMiniTitle from '../../components/standardMiniTitle.js'
 import StandardLineation from '../../components/standardLineation.js'
 import Footer from '../../components/footer.js'
+import styles from '../../styles/Romanosky.module.css'
 
 export default function Romanosky() {
   return (
@@ -20,9 +21,18 @@ export default function Romanosky() {
 
           <Header headerBackground="romanoskyBackground"/>
 
-          <LeftGrayTitle><h3>christa romanosky</h3></LeftGrayTitle>
+          <LeftGrayTitle><h3>_ <span className={styles.titleShadow}>c<span
+          className={styles.inverseShadow}>h </span><span
+          className={styles.titleShadowUppercase}>r</span><span
+          className={styles.inverseShadow}>i</span>s<span
+          className={styles.inverseShadowUppercase}>t</span>a<br/> r <span
+          className={styles.titleShadowUppercase}>o</span>m<span
+          className={styles.inverseShadowUppercase}>a</span>n<span
+          className={styles.inverseShadow}>  o</span>s<span
+          className={styles.inverseShadowUppercase}>k </span>y _</span></h3></LeftGrayTitle>
           <body>
-          <LeftBlackTitle><h3>three poems</h3></LeftBlackTitle>
+          <RightBlackTitle><h3>... ... three<br/>... ... poems</h3></RightBlackTitle>
+          <br/>
           <StandardMiniTitle title="Extinction Opus, No. 16"/>
           <StandardLineation content={`
           The future on stilts now. Corpus
