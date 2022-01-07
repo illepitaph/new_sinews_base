@@ -16,20 +16,20 @@
   margin: 0;
   display:grid;
   grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
 }
 
 .titleAndSubtitle {
   position:relative;
   display:grid;
   grid-template-columns:1fr 1fr;
+  grid-area: 1 / 1 / 7 / 2;
   grid-auto-flow: column;
 }
 
 .pageTitle {
   position:relative;
-  grid-column: 2 / span 1;
-  grid-area: 1 / 1 / 7 / 2;
+  grid-column: 1 / span 1;
   font-family: "lores-9-plus-wide-bold-alt";
   color: #6b6b6b;
   font-size: 3.2rem;
@@ -40,15 +40,13 @@
 
 .issueTitle {
   position: relative;
-  grid-column: 3 / span 1;
-  grid-area: 1 / 2 / 7 / 3;
+  grid-column: 2 / span 1;
   align-self:center;
   font-family: "lores-9-minus-narrow";
   color: white;
   text-shadow:1px 1px #b0b0b0;
   font-size: 2.2rem;
   text-transform: uppercase;
-  margin-left:7rem;
   max-width:8%
 }
 
@@ -65,6 +63,7 @@
 
 .workStructure {
   position:relative;
+  grid-area:1 / 2 / 7 / 5;
   display:grid;
   grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
   grid-template-columns: 1fr 1fr 1fr;
@@ -76,7 +75,7 @@
   display: grid;
   grid-auto-flow: row;
   height: 70vh;
-  margin:1rem 0 0 55vw;
+  margin:1rem 0 0 53vw;
   align-content: space-between;
   grid-column:4 / span 1;
 }

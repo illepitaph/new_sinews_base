@@ -19,6 +19,8 @@ export default function Dusk() {
 
        <Header headerBackground="duskBackground"/>
 
+       <body>
+
         <LeftGrayTitle><h3><span className={styles.duskShadow}>Ret<span
         className={styles.inverse}>r</span>iev<span
         className={styles.inverse}>e</span> T<span
@@ -308,7 +310,9 @@ export default function Dusk() {
 
 
                      <Footer/>
-                      
+
+          </body>
+
                        </>
                    )
                  }
