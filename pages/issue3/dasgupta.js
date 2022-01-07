@@ -3,9 +3,10 @@ import Image from 'next/image'
 import Link from 'next/link'
 import Header from '../../components/header.js'
 import RightBlackTitle from '../../components/rightBlackTitle.js'
-import CenterGrayTitle from '../../components/centerGrayTitle.js'
+import LeftGrayTitle from '../../components/leftGrayTitle.js'
 import StandardProse from '../../components/standardProse.js'
 import Footer from '../../components/footer.js'
+import styles from '../../styles/Dasgupta.module.css'
 
 export default function Dasgupta() {
   return (
@@ -21,7 +22,15 @@ export default function Dasgupta() {
 
        <Header headerBackground="dasguptaBackground"/>
 
-      <CenterGrayTitle><h3>remember nothing</h3></CenterGrayTitle>
+      <LeftGrayTitle>r<br/><span
+      className={styles.inverseTitleShadow}>e</span><br/>m<br/><span
+      className={styles.titleShadow}>e</span><br/>m<br/>b<br/><span
+      className={styles.inverseTitleShadowUppercase}>e</span><br/><span
+      className={styles.titleShadowUppercase}>r</span><br/><br/><br/>n<span
+      className={styles.inverseTitleShadowUppercase}>o</span><span
+      className={styles.titleShadowUppercase}>t</span>hi<span
+      className={styles.inverseTitleShadowUppercase}>n</span><span
+      className={styles.titleShadow}>g</span></LeftGrayTitle>
       <RightBlackTitle><h3> ... shome<br/>dasgupta ... </h3></RightBlackTitle>
       <StandardProse>
       The way the night looked, it looked like a massive hole was drilled into the sky.
