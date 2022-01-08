@@ -21,8 +21,10 @@ export default function Blackwell() {
 
        <RightBlackTitle><h3> ... gabriel ... </h3><h3> ... blackwell ... </h3></RightBlackTitle>
        <CenterGrayTitle><h3><span style={{textTransform:"uppercase"}}>t</span><br/>w<br/>o <br/><br/>s<br/><span
-       style={{textTransform:"uppercase"}}>t</span><br/>o<br/><span
-       style={{textTransform:"uppercase"}}>r</span><br/>i<br/>e<br/>s</h3></CenterGrayTitle>
+       style={{textTransform:"uppercase", marginLeft:"6vw"}}>t</span><br/>o<br/><span
+       style={{textTransform:"uppercase", marginRight:"9vw"}}>r</span><br/>i<br/><span
+       style={{marginLeft:"5vw"}}>e</span><br/><span
+       style={{marginLeft:"10vw"}}>s</span></h3></CenterGrayTitle>
        <LeftBlackTitle><span style={{fontStyle:"italic"}}><h3>scenery</h3></span></LeftBlackTitle>
        <StandardProse> Kierkegaard attributes a memory to Johannes Climacus
        (in the introduction to the book of the same name) that could well have

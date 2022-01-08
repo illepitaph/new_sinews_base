@@ -1,12 +1,14 @@
 .titleShadow {
   text-shadow:2px 2px snow,
               4px 4px black;
+  margin-left:8px;
 }
 
 .titleShadowUppercase {
   text-shadow:2px 2px snow,
               4px 4px black;
   text-transform:uppercase;
+  margin-left:3px;
 }
 
 
@@ -14,6 +16,7 @@
   color:black;
   text-shadow:4px 4px snow,
               6px 6px #b0b0b0;
+  margin-left:5px;
 }
 
 .inverseTitleShadowUppercase {
@@ -21,4 +24,5 @@
   text-shadow:4px 4px snow,
               6px 6px #b0b0b0;
   text-transform:uppercase;
+  margin-left:15px;
 }

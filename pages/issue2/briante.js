@@ -22,7 +22,10 @@ export default function Briante() {
        <Header headerBackground="brianteBackground"/>
 
        <RightBlackTitle><h3> ... susan ... briante ... </h3></RightBlackTitle>
-       <LeftGrayTitle><h3>may day</h3></LeftGrayTitle>
+       <LeftGrayTitle><h3>m <span
+       style={{color:"black", opacity:"0.5",textTransform:"uppercase"}}>a</span> y <br/><span
+       style={{textTransform:"uppercase", marginLeft:"1vw"}}>d</span> <span
+       style={{color:"black", opacity:"0.7",textTransform:"uppercase"}}>a</span> y</h3></LeftGrayTitle>
        <StandardProse> And I think about the beautiful production, the general strike,
        the poem before a poem, and I wonder if the riot thinks.
        <br/>
@@ -55,7 +58,10 @@ export default function Briante() {
        poem. Clover may be crushed under feet or freed from all obligation to feed
        a blossom-clad riot, a season of flower and hunger out of which we step.
        </StandardProse>
-       <LeftGrayTitle><h3>gallery walls</h3></LeftGrayTitle>
+       <LeftGrayTitle><h3>gall <span
+       style={{color:"#2CBAE7", marginLeft:"2vw",textTransform:"uppercase"}}>e</span> r y <br/><span
+       style={{color:"black", marginLeft:"5vw",textTransform:"uppercase"}}>w</span>a <span
+       style={{color:"black", textTransform:"uppercase"}}>ll</span>  s</h3></LeftGrayTitle>
        <StandardProse>
        Women wash in the ruins of a stone house. A child cups water from a stream
        to lift into an infant’s mouth. In the Pablo Picasso museum, I look at
