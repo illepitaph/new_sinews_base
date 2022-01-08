@@ -131,3 +131,68 @@
   border: 1px solid white;
   border-radius: 50%;
 }
+
+@media (max-width: 991.98px) {
+
+  .titleAndSubtitle {
+    position:relative;
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    grid-area: 1 / 1 / 4 / 2;
+    grid-auto-flow: column;
+  }
+
+  .issueTitle {
+    margin-left:14vw;
+  }
+
+  .issueContents {
+    margin:1rem 0 0 23vw;
+  }
+}
+
+@media (max-width: 767.98px) {
+
+  .titleAndSubtitle {
+    position:relative;
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    grid-area: 1 / 1 / 4 / 2;
+    grid-auto-flow: column;
+  }
+
+  .issueTitle {
+    margin-left:4vw;
+  }
+
+  .issueContents {
+    margin:1rem 0 0 1vw;
+  }
+
+  .workColumn {
+    max-width:11rem;
+    margin-bottom:0.5rem;
+  }
+
+  .workLink {
+    position: relative;
+    font-family: ubuntu, sans-serif;
+    color: white;
+    font-size: 0.9em;
+    text-transform: uppercase;
+  }
+
+  .siteShortcuts > .linkButton {
+    font-size: 0.6rem;
+    padding:0.7vh 0.8vw;
+  }
+
+  .twitterLinkTag {
+    padding: 0.7vh 0.8vw;
+  }
+
+  .siteShortcuts > .linkButton:not(:first-child) {
+    margin-left:3px;
+  }
+
+ }
