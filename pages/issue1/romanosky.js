@@ -3,7 +3,6 @@ import Image from 'next/image'
 import Link from 'next/link'
 import Header from '../../components/header.js'
 import LeftGrayTitle from '../../components/leftGrayTitle.js'
-import RightBlackTitle from '../../components/rightBlackTitle.js'
 import StandardMiniTitle from '../../components/standardMiniTitle.js'
 import StandardLineation from '../../components/standardLineation.js'
 import Footer from '../../components/footer.js'
@@ -31,7 +30,6 @@ export default function Romanosky() {
           className={styles.inverseShadow}>  o</span>s<span
           className={styles.inverseShadowUppercase}>k </span>y _</span></h3></LeftGrayTitle>
           <body>
-          <RightBlackTitle><h3>... ... three<br/>... ... poems</h3></RightBlackTitle>
           <br/>
           <StandardMiniTitle title="Extinction Opus, No. 16"/>
           <StandardLineation content={`
