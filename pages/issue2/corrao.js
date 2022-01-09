@@ -6,6 +6,7 @@ import LeftGrayTitle from '../../components/leftGrayTitle.js'
 import StandardProse from '../../components/standardProse.js'
 import StandardLineation from '../../components/standardLineation.js'
 import Footer from '../../components/footer.js'
+import styles from '../../styles/Corrao.module.css'
 
 export default function Corrao() {
   return (
@@ -21,7 +22,40 @@ export default function Corrao() {
 
        <Header headerBackground="corraoBackground"/>
 
-       <LeftGrayTitle><h3>the archaeology of virtual spaces</h3></LeftGrayTitle>
+       <pre><span
+       className={styles.title}><span
+       className={styles.inverseTitleShadow}>{`
+                      T
+                        h
+                          `}</span><span className={styles.titleShadow}>e</span>{`
+
+
+      a `}<span className={styles.inverseTitleShadow}>R</span>{`c Ha`}<span
+                                     className={styles.titleShadow}>e</span><span
+                                     className={styles.inverseTitleShadow}>-</span><br/>{`      o`}<span
+                                     className={styles.inverseTitleShadow}>L</span>{`o g  `}<span
+                                     className={styles.titleShadow}>y</span>{`
+
+
+                  `}<span
+                                     className={styles.inverseTitleShadow}>o</span>{`
+                  `}<span
+                                     className={styles.titleShadow}>F</span>{`
+
+
+                       vi`}<span
+             className={styles.inverseTitleShadow}>R-<br/></span>{`                      Tu`}<span
+         className={styles.titleShadow}>A</span>{`L
+
+      s
+        `}<span
+    className={styles.inverseTitleShadow}>P</span>{`
+          a
+           `}<span
+           className={styles.titleShadow}>c</span>{`
+             `}<span
+         className={styles.inverseTitleShadow}>E</span>{`
+                S`}</span></pre>
        <RightBlackTitle><h3> ... mike ... corrao ... </h3></RightBlackTitle>
        <StandardProse>
        <br/>

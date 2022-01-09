@@ -59,7 +59,8 @@ export default function Briante() {
        a blossom-clad riot, a season of flower and hunger out of which we step.
        </StandardProse>
        <LeftGrayTitle><h3>gall <span
-       style={{color:"#2CBAE7", marginLeft:"2vw",textTransform:"uppercase"}}>e</span> r y <br/><span
+       style={{color:"#2CBAE7", marginLeft:"2vw",textTransform:"uppercase"}}>e</span> <span
+       style={{textTransform:"uppercase"}}>r</span> y <br/><span
        style={{color:"black", marginLeft:"5vw",textTransform:"uppercase"}}>w</span>a <span
        style={{color:"black", textTransform:"uppercase"}}>ll</span>  s</h3></LeftGrayTitle>
        <StandardProse>
