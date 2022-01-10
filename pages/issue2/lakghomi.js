@@ -3,7 +3,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 import Header from '../../components/header.js'
 import RightBlackTitle from '../../components/rightBlackTitle.js'
-import CenterGrayTitle from '../../components/centerGrayTitle.js'
+import LeftGrayTitle from '../../components/leftGrayTitle.js'
 import StandardProse from '../../components/standardProse.js'
 import Footer from '../../components/footer.js'
 
@@ -21,8 +21,13 @@ export default function Lakghomi() {
 
        <Header headerBackground="lakghomiBackground"/>
 
-      <RightBlackTitle><h3> ... babak</h3><h3>lakghomi ... </h3></RightBlackTitle>
-      <CenterGrayTitle><h3>a request</h3></CenterGrayTitle>
+      <RightBlackTitle><h3> ... ... babak<br/>... ... lakghomi</h3></RightBlackTitle>
+      <LeftGrayTitle><h3>a<br/><br/><span
+      style={{textTransform:"uppercase", marginLeft:"2vw", color:"black"}}>r</span><br/><span
+      style={{textTransform:"uppercase", marginLeft:"1vw"}}>e</span><br/><span
+      style={{textTransform:"uppercase", color:"black", marginLeft:"-1vw"}}>q</span><br/>u<br/><span
+      style={{marginLeft:"2vw", color:"black"}}>e</span><br/>s<br/><span
+      style={{textTransform:"uppercase", marginLeft:"-1vw", color:"black"}}>t</span></h3></LeftGrayTitle>
       <StandardProse>Nobody else at the time had bananas to eat. He’d only had one
       at home, though there were more in the fridge, but his mother had let him have only one.
       <br/>
@@ -51,7 +56,13 @@ export default function Lakghomi() {
       was eating that banana, and he hopes that she doesn’t find this to be a weird request, but
       it would be really kind of her if she would eat this banana for him now.
       </StandardProse>
-      <CenterGrayTitle><h3>say her name</h3></CenterGrayTitle>
+      <LeftGrayTitle><h3>s<br/><span
+      style={{textTransform:"uppercase", marginLeft:"2vw", color:"black"}}>a</span><br/>y<br/><br/><span
+      style={{textTransform:"uppercase"}}>h</span><br/><span
+      style={{textTransform:"uppercase", marginLeft:"1vw"}}>e</span><br/><span
+      style={{textTransform:"uppercase", color:"black", marginLeft:"-1vw"}}>r</span><br/><br/>n<br/><span
+      style={{marginLeft:"1vw", color:"black"}}>a</span><br/>m<br/><span
+      style={{textTransform:"uppercase", marginLeft:"0.6vw", color:"black"}}>e</span></h3></LeftGrayTitle>
       <StandardProse>
       The father did not say the daughter’s name. The daughter thought that he could say it, but
       that he didn’t want to. The father did say other names, though mostly not the right ones.
@@ -76,11 +87,13 @@ export default function Lakghomi() {
       The daughter wanted to forget the father’s name, to forget he was her father. If the daughter
       could forget his name, she might believe she was his wife and not his daughter, and the father
       might say her name.
-      <br/>
-      <br/>
-      <br/>
-      <br/>
        </StandardProse>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
        <Footer/>
              </body>
          </div>

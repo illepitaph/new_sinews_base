@@ -86,9 +86,7 @@ export default function Issue1Bios() {
    Brown University, where she received the John Hawkes and Feldman Prizes in
    fiction and the Kim Ann Arstark Memorial Award in poetry.
    </StandardProse>
-   <br/>
-   <br/>
-   <br/>
+   <br/><br/><br/><br/><br/><br/><br/><br/>
 
    <Footer/>
 

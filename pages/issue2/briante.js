@@ -131,7 +131,7 @@ export default function Briante() {
        <br/>
        <br/>
        </StandardProse>
-
+       <br/><br/><br/><br/><br/><br/><br/><br/>
 
        <Footer/>
              </body>

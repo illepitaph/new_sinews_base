@@ -556,6 +556,7 @@ export default function Shiota() {
       <br/>
       "I am sure I will get used to it." She said, then bowed as the woman's husband came over to greet them.
       </StandardProse>
+      <br/><br/><br/><br/><br/><br/><br/><br/>
        <Footer/>
              </body>
          </div>

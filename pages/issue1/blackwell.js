@@ -20,7 +20,8 @@ export default function Blackwell() {
 
        <RightBlackTitle><h3> ... gabriel ... </h3><h3> ... blackwell ... </h3></RightBlackTitle>
        <LeftGrayTitle><h3>s<br/>c<br/><span
-       style={{textTransform:"uppercase", marginLeft:"2vw", color:"black"}}>e</span><br/>n<br/>e<br/><span
+       style={{textTransform:"uppercase", marginLeft:"2vw", color:"black"}}>e</span><br/><span
+       style={{textTransform:"uppercase"}}>n</span><br/>e<br/><span
        style={{textTransform:"uppercase", marginLeft:"1vw", color:"black"}}>r</span><br/>y</h3></LeftGrayTitle>
        <StandardProse> Kierkegaard attributes a memory to Johannes Climacus
        (in the introduction to the book of the same name) that could well have
@@ -97,6 +98,7 @@ export default function Blackwell() {
        about, I thought: The other twin had been absorbed by either its brother
        or its mother. I had enough sense not to say this aloud.
        </StandardProse>
+       <br/><br/><br/><br/><br/><br/><br/><br/>
     <Footer/>
       </>
   )
