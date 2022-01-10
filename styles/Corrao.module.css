@@ -24,7 +24,7 @@
 }
 
 .lineation {
-  margin-left:20vw;;
+  margin-left:20vw;
   font-family: "astoria-sans-medium-condensed", sans-serif;
   font-weight: 300;
   font-style: normal;
@@ -33,3 +33,10 @@
   letter-spacing:-0.02rem;
   line-height:1.4em;
 }
+
+@media (max-width: 767.98px) {
+
+.title {
+    font-size:2rem;
+  }
+ }

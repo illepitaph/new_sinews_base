@@ -145,3 +145,38 @@
 .socialLinkTag:visited {
   text-decoration:none;
 }
+
+@media (max-width: 767.98px) {
+
+  .top {
+    background-position:center;
+  }
+
+  .iconPlusSitebar > a {
+    width:35vw;
+    height:35vh;
+    margin-top:9vh;
+    margin-left:5vw;
+    opacity:0.7;
+  }
+
+  .siteNav {
+    align-self:center;
+    display:inline-flex;
+    flex-flow:column wrap;
+    justify-content:flex-end;
+    margin:4vh 6vw 0 0 ;
+  }
+
+  .siteNav > button {
+    padding:5.5px 7px;
+    margin-bottom:5vh;
+    cursor:pointer;
+    opacity:0.8;
+  }
+
+  .bottom {
+    margin-top:6vh;
+  }
+
+ }
