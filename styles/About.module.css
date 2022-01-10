@@ -21,6 +21,7 @@
   height:35vh;
   margin-top:12vh;
   margin-left:2vw;
+  opacity:0.9;
 }
 
 .siteNav {
@@ -146,6 +147,42 @@
   text-decoration:none;
 }
 
+@media (max-width: 991.98px) {
+
+  .top {
+    background-position:center;
+  }
+
+  .iconPlusSitebar > a {
+    width:35vw;
+    height:35vh;
+    margin-top:9vh;
+    margin-left:5vw;
+    opacity:0.7;
+  }
+
+  .siteNav {
+    align-self:center;
+    display:inline-flex;
+    flex-flow:column wrap;
+    justify-content:flex-end;
+    margin:7vh 6vw 0 0 ;
+  }
+
+  .siteNav > button {
+    padding:12px 19px;
+    margin-bottom:5vh;
+    cursor:pointer;
+    opacity:0.8;
+  }
+
+  .bottom {
+    margin-top:6vh;
+  }
+
+
+}
+
 @media (max-width: 767.98px) {
 
   .top {
@@ -165,7 +202,7 @@
     display:inline-flex;
     flex-flow:column wrap;
     justify-content:flex-end;
-    margin:4vh 6vw 0 0 ;
+    margin:6vh 12vw 0 0 ;
   }
 
   .siteNav > button {
