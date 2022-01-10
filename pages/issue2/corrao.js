@@ -88,7 +88,7 @@ export default function Corrao() {
        <br/>
        <br/>
        </StandardProse>
-      <StandardLineation    content={`
+      <pre className={styles.lineation}>{`
      (it does not need to be this way. it is not necessary that we experience space as it asks
 us to. that we move through labyrinthine trenches. acquiring certain keys and passcodes
 
@@ -112,7 +112,7 @@ INTRUSION UPON HIDDEN CODE LANGUAGES / PROPHETIC SCRIPT
 
 MODIFICATION OF THE VIRTUAL BODY / BECOMING-SPECTRE
 
-         `}/>
+         `}</pre>
       <StandardProse>
       It is not without reason that I suggest this new kind of excavation. Assisted
       by digital tools—a time machine only insofar as a glossary denotes what has passed.
@@ -147,7 +147,7 @@ MODIFICATION OF THE VIRTUAL BODY / BECOMING-SPECTRE
       <br/>
       <br/>
       </StandardProse>
-      <StandardLineation    content={`
+      <pre className={styles.lineation}>{`
      (in the enigmatic structure. which the researcher has tasked themself with occupying.
 the labyrinth appears impenetrable. with each nuanced pattern complexifying further
 
@@ -162,7 +162,7 @@ matrix. and establishing itself outside of the boundary.
      in the non-space that encompasses the labyrinth. landscape of unfinished platforms and
 deceptive collision)
 
-         `}/>
+         `}</pre>
          <StandardProse>
          This perspective that you have taken up is incomplete. It is the first-hand
          vision of a half-formed avatar. Limited by the scope of its eyes—the lack
@@ -240,7 +240,7 @@ deceptive collision)
          <br/>
          <br/>
          </StandardProse>
-         <StandardLineation    content={`
+         <pre className={styles.lineation}>{`
                         ::archaeology of server-projected phantoms
 
                         ::archaeology of impossible architectures
@@ -277,7 +277,7 @@ deceptive collision)
 
                         ::archaeology of the interface
 
-            `}/>
+            `}</pre>
             <StandardProse>
             Primitive archaeologists have already begun documenting the anomalies
             spawning in the non-space surrounding the virtual structure. With the
@@ -359,7 +359,7 @@ deceptive collision)
             <br/>
             <br/>
             </StandardProse>
-            <StandardLineation    content={`
+          <pre className={styles.lineation}>{`
           (this new body must be more complete than your own. it cannot merely be a projection
     of your self
 
@@ -372,7 +372,7 @@ deceptive collision)
           not body but body-esque. kind to your physical inclinations but transparent nonetheless.
     in the expanded field i fall through)
 
-               `}/>
+               `}</pre>
             <StandardProse>
             IN THE EXPANDED FIELD I FALL THROUGH / AND REORIENT MYSELF
             <br/>
@@ -425,7 +425,7 @@ deceptive collision)
             <br/>
             <br/>
            </StandardProse>
-           <StandardLineation    content={`
+           <pre className={styles.lineation}>{`
                           ::defunct root of the rhizome
 
                           ::user-to-arbor
@@ -436,7 +436,7 @@ deceptive collision)
 
                           ::seducer body-esque
 
-              `}/>
+              `}</pre>
             <StandardProse>
             The subject of my investigation is not the organism that you thought
             it was. It is an enigmatic structure. With the qualities of an organism.

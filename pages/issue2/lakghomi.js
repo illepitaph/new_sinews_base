@@ -21,7 +21,7 @@ export default function Lakghomi() {
 
        <Header headerBackground="lakghomiBackground"/>
 
-      <RightBlackTitle><h3> ... ... babak<br/>... ... lakghomi</h3></RightBlackTitle>
+      <RightBlackTitle><h3> ... ... babak<br/> ... ... lakghomi</h3></RightBlackTitle>
       <LeftGrayTitle><h3>a<br/><br/><span
       style={{textTransform:"uppercase", marginLeft:"2vw", color:"black"}}>r</span><br/><span
       style={{textTransform:"uppercase", marginLeft:"1vw"}}>e</span><br/><span
