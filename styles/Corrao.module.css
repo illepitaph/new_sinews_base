@@ -39,4 +39,9 @@
 .title {
     font-size:2rem;
   }
+
+  .lineation {
+    white-space: pre-wrap;
+  }
+
  }
