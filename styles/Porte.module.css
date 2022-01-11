@@ -17,3 +17,29 @@
 .spacer {
   margin-top:5vh;
 }
+
+.blackShadow {
+  color:black;
+  text-shadow:4px 4px snow,
+              6px 6px #b0b0b0;
+  letter-spacing:0.4rem;
+}
+
+.blackShadowWider {
+  color:black;
+  text-shadow:4px 4px snow,
+              6px 6px #b0b0b0;
+  font-style:italic;
+  letter-spacing:2.8rem;
+}
+
+.uppercaseGray {
+  display:inline-block;
+  text-transform:uppercase;
+  text-shadow:none;
+  margin:3vh 0;
+}
+
+.uppercaseBlack {
+  text-transform:uppercase;
+}

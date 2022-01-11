@@ -41,6 +41,8 @@
   }
 
   .lineation {
+    margin-left: 0;
+    font-size:0.9rem;
     white-space: pre-wrap;
   }
 

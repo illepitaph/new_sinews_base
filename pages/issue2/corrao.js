@@ -27,20 +27,20 @@ export default function Corrao() {
        className={styles.inverseTitleShadow}>{`
                       T
                         h
-                          `}</span><span className={styles.titleShadow}>e</span>{`
+                       `}</span><span className={styles.titleShadow}>_ e _</span>{`
 
 
       a `}<span className={styles.inverseTitleShadow}>R</span>{`c Ha`}<span
                                      className={styles.titleShadow}>e</span><span
                                      className={styles.inverseTitleShadow}>-</span><br/>{`      o`}<span
-                                     className={styles.inverseTitleShadow}>L</span>{`o g  `}<span
-                                     className={styles.titleShadow}>y</span>{`
+                                     className={styles.inverseTitleShadow}>L</span>{`o g `}<span
+                                     className={styles.titleShadow}>_ y _</span>{`
 
 
                   `}<span
                                      className={styles.inverseTitleShadow}>o</span>{`
-                  `}<span
-                                     className={styles.titleShadow}>F</span>{`
+                `}<span
+                                     className={styles.titleShadow}>_ F _</span>{`
 
 
                        vi`}<span
@@ -48,13 +48,13 @@ export default function Corrao() {
          className={styles.titleShadow}>A</span>{`L
 
       s
-        `}<span
-    className={styles.inverseTitleShadow}>P</span>{`
+     `}<span
+    className={styles.inverseTitleShadow}>_ P _</span>{`
           a
            `}<span
            className={styles.titleShadow}>c</span>{`
-             `}<span
-         className={styles.inverseTitleShadow}>E</span>{`
+           `}<span
+         className={styles.inverseTitleShadow}>_ E _</span>{`
                 S`}</span></pre>
        <RightBlackTitle><h3> ... mike ... corrao ... </h3></RightBlackTitle>
        <StandardProse>
@@ -89,16 +89,20 @@ export default function Corrao() {
        <br/>
        </StandardProse>
       <pre className={styles.lineation}>{`
-     (it does not need to be this way. it is not necessary that we experience
-      space as it asks us to. that we move through labyrinthine
-       trenches. acquiring certain keys and passcodes
+     (it does not need to be this way. it is not
+     necessary that we experience space as it
 
-     a series of multi-colored dreams. landscape of the body. as it is pro-
-      jected onto this abstract mechanism
+     asks us to. that we move through labyrinthine
+     trenches. acquiring certain keys and passcodes
 
-     we can refuse. stand further away. remove ourselves. or disregard what
-      we have been asked to do. the constraints we have been asked to
-       adhere to)
+     a series of multi-colored dreams. landscape of
+     the body. as it is projected onto this abstract
+     mechanism
+
+     we can refuse. stand further away. remove our-
+     selves. or disregard what we have been asked to
+     do. the constraints we have been asked to adhere
+     to)
 
 CERTAIN TOOLS ARE GATHERED AND TESTED / MADE USEFUL
 
@@ -150,20 +154,24 @@ MODIFICATION OF THE VIRTUAL BODY / BECOMING-SPECTRE
       <br/>
       </StandardProse>
       <pre className={styles.lineation}>{`
-     (in the enigmatic structure. which the researcher has tasked themself with
-      occupying. the labyrinth appears impenetrable. with each nuanced pattern
-       complexifying further
+     (in the enigmatic structure. which the researcher has
+     tasked themself with occupying. the labyrinth appears
+     impenetrable. with each nuanced pattern complexifying
+     further
 
-     but certain tools are utilized. tools which exploit the shortcomings of the
-      game's framerate. giving the virtual body an inhuman speed
+     but certain tools are utilized. tools which exploit
+     the shortcomings of the game's framerate. giving the
+     virtual body an inhuman speed
 
-     allowing them to move so fast as to render them briefly incorporeal
+     allowing them to move so fast as to render them
+     briefly incorporeal
 
-     each surface reveals a becoming-membrane. the virtual body passing
-      through this matrix. and establishing itself outside of the boundary.
+     each surface reveals a becoming-membrane. the virtual
+     body passing through this matrix. and establishing
+     itself outside of the boundary.
 
-     in the non-space that encompasses the labyrinth. landscape of unfinished
-      platforms and deceptive collision)
+     in the non-space that encompasses the labyrinth.
+     landscapeof unfinished platforms and deceptive collision)
 
          `}</pre>
          <StandardProse>
@@ -244,42 +252,42 @@ MODIFICATION OF THE VIRTUAL BODY / BECOMING-SPECTRE
          <br/>
          </StandardProse>
          <pre className={styles.lineation}>{`
-                        ::archaeology of server-projected phantoms
+        ::archaeology of server-projected phantoms
 
-                        ::archaeology of impossible architectures
+        ::archaeology of impossible architectures
 
-                        ::archaeology of low poly surfaces
+        ::archaeology of low poly surfaces
 
-                        ::archaeology of the digital rhizome
+        ::archaeology of the digital rhizome
 
-                        ::archaeology of neglect and decay
+        ::archaeology of neglect and decay
 
-                        ::archaeology of what disappears from the internet
+        ::archaeology of what disappears from the internet
 
-                        ::archaeology of restored sludge and video
+        ::archaeology of restored sludge and video
 
-                        ::archaeology of extramatrical anomalies
+        ::archaeology of extramatrical anomalies
 
-                        ::archaeology of defunct forums and file links
+        ::archaeology of defunct forums and file links
 
-                        ::archaeology of primitive coding languages
+        ::archaeology of primitive coding languages
 
-                        ::archaeology of virtual space
+        ::archaeology of virtual space
 
-                        ::archaeology of digital badlands
+        ::archaeology of digital badlands
 
-                        ::archaeology of boundary glitches and mods
+        ::archaeology of boundary glitches and mods
 
-                        ::archaeology of ominous non-spaces
+        ::archaeology of ominous non-spaces
 
-                        ::archaeology of falsified floor plans and concealed
+        ::archaeology of falsified floor plans and concealed
                             blueprints
 
-                        ::archaeology of in-game histories and artifacts
+        ::archaeology of in-game histories and artifacts
 
-                        ::archaeology of compression
+        ::archaeology of compression
 
-                        ::archaeology of the interface
+        ::archaeology of the interface
 
             `}</pre>
             <StandardProse>
@@ -364,17 +372,21 @@ MODIFICATION OF THE VIRTUAL BODY / BECOMING-SPECTRE
             <br/>
             </StandardProse>
           <pre className={styles.lineation}>{`
-          (this new body must be more complete than your own. it cannot merely
-            be a projection of your self
+          (this new body must be more complete than your
+          own. it cannot merely be a projection of your
+          self
 
-          flesh is poor building materials. even in a dimension without organic
-           decay you are still fragile. and quick to fall apart
+          flesh is poor building materials. even in a
+          dimension without organic decay you are still
+          fragile. and quick to fall apart
 
-          instead there need be a utilization of the medium. exploiting the un-
-           corporealized body and its spectral tendencies
+          instead there need be a utilization of the
+          medium. exploiting the uncorporealized body
+          and its spectral tendencies
 
-          not body but body-esque. kind to your physical inclinations but trans-
-           parent nonetheless. in the expanded field i fall through)
+          not body but body-esque. kind to your physical
+          inclinations but transparent nonetheless. in
+          the expanded field i fall through)
 
                `}</pre>
             <StandardProse>
@@ -430,15 +442,15 @@ MODIFICATION OF THE VIRTUAL BODY / BECOMING-SPECTRE
             <br/>
            </StandardProse>
            <pre className={styles.lineation}>{`
-                          ::defunct root of the rhizome
+          ::defunct root of the rhizome
 
-                          ::user-to-arbor
+          ::user-to-arbor
 
-                          ::river of filtered data
+          ::river of filtered data
 
-                          ::becoming-lack
+          ::becoming-lack
 
-                          ::seducer body-esque
+          ::seducer body-esque
 
               `}</pre>
             <StandardProse>

@@ -22,8 +22,19 @@ export default function Porte() {
 
        <Header headerBackground="porteBackground"/>
 
-           <CenterGrayTitle><h3>portraits of some persons<br/>as imaginary cities</h3></CenterGrayTitle>
-           <RightBlackTitle><h3> ... rebecca ... </h3><h3> ... ariel ... </h3><h3> ... porte ... </h3></RightBlackTitle>
+           <CenterGrayTitle><h3><span
+           className={styles.blackShadow}>_por<span className={styles.uppercaseBlack}>t</span>Rai<span
+           className={styles.uppercaseBlack}>t</span>s_</span><br/><span
+           className={styles.uppercaseGray}>of some</span><br/><span
+           className={styles.blackShadowWider}>_pe<span
+           className={styles.uppercaseBlack}>r</span>so<span
+           className={styles.uppercaseBlack}>n</span>s_</span><br/><span
+           className={styles.uppercaseGray}>as imaginary</span><br/><span
+           className={styles.blackShadow}>_ci<span
+           className={styles.uppercaseBlack}>t</span>i<span
+           className={styles.uppercaseBlack}>e</span>s_</span></h3></CenterGrayTitle>
+           <br/><br/>
+           <RightBlackTitle><h3> ... rebecca ... <br/> ... ariel ... <br/> ... porte ... </h3></RightBlackTitle>
 
           <p className={styles.storyMarquee}>i.<span className={styles.storyMarqueeInner}>
           <br className={styles.spacer}/>Dry Owlmoy<br className={styles.spacer}/>(For Wolodymyr)
@@ -385,6 +396,8 @@ export default function Porte() {
           conversation to notice that he ceaseless, ceaseless weeps a stream of phosphorescent
           tears—as if—on this—a night that has no memory—there were no labor, love or sorrow in
           the world, only time & wonder, there, & music—
+          <br/>
+          <br/>
           <br/>
           <br/>
           <br/>
