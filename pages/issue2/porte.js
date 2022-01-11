@@ -2,7 +2,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import Link from 'next/link'
 import Header from '../../components/header.js'
-import RightBlackTitle from '../../components/rightBlackTitle.js'
+import LeftBlackTitle from '../../components/leftBlackTitle.js'
 import CenterGrayTitle from '../../components/centerGrayTitle.js'
 import StandardProse from '../../components/standardProse.js'
 import Footer from '../../components/footer.js'
@@ -34,7 +34,7 @@ export default function Porte() {
            className={styles.uppercaseBlack}>t</span>i<span
            className={styles.uppercaseBlack}>e</span>s_</span></h3></CenterGrayTitle>
            <br/><br/>
-           <RightBlackTitle><h3> ... rebecca ... <br/> ... ariel ... <br/> ... porte ... </h3></RightBlackTitle>
+           <LeftBlackTitle><h3> ... rebecca ... <br/> ... ariel ... <br/> ... porte ... </h3></LeftBlackTitle>
 
           <p className={styles.storyMarquee}>i.<span className={styles.storyMarqueeInner}>
           <br className={styles.spacer}/>Dry Owlmoy<br className={styles.spacer}/>(For Wolodymyr)
