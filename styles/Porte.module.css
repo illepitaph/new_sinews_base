@@ -1,23 +1,3 @@
-.storyMarquee {
-  font-family: lores-12-narrow, sans-serif;
-  font-size:1.8rem;
-  text-shadow:1px 1px black;
-  color:#b0b0b0;
-  text-align:center;
-  font-weight: 700;
-  letter-spacing:2px;
-  margin-bottom:8vh;
-}
-
-.storyMarqueeInner {
-  font-size:1.2rem;
-  text-transform: uppercase;
-}
-
-.spacer {
-  margin-top:5vh;
-}
-
 .blackShadow {
   color:black;
   text-shadow:4px 4px snow,
@@ -43,3 +23,43 @@
 .uppercaseBlack {
   text-transform:uppercase;
 }
+
+.storyMarquee {
+  font-family: lores-12-narrow, sans-serif;
+  font-size:1.8rem;
+  text-shadow:1px 1px black;
+  color:#b0b0b0;
+  text-align:center;
+  font-weight: 700;
+  letter-spacing:2px;
+  margin-bottom:8vh;
+}
+
+.storyMarqueeInner {
+  font-size:1.2rem;
+  text-transform: uppercase;
+}
+
+.spacer {
+  margin-top:5vh;
+}
+
+@media (max-width: 991.98px) {
+
+  .title {
+    font-size:2.2rem;
+  }
+}
+
+@media (max-width: 767.98px) {
+
+ .title {
+   font-size:1rem;
+ }
+
+ .blackShadowWider {
+   color:black;
+   letter-spacing:1.3rem;
+ }
+
+ }

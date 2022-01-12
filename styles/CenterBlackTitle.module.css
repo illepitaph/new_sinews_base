@@ -8,3 +8,12 @@
   line-height:1.4em;
   margin:7vh 0 7vh 0;
 }
+
+@media (max-width: 767.98px) {
+
+  .centerBlackTitle {
+    font-size:1.4rem;
+  }
+
+
+ }

@@ -22,7 +22,7 @@ export default function Porte() {
 
        <Header headerBackground="porteBackground"/>
 
-           <CenterGrayTitle><h3><span
+           <CenterGrayTitle><span className={styles.title}><h3><span
            className={styles.blackShadow}>_por<span className={styles.uppercaseBlack}>t</span>Rai<span
            className={styles.uppercaseBlack}>t</span>s_</span><br/><span
            className={styles.uppercaseGray}>of some</span><br/><span
@@ -32,7 +32,7 @@ export default function Porte() {
            className={styles.uppercaseGray}>as imaginary</span><br/><span
            className={styles.blackShadow}>_ci<span
            className={styles.uppercaseBlack}>t</span>i<span
-           className={styles.uppercaseBlack}>e</span>s_</span></h3></CenterGrayTitle>
+           className={styles.uppercaseBlack}>e</span>s_</span></h3></span></CenterGrayTitle>
            <br/><br/>
            <LeftBlackTitle><h3> ... rebecca ... <br/> ... ariel ... <br/> ... porte ... </h3></LeftBlackTitle>
 

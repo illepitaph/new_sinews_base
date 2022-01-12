@@ -208,6 +208,13 @@
   letter-spacing:1.5px;
 }
 
+@media (max-width: 991.98px) {
+
+  .siteNav {
+    margin:10% 6% 0 6%;
+  }
+}
+
 @media (max-width: 767.98px) {
 
   .iconPlusSitebar > a {
