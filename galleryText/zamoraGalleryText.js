@@ -1,7 +1,7 @@
 import CenterGrayTitle from '../components/centerGrayTitle.js'
 import CenterBlackTitle from '../components/centerBlackTitle.js'
 import GalleryLineation from '../components/galleryLineation.js'
-import styles from '../styles/TwoEyesInOne.module.css'
+import styles from '../styles/Zamora.module.css'
 
 
 export function ZamoraRawText1() {
@@ -25,7 +25,7 @@ export function ZamoraRawText1() {
   export function ZamoraRawText3() {
         return (
            <>
-       <GalleryLineation> <pre>{`
+       <GalleryLineation><pre>{`
                         what is still is not
                         contained. & the sallow
                         sees itself as limb, as broad-leaf

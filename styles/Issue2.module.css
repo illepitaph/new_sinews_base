@@ -132,3 +132,36 @@
   border: 1px dashed white;
   border-radius: 44px;
 }
+
+@media (max-width: 767.98px) {
+
+  .pageTitle {
+    font-size: 2rem;
+      text-shadow: 4px 2px snow;
+    margin-left:1px;
+    margin: 5% 0 0 4%;
+  }
+
+  .inverseTitleColor {
+    text-shadow: 4px 2px #6b6b6b;
+  }
+
+  .issue {
+    font-size:1.5rem;
+    text-shadow: 4px 2px snow;
+    margin:1vh 0 0 6vw;
+  }
+
+  .col2 {
+    margin-left:5px;
+  }
+
+  .workLink {
+    text-shadow: 4px 2px #6b6b6b;
+    position: relative;
+    color: white;
+    font-size: 1.2em;
+    letter-spacing:0.1rem;
+  }
+
+ }
