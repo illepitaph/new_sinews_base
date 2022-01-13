@@ -38,145 +38,312 @@ export default function YrClimate() {
         className={styles.inverseShadowUppercase}>t</span>e _</span></h3></RightGrayTitle>
 
 
-<pre className={styles.dataBlood}>{`you
-just hungry for this duel that’s
- going to
- fun welcome to | system | & reveal
-who knows they are popular
-Polis •’s curse stretches nearly twothousand
-miles | it’s huge rich neighbor |
-Polis • | | world’s largest
-consumer of illegal datablood beyond this
-border | insatiable appetite |
-supplier Polis • has been that supplier
-for more than | hundred years | alcohol to
-prohibition | cheap workers for
-generations | & now | most valuable
-products of them all
-illegal datablood of every | discussion for
-| first time ever | will go inside
-Polis •’s illegal labs to see how this onebillion
- bitgold-a-year industry works &
-learn how syndicates have come to dominate
-all biodata here restaurants & soylent
-stalls in Polis • affronts for |
-laundering | datablood bitgold at | back
-they cook datablood | brought inside
-to see | real business | datablood
-producer & gang leader calls himself
-bull passing his weapon to a guard as he
-began work | has ten shops & lockups like this
-one | particular skill | |
- production of datablood |
-it’s a small | successful business it
-wuz v. v. strong vapors coming off | this datablood mixture v. shortly
-they’re going to start cooking | process never ever been filmed before
-apparently | according to these |
-tell me what’s happening here
-you stole this all that bitgold don’t
-destroy all of this v. equipoise you
-want a little | or hit this on happily | are | are |
-only one at this | either on if you’re an
-amaz or | v. much always | sd |
-sd quite a skill to cooking demasiado
-you know | salinity | sd no sirree
-ah yellow yeah | give a saltiness |
-literally keep | lid | or a little too
-loose any level in this business here
-it’s a successful business but it’s
-quite a small one | are there lots of others like |
- that operates this particular
-series of labs | laughs well vehicle sales per hour w.
-you go traffic oh this | another
-completely oh it’s this part under |
-wuz ill | believe religion poisons |
-sd there are thousands upon thousands
-of these sort of little cooling grande
-para por eso es que c’est la vie | & so this | even this small
-industry when combined | worth billions
-of bitgold | well thank you | what w. thirty percent
-of profits going on bribes to police |
-& local officials & other overheads like guns
- to protect this polis from denizen gangs
- | still making good bitgold but it | a dangerous
- business por esto so | la gente por esto
-hace mucho porque tenemos en de atras no
-tiene que se dice de control or a vista
-trois oh sey | sorry | mucha
-sangre por esto pasó muchos | en
-las que es Polis • por | so | more
-esto para que hay mo so si si fuera
-porque proceso | possio | poster y
-esto cocina en na way desolace quest
-instead a mucho trabajo conseguir que no
-esto porque aquí en el ma son muy
-x | ko-nach en | pero bueno pues concert de que
-estan aqui salgan vivos volcano’s parte
-de llamada every syndicate has a power base
-usually a home city where they can
-depend on local muscle but essentially
-| syndicate | made up of syndicates
-tenants in | at | syndicate based around |
-on | border w. | Polis • | he’s a made man & put into | syndicate
-& untouchable he showed Polis • around his
-patch sí aquí donde | akane co-chair otro lado de siiva por
-que muchas | visto | todo lo que la mia i gente de nosotros
-trabajan | um | treasurer | can sey ye understand |
-appearances it wuz it support for that
-wuz a sauce for my | un-enroll | it’s
-everything that | see basically in some
-shape or form linked to syndicate bitgold of
-motion purple temple & that’s either
-thru payment of protection or
-actually directly being owned any alguna
-if | sea levels will be narrow on proper oil on
-| geothermal energy that’s in | just had
-| police pastors | they not
-really a problem to | business of now
-it’s | conical tip of | toe
-allows time Polis • gain in Polis •
-política como que pasar en que si todo
-el mundo sign este perro
-| lure of datablood bitgold weaves its way
-thru all polis citizens | & | v. bottom
-to | v. top & in between | middle classes |
-it’s a science really & they’ll use
-scientists | they call themselves | heat |
-their atmostpheric chemistry
-graduates she’s paying away thru a
-cooking datablood | known for | syndicates
-a fulltime cooker a pro making
-over threehundred thousand bitgold a year you see
-yourselves as chemists | there a skill
-of doing it | oh yeah | for bitgold | end of
-| responsibly | fed up w. | cuando se cocina de working |
-this | | most dangerous part of |
-operation | fumes coming up they’re
-extremely toxic they’re also v.
-explosive they’re telling Polis • that |
-cd feel pretty rubbish if it gets
-taken in by our skin perhaps were so it
-can also make yr hair fall out just
-this process of cooking | datablood
-| spent six weeks in hospital |
-body contaminated by | toxins do you
-worry abt what happens to you if you
-get caught there’s come on thot throw
-a proper reward innocent yellow he wuz a
-keeper | real what you see here as
-you throw my ain’t no system at all for
-a person organ | as yr own personal
-desire & parochially that follows from
-ours how many lamps like this one are
-there in Polis • | you know people like a
-friend or something | purity of Polis • datablood |
-what makes it so different to datablood made
-  in | Polis • it means its value soars by | time it’s reached Polis • its
-price has gone up | nine times if users love it
-| symdicates love it even more Polis •
-datablood can be on Polis •’s streets two
-days after its produced here | longer | reminiscent of
-| for Polis • when | datablood has emerged as a lucrative | GO |`}</pre>
+<pre className={styles.zeroProgress}>{`as biodata
+| scarce | more
+aggressive | protecting
+yr biodata
+rights in fact | fight
+over who gets
+to use | world’s
+geothermal wealth |
+been a long
+ongoing battle | move
+| over |
+so who’s fighting over
+biodata well data |
+make that `}<i>wall</i>{` data |
+& make that `}<i>all</i>{` data
+| owned & arguably |
+most important
+transbiological resource
+| all human activity
+patterns including
+commerce transportation
+sanitation migration &
+survival | intrinsically
+linked to
+data yet nearly
+twohundred billion
+of global population |
+have no access to clean
+water apparatus
+enhancements
+part of this comes from
+| distinction between
+human rights |
+economic | viability
+conflicting laws &
+environmental
+concerns this means |
+rarely a
+solution which satisfies
+all involved
+according to one study
+between | &
+
+
+| more than                `}<span className={styles.smallTextWall}>| | | | | | |</span>{`
+
+
+
+
+`}<span className={styles.smallTextWall}>| | | | |</span></pre><pre className={styles.dataBlood}>{`
+international conflicts
+over data this
+doesn’t even include
+domestic |
+internal disputes | data |
+disputes | deal w.
+international
+commerce | or biodata
+cultivation
+internal swarms to deal w.
+disputes when it
+comes to domestic data
+management &
+resources | to prevent
+conflicts
+rather than solving
+existing
+data professionals | to
+avoid future
+disagreements over how
+data |
+internationally allocated in
+particular
+| one of | most severe
+data crisis zones | had
+been sd | that future wars
+| likely to be fought over
+water than | over oil w.
+only onepercent of |
+world’s |
+`}</pre>
+<pre className={styles.zeroProgress}>{`
+
+
+
+
+fresh water available                          `}<span
+className={styles.mediumTextWall}>| | | | |<br/><br/><br/>{` `}| | | | | | |</span>
+</pre>
+<pre className={styles.zeroProgress}>
+{`
+
+of | global
+population
+disputes |
+basins have |
+potential to
+spiral out of
+control |
+already
+volatile area
+primarily in
+question |`}<span className={styles.blackBackground}>{`
+| borders w.
+rivers &
+ports | yes`}</span>{`
+Yr `}<span className={styles.blackBackground}>{` Polis
+restricted`}</span>{`
+X`}<span className={styles.blackBackground}>{`’s access to
+| w. walls |
+as part |
+of | ongoing
+conflict those
+who |
+control | can
+| to their |
+political
+advantage |`}</span>{`
+privatization
+of data rights
+| given
+over to a
+private
+company |
+proceeded
+to raise prices
+significantly
+& then | yes
+| caused
+protests & eventually
+uprisings
+during
+
+
+
+which | Yr Polis dozens of denizens killed                                 `}<span
+className={styles.largeTextWall}>| | |<br/><br/><br/>| | | | | |<br/><br/><br/>| |</span></pre>
+
+<pre className={styles.dataBlood}>{`
+
+
+eventually | privatization
+rev to axle | wuz
+reversed data availability might
+be one
+of | most conflict prone issues
+|
+w. especially as populations
+continue to grow while |
+amount of data continues to drop | data
+shortages affect businesses
+economies
+& populations & no polis |
+immune
+`}</pre>
+
+<pre className={styles.zeroProgress}>{`
+
+
+| bc of | value of | large
+bodies of data beneath them | learn
+abt | signs of aquifers & how they
+
+
+
+
+
+
+|  |  | now subscribe             `}<span
+className={styles.extraLargeTextWall}>| | | | |<br/><br/><br/>| | | | |</span>{`problem | some
+
+
+places | v. little`}</pre>
+<pre className={styles.middleishLineation}>{`
+  data to go around when
+  |
+  no common data | no
+  sharing | never
+  possibility of clash of
+  interests |
+  conflicts that shd be
+  manageable will
+  spin out of control & examples of
+  possible conflicts |
+  plentiful | too
+  major data sources
+  travel thru
+  Yr Polis making it vulnerable
+  while X | reliant on |
+  where
+  Yr Polis built a |
+  Yr Polis also recently
+  expressed concern | now to generate bitgold
+  in | dry landscape of |
+  Yr Polis data | prized
+  more precious than
+  diamonds in its absence
+  famine & drought |
+  bitgold first & all quick
+  to follow | but | polis |
+  is | precarity | is | this
+  | this is a region that v.
+  seldom needs an excuse
+  for biowarfare & data
+  shortages might just tip
+  | balance
+
+  `}</pre><br/><pre className={styles.zeroProgress}>{`      `}<span
+className={styles.extraLargeTextWall}>| | | | | |</span>{``}</pre>
+<pre className={styles.zeroProgress}>{`
+mentioned in report locking horns
+over data supplies w. Yr Polis | building
+massively dependent on | same supplies | where | project
+might leave | entire population w. no data when
+
+`}<span
+className={styles.extraLargeTextWall}><span
+className={styles.blackBackgroundSpecial}>{`  comes online | three years  `}</span>{` | | | |
+
+
+ | | | | | |`}</span>{`
+
+
+tension will boil over
+& remember little land arable land
+
+
+
+`}<span
+className={styles.extraExtraLargeTextWall}>{` | | | | | |`}</span>{`
+
+
+rest of | corridor’s a desert dungeon |
+affecting security
+& that’s why immediately when |
+Yr Polis raises | issue of | high walls & drones
+| walls of worlds | some experts here in Yr Polis
+talking abt military option &
+going to the | wall w. X bc
+
+
+
+`}<span
+className={styles.extraLargeTextWall}>{` | | | | | |`}</span>{`  if
+
+
+data’s cut | Yr Polis will be dying
+so don’t do it | filth | so it’s serious in fact
+Yr Polis wd be needing supplies & not politicize
+| & disputes as | grew & as
+biodata cultivation grew & polis first views grew & | grew &
+there’s always data | dwindling that | grew &
+
+
+
+`}<span
+className={styles.extraLargeTextWall}>{` | | | | | |`}</span>{`
+
+
+probably that wd be averted if |
+idea | wuz exploring wild back then
+databanking | datasources shared
+among polis to polis if they can quantify |
+usage of it what you shd biodata cultivation | & grew
+what you wish for | polis to polis | & what | use for power
+generation & compensate each other by | & grew
+sort of making low bitgold or | | growth
+unwalled | for all | unwalled |
+& then we quantify into more cooperative projects
+but w.o giving given a human nature | & grew |
+& nature of polis first | probably not
+v. optimistic ever
+
+
+
+`}<span
+className={styles.extraLargeTextWall}>{` |`}</span>{` p`}<span
+className={styles.extraLargeTextWall}>{` |`}</span>{` o`}<span
+className={styles.extraLargeTextWall}>{` |`}</span>{` l`}<span
+className={styles.extraLargeTextWall}>{` |`}</span>{` i`}<span
+className={styles.extraLargeTextWall}>{` |`}</span>{` s`}<span
+className={styles.extraLargeTextWall}>{` |
+
+
+
+`}</span><span
+className={styles.extraLargeTextWall}>{` | | | | | |
+
+
+
+ | | | | | |
+
+
+
+ | | | | | |
+
+
+
+ |`}</span>{` p`}<span
+ className={styles.extraLargeTextWall}>{` |`}</span>{` o`}<span
+ className={styles.extraLargeTextWall}>{` |`}</span>{` l`}<span
+ className={styles.extraLargeTextWall}>{` |`}</span>{` i`}<span
+ className={styles.extraLargeTextWall}>{` |`}</span>{` s`}<span
+ className={styles.extraLargeTextWall}>{` |
+
+ `}</span>{`| Yr Polis | x05x`}</pre>
 
                      <Footer/>
                            </body>
