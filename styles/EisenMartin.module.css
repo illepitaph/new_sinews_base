@@ -54,3 +54,10 @@
 .compositionTitle:nth-of-type(2) {
   margin-top:7%;
 }
+
+@media (max-width: 991.98px) {
+.leftJustified, .standardLineation, .rightJustified, .centerJustified, .polyphony {
+  font-size:1rem;
+}
+
+}
