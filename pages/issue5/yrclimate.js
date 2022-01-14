@@ -343,7 +343,7 @@ className={styles.extraLargeTextWall}>{` | | | | | |
  className={styles.extraLargeTextWall}>{` |`}</span>{` s`}<span
  className={styles.extraLargeTextWall}>{` |
 
- `}</span>{`| Yr Polis | x05x`}</pre>
+ `}</span>{`| Yr `}<s> Polis | x05x </s></pre>
 
                      <Footer/>
                            </body>

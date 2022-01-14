@@ -120,3 +120,44 @@
   border: 1px dashed white;
   border-radius: 44px;
 }
+
+@media (max-width: 767.98px) {
+
+  .pageTitle {
+    font-size: 2.5rem;
+  }
+
+  .issue {
+    font-size:1.8rem;
+  }
+
+  .col2 {
+    margin-left:5px;
+  }
+
+  .workLink {
+    text-shadow: 4px 2px #6b6b6b;
+    position: relative;
+    color: white;
+    font-size: 1.4em;
+    letter-spacing:0.1rem;
+    margin-top:2vh;
+  }
+
+   .workLink:last-child {
+     margin-top:5vh;
+   }
+
+  .siteShortcuts {
+    margin-top:8vh;
+  }
+
+  .siteShortcuts > .linkButton {
+    display:flex;
+    flex-flow:row wrap;
+    padding: 1.5vh 1.3vw;
+    margin:2vh 0 0 2vw;
+  }
+
+
+ }
