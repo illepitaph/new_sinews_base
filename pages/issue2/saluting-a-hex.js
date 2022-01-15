@@ -22,7 +22,7 @@ export default function SalutingAHex() {
 
        <Header/>
 
-       <CenterGrayTitle><h3>saluting <br/>a hex of gangrenous<br/> sky</h3></CenterGrayTitle>
+       <CenterGrayTitle><span className={styles.title}><h3>saluting <br/>a hex of gangrenous<br/> sky</h3></span></CenterGrayTitle>
        <CenterBlackTitle><h3>or: Brandon Shimdoa's ritual inversions</h3></CenterBlackTitle>
 
        <p className={styles.authorItalic}>—Steve Barbaro</p>
@@ -84,7 +84,7 @@ export default function SalutingAHex() {
        Shimoda’s unusually hyper-un-myopic sense of scale, such scale is a constant in his oeuvre.
        <br/>
        <br/>
-       <p className={styles.standardProseSectionBreak}>{` —  —  —  —  —  — `}</p>
+       <p className={styles.standardProseSectionBreak}>{` —  —  —  —  — `}</p>
        <br/>
        <br/>
        The space of Shimoda’s 2011 poetry collection <cite> O Bon </cite> (Litmus Press) is a
@@ -137,7 +137,7 @@ export default function SalutingAHex() {
        The Wall</cite> ’s very framework—into oblivious corpuses of liquid.
        <br/>
        <br/>
-       <p className={styles.standardProseSectionBreak}>{` —  —  —  —  —  — `}</p>
+       <p className={styles.standardProseSectionBreak}>{` —  —  —  —  — `}</p>
        <br/>
        <br/>
        As intrinsically remote from would-be encapsulating scrutiny as canonical modern memorials
@@ -164,7 +164,7 @@ export default function SalutingAHex() {
        sonically singular for being operatively suspicious of self-limiting singularity.
        <br/>
        <br/>
-       <p className={styles.standardProseSectionBreak}>{` —  —  —  —  —  — `}</p>
+       <p className={styles.standardProseSectionBreak}>{`—  —  —  —  — `}</p>
        <br/>
        <br/>
        Then in time there is a refrain-like recourse to a landscape of illuminating extremity. At
