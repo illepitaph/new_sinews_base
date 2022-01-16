@@ -159,3 +159,74 @@
   border: 1px dashed white;
   border-radius: 44px;
 }
+
+@media (max-width: 991.98px) {
+
+  .titleAndSubtitle {
+    top:13%;
+    left:4%;
+    font-size: 3.2rem;
+}
+
+.subtitle {
+  font-size:1.9rem;
+  letter-spacing:1rem;
+}
+
+.backgroundBox {
+  width:16.2vw;
+  height:21rem;
+}
+
+.backgroundBox:nth-child(odd) {
+  background-position:20% 65%;
+}
+
+.siteShortcuts {
+  top:78%;
+}
+
+  }
+
+@media (max-width: 767.98px) {
+
+  .titleAndSubtitle {
+    top:23%;
+    left:3%;
+    font-size: 1.5rem;
+}
+
+.subtitle {
+  font-size:1.1rem;
+  letter-spacing:0.5rem;
+}
+
+.workLink {
+  font-size: 0.9rem;
+  font-weight:500;
+  letter-spacing:0;
+}
+
+.workColumn {
+  margin-bottom:1vh;
+}
+
+.backgroundBox {
+  width:16.2vw;
+  height:17rem;
+}
+
+.backgroundBox:nth-child(odd) {
+  background-position:20% 55%;
+}
+
+.siteShortcuts > .linkButton {
+  padding: 1.1vh 0.6vw;
+  font-size: 0.5rem;
+  font-weight:700;
+  border-radius: 44px;
+  box-shadow:2px 2px dimgray;
+  cursor: pointer;
+}
+
+ }
