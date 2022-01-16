@@ -160,6 +160,14 @@
   border-radius: 44px;
 }
 
+@media (max-width: 1500px) and (orientation:landscape) {
+
+  .backgroundBox {
+    height:14rem;
+  }
+
+  }
+
 @media (max-width: 991.98px) {
 
   .titleAndSubtitle {
@@ -221,7 +229,7 @@
 }
 
 .siteShortcuts > .linkButton {
-  padding: 1.1vh 0.6vw;
+  padding: 1.1vh 0.5vw;
   font-size: 0.5rem;
   font-weight:700;
   border-radius: 44px;
@@ -229,4 +237,31 @@
   cursor: pointer;
 }
 
+.siteShortcuts > .linkButton:not(:first-child) {
+  margin-left:3px;
+}
+
  }
+
+ @media (max-width: 997.98px) and (orientation: landscape) {
+
+   .pageStructure {
+     height:100%;
+   }
+
+   .workColumn {
+     margin-bottom:1.4vh;
+   }
+
+   .workLink {
+     font-size: 0.8rem;
+     letter-spacing:0;
+   }
+
+}
+
+@media(max-width: 320px){
+  .workLink {
+    font-size: 0.5rem;
+  }
+}
