@@ -151,6 +151,13 @@
   }
 }
 
+@media (max-width: 1100px) and (orientation:landscape) {
+
+  .issueContents {
+    margin:1rem 0 0 23vw;
+  }
+}
+
 @media (max-width: 767.98px) {
 
   .titleAndSubtitle {
@@ -196,3 +203,29 @@
   }
 
  }
+
+ @media (max-width: 997.98px) and (orientation: landscape) {
+
+   .pageTitle {
+     font-size: 1.7rem;
+   }
+
+   .issueTitle {
+     font-size: 1.7rem;
+   }
+
+   .issueContents {
+     margin:1rem 0 0 40vw;
+   }
+
+   .workColumn {
+     margin-bottom:1vh;
+   }
+
+   .workLink {
+     font-size: 0.6rem;
+     letter-spacing:0.2rem;
+     font-weight:500;
+   }
+
+}
