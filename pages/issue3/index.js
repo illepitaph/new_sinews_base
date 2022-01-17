@@ -58,7 +58,7 @@ export default function Issue3() {
               <button className={styles.linkButton}><a
               className={styles.innerSiteLinkTag} href="https://newnewsinews.com/about">about</a></button>
               <button className={styles.linkButton}>
-                <a className={styles.twitterLinkTag} href="https://twitter.com/new_sinews">[Bird App]</a>
+                <a className={styles.twitterLinkTag} href="https://twitter.com/new_sinews">tweeter</a>
               </button>
               </div>
           </div>

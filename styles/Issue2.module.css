@@ -164,4 +164,98 @@
     letter-spacing:0.1rem;
   }
 
+  .siteShortcuts {
+    margin-top: 2vh;
+  }
+
+  .siteShortcuts > .linkButton {
+    border:1px solid white;
+  }
+
+ }
+
+ @media (max-width: 1000px) and (orientation:landscape){
+
+   .pageTitle {
+     font-size:3rem;
+     margin: 1% 0 0 4%;
+   }
+
+   .issue {
+     font-size: 1rem;
+   }
+
+   .issueContents {
+     margin-top:1vh;
+   }
+
+   .workLink {
+     font-size: 1.1rem;
+     letter-spacing:0.1rem;
+   }
+
+   .siteShortcuts {
+     margin-top: 2vh;
+   }
+
+ }
+
+ @media (max-height: 780px) and (orientation:portrait){
+
+   .workLink {
+     font-size: 1rem;
+     letter-spacing:0.1rem;
+   }
+
+   .siteShortcuts {
+     margin-top: 4vh;
+   }
+
+   .siteShortcuts > .linkButton {
+     padding: 0.9vh 0.8vw;
+     font-size: 0.6rem;
+     margin-right:4vw;
+     border:1px solid white;
+   }
+
+ }
+
+ @media (max-height: 620px) {
+
+   .workLink {
+     font-size: 1.2rem;
+   }
+
+ }
+
+ @media (max-height: 400px) and (orientation:landscape){
+
+   .workLink {
+     font-size: 0.8rem;
+   }
+
+ }
+
+ @media(max-width: 320px){
+   .workLink {
+     font-size: 0.8rem;
+   }
+ }
+
+ @media(max-height: 320px) and (orientation:landscape){
+   .workLink {
+     font-size: 0.7rem;
+   }
+
+   .siteShortcuts {
+     margin-top: 1vh;
+   }
+
+   .siteShortcuts > .linkButton {
+     padding: 0.6vh 0.5vw;
+     font-size: 0.6rem;
+     margin-right:4vw;
+     border:1px solid white;
+   }
+
  }
