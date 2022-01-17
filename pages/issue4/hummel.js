@@ -25,12 +25,14 @@ export default function Hummel() {
        <br/>
        <br/>
 
-       <CenterBlackTitle>the fires are back // i look at sauce // untitled // <br/>comfort like the</CenterBlackTitle>
+       <CenterBlackTitle><span
+       className={styles.title}>the fires are back // i look at sauce // untitled // <br/>comfort like the</span></CenterBlackTitle>
 
        <br/>
        <br/>
 
-       <CenterGrayTitle><h3 className={styles.title}><span
+       <CenterGrayTitle><span
+       className={styles.name}><h3 className={styles.name}><span
        className={styles.inverseShadow}>... </span> a <span
        className={styles.inverseShadow}>l </span><span
        className={styles.titleShadow}>l </span><span
@@ -38,7 +40,7 @@ export default function Hummel() {
        className={styles.inverseShadow}>o </span>n <br/><span className={styles.titleShadow}> h <span
        className={styles.inverseShadow}>u </span>m </span>m <span
        className={styles.inverseShadow}>e </span><span
-       className={styles.titleShadow}>l </span>...</h3></CenterGrayTitle>
+       className={styles.titleShadow}>l </span>...</h3></span></CenterGrayTitle>
 
        <br/>
 
