@@ -10,15 +10,11 @@ import Footer from '../../components/footer.js'
 export default function Blackwell() {
   return (
       <>
-          <Head>
-            <title>gabriel_blackwell ~ two_stories — new_sinews</title>
-            <link rel="icon" href="../public/images/favicon.ico" />
-            <link rel="stylesheet" href="https://use.typekit.net/xhi6gvp.css"/>
-          </Head>
 
+       <title>gabriel_blackwell ~ two_stories — new_sinews</title>
        <Header headerBackground="blackwellBackground"/>
 
-       <RightBlackTitle><h3> ... gabriel ... </h3><h3> ... blackwell ... </h3></RightBlackTitle>
+       <RightBlackTitle><h3> ... gabriel ...<br/>... blackwell ... </h3></RightBlackTitle>
        <LeftGrayTitle><h3>s<br/>c<br/><span
        style={{textTransform:"uppercase", marginLeft:"2vw", color:"black"}}>e</span><br/><span
        style={{textTransform:"uppercase"}}>n</span><br/>e<br/><span
