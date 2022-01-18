@@ -240,3 +240,18 @@
   }
 
  }
+
+ @media (max-height: 400px) and (orientation:landscape){
+
+   .siteNav {
+     justify-content:flex-start;
+     margin:1vh 6vw 0 0 ;
+   }
+
+   .siteNav > button {
+     padding:2px 9px;
+   }
+
+
+
+ }
