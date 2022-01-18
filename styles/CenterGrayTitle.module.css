@@ -9,3 +9,11 @@
   text-transform:lowercase;
   margin: 14vh 0 14vh 0;
 }
+
+@media (max-width: 320px) {
+
+  .centerGrayTitle {
+    font-size:2rem;
+  }
+
+ }
