@@ -161,3 +161,92 @@
 
 
  }
+
+
+ @media (max-width: 1000.98px) and (orientation:landscape) {
+
+   .pageTitle {
+     font-size: 4.1rem;
+     text-transform: lowercase;
+     margin:1% 0 0 4%;
+   }
+
+  }
+
+  @media (max-width: 800px) and (orientation:landscape) {
+
+    .pageTitle {
+      font-size: 2.5rem;
+    }
+
+    .issue {
+      font-size: 1.8rem;
+    }
+
+    .workLink {
+      font-size: 0.9rem;
+      margin-top:2vh;
+    }
+
+
+   }
+
+   @media (max-height: 900px) and (orientation:portrait) {
+
+     .issueContents {
+       margin: 2% 0 0 0;
+     }
+
+
+    }
+
+  @media (max-width: 380px) {
+
+    .issueContents {
+      margin: 2% 0 0 1%;
+    }
+
+    .workLink {
+      font-size: 1.2rem;
+      margin-top:2vh;
+    }
+
+    .siteShortcuts {
+      margin-top:1vh;
+    }
+
+   }
+
+
+   @media(max-width: 320px){
+
+     .pageTitle {
+       font-size: 2rem;
+     }
+
+     .issue {
+       font-size: 1.5rem;
+     }
+
+     .workLink {
+       font-size: 0.8rem;
+     }
+   }
+
+   @media(max-height: 320px) and (orientation:landscape){
+     .workLink {
+       font-size: 0.7rem;
+     }
+
+     .siteShortcuts {
+       margin-top: 1vh;
+     }
+
+     .siteShortcuts > .linkButton {
+       padding: 0.6vh 0.5vw;
+       font-size: 0.6rem;
+       margin-right:4vw;
+       border:1px solid white;
+     }
+
+   }
