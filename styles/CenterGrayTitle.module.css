@@ -10,6 +10,15 @@
   margin: 14vh 0 14vh 0;
 }
 
+
+@media (max-width: 420px) {
+
+  .centerGrayTitle {
+    font-size:2rem;
+  }
+
+ }
+
 @media (max-width: 320px) {
 
   .centerGrayTitle {

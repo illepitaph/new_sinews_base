@@ -9,3 +9,19 @@
   text-transform:lowercase;
   margin: 14vh 7vw 14vh 0;
 }
+
+@media (max-width: 420px) {
+
+  .rightGrayTitle {
+    font-size:2rem;
+  }
+
+ }
+
+@media (max-width: 320px) {
+
+  .rightGrayTitle {
+    font-size:2rem;
+  }
+
+ }

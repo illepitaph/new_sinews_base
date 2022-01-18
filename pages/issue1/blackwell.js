@@ -10,8 +10,6 @@ import Footer from '../../components/footer.js'
 export default function Blackwell() {
   return (
       <>
-
-       <title>gabriel_blackwell ~ two_stories — new_sinews</title>
        <Header headerBackground="blackwellBackground"/>
 
        <RightBlackTitle><h3> ... gabriel ...<br/>... blackwell ... </h3></RightBlackTitle>
