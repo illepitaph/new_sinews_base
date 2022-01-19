@@ -12,7 +12,7 @@
   justify-content:space-between;
 }
 
-.iconPlusSitebar > a {
+.iconPlusSitebar > div {
   background-image:url("../public/images/NewSinewsIcon.jpg");
   background-repeat:no-repeat;
   background-position:center;
@@ -138,7 +138,7 @@
     background-position:center;
   }
 
-  .iconPlusSitebar > a {
+  .iconPlusSitebar > div {
     width:35vw;
     height:35vh;
     margin-top:9vh;
@@ -169,7 +169,7 @@
 
 @media (max-width: 928px) and (orientation:landscape) {
 
-  .iconPlusSitebar > a {
+  .iconPlusSitebar > div {
     width:25vw;
     height:45vh;
     margin-top:8vh;
@@ -198,13 +198,14 @@
 }
 
 
+
 @media (max-width: 767.98px) {
 
   .top {
     background-position:center;
   }
 
-  .iconPlusSitebar > a {
+  .iconPlusSitebar > div {
     width:35vw;
     height:35vh;
     margin-top:9vh;
@@ -233,6 +234,15 @@
 
  }
 
+ @media (max-width: 741px) and (orientation:landscape) {
+
+   .darkTypeface {
+     font-size:1.5rem;
+   }
+
+
+ }
+
  @media (max-width: 688px) {
 
    .darkTypeface {
@@ -240,6 +250,14 @@
    }
 
   }
+
+  @media (max-width: 654px) and (orientation:landscape) {
+
+    .darkTypeface {
+      font-size:1.5rem;
+    }
+
+   }
 
  @media (max-width: 290px) and (orientation:portrait) {
 

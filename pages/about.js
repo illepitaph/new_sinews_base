@@ -18,7 +18,7 @@ export default function About() {
     <body>
   <section className={styles.top}>
     <div className={styles.iconPlusSitebar}>
-    <Link href="/"><a href=""></a></Link>
+    <Link href="/"><div></div></Link>
     <nav className={styles.siteNav}>
       <button>issue_4</button>
       <button>issue_3</button>
