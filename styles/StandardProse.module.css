@@ -10,14 +10,6 @@
   line-height:1.4em;
 }
 
-@media (min-width:1020px) and (max-width: 1282px) and (orientation:landscape){
-
-  .standardProse {
-    max-width:90vw;
-    font-size:1.8rem;
-  }
-}
-
 @media (max-width: 991.98px) {
 
   .standardProse {

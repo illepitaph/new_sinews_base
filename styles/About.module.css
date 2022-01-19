@@ -118,33 +118,18 @@
 
 .jpegBox2 > img:nth-of-type(even) {
   border:2px solid #404040;
-}
 
 
-.socialLinkFooter {
-  height:18vh;
-  display:grid;
-  place-items:center;
-  font-size:1.7rem;
 
 }
 
-.socialLinkFooter > a {
-  color:#b0b0b0;
-  opacity: 1;
-  font-family:"lores-9-plus-wide";
-  text-decoration:none;
-  letter-spacing:0.06em;
-  text-transform:lowercase;
-}
+@media (max-width: 1081px) and (orientation:landscape){
 
-.socialLinkFooter > a:hover {
-  cursor:pointer;
-  text-shadow:3px 3px black;
-}
+  .middle {
+    width:85vw;
+  }
 
-.socialLinkTag:visited {
-  text-decoration:none;
+
 }
 
 @media (max-width: 991.98px) {
@@ -182,6 +167,36 @@
 
 }
 
+@media (max-width: 928px) and (orientation:landscape) {
+
+  .iconPlusSitebar > a {
+    width:25vw;
+    height:45vh;
+    margin-top:8vh;
+    margin-left:2vw;
+    opacity:0.9;
+  }
+
+  .middle {
+    width:85vw;
+  }
+
+  .siteNav > button {
+    padding:3px 9px;
+  }
+
+
+}
+
+@media (max-width: 855px) and (orientation:landscape) {
+
+  .middle {
+    width:99vw;
+  }
+
+
+}
+
 
 @media (max-width: 767.98px) {
 
@@ -202,11 +217,11 @@
     display:inline-flex;
     flex-flow:column wrap;
     justify-content:flex-end;
-    margin:6vh 12vw 0 0 ;
+    margin:3vh 12vw 0 0 ;
   }
 
   .siteNav > button {
-    padding:5.5px 7px;
+    padding:3.5px 7px;
     margin-bottom:5vh;
     cursor:pointer;
     opacity:0.8;
@@ -217,6 +232,14 @@
   }
 
  }
+
+ @media (max-width: 688px) {
+
+   .darkTypeface {
+     font-size:1.6rem;
+   }
+
+  }
 
  @media (max-width: 290px) and (orientation:portrait) {
 
