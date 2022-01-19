@@ -172,7 +172,6 @@
   .siteNav > button {
     padding:12px 19px;
     margin-bottom:5vh;
-    cursor:pointer;
     opacity:0.8;
   }
 
@@ -182,6 +181,7 @@
 
 
 }
+
 
 @media (max-width: 767.98px) {
 
@@ -217,3 +217,11 @@
   }
 
  }
+
+ @media (max-width: 290px) and (orientation:portrait) {
+
+   .middle {
+     font-size:1rem;
+   }
+
+  }

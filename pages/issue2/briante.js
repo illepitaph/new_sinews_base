@@ -21,7 +21,7 @@ export default function Briante() {
 
        <Header headerBackground="brianteBackground"/>
 
-       <RightBlackTitle><h3> ... susan ... briante ... </h3></RightBlackTitle>
+       <RightBlackTitle><h3> ... susan ... <br/> ... briante ... </h3></RightBlackTitle>
        <LeftGrayTitle><h3>m <span
        style={{color:"black", opacity:"0.5",textTransform:"uppercase"}}>a</span> y <br/><span
        style={{textTransform:"uppercase", marginLeft:"1vw"}}>d</span> <span

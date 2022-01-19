@@ -34,6 +34,29 @@
   line-height:1.4em;
 }
 
+@media (min-width:1020px) and (max-width: 1080px) and (orientation:landscape){
+
+  .lineation {
+    max-width:90vw;
+    font-size:1.5rem;
+  }
+}
+
+@media (min-width:1081px) and (max-width: 1282px) and (orientation:landscape){
+
+  .lineation {
+    max-width:90vw;
+    font-size:1.8rem;
+  }
+}
+
+@media (max-width: 991.98px) {
+
+  .standardProse {
+    max-width:90vw;
+  }
+}
+
 @media (max-width: 767.98px) {
 
 .title {
@@ -47,3 +70,18 @@
   }
 
  }
+
+
+ @media (max-width: 290px) {
+
+ .title {
+     font-size:1.5rem;
+   }
+
+   .lineation {
+     margin-left: 1vw;
+     font-size:0.7rem;
+     white-space: pre-wrap;
+   }
+
+  }
