@@ -20,7 +20,7 @@ export default function Blackwell() {
        style={{textTransform:"uppercase"}}>n</span><br/>e<br/><span
        style={{textTransform:"uppercase", marginLeft:"1vw", color:"black"}}>r</span><br/>y</LeftGrayTitle>
        <StandardProse> Kierkegaard attributes a memory to Johannes Climacus
-       (in the introduction to the book of the same name) that could well have
+      (in the introduction to the book of the same name) that could well have
        been his own: as a boy, Johannes asked his father to please allow him to go
        out for a walk in the city—he was kept at home and not allowed out—and
        was refused. This happened again and again, the boy kept at home no matter
@@ -96,7 +96,7 @@ export default function Blackwell() {
        </StandardProse>
 
        <br/><br/><br/><br/><br/><br/><br/><br/>
-       
+
     <Footer/>
       </>
   )
