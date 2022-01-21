@@ -18,7 +18,7 @@ export default function Romanosky() {
 
           <Header headerBackground="romanoskyBackground"/>
 
-          <LeftGrayTitle><h3>_ <span className={styles.titleShadow}>c<span
+          <LeftGrayTitle>_ <span className={styles.titleShadow}>c<span
           className={styles.inverseShadow}>h </span><span
           className={styles.titleShadowUppercase}>r</span><span
           className={styles.inverseShadow}>i</span>s<span
@@ -26,7 +26,7 @@ export default function Romanosky() {
           className={styles.titleShadowUppercase}>o</span>m<span
           className={styles.inverseShadowUppercase}>a</span>n<span
           className={styles.inverseShadow}>  o</span>s<span
-          className={styles.inverseShadowUppercase}>k </span>y _</span></h3></LeftGrayTitle>
+          className={styles.inverseShadowUppercase}>k </span>y _</span></LeftGrayTitle>
           <body>
           <br/>
           <StandardMiniTitle title="Extinction Opus, No. 16"/>

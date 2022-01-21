@@ -4,6 +4,6 @@ import styles from '../styles/RightBlackTitle.module.css'
 
 export default function RightBlackTitle(props) {
   return (
-    <p className={styles.rightBlackTitle}>{props.children}</p>
+    <h3 className={styles.rightBlackTitle}>{props.children}</h3>
   );
 }

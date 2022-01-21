@@ -1,7 +1,7 @@
 .leftGrayTitle {
   font-family:"lores-9-plus-wide-bold-alt";
   color:#b0b0b0;
-  font-size:2.7rem;
+  font-size:3.5rem;
   text-shadow:2px 2px snow,
               4px 4px #b0b0b0;
   font-weight:400;
@@ -9,14 +9,6 @@
   text-transform:lowercase;
   margin: 14vh 0 14vh 7vw;
 }
-
-@media (max-width: 420px) {
-
-  .leftGrayTitle {
-    font-size:2rem;
-  }
-
- }
 
 @media (max-width: 320px) {
 

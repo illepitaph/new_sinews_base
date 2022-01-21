@@ -21,9 +21,9 @@ export default function EvenFlesh() {
 
        <Header/>
 
-       <CenterGrayTitle><h3>even flesh<br/>seems<br/>a formality</h3></CenterGrayTitle>
+       <CenterGrayTitle>even flesh<br/>seems<br/>a formality</CenterGrayTitle>
        <body>
-       <CenterBlackTitle><h3>or: Vi Khi Nao’s organic oscillations</h3></CenterBlackTitle>
+       <CenterBlackTitle>or: Vi Khi Nao’s organic oscillations</CenterBlackTitle>
 
        <p className={styles.authorItalic}>—Steve Barbaro</p>
 
@@ -207,8 +207,8 @@ export default function EvenFlesh() {
        becomes apparent that the systematic nature of Nao’s own ordering principle would, with
        signature dexterity, subsume the very sort of interspecies power that the narrative is
        all the while critiquing.
-      <br/>
-      <br/>
+       <br/>
+       <br/>
        The wont to simply break down a motion picture into its constituent parts—to return,
        that is to say, a kinesis-dense, stock unit of modern life such as a film to its frame-by-frame
        units of stasis—is itself a fruitfully intrusive stratagem granted extra vigor via the assiduousness

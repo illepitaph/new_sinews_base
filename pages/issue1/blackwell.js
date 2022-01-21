@@ -4,18 +4,19 @@ import RightBlackTitle from '../../components/rightBlackTitle.js'
 import LeftGrayTitle from '../../components/leftGrayTitle.js'
 import StandardProse from '../../components/standardProse.js'
 import Footer from '../../components/footer.js'
+Blackwell.title = "gabriel_blackwell ~ two_stories — new_sinews";
 
-export default function Blackwell({ Component, pageProps, title}) {
+export default function Blackwell() {
   return (
       <>
-       <Head title={`Blackwell`}/>
+       <Head/>
        <Header headerBackground="blackwellBackground"/>
-       <br/>
-       <RightBlackTitle><h3> ... gabriel ...<br/>... blackwell ... </h3></RightBlackTitle>
-       <LeftGrayTitle><h3>s<br/>c<br/><span
+       <RightBlackTitle>... gabriel ...<br/>... blackwell ...</RightBlackTitle>
+       <LeftGrayTitle>s<br/><span
+       style={{marginLeft:"1vw"}}>c</span><br/><span
        style={{textTransform:"uppercase", marginLeft:"2vw", color:"black"}}>e</span><br/><span
        style={{textTransform:"uppercase"}}>n</span><br/>e<br/><span
-       style={{textTransform:"uppercase", marginLeft:"1vw", color:"black"}}>r</span><br/>y</h3></LeftGrayTitle>
+       style={{textTransform:"uppercase", marginLeft:"1vw", color:"black"}}>r</span><br/>y</LeftGrayTitle>
        <StandardProse> Kierkegaard attributes a memory to Johannes Climacus
        (in the introduction to the book of the same name) that could well have
        been his own: as a boy, Johannes asked his father to please allow him to go
@@ -45,11 +46,11 @@ export default function Blackwell({ Component, pageProps, title}) {
        these “walks.” And yet still the boy could never be allowed outside.
        This, and only this, was prevented him.
        </StandardProse>
-       <LeftGrayTitle><h3>b<br/><span
+       <LeftGrayTitle>b<br/><span
        style={{textTransform:"uppercase", marginLeft:"1vw", color:"black"}}>e</span><br/>d<br/><span
        style={{textTransform:"uppercase", marginLeft:"2vw", color:"black"}}>T</span><br/><span
        style={{marginLeft:"1vw"}}>i</span><br/>m<br/><span
-       style={{textTransform:"uppercase", marginLeft:"1vw", color:"black"}}>e</span></h3></LeftGrayTitle>
+       style={{textTransform:"uppercase", marginLeft:"1vw", color:"black"}}>e</span></LeftGrayTitle>
        <StandardProse> I told my son a disappointing story, a story, he said, that
        was no good. That wasn’t very good, he said, deadly serious and not at
        all tired. Not that I had so much invested in this story, but I wasn’t

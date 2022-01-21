@@ -4,6 +4,6 @@ import styles from '../styles/LeftGrayTitle.module.css'
 
 export default function LeftGrayTitle(props) {
   return (
-    <p className={styles.leftGrayTitle}>{props.children}</p>
+    <h1 className={styles.leftGrayTitle}>{props.children}</h1>
   )
 }

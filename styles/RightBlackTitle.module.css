@@ -1,6 +1,6 @@
 .rightBlackTitle {
   font-family:"lores-9-plus-wide";
-  font-size:2rem;
+  font-size:2.3rem;
   font-weight:700;
   text-align:right;
   text-transform:lowercase;
@@ -12,7 +12,7 @@
 @media (max-width: 767.98px) {
 
   .rightBlackTitle {
-    font-size:1.4rem;
+    font-size:1.7rem;
   }
 
 
