@@ -141,10 +141,8 @@ export default function Issue2Bios() {
    at the Japanese American National Museum in Los Angeles, CA, November 2019-June 2020. He
    is currently writing a book on the afterlife of Japanese American incarceration. He
    lives in the desert.
-   <br/>
-   <br/>
-   <br/>
    </StandardProse>
+   <br/><br/><br/><br/><br/><br/><br/><br/>
 
    <Footer/>
 

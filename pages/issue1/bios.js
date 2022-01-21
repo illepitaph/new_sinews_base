@@ -4,6 +4,7 @@ import Header from '../../components/header.js'
 import CenterGrayTitle from '../../components/centerGrayTitle.js'
 import CenterBlackTitle from '../../components/centerBlackTitle.js'
 import StandardProse from '../../components/standardProse.js'
+import FooterBreather from '../../components/footerBreather.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Bios.module.css'
 Issue1Bios.title = "issue1_bios — new_sinews";
@@ -84,7 +85,7 @@ export default function Issue1Bios() {
    Brown University, where she received the John Hawkes and Feldman Prizes in
    fiction and the Kim Ann Arstark Memorial Award in poetry.
    </StandardProse>
-   <br/><br/><br/><br/><br/><br/><br/><br/>
+   <FooterBreather/>
 
    <Footer/>
 

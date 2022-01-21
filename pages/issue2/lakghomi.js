@@ -83,14 +83,9 @@ export default function Lakghomi() {
       The daughter wanted to forget the father’s name, to forget he was her father. If the daughter
       could forget his name, she might believe she was his wife and not his daughter, and the father
       might say her name.
-       </StandardProse>
-       <br/>
-       <br/>
-       <br/>
-       <br/>
-       <br/>
-       <br/>
-       <Footer/>
+      </StandardProse>
+      <br/><br/><br/><br/><br/><br/><br/><br/>
+      <Footer/>
              </body>
          </>
      )
