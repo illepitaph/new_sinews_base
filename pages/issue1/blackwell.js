@@ -10,7 +10,9 @@ export default function Blackwell() {
   return (
       <>
        <Head/>
+
        <Header headerBackground="blackwellBackground"/>
+
        <RightBlackTitle>... gabriel ...<br/>... blackwell ...</RightBlackTitle>
        <LeftGrayTitle>s<br/><span
        style={{marginLeft:"1vw"}}>c</span><br/><span
@@ -92,7 +94,9 @@ export default function Blackwell() {
        about, I thought: The other twin had been absorbed by either its brother
        or its mother. I had enough sense not to say this aloud.
        </StandardProse>
+
        <br/><br/><br/><br/><br/><br/><br/><br/>
+       
     <Footer/>
       </>
   )

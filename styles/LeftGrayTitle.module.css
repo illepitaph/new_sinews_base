@@ -10,6 +10,14 @@
   margin: 14vh 0 14vh 7vw;
 }
 
+@media (max-width: 376px) {
+
+  .leftGrayTitle {
+    font-size:3rem;
+  }
+
+ }
+
 @media (max-width: 320px) {
 
   .leftGrayTitle {

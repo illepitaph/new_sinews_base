@@ -22,7 +22,6 @@ export default function EvenFlesh() {
        <Header/>
 
        <CenterGrayTitle>even flesh<br/>seems<br/>a formality</CenterGrayTitle>
-       <body>
        <CenterBlackTitle>or: Vi Khi Nao’s organic oscillations</CenterBlackTitle>
 
        <p className={styles.authorItalic}>—Steve Barbaro</p>
@@ -224,8 +223,6 @@ export default function EvenFlesh() {
 
 
     <Footer/>
-
-    </body>
 
       </>
   )
