@@ -13,15 +13,21 @@
   opacity: 1;
   font-family:"lores-9-plus-wide";
   text-decoration:none;
-  letter-spacing:0.06em;
-  text-transform:lowercase;
-}
-
-.socialLinkFooter > a:hover {
-  cursor:pointer;
-  text-shadow:3px 3px black;
+  letter-spacing:0.09em;
+  text-shadow:1px 1px black;
 }
 
 .socialLinkTag:visited {
   text-decoration:none;
+}
+
+.blueText {
+  color:#2cbae7;
+}
+
+.socialLinkFooter > a:hover {
+  cursor:pointer;
+  color:#b0b0b0;
+  text-shadow:2px 2px snow, 5px 5px black;
+  letter-spacing:0.2rem;
 }
