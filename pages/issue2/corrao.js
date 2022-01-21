@@ -51,7 +51,7 @@ export default function Corrao() {
            `}<span
          className={styles.inverseTitleShadow}>_ E _</span>{`
                 S`}</span></pre>
-       <RightBlackTitle><h3> ... mike ... corrao ... </h3></RightBlackTitle>
+       <RightBlackTitle> ... mike ... corrao ... </RightBlackTitle>
        <StandardProse>
        <br/>
        <br/>

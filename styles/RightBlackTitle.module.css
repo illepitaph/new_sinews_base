@@ -26,3 +26,13 @@
 
 
   }
+
+
+  @media (max-width: 281px) {
+
+    .rightBlackTitle {
+      font-size:1.1rem;
+    }
+
+
+   }
