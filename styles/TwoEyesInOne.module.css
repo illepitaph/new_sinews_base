@@ -77,3 +77,50 @@
   text-shadow:2px 2px snow,
               4px 4px black;
 }
+
+@media (max-width: 916px) {
+
+  .carousel > .prev {
+    top: 10%;
+}
+
+.carousel > .next {
+  top: 70%;
+}
+
+  .grayShadow {
+    font-size:1.7rem;
+  }
+
+  .blackShadow {
+    font-size:2.2rem;
+    line-height:6rem;
+  }
+
+ }
+
+
+ @media (max-width: 668px) and (orientation:landscape) {
+
+   .grayShadow {
+     font-size:1.7rem;
+   }
+
+   .blackShadow {
+     font-size:2rem;
+     line-height:4rem;
+   }
+
+  }
+
+ @media (max-width: 429px) and (orientation:portrait) {
+
+   .carousel > .prev {
+     font-size:3rem;
+ }
+
+ .carousel > .next {
+   font-size:3rem;
+ }
+
+  }

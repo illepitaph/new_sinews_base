@@ -1,5 +1,4 @@
 import React, {useState} from 'react'
-import dynamic from 'next/dynamic'
 import Head from 'next/head'
 import Header from '../../components/header.js'
 import Footer from '../../components/footer.js'
