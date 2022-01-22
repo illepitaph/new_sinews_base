@@ -4,7 +4,6 @@ import RightBlackTitle from '../../components/rightBlackTitle.js'
 import CenterGrayTitle from '../../components/centerGrayTitle.js'
 import StandardMiniTitle from '../../components/standardMiniTitle.js'
 import StandardLineation from '../../components/standardLineation.js'
-import FooterBreather from '../../components/footerBreather.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Gridley.module.css'
 Gridley.title = "sarah_gridley ~ poems from insofar — new_sinews";
@@ -84,7 +83,6 @@ export default function Gridley() {
       a proto mouse.`}/>
 
 
-         <FooterBreather/>
 
           <Footer/>
 

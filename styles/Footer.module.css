@@ -2,6 +2,7 @@
   position:relative;
   z-index:6;
   height:18vh;
+  margin-top:22vh;
   display:grid;
   place-items:center;
   font-size:1.7rem;

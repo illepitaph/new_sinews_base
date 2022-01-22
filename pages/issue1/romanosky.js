@@ -3,7 +3,6 @@ import Header from '../../components/header.js'
 import LeftGrayTitle from '../../components/leftGrayTitle.js'
 import StandardMiniTitle from '../../components/standardMiniTitle.js'
 import StandardLineation from '../../components/standardLineation.js'
-import FooterBreather from '../../components/footerBreather.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Romanosky.module.css'
 Romanosky.title = "christa_romanosky ~ three_poems — new_sinews";
@@ -109,8 +108,7 @@ export default function Romanosky() {
           has a homunculus. I pickled a harmonica. I wanted
           the music to outlive the dream.
               `}/>
-              
-          <FooterBreather/>
+
 
           <Footer/>
 

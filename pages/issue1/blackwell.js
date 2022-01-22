@@ -3,7 +3,6 @@ import Header from '../../components/header.js'
 import RightBlackTitle from '../../components/rightBlackTitle.js'
 import LeftGrayTitle from '../../components/leftGrayTitle.js'
 import StandardProse from '../../components/standardProse.js'
-import FooterBreather from '../../components/footerBreather.js'
 import Footer from '../../components/footer.js'
 Blackwell.title = "gabriel_blackwell ~ two_stories — new_sinews";
 
@@ -95,8 +94,6 @@ export default function Blackwell() {
        about, I thought: The other twin had been absorbed by either its brother
        or its mother. I had enough sense not to say this aloud.
        </StandardProse>
-
-       <FooterBreather/>
 
     <Footer/>
       </>

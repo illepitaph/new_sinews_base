@@ -3,7 +3,6 @@ import Header from '../../components/header.js'
 import CenterGrayTitle from '../../components/centerGrayTitle.js'
 import CenterBlackTitle from '../../components/centerBlackTitle.js'
 import Footer from '../../components/footer.js'
-import FooterBreather from '../../components/footerBreather.js'
 import styles from '../../styles/Eisenmartin.module.css'
 Eisen_Martin.title = "tongo_eisen-martin ~ two_poems — new_sinews";
 
@@ -257,7 +256,6 @@ Psychology of the mask now
 Teeth of the mask again`}</pre>
 
 </div>
-<FooterBreather/>
 
    <Footer/>
 
