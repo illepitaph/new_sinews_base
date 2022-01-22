@@ -1,10 +1,9 @@
 import Head from 'next/head'
-import Image from 'next/image'
-import Link from 'next/link'
 import Header from '../../components/header.js'
 import CenterGrayTitle from '../../components/centerGrayTitle.js'
 import CenterBlackTitle from '../../components/centerBlackTitle.js'
 import StandardProse from '../../components/standardProse.js'
+import FooterBreather from '../../components/footerBreather.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/EssayMode.module.css'
 EvenFlesh.title = "even flesh seems a formality_or: Vi Khi Nao's organic oscillations — new_sinews";
@@ -215,7 +214,7 @@ export default function EvenFlesh() {
        flux via our own rejigged will. “I have nothing to say to things,” Vi Khi Nao insists,
        elucidating a frontier in an otherwise brink-breaching oeuvre, “that appear to be not changing."
        </StandardProse>
-       <br/><br/><br/><br/><br/><br/><br/><br/>
+       <FooterBreather/>
 
 
     <Footer/>

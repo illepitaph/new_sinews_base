@@ -1,10 +1,9 @@
 import Head from 'next/head'
-import Image from 'next/image'
-import Link from 'next/link'
 import Header from '../../components/header.js'
 import LeftGrayTitle from '../../components/leftGrayTitle.js'
 import StandardMiniTitle from '../../components/standardMiniTitle.js'
 import StandardLineation from '../../components/standardLineation.js'
+import FooterBreather from '../../components/footerBreather.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Romanosky.module.css'
 Romanosky.title = "christa_romanosky ~ three_poems — new_sinews";
@@ -25,7 +24,6 @@ export default function Romanosky() {
           className={styles.inverseShadowUppercase}>a</span>n<span
           className={styles.inverseShadow}>  o</span>s<span
           className={styles.inverseShadowUppercase}>k </span>y _</span></LeftGrayTitle>
-          <body>
           <br/>
           <StandardMiniTitle title="Extinction Opus, No. 16"/>
           <StandardLineation content={`
@@ -111,9 +109,8 @@ export default function Romanosky() {
           has a homunculus. I pickled a harmonica. I wanted
           the music to outlive the dream.
               `}/>
-
-          </body>
-          <br/><br/><br/><br/><br/><br/><br/><br/>
+              
+          <FooterBreather/>
 
           <Footer/>
 

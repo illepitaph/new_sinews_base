@@ -1,7 +1,6 @@
 import React, {useState} from 'react'
 import dynamic from 'next/dynamic'
 import Head from 'next/head'
-import Link from 'next/link'
 import Header from '../../components/header.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/TwoEyesInOne.module.css'
