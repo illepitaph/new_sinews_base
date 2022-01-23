@@ -7,7 +7,7 @@ export function TwoEyesRawText1(){
   return   (
           <>
           <CenterGrayTitle><span className={styles.blackShadow}>
-          <h3>two<br/>eyes in one<br/>eye: a delirium</h3></span></CenterGrayTitle>
+          two<br/>eyes in one<br/>eye: a delirium</span></CenterGrayTitle>
           </>
     )
 }
@@ -15,7 +15,7 @@ export function TwoEyesRawText1(){
 export function TwoEyesRawText2(){
   return   (
           <>
-          <CenterBlackTitle><span className={styles.grayShadow}><h3>_ vi _ khi _ nao _</h3></span></CenterBlackTitle>
+          <CenterBlackTitle><span className={styles.grayShadow}>_ vi _ khi _ nao _</span></CenterBlackTitle>
           </>
     )
 }
@@ -24,7 +24,7 @@ export function TwoEyesRawText3() {
     return (
         <>
         <CenterGrayTitle><span className={styles.blackShadow}>
-        <h3>version<br/>one: two eyes in one<br/>eye</h3></span></CenterGrayTitle>
+        version<br/>one: two eyes in one<br/>eye</span></CenterGrayTitle>
       </>
       )
 }
@@ -32,19 +32,19 @@ export function TwoEyesRawText3() {
 export function TwoEyesRawText4() {
     return (
        <>
-       <GalleryLineation> <pre>{`
+       <GalleryLineation> {`
 The bird is walking around the courtyard      
 
-                                                      looking for a religion with a pair of oculi.
-                                        Comparing itself to the cathedral. Landscape greets their
-                                        bodies. Bird and cathedral share contorted & arched
-                                        postures. The bird bent by fata morgana gazes at
-                                        the light /// the light is eating into one another. Eating
-                                        into each other’s time. The father of the moment eats
-                                        eats eats into [    ]. It blinks—in no [      ]—
-                                        metamorphoses into a cathedral. The bird opens wide its
-                                        buttresses, spreading its congregation of feathers. 
-        `}</pre></GalleryLineation>
+                                                                                            looking for a religion with a pair of oculi.
+                                                                   Comparing itself to the cathedral. Landscape greets their
+                                                                   bodies. Bird and cathedral share contorted & arched
+                                                                   postures. The bird bent by fata morgana gazes at
+                                                                   the light /// the light is eating into one another. Eating
+                                                                   into each other’s time. The father of the moment eats
+                                                                   eats eats into [    ]. It blinks—in no [      ]—
+                                                                   metamorphoses into a cathedral. The bird opens wide its
+                                                                   buttresses, spreading its congregation of feathers. 
+        `}</GalleryLineation>
         </>
   )
 }
@@ -52,15 +52,15 @@ The bird is walking around the courtyard      
 export function TwoEyesRawText5() {
     return (
         <>
-        <GalleryLineation> <pre>{`
+        <GalleryLineation> {`
 The church opens its white      
 
-                                        buttresses. Flock into oblivion. Lusters of
-                                        awakening open the throat of Our Lady’s chapel. Shove
-                                        down all the doors. It will make the body hide the bread.
-                                        The church is going to ask the bread to molest the body. 
-                                        Spread the legs open and shovel the past into it.
-         `}</pre></GalleryLineation>
+                                                                                       buttresses. Flock into oblivion. Lusters of
+                                                                   awakening open the throat of Our Lady’s chapel. Shove
+                                                                   down all the doors. It will make the body hide the bread.
+                                                                   The church is going to ask the bread to molest the body. 
+                                                                   Spread the legs open and shovel the past into it.
+         `}</GalleryLineation>
            </>
    )
  }
@@ -68,14 +68,14 @@ The church opens its white      
  export function TwoEyesRawText6() {
      return (
          <>
-         <GalleryLineation> <pre>{`
+         <GalleryLineation> {`
 The heart of the church is cold    
 
-                                                  & blistery. Ready to be lightwood—splintered
-                                        by time /// Darkness is gentle and enhances the stomach
-                                        lining, the ambulatory nave, with wisdom and
-                                        confidence.
-          `}</pre></GalleryLineation>
+                                                                                    & blistery. Ready to be lightwood—splintered
+                                                                   by time /// Darkness is gentle and enhances the stomach
+                                                                   lining, the ambulatory nave, with wisdom and
+                                                                   confidence.
+          `}</GalleryLineation>
           </>
       )
     }
@@ -83,14 +83,14 @@ The heart of the church is cold    
 export function TwoEyesRawText7() {
         return (
             <>
-          <GalleryLineation> <pre>{`
+          <GalleryLineation> {`
 The congregation walks into the stomach    
 
-                                                     lining of the bird. Sits down. The professor, a
-                                        physicist, opens the bible made of birdseeds. Looks down
-                                        at her watch. The priest will cut the lives of others with
-                                        his cryptic voice.
-           `}</pre></GalleryLineation>
+                                                                                      lining of the bird. Sits down. The professor, a
+                                                                   physicist, opens the bible made of birdseeds. Looks down
+                                                                   at her watch. The priest will cut the lives of others with
+                                                                   his cryptic voice.
+           `}</GalleryLineation>
            </>
         )
     }
@@ -98,21 +98,21 @@ The congregation walks into the stomach    
 export function TwoEyesRawText8() {
             return (
                 <>
-           <GalleryLineation> <pre>{`
+           <GalleryLineation> {`
 “The light does enjoy    
 
-                                                    a moment of breakfast, of eating a full meal of
-                                        siding and tree branches and roofs and cars and fighting
-                                        off the table before handing over the kitchen knife,”
-                                        begins the priest before the slanted heads of his
-                                        congregation. “Slants of light slaughter the throat of
-                                        trees. Trees fall and gaze down at the floor of the earth
-                                        and at their own shadow. Trees talk to their shadow. 
-                                        How long have I been here? Where is your shadow, 
-                                        shadow? Where is your breakfast? I could be down there
-                                        with you, floating on the earth’s surface like a buffalo
-                                        hide, dehydrated by the sun. But I’d rather not...”
-            `}</pre></GalleryLineation>
+                                                                                      a moment of breakfast, of eating a full meal of
+                                                                   siding and tree branches and roofs and cars and fighting
+                                                                   off the table before handing over the kitchen knife,”
+                                                                   begins the priest before the slanted heads of his
+                                                                   congregation. “Slants of light slaughter the throat of
+                                                                   trees. Trees fall and gaze down at the floor of the earth
+                                                                   and at their own shadow. Trees talk to their shadow. 
+                                                                   How long have I been here? Where is your shadow, 
+                                                                   shadow? Where is your breakfast? I could be down there
+                                                                   with you, floating on the earth’s surface like a buffalo
+                                                                   hide, dehydrated by the sun. But I’d rather not...”
+            `}</GalleryLineation>
               </>
      )
    }
