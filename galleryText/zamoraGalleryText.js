@@ -8,7 +8,7 @@ export function ZamoraRawText1() {
       return (
          <>
     <CenterGrayTitle><span className={styles.blackShadow}>
-        <h3>felicia zamora</h3></span></CenterGrayTitle>
+        felicia zamora</span></CenterGrayTitle>
         </>
       )
   }
@@ -17,7 +17,7 @@ export function ZamoraRawText1() {
         return (
            <>
         <CenterBlackTitle><span className={styles.grayShadow}>
-        <h3>selections from 'quotient'</h3></span></CenterBlackTitle>
+        selections from 'quotient'</span></CenterBlackTitle>
         </>
       )
   }
@@ -25,7 +25,7 @@ export function ZamoraRawText1() {
   export function ZamoraRawText3() {
         return (
            <>
-       <GalleryLineation><pre>{`
+       <GalleryLineation>{`
                         what is still is not
                         contained. & the sallow
                         sees itself as limb, as broad-leaf
@@ -36,7 +36,7 @@ export function ZamoraRawText1() {
                         & heaves with rhythms of weather
                         & surface, here, loves restless.
                         Yearns to permeate, to divest.
-        `}</pre></GalleryLineation>
+        `}</GalleryLineation>
       </>
    )
  }
@@ -44,7 +44,7 @@ export function ZamoraRawText1() {
  export function ZamoraRawText4() {
        return (
           <>
-        <GalleryLineation> <pre>{`
+        <GalleryLineation> {`
                         Interrobang, a gathering of sorts.
                         Synesthesia evokes before
                         speech lost in its own
@@ -55,7 +55,7 @@ export function ZamoraRawText1() {
                         in sequence before — the counters
                         of numbers only count. Quantity
                         allows observance. `}<i>How do you spell</i> {`— ? Observe
-         `}</pre></GalleryLineation>
+         `}</GalleryLineation>
       </>
     )
   }
@@ -63,7 +63,7 @@ export function ZamoraRawText1() {
   export function ZamoraRawText5() {
         return (
            <>
-         <GalleryLineation> <pre>{`
+         <GalleryLineation> {`
                         & what forms magic
                         originates as magic. We think
                         in `} <i>inventory</i> {`to lock universals
@@ -74,7 +74,7 @@ export function ZamoraRawText1() {
                         reveal magical elements.
                         A defect of magic:
                         thinking it is magician.
-          `}</pre></GalleryLineation>
+          `}</GalleryLineation>
            </>
         )
     }
@@ -83,7 +83,7 @@ export function ZamoraRawText1() {
     export function ZamoraRawText6() {
           return (
              <>
-          <GalleryLineation> <pre>{`
+          <GalleryLineation> {`
                         Numerator thrones double
                         line over line hover, verge —
                         cross hatch
@@ -94,7 +94,7 @@ export function ZamoraRawText1() {
                         no longer boon; ear no longer bent
                         in heed. What reveals
                         in the shuck. What visions —
-          `}</pre></GalleryLineation>
+          `}</GalleryLineation>
             </>
         )
    }
@@ -102,7 +102,7 @@ export function ZamoraRawText1() {
    export function ZamoraRawText7() {
          return (
             <>
-           <GalleryLineation> <pre>{`
+           <GalleryLineation> {`
                         How eyelashes & tree branches
                         cast similar shadows — a game
                         of proportions. & when we admit:
@@ -113,7 +113,7 @@ export function ZamoraRawText1() {
                         we fall into lobes & bones. Sutures
                         of intersection. We count: `}<i>one one-thousand</i>,{`
                         `}<i>two one-thousand</i>{`, under folds, in wait of boom.
-           `}</pre></GalleryLineation>
+           `}</GalleryLineation>
             </>
         )
     }
@@ -121,7 +121,7 @@ export function ZamoraRawText1() {
     export function ZamoraRawText8() {
           return (
              <>
-            <GalleryLineation> <pre>{`
+            <GalleryLineation> {`
                         Inverse — tongue
                         a pendulum. Nests of mud
                         sculpt in the lighthouse rafters
@@ -132,7 +132,7 @@ export function ZamoraRawText1() {
                         scatter, a crime scene
                         to witness: the cold
                         potter’s wheel, spins still.
-            `}</pre></GalleryLineation>
+            `}</GalleryLineation>
             </>
          )
       }
