@@ -7,10 +7,10 @@ export function LewisRawText1(){
   return   (
           <>
           <CenterGrayTitle><span className={styles.blackShadow}>
-          <h3>Su<span
+          Su<span
           className={styles.inverse}>s</span>a<span
           className={styles.inverse}>n</span>   <i>Le<span
-          className={styles.inverse}>w</span>is</i></h3></span></CenterGrayTitle>
+          className={styles.inverse}>w</span>is</i></span></CenterGrayTitle>
           </>
     )
 }
@@ -18,9 +18,9 @@ export function LewisRawText1(){
 export function LewisRawText2(){
   return   (
           <>
-          <CenterBlackTitle><h4>The Aggregate of Flown Fur</h4></CenterBlackTitle>
-          <GalleryLineation><pre>                 {`          `}<i>——after Pre & Con, or Positions </i>&{`
-                    `}<i>Junctions</i> by Rosmarie Waldrop</pre></GalleryLineation>
+          <CenterBlackTitle>The Aggregate of Flown Fur</CenterBlackTitle>
+          <GalleryLineation>                 {`                    `}<i>——after Pre & Con, or Positions </i>&{`
+                              `}<i>Junctions</i> by Rosmarie Waldrop</GalleryLineation>
           </>
     )
 }
@@ -28,7 +28,7 @@ export function LewisRawText2(){
 export function LewisRawText3(){
   return   (
           <>
-          <GalleryLineation><pre>{`
+          <GalleryLineation>{`
       Between the word of dog
       between is aggregated
       between gaze between
@@ -53,7 +53,7 @@ export function LewisRawText3(){
       and belief
 
                        `}<span className={styles.asterisk}>*</span>
-          </pre></GalleryLineation>
+          </GalleryLineation>
           </>
     )
 }
@@ -61,7 +61,7 @@ export function LewisRawText3(){
 export function LewisRawText4(){
   return   (
           <>
-          <GalleryLineation><pre>{`
+          <GalleryLineation>{`
       Along intentions
       along similar temperatures
       of longing
@@ -87,7 +87,7 @@ export function LewisRawText4(){
       gold-filled and gleaming through
 
                       `}<span className={styles.asterisk}>*</span>
-          </pre></GalleryLineation>
+          </GalleryLineation>
           </>
     )
 }
@@ -95,7 +95,7 @@ export function LewisRawText4(){
 export function LewisRawText5(){
   return   (
           <>
-          <GalleryLineation><pre>{`
+          <GalleryLineation>{`
       Through the shell and
       perhaps energy is
       gathered
@@ -118,7 +118,7 @@ export function LewisRawText5(){
       through
 
                  `}<span className={styles.asterisk}>*</span>
-          </pre></GalleryLineation>
+          </GalleryLineation>
           </>
     )
 }
@@ -126,7 +126,7 @@ export function LewisRawText5(){
 export function LewisRawText6(){
   return   (
           <>
-          <GalleryLineation><pre>{`
+          <GalleryLineation>{`
       Among mammals among
       by gravity held
       among appetites among
@@ -145,7 +145,7 @@ export function LewisRawText6(){
 
 
                `}<span className={styles.asterisk}>*</span>
-          </pre></GalleryLineation>
+          </GalleryLineation>
           </>
     )
 }
@@ -153,7 +153,7 @@ export function LewisRawText6(){
 export function LewisRawText7(){
   return   (
           <>
-          <GalleryLineation><pre>{`
+          <GalleryLineation>{`
       Beyond above and
       the voice of
       the young beyond
@@ -168,7 +168,7 @@ export function LewisRawText7(){
       through sight among
       flown fur
                         `}
-          </pre></GalleryLineation>
+          </GalleryLineation>
           </>
     )
 }
@@ -176,9 +176,9 @@ export function LewisRawText7(){
 export function LewisRawText8(){
   return   (
           <>
-          <CenterBlackTitle><h4>Simple Pleasures</h4></CenterBlackTitle>
-          <GalleryLineation><pre>                 {`          `}<i>——after Pre & Con, or Positions </i>&{`
-                    `}<i>Junctions</i> by Rosmarie Waldrop</pre></GalleryLineation>
+          <CenterBlackTitle>Simple Pleasures</CenterBlackTitle>
+          <GalleryLineation>                 {`          `}<i>——after Pre & Con, or Positions </i>&{`
+                    `}<i>Junctions</i> by Rosmarie Waldrop</GalleryLineation>
           </>
     )
 }
@@ -186,7 +186,7 @@ export function LewisRawText8(){
 export function LewisRawText9(){
   return   (
           <>
-          <GalleryLineation><pre>{`
+          <GalleryLineation>{`
       And the animal’s fur
       is augmented and
       the palm and
@@ -212,7 +212,7 @@ export function LewisRawText9(){
       in sharp sun
 
                 `}<span className={styles.asterisk}>*</span>
-          </pre></GalleryLineation>
+          </GalleryLineation>
           </>
     )
 }
@@ -220,7 +220,7 @@ export function LewisRawText9(){
 export function LewisRawText10(){
   return   (
           <>
-          <GalleryLineation><pre>{`
+          <GalleryLineation>{`
       Of engines
       of distant
       growls and
@@ -247,7 +247,7 @@ export function LewisRawText10(){
       sadness of dusk
 
                 `}<span className={styles.asterisk}>*</span>
-          </pre></GalleryLineation>
+          </GalleryLineation>
           </>
     )
 }
@@ -255,7 +255,7 @@ export function LewisRawText10(){
 export function LewisRawText11(){
   return   (
           <>
-          <GalleryLineation><pre>{`
+          <GalleryLineation>{`
       Into pieces unless
       probable sound is
       amassed into
@@ -278,7 +278,7 @@ export function LewisRawText11(){
       reversal into and into
 
                 `}<span className={styles.asterisk}>*</span>
-          </pre></GalleryLineation>
+          </GalleryLineation>
           </>
     )
 }
@@ -286,7 +286,7 @@ export function LewisRawText11(){
 export function LewisRawText12(){
   return   (
           <>
-          <GalleryLineation><pre>{`
+          <GalleryLineation>{`
       If a mammal if
       soft on the ground
       if and only if
@@ -310,7 +310,7 @@ export function LewisRawText12(){
       as if entwined
 
               `}<span className={styles.asterisk}>*</span>
-          </pre></GalleryLineation>
+          </GalleryLineation>
           </>
     )
 }
@@ -318,7 +318,7 @@ export function LewisRawText12(){
 export function LewisRawText13(){
   return   (
           <>
-          <GalleryLineation><pre>{`
+          <GalleryLineation>{`
       As for the
       limiting case
 
@@ -342,7 +342,7 @@ export function LewisRawText13(){
       to touch if with and
       into the other
                         `}
-          </pre></GalleryLineation>
+          </GalleryLineation>
           </>
     )
 }

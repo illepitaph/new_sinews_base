@@ -94,19 +94,20 @@
 }
 
 .asterisk {
-  font-size:2rem;
+  font-size:4rem;
   text-shadow:1px 1px red;
 }
 
-@media (max-height: 1181px) and (orientation:portrait) {
+@media (max-height: 1281px) and (orientation:portrait) {
 
   .carousel {
     height:50vh;
   }
 
   .asterisk {
+  font-size:3rem;
   display:inline-block;
-  margin-top:7vh;
+  margin-top:11vh;
   }
 
  }
@@ -114,8 +115,9 @@
  @media (max-height: 1025px) and (orientation:landscape) {
 
    .asterisk {
+   font-size:3rem;
    display:inline-block;
-   margin-top:7vh;
+   margin-top:11vh;
    }
 
   }
@@ -147,22 +149,24 @@
   }
 
   .asterisk {
+  font-size:3rem;
   display:inline-block;
-  margin-top:7vh;
+  margin-top:6vh;
   }
 
  }
 
 
- @media (max-width: 376px) and (orientation:portrait) {
+ @media (max-width: 391px) and (orientation:portrait) {
 
    .carousel {
      height:45vh;
    }
 
    .asterisk {
+   font-size:2rem;
    display:inline-block;
-   margin-top:1vh;
+   margin-top:4vh;
    }
 
   }
