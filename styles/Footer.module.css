@@ -32,3 +32,12 @@
   text-shadow:2px 2px snow, 5px 5px black;
   letter-spacing:0.2rem;
 }
+
+@media (max-width: 376px) and (orientation:portrait) {
+
+  .socialLinkFooter {
+    font-size:1.2rem;
+
+  }
+
+ }

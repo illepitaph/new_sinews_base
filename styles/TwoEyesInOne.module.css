@@ -78,6 +78,14 @@
               4px 4px black;
 }
 
+@media (max-height: 1369px) and (orientation:portrait) {
+
+  .carousel {
+    height:60vh;
+  }
+
+ }
+
 @media (max-width: 916px) {
 
   .carousel > .prev {
@@ -115,6 +123,10 @@
 
  @media (max-width: 429px) and (orientation:portrait) {
 
+   .carousel {
+     height:60vh;
+   }
+
    .carousel > .prev {
      font-size:3rem;
  }
@@ -124,3 +136,11 @@
  }
 
   }
+
+  @media (max-width: 385px) and (orientation:portrait) {
+
+    .blackShadow {
+      line-height:3.1rem;
+    }
+
+   }

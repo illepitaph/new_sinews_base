@@ -94,12 +94,21 @@
 
  }
 
- @media (max-width: 767.98px) {
+ @media (max-width: 914px) and (orientation:portrait) {
 
    .carousel {
-     flex-flow:column wrap;
+     height:40vh;
+   }
 
-}
+   .carousel > .prev {
+     letter-spacing:0;
+     top:10%;
+   }
+
+
+  }
+
+ @media (max-width: 767.98px) {
 
    .carousel > .prev {
      font-size:3rem;
