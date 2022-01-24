@@ -7,7 +7,7 @@ export function LeYeasteRawText1(){
   return   (
           <>
           <CenterGrayTitle><span className={styles.blackShadow}>
-          <h3>le ye<span className={styles.inverse}>a</span>st<span className={styles.inverse}>e</span></h3></span></CenterGrayTitle>
+          le ye<span className={styles.inverse}>a</span>st<span className={styles.inverse}>e</span></span></CenterGrayTitle>
           </>
     )
 }
@@ -15,9 +15,9 @@ export function LeYeasteRawText1(){
 export function LeYeasteRawText2(){
   return   (
           <>
-          <CenterBlackTitle><span className={styles.grayShadow}><h3>_ v<span className={styles.inverse}>i</span> _ <br/> <span
+          <CenterBlackTitle><span className={styles.grayShadow}>_ v<span className={styles.inverse}>i</span> _ <br/> <span
           className={styles.inverse}>+</span>k<span className={styles.inverse}>h</span>i+ <br/> _ <span
-          className={styles.inverse}>n</span>ao <span className={styles.inverse}>_</span></h3></span></CenterBlackTitle>
+          className={styles.inverse}>n</span>ao <span className={styles.inverse}>_</span></span></CenterBlackTitle>
           </>
     )
 }
@@ -25,25 +25,24 @@ export function LeYeasteRawText2(){
 export function LeYeasteRawText3() {
     return (
        <>
-       <GalleryLineation> <pre>{`
-                                              in ego
-                                              rises beneath living`}<br/>{`
-                                              unicellular;
-                                              man in sandals
-                                              seeks Indo-European
+       <GalleryLineation>{`
+                                                        in ego
+                                                        rises beneath living`}<br/>{`
+                                                        unicellular;
+                                                        man in sandals
+                                                        seeks Indo-European
 
 
 
-        Genus Narcissus daffodil mustache [-  fungus
-        crawling {into asexual alabaster dust hives /    \
-        of leavening
+Genus Narcissus daffodil mustache [-  fungus
+crawling {into asexual alabaster dust hives /    \
+                          of leavening
 
-                                                                              ((awkwardly))
+                                                                                                                    ((awkwardly))
 
 
-        before flour			           \   /
-        disciples exchanging clitoral .      fish.   table visualizing/ breakfast
-        `}</pre></GalleryLineation>
+before flour			           \                              /
+disciples exchanging clitoral .                fish.             table visualizing/ breakfast`}</GalleryLineation>
         </>
   )
 }
@@ -51,21 +50,20 @@ export function LeYeasteRawText3() {
 export function LeYeasteRawText4() {
     return (
        <>
-       <GalleryLineation><pre>{`
-`}</pre><pre><span className={styles.boldText}>        Gascieht ‘birth, beast,’/</span></pre><pre>{`
-        god is so )))))))))))))))    soft
-        before a feast, last
+       <GalleryLineation>{`                        `}<span className={styles.boldText}>        Gascieht ‘birth, beast,’/</span>{`
 
-                                                      inflating-
+  god is so )))))))))))))))    soft
+  before a feast, last
+
+                                                                                  inflating-
 
          you / are / able capable
 
-                of converting sugar, / into alcohol.
-                & c /&/ M
+                    of converting sugar, / into alcohol.
+                    & c /&/ M
 
-                You   are,     g o d   / and / I,  am>
-                the table ( - Cassava-
-        `}</pre></GalleryLineation>
+                    You   are,     g o d   / and / I,  am>
+                    the table ( - Cassava-`}</GalleryLineation>
         </>
   )
 }
@@ -73,21 +71,21 @@ export function LeYeasteRawText4() {
 export function LeYeasteRawText5() {
     return (
        <>
-       <GalleryLineation><pre>{`
-        relic water
-      on your ( endosperm )             h
+       <GalleryLineation>{`
+          relic water
+      on your (  endosperm  )                   h
     ide
-        y  o u r        m
-          a     m
-    m   o   t
-    h            m   o   u
-                                    t   h
+          y   o u r              m
+             a      m
+    m   o     t
+    h                 m   o   u
+                                                       t   h
 
 
 
-    is   so        small
-                         beyond
-        `}</pre></GalleryLineation>
+    is      so        small
+                                 beyond
+        `}</GalleryLineation>
         </>
   )
 }
