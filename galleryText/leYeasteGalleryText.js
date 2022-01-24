@@ -93,24 +93,26 @@ export function LeYeasteRawText5() {
 export function LeYeasteRawText6() {
     return (
        <>
-       <GalleryLineation><pre>{`
-         Judas
+       <GalleryLineation>{`
+                                 Judas
          		EAT my bread .
          		your ego ,,,,,,,,,,,,,  surprises
-            sedation	  &                                    h
-      yperventilation
 
-  -your mouth at the table-
-  i threaten:
-  Water into Merlot
-           					‘i
-         					‘forgive
-         					‘you,
+      sedation	  &                                              h
 
-  if. you.   suck<<< in reverse   my .blood. /you
-   o   o  o o o o  o  o o                h 		   son-
-  of-an- oven
-        `}</pre></GalleryLineation>
+                  yperventilation
+
+      -your mouth at the table-
+      i threaten:
+      Water into Merlot
+           					            ‘i
+         					            ‘forgive
+         					            ‘you,
+
+     if. you.   suck<<< in reverse   my .blood. /you
+     o   o  o o o o  o  o o                h 		   son-
+     of-an- oven
+        `}</GalleryLineation>
         </>
   )
 }

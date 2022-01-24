@@ -101,3 +101,52 @@
   font-weight:700;
   font-style:italic;
 }
+
+
+@media (min-height:1023px) and (orientation:portrait) {
+
+  .carousel {
+    height:40vh;
+  }
+
+ }
+
+@media (max-width: 429px) and (orientation:portrait) {
+
+  .carousel {
+    height:40vh;
+  }
+
+  .carousel > .prev {
+    top:10%;
+    left:-5%;
+    font-size:3.5rem;
+  }
+
+  .carousel > .next {
+    top:74%;
+    right:-5%;
+    font-size:3.5rem;
+  }
+
+ }
+
+ @media (max-width: 392px) and (orientation:portrait) {
+
+   .carousel {
+     height:39vh;
+   }
+
+   .carousel > .prev {
+     font-size:3rem;
+   }
+
+   .carousel > .next {
+     font-size:3rem;
+   }
+
+   .grayShadow {
+     line-height:3.4rem;
+   }
+
+  }
