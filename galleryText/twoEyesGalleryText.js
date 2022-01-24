@@ -32,8 +32,7 @@ export function TwoEyesRawText3() {
 export function TwoEyesRawText4() {
     return (
        <>
-       <GalleryLineation> {`
-The bird is walking around the courtyard      
+       <GalleryLineation> {`The bird is walking around the courtyard      
 
                                                                                             looking for a religion with a pair of oculi.
                                                                    Comparing itself to the cathedral. Landscape greets their
@@ -43,8 +42,7 @@ The bird is walking around the courtyard      
                                                                    into each other’s time. The father of the moment eats
                                                                    eats eats into [    ]. It blinks—in no [      ]—
                                                                    metamorphoses into a cathedral. The bird opens wide its
-                                                                   buttresses, spreading its congregation of feathers. 
-        `}</GalleryLineation>
+                                                                   buttresses, spreading its congregation of feathers.`}</GalleryLineation>
         </>
   )
 }
@@ -52,15 +50,13 @@ The bird is walking around the courtyard      
 export function TwoEyesRawText5() {
     return (
         <>
-        <GalleryLineation> {`
-The church opens its white      
+        <GalleryLineation> {`The church opens its white      
 
                                                                                        buttresses. Flock into oblivion. Lusters of
                                                                    awakening open the throat of Our Lady’s chapel. Shove
                                                                    down all the doors. It will make the body hide the bread.
                                                                    The church is going to ask the bread to molest the body. 
-                                                                   Spread the legs open and shovel the past into it.
-         `}</GalleryLineation>
+                                                                   Spread the legs open and shovel the past into it.`}</GalleryLineation>
            </>
    )
  }
@@ -68,14 +64,12 @@ The church opens its white      
  export function TwoEyesRawText6() {
      return (
          <>
-         <GalleryLineation> {`
-The heart of the church is cold    
+         <GalleryLineation> {`The heart of the church is cold    
 
                                                                                     & blistery. Ready to be lightwood—splintered
                                                                    by time /// Darkness is gentle and enhances the stomach
                                                                    lining, the ambulatory nave, with wisdom and
-                                                                   confidence.
-          `}</GalleryLineation>
+                                                                   confidence.`}</GalleryLineation>
           </>
       )
     }
@@ -83,14 +77,12 @@ The heart of the church is cold    
 export function TwoEyesRawText7() {
         return (
             <>
-          <GalleryLineation> {`
-The congregation walks into the stomach    
+          <GalleryLineation> {`The congregation walks into the stomach    
 
                                                                                       lining of the bird. Sits down. The professor, a
                                                                    physicist, opens the bible made of birdseeds. Looks down
                                                                    at her watch. The priest will cut the lives of others with
-                                                                   his cryptic voice.
-           `}</GalleryLineation>
+                                                                   his cryptic voice.`}</GalleryLineation>
            </>
         )
     }
@@ -98,8 +90,7 @@ The congregation walks into the stomach    
 export function TwoEyesRawText8() {
             return (
                 <>
-           <GalleryLineation> {`
-“The light does enjoy    
+           <GalleryLineation> {`“The light does enjoy    
 
                                                                                       a moment of breakfast, of eating a full meal of
                                                                    siding and tree branches and roofs and cars and fighting
@@ -111,8 +102,7 @@ export function TwoEyesRawText8() {
                                                                    How long have I been here? Where is your shadow, 
                                                                    shadow? Where is your breakfast? I could be down there
                                                                    with you, floating on the earth’s surface like a buffalo
-                                                                   hide, dehydrated by the sun. But I’d rather not...”
-            `}</GalleryLineation>
+                                                                   hide, dehydrated by the sun. But I’d rather not...”`}</GalleryLineation>
               </>
      )
    }
@@ -120,19 +110,17 @@ export function TwoEyesRawText8() {
   export function TwoEyesRawText9() {
            return (
                <>
-            <GalleryLineation> <pre>{`
-  "Landscape cannot take in all the bright  
+            <GalleryLineation> {`"Landscape cannot take in all the bright  
 
-                                                    white bleeding. Beware of the light that dances
-                                        out of the mist, emitting radiation. Beware of human
-                                        beings with their bright ornamentations.” The hearts of
-                                        the congregation are lifted up higher and higher ///
-                                        brighter and brighter by the voice of the priest. Here
-                                        violence is only possible. The hearts sink back down to
-                                        the body and disperse in its field like snipers. Light that
-                                        violates becomes unequal to anything. Or anybody. And
-                                        rain:
-             `}</pre></GalleryLineation>
+                                                                                  white bleeding. Beware of the light that dances
+                                                                   out of the mist, emitting radiation. Beware of human
+                                                                   beings with their bright ornamentations.” The hearts of
+                                                                   the congregation are lifted up higher and higher ///
+                                                                   brighter and brighter by the voice of the priest. Here
+                                                                   violence is only possible. The hearts sink back down to
+                                                                   the body and disperse in its field like snipers. Light that
+                                                                   violates becomes unequal to anything. Or anybody. And
+                                                                   rain:`}</GalleryLineation>
                  </>
         )
     }
@@ -140,21 +128,19 @@ export function TwoEyesRawText8() {
     export function TwoEyesRawText10() {
             return (
                 <>
-             <GalleryLineation> <pre>{`
-  The tears of the professor are falling
+             <GalleryLineation> {`The tears of the professor are falling
 
-                                                    apart as she raises her voice to the choir. There
-                                        is no way to return the tears to the proper owners before
-                                        they arrive to the professor. After the afternoon
-                                        shoulders the light, the lights move outside of each other, 
-                                        becoming less and less afraid of the bathroom and the
-                                        stained glass windows near the aisle. After the light locks
-                                        the earth in from its circular commotion, winter deceives
-                                        itself by thinking in sotto voce, `}<i>I am the only one who moves</i>{`
-                                        `}<i>the seasons around</i>{`, and says out loud, “You are eating my
-                                        heartbeat, you are eating, eating, eating me, Spring. Let
-                                        me move through the season like a barren queen.”
-              `}</pre></GalleryLineation>
+                                                                                   apart as she raises her voice to the choir. There
+                                                                  is no way to return the tears to the proper owners before
+                                                                  they arrive to the professor. After the afternoon
+                                                                  shoulders the light, the lights move outside of each other, 
+                                                                  becoming less and less afraid of the bathroom and the
+                                                                  stained glass windows near the aisle. After the light locks
+                                                                  the earth in from its circular commotion, winter deceives
+                                                                  itself by thinking in sotto voce, `}<i>I am the only one who moves</i>{`
+                                                                  `}<i>the seasons around</i>{`, and says out loud, “You are eating my
+                                                                  heartbeat, you are eating, eating, eating me, Spring. Let
+                                                                  me move through the season like a barren queen.”`}</GalleryLineation>
               </>
       )
     }
@@ -162,14 +148,12 @@ export function TwoEyesRawText8() {
 export function TwoEyesRawText11() {
             return (
                 <>
-              <GalleryLineation> <pre>{`
-After the winter gives the keys of daylight  
+              <GalleryLineation>{`After the winter gives the keys of daylight  
 
-                                             hours over to Spring, Spring opens the screen
-                                             door. Ziplocks winter away in cereal bowls. In the
-                                             afternoon, Spring and Winter remove each other’s 
-                                             company: `}<i>You and the trees. You will meet them again.</i>{`
-               `}</pre></GalleryLineation>
+                                                                                    hours over to Spring, Spring opens the screen
+                                                                   door. Ziplocks winter away in cereal bowls. In the
+                                                                   afternoon, Spring and Winter remove each other’s 
+                                                                   company: `}<i>You and the trees. You will meet them again.</i></GalleryLineation>
                  </>
         )
     }
@@ -177,13 +161,11 @@ After the winter gives the keys of daylight  
     export function TwoEyesRawText12() {
                 return (
                     <>
-               <GalleryLineation> <pre>{`
-The priest is breathing finally and eating
+               <GalleryLineation>{`The priest is breathing finally and eating
 
-                                                time is never the place to do it. Not on the table.
-                                         Never on the table of God. Landscape knows that night
-                                         will murder the day each time.
-                `}</pre></GalleryLineation>
+                                                                                    time is never the place to do it. Not on the table.
+                                                                   Never on the table of God. Landscape knows that night
+                                                                   will murder the day each time.`}</GalleryLineation>
                     </>
         )
     }
@@ -191,23 +173,21 @@ The priest is breathing finally and eating
     export function TwoEyesRawText13() {
                 return (
                     <>
-                <GalleryLineation> <pre>{`
- The professor walks out of the church
+                <GalleryLineation>{`The professor walks out of the church
 
-                                        tossing the bible to the bird. The professor
-                                        wears a long black skirt, ready to educate the young on
-                                        Newton’s third law. She ambles toward the flowerbeds
-                                        saturated with blue gems, bindweeds, scarlet pimpernels,
-                                        & Bermuda buttercups.  The flowers square their soft 
-                                        shoulder blades of affection, father their congregation of
-                                        avifaunal memory,  and bend their flowerheads in 
-                                        prayer.  The professor’s black skirt, its folded pleats
-                                        swaying back & forth back /// forth like lawnmower
-                                        blades. Preparing to inadvertently break the flowers’
-                                        backs. In preparation for the worst, the flowers begin to
-                                        empty their inflorescences into the shadow cast by the
-                                        sun.
-                 `}</pre></GalleryLineation>
+                                                                                    tossing the bible to the bird. The professor
+                                                                   wears a long black skirt, ready to educate the young on
+                                                                   Newton’s third law. She ambles toward the flowerbeds
+                                                                   saturated with blue gems, bindweeds, scarlet pimpernels,
+                                                                   & Bermuda buttercups.  The flowers square their soft 
+                                                                   shoulder blades of affection, father their congregation of
+                                                                   avifaunal memory,  and bend their flowerheads in 
+                                                                   prayer.  The professor’s black skirt, its folded pleats
+                                                                   swaying back & forth back /// forth like lawnmower
+                                                                   blades. Preparing to inadvertently break the flowers’
+                                                                   backs. In preparation for the worst, the flowers begin to
+                                                                   empty their inflorescences into the shadow cast by the
+                                                                   sun.`}</GalleryLineation>
                      </>
             )
       }
@@ -215,20 +195,18 @@ The priest is breathing finally and eating
     export function TwoEyesRawText14() {
                   return (
                       <>
-                 <GalleryLineation> <pre>{`
-United in prayer, they pray:
+                 <GalleryLineation>{`United in prayer, they pray:
 
-                                        “Professor, do not swing our way.” The flowers
-                                        wish to stay on earth a little longer. A day in the life of  
-                                        a flower is one third of a life for many.  The Bermuda
-                                        buttercups hang on tightly to their open blouses, the
-                                        scarlet pimpernels pull down their floating hearts,
-                                        grappling for another portion of immortality. Fighting
-                                        for another layer of brevity & trying to expand the
-                                        biological contact with the world. It’s hard to keep
-                                        holding up the spine. To maintain the posture of tenacity
-                                        & fragility. 
-                  `}</pre></GalleryLineation>
+                                                                                  “Professor, do not swing our way.” The flowers
+                                                                   wish to stay on earth a little longer. A day in the life of  
+                                                                   a flower is one third of a life for many.  The Bermuda
+                                                                   buttercups hang on tightly to their open blouses, the
+                                                                   scarlet pimpernels pull down their floating hearts,
+                                                                   grappling for another portion of immortality. Fighting
+                                                                   for another layer of brevity & trying to expand the
+                                                                   biological contact with the world. It’s hard to keep
+                                                                   holding up the spine. To maintain the posture of tenacity
+                                                                   & fragility.`}</GalleryLineation>
                     </>
           )
     }
@@ -236,11 +214,9 @@ United in prayer, they pray:
     export function TwoEyesRawText15() {
                 return (
                     <>
-                  <GalleryLineation> <pre>{`
-  The blades of the pleats
+                  <GalleryLineation>{`The blades of the pleats
 
-                                          swing. The flowers lose their spines.
-                  `}</pre></GalleryLineation>
+                                                                   swing. The flowers lose their spines.`}</GalleryLineation>
                        </>
         )
     }
