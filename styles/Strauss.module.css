@@ -11,7 +11,7 @@
   justify-content:center;
   align-items:center;
   width:90%;
-  height:100vh;
+  height:85vh;
   margin:6% 0 6% 0;
   background:linear-gradient(to top left, white 2%, darkgray 3%, #f2f2f2 4%, snow 6%, white 11%,
     whitesmoke 22%, white 25%, whitesmoke 35%, white 51%, whitesmoke 55%, snow 75%,
@@ -80,3 +80,16 @@
   text-shadow:2px 2px #f2f2f2,
               4px 4px black;
 }
+
+@media (max-width: 429px) and (orientation:portrait) {
+
+
+  .carousel > .prev {
+    font-size:2.5rem;
+  }
+
+  .carousel > .next {
+    font-size:2.5rem;
+  }
+
+ }
