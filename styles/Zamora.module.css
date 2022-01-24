@@ -107,15 +107,3 @@
 
 
   }
-
- @media (max-width: 767.98px) {
-
-   .carousel > .prev {
-     font-size:3rem;
-   }
-
-   .carousel > .next {
-     font-size:3rem;
-   }
-
-  }

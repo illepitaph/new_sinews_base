@@ -85,12 +85,9 @@
   @media (max-width: 281px) and (orientation:portrait) {
 
     .galleryLineation {
-        max-width:95%;
       font-size:0.28rem;
       font-weight:500;
-      letter-spacing:0;
       line-height:6px;
-      text-shadow:none;
     }
 
    }
