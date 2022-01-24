@@ -42,14 +42,6 @@
   }
 }
 
-@media (min-width:1081px) and (max-width: 1282px) and (orientation:landscape){
-
-  .lineation {
-    max-width:90vw;
-    font-size:1.8rem;
-  }
-}
-
 @media (max-width: 991.98px) {
 
   .standardProse {
@@ -72,7 +64,7 @@
  }
 
 
- @media (max-width: 290px) {
+ @media (max-width: 361px) and (orientation:portrait) {
 
  .title {
      font-size:1.5rem;

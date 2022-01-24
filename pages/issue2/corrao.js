@@ -1,10 +1,8 @@
 import Head from 'next/head'
-import Link from 'next/link'
 import Header from '../../components/header.js'
 import RightBlackTitle from '../../components/rightBlackTitle.js'
 import LeftGrayTitle from '../../components/leftGrayTitle.js'
 import StandardProse from '../../components/standardProse.js'
-import StandardLineation from '../../components/standardLineation.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Corrao.module.css'
 Corrao.title = "mike_corrao ~ the_archaelogy_of_virtual_spaces — new_sinews"
@@ -478,7 +476,6 @@ MODIFICATION OF THE VIRTUAL BODY / BECOMING-SPECTRE
             <br/>
             <br/>
             </StandardProse>
-            <br/><br/><br/><br/><br/><br/><br/><br/>
 
               <Footer/>
                 </>

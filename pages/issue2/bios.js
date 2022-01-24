@@ -142,7 +142,6 @@ export default function Issue2Bios() {
    is currently writing a book on the afterlife of Japanese American incarceration. He
    lives in the desert.
    </StandardProse>
-   <br/><br/><br/><br/><br/><br/><br/><br/>
 
    <Footer/>
 

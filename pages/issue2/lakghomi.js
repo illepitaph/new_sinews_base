@@ -1,6 +1,4 @@
 import Head from 'next/head'
-import Image from 'next/image'
-import Link from 'next/link'
 import Header from '../../components/header.js'
 import RightBlackTitle from '../../components/rightBlackTitle.js'
 import LeftGrayTitle from '../../components/leftGrayTitle.js'
@@ -12,8 +10,6 @@ export default function Lakghomi() {
   return (
       <>
           <Head/>
-
-          <body>
 
        <Header headerBackground="lakghomiBackground"/>
 
@@ -84,9 +80,9 @@ export default function Lakghomi() {
       could forget his name, she might believe she was his wife and not his daughter, and the father
       might say her name.
       </StandardProse>
-      <br/><br/><br/><br/><br/><br/><br/><br/>
+
       <Footer/>
-             </body>
+
          </>
      )
    }
