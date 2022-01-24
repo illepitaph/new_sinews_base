@@ -224,19 +224,17 @@ export function TwoEyesRawText11() {
     export function TwoEyesRawText16() {
                 return (
                     <>
-                   <GalleryLineation> <pre>{`
-The church does not
+                   <GalleryLineation>{`The church does not
 
-                                        collapse when members of their congregation
-                                        fold their spines. The cathedral dilapidates on the
-                                        shadow created by the trees, lies still like a cathedral bird
-                                        until their bones are dispersed into dust & become light.
-                                        Dusty light crawls its illumination to the front doorstep of
-                                        the church /// As a deceased Lucifer, transported by the
-                                        stained glass windows, light sits by the transept, lifts its
-                                        translucent throat, and allows a flock of prayers to float
-                                        out of its mouth.
-                    `}</pre></GalleryLineation>
+                                                                                collapse when members of their congregation
+                                                                   fold their spines. The cathedral dilapidates on the
+                                                                   shadow created by the trees, lies still like a cathedral bird
+                                                                   until their bones are dispersed into dust & become light.
+                                                                   Dusty light crawls its illumination to the front doorstep of
+                                                                   the church /// As a deceased Lucifer, transported by the
+                                                                   stained glass windows, light sits by the transept, lifts its
+                                                                   translucent throat, and allows a flock of prayers to float
+                                                                   out of its mouth.`}</GalleryLineation>
                     </>
               )
       }
@@ -245,12 +243,10 @@ The church does not
       export function TwoEyesRawText17() {
                       return (
                        <>
-                    <GalleryLineation> <pre>{`
- Two lovers sit in a Houston
+                    <GalleryLineation>{`Two lovers sit in a Houston
 
-                                      Church in the middle of the afternoon. Their
-                              orgasms sprawl out onto the nave.
-                    `}</pre></GalleryLineation>
+                                                                                Church in the middle of the afternoon. Their
+                                                                    orgasms sprawl out onto the nave.`}</GalleryLineation>
                     </>
               )
         }
@@ -259,9 +255,7 @@ The church does not
                           return (
                               <>
 
-                    <GalleryLineation> <pre>{`
-The bird has two eyes.          The Church has one.          Whoseesbetter?
-                    `}</pre></GalleryLineation>
+                    <GalleryLineation>{`The bird has two eyes.               The Church has one.               Whoseesbetter?`}</GalleryLineation>
                         </>
                 )
           }
@@ -271,7 +265,7 @@ The bird has two eyes.          The Church has one.         �
                                 <>
 
             <CenterGrayTitle><span className={styles.blackShadow}>
-            <h3>version<br/>two: two eyes in one<br/>eye</h3></span></CenterGrayTitle>
+            version<br/>two: two eyes in one<br/>eye</span></CenterGrayTitle>
             </>
         )
     }
@@ -279,14 +273,16 @@ The bird has two eyes.          The Church has one.         �
     export function TwoEyesRawText20() {
                       return (
                           <>
-            <GalleryLineation> <pre>{`
-                      `}<strong>BIRD</strong>{`                                    `}<strong>CATHEDRAL</strong>{`
+            <GalleryLineation>{`
+                         `}<strong>BIRD</strong>{`                                              `}<strong>CATHEDRAL</strong>{`
 My feathers are singing buttresses                   My buttresses are buttresses
-I have two eyes                                      I have one
+I have two eyes                                               I have one
 
 
-                                  Who sees better?
-            `}</pre></GalleryLineation>
+                                                       Who
+                                                      sees
+                                                     better?
+            `}</GalleryLineation>
               </>
     )
 }
@@ -295,7 +291,7 @@ export function TwoEyesRawText21() {
                   return (
                       <>
             <CenterGrayTitle><span className={styles.blackShadow}>
-            <h3>version<br/>three: two eyes in one<br/>eye</h3></span></CenterGrayTitle>
+            version<br/>three: two eyes in one<br/>eye</span></CenterGrayTitle>
                   </>
         )
     }
@@ -304,8 +300,7 @@ export function TwoEyesRawText22() {
                       return (
                           <>
 
-            <GalleryLineation> <pre>{`
-            After winter gives the keys of daylight
+            <GalleryLineation>{`            After winter gives the keys of daylight
             Hours over to Spring——Spring opens the screen door
             To ziplock Winter in cereal bowls——
             The bird circles the cathedral once, twice in the Spring
@@ -314,8 +309,7 @@ export function TwoEyesRawText22() {
             It thinks it can triumph light
             Clattered incandescently through the pillars
             The heart of the church is cold & blistery——
-            Ready to be lightwood——splintered by time
-             `}</pre></GalleryLineation>
+            Ready to be lightwood——splintered by time`}</GalleryLineation>
              </>
         )
     }
@@ -323,7 +317,7 @@ export function TwoEyesRawText22() {
     export function TwoEyesRawText23() {
                       return (
                           <>
-             <GalleryLineation> <pre>{`
+             <GalleryLineation>{`
       The bird opens its congregation of feathers
               The physicist opens the bible made of birdseeds
       She is a professor of time
@@ -338,7 +332,7 @@ export function TwoEyesRawText22() {
       Near the flowerbeds saturated with worried blue gems, bindweeds, scarlet
       Pimpernels, & Bermuda buttercups
       Flowers square their soft blades of affection——fearing for their lives
-              `}</pre></GalleryLineation>
+              `}</GalleryLineation>
                           </>
              )
         }
@@ -347,8 +341,7 @@ export function TwoEyesRawText22() {
                           return (
                               <>
 
-              <GalleryLineation> <pre>{`
-          Avifaunal memory gathers at the foreheads
+              <GalleryLineation>{`          Avifaunal memory gathers at the foreheads
           Of flowers, bird, & cathedral
           The blades of the dress move gracefully
           Through light
@@ -359,8 +352,7 @@ export function TwoEyesRawText22() {
           Light sways; darkness sways
           The Bermuda buttercups hang on tightly to their open blouses
           The scarlet pimpernels pull down their floating hearts
-          Grappling for another portion of immortality
-               `}</pre></GalleryLineation>
+          Grappling for another portion of immortality`}</GalleryLineation>
                              </>
         )
   }
@@ -368,8 +360,7 @@ export function TwoEyesRawText22() {
   export function TwoEyesRawText25() {
                     return (
                         <>
-               <GalleryLineation> <pre>{`
-                 The professor tosses the bible in the air
+               <GalleryLineation>{`                 The professor tosses the bible in the air
                  Arrives at the door of a slaughter house
                  A flock of prayers float out of the blue gems’ mouths
                  The blades of the dress                   Swing
@@ -378,8 +369,7 @@ export function TwoEyesRawText22() {
                  The bird pecks at the flesh of the bible
                  The bird has two eyes
                  The church has one
-                 Who sees better?
-                `}</pre></GalleryLineation>
+                 Who sees better?`}</GalleryLineation>
                 </>
         )
     }

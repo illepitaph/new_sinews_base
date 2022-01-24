@@ -98,7 +98,7 @@
   text-shadow:1px 1px red;
 }
 
-@media (max-height: 1281px) and (orientation:portrait) {
+@media (max-height: 1369px) and (orientation:portrait) {
 
   .carousel {
     height:50vh;

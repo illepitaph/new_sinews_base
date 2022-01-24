@@ -11,7 +11,7 @@
   justify-content:center;
   align-items:center;
   width:90%;
-  height:100vh;
+  height:80vh;
   margin:6% 0 6% 0;
   background:
     linear-gradient(white 6%, gainsboro 10%, #e8e8e8 12%, whitesmoke 17%, snow 20%,
@@ -89,7 +89,7 @@
 @media (max-width: 916px) {
 
   .carousel > .prev {
-    top: 10%;
+    top: 17%;
 }
 
 .carousel > .next {
@@ -102,7 +102,7 @@
 
   .blackShadow {
     font-size:2.2rem;
-    line-height:6rem;
+    line-height:4rem;
   }
 
  }
@@ -124,7 +124,7 @@
  @media (max-width: 429px) and (orientation:portrait) {
 
    .carousel {
-     height:60vh;
+     height:57vh;
    }
 
    .carousel > .prev {

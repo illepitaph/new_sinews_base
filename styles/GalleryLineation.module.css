@@ -27,11 +27,11 @@
 @media (max-width: 991.98px) {
 
   .galleryLineation {
-    font-size:0.7rem;
+    font-size:0.8rem;
   }
 }
 
- @media (max-width: 767.98px) {
+ @media (max-width: 769px) {
 
    .galleryLineation {
      font-size:0.7rem;
@@ -56,8 +56,6 @@
 
      .galleryLineation {
        font-size:0.5rem;
-       letter-spacing:0;
-       text-shadow:none;
      }
 
     }
@@ -66,10 +64,8 @@
  @media (max-width: 429px) and (orientation:portrait) {
 
    .galleryLineation {
-     font-size:0.4rem;
-     letter-spacing:0;
+     font-size:0.5rem;
      line-height:10px;
-     text-shadow:none;
    }
 
   }
@@ -79,8 +75,6 @@
 
    .galleryLineation {
        max-width:95%;
-     font-size:0.36rem;
-     font-weight:500;
      letter-spacing:0;
      line-height:10px;
      text-shadow:none;
