@@ -26,9 +26,9 @@ export function StraussRawText2(){
 {`                    As egg         optic        nerve     nervous
                                                         Portal to
                      What         nourishes whom             and where
-                     Am I           looking    conventions
+                     Am I           looking       conventions
                                                     Catalyze their         cancellation does
-                            Not concern             some            continuities much or any.`}
+                            Not concern              some            continuities much or any.`}
           </GalleryLineation>
           </>
     )
@@ -50,9 +50,9 @@ Inmost self
 Judgment        jars full
                    Of batteries than             jam
 Jimmies            lock now no more
-                                   Halting at         prospect
+                                  Halting at         prospect
                                         Space to step
-And step        reasonably perceives.`}
+And step         reasonably perceives.`}
           </GalleryLineation>
           </>
     )
@@ -80,7 +80,7 @@ export function StraussRawText4(){
                     Looks like water as it curls into its break
 
                                Looks like water carved stone more than
-                            Winds           endlessly rend.`}
+                            Winds             endlessly rend.`}
           </GalleryLineation>
           </>
     )
@@ -95,7 +95,7 @@ export function StraussRawText5(){
          <GalleryLineation>
   {`              Ancient           now         edge        shimmer of
                                      Umber      sienna    cinnabar
-                                    Freshly crushed           fruit   its oils
+                                    Freshly crushed         fruit     its oils
                                                    Gloss memory
                                   Snows reconstructive flakes.`}
           </GalleryLineation>
@@ -106,20 +106,21 @@ export function StraussRawText5(){
 export function StraussRawText6(){
   return   (
           <>
-        <CenterBlackTitle><h4>1.37        <span className={styles.grayShadow}> [<i> Touchtone
-          </i>]</span> </h4></CenterBlackTitle>
+        <CenterBlackTitle>1.37        <span className={styles.grayShadow}> [<i> Touchtone
+          </i>]</span></CenterBlackTitle>
           <br/>
          <GalleryLineation>
-         <pre>
 {`One and one and one and every          difference
-Winds       through pines        pinions       what fused
-Ever   ether     redresses its       formula`}<br/>{`
-Finds    if flinch but      inside    filing
-Away at       interior    tells     different
-Wave          lengths like locks hair       models`}<br/>{`
-Make persuasion            gone to
-Seed      germane absurd         and proves rich culture
-Remains     unseen.`}</pre>
+Winds           through pines        pinions         what fused
+Ever    ether         redresses its        formula
+
+Finds       if flinch but        inside       filing
+Away at        interior      tells         different
+Wave           lengths like locks hair       models
+
+Make persuasion           gone to
+Seed          germane absurd         and proves rich culture
+Remains        unseen.`}
           </GalleryLineation>
           </>
     )

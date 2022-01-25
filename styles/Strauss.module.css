@@ -81,15 +81,115 @@
               4px 4px black;
 }
 
-@media (max-width: 429px) and (orientation:portrait) {
+@media (min-height: 1079px) and (orientation:portrait) {
 
+  .carousel {
+    height:51vh;
+  }
+}
+
+@media (max-width: 927px) and (orientation:landscape) {
+
+  .carousel {
+    height:100vh;
+  }
 
   .carousel > .prev {
-    font-size:2.5rem;
+    top:2%;
   }
 
   .carousel > .next {
+    top:20%;
+  }
+
+
+}
+
+@media (max-width: 897px) and (orientation:landscape) {
+
+  .carousel > .prev {
+    top:2%;
+  }
+
+  .carousel > .next {
+    top:12%;
+  }
+
+
+}
+
+@media (max-width: 855px) and (orientation:landscape) {
+
+  .carousel {
+    height:105vh;
+  }
+
+
+  .carousel > .prev {
+    font-size:3rem;
+    top:5%;
+
+}
+
+  .carousel > .next {
+    font-size:3rem;
+      top:25%;
+  }
+
+ }
+
+@media (max-width: 429px) and (orientation:portrait) {
+
+  .carousel {
+    height:65vh;
+  }
+
+
+  .carousel > .prev {
+    top:1%;
+    left:-5%;
+    font-size:2.5rem;
+    letter-spacing:0;
+  }
+
+  .carousel > .next {
+    top:55%;
+    right:-6%;
     font-size:2.5rem;
   }
 
  }
+
+ @media (max-width: 429px) and (orientation:portrait) {
+
+   .carousel {
+     height:55vh;
+   }
+
+
+  }
+
+  @media (max-width: 376px) and (orientation:portrait) {
+
+    .carousel > .prev {
+      font-size:2.1rem;
+      top:1%;
+
+    }
+
+    .carousel > .next {
+      font-size:2.1rem;
+      top:33%;
+    }
+
+
+   }
+
+   @media (max-width: 281px) and (orientation:portrait) {
+
+     .carousel > .next {
+       top:43%;
+     }
+
+
+    }
