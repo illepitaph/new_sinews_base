@@ -16,7 +16,7 @@ export default function Issue2Bios() {
    <Header/>
 
    <CenterBlackTitle>new_sinews</CenterBlackTitle>
-   <CenterGrayTitle>issue_<span style={{color:"#2cbae7", opacity:"0.6"}}>two</span></CenterGrayTitle>
+   <CenterGrayTitle><span className={styles.magicMint}>issue_two</span></CenterGrayTitle>
    <CenterBlackTitle>contributors</CenterBlackTitle>
 
    <StandardProse>

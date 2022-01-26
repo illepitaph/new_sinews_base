@@ -21,9 +21,9 @@ export default function Issue4Bios() {
 
    <Header/>
 
-   <CenterBlackTitle><h3>new_sinews</h3></CenterBlackTitle>
-   <CenterGrayTitle><h3>issue_<span style={{color:"#2cbae7", opacity:"0.6"}}>four</span></h3></CenterGrayTitle>
-   <CenterBlackTitle><h3>contributors</h3></CenterBlackTitle>
+   <CenterBlackTitle>new_sinews</CenterBlackTitle>
+   <CenterGrayTitle><span className={styles.magicMint}>issue_four</span></CenterGrayTitle>
+   <CenterBlackTitle>contributors</CenterBlackTitle>
 
    <StandardProse>
    <br/>

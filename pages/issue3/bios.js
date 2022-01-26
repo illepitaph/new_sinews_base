@@ -15,7 +15,7 @@ export default function Issue3Bios() {
    <Header/>
 
    <CenterBlackTitle>new_sinews</CenterBlackTitle>
-   <CenterGrayTitle>issue_<span style={{color:"#2cbae7", opacity:"0.6"}}>3</span></CenterGrayTitle>
+   <CenterGrayTitle><span className={styles.magicMint}>issue_3</span></CenterGrayTitle>
    <CenterBlackTitle>contributors</CenterBlackTitle>
 
    <StandardProse>

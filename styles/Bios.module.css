@@ -1,12 +1,15 @@
 .biosExternalLink {
   text-decoration:none;
-  color:red;
-  text-shadow:1px 1px #b0b0b0;
+  color:#aaf0d1;
+  font-weight:500;
+  letter-spacing:2px;
+  text-shadow:1px 1px black, 2px 2px #b0b0b0;
+  cursor:grab;
 }
 
 .biosExternalLink:hover {
   cursor:pointer;
-  letter-spacing:2px;
+  letter-spacing:5px;
 }
 
 .grayInverse {
@@ -14,21 +17,13 @@
   text-shadow:1px 1px black;
 }
 
+.magicMint {
+  color:#aaf0d1;
+}
+
 @media (max-width: 991.98px) {
 
   .standardProse {
     max-width:90vw;
   }
-
-  .biosExternalLink {
-    text-shadow:none;
-  }
 }
-
-@media (max-width: 767.98px) {
-
-  .standardProse {
-    max-width:90vw;
-  }
-
- }
