@@ -14,11 +14,11 @@ export default function Stough() {
 
        <Header headerBackground="stoughBackground"/>
 
-        <LeftGrayTitle><h3><span className={styles.duskShadow}>ba <span
+        <LeftGrayTitle><span className={styles.duskShadow}>ba <span
         className={styles.inverse}>l </span>an <span
         className={styles.inverse}>c</span>e<br/><span
         className={styles.inverse}><span className={styles.headerIndent}>s</span></span> hee<span
-        className={styles.inverse}> t</span></span></h3></LeftGrayTitle>
+        className={styles.inverse}> t</span></span></LeftGrayTitle>
 
 
         <RightBlackTitle><span className={styles.bareHeader}>... ... cary<br/>... ... stough</span>
