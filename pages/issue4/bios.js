@@ -22,7 +22,7 @@ export default function Issue4Bios() {
    <Header/>
 
    <CenterBlackTitle><h3>new_sinews</h3></CenterBlackTitle>
-   <CenterGrayTitle><h3>issue_four</h3></CenterGrayTitle>
+   <CenterGrayTitle><h3>issue_<span style={{color:"#2cbae7", opacity:"0.6"}}>four</span></h3></CenterGrayTitle>
    <CenterBlackTitle><h3>contributors</h3></CenterBlackTitle>
 
    <StandardProse>

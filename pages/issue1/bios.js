@@ -17,7 +17,7 @@ export default function Issue1Bios() {
    <Header/>
 
    <CenterBlackTitle>new_sinews</CenterBlackTitle>
-   <CenterGrayTitle>issue_one</CenterGrayTitle>
+   <CenterGrayTitle>issue_<span style={{color:"#2cbae7", opacity:"0.6"}}>one</span></CenterGrayTitle>
    <CenterBlackTitle>contributors</CenterBlackTitle>
 
    <StandardProse>
