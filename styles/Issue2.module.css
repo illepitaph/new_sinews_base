@@ -192,6 +192,7 @@
    .workLink {
      font-size: 1.1rem;
      letter-spacing:0.1rem;
+       text-shadow: 4px 2px #6b6b6b;
    }
 
    .siteShortcuts {

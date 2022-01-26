@@ -31,7 +31,7 @@ export default function Issue2() {
         <div className={styles.workLink}><Link href="/issue2/taylor">sam taylor_five poems</Link></div>
       </div>
       <div className={styles.col1}>
-        <div className={styles.workLink}><Link href="/issue2/porte">rebecca ariel porte_some portraits of persons as
+        <div className={styles.workLink}><Link href="/issue2/porte">rebecca ariel porte_portraits of some persons as
         imaginary cities</Link></div>
       </div>
       <div className={styles.col1}>
