@@ -37,3 +37,28 @@
   text-shadow:1px 1px snow,
               2px 2px #b0b0b0;
 }
+
+
+@media (max-width:429px) and (orientation:portrait) {
+  .duskShadow {
+    font-size:3.2rem;
+    margin-left:0.6rem;
+  }
+
+}
+
+@media (max-width:391px) and (orientation:portrait) {
+  .duskShadow {
+    font-size:2.7rem;
+    margin-left:0.6rem;
+  }
+
+}
+
+@media (max-width:281px) and (orientation:portrait) {
+  .duskShadow {
+    font-size:2rem;
+    margin-left:0.6rem;
+  }
+
+}
