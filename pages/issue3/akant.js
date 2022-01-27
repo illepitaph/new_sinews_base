@@ -1,6 +1,5 @@
 import React, {useState} from 'react'
 import Head from 'next/head'
-import Link from 'next/link'
 import Header from '../../components/header.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Akant.module.css'
