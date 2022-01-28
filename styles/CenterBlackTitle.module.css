@@ -9,6 +9,21 @@
   margin:7vh 0 7vh 0;
 }
 
+.tombModelLink {
+    text-shadow:2px 2px snow,
+                4px 4px #b0b0b0;
+    cursor:pointer;
+    opacity:0.6;
+  }
+
+.tombModelLink:hover {
+    color:black;
+    font-style:italic;
+    letter-spacing: 0.2rem;
+    text-shadow: none;
+    opacity:1;
+  }
+
 @media (max-width: 767.98px) {
 
   .centerBlackTitle {

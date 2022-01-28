@@ -115,9 +115,6 @@ export default function Issue3Bios() {
    - Neuronics). Along with earning multiple Best of the Net nominations, Mike’s work has been featured in
    publications such as <i>3:AM</i>, <i>The Collagist</i>, <i>Always Crashing</i>, and <i>The Portland
    Review</i>. He lives in Minneapolis.
-   <br/>
-   <br/>
-   <br/>
    </StandardProse>
 
    <Footer/>

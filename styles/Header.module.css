@@ -255,3 +255,24 @@
 
 
  }
+
+ @media (max-height: 376px) and (orientation:landscape){
+
+   .siteNav > button {
+     margin-bottom:4vh;
+   }
+
+
+
+ }
+
+ @media (max-height: 281px) and (orientation:landscape){
+
+   .siteNav > button {
+     font-size:0.5rem;
+     padding:3.5px 5px;
+   }
+
+
+
+ }

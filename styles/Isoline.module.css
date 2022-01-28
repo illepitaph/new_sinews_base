@@ -1,5 +1,6 @@
 .title {
-  margin-right:7rem;
+  display:inline-block;
+  margin-right:2vw;
 }
 
 .titleShadow {
@@ -18,9 +19,42 @@
   font-family: "astoria-sans-medium-condensed", sans-serif;
   font-weight: 300;
   font-style: normal;
-  font-size:1.2rem;
+  font-size:1.3rem;
   text-shadow:1px 1px #b0b0b0;
   letter-spacing:-0.02rem;
   line-height:1.4em;
-  margin-left:15rem;
+  margin-left:14vw;
+}
+
+@media (max-width:927px) and (orientation:landscape) {
+  .foam {
+    max-width:90vw;
+    font-size:1.2rem;
+    margin-left:5vw;
+    white-space:pre-line;
+  }
+}
+
+@media (max-width:912px) and (orientation:portrait) {
+  .foam {
+    max-width:90vw;
+    font-size:1.2rem;
+    margin-left:5vw;
+    white-space:pre-line;
+  }
+}
+
+@media (max-width:413px) and (orientation:portrait) {
+  .foam {
+    max-width:90vw;
+    font-size:1rem;
+    margin-left:3vw;
+    white-space:pre-line;
+  }
+}
+
+@media (max-width:281px) and (orientation:portrait) {
+  .foam {
+    font-size:0.7rem;
+  }
 }
