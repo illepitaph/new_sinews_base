@@ -149,13 +149,13 @@
   .dataBlood {
     font-size:1rem;
     margin-right:2rem;
-    white-space: pre-wrap;
+    white-space: pre-line;
   }
 
   .zeroProgress {
       font-size:1rem;
       margin-left:2rem;
-      white-space: pre-wrap;
+      white-space: pre-line;
     }
 
 }

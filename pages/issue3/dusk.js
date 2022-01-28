@@ -2,7 +2,6 @@ import Head from 'next/head'
 import Header from '../../components/header.js'
 import LeftGrayTitle from '../../components/leftGrayTitle.js'
 import RightGrayTitle from '../../components/rightGrayTitle.js'
-import StandardLineation from '../../components/standardLineation.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Dusk.module.css'
 Dusk.title = "vi_khi_nao ~ retrieve_the_dusk — new_sinews"
@@ -27,7 +26,7 @@ export default function Dusk() {
         </RightGrayTitle>
 
 
-        <StandardLineation className={styles.duskLineation} content={`
+        <pre className={styles.duskLineation}>{`
 
   1.
   They all met in the café.
@@ -237,9 +236,10 @@ export default function Dusk() {
   I sat there on the sofa futon reading all day and not breathing.
   You think the night could slip into your face and your face can fall asleep.
 
-  “Now all I can do is breathe like the vegetables in the garden. I have a physical longing for you.”`}/>
+  “Now all I can do is breathe like the vegetables in the garden. I have a physical longing for you.”`}</pre>
 
-  <br/><pre className={styles.italAnomaly}>  The Land of Green Plums.</pre><StandardLineation content={`
+  <br/><p className={styles.italAnomaly}>The Land of Green Plums.</p><pre
+  className={styles.duskLineation}>{`
 
 
   6.
@@ -299,7 +299,7 @@ export default function Dusk() {
   It seems all the MFA students are having health issues.
   Yes, the maternity of the year.
 
-          `}/>
+          `}</pre>
 
                      <Footer/>
 
