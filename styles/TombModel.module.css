@@ -136,6 +136,23 @@
   .link {
       font-size:2rem;
     }
+
+    .carousel > .prev, .carousel > .next {
+      font-size:3rem;
+      letter-spacing:0.2rem;
+    }
+
+    .carousel > .prev {
+      top:13%;
+    }
+
+    .carousel > .next {
+      top:68%;
+    }
+
+    .grayShadow {
+      font-size:0.8rem;
+    }
 }
 
 @media (max-width:391px) and (orientation:portrait) {
