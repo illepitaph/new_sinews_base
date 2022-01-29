@@ -133,6 +133,7 @@
               2px 2px black;
 }
 
+
 @media (max-width:916px) and (orientation:landscape) {
   .carousel {
     height:150vh;
@@ -149,6 +150,23 @@
     .roughAltText {
       font-size:2rem;
     }
+}
+
+@media (min-width:809px) and (orientation:portrait) {
+  .carousel {
+    height:70vh;
+  }
+
+  .roughAltText {
+    font-size:2rem;
+  }
+
+}
+
+@media (max-width:761px) and (orientation:landscape) {
+  .carousel {
+    height:190vh;
+  }
 }
 
 @media (max-width:429px) and (orientation:portrait) {
@@ -193,8 +211,21 @@
 }
 
 @media (max-width:361px) and (orientation:portrait) {
+
+  .carousel {
+    height:130vh;
+  }
+
   .link {
       font-size:1.7rem;
+    }
+
+    .grayShadowSpecial {
+      font-size:1.1rem;
+    }
+
+    .specialDateCitation {
+      font-size:0.6rem;
     }
 }
 
