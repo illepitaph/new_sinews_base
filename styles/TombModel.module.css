@@ -73,6 +73,8 @@
 }
 
 .arrows {
+  text-align:center;
+  letter-spacing:3vw;
   font-size:2.6rem;
   text-shadow:1px 1px snow,
               2px 2px red;
@@ -91,20 +93,27 @@
 }
 
 .link {
-  text-shadow:2px 2px snow,
-              4px 4px #b0b0b0;
-  cursor:pointer;
-  opacity:0.6;
-}
+    font-family:"lores-9-plus-wide";
+    font-size:2.3rem;
+    font-weight:700;
+    text-align:center;
+    text-transform:lowercase;
+    letter-spacing:-0.02rem;
+    line-height:1.4em;
+    margin:7vh 0 7vh 0;
+    text-shadow:2px 2px snow,
+                4px 4px #b0b0b0;
+    cursor:pointer;
+    opacity:0.6;
+  }
 
 .link:hover {
-  color:black;
-  font-style:italic;
-  letter-spacing: 0.2rem;
-  text-shadow: none;
-  opacity:1;
-}
-
+    color:black;
+    font-style:italic;
+    letter-spacing: 0.5rem;
+    text-shadow: none;
+    opacity:1;
+  }
 .grayShadow {
   font-family:"lores-9-plus-wide";
   text-shadow:1px 1px snow,
@@ -121,4 +130,28 @@
   color:#b0b0b0;
   text-shadow:1px 1px snow,
               2px 2px black;
+}
+
+@media (max-width:429px) and (orientation:portrait) {
+  .link {
+      font-size:2rem;
+    }
+}
+
+@media (max-width:391px) and (orientation:portrait) {
+  .link {
+      font-size:1.9rem;
+    }
+}
+
+@media (max-width:361px) and (orientation:portrait) {
+  .link {
+      font-size:1.7rem;
+    }
+}
+
+@media (max-width:361px) and (orientation:portrait) {
+  .link {
+      font-size:1.5rem;
+    }
 }

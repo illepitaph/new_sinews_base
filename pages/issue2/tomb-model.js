@@ -19,22 +19,24 @@ export default function TombModelCover() {
        <br/><br/>
        <CenterGrayTitle> :: brandon<br/>shimoda :: </CenterGrayTitle>
        <br/><br/>
-       <div className={styles.arrows}> [down arrows!!!]</div>
-       <CenterBlackTitle
-       className={styles.tombModelLink}><Link href="/issue2/tomb-model-one">place is our new destitute imperative</Link></CenterBlackTitle>
+       <div className={styles.arrows}>&#8675; &#8681; &#8675; &#8681;</div>
+       <Link href="/issue2/tomb-model-one"><div
+       className={styles.link}>place is our new<br/>destitute imperative</div></Link>
        <br/><br/>
-       <Link href="/issue2/tomb-model-two"><CenterBlackTitle><span className={styles.arrows}> ➜ ➜ </span><span
+       <div className={styles.arrows}>&#8681; &#8675; &#8681; &#8675;</div>
+       <Link href="/issue2/tomb-model-two"><div
        className={styles.link}>we need to find<br/>the right geography<br/>for
-       our revelations</span></CenterBlackTitle></Link>
+       our revelations</div></Link>
        <br/><br/>
-      <Link href="/issue2/tomb-model-three"><CenterBlackTitle><span className={styles.arrows}> ➜ ➜ </span><span
+       <div className={styles.arrows}>&#8675; &#8681; &#8675; &#8681;</div>
+       <Link href="/issue2/tomb-model-three"><div
        className={styles.link}>don't forget that for<br/>now it's strawberry season.<br/>yes.
-       </span></CenterBlackTitle></Link>
+       </div></Link>
        <br/><br/>
-       <Link href="/issue2/tomb-model-four"><CenterBlackTitle><span className={styles.arrows}> ➜ ➜ </span><span
+       <div className={styles.arrows}>&#8681; &#8675; &#8681; &#8675;</div>
+       <Link href="/issue2/tomb-model-four"><div
        className={styles.link}>i still have no way to<br/>survive but to keep
-      writing<br/>one line, one more line, one<br/>more line...
-       </span></CenterBlackTitle></Link>
+      writing<br/>one line, one more line, one<br/>more line...</div></Link>
 
        <Footer/>
 
