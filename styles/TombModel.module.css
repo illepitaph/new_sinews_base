@@ -80,13 +80,6 @@
               2px 2px red;
 }
 
-.galleryArrows {
-  margin-right:300px;
-  font-size:4.6rem;
-  text-shadow:1px 1px snow,
-              2px 2px red;
-}
-
 .smallGalleryArrows {
   text-shadow:1px 1px snow,
               2px 2px red;
@@ -120,16 +113,42 @@
               2px 2px #b0b0b0;
 }
 
+.grayShadowSpecial {
+  font-size:2rem;
+  font-family:"lores-9-plus-wide";
+  text-shadow:1px 1px snow,
+              2px 2px #b0b0b0;
+}
+
 .bigGrayShadow {
   text-shadow:1px 1px snow,
               2px 2px #b0b0b0;
 }
 
 .roughAltText {
+  font-size:4.6rem;
   font-family: lores-9-wide, sans-serif;
   color:#b0b0b0;
   text-shadow:1px 1px snow,
               2px 2px black;
+}
+
+@media (max-width:916px) and (orientation:landscape) {
+  .carousel {
+    height:150vh;
+  }
+
+  .grayShadow {
+    font-size:1.1rem;
+  }
+
+    .specialDateCitation {
+      font-size:1.1rem;
+    }
+
+    .roughAltText {
+      font-size:2rem;
+    }
 }
 
 @media (max-width:429px) and (orientation:portrait) {
@@ -152,6 +171,18 @@
 
     .grayShadow {
       font-size:0.8rem;
+    }
+
+    .grayShadowSpecial {
+      font-size:1.4rem;
+    }
+
+    .roughAltText {
+      font-size:1.7rem;
+    }
+
+    .specialDateCitation {
+      font-size:0.7rem;
     }
 }
 
