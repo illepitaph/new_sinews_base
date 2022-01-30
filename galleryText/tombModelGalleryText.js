@@ -715,10 +715,10 @@ export function TombModel1RawText20(){
       export function TombModel2RawText1(){
         return   (
                 <>
-           <GalleryLineation><pre><i>{`     We need to find the right`}<br/><br/>{`geography for our revelations.`}</i> (<span
-            className={styles.grayShadow}>Etel Adnan</span>)</pre><br/><br/><br/>
-           <br/><br/><br/><pre><i>{`     I’m describing all this because I`}<br/><br/>{`want to be done with my story already..`}</i> (<span
-            className={styles.grayShadow}>Andrzej Stasiuk</span>)</pre></GalleryLineation>
+           <GalleryLineation><i>{`     We need to find the right`}<br/><br/>{`geography for our revelations.`}</i> (<span
+            className={styles.grayShadow}>Etel Adnan</span>)<br/><br/><br/>
+           <br/><br/><br/><i>{`     I’m describing all this because I`}<br/><br/>{`want to be done with my story already..`}</i> (<span
+            className={styles.grayShadow}>Andrzej Stasiuk</span>)</GalleryLineation>
                 </>
           )
       }
@@ -727,10 +727,10 @@ export function TombModel1RawText20(){
         return   (
           <>
           <GalleryProse>
-          <p>I walked on a shadow, I stepped on a shadow, and it felt softer than the ground it was cast upon. Where there
+          I walked on a shadow, I stepped on a shadow, and it felt softer than the ground it was cast upon. Where there
           was light was harder, more solid. Where there was shadow was softer. I didn’t touch it—I didn’t touch the shadow
           with my hand, I didn’t touch the shadow with my hand to see if it was a color, colder, the question being whether
-          or not what is colder is softer, I would think the opposite.</p>
+          or not what is colder is softer, I would think the opposite.
           </GalleryProse>
           </>
           )
@@ -740,14 +740,14 @@ export function TombModel1RawText20(){
         return   (
           <>
           <GalleryProse>
-          <p>Dream: I was a young girl. It was New Year’s Eve. On New Year’s Day, I was going to be joined with what I
+          Dream: I was a young girl. It was New Year’s Eve. On New Year’s Day, I was going to be joined with what I
           knew were the greatest books—the books I most wanted, most needed, the most sacred books. But I knew something
           about the books: none of them were done. They were all incomplete. And yet, all of their authors were dead.
-          This did not diminish my love and respect and desire for the books, but rather completed it.</p><br/><br/>
-          <p>Part 2: A coastal town in Germany. Germany was on the open ocean. The waves were high and coming in strong
+          This did not diminish my love and respect and desire for the books, but rather completed it.<br/><br/><br/><br/>
+          Part 2: A coastal town in Germany. Germany was on the open ocean. The waves were high and coming in strong
           against the shore, covering the shore, penetrating the town, covering the streets, yet shallowly, the flood
           was not too deep or treacherous; people could still walk, but their shoes soaked through. I had been to this
-          town before. The waves had been even higher then and the town was underwater.</p>
+          town before. The waves had been even higher then and the town was underwater.
           </GalleryProse>
           </>
           )
@@ -757,9 +757,9 @@ export function TombModel1RawText20(){
           return   (
             <>
             <GalleryProse>
-            <p><i>I want to scream from color to color.</i> (<span
-            className={styles.grayShadow}>Bhanu Kapil</span>)</p><br/>
-            <p>When I think of adding books to books, when I think of adding my books to my books, and reading books,
+            <i>I want to scream from color to color.</i> (<span
+            className={styles.grayShadow}>Bhanu Kapil</span>)<br/><br/><br/>
+            When I think of adding books to books, when I think of adding my books to my books, and reading books,
             love and what feels like love, momentary surges of feelings that are nevertheless momentary and amnesiac
             and, being surges, withdraw, and withdraw to leave behind a socket, a dry socket, but for a suffocating,
             acid feeling, and adding books I’ve read to books I’ve read, thinking I will not get that back again, I
@@ -768,8 +768,8 @@ export function TombModel1RawText20(){
             not my expression, they do not share my expression, the books add themselves to obscurity, there is no nature,
             there is no freedom, they are, the books are, individually essential, not collectively, I sink myself, I
             sink myself into depression, I perish by that which I love most, no, by what gives me the most pleasure,
-            I mean inspiration, ideas. </p><br/><br/>
-            <p>When I’m standing before a shelf of books ... the fear ... </p>
+            I mean inspiration, ideas. <br/><br/><br/><br/>
+            When I’m standing before a shelf of books ... the fear ...
             </GalleryProse>
             </>
             )
@@ -779,14 +779,14 @@ export function TombModel1RawText20(){
             return   (
               <>
               <GalleryProse>
-              <p>Sleeping in the museum</p><br/>
-              <p><span className={styles.galleryArrows}>⬇</span></p><br/>
-              <p>The last thing I took with me, which was [also] the first and only, was [ ] rectangle of many colors
-              hanging suspended on a wall and my mother standing behind me staring ...  </p><br/>
-              <p>To attempt to re-experience that first experience, which was complete—You have to go to the <i>same</i> altar
-              every day</p><br/>
-              <p>like climbing out of an open grave, dusting oneself of flowers, then expending the day’s
-              ambition in the first hours ... </p>
+              Sleeping in the museum<br/><br/><br/>
+              <span className={styles.arrows}>⬇</span><br/><br/><br/>
+              The last thing I took with me, which was [also] the first and only, was [ ] rectangle of many colors
+              hanging suspended on a wall and my mother standing behind me staring ...  <br/><br/><br/>
+              To attempt to re-experience that first experience, which was complete—You have to go to the <i>same</i> altar
+              every day<br/><br/><br/>
+              like climbing out of an open grave, dusting oneself of flowers, then expending the day’s
+              ambition in the first hours ...
               </GalleryProse>
               </>
               )
@@ -795,9 +795,9 @@ export function TombModel1RawText20(){
             return   (
               <>
               <GalleryProse>
-              <p>The first principle of existence is burning out: </p><br/>
-              <p>When I read without my glasses, I can’t remember what I’ve read. I hold the book very close to my face—my
-              vision is very poor, the worst in my family—so that each word is exceptionally clear—</p>
+              The first principle of existence is burning out: <br/><br/><br/>
+              When I read without my glasses, I can’t remember what I’ve read. I hold the book very close to my face—my
+              vision is very poor, the worst in my family—so that each word is exceptionally clear—
               </GalleryProse>
               </>
               )
@@ -807,10 +807,10 @@ export function TombModel1RawText20(){
                 return   (
                   <>
                   <GalleryProse>
-                  <p>The human being is long gone. Or, it happened, was clear, fruited, what it bore was clear, it
+                  The human being is long gone. Or, it happened, was clear, fruited, what it bore was clear, it
                   experienced itself, invented, what it invented it had already invented, but still the discovery was
                   genuine, only so, so long, it invented what it needed, it surpassed its own clarity, there it goes,
-                  now it remembers ..</p>
+                  now it remembers ..
                   </GalleryProse>
                   </>
                   )
@@ -820,16 +820,16 @@ export function TombModel1RawText20(){
               return   (
                 <>
                 <GalleryProse>
-                <p>There’s never a river. There’s been a river but there’s never one now. A hard rain: a river. That’s
+                There’s never a river. There’s been a river but there’s never one now. A hard rain: a river. That’s
                 when Johanna saw a man being pulled by other men from the river. The man was dead. The men needed
-                a net to pull him up.</p><br/>
-                <p><span className={styles.grayShadow}>Oh good,</span> <br/><br/>Another day embarrassed that I do not know what’s being said, I hear it, it sounds
+                a net to pull him up.<br/><br/><br/>
+                <span className={styles.grayShadow}>Oh good,</span> <br/><br/>Another day embarrassed that I do not know what’s being said, I hear it, it sounds
                 like my day wd be improved if I cd be improved It’s friendly, repetetive [sic] and has the quality of
                 jubilation (jubilee) but I’m on earth, is day only of I’m looking at where it begins but still I can
                 see through it What would have to be added to it for me to better understand exactly what it is? Color?
                 I think I’d still be off Even inside of it moving along the limit, looking back up through the beginning
                 But it begins even before that <span className={styles.smallGalleryArrows}>➜</span> not like a feeling, but an ecosystem which we think is total synthesis,
-                but really, a few aspects in control ...</p>
+                but really, a few aspects in control ...
                 </GalleryProse>
                 </>
             )
@@ -840,11 +840,11 @@ export function TombModel2RawText9(){
       return   (
         <>
         <GalleryProse>
-        <p>The man’s beard was The Bat.</p><br/>
-        <p>The tree was Steve</p><br/>
-        <p>A line, a single line, appears where it should not. Says who? The nightmare?</p><br/>
-        <p>At a certain point, the silence surrounding a lack of questions proliferates (a) bigotry.</p><br/>
-        <p>I had a dream abt a kind of bacon that was seasoned with salmon urine.</p>
+        The man’s beard was The Bat.<br/><br/><br/><br/>
+        The tree was Steve<br/><br/><br/><br/>
+        A line, a single line, appears where it should not. Says who? The nightmare?<br/><br/><br/><br/>
+        At a certain point, the silence surrounding a lack of questions proliferates (a) bigotry.<br/><br/><br/><br/>
+        I had a dream abt a kind of bacon that was seasoned with salmon urine.
         </GalleryProse>
         </>
     )
@@ -854,14 +854,14 @@ export function TombModel2RawText10(){
       return   (
         <>
         <GalleryProse>
-        <p>How is one expected to carry herself in Heaven? There are no expectations. The animals are soundless,
-        and all the congregants are formal ...</p><br/>
-        <p>Let him go into the waves. Is 5 years enough to come to know God, to formulate belief? Yes, but
-        he must be willing. Yes, but the waves are willing for him.</p><br/><br/>
-        <p>And anyway, it seems at least partly true that the Heaven they’re imagining is the opposite of
+        How is one expected to carry herself in Heaven? There are no expectations. The animals are soundless,
+        and all the congregants are formal ...<br/><br/><br/>
+        Let him go into the waves. Is 5 years enough to come to know God, to formulate belief? Yes, but
+        he must be willing. Yes, but the waves are willing for him.<br/><br/><br/><br/>
+        And anyway, it seems at least partly true that the Heaven they’re imagining is the opposite of
         the life they are living, The distance needs to be significant. There needs to be surprise, some
-        surprise, the imagination cannot conceive, cannot calculate ...</p><br/>
-        <p>The places I’ve lived for which no image, no singular, punctuating image, sticks out </p>
+        surprise, the imagination cannot conceive, cannot calculate ...<br/><br/><br/>
+        The places I’ve lived for which no image, no singular, punctuating image, sticks out
         </GalleryProse>
         </>
     )
@@ -869,10 +869,9 @@ export function TombModel2RawText10(){
 
 export function TombModel2RawText11(){
   return   (
-          <>
-          <GalleryProse>
-          <pre><h3>{`cloud-seeding (pine)`}</h3></pre>
-          </GalleryProse>
+          <><GalleryLineation>
+          <span className={styles.grayShadowSpecial}>{`cloud-seeding (pine)`}</span>
+          </GalleryLineation>
           </>
     )
 }
@@ -881,14 +880,14 @@ export function TombModel2RawText12(){
       return   (
         <>
         <GalleryProse>
-        <p>Burning the parasite to provoke its one last visage in the death throes.</p><br/>
-        <p>In a drunken sky we ignite the suns that suit us.</p><br/>
-        <p><i>I people the universe with forms in my own likeness. For I have not yet spoken of the sun.</i> (<span
-            className={styles.grayShadow}>Albert Camus</span>, “Death in the Soul”)</p><br/>
-        <p>Sitting on a bus btw. 2 young dudes both listening to music on their headphones so I’m getting just
+        Burning the parasite to provoke its one last visage in the death throes.<br/><br/><br/>
+        In a drunken sky we ignite the suns that suit us.<br/><br/><br/>
+        <i>I people the universe with forms in my own likeness. For I have not yet spoken of the sun.</i> (<span
+            className={styles.grayShadow}>Albert Camus</span>, “Death in the Soul”)<br/><br/><br/>
+        Sitting on a bus btw. 2 young dudes both listening to music on their headphones so I’m getting just
         the drumbeats <span className={styles.smallGalleryArrows}>➜</span> the drumbeats are synced, and I’m in
         the middle when I smell a strong, heady perfume <span className={styles.smallGalleryArrows}>➜</span> I
-        become it, the perfume, generated by the music, the drumbeats.</p>
+        become it, the perfume, generated by the music, the drumbeats.
         </GalleryProse>
         </>
     )
@@ -898,16 +897,16 @@ export function TombModel2RawText13(){
       return   (
         <>
         <GalleryProse>
-        <p><i>The only alternative is to say nothing. But that can’t be written down.</i> (<span
-            className={styles.grayShadow}>Marguerite Duras</span>)</p><br/>
-        <p>I was very excited to see people, my friends especially, coming out of the fire, though
+        <i>The only alternative is to say nothing. But that can’t be written down.</i> (<span
+            className={styles.grayShadow}>Marguerite Duras</span>)<br/><br/><br/>
+        I was very excited to see people, my friends especially, coming out of the fire, though
         everyone coming out of the fire was a friend, in a fashion: my excitement was visually impaired;
         everyone was a fire-lit face, burnished, bright, then mottled, in shadow, what is the true color
         of faces? It is night. I’ve walked across town, on the side of the road, in the grass, the grass
         already wet, past the dump, beneath utility lines through trees. A brother and sister,
         blond, emerge from behind an enormous oak. They are twins, attractive; the fire is wide and tall;
-        the limbs of the oak are dancing, the leaves of the oak are transfixed, staring into the fire.</p><br/>
-        <p>The last time I defecated in bed was shortly before my grandmother died ...</p>
+        the limbs of the oak are dancing, the leaves of the oak are transfixed, staring into the fire.<br/><br/><br/>
+        The last time I defecated in bed was shortly before my grandmother died ...
         </GalleryProse>
         </>
     )
@@ -917,14 +916,14 @@ export function TombModel2RawText14(){
       return   (
         <>
         <GalleryProse>
-        <p>The angelic, tinkling bird song of wind chimes hanging from a tree and a man on the other side of
-        the street carrying a plastic, see-through bag of clothes shouting intermittently, <i>Shut up</i>!</p><br/>
-        <p>I saw a young child, no longer a baby, but still mute, watching, waiting, a girl, I think, though she
+        The angelic, tinkling bird song of wind chimes hanging from a tree and a man on the other side of
+        the street carrying a plastic, see-through bag of clothes shouting intermittently, <i>Shut up</i>!<br/><br/><br/>
+        I saw a young child, no longer a baby, but still mute, watching, waiting, a girl, I think, though she
         was on the other side of the street, in a stroller, dark hair, look up at her mother, and all the air
         about her, the entire, unthinking order of the air about her, the young child, was that this is what
         a young child is: waiting. But the young child does not know she is waiting, and that’s what, or one thing,
         that makes her an exceptional being, and the epitome, the epitomized incarnation of waiting: there is, as
-        of yet, no death. Patience is infinite. She’s a precept.</p>
+        of yet, no death. Patience is infinite. She’s a precept.
         </GalleryProse>
         </>
     )
@@ -934,19 +933,19 @@ export function TombModel2RawText15(){
       return   (
         <>
         <GalleryProse>
-        <p><i>I, hieroglyphic fragment of an empire dead or alive.</i> (<span
-            className={styles.grayShadow}>Clarice Lispector</span>)</p><br/>
-        <p>The laugh that goes on forever. The woodpecker laugh.</p><br/>
-        <p>Well yes, of course its disconcerting when you hear your dead grandfather’s
-        name spoken by a drunk in a bar you’ve never been in before:</p><br/>
-        <p><i>I am the silence engraved on a wall.</i> (<span
-            className={styles.grayShadow}>Clarice Lispector</span>)</p>
-        <p><i>I was afraid of my final nudity on the wall.</i> (<span
-            className={styles.grayShadow}>Clarice Lispector</span>)</p>
-        <p><i>I am the mistress of my inevitability.</i> (<span
-            className={styles.grayShadow}>Clarice Lispector</span>)</p>
-        <p><i>hell is my maximum</i> (<span
-            className={styles.grayShadow}>Clarice Lispector</span>)</p>
+        <i>I, hieroglyphic fragment of an empire dead or alive.</i> (<span
+            className={styles.grayShadow}>Clarice Lispector</span>)<br/><br/><br/>
+        The laugh that goes on forever. The woodpecker laugh.<br/><br/><br/>
+        Well yes, of course its disconcerting when you hear your dead grandfather’s
+        name spoken by a drunk in a bar you’ve never been in before:<br/><br/><br/>
+        <i>I am the silence engraved on a wall.</i> (<span
+            className={styles.grayShadow}>Clarice Lispector</span>)<br/><br/>
+        <i>I was afraid of my final nudity on the wall.</i> (<span
+            className={styles.grayShadow}>Clarice Lispector</span>)<br/><br/>
+        <i>I am the mistress of my inevitability.</i> (<span
+            className={styles.grayShadow}>Clarice Lispector</span>)<br/><br/>
+        <i>hell is my maximum</i> (<span
+            className={styles.grayShadow}>Clarice Lispector</span>)<br/><br/>
         </GalleryProse>
         </>
     )
@@ -956,10 +955,10 @@ export function TombModel2RawText16(){
       return   (
         <>
         <GalleryProse>
-        <p><i>I haven’t seen sassafras in a really long time and I really regret that we haven’t kept in touch.</i> (<span
-            className={styles.grayShadow}>Phil Cordelli</span>, 1/13/14) )</p><br/>
-        <p>Matthew 27:7 <br/><br/><span className={styles.galleryArrows}>⬇</span><br/><br/>potter’s field?</p><br/><br/><br/><br/>
-        <p><span className={styles.grayShadow}>Dürer’s melancholy</span></p>
+        <i>I haven’t seen sassafras in a really long time and I really regret that we haven’t kept in touch.</i> (<span
+            className={styles.grayShadow}>Phil Cordelli</span>, 1/13/14)<br/><br/><br/>
+        Matthew 27:7 <br/><br/><span className={styles.arrows}>⬇</span><br/><br/>potter’s field?<br/><br/><br/><br/><br/><br/>
+        <span className={styles.grayShadow}>Dürer’s melancholy</span><br/>
         </GalleryProse>
         </>
     )
@@ -969,7 +968,7 @@ export function TombModel2RawText17(){
       return   (
         <>
         <GalleryProse>
-        <p>Adeena: half-Japanese, father’s parents born in the United States, family from Kyushu, near Kagoshima.
+        Adeena: half-Japanese, father’s parents born in the United States, family from Kyushu, near Kagoshima.
         Father, Glen, was born in Tule Lake. They visited recently <span className={styles.smallGalleryArrows}>➜</span> one
         of the barracks relocated to town now
         a museum. Part of the conquest of the frontier, the west, what was dismembered. Her grandfather joined
@@ -978,7 +977,7 @@ export function TombModel2RawText17(){
         out?—so Adeena’s father grew up there. Adeena never learned Japanese. Is learning now with her kids.
         She was reading a Japanese children’s book when we saw her. Also taking piano lessons. Wants to gather
         half-Japanese people in town to play music—did she says children’s folk jazz? Glen’s memory of internment,
-        because he was a baby, was of a triangle on his birthday—he was given an ice cream cone.</p>
+        because he was a baby, was of a triangle on his birthday—he was given an ice cream cone.
         </GalleryProse>
         </>
     )
@@ -988,15 +987,15 @@ export function TombModel2RawText18(){
       return   (
         <>
         <GalleryProse>
-        <p>The desert remains neglected in these notes. I conceive it as a supposition: I suppose it is where we are.
+        The desert remains neglected in these notes. I conceive it as a supposition: I suppose it is where we are.
         Where? We’ve gone for one walk—in a dry riverbed—and to the lake where we met the coots, mostly black, two or
         three white coots among hundreds of black ones. Last night, dreamed Lisa and I were walking on an elevated
         platform through a swamp, when a monkey appeared. We were frightened. It followed us, we tried to lose it, we
         thought it might attack. The like-monkey had a small face ... a sun, made by the sun, abandoned by the sun.
         The kind of swamp where exotic birds, tall birds with long head feathers, towering, arched head feathers, walk
-        slowly, meditatively, like stalkers; we jumped over the wooden railing ... </p><br/>
-        <p><span className={styles.grayShadow}>THE EXILES</span></p><br/>
-        <p>IMMURE</p>
+        slowly, meditatively, like stalkers; we jumped over the wooden railing ... <br/><br/><br/>
+        <span className={styles.grayShadow}>THE EXILES</span><br/><br/><br/>
+        IMMURE
         </GalleryProse>
         </>
     )
@@ -1006,13 +1005,13 @@ export function TombModel2RawText19(){
       return   (
         <>
         <GalleryProse>
-        <p><i>And indeed the gangrene was climbing higher and higher.</i> (<span
-            className={styles.grayShadow}>Flaubert</span>, M. Bovary)</p><br/>
-        <p>Dream: The unhappy life of a corpse</p><br/>
-        <p>Atomic Cocktail Party + Trivia Book<br/><u><span className={styles.grayShadow}>Little Boy</span></u><br/>20 oz. citrus vodka <br/>6 oz hard
+        <i>And indeed the gangrene was climbing higher and higher.</i> (<span
+            className={styles.grayShadow}>Flaubert</span>, M. Bovary)<br/><br/><br/>
+        Dream: The unhappy life of a corpse<br/><br/><br/>
+        Atomic Cocktail Party + Trivia Book<br/><u><span className={styles.grayShadow}>Little Boy</span></u><br/>20 oz. citrus vodka <br/>6 oz hard
         apple cider<br/>1 TB grenadine syrup <br/>Pour Grenadine over ice in a highball. Add V. Fill with cider,
-        and watch the lovely red ice cubes float up + down</p><br/>
-        <p>Peace is never fully won. It is only kept from moment to moment.</p>
+        and watch the lovely red ice cubes float up + down<br/><br/><br/>
+        Peace is never fully won. It is only kept from moment to moment.
         </GalleryProse>
         </>
     )
@@ -1022,12 +1021,12 @@ export function TombModel2RawText20(){
       return   (
         <>
         <GalleryProse>
-        <p>bullets <i>coast</i></p><br/>
-        <p>mutual annihilation  aka mutual assured destruction (MAD)</p><br/>
-        <p>soft sights</p><br/>
-        <p>atomic clock in Ft. Collins, CO</p><br/>
-        <p><span className={styles.roughAltText}>hi-tech grease pencil</span></p><br/>
-        <p>Voltaire died eating his own excrement? tarred/coal-black automata in an open pit mine</p>
+        bullets <i>coast</i><br/><br/><br/>
+        mutual annihilation  aka mutual assured destruction (MAD)<br/><br/><br/>
+        soft sights<br/><br/><br/>
+        atomic clock in Ft. Collins, CO<br/><br/><br/>
+        <span className={styles.roughAltText}>hi-tech grease pencil</span><br/><br/><br/>
+        Voltaire died eating his own excrement? tarred/coal-black automata in an open pit mine
         </GalleryProse>
         </>
     )
@@ -1037,8 +1036,8 @@ export function TombModel2RawText21(){
       return   (
         <>
         <GalleryProse>
-        <p>To write about what it was like to have been alive.</p><br/><br/>
-        <p>Doughnuts yesterday with Josh. Alvernon Donuts. Family run. Father, mother, young daughter,
+        To write about what it was like to have been alive.<br/><br/><br/><br/>
+        Doughnuts yesterday with Josh. Alvernon Donuts. Family run. Father, mother, young daughter,
         wearing a dress. They ran out of doughnuts, or so they said, which was clearly untrue, we could
         see the doughnuts in the glass case. The father poured us the last of the coffee then asked us,
         politely, to leave. The mother and the daughter were already in the car, waiting. They had
@@ -1047,7 +1046,7 @@ export function TombModel2RawText21(){
         She has to be sympathetic. The men were innocuous, helpless. They were quiet. There was little
         camaraderie, despite the bar was full; every stool was occupied. 3 drinks apiece. What does
         Elizabeth Hardwick say about nostalgia? <i>Their tone about themselves, their mood, is the fatal
-        one of nostalgia—a passive, consuming, repetitive poetry.</i></p>
+        one of nostalgia—a passive, consuming, repetitive poetry.</i>
         </GalleryProse>
         </>
     )
@@ -1057,9 +1056,9 @@ export function TombModel2RawText22(){
       return   (
         <>
         <GalleryProse>
-        <br/><p>These poems are corollary to what I’m trying to write in prose. It’s okay, neither will get me ... </p><br/><br/>
-        <p>The right to establish free agency</p><br/><br/>
-        <p>the right to not live in a home</p>
+        <br/>These poems are corollary to what I’m trying to write in prose. It’s okay, neither will get me ... <br/><br/><br/><br/>
+        The right to establish free agency<br/><br/><br/><br/>
+        the right to not live in a home
         </GalleryProse>
         </>
     )
@@ -1069,12 +1068,12 @@ export function TombModel2RawText23(){
       return   (
         <>
         <GalleryProse>
-        <p>Tucson city code 11-36.2</p>
-        <p><span className={styles.galleryArrows}>⬇</span></p>
-        <p>people sleeping on the sidewalk (?) </p><br/><br/>
-        <p><i>Correctional facilities are not correcting</i> ... <br/><i>but they’ve got space</i> ... <i>and heat</i>.</p><br/><br/>
-        <pre><i>{`                                 January 2014 - February 2014`}</i></pre>
-        </GalleryProse>
+        Tucson city code 11-36.2<br/><br/>
+        <span className={styles.arrows}>⬇</span><br/><br/>
+        people sleeping on the sidewalk (?) <br/><br/><br/><br/>
+        <i>Correctional facilities are not correcting</i> ... <br/><i>but they’ve got space</i> ... <i>and heat</i>.<br/><br/><br/><br/> </GalleryProse>
+        <GalleryLineation><span
+        className={styles.specialDateCitation}><i>{`                                 January 2014 - February 2014`}</i></span></GalleryLineation>
         </>
     )
 }

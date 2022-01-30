@@ -6,7 +6,7 @@ About.title = "about — new_sinews";
 
 export default function About() {
   return (
-<div className={styles.container}>
+<>
     <Head/>
 
   <section className={styles.top}>
@@ -108,6 +108,6 @@ creative nonfiction in a <code>word DOC</code> to be considered to:</p>
 
 
     <Footer/>
-    </div>
+    </>
   )
 }
