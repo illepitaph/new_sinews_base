@@ -126,13 +126,20 @@
 }
 
 .roughAltText {
-  font-size:4.6rem;
+  font-size:2.6rem;
   font-family: lores-9-wide, sans-serif;
   color:#b0b0b0;
   text-shadow:1px 1px snow,
               2px 2px black;
 }
 
+.roughAltTextTwo {
+  font-size:4.6rem;
+  font-family: lores-9-wide, sans-serif;
+  color:#b0b0b0;
+  text-shadow:1px 1px snow,
+              2px 2px black;
+}
 
 @media (max-width:916px) and (orientation:landscape) {
   .carousel {
@@ -147,9 +154,20 @@
       font-size:1.1rem;
     }
 
-    .roughAltText {
+    .roughAltText, .roughAltTextTwo {
       font-size:2rem;
     }
+
+    .roughAltTextTwo {
+      font-size:3rem;
+    }
+}
+
+@media (max-width:813px) and (orientation:landscape) {
+  .carousel {
+    height:190vh;
+  }
+
 }
 
 @media (min-width:809px) and (orientation:portrait) {
@@ -157,7 +175,7 @@
     height:70vh;
   }
 
-  .roughAltText {
+  .roughAltText, .roughAltTextTwo {
     font-size:2rem;
   }
 
@@ -195,7 +213,7 @@
       font-size:1.4rem;
     }
 
-    .roughAltText {
+    .roughAltText, .roughAltTextTwo {
       font-size:1.7rem;
     }
 
@@ -210,7 +228,7 @@
     }
 }
 
-@media (max-width:361px) and (orientation:portrait) {
+@media (max-width:376px) and (orientation:portrait) {
 
   .carousel {
     height:130vh;

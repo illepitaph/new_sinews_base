@@ -221,7 +221,7 @@ export function TombModel1RawText14(){
           <>
           <GalleryLineation>
           <span
-          className={styles.roughAltText}>{`GALLERY ← → GALLOWS`}</span>
+          className={styles.roughAltTextTwo}>{`GALLERY ← → GALLOWS`}</span>
           </GalleryLineation>
           </>
     )
