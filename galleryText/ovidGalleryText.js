@@ -1,18 +1,19 @@
 import CenterGrayTitle from '../components/centerGrayTitle.js'
 import CenterBlackTitle from '../components/centerBlackTitle.js'
+import GalleryProse from '../components/galleryProse.js'
 import styles from '../styles/Ovid.module.css'
 
 export function OvidRawText1(){
   return   (
           <>
-          <CenterGrayTitle>
-          <h3>o <span className={styles.blackShadow}><i>v</i> <span
+          <CenterGrayTitle><span className={styles.increasedSizeText}>
+          o <span className={styles.blackShadow}><i>v</i> <span
           className={styles.alternateShadow}>i</span> <i>d</i><span
           className={styles.alternateShadow}> i</span> a <span
           className={styles.alternateShadow}><i>n</i></span><br/>   d <span
           className={styles.alternateShadow}> <i>y</i></span> n<span
           className={styles.alternateShadow}> <i>a</i></span> m<span
-          className={styles.alternateShadow}> i</span> <i>c</i></span> s</h3></CenterGrayTitle>
+          className={styles.alternateShadow}> i</span> <i>c</i></span> s</span></CenterGrayTitle>
           </>
     )
 }
@@ -20,9 +21,9 @@ export function OvidRawText1(){
 export function OvidRawText2(){
   return   (
           <>
-          <CenterBlackTitle><h1>m <i>i </i><span className={styles.blackShadow}>k</span>
+          <CenterBlackTitle><span className={styles.increasedSizeText}>m <i>i </i><span className={styles.blackShadow}>k</span>
            <i> e </i><br/><br/><br/><br/>c <i><span className={styles.blueLetter}>o </span>
-           </i> r <i>r</i> <span className={styles.blackShadow}>a</span> <i> o</i></h1></CenterBlackTitle>
+           </i> r <i>r</i> <span className={styles.blackShadow}>a</span> <i> o</i></span></CenterBlackTitle>
           </>
     )
 }
@@ -30,11 +31,11 @@ export function OvidRawText2(){
 export function OvidRawText3(){
   return   (
           <>
-            <pre className={styles.ovidLineation}>{`            The architectural object that you inhabit is malleable. Its qualities can be changed / distorted /
+            <GalleryProse>The architectural object that you inhabit is malleable. Its qualities can be changed / distorted /
             manipulated. It does not need to be so fragile. The flesh is not always made from meat. Simple
             cutlets sewn onto the skeletal frame. Its limitations are the result of your lackluster
-            imagination. `}<span className={styles.roughAltText}>What do you wish to summon? What do you</span><br/><span
-            className={styles.roughAltText}>        wish to see?</span>{` You neglect the potentialities of a new vessel.`}</pre>
+            imagination.<span className={styles.roughAltText}>What do you wish to summon? What do you</span><br/><span
+            className={styles.roughAltText}>        wish to see?</span>You neglect the potentialities of a new vessel.</GalleryProse>
           </>
     )
 }
@@ -74,7 +75,7 @@ export function OvidRawText6(){
 export function OvidRawText7(){
   return   (
           <>
-            <h4><span className={styles.roughAltText}>I AM MADE OF SLIME. I SLIP INTO EVERY ORIFICE. I BUBBLE IN YOUR MOUTH.</span></h4>
+            <span className={styles.roughAltText}>I AM MADE OF SLIME. I SLIP INTO EVERY ORIFICE. I BUBBLE IN YOUR MOUTH.</span>
           </>
     )
 }
@@ -121,7 +122,7 @@ export function OvidRawText10(){
 export function OvidRawText11(){
   return   (
           <>
-            <h4><span className={styles.roughAltText}>YOUR ONTOLOGY IS RADICAL IN ITS INSTABILITY. THE BODY DEMANDS METAMORPHOSIS. THE TRANSFORMATIONS THAT YOU HAVE LONG FORBID. KNOWINGLY OR NOT.</span></h4>
+            <span className={styles.roughAltText}>YOUR ONTOLOGY IS RADICAL IN ITS INSTABILITY. THE BODY DEMANDS METAMORPHOSIS. THE TRANSFORMATIONS THAT YOU HAVE LONG FORBID. KNOWINGLY OR NOT.</span>
           </>
     )
 }
@@ -162,7 +163,7 @@ export function OvidRawText14(){
 export function OvidRawText15(){
   return   (
           <>
-          <pre className={styles.ovidLineation}>{`         Diagram of the new self (bed of stakes / an addiction to blood):
+          <pre className={styles.ovidLineation}><span className={styles.diagramText}>{`         Diagram of the new self (bed of stakes / an addiction to blood):
 
                X IIIIIIIIIIIIIIII X IIIIIIIIIIIIIIII X IIIIIIIIIIIIIIII X IIIIIIIIIIIIIIII X
                X IIIIIIIIIIIIIIII X IIIIIIIIIIIIIIII X IIIIIIIIIIIIIIII X IIIIIIIIIIIIIIII X
@@ -176,7 +177,7 @@ export function OvidRawText15(){
                X IIIIIIIIIIIIIIII X IIIIIIIIIIIIIIII X IIIIIIIIIIIIIIII X IIIIIIIIIIIIIIII X
                X IIIIIIIIIIIIIIII X IIIIIIIIIIIIIIII X IIIIIIIIIIIIIIII X IIIIIIIIIIIIIIII X
                X IIIIIIIIIIIIIIII X IIIIIIIIIIIIIIII X IIIIIIIIIIIIIIII X IIIIIIIIIIIIIIII X
-               X IIIIIIIIIIIIIIII X IIIIIIIIIIIIIIII X IIIIIIIIIIIIIIII X IIIIIIIIIIIIIIII X`}</pre>
+               X IIIIIIIIIIIIIIII X IIIIIIIIIIIIIIII X IIIIIIIIIIIIIIII X IIIIIIIIIIIIIIII X`}</span></pre>
           </>
     )
 }
@@ -195,8 +196,8 @@ export function OvidRawText16(){
 export function OvidRawText17(){
   return   (
           <>
-            <h4><span className={styles.roughAltText}>BUT THERE IS NO RETURNING TO THE FAMILIAR. WE ARE BEYOND THAT NOW. WE
-            KNEW ONCE WE ACTIVATED THIS ARCANE PROCEDURE THAT WE COULD NOT GO BACK. OUR AGREEMENTS WERE UNSPOKEN.</span></h4>
+            <span className={styles.roughAltText}>BUT THERE IS NO RETURNING TO THE FAMILIAR. WE ARE BEYOND THAT NOW. WE
+            KNEW ONCE WE ACTIVATED THIS ARCANE PROCEDURE THAT WE COULD NOT GO BACK. OUR AGREEMENTS WERE UNSPOKEN.</span>
           </>
     )
 }
@@ -204,8 +205,8 @@ export function OvidRawText17(){
 export function OvidRawText18(){
   return   (
           <>
-            <h4><span className={styles.roughAltText}>ONE HUNDRED PHANTOM LIMBS SPROUT ACROSS THE EXTERIOR OF <i>THE TORSO</i>. THE
-            ARBOR BECOMES A LANDMINE. THE ARBOR CRAWLS LIKE A CEPHALOPOD ON THE SEAFLOOR.</span></h4>
+            <span className={styles.roughAltText}>ONE HUNDRED PHANTOM LIMBS SPROUT ACROSS THE EXTERIOR OF <i>THE TORSO</i>. THE
+            ARBOR BECOMES A LANDMINE. THE ARBOR CRAWLS LIKE A CEPHALOPOD ON THE SEAFLOOR.</span>
           </>
     )
 }

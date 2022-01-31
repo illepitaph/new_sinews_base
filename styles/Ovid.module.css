@@ -11,7 +11,7 @@
   justify-content:center;
   align-items:center;
   width:90%;
-  height:100vh;
+  height:80vh;
   margin:6% 0 6% 0;
   background:
     linear-gradient(to top right, silver 1%, white 2%, silver 3%, white 6%, gainsboro 10%, #e8e8e8 12%, whitesmoke 17%, snow 20%,
@@ -72,6 +72,10 @@
   text-shadow:3px 3px black;
 }
 
+.increasedSizeText {
+  font-size:4.3rem;
+}
+
 .blackShadow {
   color:black;
   text-shadow:4px 4px snow,
@@ -114,5 +118,117 @@
   font-family: lores-9-wide, sans-serif;
   font-size:1.6rem;
   color:#b0b0b0;
-  text-shadow:1px 1px black;
+  text-shadow:1px 1px white, 4px 4px gainsboro;
+}
+
+@media (max-width:927px) and (orientation:landscape) {
+
+  .carousel {
+    height:105vh;
+  }
+
+  .carousel > .next {
+    top:-4%;
+  }
+
+
+  .ovidLineation {
+    font-size:0.9rem;
+    white-space:pre-line;
+  }
+  .roughAltText {
+    font-size:1.3rem;
+  }
+
+}
+
+@media (max-width:811px) and (orientation:portrait) {
+
+  .ovidLineation {
+    font-size:1rem;
+    white-space:pre-line;
+  }
+
+  .carousel > .prev {
+    top:76%;
+  }
+
+}
+
+@media (max-width:813px) and (orientation:landscape) {
+
+
+  .carousel > .next {
+    top:-11%;
+  }
+
+}
+
+@media (max-width:761px) and (orientation:landscape) {
+
+  .carousel {
+    height:125vh;
+  }
+
+  .carousel > .prev {
+    top:66%;
+  }
+
+}
+
+@media (max-width:667px) and (orientation:landscape) {
+
+  .increasedSizeText {
+    font-size:3.6rem;
+  }
+
+}
+
+@media (max-width:429px) and (orientation:portrait) {
+
+  .carousel {
+    height:55vh;
+  }
+
+  .carousel > .prev {
+    font-size:3rem;
+    top:70%;
+  }
+
+  .carousel > .next {
+    font-size:3rem;
+  }
+
+  .ovidLineation {
+    font-size:0.9rem;
+    white-space:pre-line;
+    text-shadow:none;
+  }
+
+  .roughAltText {
+    font-size:1.2rem;
+  }
+
+  .increasedSizeText {
+    font-size:2.5rem;
+  }
+
+  .diagramText {
+    font-size:0.8rem;
+  }
+}
+
+@media (max-width:415px) and (orientation:portrait) {
+
+  .carousel > .prev {
+    top:80%;
+  }
+
+  .carousel {
+    height:95vh;
+  }
+
+  .diagramText {
+    font-size:0.7rem;
+  }
 }
