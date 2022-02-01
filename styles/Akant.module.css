@@ -73,6 +73,7 @@
 }
 
 .blackShadow {
+  font-size:3.7rem;
   color:silver;
   text-shadow:2px 2px whitesmoke,
               4px 4px black;
@@ -94,4 +95,95 @@
     text-shadow:4px 4px snow,
                 6px 6px black;
     text-align:center;
+}
+
+@media (max-width:916px) and (orientation:landscape) {
+
+  .carousel > .prev {
+  top:5%;
+}
+
+}
+
+@media (max-width:855px) and (orientation:landscape) {
+
+  .carousel > .prev {
+  top:5%;
+}
+
+.blackShadow {
+  font-size:2.5rem;
+}
+
+}
+
+@media (width:540px) and (height:720px) and (orientation:portrait) {
+
+
+  .blackShadow {
+    font-size:2rem;
   }
+
+}
+
+@media (max-width:429px) and (orientation:portrait) {
+
+  .carousel {
+    height:60vh;
+    width:98%;
+  }
+
+  .carousel > .prev {
+    font-size:3.2rem;
+    left:3%;
+  }
+
+  .carousel > .next {
+    font-size:3.2rem;
+    right:3%;
+  }
+
+  .blackShadow {
+    font-size:1.4rem;
+  }
+
+}
+
+@media (width:428px) and (height:926px) and (orientation:portrait) {
+
+  .carousel {
+    height:70vh;
+  }
+}
+
+@media (max-width:391px) and (orientation:portrait) {
+
+  .carousel {
+    height:70vh;
+  }
+
+  .blackShadow {
+    font-size:1rem;
+  }
+
+}
+
+@media (max-width:281px) and (orientation:portrait) {
+
+  .carousel {
+    height:90vh;
+  }
+
+  .blackShadow {
+    font-size:1.9rem;
+  }
+
+}
+
+@media (max-height:281px) and (orientation:landscape) {
+
+  .carousel {
+    height:110vh;
+  }
+
+}

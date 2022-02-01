@@ -1,7 +1,6 @@
 import CenterGrayTitle from '../components/centerGrayTitle.js'
 import CenterBlackTitle from '../components/centerBlackTitle.js'
 import GalleryProse from '../components/galleryProse.js'
-import GalleryLineation from '../components/galleryLineation.js'
 import styles from '../styles/Ovid.module.css'
 
 export function OvidRawText1(){
