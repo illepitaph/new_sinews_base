@@ -7,12 +7,12 @@ export function KrumrieRawText1(){
   return   (
           <>
           <CenterGrayTitle><span className={styles.blackShadow}>
-          <h3><i>k <span
+          <i>k <span
           className={styles.alternateShadow}> e</span> l<span
           className={styles.alternateShadow}> l</span> y</i><br/>   k <span
           className={styles.alternateShadow}> r</span> u<span
           className={styles.alternateShadow}> m</span> r<span
-          className={styles.alternateShadow}> i</span> e</h3></span></CenterGrayTitle>
+          className={styles.alternateShadow}> i</span> e</span></CenterGrayTitle>
           </>
     )
 }
@@ -20,8 +20,8 @@ export function KrumrieRawText1(){
 export function KrumrieRawText2(){
   return   (
           <>
-          <CenterGrayTitle><h4>selections<br/>from<br/><br/><i><span className={styles.blackShadow}>no<br/>
-          measure</span></i></h4></CenterGrayTitle>
+          <CenterGrayTitle>selections<br/>from<br/><br/><br/><br/><i><span className={styles.blackShadow}>_no_<br/>
+          _measure_</span></i></CenterGrayTitle>
           </>
     )
 }
@@ -29,7 +29,7 @@ export function KrumrieRawText2(){
 export function KrumrieRawText3(){
   return   (
           <>
-          <GalleryLineation><pre>
+          <GalleryLineation>
           {`An   expanse.  The  terrestrial world is
 made    of    surfaces.    The   desert’s
 surface    drifts    sand.  Sand-colored,
@@ -48,7 +48,7 @@ hard cracking, dead roots.
 Uplifts.   Roads   at   the   edges    and
 darkened courses, thinned trees along
 the road’s edges,  sand beneath those,
-sand on the roads.`}</pre></GalleryLineation>
+sand on the roads.`}</GalleryLineation>
           </>
     )
 }
@@ -56,12 +56,12 @@ sand on the roads.`}</pre></GalleryLineation>
 export function KrumrieRawText4(){
   return   (
           <>
-          <GalleryLineation><pre>
+          <GalleryLineation>
           {`A crystal is an example of an ordered system. I touch the basin in a stone’s face.
 
 These perceptive contrasts are like tiny mirrors.
 
-See, the grass keeps the dunes in place.`}</pre></GalleryLineation>
+See, the grass keeps the dunes in place.`}</GalleryLineation>
           </>
     )
 }
@@ -69,7 +69,7 @@ See, the grass keeps the dunes in place.`}</pre></GalleryLineation>
 export function KrumrieRawText5(){
   return   (
           <>
-            <GalleryLineation><pre className={styles.reducedLineation}>{`            Each location is parallel. Here. When I walk here the canyon opens. Its sides. A river. The canyon
+            <GalleryLineation><span className={styles.reducedLineation}>{`            Each location is parallel. Here. When I walk here the canyon opens. Its sides. A river. The canyon
             slopes to desert. Accuracy is an ideal limit. I walk here. See, you call me. An expanse. Dead grass.
             The dunes’ edges soften. They change location. The sand is here, and here. The river planes the
             canyon’s fallen rock. I walk here, over dunes. Accurate. Their edges soft radial, to the center of
@@ -84,7 +84,7 @@ export function KrumrieRawText5(){
      layers of glass, see me here, I walk, the river’s cold in shadow.
 
      I walk toward—the desert—ground moves. The canyon empties—here—the field—at the center—of the desert—
-     your eyes behind—layers of glass—see me here—I walk—the river’s cold in shadow.`}</pre></GalleryLineation>
+     your eyes behind—layers of glass—see me here—I walk—the river’s cold in shadow.`}</span></GalleryLineation>
           </>
     )
 }
@@ -92,13 +92,13 @@ export function KrumrieRawText5(){
 export function KrumrieRawText6(){
   return   (
           <>
-          <GalleryLineation><pre>
+          <GalleryLineation>
           {`What location do you recognize? Here.
 
 To interpret separate senses, to split them like an iris, snap the root in
 sections. I shake out loose matter. I signal I’m coming.
 
-We have forms. We think we know them.`}</pre></GalleryLineation>
+We have forms. We think we know them.`}</GalleryLineation>
           </>
     )
 }
@@ -106,7 +106,7 @@ We have forms. We think we know them.`}</pre></GalleryLineation>
 export function KrumrieRawText7(){
   return   (
           <>
-          <GalleryLineation><pre className={styles.reducedLineation}>
+          <GalleryLineation><span className={styles.reducedLineation}>
           {`Documentation proceeds by accumulation. One thing, another, the most complete. The image of
 what you see the most complete.
 
@@ -128,7 +128,7 @@ I see myself in the field, in the rows. On the map, the row, me crouched over th
 grains with my fingers, dropping samples into a container, pulling my cart to the next coordinate.
 You press my body so I move. Rotate the telescope. The conveyor along the quarry’s edge, trucks,
 the sweepers clearing the road of sand. I brush sand from my arm. You brush sand from my arm.
-`}</pre></GalleryLineation>
+`}</span></GalleryLineation>
           </>
     )
 }
@@ -136,7 +136,7 @@ the sweepers clearing the road of sand. I brush sand from my arm. You brush sand
 export function KrumrieRawText8(){
   return   (
           <>
-          <GalleryLineation><pre>
+          <GalleryLineation>
           {`Underground may solve the temperature for root systems spreading lateral,
 and  downward,   where  the  moisture’s  locked  from  the  grains’  latticed
 covering. This is posted at the entrance. Our hands aren’t touching. How do
@@ -145,7 +145,7 @@ the roots respond to footsteps, overcast?
 If I turn just right—crystalline.
 
 Glass has interior dynamism.  I mean, the pattern comes later. I mean, when
-I’m looking at it.`}</pre></GalleryLineation>
+I’m looking at it.`}</GalleryLineation>
           </>
     )
 }

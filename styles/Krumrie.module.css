@@ -10,14 +10,14 @@
   flex-flow:row wrap;
   justify-content:center;
   align-items:center;
-  width:90%;
-  height:100vh;
+  width:93%;
+  height:114vh;
   margin:6% 0 6% 0;
   background:
     linear-gradient(to right, silver 1%, white 2%, silver 3%, white 6%, gainsboro 10%, #e8e8e8 12%, whitesmoke 17%, snow 20%,
       whitesmoke 31%, white 41%, whitesmoke 51%, whitesmoke 71%,
       snow 75%, #e2e2e2 88%, snow 94%, silver 96%, whitesmoke 97%, silver 98%, white 99%);
-  border-radius:30px;
+  border-radius:250px;
   box-shadow: 20px 12px 5px #e2e2e2;
 }
 
@@ -94,5 +94,5 @@
 }
 
 .reducedLineation {
-  font-size:1rem;
+  font-size:1.2rem;
 }
