@@ -103,7 +103,7 @@
               6px 6px #b0b0b0;
 }
 
-.ovidLineation {
+.diagramText {
   font-family: "astoria-sans-medium-condensed", sans-serif;
   font-weight: 500;
   font-style: normal;
@@ -127,30 +127,28 @@
     height:105vh;
   }
 
+  .carousel > .prev {
+    top:78%;
+  }
+
   .carousel > .next {
-    top:-4%;
-  }
-
-
-  .ovidLineation {
-    font-size:0.9rem;
-    white-space:pre-line;
-  }
-  .roughAltText {
-    font-size:1.3rem;
+    top:-12%;
   }
 
 }
 
-@media (max-width:811px) and (orientation:portrait) {
+@media (max-width:821px) and (orientation:portrait) {
 
-  .ovidLineation {
-    font-size:1rem;
-    white-space:pre-line;
+  .carousel {
+    height:45vh;
   }
 
   .carousel > .prev {
-    top:76%;
+    top:83%;
+  }
+
+  .carousel > .next {
+    top:1%;
   }
 
 }
@@ -178,8 +176,28 @@
 
 @media (max-width:667px) and (orientation:landscape) {
 
+  .carousel > .prev {
+    top:80%;
+  }
+
   .increasedSizeText {
     font-size:3.6rem;
+  }
+
+}
+
+@media (width:540px) and (height:720px) and (orientation:portrait) {
+
+  .carousel {
+    height:75vh;
+  }
+
+  .increasedSizeText {
+    font-size:3.2rem;
+  }
+
+  .diagramText {
+    font-size:1rem;
   }
 
 }
@@ -199,14 +217,8 @@
     font-size:3rem;
   }
 
-  .ovidLineation {
-    font-size:0.9rem;
-    white-space:pre-line;
-    text-shadow:none;
-  }
-
   .roughAltText {
-    font-size:1.2rem;
+    font-size:1.4rem;
   }
 
   .increasedSizeText {
@@ -218,17 +230,54 @@
   }
 }
 
-@media (max-width:415px) and (orientation:portrait) {
+@media (max-width:429px) and (orientation:portrait) {
 
   .carousel > .prev {
-    top:80%;
+    top:85%;
   }
 
-  .carousel {
-    height:95vh;
+  .carousel > .next {
+    top:-7%;
   }
 
   .diagramText {
     font-size:0.7rem;
+  }
+}
+
+@media (max-width:385px) and (orientation:portrait) {
+
+  .carousel {
+    height:79vh;
+  }
+
+  .increasedSizeText {
+    font-size:2.3rem;
+  }
+
+  .diagramText {
+    font-size:0.6rem;
+  }
+}
+
+@media (max-width:281px) and (orientation:portrait) {
+
+  .carousel {
+    height:120vh;
+  }
+
+  .increasedSizeText {
+    font-size:1.7rem;
+  }
+
+  .diagramText {
+    font-size:0.4rem;
+  }
+}
+
+@media (max-height:281px) and (orientation:landscape) {
+
+  .carousel {
+    height:180vh;
   }
 }
