@@ -1,8 +1,8 @@
 import Head from 'next/head'
 import Header from '../../components/header.js'
-import StandardLineation from '../../components/StandardLineation.js'
 import RightGrayTitle from '../../components/rightGrayTitle.js'
 import LeftBlackTitle from '../../components/leftBlackTitle.js'
+import StandardLineation from '../../components/standardLineation.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/PoemsBorn.module.css'
 PoemsBorn.title = "vi_khi_nao ~ poems_born_from_basic_words — new_sinews"
