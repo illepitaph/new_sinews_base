@@ -94,5 +94,210 @@
 }
 
 .reducedLineation {
-  font-size:1.2rem;
+  font-size:1.1rem;
+}
+
+@media (min-width:1279px) and (orientation:landscape) {
+
+  .carousel > .prev {
+    left:3%;
+  }
+
+  .carousel > .next {
+    right:3%;
+  }
+
+}
+
+@media (width:1080px) and (height:810px) and (orientation:landscape) {
+
+  .carousel {
+    height:67vh;
+  }
+
+  .reducedLineation {
+    font-size:0.85rem;
+  }
+
+}
+
+@media (width:1024px) and (height:768px) and (orientation:landscape){
+
+  .carousel > .prev {
+    top:80%;
+  }
+
+  .reducedLineation {
+    font-size:1rem;
+  }
+
+}
+
+@media (width:1024px) and (height:600px) {
+
+  .reducedLineation {
+    font-size:0.92rem;
+  }
+
+}
+
+@media (width:926px) and (height:428px) and (orientation:landscape) {
+
+  .reducedLineation {
+    font-size:0.9rem;
+  }
+
+}
+
+@media (max-width:916px) and (orientation:landscape) {
+
+  .carousel > .prev {
+     top:57%;
+  }
+
+  .reducedLineation {
+    font-size:0.9rem;
+  }
+
+}
+
+@media (max-width:897px) and (orientation:landscape) {
+
+  .reducedLineation {
+    font-size:0.8rem;
+  }
+
+}
+
+@media (width:810px) and (height:1080px) and (orientation:portrait) {
+
+  .carousel {
+    height:60vh;
+  }
+
+  .reducedLineation {
+    font-size:0.75rem;
+  }
+
+}
+
+@media (min-width:767px) and (orientation:portrait) {
+
+  .carousel {
+    height:55vh;
+  }
+
+  .reducedLineation {
+    font-size:0.77rem;
+  }
+
+}
+
+@media (width:800px) and (height:1280px) and (orientation:portrait) {
+
+  .carousel {
+    height:50vh;
+  }
+
+  .reducedLineation {
+    font-size:0.75rem;
+  }
+
+}
+
+
+@media (max-width:813px) and (orientation:landscape) {
+
+  .carousel {
+    height:119vh;
+  }
+
+  .carousel > .prev {
+     font-size:3rem;
+  }
+
+  .carousel > .next {
+     font-size:3rem;
+  }
+
+
+  .reducedLineation {
+    font-size:0.7rem;
+  }
+
+}
+
+@media (width:540px) and (height:720px) and (orientation:portrait) {
+
+  .carousel {
+    height:90vh;
+  }
+
+  .reducedLineation {
+    font-size:0.65rem;
+  }
+
+}
+
+@media (max-width:429px) and (orientation:portrait) {
+
+  .carousel {
+    width:99%;
+    height:60vh;
+  }
+
+  .carousel > .prev {
+     font-size:3rem;
+     top:67%;
+     left:0%;
+  }
+
+  .carousel > .next {
+    font-size:3.3rem;
+     top:1%;
+     right:0%;
+  }
+
+  .reducedLineation {
+    font-size:0.5rem;
+  }
+
+}
+
+@media (width:428px) and (height:926px) and (orientation:portrait) {
+
+  .carousel {
+    height:70vh;
+  }
+
+  .blackShadow {
+    font-size:3.2rem;
+  }
+
+}
+
+
+
+@media (max-width:394px) and (orientation:portrait) {
+
+  .reducedLineation {
+    font-size:0.43rem;
+  }
+
+}
+
+@media (max-width:281px) and (orientation:portrait) {
+
+  .reducedLineation {
+    font-size:0.33rem;
+  }
+
+}
+
+@media (max-height:281px) and (orientation:landscape) {
+
+  .carousel {
+    height:180vh;
+  }
+
 }

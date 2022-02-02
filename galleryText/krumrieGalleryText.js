@@ -20,7 +20,7 @@ export function KrumrieRawText1(){
 export function KrumrieRawText2(){
   return   (
           <>
-          <CenterGrayTitle>selections<br/>from<br/><br/><br/><br/><i><span className={styles.blackShadow}>_no_<br/>
+          <CenterGrayTitle>selections<br/>from<br/><br/><br/><i><span className={styles.blackShadow}>_no_<br/>
           _measure_</span></i></CenterGrayTitle>
           </>
     )
