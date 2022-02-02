@@ -10,25 +10,12 @@
 }
 
 .sectionHeading {
-  max-width:70vw;
   font-family:"lores-9-plus-wide";
   font-weight: 600;
   font-style: normal;
   font-size:2.2rem;
   letter-spacing:-0.02rem;
   line-height:1.4em;
-  margin-left:15rem;
+  margin-left:35vw;
   text-transform:uppercase;
-}
-
-.poem {
-  max-width:70vw;
-  font-family: "astoria-sans-medium-condensed", sans-serif;
-  font-weight: 300;
-  font-style: normal;
-  font-size:1.2rem;
-  text-shadow:1px 1px #b0b0b0;
-  letter-spacing:-0.02rem;
-  line-height:1.4em;
-  margin-left:15rem;
 }
