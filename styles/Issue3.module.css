@@ -87,7 +87,7 @@
 
 .workLink {
   position: relative;
-  font-family: ubuntu, monospace;
+  font-family: "ubuntu", monospace;
   color: white;
   font-size: 1.3em;
   text-transform: uppercase;
@@ -132,26 +132,37 @@
   border-radius: 50%;
 }
 
-@media (max-width: 991.98px) {
 
-  .titleAndSubtitle {
-    position:relative;
-    display:grid;
-    grid-template-columns:1fr 1fr;
-    grid-area: 1 / 1 / 4 / 2;
-    grid-auto-flow: column;
-  }
+@media (width:1280px) and (height:800px) and (orientation:landscape) {
 
-  .issueTitle {
-    margin-left:14vw;
+  .workLink {
+    font-size:1.2rem;
   }
 
   .issueContents {
-    margin:1rem 0 0 23vw;
+    margin:1vh 0 0 47vw;
   }
 }
 
-@media (max-width: 1100px) and (orientation:landscape) {
+@media (width:1080px) and (height:810px) and (orientation:landscape) {
+
+  .issueContents {
+    margin:1vh 0 0 47vw;
+  }
+}
+
+@media (width:1024px) and (height:768px) and (orientation:landscape) {
+
+  .issueContents {
+    margin:1vh 0 0 3vw;
+  }
+}
+
+@media (width:1024px) and (height:600px) and (orientation:landscape) {
+
+  .workLink {
+    font-size:1.1rem;
+  }
 
   .issueContents {
     margin:1rem 0 0 23vw;
@@ -173,7 +184,7 @@
   }
 
   .issueContents {
-    margin:1rem 0 0 1vw;
+    margin:1vh 0 0 1vw;
   }
 
   .workColumn {
@@ -183,7 +194,7 @@
 
   .workLink {
     position: relative;
-    font-family: ubuntu, sans-serif;
+    font-family: "ubuntu", sans-serif;
     color: white;
     font-size: 0.9em;
     text-transform: uppercase;
@@ -228,4 +239,138 @@
      font-weight:500;
    }
 
+}
+
+@media (max-width: 991.98px) {
+
+  .titleAndSubtitle {
+    position:relative;
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    grid-area: 1 / 1 / 4 / 2;
+    grid-auto-flow: column;
+  }
+
+  .issueTitle {
+    margin-left:14vw;
+  }
+
+  .issueContents {
+    margin:1rem 0 0 23vw;
+  }
+}
+
+@media (max-width: 926px) and (orientation:landscape) {
+
+  .issueContents {
+    margin:1rem 0 0 40vw;
+  }
+
+  .workLink {
+    font-size: 0.98rem;
+  }
+
+}
+
+@media (max-width: 855px) and (orientation:landscape) {
+
+  .workLink {
+    font-size: 0.93rem;
+  }
+
+}
+
+@media (max-width: 813px) and (orientation:landscape) {
+
+  .issueContents {
+    margin:1rem 0 0 36vw;
+  }
+
+
+  .workLink {
+    font-size: 1rem;
+    letter-spacing:0.1rem;
+  }
+
+}
+
+@media (max-width: 761px) and (orientation:landscape) {
+
+  .issueContents {
+    margin:1rem 0 0 51vw;
+  }
+
+
+  .workLink {
+    font-size: 0.6rem;
+    letter-spacing:0.1rem;
+  }
+
+}
+
+@media (max-width: 667px) and (orientation:landscape) {
+
+  .issueContents {
+    margin:1rem 0 0 47vw;
+  }
+
+}
+
+@media (max-width: 429px) and (orientation:portrait) {
+
+  .issueTitle {
+    margin-left:4vw;
+  }
+
+  .workLink {
+    letter-spacing:0.17rem;
+  }
+}
+
+
+@media (max-width: 391px) and (orientation:portrait) {
+
+  .issueContents {
+    margin:1rem 0 0 16vw;
+  }
+}
+
+@media (max-width: 376px) and (orientation:portrait) {
+
+  .issueContents {
+    margin:1rem 0 0 21vw;
+  }
+}
+
+@media (max-width: 361px) and (orientation:portrait) {
+
+  .issueContents {
+    margin:1rem 0 0 15vw;
+  }
+}
+
+@media (max-width: 291px) and (orientation:portrait) {
+
+  .issueContents {
+    margin:1rem 0 0 3vw;
+  }
+
+  .workLink {
+    font-size:0.8rem;
+  }
+}
+
+@media (max-height: 291px) and (orientation:landscape) {
+
+  .pageTitle {
+    font-size: 1.2rem;
+  }
+
+  .issueTitle {
+    font-size: 1.3rem;
+  }
+
+  .workLink {
+    font-size:0.5rem;
+  }
 }
