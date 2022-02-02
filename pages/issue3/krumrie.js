@@ -4,6 +4,7 @@ import Header from '../../components/header.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Krumrie.module.css'
 import { krumrieText } from '../../GalleryData/KrumrieCarouselData.js'
+Krumrie.title = "kelly_krumrie ~ selections_from_'no_measure' — new_sinews"
 
 export default function Krumrie() {
   const [textArrayIndex, setTextArrayIndex] = useState(0);
