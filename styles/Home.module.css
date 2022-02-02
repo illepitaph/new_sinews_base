@@ -27,7 +27,7 @@
 
 .graffiti {
   position:sticky;
-  font-family:"lores-9-plus-wide-bold-alt";
+  font-family:"lores-9-plus-wide-bold-alt", monospace;
   font-size:2.4rem;
   text-transform:lowercase;
   color:whitesmoke;
@@ -44,7 +44,7 @@
 
 .siteNav  > button {
   border:none;
-  font-family:"lores-9-plus-narrow";
+  font-family:"lores-9-plus-narrow", monospace;
   font-size: 0.7rem;
   background-color:black;
   color:#c0a5a5;
@@ -60,7 +60,7 @@
 }
 
 .lightTypeface {
-  font-family:"lores-9-plus-wide-bold-alt";
+  font-family:"lores-9-plus-wide-bold-alt", monospace;
   color:#b0b0b0;
   opacity: 1;
   font-size:2.4rem;
@@ -69,7 +69,7 @@
 }
 
 .darkTypeface {
-  font-family:"lores-9-plus-wide";
+  font-family:"lores-9-plus-wide", monospace;
   font-size:1.4rem;
   font-weight:700;
   text-transform:lowercase;
@@ -78,7 +78,7 @@
 }
 
 .darkTypefaceSpecial {
-  font-family:"lores-9-plus-wide";
+  font-family:"lores-9-plus-wide", monospace;
   font-size:1.4rem;
   font-weight:700;
   text-transform:lowercase;
@@ -108,7 +108,7 @@
 .socialLinkFooter > .socialLinkTag {
   color:#b0b0b0;
   opacity: 1;
-  font-family:"lores-9-plus-wide";
+  font-family:"lores-9-plus-wide", monospace;
   text-decoration:none;
   letter-spacing:0.06em;
   text-transform:lowercase;

@@ -24,7 +24,7 @@
 }
 
 .pageTitle {
-  font-family: "lores-9-plus-wide-bold-alt";
+  font-family: "lores-9-plus-wide-bold-alt", monospace;
   color: #e4e2e2;
   font-size: 4.3rem;
   text-transform: lowercase;
@@ -55,7 +55,7 @@
 
 .issue {
   position: relative;
-  font-family: "lores-9-minus-narrow";
+  font-family: "lores-9-minus-narrow", monospace;
   color: #6b6b6b;
   font-size: 2.3em;
   text-transform: uppercase;
@@ -65,7 +65,7 @@
 
 .workLink {
   position: relative;
-  font-family: "lores-9-minus-narrow";
+  font-family: "lores-9-minus-narrow", monospace;
   text-shadow: 6px 4px #6b6b6b;
   position: relative;
   color: white;
@@ -108,7 +108,7 @@
 
 .innerSiteLinkTag, .twitterLinkTag {
   position: relative;
-  font-family: "lores-9-plus-narrow";
+  font-family: "lores-9-plus-narrow", monospace;
   text-decoration: none;
   color: white;
 }

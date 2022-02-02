@@ -33,7 +33,7 @@
 
 .siteNav > button {
   border:none;
-  font-family:"lores-9-plus-narrow";
+  font-family:"lores-9-plus-narrow", monospace;
   font-size: 0.7rem;
   background-color:black;
   color:#c0a5a5;
@@ -94,7 +94,7 @@
 }
 
 .darkTypeface {
-  font-family:"lores-9-plus-wide";
+  font-family:"lores-9-plus-wide", monospace;
   font-size:1.8rem;
   font-weight:700;
   text-shadow:1px 1px red;

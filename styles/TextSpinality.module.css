@@ -1,5 +1,5 @@
 .title {
-    font-family:"lores-9-plus-wide";
+    font-family:"lores-9-plus-wide", monospace;
     font-size:2rem;
     font-weight:700;
     font-style:italic;
@@ -55,7 +55,7 @@
 }
 
 .blueShadowLittle {
-  font-family:"lores-9-plus-wide";
+  font-family:"lores-9-plus-wide", monospace;
   text-shadow:1px 1px snow,
               2px 2px #2cbae7;
   font-style:italic;

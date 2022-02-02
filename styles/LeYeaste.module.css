@@ -95,7 +95,7 @@
 }
 
 .boldText {
-  font-family:"lores-9-plus-wide";
+  font-family:"lores-9-plus-wide", monospace;
   color:red;
   text-shadow:1px 1px snow;
   font-weight:700;

@@ -30,7 +30,7 @@
 .pageTitle {
   position:relative;
   grid-column: 1 / span 1;
-  font-family: "lores-9-plus-wide-bold-alt";
+  font-family: "lores-9-plus-wide-bold-alt", monospace;
   color: #6b6b6b;
   font-size: 3.2rem;
   text-transform: lowercase;
@@ -42,7 +42,7 @@
   position: relative;
   grid-column: 2 / span 1;
   align-self:center;
-  font-family: "lores-9-minus-narrow";
+  font-family: "lores-9-minus-narrow", monospace;
   color: white;
   text-shadow:1px 1px #b0b0b0;
   font-size: 2.2rem;
@@ -87,7 +87,7 @@
 
 .workLink {
   position: relative;
-  font-family: ubuntu, sans-serif;
+  font-family: ubuntu, monospace;
   color: white;
   font-size: 1.3em;
   text-transform: uppercase;
@@ -119,7 +119,7 @@
 
 .innerSiteLinkTag, .twitterLinkTag {
   position: relative;
-  font-family: "lores-9-plus-narrow";
+  font-family: "lores-9-plus-narrow", monospace;
   text-decoration: none;
   color: white;
 }

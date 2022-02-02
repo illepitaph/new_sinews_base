@@ -43,7 +43,7 @@
 }
 
 .workLink {
-  font-family: ubuntu, sans-serif;
+  font-family: ubuntu, monospace;
   font-size: 1rem;
   font-weight:500;
   text-transform: uppercase;
@@ -76,7 +76,7 @@
   left:10%;
     z-index:4;
   color:white;
-  font-family: "lores-9-plus-wide-bold-alt";
+  font-family: "lores-9-plus-wide-bold-alt", monospace;
   color: white;
   font-size: 4.3rem;
   text-transform: lowercase;
@@ -148,7 +148,7 @@
 }
 
 .innerSiteLinkTag, .twitterLinkTag {
-  font-family: "lores-9-plus-narrow";
+  font-family: "lores-9-plus-narrow", monospace;
   text-decoration: none;
   color: white;
 }

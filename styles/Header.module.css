@@ -197,7 +197,7 @@
 
 .siteNav > button {
   border:none;
-  font-family:"lores-9-plus-narrow";
+  font-family:"lores-9-plus-narrow", monospace;
   font-size: 0.7rem;
   background-color:black;
   color:#c0a5a5;

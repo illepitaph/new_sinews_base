@@ -32,7 +32,7 @@
 }
 
 .greenShadow {
-  font-family:"lores-9-plus-wide";
+  font-family:"lores-9-plus-wide", monospace;
   text-shadow:1px 1px snow,
               2px 2px palegreen;
 }

@@ -115,7 +115,7 @@
 }
 
 .roughAltText {
-  font-family: lores-9-wide, sans-serif;
+  font-family: lores-9-wide, monospace;
   font-size:1.6rem;
   color:#b0b0b0;
   text-shadow:1px 1px white, 4px 4px gainsboro;

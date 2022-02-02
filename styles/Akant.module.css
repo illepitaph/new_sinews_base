@@ -91,7 +91,7 @@
 .bigT {
     font-size:3rem;
     color:#b0b0b0;
-    font-family:"lores-9-plus-wide";
+    font-family:"lores-9-plus-wide", monospace;
     text-shadow:4px 4px snow,
                 6px 6px black;
     text-align:center;

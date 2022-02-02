@@ -11,7 +11,7 @@
 
 .poemTitle {
   max-width:70vw;
-  font-family:"lores-9-plus-wide";
+  font-family:"lores-9-plus-wide", monospace;
   font-weight: 600;
   font-style: normal;
   font-size:2.2rem;

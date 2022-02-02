@@ -1,5 +1,5 @@
 .title {
-    font-family:"lores-9-plus-wide";
+    font-family:"lores-9-plus-wide", monospace;
     font-size:2rem;
     font-weight:700;
     font-style:italic;
@@ -30,14 +30,14 @@
 }
 
 .sectionBreak {
-  font-family:"lores-9-plus-wide";
+  font-family:"lores-9-plus-wide", monospace;
   color:#b0b0b0;
   font-size:2.5rem;
   text-align:left;
 }
 
 .pressAttribution {
-    font-family:"lores-9-plus-wide";
+    font-family:"lores-9-plus-wide", monospace;
     font-size:1.4rem;
     font-weight:700;
     text-align:center;
