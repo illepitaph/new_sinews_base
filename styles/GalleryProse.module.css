@@ -13,7 +13,7 @@
   margin:0 auto;
   text-shadow:2px 2px gainsboro;
   letter-spacing:0.04rem;
-  line-height:1.4em;
+  line-height:1.7em;
 }
 
 @media (max-width:429px) and (orientation:portrait) {
