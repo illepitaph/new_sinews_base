@@ -11,11 +11,11 @@
 
 
 .rat {
-  font-family: sans-serif;
+  font-family: "base-9-sans", sans-serif;
   font-weight: 300;
   font-style: normal;
   font-size:1.2rem;
-  text-shadow:1px 1px #b0b0b0;
+  text-shadow:2px 2px gainsboro;
   letter-spacing:-0.02rem;
   line-height:1.4em;
   margin-left:18vw;
@@ -50,12 +50,21 @@
 }
 }
 
+@media (max-width:429px) and (orientation:portrait) {
+
+
+  .rat {
+  text-shadow:none;
+}
+}
+
 @media (max-width:415px) and (orientation:portrait) {
 
 
   .rat {
   font-size:0.91rem;
   margin-left:4vw;
+  text-shadow:none;
 }
 }
 

@@ -6,12 +6,12 @@
 
 .galleryProse {
   max-width:80%;
-  font-family: sans-serif;
+  font-family: "base-9-sans", sans-serif;
   font-weight: 300;
   font-style: normal;
   font-size:1.2rem;
   margin:0 auto;
-  text-shadow:1px 1px #b0b0b0;
+  text-shadow:2px 2px gainsboro;
   letter-spacing:0.04rem;
   line-height:1.4em;
 }

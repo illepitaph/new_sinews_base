@@ -276,7 +276,7 @@ export function TwoEyesRawText11() {
             <GalleryLineation>{`
                          `}<strong>BIRD</strong>{`                                              `}<strong>CATHEDRAL</strong>{`
 My feathers are singing buttresses                   My buttresses are buttresses
-I have two eyes                                               I have one
+I have two eyes                                                I have one
 
 
                                                        Who

@@ -1,5 +1,4 @@
 import Head from 'next/head'
-import Link from 'next/link'
 import Header from '../../components/header.js'
 import CenterGrayTitle from '../../components/centerGrayTitle.js'
 import CenterBlackTitle from '../../components/centerBlackTitle.js'
@@ -341,7 +340,7 @@ white, liquid shadows,
 impersonate
 sunlight on a river`}</pre>
 
-<CenterGrayTitle><h3><span className={styles.titleShadow}><span
+<CenterGrayTitle><span className={styles.titleShadow}><span
 className={styles.inverseShadow}>_</span>t <span
 className={styles.inverseShadow}>h </span>e +   <span
 className={styles.inverseShadow}>h</span>o<span
@@ -349,7 +348,7 @@ className={styles.inverseShadow}>u </span> r<span
 className={styles.inverseShadow}><br/>o</span>f <br/> t h<span
 className={styles.inverseShadow}>e </span><span
 className={styles.inverseShadow}> + r</span>a<span
-className={styles.inverseShadow}>t_</span></span></h3></CenterGrayTitle>
+className={styles.inverseShadow}>t_</span></span></CenterGrayTitle>
 
 <pre className={styles.rat}>{`I went to the rain
 to bring back the rain

@@ -163,7 +163,7 @@ export function OvidRawText15(){
   return   (
           <>
           <pre
-          className={styles.diagramText}>{`         Diagram of the new self (bed of stakes / an addiction to blood):
+          className={styles.diagramText}>{`                    Diagram of the new self (bed of stakes / an addiction to blood):
 
                X IIIIIIIIIIIIIIII X IIIIIIIIIIIIIIII X IIIIIIIIIIIIIIII X IIIIIIIIIIIIIIII X
                X IIIIIIIIIIIIIIII X IIIIIIIIIIIIIIII X IIIIIIIIIIIIIIII X IIIIIIIIIIIIIIII X
