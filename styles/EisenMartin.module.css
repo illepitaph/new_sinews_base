@@ -6,7 +6,7 @@
 }
 
 .leftJustified, .standardLineation {
-  font-family: "astoria-sans-medium-condensed", sans-serif;
+  font-family: sans-serif;
   font-weight: 300;
   font-style: normal;
   font-size:1.2rem;
@@ -16,7 +16,7 @@
 }
 
 .polyphony {
-  font-family: "astoria-sans-medium-condensed", sans-serif;
+  font-family: sans-serif;
   font-weight: 300;
   font-size:1.2rem;
   text-shadow:1px 1px #b0b0b0;
@@ -26,7 +26,7 @@
 }
 
 .rightJustified {
-  font-family: "astoria-sans-medium-condensed", sans-serif;
+  font-family: sans-serif;
   font-weight: 300;
   font-style: normal;
   font-size:1.2rem;
@@ -38,7 +38,7 @@
 }
 
 .centerJustified {
-  font-family: "astoria-sans-medium-condensed", sans-serif;
+  font-family: sans-serif;
   font-weight: 300;
   font-style: normal;
   font-size:1.2rem;

@@ -11,7 +11,7 @@
 
 
 .rat {
-  font-family: "astoria-sans-medium-condensed", monospace;
+  font-family: sans-serif;
   font-weight: 300;
   font-style: normal;
   font-size:1.2rem;
@@ -23,7 +23,7 @@
 
 
 .ratAsterisk {
-  font-family: "astoria-sans-medium-condensed", monospace;
+  font-family: sans-serif;
   font-weight: 700;
   font-style: normal;
   font-size:3.2rem;

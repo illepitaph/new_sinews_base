@@ -104,7 +104,7 @@
 }
 
 .diagramText {
-  font-family: "astoria-sans-medium-condensed", sans-serif;
+  font-family: sans-serif;
   font-weight: 500;
   font-style: normal;
   font-size:1.2rem;
@@ -115,7 +115,7 @@
 }
 
 .roughAltText {
-  font-family: lores-9-wide, monospace;
+  font-family: "lores-9-wide", monospace;
   font-size:1.6rem;
   color:#b0b0b0;
   text-shadow:1px 1px white, 4px 4px gainsboro;
