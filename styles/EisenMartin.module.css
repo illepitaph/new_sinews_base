@@ -6,31 +6,31 @@
 }
 
 .leftJustified, .standardLineation {
-  font-family: sans-serif;
+  font-family: "base-9-sans", sans-serif;
   font-weight: 300;
   font-style: normal;
   font-size:1.2rem;
-  text-shadow:1px 1px #b0b0b0;
+  text-shadow:2px 2px gainsboro;
   letter-spacing:-0.02rem;
   line-height:1.4em;
 }
 
 .polyphony {
-  font-family: sans-serif;
+  font-family: "base-9-sans", sans-serif;
   font-weight: 300;
   font-size:1.2rem;
-  text-shadow:1px 1px #b0b0b0;
+  text-shadow:2px 2px gainsboro;
   letter-spacing:-0.02rem;
   line-height:1.4em;
   font-style:italic;
 }
 
 .rightJustified {
-  font-family: sans-serif;
+  font-family: "base-9-sans", sans-serif;
   font-weight: 300;
   font-style: normal;
   font-size:1.2rem;
-  text-shadow:1px 1px #b0b0b0;
+  text-shadow:2px 2px gainsboro;
   letter-spacing:-0.02rem;
   line-height:1.4em;
   margin-top:7%;
@@ -38,14 +38,13 @@
 }
 
 .centerJustified {
-  font-family: sans-serif;
+  font-family: "base-9-sans", sans-serif;
   font-weight: 300;
   font-style: normal;
   font-size:1.2rem;
-  text-shadow:1px 1px #b0b0b0;
+  text-shadow:2px 2px gainsboro;
   letter-spacing:-0.02rem;
   line-height:1.4em;
-  margin-top:7%;
   margin-top:7%;
   margin-bottom:7%;
   text-align:center;
@@ -59,6 +58,22 @@
 .poem, .leftJustified, .standardLineation, .rightJustified, .centerJustified, .polyphony {
   font-size:2.2rem;
   white-space: pre-line;
+ }
+}
+
+@media (width:1024px) and (height:768px) and (orientation:landscape) {
+.poem, .leftJustified, .standardLineation, .rightJustified, .centerJustified, .polyphony {
+  max-width:99%;
+  font-size:1.2rem;
+  margin:2% 2%;
+ }
+}
+
+@media (width:1024px) and (height:600px) and (orientation:landscape) {
+.poem, .leftJustified, .standardLineation, .rightJustified, .centerJustified, .polyphony {
+  max-width:99%;
+  font-size:1.2rem;
+  margin:2% 2%;
  }
 }
 
@@ -78,7 +93,6 @@
 
   .poem, .leftJustified, .standardLineation, .rightJustified, .centerJustified, .polyphony {
     font-size:0.9rem;
-    text-shadow:none;
   }
 
  }
