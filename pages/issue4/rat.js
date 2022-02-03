@@ -125,7 +125,7 @@ To write a poem while being timed
 with seasons of instruction watching over,
 under the influence of a four month old daughter`}</pre>
 
-<CenterGrayTitle><h3>+ <span className={styles.titleShadow}><span
+<CenterGrayTitle>+ <span className={styles.titleShadow}><span
 className={styles.inverseShadow}>t</span>h<span
 className={styles.inverseShadow}>e</span>  _ h   <span
 className={styles.inverseShadow}>o</span>u <span
@@ -133,7 +133,7 @@ className={styles.inverseShadow}>r </span><br/>o<span
 className={styles.inverseShadow}>f <br/> t</span><span
 className={styles.inverseShadow}>h</span>e<span
 className={styles.inverseShadow}> _ r </span>a   <span
-className={styles.inverseShadow}>t +</span></span></h3></CenterGrayTitle>
+className={styles.inverseShadow}>t +</span></span></CenterGrayTitle>
 
 <pre className={styles.rat}>{`The rainbow is white
 The milk is in the wall
@@ -232,7 +232,7 @@ through the milk
 
 is omni`}</pre>
 
-<CenterGrayTitle><h3>t<span className={styles.titleShadow}><span
+<CenterGrayTitle>t<span className={styles.titleShadow}><span
 className={styles.inverseShadow}>h</span>e<br/><span
 className={styles.inverseShadow}>h</span>o   <span
 className={styles.inverseShadow}>u </span> <span
@@ -240,10 +240,10 @@ className={styles.inverseShadow}>r </span><br/><span
 className={styles.inverseShadow}>o</span>f<br/>+ t<span
 className={styles.inverseShadow}>h</span><span
 className={styles.inverseShadow}>e</span> _ r<span
-className={styles.inverseShadow}> a</span>   t +</span></h3></CenterGrayTitle>
+className={styles.inverseShadow}> a</span>   t +</span></CenterGrayTitle>
 
 
-<CenterBlackTitle><h4>…Or: Exploring_the_<br/>Theme_of_Autumn_<br/>Leaves…</h4></CenterBlackTitle>
+<CenterBlackTitle>…Or: Exploring_the_<br/>Theme_of_Autumn_<br/>Leaves…</CenterBlackTitle>
 <br/><br/>
 
 <pre className={styles.rat}>{`Ghosts, to the newborn, are on the ceiling and walls.
