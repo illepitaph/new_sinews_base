@@ -111,6 +111,14 @@
 
  }
 
+ @media (width:653px) and (height:280px) and (orientation:landscape) {
+
+   .carousel {
+     height:120vh;
+   }
+
+  }
+
 @media (max-width: 429px) and (orientation:portrait) {
 
   .carousel {

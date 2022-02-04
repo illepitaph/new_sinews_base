@@ -35,13 +35,13 @@ export function LeYeasteRawText3() {
 
 
 Genus Narcissus daffodil mustache [-  fungus
-crawling {into asexual alabaster dust hives /    \
-                          of leavening
+crawling {into asexual alabaster dust hives /  \\
+of leavening
 
                                                                                                                     ((awkwardly))
 
 
-before flour			           \                              /
+before flour			                                         \\  /
 disciples exchanging clitoral .                fish.             table visualizing/ breakfast`}</GalleryLineation>
         </>
   )
@@ -52,18 +52,19 @@ export function LeYeasteRawText4() {
        <>
        <GalleryLineation>{`                        `}<span className={styles.boldText}>        Gascieht ‘birth, beast,’/</span>{`
 
-  god is so )))))))))))))))    soft
-  before a feast, last
+  god is so
+  )))))))))))))))    soft
+           before a feast, last
 
                                                                                   inflating-
 
-         you / are / able capable
+  you / are / able capable
 
-                    of converting sugar, / into alcohol.
-                    & c /&/ M
+              of converting sugar, / into alcohol.
+              & c /&/ M
 
-                    You   are,     g o d   / and / I,  am>
-                    the table ( - Cassava-`}</GalleryLineation>
+              You   are,     g o d   / and / I,  am>
+              the table ( - Cassava-`}</GalleryLineation>
         </>
   )
 }
@@ -72,19 +73,19 @@ export function LeYeasteRawText5() {
     return (
        <>
        <GalleryLineation>{`
-          relic water
+    relic water
       on your (  endosperm  )                   h
     ide
-          y   o u r              m
-             a      m
-    m   o     t
-    h                 m   o   u
-                                                       t   h
+          y   o u r       m
+               a    m
+    m     o   t
+    h             m   o   u
+                                                            t        h
 
 
 
     is      so        small
-                                 beyond
+                              beyond
         `}</GalleryLineation>
         </>
   )
