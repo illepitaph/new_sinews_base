@@ -293,7 +293,7 @@
     }
 }
 
-@media (max-width:384px) and (orientation:portrait) {
+@media (max-width:394px) and (orientation:portrait) {
 
   .carousel {
     height:140vh;
@@ -351,8 +351,7 @@
 @media (max-height:281px) and (orientation:landscape) {
 
   .carousel {
-    height:300vh;
+    height:390vh;
   }
-
 
 }
