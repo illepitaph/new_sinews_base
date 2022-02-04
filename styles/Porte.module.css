@@ -26,7 +26,7 @@
 
 .storyMarquee {
   font-family: "lores-12-narrow", monospace;
-  font-size:2.1rem;
+  font-size:3.4rem;
   text-shadow:1px 1px black;
   color:#b0b0b0;
   text-align:right;
@@ -79,7 +79,7 @@
  @media (max-width: 413px) and (orientation:portrait) {
 
    .storyMarquee {
-     font-size:1.7rem;
+     font-size:3.1rem;
      margin: 0 10vw 8vh 0;
    }
 
