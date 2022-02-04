@@ -290,11 +290,12 @@ slow inhalation in his sleep</p>
       Duras’ <span className={styles.greenShadow}><cite>India Song</cite></span></p>
       <br/><br/>
       <p className={styles.getteLineation}>Edmond, R. (2006). <span className={styles.greenShadow}><cite>Leprosy
-      and Empire: A Medical and Cultural History  </cite></span> (Cambridge Social and Cultural Histories). Cambridge: Cambridge University Press. doi:10.1017/CBO9780511497285 </p>
+      and Empire: A Medical and Cultural History  </cite></span> (Cambridge Social and Cultural Histories). Cambridge: Cambridge University Press. <span
+      className={styles.textSizeMinimizerThree}>doi:10.1017/CBO9780511497285 </span></p>
       <br/><br/>
       <p className={styles.getteLineation}>Gachelin, G., Garner, P., Ferroni, E., Verhave, J. P., & Opinel, A
       (2018). “Evidence and strategies for malaria prevention and control: a historical analysis.” <i>Malaria Journal</i>. 17(1),
-      96. <a href="https://doi.org/10.1186/s12936-018-2244-2"
+      96. <a className={styles.textSizeMinimizerFour} href="https://doi.org/10.1186/s12936-018-2244-2"
       target="_blank">https://doi.org/10.1186/s12936-018-2244-2</a></p>
       <br/><br/>
       <p className={styles.getteLineation}>Loayza, Beatrice. “Close-Up on Marguerite Duras's ‘India Song.’” MUBI, 4 Apr.

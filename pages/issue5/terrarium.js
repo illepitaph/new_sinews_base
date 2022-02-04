@@ -1,5 +1,4 @@
 import Head from 'next/head'
-import Link from 'next/link'
 import Header from '../../components/header.js'
 import RightGrayTitle from '../../components/rightGrayTitle.js'
 import CenterGrayTitle from '../../components/centerGrayTitle.js'
