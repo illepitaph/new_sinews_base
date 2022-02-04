@@ -152,9 +152,16 @@
 
 }
 
+@media (width:1024px) and (height:600px) and (orientation:landscape) {
+  .carousel {
+    height:180vh;
+  }
+
+}
+
 @media (max-width:927px) and (orientation:landscape) {
   .carousel {
-    height:150vh;
+    height:220vh;
   }
 
   .grayShadow {
@@ -162,7 +169,7 @@
   }
 
     .specialDateCitation {
-      font-size:1.1rem;
+      font-size:1rem;
     }
 
     .roughAltText, .roughAltTextTwo {
@@ -174,17 +181,7 @@
     }
 }
 
-@media (max-width:897px) and (orientation:landscape) {
-  .carousel {
-    height:170vh;
-  }
-
-}
-
 @media (max-width:813px) and (orientation:landscape) {
-  .carousel {
-    height:190vh;
-  }
 
   .carousel > .prev {
     top:4%;
@@ -203,6 +200,13 @@
 
 }
 
+@media (width:800px) and (height:1280px) and (orientation:portrait) {
+  .carousel {
+    height:85vh;
+  }
+
+}
+
 @media (max-width:769px) and (orientation:portrait) {
 
   .roughAltTextTwo {
@@ -211,16 +215,16 @@
 
 }
 
-@media (max-width:761px) and (orientation:landscape) {
+@media (max-width:801px) and (orientation:landscape) {
   .carousel {
-    height:190vh;
+    height:270vh;
   }
 }
 
 @media (width:540px) and (height:720px) and (orientation:portrait) {
 
   .carousel {
-    height:140vh;
+    height:190vh;
   }
 
   .grayShadowSpecial {
@@ -232,18 +236,19 @@
   }
 
   .specialDateCitation {
-    font-size:1rem;
+    font-size:0.8rem;
   }
 
 }
 
 @media (max-width:668px) and (orientation:landscape) {
   .carousel {
-    height:220vh;
+    height:300vh;
   }
 }
 
 @media (max-width:429px) and (orientation:portrait) {
+
   .link {
       font-size:2rem;
     }
@@ -274,7 +279,7 @@
     }
 
     .specialDateCitation {
-      font-size:0.7rem;
+      font-size:0.65rem;
     }
 }
 
@@ -282,12 +287,24 @@
   .link {
       font-size:1.9rem;
     }
+
+    .specialDateCitation {
+      font-size:0.55rem;
+    }
+}
+
+@media (max-width:384px) and (orientation:portrait) {
+
+  .carousel {
+    height:140vh;
+  }
+
 }
 
 @media (max-width:376px) and (orientation:portrait) {
 
   .carousel {
-    height:130vh;
+    height:160vh;
   }
 
   .link {
@@ -298,9 +315,6 @@
       font-size:1.1rem;
     }
 
-    .specialDateCitation {
-      font-size:0.6rem;
-    }
 }
 
 @media (max-width:361px) and (orientation:portrait) {
@@ -312,7 +326,7 @@
 @media (max-width:281px) and (orientation:portrait) {
 
   .carousel {
-    height:160vh;
+    height:250vh;
   }
 
   .grayShadow {
@@ -328,7 +342,7 @@
   }
 
   .specialDateCitation {
-    font-size:0.5rem;
+    font-size:0.45rem;
   }
 
 
