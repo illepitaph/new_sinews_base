@@ -69,7 +69,7 @@ export function StraussRawText4(){
 
                                                     Make synonyms
                                     Abandon their
-                              Almost twin timbres            still
+                              Almost twin timbres          still
 
                                                        Remain perfect
                                                        Reflections        etches in
@@ -93,9 +93,9 @@ export function StraussRawText5(){
           Rusts Glossy </i>]</span> </CenterBlackTitle>
           <br/>
          <GalleryLineation>
-  {`              Ancient           now         edge        shimmer of
-                                     Umber      sienna    cinnabar
-                                    Freshly crushed         fruit     its oils
+  {`              Ancient           now         edge      shimmer of
+                                      Umber       sienna   cinnabar
+                                     Freshly crushed         fruit     its oils
                                                    Gloss memory
                                   Snows reconstructive flakes.`}
           </GalleryLineation>
@@ -115,12 +115,12 @@ Winds           through pines        pinions         what fused
 Ever    ether         redresses its        formula
 
 Finds       if flinch but        inside       filing
-Away at        interior      tells         different
-Wave           lengths like locks hair       models
+Away at         interior      tells         different
+Wave             lengths like locks hair       models
 
-Make persuasion           gone to
-Seed          germane absurd         and proves rich culture
-Remains        unseen.`}
+Make persuasion              gone to
+Seed          germane absurd          and proves rich culture
+Remains         unseen.`}
           </GalleryLineation>
           </>
     )
