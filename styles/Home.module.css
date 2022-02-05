@@ -5,7 +5,7 @@
   background-repeat:no-repeat;
   background-position:25% 35%;
   background-attachment:fixed;
-  overflow:scroll;
+  overflow:hidden;
   font-size:1rem;
 }
 
@@ -23,6 +23,7 @@
   height:35vh;
   margin-top:12vh;
   margin-left:2vw;
+  cursor:pointer;
 }
 
 .graffiti {
@@ -87,7 +88,6 @@
   font-style:italic;
 }
 
-
 .bottom {
     height:90vh;
     background-image:url("../public/images/NewSinewsCoveFull.jpg");
@@ -97,28 +97,115 @@
     background-attachment:fixed,scroll;
 }
 
-.socialLinkFooter {
-  height:18vh;
-  display:grid;
-  place-items:center;
-  font-size:1.7rem;
+@media (max-width: 991.98px) {
+
+  .top {
+    background-size:cover;
+    background-position:center;
+  }
+
+  .iconPlusSitebar > div {
+    width:35vw;
+    height:35vh;
+    margin-top:9vh;
+    margin-left:5vw;
+    opacity:0.7;
+  }
+
+  .siteNav {
+    align-self:center;
+    display:inline-flex;
+    flex-flow:column wrap;
+    justify-content:flex-end;
+    margin:7vh 6vw 0 0 ;
+  }
+
+  .siteNav > button {
+    padding:6px 13px;
+    margin-bottom:2vh;
+    opacity:0.8;
+  }
+
+  .bottom {
+      height:150vh;
+      background-size:cover;
+      background-position:75% 25%;
+  }
+}
+
+@media (max-width: 927px) and (orientation:landscape) {
+
+  .iconPlusSitebar > div {
+    width:55vw;
+    height:55vh;
+    margin-left:1vw;
+  }
+
+  .siteNav {
+    margin-right:25%;
+  }
+
+  .graffiti {
+    font-size:2.2rem;
+    margin:2% 0 0 4%;
+  }
+
 
 }
 
-.socialLinkFooter > .socialLinkTag {
-  color:#b0b0b0;
-  opacity: 1;
-  font-family:"lores-9-plus-wide", monospace;
-  text-decoration:none;
-  letter-spacing:0.06em;
-  text-transform:lowercase;
+@media (max-width: 854px) and (orientation:landscape) {
+
+  .graffiti {
+    font-size:1.6rem;
+  }
+
+
 }
 
-.socialLinkTag:hover {
-  cursor:pointer;
-  text-shadow:3px 3px black;
+@media (max-width: 810px) and (orientation:portrait) {
+
+  .graffiti {
+    font-size:2rem;
+    margin:9% 0 0 0;
+  }
+
+  .bottom {
+      background-position:1% 35%;
+  }
+
+
 }
 
-.socialLinkTag:visited {
-  text-decoration:none;
+@media (max-width:429px) and (orientation:portrait) {
+
+  .top {
+    background-position:center;
+    height:100vh;
+  }
+
+  .graffiti {
+    font-size:1.05rem;
+  }
+
+  .lightTypeface {
+    font-size:2rem;
+  }
+
+  .bottom {
+      height:60vh;
+  }
+
+}
+
+
+@media (max-width:391px) and (orientation:portrait) {
+
+  .top {
+    height:110vh;
+  }
+
+  .graffiti {
+    font-size:0.95rem;
+  }
+
 }

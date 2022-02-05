@@ -1,10 +1,16 @@
-import Image from 'next/image'
 import Link from 'next/link'
+import Head from 'next/head'
 import Footer from '/components/footer.js'
 import styles from '/styles/Home.module.css'
+Home.title = "new_sinews"
 
 export default function Home() {
   return (
+
+    <>
+
+      <Head/>
+
     <div className={styles.container}>
 
       <body>
@@ -86,5 +92,7 @@ export default function Home() {
                 </body>
 
     </div>
+
+    </>
   )
 }
