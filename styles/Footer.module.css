@@ -10,7 +10,7 @@
 }
 
 .socialLinkFooter > a {
-  color:#b0b0b0;
+  color:#c8c8c8;
   opacity: 1;
   font-family:"lores-9-plus-wide", monospace;
   text-decoration:none;
@@ -22,13 +22,13 @@
   text-decoration:none;
 }
 
-.blueText {
-  color:#2cbae7;
+.mintText {
+  color:#aaf0d1;;
 }
 
 .socialLinkFooter > a:hover {
   cursor:pointer;
-  color:#b0b0b0;
+  color:#c8c8c8;
   text-shadow:2px 2px snow, 5px 5px black;
   letter-spacing:0.2rem;
 }

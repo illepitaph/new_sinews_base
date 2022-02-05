@@ -15,57 +15,62 @@
 }
 
 .duskLineation {
-    max-width:60vw;
+    max-width:80vw;
     margin:0 auto;
-    font-family: sans-serif;
+    font-family: "base-9-sans", sans-serif;
     font-weight: 300;
     font-style: normal;
     font-size:1.2rem;
-    text-shadow:1px 1px #b0b0b0;
+    text-shadow:2px 2px gainsboro;
     letter-spacing:-0.02rem;
-    line-height:1.4em;
+    line-height:1.7em;
+    white-space: pre-line;
 }
 
 .italAnomaly {
-  max-width:50vw;
+  max-width:80vw;
   margin:0 auto;
-  font-family: sans-serif;
+  font-family: "lores-9-plus-narrow", sans-serif;
   font-weight: 300;
   font-style: italic;
   font-size:1.2rem;
-  text-shadow:1px 1px #b0b0b0;
+  text-shadow:2px 2px gainsboro;
   letter-spacing:-0.02rem;
-  line-height:1.4em;
+  line-height:1.7em;
 }
 
-@media (max-width: 1082px) and (orientation:landscape) {
+@media (max-width: 992px) and (orientation:landscape){
+
+  .duskLineation, .italAnomaly {
+    max-width:90vw;
+    font-size:1rem;
+  }
+
+  .italAnomaly {
+    max-width:88vw;
+  }
+}
+
+@media (max-width: 884px) and (orientation:landscape){
+
+  .duskLineation, .italAnomaly {
+    max-width:95vw;
+    font-size:1rem;
+  }
+
+}
+
+@media (max-width: 810px) and (orientation:portrait){
 
   .duskLineation, .italAnomaly {
     max-width:90vw;
   }
 }
 
-@media (max-width: 991.98px) {
-
-  .duskLineation, .italAnomaly {
-    max-width:70vw;
-    font-size:1rem;
-  }
-}
-
-@media (max-width: 768px) {
-
-  .duskLineation, .italAnomaly {
-    max-width:98vw;
-  }
-
- }
-
  @media (max-width: 668px) {
 
    .duskLineation, .italAnomaly {
-     font-size:0.9rem;
-     white-space: pre-line;
+     font-size:1rem;
    }
 
   }
@@ -73,9 +78,15 @@
  @media (max-width: 429px) and (orientation:portrait) {
 
    .duskLineation, .italAnomaly {
-     text-shadow:none;
-     font-weight:400;
-     white-space: pre-line;
+     max-width:90vw;
    }
 
   }
+
+  @media (max-width: 394px) and (orientation:portrait) {
+
+    .duskLineation, .italAnomaly {
+      max-width:95vw;
+    }
+
+   }
