@@ -107,6 +107,10 @@
 
 @media (max-width:855px) and (orientation:landscape) {
 
+  .carousel {
+    height:110vh;
+  }
+
   .carousel > .prev {
   top:5%;
 }

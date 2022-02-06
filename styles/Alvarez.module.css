@@ -29,37 +29,37 @@
 
 
 .dataBlood {
-  font-family: sans-serif;
+  font-family: "base-9-sans", sans-serif;
   font-weight: 300;
   font-style: normal;
   font-size:1.2rem;
-  text-shadow:1px 1px #b0b0b0;
+  text-shadow:2px 2px gainsboro;
   text-align:right;
   letter-spacing:-0.02rem;
-  line-height:1.4em;
-  margin-right:6rem;
+  line-height:1.7em;
+  margin-right:7vw;
 }
 
 .zeroProgress {
-  font-family: sans-serif;
+  font-family: "base-9-sans", sans-serif;
   font-weight: 300;
   font-style: normal;
   font-size:1.2rem;
-  text-shadow:1px 1px #b0b0b0;
+  text-shadow:2px 2px gainsboro;
   text-align:left;
   letter-spacing:-0.02rem;
-  line-height:1.4em;
-  margin-left:6rem;
+  line-height:1.7em;
+  margin-left:7vw;
 }
 
 .middleishLineation {
-  font-family: sans-serif;
+  font-family: "base-9-sans", sans-serif;
   font-weight: 300;
   font-style: normal;
   font-size:1.2rem;
-  text-shadow:1px 1px #b0b0b0;
+  text-shadow:2px 2px gainsboro;
   letter-spacing:-0.02rem;
-  line-height:1.4em;
+  line-height:1.7em;
   margin-left:41vw;
 }
 
@@ -123,11 +123,11 @@
 @media (max-width: 927px) and (orientation:landscape) {
 
   .dataBlood {
-    margin-right:2rem;
+    margin-right:2vw;
   }
 
   .zeroProgress {
-      margin-left:2rem;
+      margin-left:2vw;
     }
 
 }
@@ -135,26 +135,33 @@
 @media (max-width: 913px) and (orientation:portrait) {
 
   .dataBlood {
-    margin-right:2rem;
+    margin-right:2vw;
   }
 
   .zeroProgress {
-      margin-left:2rem;
+    margin-left:2vw;
     }
 
+}
+
+@media (max-width: 667px) and (orientation:landscape) {
+
+  .dataBlood, .zeroProgress {
+    white-space: pre-line;
+  }
 }
 
 @media (max-width: 541px) and (orientation:portrait) {
 
   .dataBlood {
     font-size:1rem;
-    margin-right:2rem;
+    margin-right:2vw;
     white-space: pre-line;
   }
 
   .zeroProgress {
       font-size:1rem;
-      margin-left:2rem;
+      margin-left:2vw;
       white-space: pre-line;
     }
 
@@ -163,11 +170,11 @@
 @media (max-width: 415px) and (orientation:portrait) {
 
   .dataBlood {
-    margin-right:1rem;
+    margin-right:1vw;
   }
 
   .zeroProgress {
-      margin-left:1rem;
+      margin-left:1vw;
     }
 
 }
