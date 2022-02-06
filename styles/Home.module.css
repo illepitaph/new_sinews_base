@@ -1,6 +1,14 @@
 .top {
   height:190vh;
-  background-image:url("../public/images/ArchNewSinew.jpg");
+  background:linear-gradient(
+      to bottom,
+      rgba(32, 32, 32, 0.1) 45%,
+      rgba(32, 32, 32, 0.4) 55%,
+      rgba(32, 32, 32, 0.6) 75%,
+      rgba(32, 32, 32, 0.84) 90%,
+      rgba(32, 32, 32, 1)
+    ),
+    url("../public/images/ArchNewSinew.jpg");
   background-size:100vw 100vh;
   background-repeat:no-repeat;
   background-position:25% 35%;
@@ -57,44 +65,58 @@
 }
 
 .middle {
-  margin:6% 0 6% 6%;
+  background: linear-gradient(
+      to bottom,
+      rgba(32, 32, 32, 1),
+      rgba(32, 32, 32, 0.84) 25%,
+      rgba(32, 32, 32, 0.65) 55%,
+      rgba(32, 32, 32, 0.72) 75%,
+      rgba(32, 32, 32, 0.84) 90%,
+      rgba(32, 32, 32, 1)
+    ),
+    url("../public/images/ArchNewSinew.jpg") repeat center center fixed;
+}
+
+.marquee {
+  padding:5vh 0 5vh 0;
+  margin-left:6%;
 }
 
 .lightTypeface {
   font-family:"lores-9-plus-wide-bold-alt", monospace;
   color:#b0b0b0;
   opacity: 1;
-  font-size:2.4rem;
+  font-size:3.8rem;
+  text-shadow: 2px 3px snow, 4px 5px black, 6px 7px 35px gainsboro;
   font-weight:400;
   text-transform:lowercase;
 }
 
-.darkTypeface {
-  font-family:"lores-9-plus-wide", monospace;
-  font-size:1.4rem;
+.snowTypeface {
+font-family:"lores-9-plus-narrow", monospace;
+color:snow;
+  text-shadow:1px 1px #b0b0b0,
+              2px 2px black,
+              3px 3px white,
+              4px 4px #b0b0b0;
+  font-size:3.9rem;
   font-weight:700;
-  text-transform:lowercase;
-  line-height:5.5rem;
-  letter-spacing:-0.02rem;
-}
-
-.darkTypefaceSpecial {
-  font-family:"lores-9-plus-wide", monospace;
-  font-size:1.4rem;
-  font-weight:700;
-  text-transform:lowercase;
-  line-height:5.4rem;
-  letter-spacing:-0.02rem;
-  font-style:italic;
+  text-transform:uppercase;
+  line-height:6.5rem;
+  letter-spacing:0.2rem;
 }
 
 .bottom {
-    height:90vh;
-    background-image:url("../public/images/NewSinewsCoveFull.jpg");
-    background-repeat:no-repeat;
-    background-position:35% 35%;
-    background-size:cover;
-    background-attachment:fixed,scroll;
+    height:160vh;
+    background:linear-gradient(
+        to top,
+        rgba(32, 32, 32, 0.3) 15%,
+        rgba(32, 32, 32, 0.5) 35%,
+        rgba(32, 32, 32, 0.7) 65%,
+        rgba(32, 32, 32, 0.84) 90%,
+        rgba(32, 32, 32, 1)
+      ),url("../public/images/ArchNewSinew.jpg"),
+    url("../public/images/NewSinewsCoveFull.jpg");
 }
 
 @media (width:1024px) and (height:768px) and (orientation:landscape) {
@@ -227,7 +249,12 @@
   }
 
   .lightTypeface {
-    font-size:2rem;
+    font-size:1.7rem;
+    text-shadow:1px 1px black, 2px 2px white;
+  }
+
+  .snowTypeface {
+    font-size:2.3rem;
   }
 
   .bottom {
@@ -245,6 +272,7 @@
 
   .graffiti {
     font-size:0.9rem;
+    margin:15% 0 0 0;
   }
 
 }

@@ -13,7 +13,7 @@ export default function Home() {
 
     <div className={styles.container}>
 
-      <body>
+
         <section className={styles.top}>
           <div className={styles.iconPlusSitebar}>
             <Link href="/"><div></div></Link>
@@ -37,20 +37,21 @@ export default function Home() {
               sinews sinews new new  sin
             new sinews
           `}</pre>
+          <div className={styles.blur}></div>
             </section>
 
             <section className={styles.middle}>
-
+      <div className={styles.marquee}>
       <span className={styles.lightTypeface}>new sinews</span>
       <br/>
       <br/>
-      <span className={styles.darkTypeface}>late empire new writing</span>
+      <span className={styles.snowTypeface}>late empire new writing</span>
       <br/>
       <br/>
       <span className={styles.lightTypeface}>issue four</span>
       <br/>
       <br/>
-      <span className={styles.darkTypeface}>featuring</span>
+      <span className={styles.snowTypeface}>featuring</span>
       <br/>
       <br/>
       <span className={styles.lightTypeface}>brandon shimoda
@@ -81,15 +82,12 @@ export default function Home() {
       <br/>
       <br/>
            </span>
-      <span className={styles.darkTypefaceSpecial}>now showing</span>
-
+      <span className={styles.snowTypeface}><i>now showing</i></span>
+      </div>
               </section>
               <section className={styles.bottom}>
                 </section>
 
-                <Footer/>
-
-                </body>
 
     </div>
 
