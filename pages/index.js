@@ -1,6 +1,5 @@
 import Link from 'next/link'
 import Head from 'next/head'
-import Footer from '/components/footer.js'
 import styles from '/styles/Home.module.css'
 Home.title = "new_sinews"
 
