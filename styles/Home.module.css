@@ -97,6 +97,24 @@
     background-attachment:fixed,scroll;
 }
 
+@media (width:1024px) and (height:768px) and (orientation:landscape) {
+
+  .graffiti {
+    margin:19% 0 0 1%;
+  }
+
+
+}
+
+@media (width:1024px) and (height:600px) and (orientation:landscape) {
+
+  .graffiti {
+    margin:19% 0 0 1%;
+  }
+
+
+}
+
 @media (max-width: 991.98px) {
 
   .top {
@@ -147,7 +165,7 @@
 
   .graffiti {
     font-size:2.2rem;
-    margin:2% 0 0 4%;
+    margin:8% 0 0 4%;
   }
 
 
@@ -162,17 +180,35 @@
 
 }
 
-@media (max-width: 810px) and (orientation:portrait) {
+@media (max-width: 913px) and (orientation:portrait) {
+
+  .top {
+    background-size:cover;
+    background-position:center;
+    height:100vh;
+  }
 
   .graffiti {
     font-size:2rem;
-    margin:9% 0 0 0;
+    margin:19% 0 0 0;
   }
 
   .bottom {
+    height:120vh;
       background-position:1% 35%;
   }
 
+
+}
+
+
+@media (max-width:541px) and (orientation:portrait) {
+
+
+  .graffiti {
+    font-size:1.4rem;
+    margin:9% 0 0 0;
+  }
 
 }
 
@@ -184,7 +220,10 @@
   }
 
   .graffiti {
-    font-size:1.05rem;
+    font-size:1rem;
+    font-weight:700;
+    color:black;
+    text-shadow:3px 3px 19px white, 3px 3px 19px #b0b0b0;
   }
 
   .lightTypeface {
@@ -205,7 +244,26 @@
   }
 
   .graffiti {
-    font-size:0.95rem;
+    font-size:0.9rem;
+  }
+
+}
+
+@media (max-width:281px) and (orientation:portrait) {
+
+
+  .graffiti {
+    font-size:0.7rem;
+    margin:21% 0 0 0;
+  }
+
+}
+
+@media (max-height:281px) and (orientation:landscape) {
+
+
+  .graffiti {
+    margin:5% 0 0 0;
   }
 
 }
