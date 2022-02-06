@@ -14,7 +14,7 @@
   height:100vh;
   margin:6% 0 6% 0;
   background:
-    linear-gradient(to top right, silver 1%, white 2%, silver 3%, white 6%, gainsboro 10%, #e8e8e8 12%, whitesmoke 17%, snow 20%,
+    linear-gradient(to bottom, silver 1%, white 2%, silver 3%, white 6%, gainsboro 10%, #e8e8e8 12%, whitesmoke 17%, snow 20%,
       whitesmoke 31%, white 41%, whitesmoke 51%, whitesmoke 71%,
       snow 75%, #e2e2e2 88%, snow 94%, silver 96%, whitesmoke 97%, silver 98%, white 99%);
   box-shadow: 20px 12px 5px #e2e2e2;
@@ -29,11 +29,11 @@
   height:5%;
   display:grid;
   place-items:center;
-  color:snow;
+  color:black;
   font-size:4rem;
   font-weight:700;
-  text-shadow: 2px 3px black,
-                4px 6px #2cbae7;
+  text-shadow: 2px 3px snow,
+                4px 6px dimgray;
   letter-spacing:0.2rem;
   cursor:pointer;
   opacity:0.3;
@@ -48,11 +48,11 @@
   height:20%;
   display:grid;
   place-items:center;
-  color:#2cbae7;
+  color:black;
   font-size:4rem;
   font-weight:700;
-  text-shadow: 2px 2px #b0b0b0,
-                 4px 4px black;
+  text-shadow: 2px 2px snow,
+                 4px 4px dimgray;
   letter-spacing:0.2rem;
   cursor:pointer;
   opacity:0.2;
@@ -60,14 +60,14 @@
 
 .prev:hover {
   font-size:4.2rem;
-  color:black;
+  color:dimgray;
   text-shadow:2px 3px snow,
-             5px 5px #2cbae7;
+             5px 5px black;
 }
 
 .next:hover {
   font-size:4.2rem;
-  color:#b0b0b0;
+  color:dimgray;
   text-shadow:3px 3px black;
 }
 

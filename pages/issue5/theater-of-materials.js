@@ -29,13 +29,13 @@ export default function TheaterOfMaterials() {
           <Head/>
 
 
-          <Header headerBackground="ovidBackground"/>
+          <Header headerBackground="theaterBackground"/>
 
           <div className={styles.container}>
 
           <div className={styles.carousel}>
-          <div className={styles.prev} onClick={prevText}>&#5130; &#9027;<br/>&#9027; &#5130;</div>
-          <div className={styles.next} onClick={nextText}>&#9028; &#5125;<br/>&#5125; &#9028;</div>
+          <div className={styles.prev} onClick={prevText}>&#8678; &#8604;<br/>&#8604; &#8678;</div>
+          <div className={styles.next} onClick={nextText}>&#10547; &#10159;<br/>&#10159; &#10547;</div>
           <div></div>
           </div>
 

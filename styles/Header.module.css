@@ -162,6 +162,10 @@
   background-image:url("../public/images/BisagniBackground.jpg");
 }
 
+.theaterBackground {
+  background-image:url("../public/images/TheaterBackground.jpg");
+}
+
 .siteBarContainerAbout {
   height:65vh;
   background-image:url("../public/images/LineNewSinew.jpg");
