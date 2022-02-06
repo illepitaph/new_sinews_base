@@ -1,18 +1,15 @@
 .top {
   height:190vh;
-  background:linear-gradient(
+  background: linear-gradient(
       to bottom,
-      rgba(32, 32, 32, 0.1) 45%,
-      rgba(32, 32, 32, 0.4) 55%,
-      rgba(32, 32, 32, 0.6) 75%,
+      rgba(32, 32, 32, 1),
+      rgba(32, 32, 32, 0.84) 25%,
+      rgba(32, 32, 32, 0.65) 55%,
+      rgba(32, 32, 32, 0.72) 75%,
       rgba(32, 32, 32, 0.84) 90%,
       rgba(32, 32, 32, 1)
     ),
-    url("../public/images/ArchNewSinew.jpg");
-  background-size:100vw 100vh;
-  background-repeat:no-repeat;
-  background-position:25% 35%;
-  background-attachment:fixed;
+    url("../public/images/ArchNewSinew.jpg") repeat center center fixed;
   overflow:hidden;
   font-size:1rem;
 }
@@ -32,6 +29,7 @@
   margin-top:12vh;
   margin-left:2vw;
   cursor:pointer;
+  opacity:0.7;
 }
 
 .graffiti {
@@ -55,8 +53,8 @@
   border:none;
   font-family:"lores-9-plus-narrow", monospace;
   font-size: 0.7rem;
-  background-color:black;
-  color:#c0a5a5;
+  background-color:#b0b0b0;
+  color:snow;
   opacity: 0.8;
   padding:12px 19px;
   border-radius:45px;
@@ -78,7 +76,7 @@
 }
 
 .marquee {
-  padding:5vh 0 5vh 0;
+  padding:8vh 0;
   margin-left:6%;
 }
 
@@ -111,12 +109,12 @@ color:snow;
     background:linear-gradient(
         to top,
         rgba(32, 32, 32, 0.3) 15%,
-        rgba(32, 32, 32, 0.5) 35%,
-        rgba(32, 32, 32, 0.7) 65%,
+        rgba(32, 32, 32, 0.7) 35%,
+        rgba(32, 32, 32, 0.4) 55%,
+          rgba(32, 32, 32, 0.6) 75%,
         rgba(32, 32, 32, 0.84) 90%,
         rgba(32, 32, 32, 1)
-      ),url("../public/images/ArchNewSinew.jpg"),
-    url("../public/images/NewSinewsCoveFull.jpg");
+      ),url("../public/images/ArchNewSinew.jpg");
 }
 
 @media (width:1024px) and (height:768px) and (orientation:landscape) {
@@ -244,8 +242,6 @@ color:snow;
   .graffiti {
     font-size:1rem;
     font-weight:700;
-    color:black;
-    text-shadow:3px 3px 19px white, 3px 3px 19px #b0b0b0;
   }
 
   .lightTypeface {

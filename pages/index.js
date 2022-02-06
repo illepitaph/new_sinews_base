@@ -37,7 +37,6 @@ export default function Home() {
               sinews sinews new new  sin
             new sinews
           `}</pre>
-          <div className={styles.blur}></div>
             </section>
 
             <section className={styles.middle}>
