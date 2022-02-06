@@ -47,7 +47,7 @@ export default function Home() {
       <span className={styles.snowTypeface}>late empire new writing</span>
       <br/>
       <br/>
-      <span className={styles.lightTypeface}>issue four</span>
+      <span className={styles.lightTypeface}>_issue_four_</span>
       <br/>
       <br/>
       <span className={styles.snowTypeface}>featuring</span>

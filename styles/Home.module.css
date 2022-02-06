@@ -29,7 +29,7 @@
   margin-top:12vh;
   margin-left:2vw;
   cursor:pointer;
-  opacity:0.7;
+  opacity:0.6;
 }
 
 .graffiti {
@@ -38,7 +38,7 @@
   font-size:2.4rem;
   text-transform:lowercase;
   color:whitesmoke;
-  text-shadow:1px 1px 19px white, 3px 3px 19px black;
+  text-shadow:1px 1px 19px white, 3px 3px 19px #b0b0b0;
   margin:19% 0 0 14%;
 }
 
@@ -52,7 +52,7 @@
 .siteNav  > button {
   border:none;
   font-family:"lores-9-plus-narrow", monospace;
-  font-size: 0.7rem;
+  font-size: 0.9rem;
   background-color:#b0b0b0;
   color:snow;
   opacity: 0.8;
@@ -76,7 +76,7 @@
 }
 
 .marquee {
-  padding:8vh 0;
+  padding:12vh 0;
   margin-left:6%;
 }
 
@@ -106,15 +106,16 @@ color:snow;
 
 .bottom {
     height:160vh;
-    background:linear-gradient(
-        to top,
-        rgba(32, 32, 32, 0.3) 15%,
-        rgba(32, 32, 32, 0.7) 35%,
-        rgba(32, 32, 32, 0.4) 55%,
-          rgba(32, 32, 32, 0.6) 75%,
+    background: linear-gradient(
+        to bottom,
+        rgba(32, 32, 32, 1),
+        rgba(32, 32, 32, 0.84) 25%,
+        rgba(32, 32, 32, 0.65) 55%,
+        rgba(32, 32, 32, 0.72) 75%,
         rgba(32, 32, 32, 0.84) 90%,
         rgba(32, 32, 32, 1)
-      ),url("../public/images/ArchNewSinew.jpg");
+      ),
+      url("../public/images/ArchNewSinew.jpg") repeat center center fixed;
 }
 
 @media (width:1024px) and (height:768px) and (orientation:landscape) {
@@ -227,7 +228,7 @@ color:snow;
 
   .graffiti {
     font-size:1.4rem;
-    margin:9% 0 0 0;
+    margin:29% 0 0 0;
   }
 
 }
@@ -268,7 +269,6 @@ color:snow;
 
   .graffiti {
     font-size:0.9rem;
-    margin:15% 0 0 0;
   }
 
 }
