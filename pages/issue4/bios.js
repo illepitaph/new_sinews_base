@@ -120,7 +120,7 @@ export default function Issue4Bios() {
    Songs</strong></cite>, <cite><strong>Peripatet</strong></cite>, <cite><strong>Works</strong></cite>, and the
    forthcoming <cite><strong>Shame</strong></cite> (FC2/University of Alabama Press), and also another <i>Inside
    the Castle</i> project whose title, longer than the current Guinness Record Holder, is available here: <a
-   className={styles.biosExternalLink} target="_blank" href="http://www.insidethecastle.org/title/">insidethecastle.org/title</a>.
+   className={styles.biosExternalLinkSpecial} target="_blank" href="http://www.insidethecastle.org/title/">insidethecastle.org/title</a>.
    He lives in Moscow, Idaho.
    </StandardProse>
 
