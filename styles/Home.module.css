@@ -166,12 +166,6 @@ color:snow;
     margin-bottom:2vh;
     opacity:0.8;
   }
-
-  .bottom {
-      height:150vh;
-      background-size:cover;
-      background-position:75% 25%;
-  }
 }
 
 @media (max-width: 927px) and (orientation:landscape) {
@@ -216,11 +210,6 @@ color:snow;
     margin:19% 0 0 0;
   }
 
-  .bottom {
-    height:120vh;
-      background-position:1% 35%;
-  }
-
 
 }
 
@@ -254,10 +243,6 @@ color:snow;
 
   .snowTypeface {
     font-size:2.3rem;
-  }
-
-  .bottom {
-      height:60vh;
   }
 
 }
