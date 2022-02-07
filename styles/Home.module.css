@@ -226,11 +226,6 @@ color:snow;
 
 @media (max-width:429px) and (orientation:portrait) {
 
-  .top {
-    background-position:center;
-    height:100vh;
-  }
-
   .graffiti {
     font-size:1rem;
     font-weight:700;
@@ -249,10 +244,6 @@ color:snow;
 
 
 @media (max-width:391px) and (orientation:portrait) {
-
-  .top {
-    height:110vh;
-  }
 
   .graffiti {
     font-size:0.9rem;
