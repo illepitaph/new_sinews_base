@@ -35,7 +35,7 @@
   font-size: 3.2rem;
   text-transform: lowercase;
   max-width:8%;
-  margin:1rem 0 0 1rem;
+  margin:2vh 0 0 2vw;
 }
 
 .issueTitle {
@@ -75,14 +75,14 @@
   display: grid;
   grid-auto-flow: row;
   height: 70vh;
-  margin:1rem 0 0 53vw;
+  margin:2vh 0 0 53vw;
   align-content: space-between;
   grid-column:4 / span 1;
 }
 
 .workColumn {
   width:21rem;
-  margin-bottom:0.5rem;
+  margin-bottom:1.1vh;
 }
 
 .workLink {
@@ -165,7 +165,7 @@
   }
 
   .issueContents {
-    margin:1rem 0 0 23vw;
+    margin:1.2vh 0 0 23vw;
   }
 }
 
@@ -226,7 +226,7 @@
    }
 
    .issueContents {
-     margin:1rem 0 0 40vw;
+     margin:3vh 0 0 40vw;
    }
 
    .workColumn {
@@ -256,14 +256,14 @@
   }
 
   .issueContents {
-    margin:1rem 0 0 23vw;
+    margin:3vh 0 0 23vw;
   }
 }
 
 @media (max-width: 926px) and (orientation:landscape) {
 
   .issueContents {
-    margin:1rem 0 0 40vw;
+    margin:3vh 0 0 40vw;
   }
 
   .workLink {
@@ -283,7 +283,7 @@
 @media (max-width: 813px) and (orientation:landscape) {
 
   .issueContents {
-    margin:1rem 0 0 36vw;
+    margin:3vh 0 0 36vw;
   }
 
 
@@ -297,7 +297,7 @@
 @media (max-width: 761px) and (orientation:landscape) {
 
   .issueContents {
-    margin:1rem 0 0 51vw;
+    margin:3vh 0 0 51vw;
   }
 
 
@@ -311,7 +311,7 @@
 @media (max-width: 667px) and (orientation:landscape) {
 
   .issueContents {
-    margin:1rem 0 0 47vw;
+    margin:3vh 0 0 47vw;
   }
 
 }
@@ -331,28 +331,28 @@
 @media (max-width: 391px) and (orientation:portrait) {
 
   .issueContents {
-    margin:1rem 0 0 16vw;
+    margin:3vh 0 0 16vw;
   }
 }
 
 @media (max-width: 376px) and (orientation:portrait) {
 
   .issueContents {
-    margin:1rem 0 0 21vw;
+    margin:3vh 0 0 21vw;
   }
 }
 
 @media (max-width: 361px) and (orientation:portrait) {
 
   .issueContents {
-    margin:1rem 0 0 15vw;
+    margin:3vh 0 0 15vw;
   }
 }
 
 @media (max-width: 291px) and (orientation:portrait) {
 
   .issueContents {
-    margin:1rem 0 0 3vw;
+    margin:3vh 0 0 3vw;
   }
 
   .workLink {
