@@ -97,7 +97,7 @@
   z-index:1;
   display:inline-block;
   width:16.2vw;
-  height:11rem;
+  height:25vh;
 }
 
 .backgroundBox:nth-child(odd) {
@@ -160,15 +160,33 @@
   border-radius: 44px;
 }
 
-@media (max-width: 1500px) and (orientation:landscape) {
+@media (width: 1024px) and (height:600px) {
 
-  .backgroundBox {
-    height:14rem;
+  .workLink {
+    font-size: 1rem;
+    letter-spacing:0;
   }
 
-  }
+}
 
-@media (max-width: 991.98px) {
+ @media (max-width: 997.98px) and (orientation: landscape) {
+
+   .pageStructure {
+     height:100%;
+   }
+
+   .workColumn {
+     margin-bottom:1.4vh;
+   }
+
+   .workLink {
+     font-size: 0.8rem;
+     letter-spacing:0;
+   }
+
+}
+
+@media (max-width: 992px) {
 
   .titleAndSubtitle {
     top:13%;
@@ -183,7 +201,7 @@
 
 .backgroundBox {
   width:16.2vw;
-  height:21rem;
+  height:25vh;
 }
 
 .backgroundBox:nth-child(odd) {
@@ -221,7 +239,7 @@
 
 .backgroundBox {
   width:16.2vw;
-  height:17rem;
+  height:27vh;
 }
 
 .backgroundBox:nth-child(odd) {
@@ -243,22 +261,15 @@
 
  }
 
- @media (max-width: 997.98px) and (orientation: landscape) {
-
-   .pageStructure {
-     height:100%;
-   }
-
-   .workColumn {
-     margin-bottom:1.4vh;
-   }
+ @media (max-width: 741px) and (orientation: landscape) {
 
    .workLink {
-     font-size: 0.8rem;
+     font-size: 0.73rem;
      letter-spacing:0;
    }
 
 }
+
 
 @media(max-width: 320px){
   .workLink {
