@@ -80,10 +80,12 @@ export function KrumrieRawText5(){
                                                   A river at the canyon’s limits, what angle.
 
 
-     I walk toward, the desert, ground moves. The canyon empties, here, the field, at the center, your eyes behind,
+     I walk toward, the desert, ground moves. The canyon empties, here, the field, at the center, your eyes
+          behind,
      layers of glass, see me here, I walk, the river’s cold in shadow.
 
-     I walk toward—the desert—ground moves. The canyon empties—here—the field—at the center—of the desert—
+     I walk toward—the desert—ground moves. The canyon empties—here—the field—at the center—of
+          the desert—
      your eyes behind—layers of glass—see me here—I walk—the river’s cold in shadow.`}</span></GalleryLineation>
           </>
     )

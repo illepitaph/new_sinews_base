@@ -18,12 +18,13 @@
       whitesmoke 31%, white 41%, whitesmoke 51%, whitesmoke 71%,
       snow 75%, #e2e2e2 88%, snow 94%, silver 96%, whitesmoke 97%, silver 98%, white 99%);
   box-shadow: 20px 12px 5px #e2e2e2;
+
 }
 
 .carousel > .prev {
   position:absolute;
   z-index: 1;
-  top:60%;
+  top:80%;
   left:-3%;
   flex:5%;
   height:5%;

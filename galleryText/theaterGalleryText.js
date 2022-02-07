@@ -1,3 +1,4 @@
+import Image from 'next/image'
 import CenterGrayTitle from '../components/centerGrayTitle.js'
 import CenterBlackTitle from '../components/centerBlackTitle.js'
 import styles from '../styles/Theater.module.css'
@@ -23,6 +24,15 @@ export function TheaterRawText2(){
           <CenterBlackTitle><span className={styles.increasedSizeText}>m <i>i </i><span className={styles.blackShadow}>k</span>
            <i> e </i><br/><br/><br/><br/>c <i><span className={styles.blueLetter}>o </span>
            </i> r <i>r</i> <span className={styles.blackShadow}>a</span> <i> o</i></span></CenterBlackTitle>
+          </>
+    )
+}
+
+export function TheaterRawText3(){
+  return   (
+          <>
+          <Image src="/../public/images/Theaterofmaterials1.png" width={100} height={100}
+          layout={`responsive`}/>
           </>
     )
 }
