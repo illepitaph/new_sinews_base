@@ -1,3 +1,28 @@
+@keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-moz-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-webkit-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-o-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-ms-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
 .container {
   display:grid;
   place-items: center;
@@ -19,6 +44,7 @@
       snow 75%, #e2e2e2 88%, snow 94%, silver 96%, whitesmoke 97%, silver 98%, white 99%);
   border-radius:30px;
   box-shadow: 20px 12px 5px #e2e2e2;
+  animation: fadeIn ease-out 2s;
 }
 
 .carousel > .prev {
@@ -76,15 +102,7 @@
   color:black;
   text-shadow:4px 4px snow,
               6px 6px #b0b0b0;
-}
-
-.grayShadow {
-  color:gainsboro;
-  text-shadow:2px 2px black,
-              4px 4px #b0b0b0;
-  text-transform: uppercase;
-  letter-spacing:1.4rem;
-  line-height:5.4rem;
+  animation: fadeIn ease-out 1.3s;
 }
 
 .inverse {
@@ -97,6 +115,10 @@
   font-family:"lores-9-plus-wide-bold-alt", monospace;
   font-size:3rem;
   text-shadow:1px 1px red;
+}
+
+.fadeIn {
+  animation: fadeIn ease-out 1.3s;
 }
 
 @media (max-height: 1369px) and (orientation:portrait) {

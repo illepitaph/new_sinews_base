@@ -7,7 +7,8 @@ export function StraussRawText1(){
   return   (
           <>
           <br/><br/><br/>
-          <CenterBlackTitle><span className={styles.grayShadow}>adam</span> <i>strauss</i></CenterBlackTitle>
+            <CenterBlackTitle><span
+            className={styles.grayShadow}>adam</span> <i>strauss</i></CenterBlackTitle>
           <br/>
           <CenterGrayTitle>f<i><span className={styles.blackShadow}>i</span>v<span
           className={styles.blackShadow}>e </span></i> p<i><span
@@ -19,7 +20,7 @@ export function StraussRawText1(){
 export function StraussRawText2(){
   return   (
           <>
-        <CenterBlackTitle>1.42      <span className={styles.grayShadow}> [<i> Duck Yolk Dyed
+          <CenterBlackTitle>1.42      <span className={styles.grayShadow}> [<i> Duck Yolk Dyed
           Scrim For Seeing </i>]</span> </CenterBlackTitle>
           <br/>
          <GalleryLineation>
@@ -37,7 +38,7 @@ export function StraussRawText2(){
 export function StraussRawText3(){
   return   (
           <>
-        <CenterBlackTitle>1.19      <span className={styles.grayShadow}> [<i> Slivery
+          <CenterBlackTitle>1.19      <span className={styles.grayShadow}> [<i> Slivery
         Silvers </i>]</span></CenterBlackTitle>
           <br/>
          <GalleryLineation>
@@ -61,7 +62,7 @@ And step         reasonably perceives.`}
 export function StraussRawText4(){
   return   (
           <>
-        <CenterBlackTitle>1.6      <span className={styles.grayShadow}> [<i> Gray
+      <CenterBlackTitle>1.6      <span className={styles.grayShadow}> [<i> Gray
         As It Breaks To Bare Canvas </i>]</span> </CenterBlackTitle>
           <br/>
          <GalleryLineation>
@@ -106,7 +107,7 @@ export function StraussRawText5(){
 export function StraussRawText6(){
   return   (
           <>
-        <CenterBlackTitle>1.37        <span className={styles.grayShadow}> [<i> Touchtone
+      <CenterBlackTitle>1.37        <span className={styles.grayShadow}> [<i> Touchtone
           </i>]</span></CenterBlackTitle>
           <br/>
          <GalleryLineation>

@@ -1,3 +1,28 @@
+@keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-moz-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-webkit-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-o-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-ms-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
 .container {
   display:grid;
   place-items: center;
@@ -19,6 +44,7 @@
       snow 75%, #e2e2e2 88%, snow 94%, gainsboro 96%, whitesmoke 98%);
   border-radius:30px;
   box-shadow: 20px 12px 5px #e2e2e2;
+  animation: fadeIn ease-out 2s;
 }
 
 .carousel > .prev {
@@ -71,11 +97,13 @@
 .grayShadow {
   text-shadow:2px 2px snow,
               4px 4px #b0b0b0;
+  animation: fadeIn ease-out 1.3s;
 }
 
 .blackShadow {
   text-shadow:2px 2px snow,
               4px 4px black;
+  animation: fadeIn ease-out 1.3s;
 }
 
 @media (max-height: 1369px) and (orientation:portrait) {

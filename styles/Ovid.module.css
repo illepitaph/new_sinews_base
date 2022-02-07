@@ -1,3 +1,28 @@
+@keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-moz-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-webkit-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-o-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-ms-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
 .container {
   display:grid;
   place-items: center;
@@ -19,6 +44,7 @@
       snow 75%, #e2e2e2 88%, snow 94%, silver 96%, whitesmoke 97%, silver 98%, white 99%);
   border-radius:15rem;
   box-shadow: 20px 12px 5px #e2e2e2;
+  animation: fadeIn ease-out 2s;
 }
 
 .carousel > .prev {
@@ -74,6 +100,7 @@
 
 .increasedSizeText {
   font-size:4.3rem;
+  animation: fadeIn ease-out 1.3s;
 }
 
 .blackShadow {
@@ -112,6 +139,7 @@
   text-shadow:2px 2px gainsboro;
   letter-spacing:0.04rem;
   line-height:1.5em;
+  animation: fadeIn ease-out 1.3s;
 }
 
 .roughAltText {

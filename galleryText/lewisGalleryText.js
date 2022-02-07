@@ -18,9 +18,9 @@ export function LewisRawText1(){
 export function LewisRawText2(){
   return   (
           <>
-          <CenterBlackTitle>The Aggregate of Flown Fur</CenterBlackTitle>
+          <span className={styles.fadeIn}><CenterBlackTitle>The Aggregate of Flown Fur</CenterBlackTitle>
           <GalleryLineation>                 {`                    `}<i>——after Pre & Con, or Positions </i>&{`
-                              `}<i>Junctions</i> by Rosmarie Waldrop</GalleryLineation>
+                              `}<i>Junctions</i> by Rosmarie Waldrop</GalleryLineation></span>
           </>
     )
 }
@@ -176,9 +176,9 @@ export function LewisRawText7(){
 export function LewisRawText8(){
   return   (
           <>
-          <CenterBlackTitle>Simple Pleasures</CenterBlackTitle>
+            <span className={styles.fadeIn}><CenterBlackTitle>Simple Pleasures</CenterBlackTitle>
           <GalleryLineation>                 {`          `}<i>——after Pre & Con, or Positions </i>&{`
-                    `}<i>Junctions</i> by Rosmarie Waldrop</GalleryLineation>
+                    `}<i>Junctions</i> by Rosmarie Waldrop</GalleryLineation></span>
           </>
     )
 }
