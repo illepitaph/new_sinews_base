@@ -111,7 +111,7 @@
   margin:0 auto;
   text-shadow:2px 2px gainsboro;
   letter-spacing:0.04rem;
-  line-height:1.4em;
+  line-height:1.5em;
 }
 
 .roughAltText {
@@ -151,6 +151,11 @@
     top:1%;
   }
 
+  .diagramText {
+    font-size:1.1rem;
+  }
+
+
 }
 
 @media (max-width:813px) and (orientation:landscape) {
@@ -159,6 +164,19 @@
   .carousel > .next {
     top:-11%;
   }
+
+  .diagramText {
+    font-size:1rem;
+  }
+
+}
+
+@media (max-width:788px) and (orientation:portrait) {
+
+  .diagramText {
+    font-size:1rem;
+  }
+
 
 }
 
@@ -184,6 +202,10 @@
     font-size:3.6rem;
   }
 
+  .diagramText {
+    font-size:0.9rem;
+  }
+
 }
 
 @media (width:540px) and (height:720px) and (orientation:portrait) {
@@ -197,7 +219,7 @@
   }
 
   .diagramText {
-    font-size:1rem;
+    font-size:0.7rem;
   }
 
 }
@@ -205,16 +227,18 @@
 @media (max-width:429px) and (orientation:portrait) {
 
   .carousel {
+    width:95%;
     height:55vh;
   }
 
   .carousel > .prev {
     font-size:3rem;
-    top:70%;
+    top:85%;
   }
 
   .carousel > .next {
     font-size:3rem;
+    top:-7%;
   }
 
   .roughAltText {
@@ -226,22 +250,7 @@
   }
 
   .diagramText {
-    font-size:0.8rem;
-  }
-}
-
-@media (max-width:429px) and (orientation:portrait) {
-
-  .carousel > .prev {
-    top:85%;
-  }
-
-  .carousel > .next {
-    top:-7%;
-  }
-
-  .diagramText {
-    font-size:0.7rem;
+    font-size:0.51rem;
   }
 }
 
@@ -256,7 +265,7 @@
   }
 
   .diagramText {
-    font-size:0.6rem;
+    font-size:0.45rem;
   }
 }
 
@@ -271,7 +280,7 @@
   }
 
   .diagramText {
-    font-size:0.4rem;
+    font-size:0.3rem;
   }
 }
 
