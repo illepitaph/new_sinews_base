@@ -46,37 +46,40 @@ export default function Home() {
       <span className={styles.snowTypeface}>late empire new writing</span>
       <br/>
       <br/>
-      <span className={styles.lightTypeface}>_issue_four_</span>
+      <span className={styles.lightTypeface}>_issue_five_</span>
       <br/>
       <br/>
       <span className={styles.snowTypeface}>featuring</span>
       <br/>
       <br/>
-      <span className={styles.lightTypeface}>brandon shimoda
-      <br/>
-      <br/>
-      k-ming chang
-      <br/>
-      <br/>
-      evan isoline
-      <br/>
-      <br/>
-      christa romanosky
-      <br/>
-      <br/>
-      gabriel palacios
-      <br/>
-      <br/>
-      allison hummel
-      <br/>
-      <br/>
-      mike corrao
+      <span className={styles.lightTypeface}>julia shiota
       <br/>
       <br/>
       vi khi nao
       <br/>
       <br/>
-      grant maierhofer
+      jessica alexander
+      <br/>
+      <br/>
+      mike corrao
+      <br/>
+      <br/>
+      samuel moss
+      <br/>
+      <br/>
+      jacqueline feldman
+      <br/>
+      <br/>
+      steven alvarez
+      <br/>
+      <br/>
+      alvin lu
+      <br/>
+      <br/>
+      delia rainey
+      <br/>
+      <br/>
+      paul bisagni
       <br/>
       <br/>
            </span>
