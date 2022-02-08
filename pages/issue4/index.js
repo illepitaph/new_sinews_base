@@ -33,7 +33,7 @@ export default function Issue4() {
           sauce // untitled // comfort like the ...</Link></div>
         </div>
         <div className={styles.workColumn}>
-          <div className={styles.workLink}><Link href="/issue4/textspinality">... mike corrao + text spinality ...</Link></div>
+          <div className={styles.workLink}><Link href="/issue4/text-spinality">... mike corrao + text spinality ...</Link></div>
         </div>
         <div className={styles.workColumn}>
           <div className={styles.workLink}><Link href="/issue4/poemsborn">... vi khi nao + poems born from basic

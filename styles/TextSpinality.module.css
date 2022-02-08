@@ -17,7 +17,7 @@
               6px 6px #b0b0b0;
 }
 
-.authorNameOpacity {
+.authorNameFade {
   opacity:0.5;
 }
 
@@ -70,14 +70,14 @@
     font-size:1.7rem;
 }
 
-.authorNameOpacity {
+.authorNameFade {
   font-size:3rem;
 }
 }
 
 @media (max-width:361px) and (orientation:portrait) {
 
-.authorNameOpacity {
+.authorNameFade {
   font-size:2.7rem;
 }
 }
@@ -87,7 +87,7 @@
     font-size:1.2rem;
 }
 
-.authorNameOpacity {
+.authorNameFade {
   font-size:2rem;
 }
 }

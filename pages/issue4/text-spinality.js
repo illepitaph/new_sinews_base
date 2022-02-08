@@ -27,7 +27,7 @@ export default function TextSpinality() {
        <br/>
        <br/>
 
-       <RightGrayTitle><span className={styles.authorNameOpacity}>—— m<span className={styles.titleShadowAnomaly}>i</span>k<span
+       <RightGrayTitle><span className={styles.authorNameFade}>—— m<span className={styles.titleShadowAnomaly}>i</span>k<span
        className={styles.titleShadow}>e</span><br/><span
        className={styles.titleShadow}>—— c</span>o<span
        className={styles.titleShadowDoubleAnomaly}>r</span>r<span

@@ -23,17 +23,17 @@
 
 .poem {
   max-width:70vw;
-  font-family: sans-serif;
+  font-family: "base-9-sans", sans-serif;
   font-weight: 300;
   font-style: normal;
   font-size:1.2rem;
-  text-shadow:1px 1px #b0b0b0;
+  text-shadow:2px 2px gainsboro;
   letter-spacing:-0.02rem;
-  line-height:1.4em;
+  line-height:1.7em;
   margin-left:18vw;
 }
 
-@media (max-height:721px) and (orientation:portrait) {
+@media (max-width:821px) and (orientation:portrait) {
 
   .title {
     font-size:2.5rem;
@@ -47,6 +47,37 @@
 
 }
 
+
+@media (max-width: 813px) and (orientation:landscape) {
+
+  .poem {
+    max-width:99vw;
+    margin-left:5vw;
+  }
+
+}
+
+@media (max-width: 668px) and (orientation:landscape) {
+
+  .title {
+    font-size:2.3rem;
+  }
+
+  .poem {
+    font-size:1.1rem;
+  }
+
+}
+
+@media (max-width:541px) and (orientation:portrait) {
+
+  .poem {
+    font-size:0.9rem;
+  }
+
+}
+
+
 @media (max-width:429px) and (orientation:portrait) {
   .title {
     font-size:2.1rem;
@@ -58,7 +89,7 @@
   }
 
   .poem {
-    font-size:0.9rem;
+    font-size:0.72rem;
     margin-left:1vw;
   }
 }
@@ -70,13 +101,17 @@
   }
 
   .poem {
-    font-size:0.8rem;
+    font-size:0.66rem;
   }
 }
 
   @media (max-width:376px) and (orientation:portrait) {
     .title {
-      font-size:1.9rem;
+      font-size:1.8rem;
+    }
+
+    .poem {
+      font-size:0.63rem;
     }
 
 }
@@ -88,7 +123,7 @@
   }
 
   .poem {
-    font-size:0.6rem;
+    font-size:0.5rem;
   }
 
 }
@@ -101,7 +136,7 @@
 
   .poem {
     max-width:99%;
-    font-size:1.1rem;
+    font-size:1rem;
   }
 
 }
