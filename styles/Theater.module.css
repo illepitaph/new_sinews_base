@@ -1,3 +1,28 @@
+@keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-moz-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-webkit-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-o-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-ms-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
 .container {
   display:grid;
   place-items: center;
@@ -87,11 +112,15 @@
 .alternateShadow {
   color:#b0b0b0;
   text-shadow:4px 4px snow,
-              6px 6px #2cbae7;
+
 }
 
 .blueLetter {
   color:#2cbae7;
   text-shadow:4px 4px snow,
               6px 6px #b0b0b0;
+}
+
+.load, .increasedSizeText {
+  animation: fadeIn ease-in 0.7s;
 }

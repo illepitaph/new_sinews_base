@@ -31,8 +31,17 @@ export function TheaterRawText2(){
 export function TheaterRawText3(){
   return   (
           <>
-          <Image src="/../public/images/Theaterofmaterials1.png"
-          layout={`fill`}/>
+          <span className={styles.load}><Image src="/../public/images/Theaterofmaterials1.jpg"
+          layout={`fill`} priority={true}/></span>
+          </>
+    )
+}
+
+export function TheaterRawText4(){
+  return   (
+          <>
+            <span className={styles.load}> <Image src="/../public/images/Theaterofmaterials2.jpg"
+          layout={`fill`} /></span>
           </>
     )
 }

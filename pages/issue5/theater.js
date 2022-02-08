@@ -17,7 +17,7 @@ export default function TheaterOfMaterials() {
 }
 
     function nextText() {
-      if (textArrayIndex < 2) {
+      if (textArrayIndex < 3) {
       setTextArrayIndex(textArrayIndex + 1);
     } else {
       setTextArrayIndex(0);
