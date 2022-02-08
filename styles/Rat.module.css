@@ -17,13 +17,13 @@
   font-size:1.2rem;
   text-shadow:2px 2px gainsboro;
   letter-spacing:-0.02rem;
-  line-height:1.4em;
+  line-height:1.7em;
   margin-left:18vw;
 }
 
 
 .ratAsterisk {
-  font-family: sans-serif;
+  font-family: "base-9-sans", sans-serif;
   font-weight: 700;
   font-style: normal;
   font-size:3.2rem;
@@ -32,11 +32,38 @@
   margin-left:18vw;
 }
 
+
+@media (max-width:930px) and (orientation:landscape)  {
+
+  .rat {
+  margin-left:9vw;
+}
+}
+
+@media (max-width:930px) and (orientation:landscape)  {
+
+  .rat {
+  white-space:pre-line;
+}
+}
+
 @media (width:540px) and (height:720px) and (orientation:portrait)  {
 
   .rat {
   font-size:1.1rem;
   margin-left:4vw;
+  white-space:pre-line;
+}
+}
+
+
+@media (max-width:429px) and (orientation:portrait) {
+
+
+  .rat {
+  font-size:1rem;
+  margin-left:1vw;
+  white-space:pre-line;
 }
 }
 
@@ -45,34 +72,14 @@
   .titleShadow {
     font-size:2.8rem;
   }
-  .rat {
-  font-size:0.85rem;
-}
+
 }
 
-@media (max-width:429px) and (orientation:portrait) {
+@media (max-width:391px) and (orientation:portrait) {
 
 
   .rat {
-  text-shadow:none;
-}
-}
-
-@media (max-width:415px) and (orientation:portrait) {
-
-
-  .rat {
-  font-size:0.91rem;
-  margin-left:4vw;
-  text-shadow:none;
-}
-}
-
-@media (max-width:385px) and (orientation:portrait) {
-
-
-  .rat {
-  font-size:0.8rem;
+  font-size:0.9rem;
 }
 }
 
@@ -80,6 +87,6 @@
 
 
   .rat {
-  font-size:0.65rem;
+  font-size:0.7rem;
 }
 }

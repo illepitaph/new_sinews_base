@@ -31,8 +31,8 @@ export function TheaterRawText2(){
 export function TheaterRawText3(){
   return   (
           <>
-          <Image src="/../public/images/Theaterofmaterials1.png" width={100} height={100}
-          layout={`responsive`}/>
+          <Image src="/../public/images/Theaterofmaterials1.png"
+          layout={`fill`}/>
           </>
     )
 }
