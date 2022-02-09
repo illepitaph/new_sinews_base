@@ -17,7 +17,7 @@ export default function TheaterOfMaterials() {
 }
 
     function nextText() {
-      if (textArrayIndex < 3) {
+      if (textArrayIndex < 12) {
       setTextArrayIndex(textArrayIndex + 1);
     } else {
       setTextArrayIndex(0);
@@ -32,13 +32,13 @@ const RawText = theaterText[textArrayIndex]["textName"];
           <Head/>
 
 
-          <Header/>
+          <Header headerBackground="theaterBackground"/>
 
           <div className={styles.container}>
 
           <div className={styles.carousel}>
-          <div className={styles.prev} onClick={prevText}>&#8678; back <br/> &#8604; &#8604; &#8604;<br/> back &#8678;</div>
-          <div className={styles.next} onClick={nextText}>&#8680; forth <br/> &#10547;  &#10547; &#10547; <br/> forth &#8680;</div>
+          <div className={styles.prev} onClick={prevText}>&#8678; back <br/> &#8604; &#10710; &#8604;<br/> back &#8678;</div>
+          <div className={styles.next} onClick={nextText}>&#8680; forth <br/> &#10547;  &#10710; &#10547; <br/> forth &#8680;</div>
           <div><RawText/></div>
           </div>
 

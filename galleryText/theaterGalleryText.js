@@ -14,32 +14,95 @@ export function TheaterRawText1(){
 export function TheaterRawText2(){
   return   (
           <>
-          <CenterBlackTitle><span className={styles.increasedSizeText}>m <i>i </i><span className={styles.blackShadow}>k</span>
-           <i> e </i><br/><br/><br/><br/>c <i><span className={styles.blueLetter}>o </span>
-           </i> r <i>r</i> <span className={styles.blackShadow}>a</span> <i> o</i></span></CenterBlackTitle>
+          <span className={styles.load}><img className={styles.img} src="../images/Theaterofmaterials2.jpg"></img></span>
           </>
     )
 }
 
 export function TheaterRawText3(){
   return   (
-          <>
-          <CenterGrayTitle><span className={styles.increasedSizeText}>
-          o <span className={styles.blackShadow}><i>v</i> <span
-          className={styles.alternateShadow}>i</span> <i>d</i><span
-          className={styles.alternateShadow}> i</span> a <span
-          className={styles.alternateShadow}><i>n</i></span><br/>   d <span
-          className={styles.alternateShadow}> <i>y</i></span> n<span
-          className={styles.alternateShadow}> <i>a</i></span> m<span
-          className={styles.alternateShadow}> i</span> <i>c</i></span> s</span></CenterGrayTitle>
-          </>
+           <>
+           <span className={styles.load}><img className={styles.img} src="../images/Theaterofmaterials3.jpg"></img></span>
+           </>
     )
 }
 
 export function TheaterRawText4(){
   return   (
-          <>
-          <span className={styles.load}><img className={styles.img} src="../images/Theaterofmaterials2.jpg"></img></span>
-          </>
+            <>
+            <span className={styles.load}><img className={styles.img} src="../images/Theaterofmaterials4.jpg"></img></span>
+            </>
+    )
+}
+
+export function TheaterRawText5(){
+  return   (
+            <>
+            <span className={styles.load}><img className={styles.img} src="../images/Theaterofmaterials5.jpg"></img></span>
+            </>
+    )
+}
+
+export function TheaterRawText6(){
+  return   (
+            <>
+            <span className={styles.load}><img className={styles.img} src="../images/Theaterofmaterials6.jpg"></img></span>
+            </>
+    )
+}
+
+export function TheaterRawText7(){
+  return   (
+            <>
+            <span className={styles.load}><img className={styles.img} src="../images/Theaterofmaterials7.jpg"></img></span>
+            </>
+    )
+}
+
+export function TheaterRawText8(){
+  return   (
+            <>
+            <span className={styles.load}><img className={styles.img} src="../images/Theaterofmaterials8.jpg"></img></span>
+            </>
+    )
+}
+
+export function TheaterRawText9(){
+  return   (
+            <>
+            <span className={styles.load}><img className={styles.img} src="../images/Theaterofmaterials9.jpg"></img></span>
+            </>
+    )
+}
+
+export function TheaterRawText10(){
+  return   (
+            <>
+            <span className={styles.load}><img className={styles.img} src="../images/Theaterofmaterials10.jpg"></img></span>
+            </>
+    )
+}
+
+export function TheaterRawText11(){
+  return   (
+            <>
+            <span className={styles.load}><img className={styles.img} src="../images/Theaterofmaterials11.jpg"></img></span>
+            </>
+    )
+}
+
+export function TheaterRawText12(){
+  return   (
+            <>
+            <span className={styles.load}><img className={styles.img} src="../images/Theaterofmaterials12.jpg"></img></span>
+            </>
+    )
+}
+
+export function TheaterRawText13(){
+  return   (
+            <>
+            <span className={styles.load}><img className={styles.img} src="../images/Theaterofmaterials13.jpg"></img></span>
+            </>
     )
 }
