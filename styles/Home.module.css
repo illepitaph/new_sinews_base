@@ -63,16 +63,7 @@
 }
 
 .middle {
-  background: linear-gradient(
-      to bottom,
-      rgba(32, 32, 32, 1),
-      rgba(32, 32, 32, 0.84) 25%,
-      rgba(32, 32, 32, 0.65) 55%,
-      rgba(32, 32, 32, 0.72) 75%,
-      rgba(32, 32, 32, 0.84) 90%,
-      rgba(32, 32, 32, 1)
-    ),
-    url("../public/images/ArchNewSinew.jpg") repeat center center fixed;
+  background:url("../public/images/ArchNewSinew.jpg") repeat center center fixed;
 }
 
 .marquee {
@@ -106,7 +97,6 @@ color:snow;
 
 .bottom {
     height:160vh;
-    filter: drop-shadow(16px 16px 20px snow) invert(75%);
     background: linear-gradient(
         to top,
         rgba(32, 32, 32, 1),
