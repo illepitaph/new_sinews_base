@@ -49,7 +49,7 @@
 .carousel > .prev {
   position:absolute;
   z-index: 1;
-  top:10%;
+  top:3%;
   left:-13%;
   flex:5%;
   height:5%;

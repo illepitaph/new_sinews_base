@@ -6,14 +6,7 @@ import styles from '../styles/Theater.module.css'
 export function TheaterRawText1(){
   return   (
           <>
-          <CenterGrayTitle><span className={styles.increasedSizeText}>
-          o <span className={styles.blackShadow}><i>v</i> <span
-          className={styles.alternateShadow}>i</span> <i>d</i><span
-          className={styles.alternateShadow}> i</span> a <span
-          className={styles.alternateShadow}><i>n</i></span><br/>   d <span
-          className={styles.alternateShadow}> <i>y</i></span> n<span
-          className={styles.alternateShadow}> <i>a</i></span> m<span
-          className={styles.alternateShadow}> i</span> <i>c</i></span> s</span></CenterGrayTitle>
+          <span className={styles.load}><img className={styles.img} src="../images/Theaterofmaterials1.jpg"></img></span>
           </>
     )
 }
@@ -31,7 +24,14 @@ export function TheaterRawText2(){
 export function TheaterRawText3(){
   return   (
           <>
-          <span className={styles.load}><img className={styles.img} src="../images/Theaterofmaterials1.jpg"></img></span>
+          <CenterGrayTitle><span className={styles.increasedSizeText}>
+          o <span className={styles.blackShadow}><i>v</i> <span
+          className={styles.alternateShadow}>i</span> <i>d</i><span
+          className={styles.alternateShadow}> i</span> a <span
+          className={styles.alternateShadow}><i>n</i></span><br/>   d <span
+          className={styles.alternateShadow}> <i>y</i></span> n<span
+          className={styles.alternateShadow}> <i>a</i></span> m<span
+          className={styles.alternateShadow}> i</span> <i>c</i></span> s</span></CenterGrayTitle>
           </>
     )
 }
