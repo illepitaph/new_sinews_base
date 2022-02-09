@@ -63,7 +63,16 @@
 }
 
 .middle {
-  background:url("../public/images/ArchNewSinew.jpg") repeat center center fixed;
+  background:linear-gradient(
+      to bottom,
+      rgba(32, 32, 32, 1),
+      rgba(32, 32, 32, 0.84) 25%,
+      rgba(32, 32, 32, 0.65) 55%,
+      rgba(32, 32, 32, 0.72) 75%,
+      rgba(32, 32, 32, 0.84) 90%,
+      rgba(32, 32, 32, 1)
+    ),
+  url("../public/images/ArchNewSinew.jpg") repeat center center fixed;
 }
 
 .marquee {
