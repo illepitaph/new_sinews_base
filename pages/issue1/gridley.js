@@ -56,9 +56,13 @@ export default function Gridley() {
             <StandardMiniTitle title="Compounding Pharmacy"/>
             <StandardLineation content={`
       Disquiet adopts                           a whetstone’s grit
+
       An undercroft                              had better be what you think it is
-      A timepiece                                 cleans its feathers in the spring
+
+      A timepiece                                  cleans its feathers in the spring
+
       As a windfall                                is wise to attachment
+
       Attachment is a metaphysic       hunting from the ground
               `}/>
 
