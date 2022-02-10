@@ -29,9 +29,9 @@ export default function Eisen_Martin() {
 <p className={styles.leftJustified}>“Now I have to teach myself how to pass out sketches and throw pencils at pigeons when I retire”</p>
 <p className={styles.leftJustified}>“I don’t have any friends who would reprimand me anyway”</p> 
 <pre className={styles.standardLineation}>{`“Retire to the ocean and walk backwards into the surf 
-           pretending to fight off the weirdly dressed hordes”
+              pretending to fight off the weirdly dressed hordes”
 
-                             —and I used to joke about being underwater.`}</pre>
+                                             —and I used to joke about being underwater.`}</pre>
 
 <p className={styles.leftJustified}>Laughed at the people stealing my cigarettes<br/>Laughed at the people pretending to tie my shoes</p>
 
@@ -136,8 +136,8 @@ are mine.”
 
 <pre className={styles.standardLineation}>{`
 Before I opened the door to the street
-     I knocked
-            And the world let me in
+            I knocked
+                        And the world let me in
 
 Stumbled outside
 And there were miles and miles
@@ -161,16 +161,16 @@ Please take your seats.
 <pre className={styles.standardLineation}>{`
 First, I must apologize to the souls of the house
 
-            Wearing the cheek bones of the mask only
-                       Pill bottle, my name is yours
+              Wearing the cheek bones of the mask only
+                         Pill bottle, my name is yours
 
 Teeth of the mask now
 
 Back of the head of the mask now
 
-                       New phase of anti-anthropomorphism fending for real faces
-                                   Pretending to be a drug addict by day and reading all night
-                                                 While economists return to rumors of oxygen
+                         New phase of anti-anthropomorphism fending for real faces
+                                    Pretending to be a drug addict by day and reading all night
+                                                    While economists return to rumors of oxygen
 
 Stuck with one of those cultures that believes I chose this family
 `}</pre>
@@ -194,7 +194,7 @@ I broke my neck on the piano keys
 Found paradise in a fistfight
 
 Watching the universe’s last metronome
-         Some have the nerve to call a “homeless teenager”
+           Some have the nerve to call a “homeless teenager”
 `}</pre>
 
 <pre className={styles.rightJustified}>{`
@@ -235,8 +235,8 @@ My grandchildren would be doomed
 
 <pre className={styles.standardLineation}>{`
 A pair of apartments
-     Defining both my family
-     And political composure
+            Defining both my family
+            And political composure
 
 Books behind my back
 Bail money paved into the streets
