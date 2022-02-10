@@ -138,29 +138,29 @@ automatons`}</pre>
 <h3 className={styles.poemTitle}>Colony Inside an Iron Mask</h3>
 <br/>
 <pre className={styles.poem}>{`enclaved like a shower and arcade within a rest-
-         stop    papal states
-                    shadowplay on sheets laid over dead pure forms
+           stop    papal states
+                      shadowplay on sheets laid over dead pure forms
 
 
 `}<i>Tec out the dresser</i>{` out the cubicles H&R Block occupies
-         in         Walmart
-                     prisoner at sea
+           in         Walmart
+                       prisoner at sea
 
 
 I tend to flood my first enchanted footsteps with collateral blood
-           build   violently the white electric rail through remembering
-                      skulls
+             build   violently the white electric rail through remembering
+                        skulls
 
 
 whose war now to vibrate any further out young
           star     file my dungeonfreak holiday as existential
-                     thrashing
+                      thrashing
 
 
                      I’m confessing it was game
 
                      all to germinate
-                                          a ruin`}</pre>
+                                           a ruin`}</pre>
 
 
                      <Footer/>
