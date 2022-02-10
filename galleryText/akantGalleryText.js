@@ -41,8 +41,8 @@ inside his brain.
 
 T were forbidden to see the priest’s
 daughter. T never learned
-to pray.                   `}<i>Now the form and not the substance of the script</i>{`
-                              `}<i>regarding T has changed</i>{`.
+to pray.           `}<i>Now the form and not the substance of the script</i>{`
+                       `}<i>regarding T has changed</i>{`.
 
 
 But as I said, T langed.
@@ -56,11 +56,11 @@ export function AkantRawText4(){
           <>
           <GalleryLineation>
 {`T-Reason for the tree ::
-                 Oh ! The city crumbled and we lost everything.
-                 Bitches point back and say `}<i>T</i>{`.
-                 See ? `}<i>T is where I’m from</i>{`.
-                 I come from the seat of `}<i>the empire</i>{`
-                 `}<i>that ruled the world</i>{`.
+          Oh ! The city crumbled and we lost everything.
+          Bitches point back and say `}<i>T</i>{`.
+          See ? `}<i>T is where I’m from</i>{`.
+          I come from the seat of `}<i>the empire</i>{`
+          `}<i>that ruled the world</i>{`.
 
   And I’m very well placed in that hierarchy.`}</GalleryLineation>
           </>
@@ -141,7 +141,7 @@ export function AkantRawText9(){
 of a centuries old man. I get it. I have a thousand pangs
 for your own damn history. Still, I come back
 with my charm
-       and my quiet capability. Eagerly I show to others
+           and my quiet capability. Eagerly I show to others
 that I’m no backward alien. There’s no
 scary magic coming from my absent hand.`}</GalleryLineation>
           </>
@@ -174,8 +174,8 @@ In a certain sense, I’ve been so well-absorbed.
 
 By the way, I’ve decided that I want to be buried.
 
-                        `}<i>It is time to crawl down</i>{`
-                        `}<i>from the ceiling now</i>.{`
+                         `}<i>It is time to crawl down</i>{`
+                         `}<i>from the ceiling now</i>.{`
 `}</GalleryLineation>
           </>
     )
@@ -216,9 +216,9 @@ is related to T, if not by culture, then by marriage.
 
 
 
-                              Tonight, I will Dracula-pray
-                              for a more meaningful translation
-                              of T’s life.
+                          Tonight, I will Dracula-pray
+                          for a more meaningful translation
+                          of T’s life.
 
 
 
