@@ -34,7 +34,7 @@ export function TwoEyesRawText4() {
        <>
        <GalleryLineation> {`The bird is walking around the courtyard      
 
-                                                                                            looking for a religion with a pair of oculi.
+                                                                                          looking for a religion with a pair of oculi.
                                                                    Comparing itself to the cathedral. Landscape greets their
                                                                    bodies. Bird and cathedral share contorted & arched
                                                                    postures. The bird bent by fata morgana gazes at
@@ -52,7 +52,7 @@ export function TwoEyesRawText5() {
         <>
         <GalleryLineation> {`The church opens its white      
 
-                                                                                       buttresses. Flock into oblivion. Lusters of
+                                                                                      buttresses. Flock into oblivion. Lusters of
                                                                    awakening open the throat of Our Lady’s chapel. Shove
                                                                    down all the doors. It will make the body hide the bread.
                                                                    The church is going to ask the bread to molest the body. 
@@ -66,7 +66,7 @@ export function TwoEyesRawText5() {
          <>
          <GalleryLineation> {`The heart of the church is cold    
 
-                                                                                    & blistery. Ready to be lightwood—splintered
+                                                                                     & blistery. Ready to be lightwood—splintered
                                                                    by time /// Darkness is gentle and enhances the stomach
                                                                    lining, the ambulatory nave, with wisdom and
                                                                    confidence.`}</GalleryLineation>
@@ -92,7 +92,7 @@ export function TwoEyesRawText8() {
                 <>
            <GalleryLineation> {`“The light does enjoy    
 
-                                                                                      a moment of breakfast, of eating a full meal of
+                                                                                    a moment of breakfast, of eating a full meal of
                                                                    siding and tree branches and roofs and cars and fighting
                                                                    off the table before handing over the kitchen knife,”
                                                                    begins the priest before the slanted heads of his
@@ -226,7 +226,7 @@ export function TwoEyesRawText11() {
                     <>
                    <GalleryLineation>{`The church does not
 
-                                                                                collapse when members of their congregation
+                                                                                 collapse when members of their congregation
                                                                    fold their spines. The cathedral dilapidates on the
                                                                    shadow created by the trees, lies still like a cathedral bird
                                                                    until their bones are dispersed into dust & become light.
@@ -245,7 +245,7 @@ export function TwoEyesRawText11() {
                        <>
                     <GalleryLineation>{`Two lovers sit in a Houston
 
-                                                                                Church in the middle of the afternoon. Their
+                                                                                 Church in the middle of the afternoon. Their
                                                                     orgasms sprawl out onto the nave.`}</GalleryLineation>
                     </>
               )
@@ -319,13 +319,13 @@ export function TwoEyesRawText22() {
                           <>
              <GalleryLineation>{`
       The bird opens its congregation of feathers
-              The physicist opens the bible made of birdseeds
+                  The physicist opens the bible made of birdseeds
       She is a professor of time
       Outside she sees the trees in the priest voices
       Slants of light slaughter throats of the trees
-            Trees fall slightly, holding on to their spines ///// gaze down at the floor of the earth
-            At their shadow
-            A dialogue of death startles the church
+                   Trees fall slightly, holding on to their spines ///// gaze down at the floor of the earth
+                   At their shadow
+                   A dialogue of death startles the church
       The professor ambles outside from the aisle
       Her pleats swing like lawnmower blades
       Through the scattered bones of the trees
@@ -363,7 +363,7 @@ export function TwoEyesRawText22() {
                <GalleryLineation>{`                 The professor tosses the bible in the air
                  Arrives at the door of a slaughter house
                  A flock of prayers float out of the blue gems’ mouths
-                 The blades of the dress                   Swing
+                 The blades of the dress                           Swing
                  The flowers become a graveyard of inflorescent sexual desires
                  Blinded by biblical hunger & anguish——
                  The bird pecks at the flesh of the bible
