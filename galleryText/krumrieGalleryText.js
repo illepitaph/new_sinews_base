@@ -76,8 +76,8 @@ export function KrumrieRawText5(){
             the valley where you are. Here. Behind glass in the control room. Its glass is part of the strata.
             Your view holds processes at once:
 
-                                                  The grass, its location and stages. Particle capture, sifting.
-                                                  A river at the canyon’s limits, what angle.
+                                                                The grass, its location and stages. Particle capture, sifting.
+                                                                A river at the canyon’s limits, what angle.
 
 
      I walk toward, the desert, ground moves. The canyon empties, here, the field, at the center, your eyes
