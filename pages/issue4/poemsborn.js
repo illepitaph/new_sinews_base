@@ -45,8 +45,8 @@ export default function PoemsBorn() {
 
 <h3 className={styles.sectionHeading}>A</h3>
 <br/>
-<StandardLineation content={`An angry air      above another
-Afraid   to ask for an attack     along
+<StandardLineation content={`An angry air        above another
+Afraid   to ask for an attack    along
 An army  of autumn
 Another  answer
 Another  aunt
