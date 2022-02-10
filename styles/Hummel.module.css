@@ -23,13 +23,13 @@
 
 .poem {
   max-width:70vw;
-  font-family: sans-serif;
+  font-family: "base-9-sans", sans-serif;
   font-weight: 300;
   font-style: normal;
   font-size:1.2rem;
-  text-shadow:1px 1px #b0b0b0;
+    text-shadow:2px 2px gainsboro;
   letter-spacing:-0.02rem;
-  line-height:1.4em;
+  line-height:1.7em;
   margin-left:17vw;
 }
 
@@ -85,13 +85,25 @@
 
 }
 
-@media(max-width: 320px){
+
+@media(max-width: 394px) and (orientation:portrait){
 
   .name {
     font-size:1.8rem;
   }
 
   .poem {
-    font-size:0.6rem;
+    font-size:0.7rem;
+  }
+}
+
+@media(max-width: 320px) and (orientation:portrait) {
+
+  .name {
+    font-size:1.8rem;
+  }
+
+  .poem {
+    font-size:0.55rem;
   }
 }

@@ -35,9 +35,9 @@
   border:none;
   font-family:"lores-9-plus-narrow", monospace;
   font-size: 0.7rem;
-  background-color:black;
-  color:#c0a5a5;
-  opacity: 0.8;
+  background-color:#c8c8c8;
+  color:white;
+  opacity: 0.9;
   padding:12px 19px;
   border-radius:45px;
   text-transform:lowercase;

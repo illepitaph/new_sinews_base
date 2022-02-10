@@ -43,9 +43,9 @@ export default function Hummel() {
 <h3 className={styles.poemTitle}>The Fires Are Back</h3>
 <br/>
 <pre className={styles.poem}>{`The fires are back
-            another black rock to add to
-            my garland of ineffectual
-            poems.
+             another black rock to add to
+             my garland of ineffectual
+             poems.
 
 Are fires born low, pressed
 against the dirt or
@@ -79,7 +79,7 @@ gold coins as big as the sky.
 
 Old god wouldn’t consider
 anything, would just burn
-             in response to existence
+              in response to existence
 
 blotting out life, kind of on accident, in
 its compulsion to be`}</pre>
@@ -91,7 +91,7 @@ its compulsion to be`}</pre>
 I look at myself in the chromey echo
 of the expansive car lot
 
-I look at us we’re trudging in      grunewald forest,
+I look at us we’re trudging in        grunewald forest,
 sniffing for pfifferlinge and landing
 
 atop      enormous puffball mushrooms,
@@ -102,18 +102,18 @@ I used to listen to chopin so hard I’d cry
 now the past is falling away from me
 a            tightened, shirking skin
 
-                         afraid of who I am without
-the past,           its pin,
+                           afraid of who I am without
+the past,            its pin,
 
 defining my location in the world           or
-reducing my nature       until glossy and exact.
+reducing my nature        until glossy and exact.
 
 Because I            used to drive here & used to drive there,
 saw clattering palm fronds brushing
 the cheek            of the street,
-              lime-tone parrots,
+               lime-tone parrots,
 a broad pacific wash       obscured by humidity which
-mocked me,      all shimmery        all aspirational and
+mocked me,        all shimmery        all aspirational and
 
 barbary doves, of which
 I won’t even speak.
@@ -136,18 +136,18 @@ slats.
 Elsewhere zombie
              fires grind against peat and
 
-our untouched places,   not untouched
+our untouched places,    not untouched
 not even the most            remote
 millefeuille         of permafrost.
 
 Can’t stop thinking about
 the early years, when dragon belly
-swelled, when                  prelude
+swelled, when                   prelude
              to thought
-was just amoebic           perception,
+was just amoebic             perception,
 swimming around,
 
-sap wasn’t yet rock and              the whole world
+sap wasn’t yet rock and               the whole world
 wasn’t off gassing.`}</pre>
 <br/><br/><br/><br/>
 <h3 className={styles.poemTitle}>Comfort Like The</h3>
@@ -157,10 +157,10 @@ hot        pee after a day at
 the beach, I’m
 coming for you,
 
-            reconstruct the
+             reconstruct the
 rasp of sand on asphalt
 and extoll             the
-base        incendiary
+base         incendiary
 preciousness of
 
 past ordinary times.
@@ -172,19 +172,19 @@ which sour candy you’ll select.
 Feel the disconcerting
 vulnerability of the
 contracting anemones    their
-slick                      craggy gardens.
+slick                       craggy gardens.
 
 Allow a bizarre
 and menacing bug to
 bore beneath your            flesh.
 
 It’s almost as if
-           you’re somewhere
+            you’re somewhere
 
 Someplace wild
 you’re               unshelled
 of little
-             consequence
+              consequence
 
 kicking up          a small
 world of debris`}</pre>
