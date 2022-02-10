@@ -50,9 +50,9 @@ Inmost self
                      Up for
 Judgment        jars full
                    Of batteries than             jam
-Jimmies            lock now no more
-                                  Halting at         prospect
-                                        Space to step
+Jimmies             lock now no more
+                                   Halting at         prospect
+                                         Space to step
 And step         reasonably perceives.`}
           </GalleryLineation>
           </>
@@ -72,16 +72,16 @@ export function StraussRawText4(){
                                     Abandon their
                               Almost twin timbres          still
 
-                                                       Remain perfect
-                                                       Reflections        etches in
+                                                        Remain perfect
+                                                        Reflections        etches in
 
-                                                    Muddy water mimes
-                                  Mercury        mimics stone
+                                                     Muddy water mimes
+                                   Mercury        mimics stone
 
                     Looks like water as it curls into its break
 
                                Looks like water carved stone more than
-                            Winds             endlessly rend.`}
+                            Winds              endlessly rend.`}
           </GalleryLineation>
           </>
     )
@@ -97,7 +97,7 @@ export function StraussRawText5(){
   {`              Ancient           now         edge      shimmer of
                                       Umber       sienna   cinnabar
                                      Freshly crushed         fruit     its oils
-                                                   Gloss memory
+                                                    Gloss memory
                                   Snows reconstructive flakes.`}
           </GalleryLineation>
           </>
@@ -113,11 +113,11 @@ export function StraussRawText6(){
          <GalleryLineation>
 {`One and one and one and every          difference
 Winds           through pines        pinions         what fused
-Ever    ether         redresses its        formula
+Ever     ether        redresses its        formula
 
 Finds       if flinch but        inside       filing
 Away at         interior      tells         different
-Wave             lengths like locks hair       models
+Wave             lengths like locks hair        models
 
 Make persuasion              gone to
 Seed          germane absurd          and proves rich culture
