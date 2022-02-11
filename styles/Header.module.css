@@ -1,8 +1,8 @@
 .siteBarContainer {
   height:61vh;
   width:100%;
-  background-position:38% 60%;
-  background-size:cover;
+  background-position:top;
+  background-size:contain;
   background-repeat:no-repeat;
   background-attachment:fixed;
   font-size:1rem;
@@ -10,11 +10,11 @@
 }
 
 .blackwellBackground {
-  background-image:url("../public/images/BlackwellHeader.jpg");
+  background-image:url("../public/images/BlackwellBackground.jpg");
 }
 
 .eisenBackground {
-  background-image:url("../public/images/EisenMartinHeader.jpg");
+  background-image:url("../public/images/EisenMartinBackground.jpg");
 }
 
 .gridleyBackground {
@@ -216,17 +216,18 @@
 
   .siteNav {
     margin:10% 6% 0 6%;
+    background-size:cover;
   }
 }
 
-@media (max-width: 767.98px) {
+@media (max-width: 767.98px) and (orientation:portrait) {
 
   .iconPlusSitebar > a {
-    width:35vw;
-    height:35vh;
-    margin-top:9vh;
-    margin-left:5vw;
-    opacity:0.9;
+    width:45vw;
+    height:45vh;
+    margin-top:13vh;
+    margin-left:12vw;
+    opacity:0.7;
   }
 
   .siteNav {
