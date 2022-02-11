@@ -166,13 +166,8 @@
   background-image:url("../public/images/TheaterHeader.jpg");
 }
 
-.siteBarContainerAbout {
-  height:65vh;
-  background-image:url("../public/images/LineNewSinew.jpg");
-  background-size:cover;
-  background-repeat:no-repeat;
-  background-attachment:fixed;
-  font-size:1rem;
+.raineyBackground {
+  background-image:url("../public/images/RaineyBackground.jpg");
 }
 
 .iconPlusSitebar {

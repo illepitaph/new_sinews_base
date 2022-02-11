@@ -1,6 +1,3 @@
-import Image from 'next/image'
-import CenterGrayTitle from '../components/centerGrayTitle.js'
-import CenterBlackTitle from '../components/centerBlackTitle.js'
 import styles from '../styles/Theater.module.css'
 
 export function TheaterRawText1(){
