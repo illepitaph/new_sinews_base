@@ -85,18 +85,14 @@
   color:#b0b0b0;
   opacity: 1;
   font-size:3.5rem;
-  text-shadow: 2px 3px snow, 4px 5px black, 6px 7px 35px gainsboro;
+  text-shadow: 2px 3px snow, 4px 5px black, 6px 7px 15px gainsboro;
   font-weight:400;
   text-transform:lowercase;
 }
 
 .snowTypeface {
-font-family:"lores-9-plus-narrow", monospace;
-color:snow;
-  text-shadow:1px 1px #b0b0b0,
-              2px 2px black,
-              3px 3px white,
-              4px 4px #b0b0b0;
+  font-family:"lores-9-plus-narrow", monospace;
+  color:snow;
   font-size:3.3rem;
   font-weight:700;
   text-transform:uppercase;
@@ -106,17 +102,8 @@ color:snow;
 
 .bottom {
     height:160vh;
-    background: linear-gradient(
-        to top,
-        rgba(32, 32, 32, 1),
-        rgba(32, 32, 32, 0.84) 25%,
-        rgba(32, 32, 32, 0.65) 55%,
-        rgba(32, 32, 32, 0.72) 75%,
-        rgba(32, 32, 32, 0.84) 90%,
-        rgba(32, 32, 32, 1)
-      ),
-      url("../public/images/ArchNewSinew.jpg") repeat center center fixed;
-      filter: drop-shadow(16px 16px 20px snow) invert(75%);
+    background: url("../public/images/ArchNewSinew.jpg") repeat center center fixed;
+    filter: drop-shadow(1px 1px snow) invert(75%);
 }
 
 @media (width:1024px) and (height:768px) and (orientation:landscape) {
