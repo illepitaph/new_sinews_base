@@ -395,51 +395,277 @@ export default function Feldman() {
       <br/>
       <br/>
       <i>Chance of changing moods, easily overwhelmed by emotions</i>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+      <br/>
+      <br/>
+      <br/>
+      Elsa Dorfman holds up another self portrait in the documentary. The picture of her body is stained with
+      light, half of her body turning into a golden ghost, warping. “It’s like the camera knew what I was going through.”
+      <br/>
+      <br/>
+      I was trying to think of an exciting form for this essay, but there is none. I want to make a collage to stitch
+      myself up at night, but no matter. At one point, I was in a meeting with a professor who I’d be working for, and
+      then five minutes later, I was wandering down State Street blackout drunk with the news that my dad didn’t
+      wake up from surgery. I thought he died. Alone in a city of tall metal. Nothing was important anymore. Girl
+      in desperation, mouth open, hands like claws curling towards her eyes.
+      <br/>
+      <br/>
+      What’s the point of writing about all this? What am I supposed to do with it? I have to write it down
+      somewhere. On the scraps of the Subway receipt. On the bag of gummy worms.  I don’t know how long it will
+      take him to get back to where he was, or if he ever will. There’s a lot of painful moments from the ICU
+      that I won’t write down. Those memories are for me only. I don’t want those memories to be distorted
+      by the clunkiness of essay, of photography, turning into archives. I don’t want to remember them.
+      <br/>
+      <br/>
+      My mom wears both of their wedding rings on her finger, doubled. In the hospital, I hear her say to
+      my dad, “Let’s renew our vows when this is all over.”
+      <br/>
+      <br/>
+      “When this is all over” is a phrase that used to give me hope back then. “When this is all over” doesn’t
+      mean anything to me anymore, it doesn’t make any sense. “When this is all over” is a false fragment for
+      those newly in grief. I’m grateful for this knowledge, that the recovery from traumatic brain injury, the
+      recovery from living, never ends.
+      <br/>
+      <br/>
+      When the first of my cousins got married in the early 2010s, we joked that he had “won”. He beat all the other
+      cousins, some also in long-term relationships, in getting married first. At the time, my dad overheard the
+      joke. In a serious voice, he said, “You only win when you die.” I remember thinking it was such an absurd
+      and dark thing to say. My dad is kind of a cynical person sometimes. I can view his statement as a kind of
+      brutalist monogamous outlook on marriage, or I can view it as a realististic viewpoint on the hardships
+      of lifelong love. You only win when you die, because living and loving for so long is hard work. In
+      the Jewish life cycle, we die, and then we are remembered. We don’t have a heaven or afterlife in Jewish
+      culture. Here on earth, we are all we have.
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <p className={styles.sectionBreak}>*</p>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      My dad is a loner who goes to shows and bars. He wears our bands’ t-shirts on the weekends. He bought my mom
+      binoculars so they could watch the birds. He bought my mom a banjo and banjo lessons. He reads biographies of
+      baseball players and musicians. He has always rooted for the underdog. He plays tee-ball in the backyard with
+      my nephew T. He has this joke about salt that he always tells at the dinner table. I’m laughing, just writing
+      about it. My parents never go on big fancy vacations, but they will travel to cities like Bloomington, Indiana
+      for a concert they really want to see.
+      <br/>
+      <br/>
+      Throughout my whole childhood, my dad played folk, rock, blues, and soul records.  My dad plays Bob Dylan
+      songs on the guitar in the basement alone. He keeps collections of Wheaties boxes with baseball players on
+      them, political election buttons, matchbooks from hotels, cardboard drink coasters.  He taught H how to play
+      guitar when she was ten, the same age he was when he taught himself. My dad can whistle the harmonica parts
+      through his teeth.
+      <br/>
+      <br/>
+      As a kid, my dad always hated his birthday. It meant that school was starting up again. Humid suffering of
+      August steaming through St. Louis. It meant that summer was over.
+      <br/>
+      <br/>
+      I went on tour with H’s band for a week in July of 2018, just tagging along. It was my last summer to spend
+      with her before I moved to Chicago. I love touring. A new city every night, dive bars, and sleeping on the
+      floor. In Richmond, we stopped at a contemporary art museum in our spare time. The last exhibition we saw
+      was all the way on the third floor. Two sculptural stacks of white paper by Felix Gonzalez Torres. The public
+      was encouraged to take a piece of paper home. In the museum, we each took a white sheet, dual emotion, A
+      side, B side:
+      <br/>
+      <br/>
+      “Somewhere better than this place.” / “Nowhere better than this place.”
+      <br/>
+      <br/>
+      H visits my dad  at the rehab center almost every day. She calls me and tells me she brought her guitar and
+      my dad’s songbooks. The left side of the brain controls language, but singing and music are in a completely
+      different part of the brain. My dad can’t have conversations. He can’t speak up for himself. He can’t ask
+      the doctors questions, so my mom asks for him. But he can clearly sing the words to “Knockin’ on Heaven’s Door.”
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <p className={styles.sectionBreak}>*</p>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      My parents are very private people. Writing about them gives me anxiety. I don’t want them to find this document
+      and feel hurt that I revealed them, or described them wrong. Memories are not the truth. This story is still
+      happening. My dad was supposed to have surgery on his shoulder and then come home the same day. Writing that
+      down does not change the outcome.
+      <br/>
+      <br/>
+      When I write about my family, am I appropriating their pain? I am not there. I was there Labor Day weekend, but
+      now I’m in Chicago. “You have to go to school,” my sisters said. “Dad would want you to be there.” Every
+      time I’m on the phone with my mom, she says, “You’re where you’re supposed to be.” I can never tell who she’s
+      trying to convince.
+      <br/>
+      <br/>
+      I’m in my apartment, staring at my laptop, eating plain pasta with olive oil. For my ‘Place, Space, and
+      Landscape’ class, I was assigned to read ‘The Road’ by Cormac McCarthy. I think this is so stupid. Like
+      an action novel, a chick flick for men. Apocalypse gore, trauma porn. When I pick up the book, I read
+      the whole thing in four hours. I entered their paranoia of the future and their perseverance to keep
+      going. Where does their hope come from? Keep living, and for what? Just like a horror movie, there’s
+      a lot of surprise attacks of cannibals and suspense of “bad guys” following behind in the prose. Child
+      and father, against all odds! To be immersed in their fake terror, their fictional crying instead of
+      my own becomes my escape.
+      <br/>
+      <br/>
+      n my kitchen by the tall cabinets, that’s where I stood when my sister N told me on the phone, “I
+      have some bad news.” The diagnosis of the dark spot on his brain. Every phone call I get since provokes
+      the blood-call in me. My ancestors are calling out each others’ names in the woods.
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <p className={styles.sectionBreak}>*</p>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      After arriving in Chicago on an early August night at my new apartment, I called my mom on the phone. This
+      was before. D and I had driven his old Honda CRV through the cornfield depths on a 90 degree day, windows
+      down, our cat locked up in a cat carrier stacked on top of all my stuff. I would turn my head to check on
+      her, her eyes closed in the hot wind.
+      <br/>
+      <br/>
+      My mom told me that this was all so exciting. It reminded her of when my dad and her moved to L.A., when
+      she was going to grad school at UCLA for archeology. “It brings back some good memories.” Before they got
+      married in the bug exterminator’s backyard, underneath a dried hornet’s nest. Before N, A, H, and me. Someone
+      who unearths bones and fossils from the dirt. Someone who studies how people of the past lived, kept
+      living. Legend of my family goes, my parents brought their whole record collection along the car ride when
+      moving to L.A. The records sat in the car, like a living passenger. My parents stayed at shitty motels, “ones
+      that didn’t even have a TV!”, and they would carry all the records inside every night, so they wouldn’t get
+      warped in the heat.
+      <br/>
+      <br/>
+      Back then, my dad was trying to be a film editor. He quit, because the process was so expensive. Elsa
+      Dorfman cuts in: “They don’t make film like that anymore! Now all of a sudden, these cameras are like
+      artifacts, like ashtrays!!” My dad loves to watch movies. We go to a documentary film festival every
+      year as a family. At any given night in the brown house, my dad switches the channel to see what’s on Turner
+      Classic Movies. Black and white people across their tiny TV screen, and my dad eating some sort of frozen
+      dinner or Chinese food. I can hear the beep of the microwave. He’d say to me, to anyone listening, “This
+      is one of the best movies of all time.” In a big gestural way, everything is either the best or the
+      worst. He would then get out his film history encyclopedia, this thick yellowed bible, and look it up.
+      <br/>
+      <br/>
+      One of Elsa Dorfman’s most famous portrait series is of Bob Dylan in the green room before a show. Most
+      of the pictures are of Bob alone, acoustic guitar on his knee, cigarette in his mouth. There’s a goofy
+      feather in his wide-brimmed hat. His face is painted chalky white, illuminated like a moon, so that you
+      can see him on the stage from far away in the arena, my dad taught me.
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <p className={styles.sectionBreak}>*</p>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      I research TED talks and other articles about people who have recovered from TBI - traumatic brain
+      injury. They are all about young athletes who had near-deadly sports accidents. Some of the stories are
+      about people who have had strokes, but they are all in their 40s. None about men in their 60s. None
+      about medical malpractice of blood pressure dropping during surgery. There’s a skier from Finland, beefy
+      and handsome, wearing a beanie that says FIGHT BACK. He gives his TED talk, speaking so slowly,  people
+      in the Youtube comments suggest watching the video at double speed. It’s too hard for me to watch. They
+      have their whole lives ahead of them. Where is my dad’s story? The museum only depicts stories that
+      the public wants to hear.
+      <br/>
+      <br/>
+      Some middle-aged guy walks into my dad’s rehab place, saying hi to everyone, just touring around. Turns
+      out, the dude was there five years ago in the same condition as my dad. He couldn’t walk or talk. It
+      took him years to relearn these things. For just a spell, the kingdom of the sick. No one ever told us
+      that my dad could recover from this. Why would they hide that from us? The cold-faced doctors. So that
+      we wouldn’t get our hopes up? Fuck them.
+      <br/>
+      <br/>
+      My dad’s best friend calls my parents at the rehab center. He asks my dad a million questions, as they
+      do, these anxious older Jewish men. He seems confused when my dad can’t respond. Even though he knows.
+      <br/>
+      <br/>
+      H says she’ll go out to shows or to the bar, but no one asks her how she’s doing, how he’s doing. They
+      don’t know, or they do, and don’t say anything at all. “They don’t get it. They don’t understand. Besides
+      us, no one really gets what’s going on.”
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <p className={styles.sectionBreak}>*</p>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      I’m on the phone with my mom. She tells me a story about starting grad school in the 70s. She got anxious
+      waiting for the semester to start, so she decided to visit campus. The bus was taking too long. She started
+      walking. She ended up walking all the way there. From her apartment to UCLA, it took two hours. When she
+      got there, campus was deserted. No one was there, not even her advisor. It was still summer. She walked
+      around for a while. Then she went home.
+      <br/>
+      <br/>
+      Whenever I couldn’t sleep as a little kid, my dad would tell me, “Think about the word <span
+      className={styles.grayShadowSpecial}>peace</span>.” My dad
+      is a really meditative guy, he loves candles and incense. The color of my nighttime memories of my
+      childhood at my parents' house look dark brown in my head. My most well-known vision is the memorized
+      maze of walking down the short length of my parents’ house at night. A house of pacing, well-lived
+      wood floors. Peace peace peace peace peace peace peace peace.
+      <br/>
+      <br/>
+      The brain can rewire, rewrite the lines to a different route. Like a new highway being built, it takes
+      some years for everything to come together. We attempt to adapt. Can the body really heal from anything? In
+      the museum, I stand in front of everything I love. My eyes turn so green, they drip down, they fall off, green
+      brown river, cross the Mississippi, back to Chicago, turn on a podcast to get my mind off it, “mind off”, the
+      podcast is about checklists, the podcast is about how surgeons need to keep checklists in order to reduce
+      mistakes during surgeries. Outside the car window, the clouds are sunburned, heavy over the fields.
+      <br/>
+      <br/>
+      H, Tuesday, September 18th, 2018: “Just visited Dad for a bit - He’s talking rly well!! He told the therapist
+      all of his daughters’ names and ages and said he lives in St. Louis and grew up in University City.” ~ “Had
+      a dream Dad was walking and that mom and Dad bought new couches.”
+      <br/>
+      <br/>
+      N, Saturday, September 8th, 2018: “This xanax is amazing. I asked if he had a little hope and he said I think so”
+      <br/>
+      <br/>
+      Mom, Monday, September 17th, 2018: “Dad took 18 steps today in PT.”
+      <br/>
+      <br/>
+      Forwarded text from Mom, Sunday, September 9th, 2018: “We just went through the deck of cards naming each one
+      3 times, he was great.”
+      <br/>
+      <br/>
+      A, Thursday, September 6th, 2018 (with picture): “Dad’s dressed and ready to go [to rehab.] We’re waiting on
+      the ok and watching a Bob Dylan video! Mom says not to forward the pic to anyone”
+      <br/>
+      <br/>
+      N, Thursday September 20th, 2018: “I went to see mom and dad at lunch for a second - a super part time speech
+      therapist was there...she hadn’t seen dad since his second day! She said: When I saw him before, it was hard
+      to say one word. Now he is saying six word sentences! They read and wrote together. She said so much progress
+      this early is a really good sign.”
+      <br/>
+      <br/>
+      The documentary is called ‘The B-Side: Elsa Dorfman’s Portrait Photography’ because Elsa always takes two
+      portraits of her subjects, lets them keep one, and then she keeps the other one for her flat files: the
+      b-side. She explains that the discarded photo might have a mistake, someone’s making a funny face or
+      something. It’s usually the best one.
+      <br/>
+      <br/>
+      Elsa Dorfman said, “If you’re a kind of <i>oh, this will be the same forever</i> person, or if you’re a photographer
+      and you’re always nailing down what’s the now, when you realize it doesn’t matter how much you try to nail
+      down the now, the now is racing beyond you.”
+      <br/>
+      <br/>
+      In the picture, my dad is holding my sister when she was my nephew’s age. On the vintage floral chair that
+      sits in the basement now, exposed yellowed stuffing, next to my dad’s guitar. My sister is holding a blanket
+      and her eyes are closed, a peaceful cherub in red sweatpants. My dad’s smile turns up his dark mustache. Black
+      Bob Dylan t-shirt. His hairy arms enclose her like the fence of a house.
+      <br/>
+      <br/>
+      H’s poem, Tuesday, September 18th, 2018: “My head feels funny since u moved / My dad says night sky calms
+      your mind / I think about him all the time / When he’s all better we’ll sit outside and laugh about this
+      shitty time.”
+      <br/>
+      <br/>
+      I want to send my dad a text on his flip phone, but it’s on the brown dresser in the brown room. I want to
+      send my dad an email to his Yahoo account. I want to eat pistachios and put our shells in the same bowl. I
+      want to write a sentence in the clouds so that my dad can see it from his rehab window. I want to write words
+      that are just water. I want to write devotion devotion devotion devotion devotion devotion devotion. 
       </StandardProse>
 
        <Footer/>
