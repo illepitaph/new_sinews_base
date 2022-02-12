@@ -12,10 +12,18 @@ export default function Feldman() {
           <Head/>
 
        <Header headerBackground="raineyBackground"/>
-      <br/>
-      <br/>
-      <RightGrayTitle>[]</RightGrayTitle>
-      <RightBlackTitle>jacqueline feldman</RightBlackTitle>
+       <RightGrayTitle><span className={styles.titleShadow}>s<span
+       className={styles.inverseShadow}>o</span>me<span
+       className={styles.inverseShadow}>wh<span
+       className={styles.inverseShadowUppercase}>e</span></span><span
+       className={styles.titleShadowUppercase}>r</span><span
+       className={styles.inverseShadow}>e</span> be<span
+       className={styles.titleShadowUppercase}>t t</span>er <br/><span
+       className={styles.inverseShadow}><span
+       className={styles.inverseShadowUppercase}>t</span>han <span
+       className={styles.inverseShadowUppercase}>t</span>his</span></span></RightGrayTitle>
+
+      <RightBlackTitle>——<i>delia<br/>rainey</i></RightBlackTitle>
       <br/>
       <StandardProse>
       After sixteen brothers, my mother prayed for a daughter, someone to inherit her name and

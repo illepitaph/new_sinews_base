@@ -1,0 +1,25 @@
+.titleShadow {
+  color:black;
+  text-shadow:2px 2px snow,
+              4px 4px #b0b0b0;
+}
+
+.inverseShadow {
+  color:#aaf0d1;
+  text-shadow:4px 4px snow,
+              6px 6px black;
+}
+
+.titleShadowUppercase {
+  color:black;
+  text-shadow:2px 2px snow,
+              4px 4px #b0b0b0;
+  text-transform:uppercase;
+}
+
+.inverseShadowUppercase {
+  color:#aaf0d1;
+  text-shadow:4px 4px snow,
+              6px 6px black;
+  text-transform:uppercase;
+}

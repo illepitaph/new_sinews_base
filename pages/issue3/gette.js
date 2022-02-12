@@ -22,8 +22,7 @@ export default function Gette() {
         className={styles.inverseShadow}>leprosy of the heart</span></span></RightGrayTitle>
 
 
-        <RightBlackTitle><span className={styles.authorName}>——<i>megan<br/>jeanne<br/>gette</i></span>
-        </RightBlackTitle>
+        <RightBlackTitle>——<i>megan<br/>jeanne<br/>gette</i></RightBlackTitle>
         <br/>
         <br/>
         <div className={styles.container}><Image src="/../public/images/Gette1.jpg" width={793} height={800}
