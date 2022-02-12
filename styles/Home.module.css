@@ -9,8 +9,10 @@
       rgba(32, 32, 32, 0.84) 90%,
       rgba(32, 32, 32, 1)
     ),
-    url("../public/images/ArchNewSinew.jpg") repeat center center fixed;
+    url("../public/images/ArchNewSinew.jpg") fixed;
   overflow:hidden;
+  background-size: cover;
+  background-position: center;
   font-size:1rem;
 }
 
@@ -72,7 +74,9 @@
       rgba(32, 32, 32, 0.84) 90%,
       rgba(32, 32, 32, 1)
     ),
-  url("../public/images/ArchNewSinew.jpg") repeat center center fixed;
+  url("../public/images/ArchNewSinew.jpg") repeat fixed;
+  background-size: cover;
+  background-position: center;
 }
 
 .marquee {
@@ -102,7 +106,9 @@
 
 .bottom {
     height:160vh;
-    background: url("../public/images/ArchNewSinew.jpg") repeat center center fixed;
+    background: url("../public/images/ArchNewSinew.jpg") repeat fixed;
+    background-size: cover;
+    background-position: center;
     filter: drop-shadow(1px 1px snow) invert(75%);
 }
 
@@ -233,6 +239,10 @@
 
   .graffiti {
     font-size:0.9rem;
+  }
+
+  .snowTypeface {
+    font-size:1.7rem;
   }
 
 }
