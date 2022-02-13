@@ -50,6 +50,14 @@ export default function Issue5Bios() {
    <br/>
    <br/>
    <br/>
+   <span className={styles.grayInverse}>JESSICA ALEXANDER</span>’s novella, <cite><strong>None of This Is an Invitation</strong></cite> (co-written with Katie Jean
+   Shinkle) is forthcoming from Astrophil Press. Her story collection, <cite><strong>Dear Enemy</strong></cite>, was
+   the winning manuscript in the 2016 Subito Prose Contest, as judged by Selah Saterstrom. Her fiction has been published
+   in journals such as <i>Fence</i>, <i>Black Warrior Review</i>, <i>PANK</i>, <i>Denver Quarterly</i>, <i>The Collagist</i>, and
+   <i> DIAGRAM</i>. She lives in Louisiana where she teaches creative writing at the University of Louisiana at Lafayette.
+   <br/>
+   <br/>
+   <br/>
    <span className={styles.grayInverse}>MIKE CORRAO</span> is the author of three novels, <cite><strong>Man</strong>
    </cite>, <cite><strong>Oh Man</strong></cite> (Orson's Publishing); <cite><strong>Gut Text</strong>
    </cite> (11:11 Press); and <cite><strong>Rituals Performed In The Absence Of Ganymede</strong></cite> (11:11 Press); one book
@@ -62,6 +70,7 @@ export default function Issue5Bios() {
    <br/>
    <br/>
    <br/>
+   <span className={styles.grayInverse}>SAMUEL MOSS</span> 
    </StandardProse>
 
    <Footer/>
