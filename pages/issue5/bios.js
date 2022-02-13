@@ -38,7 +38,7 @@ export default function Issue5Bios() {
    href="https://nightboat.org/book/the-old-philosopher/"> <cite><strong> The Old Philosopher </strong></cite></a>(winner
    of the Nightboat Prize for 2014), and of the shortstory collections <a
    className={styles.biosExternalLink} target="_blank" href="https://1111press.com/the-vegas-dilemma-by-vi-khi-nao">
-   <cite><strong> The Vegas Dilemma</strong></cite></a> and <a
+   <cite><strong> The Vegas Dilemma</strong></cite></a> (11:11 Press, 2021) and <a
    className={styles.biosExternalLink} target="_blank"
    href="http://www.uapress.ua.edu/product/Brief-Alphabet-of-Torture,6637.aspx"><cite>
    <strong> A Brief Alphabet of Torture </strong></cite></a> (winner of the 2016 FC2's Ronald Sukenick
@@ -70,7 +70,7 @@ export default function Issue5Bios() {
    <br/>
    <br/>
    <br/>
-   <span className={styles.grayInverse}>SAMUEL MOSS</span> 
+   <span className={styles.grayInverse}>SAMUEL MOSS</span>
    </StandardProse>
 
    <Footer/>
