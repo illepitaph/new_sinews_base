@@ -58,19 +58,21 @@ export default function Issue5Bios() {
    <br/>
    <br/>
    <br/>
-   <span className={styles.grayInverse}>MIKE CORRAO</span> is the author of three novels, <cite><strong>Man</strong>
-   </cite>, <cite><strong>Oh Man</strong></cite> (Orson's Publishing); <cite><strong>Gut Text</strong>
-   </cite> (11:11 Press); and <cite><strong>Rituals Performed In The Absence Of Ganymede</strong></cite> (11:11 Press); one book
-   of poetry, <cite><strong>Two Novels </strong></cite>(Orson's Publishing); two plays, <cite><strong>Smut-Maker</strong></cite> (Inside the
-   Castle) and <cite><strong>Andromedusa</strong></cite> (Forthcoming - Plays Inverse); and three
-   chapbooks, <cite><strong>Avian Funeral March</strong></cite> (Self-Fuck); <cite><strong>Material Catalogue</strong></cite> (Alienist);
-   and <cite><strong>Spelunker</strong></cite> (Schism - Neuronics). Along with earning multiple Best of the Net
-   nominations, Mike’s work has been featured in publications such as <i>3:AM</i>, <i>The Collagist</i>, <i>Always
-   Crashing</i>, and <i>Denver Quartery</i>. He lives in Minneapolis.
+   <span className={styles.grayInverse}>MIKE CORRAO</span> Mike Corrao is the author of numerous works
+   including <cite><strong>Gut Text</strong></cite> (11:11 Press), <cite><strong>Rituals
+   Performed in the Absence of Ganymede</strong></cite> (11:11 Press), <cite><strong>Desert
+   Tiles</strong></cite> (Equus Press), and <cite><strong>Smut-Maker</strong></cite> (Inside the
+   Castle). His work often explores the haptic, architectural, and organismal qualities of the text-object.
+   <a className={styles.biosExternalLink} target="_blank" href="http://www.mikecorrao.com/"> www.mikecorrao.com</a>
    <br/>
    <br/>
    <br/>
-   <span className={styles.grayInverse}>SAMUEL MOSS</span>
+   <span className={styles.grayInverse}>SAMUEL M. MOSS</span> is from Cascadia. Recent work has been
+   published in <i>3:AM Magazine</i>, <i>New World Writing</i>, and <i>decomP</i>, among other venues. He is an
+   associate editor and web lead at 11:11 Press. He currently works as a farmhand in rural Washington. Find
+   more at <a className={styles.biosExternalLink} target="_blank"
+   href="https://www.perfidiousscript.com/">perfidiousscript.com</a> and on twitter<br/> <a
+   className={styles.biosExternalLink} target="_blank" href="https://twitter.com/perfidiouscript">@perfidiouscript</a>
    </StandardProse>
 
    <Footer/>
