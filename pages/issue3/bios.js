@@ -37,31 +37,25 @@ export default function Issue3Bios() {
    href="https://coffeehousepress.org/products/fish-in-exile"> <cite>
    <strong>Fish in Exile </strong></cite></a>(Coffee House Press, 2016). Her work includes poetry, fiction,
    film, and cross-genre collaboration.
-   </StandardProse>
    <br/>
    <br/>
    <br/>
-   <StandardProse>
    <span className={styles.grayInverse}>CARY STOUGH</span> is a poet from the Missouri Ozarks and a Children's Librarian in Massachusetts. Recent work has
    been published in <i>X-R-A-Y</i>, <i>Bennington Review</i>, and <i>Apartment Poetry</i>. Talk to him about
    Deleuze and Guattari on Twitter <a className={styles.biosExternalLink} target="_blank"
    href="https://twitter.com/gros__pipi">@gros_pipi</a>
-   </StandardProse>
    <br/>
    <br/>
    <br/>
-   <StandardProse>
    <span className={styles.grayInverse}>SARA DENIZ AKANT</span> is a Turkish-American poet, educator, and performer. Her
    first collection, <cite><strong>Babette</strong></cite> (Rescue Press 2015), won the Black Box Award in Poetry, and
    her chapbook,  <cite><strong>Parades</strong></cite> (Omnidawn 2014), won the Omnidawn Chapbook Prize. She holds
    an MFA from the Iowa Writers' Workshop, and has taught writing at Baruch, Medgar Evers, John Jay, and Hunter
    College. Sara is currently a PhD candidate in English at the CUNY Graduate Center, where she researches 20th
    century poetics at the intersections of language, gender, and empire. She lives in Brooklyn.
-   </StandardProse>
    <br/>
    <br/>
    <br/>
-   <StandardProse>
    <span className={styles.grayInverse}>STEVEN ALVAREZ</span> is the author of <cite><strong>The Codex
    Mojaodicus</strong></cite>, winner of the Fence Modern Poets Prize. He has also authored the novels in
    verse <cite><strong>The Pocho Codex</strong></cite> and <cite><strong>The Xicano Genome</strong></cite>, both
@@ -73,25 +67,19 @@ export default function Issue3Bios() {
    Steven on Instagram <a className={styles.biosExternalLink} target="_blank"
    href="https://www.instagram.com/stevenpaulalvarez">@stevenpaulalvarez</a> and on Twitter <a
    className={styles.biosExternalLink} target="_blank" href="https://twitter.com/Chastitellez">@chastitellez</a>
-   </StandardProse>
    <br/>
    <br/>
    <br/>
-   <StandardProse>
    <span className={styles.grayInverse}>MEGAN JEANNE GETTE</span> is a poet and anthropologist currently based in Texas.
    <br/>
    <br/>
    <br/>
-   </StandardProse>
-   <StandardProse>
    <span className={styles.grayInverse}>KELLY KRUMRIE</span>'s writing appears
    in <i>Tarpaulin Sky Magazine</i>, <i>DIAGRAM</i>, <i> Entropy</i>, <i>La Vague</i>, and elsewhere. She is a PhD
    candidate in Creative Writing at the University of Denver where she serves as the Prose Editor for <i>Denver Quarterly</i>.
    <br/>
    <br/>
    <br/>
-   </StandardProse>
-   <StandardProse>
    <span className={styles.grayInverse}>SHOME DASGUPTA</span> lives in Lafayette, LA. He is the author
    of <cite><strong>i am here And You Are Gone</strong></cite> (Winner Of The 2010 OW Press Fiction Chapbook
    Contest), <cite><strong>The Seagull And The Urn</strong></cite> (HarperCollins India, 2013) which has
@@ -104,8 +92,6 @@ export default function Issue3Bios() {
    <br/>
    <br/>
    <br/>
-   </StandardProse>
-   <StandardProse>
    <span className={styles.grayInverse}>MIKE CORRAO</span> is the author of two novels, <cite><strong>Man</strong>
    </cite>, <cite><strong>Oh Man</strong></cite> (Orson's Publishing) and <cite><strong>Gut Text</strong>
    </cite> (11:11 Press); one book of poetry, <cite><strong>Two Novels </strong>

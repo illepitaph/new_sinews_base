@@ -31,22 +31,18 @@ export default function Issue2Bios() {
    community-based environmental and social justice groups. <cite><strong> Defacing
    the Monument</strong></cite>, a series of essays on immigration, archives, aesthetics
    and the state, will be published by Noemi Press in December 2019.
-   </StandardProse>
    <br/>
    <br/>
    <br/>
-   <StandardProse>
    <span className={styles.grayInverse}>MIKE CORRAO</span> is the author of <cite><strong> Man, Oh Man </strong></cite> (Orson's
    Publishing) and <cite><strong> Gut Text </strong></cite> (11:11 Press). His work
    has been featured in publications such as <i>Collagist</i>, <i>3:AM</i>, <i>Always
    Crashing</i>, and <i>The Portland Review</i>. He lives in Minneapolis.
    Learn more at <a className={styles.biosExternalLink} target="_blank"
    href="http://www.mikecorrao.com/">www.mikecorrao.com</a>
-   </StandardProse>
    <br/>
    <br/>
    <br/>
-   <StandardProse>
    <span className={styles.grayInverse}>FELICIA ZAMORA</span> is the author of the poetry books: <cite><strong> Quotient </strong></cite> (Tinderbox
    Editions 2021), <cite><strong> Body of Render </strong></cite>, winner of the 2018
    Benjamin Saltman Award from Red Hen Press (2020), <cite><strong> Instrument of Gaps </strong></cite> (Slope
@@ -57,11 +53,9 @@ export default function Issue2Bios() {
    her MFA from Colorado State University where she teaches creative writing courses online and
    is the Associate Poetry Editor for the <i>Colorado Review</i>. She lives in Arizona and is the Education
    Programs Manager for the Virginia G. Piper Center for Creative Writing at Arizona State University.
-   </StandardProse>
    <br/>
    <br/>
    <br/>
-   <StandardProse>
    <span className={styles.grayInverse}>SAM TAYLOR</span> is the author of three books of poems, <cite><strong> Body of the World </strong></cite>
    (Ausable/Copper Canyon), <cite><strong> Nude Descending an Empire </strong></cite> (Pitt Poetry),
    and <cite><strong> The Book of Fools: An Essay in Memoir and Verse </strong></cite> (forthcoming,
@@ -71,11 +65,9 @@ export default function Issue2Bios() {
    Scholarship, among other awards, and his poems have appeared in such journals as <i>The Kenyon
    Review</i>, <i>AGNI</i>, and <i>The New Republic</i>.  <a className={styles.biosExternalLink} target="_blank"
    href="http://www.samtaylor.us/">www.samtaylor.us</a>
-   </StandardProse>
    <br/>
    <br/>
    <br/>
-   <StandardProse>
    <span className={styles.grayInverse}>SUSAN LEWIS</span> <a className={styles.biosExternalLink} target="_blank"
    href="http://www.susanlewis.net/">www.susanlewis.net</a> is the author of ten books and chapbooks,
    including <cite><strong> Zoom</strong></cite>, winner of the Washington Prize, and <cite><strong> Heisenberg’s
@@ -84,26 +76,20 @@ export default function Issue2Bios() {
    Writing</i>, <i>VOLT</i>, and many other journals and anthologies. She is the founding
    editor of <i>Posit</i> <a className={styles.biosExternalLink} target="_blank"
    href="http://www.positjournal.com/"> www.positjournal.com</a>.
-   </StandardProse>
    <br/>
    <br/>
    <br/>
-   <StandardProse>
   <span className={styles.grayInverse}>REBECCA ARIEL PORTE</span> is a member of the Core Faculty at the Brooklyn Institute for Social Research.
    She is at work on a long, wicked book about Paradise, Arcadia, and the Golden Age.
    <br/>
    <br/>
    <br/>
-   </StandardProse>
-   <StandardProse>
    <span className={styles.grayInverse}>BABAK LAKGHOMI</span> is the author of <cite><strong> Floating Notes </strong></cite>(Tyrant Books, 2018).
    His fiction has appeared or forthcoming in <i>NOON</i>, <i>Ninth Letter</i>, <i>Green Mountains
    Review</i>, and <i>New York Tyrant</i>, among others.
    <br/>
    <br/>
    <br/>
-   </StandardProse>
-   <StandardProse>
    <span className={styles.grayInverse}>VI KHI NAO</span> is the author of four poetry collections: <a className={styles.biosExternalLink} target="_blank"
    href="http://1111press.com/human-tetris/"> <cite><strong> Human Tetris </strong></cite></a>(11:11
    Press, 2019), <a className={styles.biosExternalLink} target="_blank" href="http://blacksunlit.com/sheep-machine/">
@@ -123,16 +109,12 @@ export default function Issue2Bios() {
    <br/>
    <br/>
    <br/>
-   </StandardProse>
-   <StandardProse>
    <span className={styles.grayInverse}>ADAM STRAUSS</span> lives in Louisville, KY. Most recently, poems of his appear in <i>Dream
    Pop</i>, <i>Sporklet</i>, and <i>Prelude</i>. The poems in this issue are from a chapbook
    manuscript titled <strong><cite> Syntactic Ekphrastic</cite></strong>.
    <br/>
    <br/>
    <br/>
-   </StandardProse>
-   <StandardProse>
    <span className={styles.grayInverse}>BRANDON SHIMODA</span>'s most recent books include <strong><cite> The Grave on the Wall </cite>
    </strong>(City Lights, 2019) and <strong><cite> The Desert </cite></strong>(The Song Cave,
    2018). He is the curator of the Hiroshima Library, an itinerant reading room/collection of
