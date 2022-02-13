@@ -27,7 +27,7 @@ export default function Porte() {
            className={styles.uppercaseBlack}>t</span>i<span
            className={styles.uppercaseBlack}>e</span>s_</span></h3></span></CenterGrayTitle>
            <br/><br/>
-           <LeftBlackTitle><h3> ... rebecca ... <br/> ... ariel ... <br/> ... porte ... </h3></LeftBlackTitle>
+           <LeftBlackTitle> ... rebecca ... <br/> ... ariel ... <br/> ... porte ... </LeftBlackTitle>
 
           <p className={styles.storyMarquee}>i.<span className={styles.storyMarqueeInner}>
           <br className={styles.spacer}/>Dry Owlmoy<br className={styles.spacer}/>(For Wolodymyr)
