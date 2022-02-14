@@ -28,8 +28,7 @@
   background-size:contain;
   width:25vw;
   height:35vh;
-  margin-top:12vh;
-  margin-left:2vw;
+  margin:12vh 0 0 2vw;
   cursor:pointer;
   opacity:0.5;
 }
@@ -62,6 +61,10 @@
   border-radius:45px;
   text-transform:lowercase;
   letter-spacing:1.5px;
+}
+
+.siteNav > button:not(last-child) {
+  margin-right:3px;
 }
 
 .middle {
@@ -173,17 +176,8 @@
   }
 
   .graffiti {
-    font-size:2.2rem;
-    margin:8% 0 0 4%;
-  }
-
-
-}
-
-@media (max-width: 854px) and (orientation:landscape) {
-
-  .graffiti {
-    font-size:1.6rem;
+    font-size:2rem;
+    margin:5% 0 0 4%;
   }
 
 
@@ -205,13 +199,34 @@
 
 }
 
+@media (max-width: 854px) and (orientation:landscape) {
+
+  .graffiti {
+    font-size:1.6rem;
+  }
+
+
+}
+
+@media (max-width: 668px) and (orientation:landscape) {
+
+  .siteNav > button {
+    padding:3px 7px;
+    margin-bottom:2vh;
+    opacity:0.8;
+  }
+
+
+}
+
+
 
 @media (max-width:541px) and (orientation:portrait) {
 
 
   .graffiti {
-    font-size:1.4rem;
-    margin:29% 0 0 0;
+    font-size:1.3rem;
+    margin:16% 0 0 0;
   }
 
 }

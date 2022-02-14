@@ -182,8 +182,7 @@
   background-size:contain;
   width:25vw;
   height:35vh;
-  margin-top:12vh;
-  margin-left:2vw;
+  margin:12vh 0 0 2vw;
   opacity:0.9;
 }
 
@@ -200,11 +199,15 @@
   font-size: 0.7rem;
   background-color:black;
   color:#c0a5a5;
-  opacity: 0.8;
+  opacity: 0.75;
   padding:12px 19px;
   border-radius:45px;
   text-transform:lowercase;
   letter-spacing:1.5px;
+}
+
+.siteNav > button:not(last-child) {
+  margin-right:3px;
 }
 
 @media (max-width: 991.98px) {
@@ -213,9 +216,13 @@
     margin:10% 6% 0 6%;
     background-size:cover;
   }
+
+  .siteNav > button {
+    padding:7.5px 10px;
+  }
 }
 
-@media (max-width: 767.98px) and (orientation:portrait) {
+@media (max-width: 767px) and (orientation:portrait) {
 
   .iconPlusSitebar > a {
     width:45vw;
@@ -230,15 +237,23 @@
     display:inline-flex;
     flex-flow:column wrap;
     justify-content:flex-end;
-    margin:4vh 6vw 0 0 ;
+    margin:6vh 6vw 0 0 ;
   }
 
   .siteNav > button {
     padding:5.5px 7px;
-    margin-bottom:5vh;
+    margin-bottom:2.5vh;
     cursor:pointer;
+    opacity:0.7;
   }
 
+ }
+
+ @media (max-width: 721px) and (orientation:landscape) {
+
+   .siteNav > button {
+     padding:3.5px 5px;
+   }
  }
 
  @media (max-height: 400px) and (orientation:landscape){
@@ -265,6 +280,20 @@
 
 
  }
+
+ @media (max-width: 376px) and (orientation:portrait) {
+
+   .siteNav {
+     margin:14vh 6vw 0 0 ;
+   }
+
+  }
+
+@media (max-width: 281px) and (orientation:portrait) {
+  .iconPlusSitebar > a {
+    width:40vw;
+  }
+}
 
  @media (max-height: 281px) and (orientation:landscape){
 
