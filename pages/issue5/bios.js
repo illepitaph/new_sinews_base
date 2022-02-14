@@ -21,7 +21,9 @@ export default function Issue5Bios() {
    <StandardProse>
    <br/>
    <br/>
-   <span className={styles.grayInverse}>JULIA SHIOTA</span>
+   <span className={styles.grayInverse}>JULIA SHIOTA</span> is a writer and editor based in Minnesota. Her
+   fiction and nonfiction work has appeared in <i>Catapult</i>, <i>Electric Literature</i>, <i>the Asian
+   American Writers Workshop</i>, <i>Poets & Writers</i>, and elsewhere. 
    <br/>
    <br/>
    <br/>
