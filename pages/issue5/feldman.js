@@ -18,9 +18,7 @@ export default function Feldman() {
       <br/>
       <RightGrayTitle><span className={styles.faintShadowMain}>p<span
       className={styles.uppercaseFaintShadow}>a</span>sse<span
-      className={styles.uppercaseFaintShadow}>l</span></span><br/><br/><br/><span
-      className={styles.faintShadowAncillary}>(o<span
-      className={styles.uppercaseAlternateTitleColor}>r</span>:<br/>e<span
+      className={styles.uppercaseFaintShadow}>l</span><br/><br/><br/>(e<span
       className={styles.alternateTitleColor}>i</span>gh<span
       className={styles.uppercaseAlternateTitleColor}>t</span><br/>s<span
       className={styles.uppercaseAlternateTitleColor}>t</span>ori<span
@@ -243,7 +241,7 @@ export default function Feldman() {
       tell you down to the last detail the differences between these species. I was so curious that one day
       I couldn’t resist, I said in answer that I’d done whatever it was on purpose, beautiful phrase. My
       mother’s anger was something terrifying; it terrifies me to think of it today. She would never have
-      hit me, but I thought she wanted to.
+      hit me, but she may have wanted to.
       </StandardProse>
       <br/><br/><br/><br/><br/><br/>
       <RightGrayTitle><span className={styles.faintShadowAncillary}><span

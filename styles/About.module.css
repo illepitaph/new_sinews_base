@@ -21,6 +21,7 @@
   height:35vh;
   margin:12vh 0 0 2vw;
   opacity:0.9;
+  cursor:pointer;
 }
 
 .siteNav {
@@ -42,6 +43,7 @@
   border-radius:45px;
   text-transform:lowercase;
   letter-spacing:1.5px;
+  cursor:pointer;
 }
 
 .siteNav > button:not(last-child) {

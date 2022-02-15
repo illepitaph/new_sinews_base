@@ -17,19 +17,19 @@ export default function Issue1() {
     <div className={styles.issueContents}>
       <div className={styles.issue}>issue_1</div>
       <div className={styles.col1}>
-        <div className={styles.workLink}><Link href="/issue1/gridley">sarah gridley_poems from _insofar_</Link></div>
+        <Link href="/issue1/gridley"><div className={styles.workLink}>sarah gridley_poems from _insofar_</div></Link>
       </div>
       <div className={styles.col1}>
-          <div className={styles.workLink}><Link href="/issue1/blackwell">gabriel blackwell_two stories</Link></div>
+        <Link href="/issue1/blackwell"><div className={styles.workLink}>gabriel blackwell_two stories</div></Link>
       </div>
       <div className={styles.col1}>
-          <div className={styles.workLink}><Link href="/issue1/romanosky">christa romanosky_three poems</Link></div>
+        <Link href="/issue1/romanosky"><div className={styles.workLink}>christa romanosky_three poems</div></Link>
       </div>
       <div className={styles.col2}>
-        <div className={styles.workLink}><Link href="/issue1/eisen-martin">tongo eisen-martin_two poems</Link></div>
+      <Link href="/issue1/eisen-martin"><div className={styles.workLink}>tongo eisen-martin_two poems</div></Link>
       </div>
       <div className={styles.col2}>
-        <div className={styles.workLink}><Link href="/issue1/two-eyes-in-one">vi khi nao_2 eyes in 1 eye: a delirium</Link></div>
+        <Link href="/issue1/two-eyes-in-one"><div className={styles.workLink}>vi khi nao_2 eyes in 1 eye: a delirium</div></Link>
       </div>
       <div className={styles.col2}>
         <Link href="/issue1/even-flesh"><div className={styles.workLink} href=""

@@ -11,37 +11,37 @@ export default function Issue4() {
         <div className={styles.pageStructure}>
           <div className={styles.issueContents}>
         <div className={styles.workColumn}>
-            <div className={styles.workLink}><Link href="/issue4/rat">... brandon shimoda + the hour of the rat ...</Link></div>
+            <Link href="/issue4/rat"><div className={styles.workLink}>... brandon shimoda + the hour of the rat ...</div></Link>
         </div>
         <div className={styles.workColumn}>
-          <div className={styles.workLink}><Link href="/issue4/guanyin">... k-ming chang + guanyin ...</Link></div>
+          <Link href="/issue4/guanyin"><div className={styles.workLink}>... k-ming chang + guanyin ...</div></Link>
         </div>
         <div className={styles.workColumn}>
-          <div className={styles.workLink}><Link href="/issue4/isoline">... evan isoline + as foam from
-          this sweet hour ...</Link></div>
+        <Link href="/issue4/isoline"><div className={styles.workLink}>... evan isoline + as foam from
+          this sweet hour ...</div></Link>
         </div>
         <div className={styles.workColumn}>
-          <div className={styles.workLink}><Link href="/issue4/howfar">... christa romanosky + how far you can
-          get on an empty tank of gas ...</Link></div>
+          <Link href="/issue4/howfar"><div className={styles.workLink}>... christa romanosky + how far you can
+          get on an empty tank of gas ...</div></Link>
         </div>
         <div className={styles.workColumn}>
-          <div className={styles.workLink}><Link href="/issue4/palacios">... gabriel palacios + poems from lunar hilton
-          elegy ...</Link></div>
+          <Link href="/issue4/palacios"><div className={styles.workLink}>... gabriel palacios + poems from lunar hilton
+          elegy ...</div></Link>
         </div>
         <div className={styles.workColumn}>
-          <div className={styles.workLink}><Link href="/issue4/hummel">... allison hummel + the fires are back // i look at
-          sauce // untitled // comfort like the ...</Link></div>
+          <Link href="/issue4/hummel"><div className={styles.workLink}>... allison hummel + the fires are back // i look at
+          sauce // untitled // comfort like the ...</div></Link>
         </div>
         <div className={styles.workColumn}>
-          <div className={styles.workLink}><Link href="/issue4/text-spinality">... mike corrao + text spinality ...</Link></div>
+          <Link href="/issue4/text-spinality"><div className={styles.workLink}>... mike corrao + text spinality ...</div></Link>
         </div>
         <div className={styles.workColumn}>
-          <div className={styles.workLink}><Link href="/issue4/poemsborn">... vi khi nao + poems born from basic
-          words ...</Link></div>
+        <Link href="/issue4/poemsborn"><div className={styles.workLink}>... vi khi nao + poems born from basic
+          words ...</div></Link>
         </div>
         <div className={styles.workColumn}>
-          <div className={styles.workLink}><Link href="/issue4/maierhofer">... grant maierhofer + in the time when my memory
-          fixated on the death of princess diana ...</Link></div>
+          <Link href="/issue4/maierhofer"><div className={styles.workLink}>... grant maierhofer + in the time when my memory
+          fixated on the death of princess diana ...</div></Link>
         </div>
         <div className={styles.workColumn}>
             <div className={styles.workLink}><Link href="/issue4/bios">~~~ contri butor_ _ _b  i  os ~~~</Link></div>

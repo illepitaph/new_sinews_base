@@ -21,30 +21,30 @@ export default function Issue3() {
 
       <div className={styles.issueContents}>
         <div className={styles.workColumn}>
-        <div className={styles.workLink}><Link href="/issue3/dusk">vi khi nao_retrieve the dusk</Link></div>
+         <Link href="/issue3/dusk"><div className={styles.workLink}>vi khi nao_retrieve the dusk</div></Link>
         </div>
         <div className={styles.workColumn}>
-          <div className={styles.workLink}><Link href="/issue3/stough">cary stough_balance sheet</Link></div>
+        <Link href="/issue3/stough"><div className={styles.workLink}>cary stough_balance sheet</div></Link>
         </div>
         <div className={styles.workColumn}>
-          <div className={styles.workLink}><Link href="/issue3/akant">sara deniz akant_how t langed</Link></div>
+          <Link href="/issue3/akant"><div className={styles.workLink}>sara deniz akant_how t langed</div></Link>
         </div>
         <div className={styles.workColumn}>
-          <div className={styles.workLink}><Link href="/issue3/alvarez">steven alvarez_data blood // zero progress
-          silhouette</Link></div>
+        <Link href="/issue3/alvarez"><div className={styles.workLink}>steven alvarez_data blood // zero progress
+          silhouette</div></Link>
         </div>
         <div className={styles.workColumn}>
-          <div className={styles.workLink}><Link href="/issue3/gette">megan jeanne gette_summoning green, a leprosy of the
-          heart</Link></div>
+          <Link href="/issue3/gette"><div className={styles.workLink}>megan jeanne gette_summoning green, a leprosy of the
+          heart</div></Link>
         </div>
         <div className={styles.workColumn}>
-          <div className={styles.workLink}><Link href="/issue3/krumrie">kelly krumrie_excerpts from ‘no measure’</Link></div>
+          <Link href="/issue3/krumrie"><div className={styles.workLink}>kelly krumrie_excerpts from ‘no measure’</div></Link>
         </div>
         <div className={styles.workColumn}>
-          <div className={styles.workLink}><Link href="/issue3/dasgupta">shome dasgupta_remember nothing</Link></div>
+          <Link href="/issue3/dasgupta"><div className={styles.workLink}>shome dasgupta_remember nothing</div></Link>
         </div>
         <div className={styles.workColumn}>
-          <div className={styles.workLink}><Link href="/issue3/ovid">mike corrao_ovidian dynamics</Link></div>
+          <Link href="/issue3/ovid"><div className={styles.workLink}>mike corrao_ovidian dynamics</div></Link>
         </div>
         <div className={styles.workColumn}>
           <div className={styles.workLink}><Link href="/issue3/bios">~~~ contri butor_ _ _b  i  os ~~~</Link></div>

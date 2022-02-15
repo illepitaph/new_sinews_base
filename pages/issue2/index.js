@@ -22,45 +22,45 @@ export default function Issue2() {
 
     <div className={styles.issueContents}>
       <div className={styles.col1}>
-          <div className={styles.workLink}><Link href="/issue2/briante">susan briante_two poems</Link></div>
+        <Link href="/issue2/briante"><div className={styles.workLink}>susan briante_two poems</div></Link>
       </div>
       <div className={styles.col1}>
-        <div className={styles.workLink}><Link href="/issue2/zamora">felicia zamora_selections from 'quotient'</Link></div>
+        <Link href="/issue2/zamora"><div className={styles.workLink}>felicia zamora_selections from 'quotient'</div></Link>
       </div>
       <div className={styles.col1}>
-        <div className={styles.workLink}><Link href="/issue2/taylor">sam taylor_five poems</Link></div>
+      <Link href="/issue2/taylor"><div className={styles.workLink}>sam taylor_five poems</div></Link>
       </div>
       <div className={styles.col1}>
-        <div className={styles.workLink}><Link href="/issue2/porte">rebecca ariel porte_portraits of some persons as
-        imaginary cities</Link></div>
+        <Link href="/issue2/porte"><div className={styles.workLink}>rebecca ariel porte_portraits of some persons as
+        imaginary cities</div></Link>
       </div>
       <div className={styles.col1}>
-        <div className={styles.workLink}><Link href="/issue2/strauss">adam strauss_five poems</Link></div>
+        <Link href="/issue2/strauss"><div className={styles.workLink}>adam strauss_five poems</div></Link>
       </div>
       <div className={styles.col1}>
-        <div className={styles.workLink}><Link href="/issue2/tomb-model">brandon shimoda_excerpts from ‘tomb
-        model of a noble’s house’</Link></div>
+        <Link href="/issue2/tomb-model"><div className={styles.workLink}>brandon shimoda_excerpts from ‘tomb
+        model of a noble’s house’</div></Link>
       </div>
       <div className={styles.col2}>
-        <div className={styles.workLink}><Link href="/issue2/corrao">mike corrao_the archaeology of virtual
-        spaces</Link></div>
+        <Link href="/issue2/corrao"><div className={styles.workLink}>mike corrao_the archaeology of virtual
+        spaces</div></Link>
       </div>
       <div className={styles.col2}>
-        <div className={styles.workLink}><Link href="/issue2/lewis">susan lewis_two poems</Link></div>
+        <Link href="/issue2/lewis"><div className={styles.workLink}>susan lewis_two poems</div></Link>
       </div>
       <div className={styles.col2}>
-        <div className={styles.workLink}><Link href="/issue2/lakghomi">babak lakghomi_two stories</Link></div>
+        <Link href="/issue2/lakghomi"><div className={styles.workLink}>babak lakghomi_two stories</div></Link>
       </div>
       <div className={styles.col2}>
-          <div className={styles.workLink}><Link href="/issue2/le-yeaste">vi khi nao_le yeaste</Link></div>
+          <Link href="/issue2/le-yeaste"><div className={styles.workLink}>vi khi nao_le yeaste</div></Link>
       </div>
       <div className={styles.col2}>
-        <div className={styles.workLink}><Link href="/issue2/saluting-a-hex">saluting a hex of
+        <Link href="/issue2/saluting-a-hex"><div className={styles.workLink}>saluting a hex of
         gangrenous sky or: brandon shimoda's ritual inversions
-      </Link></div>
+      </div></Link>
       </div>
       <div className={styles.col2}>
-        <div className={styles.workLink}><Link href="/issue2/bios">~~~ contri butor_ _ _b  i  os ~~~</Link></div>
+        <Link href="/issue2/bios"><div className={styles.workLink}>~~~ contri butor_ _ _b  i  os ~~~</div></Link>
       </div>
 
       <div className={styles.siteShortcuts}>
