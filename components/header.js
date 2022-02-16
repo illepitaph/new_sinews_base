@@ -11,6 +11,7 @@ export default function Header(props) {
   <div className={styles.dropDown}>
   <Link href="/issue5"><button>issue_5</button></Link>
   <div className={styles.issueContent}>
+  <Link href="/issue5/shiota"><button>julia_shiota_in the beginning, she was the sun</button></Link>
   <Link href="/issue5/bisagni"><button>paul_bisagni_nice time formula + jumbo marvelous domesticity jilt + by dint of little else</button></Link>
   <Link href="/issue5/bios"><button>issue5_bios</button></Link>
     </div>
