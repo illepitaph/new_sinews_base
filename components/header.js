@@ -10,30 +10,58 @@ export default function Header(props) {
   <nav className={styles.siteNav}>
   <div className={styles.dropDown}>
   <Link href="/issue5"><button>issue_5</button></Link>
-  <div className={styles.issueContent}>
-    <Link href="/issue1"><button>new_sinews_issue5</button></Link>
-  </div>
   </div>
   <div className={styles.dropDown}>
   <Link href="/issue4"><button>issue_4</button></Link>
+  <div className={styles.issueContent}>
+    <Link href="/issue4"><button>new_sinews_issue4</button></Link>
+    </div>
   </div>
   <div className={styles.dropDown}>
   <Link href="/issue3"><button>issue_3</button></Link>
+  <div className={styles.issueContent}>
+    <Link href="/issue3"><button>new_sinews_issue3</button></Link>
+    <Link href="/issue3/dusk"><button>vi khi nao_retrieve the dusk</button></Link>
+    <Link href="/issue3/stough"><button>cary stough_balance sheet</button></Link>
+    <Link href="/issue3/akant"><button>sara deniz akant_how t langed</button></Link>
+    <Link href="/issue3/alvarez"><button>steven alvarez_data blood // zero progress silhouette</button></Link>
+    <Link href="/issue3/gette"><button>megan jeanne gette_summoning green, a leprosy of the heart</button></Link>
+    <Link href="/issue3/krumrie"><button>kelly krumrie_excerpts from ‘no measure’</button></Link>
+    <Link href="/issue3/dasgupta"><button>shome dasgupta_remember nothing</button></Link>
+    <Link href="/issue3/ovid"><button>mike corrao_ovidian dynamics</button></Link>
+    <Link href="/issue3/bios"><button>issue3_bios</button></Link>
+    </div>
   </div>
   <div className={styles.dropDown}>
   <Link href="/issue2"><button>issue_2</button></Link>
+  <div className={styles.issueContent}>
+    <Link href="/issue2"><button>new_sinews_issue2</button></Link>
+    <Link href="/issue2/briante"><button>susan briante_two poems</button></Link>
+    <Link href="/issue2/corrao"><button>mike corrao_the archaeology of virtual
+    spaces</button></Link>
+    <Link href="/issue2/zamora"><button>felicia zamora_selections from 'quotient'</button></Link>
+    <Link href="/issue2/taylor"><button>sam taylor_five poems</button></Link>
+    <Link href="/issue2/porte"><button>rebecca ariel porte_portraits of some persons as imaginary cities</button></Link>
+    <Link href="/issue2/lewis"><button>susan lewis_two poems</button></Link>
+    <Link href="/issue2/lakghomi"><button>babak lakghomi_two stories</button></Link>
+      <Link href="/issue2/le-yeaste"><button>vi khi nao_le yeaste</button></Link>
+    <Link href="/issue2/strauss"><button>adam strauss_five poems</button></Link>
+    <Link href="/issue2/saluting-a-hex"><button>saluting a hex of gangrenous sky or: brandon shimoda's ritual inversions</button></Link>
+    <Link href="/issue2/tomb-model"><button>brandon shimoda_excerpts from ‘tomb model of a noble’s house’</button></Link>
+    <Link href="/issue2/bios"><button>issue2_bios</button></Link>
+    </div>
   </div>
   <div className={styles.dropDown}>
   <Link href="/issue1"><button>issue_1</button></Link>
   <div className={styles.issueContent}>
-    <button><Link href="/issue1">new_sinews_issue1</Link></button>
-    <button><Link href="/issue1/gridley">sarah gridley_poems from _insofar_</Link></button>
-    <button><Link href="/issue1/eisen-martin">tongo eisen-martin_two poems</Link></button>
-    <button><Link href="/issue1/blackwell">gabriel blackwell_two stories</Link></button>
-    <button><Link href="/issue1/romanosky">christa romanosky_three poems</Link></button>
-    <button><Link href="/issue1/two-eyes-in-one">vi khi nao_2 eyes in 1 eye: a delirium</Link></button>
-    <button><Link href="/issue1/even-flesh">even flesh seems a formality_or: vi khi nao's organic oscillations</Link></button>
-    <button><Link href="/issue1/bios">issue1_bios</Link></button>
+    <Link href="/issue1"><button>new_sinews_issue1</button></Link>
+    <Link href="/issue1/gridley"><button>sarah gridley_poems from _insofar_</button></Link>
+    <Link href="/issue1/eisen-martin"><button>tongo eisen-martin_two poems</button></Link>
+    <Link href="/issue1/blackwell"><button>gabriel blackwell_two stories</button></Link>
+    <Link href="/issue1/romanosky"><button>christa romanosky_three poems</button></Link>
+    <Link href="/issue1/two-eyes-in-one"><button>vi khi nao_2 eyes in 1 eye: a delirium</button></Link>
+    <Link href="/issue1/even-flesh"><button>even flesh seems a formality_or: vi khi nao's organic oscillations</button></Link>
+    <Link href="/issue1/bios"><button>issue1_bios</button></Link>
   </div>
   </div>
   <Link href="/"><button className={styles.home}>new sinews</button></Link>

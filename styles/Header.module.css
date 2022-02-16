@@ -6,7 +6,7 @@
   background-repeat:no-repeat;
   background-attachment:fixed;
   font-size:1rem;
-  overflow:visible;
+  overflow:hidden;
 }
 
 .blackwellBackground {
@@ -194,10 +194,9 @@
   margin-right:6%;
 }
 
-.dropDown, .dropDown > button {
-  position:relative;
+.dropDown {
+  overflow:hidden;
 }
-
 
 .siteNav > .dropDown > button, .home, .about {
   border:none;
@@ -217,11 +216,6 @@
   margin-right:3px;
 }
 
-.dropDown > button:hover {
-  background-color:#c0a5a5;
-  color:white;
-}
-
 .issueContent {
   display: none;
   position: absolute;
@@ -230,29 +224,28 @@
   cursor:pointer;
 }
 
-.issueContent button {
-  border:2px inset snow;
+.issueContent > button {
+  border:5px double #c0a5a5;
   font-family:"lores-9-plus-narrow", monospace;
   font-size: 0.9rem;
   background-color:black;
   color:snow;
   opacity: 0.9;
-  padding:12px 16px;
+  padding:6px 16px;
   text-align: left;
   text-transform:lowercase;
   letter-spacing:1.5px;
-  position: relative;
-
-
 }
 
-.issueContent button:hover {
-  background-color:#b0b0b0;
+.siteNav > .dropDown > button:hover, .home:hover, .about:hover {
+  opacity:0.63;
 }
 
 .siteNav > .dropDown > button:hover + .issueContent {
   display: flex;
   flex-flow: column wrap;
+  position: absolute;
+  max-width:35vw;
 }
 
 @media (max-width: 991.98px) {
