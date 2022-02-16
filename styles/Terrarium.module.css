@@ -31,7 +31,7 @@
   text-align:left;
   letter-spacing:-0.02rem;
   line-height:1.4em;
-  margin-left:6rem;
+  margin-left:6vw;
 }
 
 .alternateVoiceOne {
@@ -55,5 +55,62 @@
   text-align:right;
   letter-spacing:-0.02rem;
   line-height:1.4em;
-  margin-right:6rem;
+  margin-right:6vw;
+}
+
+@media (max-width:413px) and (orientation:portrait) {
+
+  .inverseShadow {
+    font-size:3rem;
+  }
+
+  .left, .alternateVoiceOne, .alternateVoiceTwo, .right {
+    margin-left:2vw;
+    margin-right:2vw;
+  }
+}
+
+@media (max-width:391px) and (orientation:portrait) {
+
+.titleShadowAlternate {
+  font-size:2rem;
+}
+
+  .left, .alternateVoiceOne, .alternateVoiceTwo, .right {
+    margin-left:1vw;
+    margin-right:1vw;
+  }
+
+  .left, .right  {
+    font-size:1.3rem;
+  }
+
+  .alternateVoiceOne {
+   font-size:0.9rem;
+  }
+
+  .alternateVoiceTwo {
+   font-size:1.1rem;
+  }
+
+}
+
+@media (max-width:281px) and (orientation:portrait) {
+
+   .inverseShadow {
+     font-size:2rem;
+   }
+
+  .left, .right  {
+    font-size:1.1rem;
+  }
+
+  .alternateVoiceOne {
+   font-size:0.7rem;
+  }
+
+  .alternateVoiceTwo {
+   font-size:0.9rem;
+  }
+
 }
