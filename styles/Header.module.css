@@ -262,7 +262,7 @@
   }
 }
 
-@media (max-width: 767px) and (orientation:portrait) {
+@media (max-width: 769px) and (orientation:portrait) {
 
   .iconPlusSitebar > a {
     width:45vw;

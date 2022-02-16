@@ -10,11 +10,27 @@ export default function Header(props) {
   <nav className={styles.siteNav}>
   <div className={styles.dropDown}>
   <Link href="/issue5"><button>issue_5</button></Link>
+  <div className={styles.issueContent}>
+  <Link href="/issue5/bisagni"><button>paul_bisagni_nice time formula + jumbo marvelous domesticity jilt + by dint of little else</button></Link>
+  <Link href="/issue5/bios"><button>issue5_bios</button></Link>
+    </div>
   </div>
   <div className={styles.dropDown}>
   <Link href="/issue4"><button>issue_4</button></Link>
   <div className={styles.issueContent}>
     <Link href="/issue4"><button>new_sinews_issue4</button></Link>
+    <Link href="/issue4/rat"><button>brandon shimoda_the hour of the rat</button></Link>
+    <Link href="/issue4/guanyin"><button>k-ming chang_guanyin</button></Link>
+    <Link href="/issue4/isoline"><button>evan isoline_as foam from this sweet hour</button></Link>
+    <Link href="/issue4/howfar"><button>christa romanosky_how far you can get on an empty tank of gas</button></Link>
+    <Link href="/issue4/palacios"><button>gabriel palacios_poems from lunar hilton elegy</button></Link>
+    <Link href="/issue4/hummel"><button> allison hummel_the fires are back // i look at
+    sauce // untitled // comfort like the</button></Link>
+    <Link href="/issue4/text-spinality"><button>mike corrao_text spinality</button></Link>
+    <Link href="/issue4/poemsborn"><button>vi khi nao_poems born from basic words</button></Link>
+    <Link href="/issue4/maierhofer"><button>grant maierhofer_in the time when my memory
+    fixated on the death of princess diana</button></Link>
+    <Link href="/issue4/bios"><button>issue4_bios</button></Link>
     </div>
   </div>
   <div className={styles.dropDown}>
@@ -43,7 +59,7 @@ export default function Header(props) {
     <Link href="/issue2/taylor"><button>sam taylor_five poems</button></Link>
     <Link href="/issue2/porte"><button>rebecca ariel porte_portraits of some persons as imaginary cities</button></Link>
     <Link href="/issue2/lewis"><button>susan lewis_two poems</button></Link>
-    <Link href="/issue2/lakghomi"><button>babak lakghomi_two stories</button></Link>
+    <Link href="/issue2/lakghomi"><button>babak lakghomi_a request + say her name</button></Link>
       <Link href="/issue2/le-yeaste"><button>vi khi nao_le yeaste</button></Link>
     <Link href="/issue2/strauss"><button>adam strauss_five poems</button></Link>
     <Link href="/issue2/saluting-a-hex"><button>saluting a hex of gangrenous sky or: brandon shimoda's ritual inversions</button></Link>
@@ -57,7 +73,7 @@ export default function Header(props) {
     <Link href="/issue1"><button>new_sinews_issue1</button></Link>
     <Link href="/issue1/gridley"><button>sarah gridley_poems from _insofar_</button></Link>
     <Link href="/issue1/eisen-martin"><button>tongo eisen-martin_two poems</button></Link>
-    <Link href="/issue1/blackwell"><button>gabriel blackwell_two stories</button></Link>
+    <Link href="/issue1/blackwell"><button>gabriel blackwell_scenery + bedtime</button></Link>
     <Link href="/issue1/romanosky"><button>christa romanosky_three poems</button></Link>
     <Link href="/issue1/two-eyes-in-one"><button>vi khi nao_2 eyes in 1 eye: a delirium</button></Link>
     <Link href="/issue1/even-flesh"><button>even flesh seems a formality_or: vi khi nao's organic oscillations</button></Link>

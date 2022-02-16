@@ -49,7 +49,7 @@ export default function Issue2() {
         <Link href="/issue2/lewis"><div className={styles.workLink}>susan lewis_two poems</div></Link>
       </div>
       <div className={styles.col2}>
-        <Link href="/issue2/lakghomi"><div className={styles.workLink}>babak lakghomi_two stories</div></Link>
+        <Link href="/issue2/lakghomi"><div className={styles.workLink}>babak lakghomi_a request + say her name</div></Link>
       </div>
       <div className={styles.col2}>
           <Link href="/issue2/le-yeaste"><div className={styles.workLink}>vi khi nao_le yeaste</div></Link>

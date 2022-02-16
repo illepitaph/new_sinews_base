@@ -4,7 +4,7 @@ import RightBlackTitle from '../../components/rightBlackTitle.js'
 import LeftGrayTitle from '../../components/leftGrayTitle.js'
 import StandardProse from '../../components/standardProse.js'
 import Footer from '../../components/footer.js'
-Blackwell.title = "gabriel_blackwell ~ two_stories — new_sinews";
+Blackwell.title = "gabriel_blackwell ~ scenery + bedtime — new_sinews";
 
 export default function Blackwell() {
   return (

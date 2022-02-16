@@ -4,7 +4,7 @@ import RightBlackTitle from '../../components/rightBlackTitle.js'
 import LeftGrayTitle from '../../components/leftGrayTitle.js'
 import StandardProse from '../../components/standardProse.js'
 import Footer from '../../components/footer.js'
-Lakghomi.title = "babak_lakghomi ~ two_stories — new_sinews"
+Lakghomi.title = "babak_lakghomi ~ a request + say her name — new_sinews"
 
 export default function Lakghomi() {
   return (
