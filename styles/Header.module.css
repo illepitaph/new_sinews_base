@@ -210,6 +210,7 @@
   text-transform:lowercase;
   letter-spacing:1.5px;
   cursor:pointer;
+  transition:1.2s background-color;
 }
 
 .siteNav > .dropDown > button:not(last-child) {
@@ -225,9 +226,9 @@
 }
 
 .issueContent > button {
-  border:5px double #c0a5a5;
+  border:4px double #c0a5a5;
   font-family:"lores-9-plus-narrow", monospace;
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   background-color:black;
   color:snow;
   opacity: 0.9;
@@ -238,7 +239,8 @@
 }
 
 .siteNav > .dropDown > button:hover, .home:hover, .about:hover {
-  opacity:0.63;
+  background-color:#c0a5a5;
+  color:black;
 }
 
 .siteNav > .dropDown > button:hover + .issueContent {
