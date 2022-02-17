@@ -25,7 +25,7 @@ export default function Moss() {
       e`}<br/><br/>{`ve ld `}<span className={styles.t}>t</span>{`  `}</span> <br/>{`l i gh `}<span
       className={styles.t}>t</span></pre>
       <br/>
-      <CenterGrayTitle>... ... <i>samuel</i> ... <br/>... <i>moss</i> ... ...</CenterGrayTitle>
+      <CenterGrayTitle> ... <i>samuel</i> ... <br/>... <i>moss</i> ... </CenterGrayTitle>
       <br/>
       <br/>
       <br/>
