@@ -15,8 +15,8 @@ export default function Header(props) {
   <Link href="/issue5/terrarium"><button>vi khi nao + jessica alexander_when my body was a glass terrarium</button></Link>
   <Link href="/issue5/theater"><button>mike corrao_theater of materials</button></Link>
   <Link href="/issue5/theater"><button>samuel moss_the veldt light</button></Link>
-  <Link href="/issue5/bisagni"><button>paul bisagni_nice time formula + jumbo marvelous domesticity jilt + by dint of little else</button></Link>
   <Link href="/issue5/feldman"><button>jacqueline feldman_passel: eight stories</button></Link>
+  <Link href="/issue5/bisagni"><button>paul bisagni_nice time formula + jumbo marvelous domesticity jilt + by dint of little else</button></Link>
   <Link href="/issue5/bios"><button>issue5_bios</button></Link>
     </div>
   </div>
