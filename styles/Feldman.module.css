@@ -33,3 +33,34 @@
   text-transform: uppercase;
 
 }
+
+@media (max-width:429px) and (orientation:portrait) {
+
+  .faintShadowMain {
+    font-size:3.3rem;
+    letter-spacing:0.2rem;
+  }
+
+  .faintShadowAncillary, .alternateTitleColor, .uppercaseAlternateTitleColor  {
+    font-size:2.1rem;
+    letter-spacing:0.2rem;
+  }
+
+}
+
+@media (max-width:391px) and (orientation:portrait) {
+
+  .faintShadowAncillary, .alternateTitleColor, .uppercaseAlternateTitleColor  {
+    font-size:2rem;
+    letter-spacing:0.1rem;
+  }
+
+}
+
+@media (max-width:391px) and (orientation:portrait) {
+
+  .faintShadowAncillary, .alternateTitleColor, .uppercaseAlternateTitleColor  {
+    font-size:1.5rem;
+  }
+
+}
