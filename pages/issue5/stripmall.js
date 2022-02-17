@@ -33,10 +33,11 @@ export default function StripMall() {
         className={styles.inverseUppercase}>n</span> e<span
         className={styles.duskShadowUppercase}>t</span><span
         className={styles.inverse}>h</span><span
-        className={styles.duskShadowUppercase}>n</span>ic</span><br/><span
+        className={styles.duskShadowUppercase}>n</span><span
+        className={styles.inverse}>i</span>c</span><br/><span
         className={styles.inverse}>s</span><span
-        className={styles.inverseUppercase}>t</span><span
-        className={styles.duskShadowUppercase}>r</span>ip ma<span
+        className={styles.duskShadowUppercase}>t</span><span
+        className={styles.inverseUppercase}>r</span>ip ma<span
         className={styles.inverseUppercase}>ll</span></span></span></RightGrayTitle>
 
         <br/>

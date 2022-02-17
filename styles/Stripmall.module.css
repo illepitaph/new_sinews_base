@@ -2,8 +2,7 @@
   font-size:4rem;
   margin-left:3rem;
   font-style:italic;
-  text-shadow:2px 2px snow,
-              4px 4px black;
+  text-shadow:10px 10px  	#E8E8E8;
 }
 
 .inverse {
@@ -15,8 +14,7 @@
 .duskShadowUppercase {
   font-size:4rem;
   font-style:italic;
-  text-shadow:2px 2px snow,
-              4px 4px black;
+  text-shadow:3px 3px gainsboro;
   text-transform:uppercase;
 }
 
@@ -28,5 +26,5 @@
 }
 
 .lineHeight {
-  line-height:14vh;
+  line-height:13vh;
 }
