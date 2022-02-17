@@ -28,7 +28,7 @@
 }
 
 
-.dataBlood {
+.rightLineation {
   font-family: "base-9-sans", sans-serif;
   font-weight: 300;
   font-style: normal;
@@ -40,7 +40,7 @@
   margin-right:7vw;
 }
 
-.zeroProgress {
+.leftLineation {
   font-family: "base-9-sans", sans-serif;
   font-weight: 300;
   font-style: normal;
@@ -119,14 +119,13 @@
 
 }
 
-
 @media (max-width: 927px) and (orientation:landscape) {
 
-  .dataBlood {
+  .rightLineation {
     margin-right:2vw;
   }
 
-  .zeroProgress {
+  .leftLineation {
       margin-left:2vw;
     }
 
@@ -134,47 +133,105 @@
 
 @media (max-width: 913px) and (orientation:portrait) {
 
-  .dataBlood {
+  .rightLineation {
     margin-right:2vw;
   }
 
-  .zeroProgress {
+  .leftLineation {
     margin-left:2vw;
+    }
+
+  .smallTextWall, .mediumTextWall, .largeTextWall , .extraLargeTextWall, .extraExtraLargeTextWall {
+      letter-spacing:1vw;
+    }
+
+    .smallTextWall {
+      font-size:5rem;
+    }
+
+    .mediumTextWall {
+      font-size:6.5rem;
+    }
+
+    .largeTextWall {
+      font-size:7rem;
+    }
+
+    .extraLargeTextWall {
+      font-size:7.5rem;
+    }
+
+    .extraExtraLargeTextWall {
+      font-size:7.9rem;
     }
 
 }
 
 @media (max-width: 667px) and (orientation:landscape) {
 
-  .dataBlood, .zeroProgress {
+  .rightLineation, .leftLineation {
     white-space: pre-line;
   }
 }
 
 @media (max-width: 541px) and (orientation:portrait) {
 
-  .dataBlood {
+  .rightLineation {
     font-size:1rem;
     margin-right:2vw;
     white-space: pre-line;
   }
 
-  .zeroProgress {
-      font-size:1rem;
-      margin-left:2vw;
-      white-space: pre-line;
+  .leftLineation {
+    font-size:1rem;
+    margin-left:2vw;
+    white-space: pre-line;
     }
+
+  .middleishLineation {
+      font-size:1rem;
+      white-space: pre-line;
+      }
+
+      .smallTextWall {
+        font-size:3rem;
+      }
+
+      .mediumTextWall {
+        font-size:4.5rem;
+      }
+
+      .largeTextWall {
+        font-size:5rem;
+      }
+
+      .extraLargeTextWall {
+        font-size:5.5rem;
+      }
+
+      .extraExtraLargeTextWall {
+        font-size:5.9rem;
+      }
 
 }
 
-@media (max-width: 415px) and (orientation:portrait) {
+@media (max-width: 429px) and (orientation:portrait) {
 
-  .dataBlood {
+  .titleShadow {
+    font-size:2.1rem;
+  }
+
+  .rightLineation {
     margin-right:1vw;
   }
 
-  .zeroProgress {
+  .leftLineation {
       margin-left:1vw;
+    }
+
+  .smallTextWall, .mediumTextWall, .largeTextWall , .extraLargeTextWall, .extraExtraLargeTextWall {
+        line-height:12vh;
+        letter-spacing:0.5vw;
     }
 
 }
@@ -182,11 +239,11 @@
 
 @media (max-width: 376px) and (orientation:portrait) {
 
-  .dataBlood {
+  .rightLineation {
       font-size:0.9rem;
   }
 
-  .zeroProgress {
+  .leftLineation {
       font-size:0.9rem;
     }
 
