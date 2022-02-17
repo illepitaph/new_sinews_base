@@ -119,15 +119,47 @@
 
 }
 
+@media (width: 1080px) and (height:810px) {
+
+    .smallTextWall, .mediumTextWall, .largeTextWall , .extraLargeTextWall, .extraExtraLargeTextWall {
+        letter-spacing:2vw;
+      }
+
+}
+
+@media (width: 1024px) and (height:768px) {
+
+    .smallTextWall, .mediumTextWall, .largeTextWall , .extraLargeTextWall, .extraExtraLargeTextWall {
+        letter-spacing:1.8vw;
+      }
+
+}
+
+@media (width: 1024px) and (height:600px) {
+
+    .smallTextWall, .mediumTextWall, .largeTextWall , .extraLargeTextWall, .extraExtraLargeTextWall {
+        letter-spacing:1.8vw;
+      }
+
+}
+
 @media (max-width: 927px) and (orientation:landscape) {
 
   .rightLineation {
     margin-right:2vw;
   }
 
+  .middleishLineation {
+    margin-left:20vw;
+  }
+
   .leftLineation {
       margin-left:2vw;
     }
+
+    .smallTextWall, .mediumTextWall, .largeTextWall , .extraLargeTextWall, .extraExtraLargeTextWall {
+        letter-spacing:1.3vw;
+      }
 
 }
 
@@ -139,6 +171,10 @@
 
   .leftLineation {
     margin-left:2vw;
+    }
+
+    .middleishLineation {
+      margin-left:20vw;
     }
 
   .smallTextWall, .mediumTextWall, .largeTextWall , .extraLargeTextWall, .extraExtraLargeTextWall {
@@ -167,11 +203,64 @@
 
 }
 
+@media (max-width: 855px) and (orientation:landscape) {
+
+      .smallTextWall {
+        font-size:5rem;
+      }
+
+      .mediumTextWall {
+        font-size:6.5rem;
+      }
+
+      .largeTextWall {
+        font-size:7rem;
+      }
+
+      .extraLargeTextWall {
+        font-size:7.5rem;
+      }
+
+      .extraExtraLargeTextWall {
+        font-size:7.9rem;
+      }
+
+}
+
+@media (width: 720px) and (height:540px) {
+
+
+.smallTextWall {
+  font-size:4rem;
+}
+
+.mediumTextWall {
+  font-size:5.5rem;
+}
+
+.largeTextWall {
+  font-size:6rem;
+}
+
+.extraLargeTextWall {
+  font-size:6.5rem;
+}
+
+.extraExtraLargeTextWall {
+  font-size:6.9rem;
+}
+
+}
+
 @media (max-width: 667px) and (orientation:landscape) {
 
   .rightLineation, .leftLineation {
     white-space: pre-line;
   }
+
+  .smallTextWall, .mediumTextWall, .largeTextWall , .extraLargeTextWall, .extraExtraLargeTextWall {
+        line-height:47vh;
+    }
 }
 
 @media (max-width: 541px) and (orientation:portrait) {
@@ -191,6 +280,7 @@
   .middleishLineation {
       font-size:1rem;
       white-space: pre-line;
+        margin-left:11vw;
       }
 
       .smallTextWall {
@@ -231,8 +321,15 @@
 
   .smallTextWall, .mediumTextWall, .largeTextWall , .extraLargeTextWall, .extraExtraLargeTextWall {
         line-height:12vh;
-        letter-spacing:0.5vw;
     }
+
+    .smallTextWall {
+          letter-spacing:0.6vw;
+      }
+
+      .mediumTextWall, .largeTextWall, .extraLargeTextWall, .extraExtraLargeTextWall {
+            letter-spacing:0.4vw;
+        }
 
 }
 
@@ -247,4 +344,23 @@
       font-size:0.9rem;
     }
 
+    .middleishLineation {
+        font-size:0.9rem;
+        }
+
+        .smallTextWall, .mediumTextWall, .largeTextWall , .extraLargeTextWall, .extraExtraLargeTextWall {
+              line-height:17vh;
+          }
+
+}
+
+@media (max-width: 361px) and (orientation:portrait) {
+
+  .smallTextWall, .mediumTextWall, .largeTextWall , .extraLargeTextWall, .extraExtraLargeTextWall {
+        line-height:19vh;
+    }
+
+    .mediumTextWall, .largeTextWall, .extraLargeTextWall, .extraExtraLargeTextWall {
+          letter-spacing:0.1vw;
+      }
 }
