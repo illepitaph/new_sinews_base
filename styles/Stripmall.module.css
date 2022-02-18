@@ -1,6 +1,5 @@
 .duskShadow {
   font-size:4rem;
-  margin-left:3rem;
   font-style:italic;
   text-shadow:10px 10px  	#E8E8E8;
 }
@@ -27,4 +26,46 @@
 
 .lineHeight {
   line-height:13vh;
+}
+
+@media (max-width:916px) and (orientation:landscape) {
+  .lineHeight {
+    line-height:19vh;
+  }
+}
+
+@media (max-width:801px) and (orientation:landscape) {
+  .lineHeight {
+    line-height:25vh;
+  }
+}
+
+@media (max-width:667px) and (orientation:landscape) {
+  .duskShadow, .inverse, .duskShadowUppercase, .inverseUppercase {
+    font-size:3.7rem;
+  }
+}
+
+@media (width:540px) and (height:720px) {
+  .duskShadow, .inverse, .duskShadowUppercase, .inverseUppercase {
+    font-size:3rem;
+  }
+}
+
+@media (max-width:429px) and (orientation:portrait) {
+  .duskShadow, .inverse, .duskShadowUppercase, .inverseUppercase {
+    font-size:2.3rem;
+  }
+}
+
+@media (max-width:394px) and (orientation:portrait) {
+  .duskShadow, .inverse, .duskShadowUppercase, .inverseUppercase {
+    font-size:2rem;
+  }
+}
+
+@media (max-width:281px) and (orientation:portrait) {
+  .duskShadow, .inverse, .duskShadowUppercase, .inverseUppercase {
+    font-size:1.5rem;
+  }
 }
