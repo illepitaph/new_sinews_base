@@ -12,7 +12,7 @@ export default function StripMall() {
       <>
           <Head/>
 
-       <Header headerBackground="stoughBackground"/>
+       <Header headerBackground="luBackground"/>
 
         <RightGrayTitle><span className={styles.lineHeight}><span className={styles.duskShadow}>p<span
         className={styles.inverse}>r </span>opo <span
