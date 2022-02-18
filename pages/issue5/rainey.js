@@ -1,27 +1,36 @@
 import Head from 'next/head'
 import Header from '../../components/header.js'
 import RightBlackTitle from '../../components/rightBlackTitle.js'
-import RightGrayTitle from '../../components/rightGrayTitle.js'
+import LeftGrayTitle from '../../components/leftGrayTitle.js'
 import StandardProse from '../../components/standardProse.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Rainey.module.css'
+Rainey.title = "delia_rainey ~ somewhere_better_than_this_place — new_sinews"
 
-export default function Feldman() {
+export default function Rainey() {
   return (
       <>
           <Head/>
 
        <Header headerBackground="raineyBackground"/>
-       <RightGrayTitle><span className={styles.titleShadow}>s<span
-       className={styles.inverseShadow}>o</span>me<span
-       className={styles.inverseShadow}>wh<span
-       className={styles.inverseShadowUppercase}>e</span></span><span
-       className={styles.titleShadowUppercase}>r</span><span
-       className={styles.inverseShadow}>e</span> be<span
-       className={styles.titleShadowUppercase}>t t</span>er <br/><span
+       <LeftGrayTitle><span className={styles.titleShadow}>so<span
+       className={styles.inverseShadowUppercase}>m</span>e w<span
+       className={styles.inverseShadow}>h<span
+       className={styles.titleShadowUppercase}>e</span></span><span
+       className={styles.inverseShadowUppercase}>r</span>e be<span
+       className={styles.titleShadowUppercase}>t<span
+       className={styles.inverseShadowUppercase}>t</span></span>e<span
+       className={styles.inverseShadowUppercase}>r</span> <br/><span
        className={styles.inverseShadow}><span
-       className={styles.inverseShadowUppercase}>t</span>han <span
-       className={styles.inverseShadowUppercase}>t</span>his</span></span></RightGrayTitle>
+       className={styles.titleShadowUppercase}>t</span>h<span
+       className={styles.titleShadow}>a</span><span
+       className={styles.inverseShadowUppercase}>n</span> <span
+       className={styles.titleShadowUppercase}>t</span>h<span
+       className={styles.titleShadow}>i</span><span
+       className={styles.inverseShadowUppercase}>s</span> <br/>p<span
+       className={styles.titleShadowUppercase}>l</span>a<span
+       className={styles.inverseShadowUppercase}>c</span><span
+       className={styles.titleShadowUppercase}>e</span></span></span></LeftGrayTitle>
 
       <RightBlackTitle>——<i>delia<br/>rainey</i></RightBlackTitle>
       <br/>
@@ -178,7 +187,7 @@ export default function Feldman() {
       A fuzzy curtain leaks tiny bits of blue light. Baby blue. At the hospital, I look at my mom’s notebook. She
       has names of all the doctors, words the doctors had said, the time when my dad was sent to the emergency
       room after he wouldn’t wake up from surgery. At the bottom of the page she wrote:  <span
-      className={styles.grayShadowSpecial}>blur</span>
+      className={styles.shadowSpecial}>blur</span>
       <br/>
       <br/>
       Through my mom’s handwriting, I wrote. When I was a kid, my twin sister H and I would draw pictures and
@@ -315,7 +324,7 @@ export default function Feldman() {
       around us, the bugs of Midwest summer are grinding.
       <br/>
       <br/>
-      In <span className={styles.grayShadowSpecial}>Illness as Metaphor</span>, Susan Sontag begins: “Everyone who is
+      In <span className={styles.shadowSpecial}>Illness as Metaphor</span>, Susan Sontag begins: “Everyone who is
       born holds dual citizenship, in the kingdom of the well and in the kingdom of the sick. Although we all prefer
       to use only the good passport, sooner or later each of us is obliged, at least for a spell, to identify
       ourselves as citizens of that other place.” I hold onto the word <i>spell</i> like a charm. The charm is
@@ -470,7 +479,7 @@ export default function Feldman() {
       side, B side:
       <br/>
       <br/>
-      “Somewhere better than this place.” / “Nowhere better than this place.”
+      <span className={styles.shadowSpecial}>“Somewhere better than this place.” / “Nowhere better than this place.”</span>
       <br/>
       <br/>
       H visits my dad  at the rehab center almost every day. She calls me and tells me she brought her guitar and
@@ -508,7 +517,7 @@ export default function Feldman() {
       my own becomes my escape.
       <br/>
       <br/>
-      n my kitchen by the tall cabinets, that’s where I stood when my sister N told me on the phone, “I
+      In my kitchen by the tall cabinets, that’s where I stood when my sister N told me on the phone, “I
       have some bad news.” The diagnosis of the dark spot on his brain. Every phone call I get since provokes
       the blood-call in me. My ancestors are calling out each others’ names in the woods.
       <br/>
@@ -600,7 +609,7 @@ export default function Feldman() {
       <br/>
       <br/>
       Whenever I couldn’t sleep as a little kid, my dad would tell me, “Think about the word <span
-      className={styles.grayShadowSpecial}>peace</span>.” My dad
+      className={styles.shadowSpecial}>peace</span>.” My dad
       is a really meditative guy, he loves candles and incense. The color of my nighttime memories of my
       childhood at my parents' house look dark brown in my head. My most well-known vision is the memorized
       maze of walking down the short length of my parents’ house at night. A house of pacing, well-lived
@@ -665,7 +674,7 @@ export default function Feldman() {
       I want to send my dad a text on his flip phone, but it’s on the brown dresser in the brown room. I want to
       send my dad an email to his Yahoo account. I want to eat pistachios and put our shells in the same bowl. I
       want to write a sentence in the clouds so that my dad can see it from his rehab window. I want to write words
-      that are just water. I want to write devotion devotion devotion devotion devotion devotion devotion. 
+      that are just water. I want to write devotion devotion devotion devotion devotion devotion devotion.
       </StandardProse>
 
        <Footer/>

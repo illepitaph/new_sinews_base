@@ -1,13 +1,13 @@
 .titleShadow {
   color:black;
   text-shadow:2px 2px snow,
-              4px 4px #b0b0b0;
+              6px 6px #aaf0d1;
+  letter-spacing: 0.2rem;
 }
 
 .inverseShadow {
   color:#aaf0d1;
-  text-shadow:4px 4px snow,
-              6px 6px black;
+  text-shadow:3px 5px black;
 }
 
 .titleShadowUppercase {
@@ -19,8 +19,8 @@
 
 .inverseShadowUppercase {
   color:#aaf0d1;
-  text-shadow:4px 4px snow,
-              6px 6px black;
+  text-shadow:2px 2px snow,
+              4px 5px black;
   text-transform:uppercase;
 }
 
@@ -31,12 +31,11 @@
   text-align:center;
 }
 
-.grayShadowSpecial {
-  font-size:1.5rem;
-  color:#b0b0b0;
+.shadowSpecial {
+  font-size:1.7rem;
+  color:#aaf0d1;
   font-family:"lores-9-plus-wide", monospace;
-  text-shadow:1px 1px snow,
-              2px 2px black;
-  letter-spacing:0.4rem;
-  font-style: italic;
+  text-shadow:1px 2px black;
+  letter-spacing:0.1rem;
+  text-transform: uppercase;
 }
