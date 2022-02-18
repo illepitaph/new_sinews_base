@@ -5,7 +5,7 @@ import RightGrayTitle from '../../components/rightGrayTitle.js'
 import StandardProse from '../../components/standardProse.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Feldman.module.css'
-Feldman.title = "jacqueline_feldman ~ passel — new_sinews"
+Feldman.title = "jacqueline_feldman ~ passel: eight stories — new_sinews"
 
 
 export default function Feldman() {

@@ -1,4 +1,5 @@
 .titleShadow {
+  font-size:4.3rem;
   color:black;
   text-shadow:2px 2px snow,
               6px 6px #aaf0d1;
@@ -39,4 +40,20 @@
   text-shadow: 1px 1px black;
   letter-spacing:0.1rem;
   text-transform: uppercase;
+}
+
+@media (max-width:413px) and (orientation:portrait) {
+
+  .titleShadow {
+    font-size:3.7rem;
+  }
+
+}
+
+@media (max-width:281px) and (orientation:portrait) {
+
+  .titleShadow {
+    font-size:2.7rem;
+  }
+
 }
