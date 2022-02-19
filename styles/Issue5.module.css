@@ -1,17 +1,41 @@
-.fullPageBackground {
-  position: fixed;
-  background: url("../public/images/Issue5Cover3.jpg") no-repeat center center fixed;
-  background-size: contain;
-  min-height: 100%;
-  min-width: 100%;
-  top: 0px;
-  right: 0px;
-  bottom: 0px;
-  left: 0px;
-  margin: 0;
+.bodyContainer {
+  position:absolute;
+  min-height:100%;
+  min-width:100%;
   display:grid;
-  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-columns: repeat(3, 1fr);
+  margin: 0;
+}
+
+
+.pageBackgroundOne {
+  position:relative;
+  background: url("../public/images/Issue5Cover1.jpg");
+  background-size: cover;
+  background-position:top;
+  min-height:100%;
+  min-width:33%;
+  margin:0;
+}
+
+.pageBackgroundTwo {
+  position:relative;
+  background: url("../public/images/Issue5Cover2.jpg");
+  background-size: cover;
+  background-position:center;
+  min-height:100%;
+  min-width:33%;
+  margin:0;
+}
+
+.pageBackgroundThree {
+  position:relative;
+  background: url("../public/images/Issue5Cover3.jpg");
+  background-size: cover;
+  background-position:bottom;
+  min-height:100%;
+  min-width:33%;
+  margin:0;
 }
 
 .titleAndSubtitle {
@@ -54,318 +78,4 @@
   color: black;
   text-shadow: 2px 4px snow;
   text-transform:lowercase;
-}
-
-.workStructure {
-  position:relative;
-  grid-area:1 / 2 / 7 / 5;
-  display:grid;
-  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-auto-flow:column;
-}
-
-.issueContents {
-  position:relative;
-  display: grid;
-  grid-auto-flow: row;
-  height: 70vh;
-  margin:2vh 0 0 53vw;
-  align-content: space-between;
-  grid-column:4 / span 1;
-}
-
-.workColumn {
-  width:21rem;
-  margin-bottom:1.1vh;
-}
-
-.workLink {
-  position: relative;
-  font-family: "ubuntu", monospace;
-  color: white;
-  font-size: 1.3em;
-  text-transform: uppercase;
-  letter-spacing:0.3rem;
-}
-
-.workLink:hover {
-  color:#6b6b6b;
-}
-
-.siteShortcuts {
-  grid-column:3 / span 1;
-  margin-top:16px;
-}
-
-.siteShortcuts > .linkButton {
-  position: relative;
-  border: 0;
-  background-color: black;
-  padding: 1.5vh 1.4vw;
-  font-size: 0.7rem;
-  border-radius: 44px;
-  cursor: pointer;
-}
-
-.siteShortcuts > .linkButton:not(:first-child) {
-  margin-left:10px;
-}
-
-.innerSiteLinkTag, .twitterLinkTag {
-  position: relative;
-  font-family: "lores-9-plus-narrow", monospace;
-  text-decoration: none;
-  color: white;
-}
-
-.twitterLinkTag {
-  position: relative;
-  background-color: inherit;
-  padding: 1.3vh 1.7vw;
-  border: 1px solid white;
-  border-radius: 50%;
-}
-
-
-@media (width:1280px) and (height:800px) and (orientation:landscape) {
-
-  .workLink {
-    font-size:1.2rem;
-  }
-
-  .issueContents {
-    margin:1vh 0 0 47vw;
-  }
-}
-
-@media (width:1080px) and (height:810px) and (orientation:landscape) {
-
-  .issueContents {
-    margin:1vh 0 0 47vw;
-  }
-}
-
-@media (width:1024px) and (height:768px) and (orientation:landscape) {
-
-  .issueContents {
-    margin:1vh 0 0 3vw;
-  }
-}
-
-@media (width:1024px) and (height:600px) and (orientation:landscape) {
-
-  .workLink {
-    font-size:1.1rem;
-  }
-
-  .issueContents {
-    margin:1.2vh 0 0 23vw;
-  }
-}
-
-@media (max-width: 767.98px) {
-
-  .titleAndSubtitle {
-    position:relative;
-    display:grid;
-    grid-template-columns:1fr 1fr;
-    grid-area: 1 / 1 / 4 / 2;
-    grid-auto-flow: column;
-  }
-
-  .issueTitle {
-    margin-left:4vw;
-  }
-
-  .issueContents {
-    margin:1vh 0 0 1vw;
-  }
-
-  .workColumn {
-    max-width:11rem;
-    margin-bottom:0.5rem;
-  }
-
-  .workLink {
-    position: relative;
-    font-family: "ubuntu", sans-serif;
-    color: white;
-    font-size: 0.9em;
-    text-transform: uppercase;
-  }
-
-  .siteShortcuts > .linkButton {
-    font-size: 0.6rem;
-    padding:0.7vh 0.8vw;
-  }
-
-  .twitterLinkTag {
-    padding: 0.7vh 0.8vw;
-  }
-
-  .siteShortcuts > .linkButton:not(:first-child) {
-    margin-left:3px;
-  }
-
- }
-
- @media (max-width: 997.98px) and (orientation: landscape) {
-
-   .pageTitle {
-     font-size: 1.7rem;
-   }
-
-   .issueTitle {
-     font-size: 1.7rem;
-   }
-
-   .issueContents {
-     margin:3vh 0 0 40vw;
-   }
-
-   .workColumn {
-     margin-bottom:1vh;
-   }
-
-   .workLink {
-     font-size: 0.6rem;
-     letter-spacing:0.2rem;
-     font-weight:500;
-   }
-
-}
-
-@media (max-width: 991.98px) {
-
-  .titleAndSubtitle {
-    position:relative;
-    display:grid;
-    grid-template-columns:1fr 1fr;
-    grid-area: 1 / 1 / 4 / 2;
-    grid-auto-flow: column;
-  }
-
-  .issueTitle {
-    margin-left:14vw;
-  }
-
-  .issueContents {
-    margin:3vh 0 0 23vw;
-  }
-}
-
-@media (max-width: 926px) and (orientation:landscape) {
-
-  .issueContents {
-    margin:3vh 0 0 40vw;
-  }
-
-  .workLink {
-    font-size: 0.98rem;
-  }
-
-}
-
-@media (max-width: 855px) and (orientation:landscape) {
-
-  .workLink {
-    font-size: 0.93rem;
-  }
-
-}
-
-@media (max-width: 813px) and (orientation:landscape) {
-
-  .issueContents {
-    margin:3vh 0 0 36vw;
-  }
-
-
-  .workLink {
-    font-size: 1rem;
-    letter-spacing:0.1rem;
-  }
-
-}
-
-@media (max-width: 761px) and (orientation:landscape) {
-
-  .issueContents {
-    margin:3vh 0 0 51vw;
-  }
-
-
-  .workLink {
-    font-size: 0.6rem;
-    letter-spacing:0.1rem;
-  }
-
-}
-
-@media (max-width: 667px) and (orientation:landscape) {
-
-  .issueContents {
-    margin:3vh 0 0 47vw;
-  }
-
-}
-
-@media (max-width: 429px) and (orientation:portrait) {
-
-  .issueTitle {
-    margin-left:4vw;
-  }
-
-  .workLink {
-    letter-spacing:0.17rem;
-  }
-}
-
-
-@media (max-width: 391px) and (orientation:portrait) {
-
-  .issueContents {
-    margin:3vh 0 0 16vw;
-  }
-}
-
-@media (max-width: 376px) and (orientation:portrait) {
-
-  .issueContents {
-    margin:3vh 0 0 21vw;
-  }
-}
-
-@media (max-width: 361px) and (orientation:portrait) {
-
-  .issueContents {
-    margin:3vh 0 0 15vw;
-  }
-}
-
-@media (max-width: 291px) and (orientation:portrait) {
-
-  .issueContents {
-    margin:3vh 0 0 3vw;
-  }
-
-  .workLink {
-    font-size:0.8rem;
-  }
-}
-
-@media (max-height: 291px) and (orientation:landscape) {
-
-  .pageTitle {
-    font-size: 1.2rem;
-  }
-
-  .issueTitle {
-    font-size: 1.3rem;
-  }
-
-  .workLink {
-    font-size:0.5rem;
-  }
 }
