@@ -27,26 +27,31 @@ export default function Issue5() {
        <div className={styles.workColumn}>
          <Link href="/issue5/feldman"><div className={styles.workLink}>jacqueline feldman_<i>passel: eight stories</i></div></Link>
        </div>
+       <Link href="/"><button className={styles.linkButtonOne}>new sinews</button></Link>
        </div>
        </div>
 
         <div className={styles.pageBackgroundTwo}>
         <div className={styles.workStructureTwo}>
         <div className={styles.workColumnTwo}>
-          <Link href="/issue5/yrclimate"><div className={styles.workLink}>steven alvarez_yr climate</div></Link>
+          <Link href="/issue5/yrclimate"><div className={styles.workLink}>steven alvarez_<i>yr climate</i></div></Link>
         </div>
         <div className={styles.workColumnTwo}>
-          <Link href="/issue5/stripmall"><div className={styles.workLink}>alvin lu_proposal for the construction of an ethnic strip mall</div></Link>
+          <Link href="/issue5/stripmall"><div className={styles.workLink}>alvin lu_<i>proposal for the construction of an ethnic strip mall</i></div></Link>
         </div>
         <div className={styles.workColumnTwo}>
-          <Link href="/issue5/rainey"><div className={styles.workLink}>delia rainey_somewhere better than this place</div></Link>
+          <Link href="/issue5/rainey"><div className={styles.workLink}>delia rainey_<i>somewhere better than this place</i></div></Link>
         </div>
         <div className={styles.workColumnTwo}>
-          <Link href="/issue5/bisagni"><div className={styles.workLink}>paul bisagni_nice time formula + jumbo marvelous domesticity
-          jilt + by dint of little else</div></Link>
+          <Link href="/issue5/bisagni"><div className={styles.workLink}>paul bisagni_<i>nice time formula + jumbo marvelous domesticity
+          jilt + by dint of little else</i></div></Link><br/>
           <div className={styles.workColumnTwo}>
             <div className={styles.workLink}><Link href="/issue5/bios">~~~ contri butor_ _ _b  i  os ~~~</Link></div>
         </div>
+        <div className={styles.linkButtonBox}>
+        <Link href="/"><button className={styles.linkButtonTwo}>about</button></Link>
+          <Link href="/"><button className={styles.linkButtonTwo}>tweeter</button></Link>
+          </div>
         </div>
         </div>
           </div>

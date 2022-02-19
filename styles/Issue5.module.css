@@ -57,16 +57,21 @@
   font-family:"lores-15-bold-alt-oakland", monospace;
   text-shadow:2px 2px black,
               4px 4px #D10000;
-  font-size:1.7rem;
+  font-size:1.65rem;
   font-weight: 700;
   letter-spacing: 0.3rem;
-  margin:2vh 1vw 1vh 6vw;
+  margin:9vh 1vw 1vh 6vw;
   text-transform: uppercase;
 }
 
 .workColumn {
   position:relative;
-  max-width:19vw;
+  max-width:21vw;
+}
+
+.linkButtonOne {
+  width:50%;
+  border:none;
 }
 
 
@@ -91,7 +96,7 @@
   font-family:"lores-15-bold-alt-oakland", monospace;
   text-shadow:2px 2px black,
               4px 4px #D10000;
-  font-size:1.7rem;
+  font-size:1.65rem;
   font-weight: 700;
   letter-spacing: 0.3rem;
   margin:6vh 1vw 1vh 6vw;
@@ -101,6 +106,16 @@
 .workColumnTwo {
   position:relative;
   max-width:26vw;
+}
+
+.linkButtonBox {
+  display:flex;
+  justify-content:space-around;
+  margin-top:2vh;
+}
+
+.linkButtonTwo {
+  border:none;
 }
 
 .workLink {
