@@ -17,8 +17,8 @@ export default function Issue5() {
 
       <div className={styles.pageBackgroundThree}>
       <div className={styles.titleAndSubtitle}>
-        <div className={styles.pageTitle}>n <i>e </i>w __   <span
-        className={styles.inverseTitleColor}>  s <i>i </i> n</span><br/>  __  e<i> w </i> s</div>
+        <div className={styles.pageTitle}>n <i>e </i>w <span
+        className={styles.inverseTitleColor}>+  s <i>i </i> n<br/>  + </span>e<i> w </i> s</div>
         <div className={styles.issueTitle}>i<br/> s<br/> s<br/> u<br/> e <br/><br/>      <span
         className={styles.inverseSubtitleColor}>f<br/>i<br/>v<br/>e</span></div>
           </div>

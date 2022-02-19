@@ -1,3 +1,30 @@
+@keyframes skew1 {
+  0% {
+    transform: skew(30deg, 20deg);
+  }
+  100% {
+    transform: skew(0);
+  }
+}
+
+@keyframes skew2 {
+  0% {
+    transform: skew(90deg, 120deg);
+  }
+  100% {
+    transform: skew(0);
+  }
+}
+
+@keyframes skew3 {
+  0% {
+    transform: skew(60deg, 10deg);
+  }
+  100% {
+    transform: skew(0);
+  }
+}
+
 .bodyContainer {
   position:absolute;
   min-height:100%;
@@ -9,6 +36,7 @@
 
 
 .pageBackgroundOne {
+  animation: skew1 0.3s ease-in-out 0s 1;
   position:relative;
   background: url("../public/images/Issue5Cover1.jpg");
   background-size: cover;
@@ -19,6 +47,7 @@
 }
 
 .pageBackgroundTwo {
+  animation: skew2 1.3s ease-in-out 0s 1;
   position:relative;
   background: url("../public/images/Issue5Cover2.jpg");
   background-size: cover;
@@ -29,6 +58,7 @@
 }
 
 .pageBackgroundThree {
+  animation: skew2 2.3s ease-in-out 0s 1;
   position:relative;
   background: url("../public/images/Issue5Cover3.jpg");
   background-size: cover;
@@ -50,11 +80,13 @@
   position:relative;
   grid-column: 1 / span 1;
   font-family: "lores-9-plus-wide-bold-alt", monospace;
-  color: #6b6b6b;
+  color: #D10000;
   font-size: 3.2rem;
+  text-shadow: 2px 2px snow,
+              4px 4px black;
   text-transform: lowercase;
   max-width:8%;
-  margin:2vh 0 0 2vw;
+  margin:2vh 0 0 4vw;
 }
 
 .issueTitle {
@@ -66,12 +98,14 @@
   text-shadow:1px 1px #b0b0b0;
   font-size: 2.2rem;
   text-transform: uppercase;
-  max-width:8%
+  max-width:8%;
+  margin-left:7vw;
 }
 
 .inverseTitleColor {
   color: snow;
-  text-shadow: 6px 4px #2cbae7;
+  text-shadow: 6px 4px 14px black;
+  text-transform: uppercase;
 }
 
 .inverseSubtitleColor {
