@@ -32,6 +32,7 @@
   display:grid;
   grid-template-columns: repeat(3, 1fr);
   margin: 0;
+  overflow: hidden;
 }
 
 
@@ -45,6 +46,17 @@
   min-width:33%;
   margin:0;
 }
+
+.workColumn {
+  position:relative;
+  width:10vw;
+  margin-bottom:1.1vh;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-auto-flow: row;
+  color:white;
+}
+
 
 .pageBackgroundTwo {
   animation: skew2 1.3s ease-in-out 0s 1;
@@ -86,18 +98,18 @@
               4px 4px black;
   text-transform: lowercase;
   max-width:8%;
-  margin:2vh 0 0 4vw;
+  margin:5vh 0 0 4vw;
 }
 
 .issueTitle {
   position: relative;
   grid-column: 2 / span 1;
   align-self:center;
-  font-family: "lores-9-minus-narrow", monospace;
-  color: white;
-  text-shadow:1px 1px #b0b0b0;
-  font-size: 2.2rem;
-  text-transform: uppercase;
+  font-family: "lores-12-bold-alt-oakland",  monospace;
+  color: snow;
+  text-shadow:3px 3px 3px black;
+  font-size: 2.7rem;
+  text-transform: lowercase;
   max-width:8%;
   margin-left:7vw;
 }
@@ -110,6 +122,5 @@
 
 .inverseSubtitleColor {
   color: black;
-  text-shadow: 2px 4px snow;
-  text-transform:lowercase;
+  text-shadow: 2px 4px 6px #b0b0b0;
 }
