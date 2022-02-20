@@ -71,7 +71,21 @@
 
 .linkButtonOne {
   width:50%;
+  font-family: "lores-9-plus-narrow", monospace;
+  font-size:1.2rem;
+  color:white;
+  text-shadow:2px 2px black;
   border:none;
+  cursor:pointer;
+  background:none;
+  margin-top:5vh;
+}
+
+.linkButtonOne:hover {
+  letter-spacing:0.1rem;
+  color:black;
+  text-transform: uppercase;
+  text-shadow: 2px 2px white;
 }
 
 
@@ -91,7 +105,7 @@
   width:100%;
   display: grid;
   grid-auto-flow: row;
-  grid-gap:4vh;
+  grid-gap:3vh;
   color:white;
   font-family:"lores-15-bold-alt-oakland", monospace;
   text-shadow:2px 2px black,
@@ -99,7 +113,7 @@
   font-size:1.65rem;
   font-weight: 700;
   letter-spacing: 0.3rem;
-  margin:6vh 1vw 1vh 6vw;
+  margin:4vh 1vw 1vh 6vw;
   text-transform: uppercase;
 }
 
@@ -109,13 +123,31 @@
 }
 
 .linkButtonBox {
+  position:relative;
   display:flex;
-  justify-content:space-around;
-  margin-top:2vh;
+  justify-content:center;
+  margin-top:1vh;
+
 }
 
 .linkButtonTwo {
+  position:relative;
   border:none;
+  background:none;
+  text-decoration:none;
+  cursor:pointer;
+  font-family: "lores-9-plus-narrow", monospace;
+  font-size:1.2rem;
+  color:white;
+  text-shadow:2px 2px black;
+  margin-top:2vh;
+}
+
+.linkButtonTwo:hover {
+  letter-spacing:0.1rem;
+  color:black;
+  text-shadow: 2px 2px white;
+  text-transform:uppercase;
 }
 
 .workLink {
@@ -142,8 +174,7 @@ text-shadow:2px 2px white,
 .titleAndSubtitle {
   position:relative;
   display:grid;
-  grid-template-columns:1fr 1fr;
-  grid-area: 1 / 1 / 7 / 2;
+  grid-template-columns:1fr 1fr 1fr;
   grid-auto-flow: column;
 }
 
@@ -170,7 +201,7 @@ text-shadow:2px 2px white,
   font-size: 2.7rem;
   text-transform: lowercase;
   max-width:8%;
-  margin-left:7vw;
+  margin-left:11vw;
 }
 
 .inverseTitleColor {
@@ -182,4 +213,24 @@ text-shadow:2px 2px white,
 .inverseSubtitleColor {
   color: black;
   text-shadow: 2px 4px 6px #b0b0b0;
+}
+
+.linkButtonThree {
+  position:relative;
+  height:3vh;
+  background:none;
+  text-decoration:none;
+  cursor:pointer;
+  font-family: "lores-9-plus-narrow", monospace;
+  font-size:1.1rem;
+  color:white;
+  text-shadow:2px 2px black;
+  margin-top:2vh;
+}
+
+.linkButtonThree:hover {
+  letter-spacing:0.1rem;
+  color:black;
+  text-shadow: 2px 2px white;
+  text-transform:uppercase;
 }
