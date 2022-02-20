@@ -1,27 +1,27 @@
 @keyframes skew1 {
   0% {
-    transform: rotate(1turn);
+    transform: translateX(90vw);
   }
   100% {
-    transform: rotate(0);
+    transform: translateX(0);
   }
 }
 
 @keyframes skew2 {
   0% {
-    transform: rotate(2turn);
+    transform: translateX(-90vw);
   }
   100% {
-    transform: rotate(0);
+    transform: translateX(0);
   }
 }
 
 @keyframes skew3 {
   0% {
-    transform: rotate(3turn);
+    transform: rotate(1turn) translateX(180px);
   }
   100% {
-    transform: rotate(0);
+    transform: rotate(0) translateX(0);
   }
 }
 
@@ -37,7 +37,7 @@
 
 
 .pageBackgroundOne {
-  animation: skew1 1s ease-in-out;
+  animation: skew1 2.7s ease-in-out;
   position:relative;
   background: url("../public/images/Issue5Cover1.jpg");
   background-size: cover;
@@ -45,6 +45,7 @@
   min-height:100%;
   min-width:33%;
   margin:0;
+  z-index:33;
 }
 
 .workStructure{
@@ -90,7 +91,7 @@
 
 
 .pageBackgroundTwo {
-  animation: skew2 1.4s ease-in-out;
+  animation: skew2 2.1s ease-in-out;
   position:relative;
   background: url("../public/images/Issue5Cover2.jpg");
   background-size: cover;
@@ -161,7 +162,7 @@ text-shadow:2px 2px white,
 }
 
 .pageBackgroundThree {
-  animation: skew3 1.7s ease-in-out;
+  animation: skew3 2.4s ease-in-out;
   position:relative;
   background: url("../public/images/Issue5Cover3.jpg");
   background-size: cover;
