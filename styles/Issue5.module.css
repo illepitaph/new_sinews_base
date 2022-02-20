@@ -53,21 +53,21 @@
   width:100%;
   display: grid;
   grid-auto-flow: row;
-  grid-gap:3vh;
+  grid-gap:2.2vh;
   color:white;
   font-family:"lores-15-bold-alt-oakland", monospace;
   text-shadow:2px 2px black,
               4px 4px #D10000;
-  font-size:1.65rem;
+  font-size:1.75rem;
   font-weight: 700;
   letter-spacing: 0.3rem;
-  margin:9vh 1vw 1vh 6vw;
+  margin:7vh 1vw 1vh 6vw;
   text-transform: uppercase;
 }
 
 .workColumn {
   position:relative;
-  max-width:21vw;
+  max-width:23vw;
 }
 
 .linkButtonOne {

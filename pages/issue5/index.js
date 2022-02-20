@@ -43,8 +43,8 @@ export default function Issue5() {
           <Link href="/issue5/rainey"><div className={styles.workLink}>delia rainey_<i>somewhere better than this place</i></div></Link>
         </div>
         <div className={styles.workColumnTwo}>
-          <Link href="/issue5/bisagni"><div className={styles.workLink}>paul bisagni_<i>nice time formula + jumbo marvelous domesticity
-          jilt + by dint of little else</i></div></Link><br/>
+          <Link href="/issue5/bisagni"><div className={styles.workLink}>paul bisagni_<i>nice time formula</i> + <i>jumbo marvelous domesticity
+          jilt</i> + <i>by dint of little else</i></div></Link><br/>
           <div className={styles.workColumnTwo}>
             <div className={styles.workLink}><Link href="/issue5/bios">~~~ contri butor_ _ _b  i  os ~~~</Link></div>
         </div>
