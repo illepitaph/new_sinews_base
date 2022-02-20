@@ -201,7 +201,7 @@ text-shadow:2px 2px white,
   font-size: 2.7rem;
   text-transform: lowercase;
   max-width:8%;
-  margin-left:11vw;
+  margin-left:9vw;
 }
 
 .inverseTitleColor {
@@ -213,24 +213,4 @@ text-shadow:2px 2px white,
 .inverseSubtitleColor {
   color: black;
   text-shadow: 2px 4px 6px #b0b0b0;
-}
-
-.linkButtonThree {
-  position:relative;
-  height:3vh;
-  background:none;
-  text-decoration:none;
-  cursor:pointer;
-  font-family: "lores-9-plus-narrow", monospace;
-  font-size:1.1rem;
-  color:white;
-  text-shadow:2px 2px black;
-  margin-top:2vh;
-}
-
-.linkButtonThree:hover {
-  letter-spacing:0.1rem;
-  color:black;
-  text-shadow: 2px 2px white;
-  text-transform:uppercase;
 }

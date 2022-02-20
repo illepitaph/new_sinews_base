@@ -61,7 +61,6 @@ export default function Issue5() {
         className={styles.inverseTitleColor}>+  s <i>i </i> n<br/>  + </span>e<i> w </i> s</div>
         <div className={styles.issueTitle}>i<br/> s<br/> s<br/> u<br/> e <br/><br/>      <span
         className={styles.inverseSubtitleColor}>f<br/>i<br/>v<br/>e</span></div>
-          <a href="https://www.twitter.com/new_sinews" className={styles.linkButtonThree}>&#128065; tweeter &#128065;</a>
           </div>
       </div>
       </div>
