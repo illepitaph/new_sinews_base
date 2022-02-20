@@ -1,27 +1,27 @@
 @keyframes skew1 {
   0% {
-    transform: skew(30deg, 20deg);
+    transform: rotate(1turn);
   }
   100% {
-    transform: skew(0);
+    transform: rotate(0);
   }
 }
 
 @keyframes skew2 {
   0% {
-    transform: skew(90deg, 120deg);
+    transform: rotate(2turn);
   }
   100% {
-    transform: skew(0);
+    transform: rotate(0);
   }
 }
 
 @keyframes skew3 {
   0% {
-    transform: skew(60deg, 10deg);
+    transform: rotate(3turn);
   }
   100% {
-    transform: skew(0);
+    transform: rotate(0);
   }
 }
 
@@ -37,7 +37,7 @@
 
 
 .pageBackgroundOne {
-  animation: skew1 0.3s ease-in-out 0s 1;
+  animation: skew1 1s ease-in-out;
   position:relative;
   background: url("../public/images/Issue5Cover1.jpg");
   background-size: cover;
@@ -90,7 +90,7 @@
 
 
 .pageBackgroundTwo {
-  animation: skew2 1.3s ease-in-out 0s 1;
+  animation: skew2 1.4s ease-in-out;
   position:relative;
   background: url("../public/images/Issue5Cover2.jpg");
   background-size: cover;
@@ -161,7 +161,7 @@ text-shadow:2px 2px white,
 }
 
 .pageBackgroundThree {
-  animation: skew2 2.3s ease-in-out 0s 1;
+  animation: skew3 1.7s ease-in-out;
   position:relative;
   background: url("../public/images/Issue5Cover3.jpg");
   background-size: cover;
@@ -201,7 +201,7 @@ text-shadow:2px 2px white,
   font-size: 2.7rem;
   text-transform: lowercase;
   max-width:8%;
-  margin-left:9vw;
+  margin-left:15vw;
 }
 
 .inverseTitleColor {
