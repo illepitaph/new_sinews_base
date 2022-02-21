@@ -15,7 +15,7 @@ export default function Header(props) {
   return (
   <header className={`${styles.siteBarContainer} ${styles[props.headerBackground]}`}>
   <div className={styles.iconPlusSitebar}>
-  <Link href="/"><div></div></Link>
+  <Link href="/"><div className={styles.iconImage}></div></Link>
   <nav className={styles.siteNav}>
   <div className={styles.dropDown}>
   <Link href="/issue5"><button onMouseEnter={() => {
@@ -83,10 +83,10 @@ export default function Header(props) {
   </div>
   <div className={styles.dropDown}>
   <Link href="/issue2"><button onMouseEnter={() => {
-    setIssueThreeDropdownClass("issueContentOpen");
+    setIssueTwoDropdownClass("issueContentOpen");
   }}
                                 onMouseLeave={() => {
-    setIssueThreeDropdownClass("issueContentClosed");
+    setIssueTwoDropdownClass("issueContentClosed");
 }}>issue_2</button></Link>
   <div className={styles[issueTwoDropdownClass]}>
     <Link href="/issue2"><button>new_sinews_issue2</button></Link>

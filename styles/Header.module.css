@@ -6,7 +6,86 @@
   background-repeat:no-repeat;
   background-attachment:fixed;
   font-size:1rem;
-  overflow:hidden;
+}
+
+.iconPlusSitebar {
+  display:flex;
+  justify-content:space-between;
+}
+
+.iconPlusSitebar > .iconImage {
+  background-image:url("../public/images/NewSinewsIcon.jpg");
+  background-repeat:no-repeat;
+  background-position:center;
+  background-size:contain;
+  width:25vw;
+  height:35vh;
+  margin:12vh 0 0 2vw;
+  opacity:0.9;
+  cursor:pointer;
+}
+
+.siteNav {
+  align-self:center;
+  display:inline-flex;
+  justify-content:flex-end;
+  margin-right:6%;
+}
+
+.dropDown {
+  position:relative;
+}
+
+.siteNav > .dropDown > button, .home, .about {
+  border:none;
+  font-family:"lores-9-plus-narrow", monospace;
+  font-size: 0.7rem;
+  background-color:black;
+  color:#c0a5a5;
+  opacity: 0.75;
+  padding:12px 19px;
+  border-radius:45px;
+  text-transform:lowercase;
+  letter-spacing:1.5px;
+  cursor:pointer;
+  transition:1.2s background-color;
+}
+
+.siteNav > .dropDown > button, .home {
+  margin-right:3px;
+}
+
+.issueContentClosed {
+    display: none;
+    position: absolute;
+    z-index: 99;
+    box-shadow: 4px 8px 26px black;
+    cursor:pointer;
+}
+
+.siteNav > .dropDown > button:hover, .home:hover, .about:hover {
+  background-color:#c0a5a5;
+  color:black;
+}
+
+.issueContentOpen {
+  display: flex;
+  flex-flow: column wrap;
+  position: absolute;
+  min-width:35vw;
+}
+
+.issueContentOpen > button {
+  border:4px double #c0a5a5;
+  font-family:"lores-9-plus-narrow", monospace;
+  font-size: 0.8rem;
+  background-color:black;
+  color:snow;
+  opacity: 0.9;
+  padding:6px 16px;
+  text-align: left;
+  text-transform:lowercase;
+  letter-spacing:1.5px;
 }
 
 .blackwellBackground {
@@ -174,85 +253,6 @@
   background-image:url("../public/images/LuBackground.jpg");
 }
 
-.iconPlusSitebar {
-  display:flex;
-  justify-content:space-between;
-}
-
-.iconPlusSitebar > div {
-  background-image:url("../public/images/NewSinewsIcon.jpg");
-  background-repeat:no-repeat;
-  background-position:center;
-  background-size:contain;
-  width:25vw;
-  height:35vh;
-  margin:12vh 0 0 2vw;
-  opacity:0.9;
-  cursor:pointer;
-}
-
-.siteNav {
-  align-self:center;
-  display:inline-flex;
-  justify-content:flex-end;
-  margin-right:6%;
-}
-
-.dropDown {
-  overflow:hidden;
-}
-
-.siteNav > .dropDown > button, .home, .about {
-  border:none;
-  font-family:"lores-9-plus-narrow", monospace;
-  font-size: 0.7rem;
-  background-color:black;
-  color:#c0a5a5;
-  opacity: 0.75;
-  padding:12px 19px;
-  border-radius:45px;
-  text-transform:lowercase;
-  letter-spacing:1.5px;
-  cursor:pointer;
-  transition:1.2s background-color;
-}
-
-.siteNav > .dropDown > button:not(last-child) {
-  margin-right:3px;
-}
-
-.issueContentClosed {
-    display: none;
-    position: absolute;
-    z-index: 7;
-    box-shadow: 4px 8px 26px black;
-    cursor:pointer;
-}
-
-.siteNav > .dropDown > button:hover, .home:hover, .about:hover {
-  background-color:#c0a5a5;
-  color:black;
-}
-
-.issueContentOpen {
-  display: flex;
-  flex-flow: column wrap;
-  position: absolute;
-  max-width:35vw;
-}
-
-.issueContentOpen > button {
-  border:4px double #c0a5a5;
-  font-family:"lores-9-plus-narrow", monospace;
-  font-size: 0.8rem;
-  background-color:black;
-  color:snow;
-  opacity: 0.9;
-  padding:6px 16px;
-  text-align: left;
-  text-transform:lowercase;
-  letter-spacing:1.5px;
-}
 
 @media (max-width: 991.98px) {
 
