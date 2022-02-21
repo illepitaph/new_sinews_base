@@ -82,6 +82,17 @@ export default function Issue5Bios() {
    Writers at the University of Massachusetts-Amherst. Recent work appears in <i>Socrates on the Beach</i>, <i>3:AM
    Magazine</i>, <i>Triple Canopy</i>, and <i>The White Review</i>. A fuller index can be found at <a
    className={styles.biosExternalLink} target="_blank"href="https://www.jacqueline-feldman.com/">jacqueline-feldman.com</a>
+   <br/>
+   <br/>
+   <br/>
+    <span className={styles.grayInverse}>PAUL BISAGNI</span> is a lapsed classicist and current MFA candidate in poetry
+    at the University of Idaho. His poems can be found in <i>TIMBER</i>, <i>Harpur Palate</i>, <i>Afternoon Visitor</i>, <i>Heavy
+    Feather Review</i>, <i>Guesthouse</i>, <i>SELFFUCK</i>, the <i>Action Books</i> blog, and elsewhere. Alternative
+    versions of him float around Instagram and Twitter <a
+    className={styles.biosExternalLink} target="_blank" href="https://twitter.com/sapphojane">@sapphojane</a>
+
+
+
    </StandardProse>
 
    <Footer/>

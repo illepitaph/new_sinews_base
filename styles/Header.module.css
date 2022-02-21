@@ -37,7 +37,6 @@
 }
 
 .siteNav > .dropDown > button, .home, .about {
-  position:relative;
   border:none;
   font-family:"lores-9-plus-narrow", monospace;
   font-size: 0.7rem;
