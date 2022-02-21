@@ -36,10 +36,7 @@ export default function Feldman() {
       up on the bed, throwing pillows around—that’s it! That’s the whole joke! You have to keep living!
       </StandardProse>
       <br/><br/><br/><br/><br/><br/>
-      <RightGrayTitle><span className={styles.faintShadowAncillary}>s<span
-      className={styles.uppercaseAlternateTitleColor}>t</span><span
-      className={styles.alternateTitleColor}>i</span><span
-      className={styles.uppercaseFaintShadow}>ll</span> p<span
+      <RightGrayTitle><span className={styles.faintShadowAncillary}>p<span
       className={styles.uppercaseFaintShadow}>le</span>n<span
       className={styles.uppercaseAlternateTitleColor}>t</span>y o<span
       className={styles.uppercaseAlternateTitleColor}>f</span> de<span

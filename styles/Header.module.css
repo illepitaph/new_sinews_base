@@ -221,15 +221,27 @@
   margin-right:3px;
 }
 
-.issueContent {
-  display: none;
-  position: absolute;
-  z-index: 7;
-  box-shadow: 4px 8px 26px black;
-  cursor:pointer;
+.issueContentClosed {
+    display: none;
+    position: absolute;
+    z-index: 7;
+    box-shadow: 4px 8px 26px black;
+    cursor:pointer;
 }
 
-.issueContent > button {
+.siteNav > .dropDown > button:hover, .home:hover, .about:hover {
+  background-color:#c0a5a5;
+  color:black;
+}
+
+.issueContentOpen {
+  display: flex;
+  flex-flow: column wrap;
+  position: absolute;
+  max-width:35vw;
+}
+
+.issueContentOpen > button {
   border:4px double #c0a5a5;
   font-family:"lores-9-plus-narrow", monospace;
   font-size: 0.8rem;
@@ -240,18 +252,6 @@
   text-align: left;
   text-transform:lowercase;
   letter-spacing:1.5px;
-}
-
-.siteNav > .dropDown > button:hover, .home:hover, .about:hover {
-  background-color:#c0a5a5;
-  color:black;
-}
-
-.siteNav > .dropDown > button:hover + .issueContent {
-  display: flex;
-  flex-flow: column wrap;
-  position: absolute;
-  max-width:35vw;
 }
 
 @media (max-width: 991.98px) {

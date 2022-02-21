@@ -23,7 +23,16 @@ export default function Issue5Bios() {
    <br/>
    <span className={styles.grayInverse}>JULIA SHIOTA</span> is a writer and editor based in Minnesota. Her
    fiction and nonfiction work has appeared in <i>Catapult</i>, <i>Electric Literature</i>, <i>the Asian
-   American Writers Workshop</i>, <i>Poets & Writers</i>, and elsewhere. 
+   American Writers Workshop</i>, <i>Poets & Writers</i>, and elsewhere.
+   <br/>
+   <br/>
+   <br/>
+   <span className={styles.grayInverse}>MIKE CORRAO</span> Mike Corrao is the author of numerous works
+   including <cite><strong>Gut Text</strong></cite> (11:11 Press), <cite><strong>Rituals
+   Performed in the Absence of Ganymede</strong></cite> (11:11 Press), <cite><strong>Desert
+   Tiles</strong></cite> (Equus Press), and <cite><strong>Smut-Maker</strong></cite> (Inside the
+   Castle). His work often explores the haptic, architectural, and organismal qualities of the text-object.
+   <a className={styles.biosExternalLink} target="_blank" href="http://www.mikecorrao.com/"> www.mikecorrao.com</a>
    <br/>
    <br/>
    <br/>
@@ -60,21 +69,19 @@ export default function Issue5Bios() {
    <br/>
    <br/>
    <br/>
-   <span className={styles.grayInverse}>MIKE CORRAO</span> Mike Corrao is the author of numerous works
-   including <cite><strong>Gut Text</strong></cite> (11:11 Press), <cite><strong>Rituals
-   Performed in the Absence of Ganymede</strong></cite> (11:11 Press), <cite><strong>Desert
-   Tiles</strong></cite> (Equus Press), and <cite><strong>Smut-Maker</strong></cite> (Inside the
-   Castle). His work often explores the haptic, architectural, and organismal qualities of the text-object.
-   <a className={styles.biosExternalLink} target="_blank" href="http://www.mikecorrao.com/"> www.mikecorrao.com</a>
-   <br/>
-   <br/>
-   <br/>
    <span className={styles.grayInverse}>SAMUEL M. MOSS</span> is from Cascadia. Recent work has been
    published in <i>3:AM Magazine</i>, <i>New World Writing</i>, and <i>decomP</i>, among other venues. He is an
    associate editor and web lead at 11:11 Press. He currently works as a farmhand in rural Washington. Find
    more at <a className={styles.biosExternalLink} target="_blank"
    href="https://www.perfidiousscript.com/">perfidiousscript.com</a> and on twitter<br/> <a
    className={styles.biosExternalLink} target="_blank" href="https://twitter.com/perfidiouscript">@perfidiouscript</a>
+   <br/>
+   <br/>
+   <br/>
+   <span className={styles.grayInverse}>JACQUELINE FELDMAN</span> is a Delaney Fellow in the MFA Program for Poets &
+   Writers at the University of Massachusetts-Amherst. Recent work appears in <i>Socrates on the Beach</i>, <i>3:AM
+   Magazine</i>, <i>Triple Canopy</i>, and <i>The White Review</i>. A fuller index can be found at <a
+   className={styles.biosExternalLink} target="_blank"href="https://www.jacqueline-feldman.com/">jacqueline-feldman.com</a>
    </StandardProse>
 
    <Footer/>
