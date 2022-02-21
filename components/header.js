@@ -27,11 +27,11 @@ export default function Header(props) {
   <div className={styles[issueFiveDropdownClass]}>
   <Link href="/issue5"><button>new_sinews_issue5</button></Link>
   <Link href="/issue5/shiota"><button>julia shiota_in the beginning, she was the sun</button></Link>
-  <Link href="/issue5/terrarium"><button>vi khi nao + jessica alexander_when my body was a glass terrarium</button></Link>
   <Link href="/issue5/theater"><button>mike corrao_theater of materials</button></Link>
+  <Link href="/issue5/terrarium"><button>vi khi nao + jessica alexander_when my body was a glass terrarium</button></Link>
   <Link href="/issue5/moss"><button>samuel moss_the veldt light</button></Link>
-  <Link href="/issue5/feldman"><button>jacqueline feldman_passel: eight stories</button></Link>
   <Link href="/issue5/yrclimate"><button>steven alvarez_yr climate</button></Link>
+  <Link href="/issue5/feldman"><button>jacqueline feldman_passel: eight stories</button></Link>
   <Link href="/issue5/stripmall"><button>alvin lu_proposal for the construction of an ethnic strip mall</button></Link>
   <Link href="/issue5/rainey"><button>delia rainey_somewhere better than this place</button></Link>
   <Link href="/issue5/bisagni"><button>paul bisagni_nice time formula + jumbo marvelous domesticity jilt + by dint of little else</button></Link>

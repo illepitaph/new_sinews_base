@@ -78,6 +78,21 @@ export default function Issue5Bios() {
    <br/>
    <br/>
    <br/>
+   <span className={styles.grayInverse}>STEVEN ALVAREZ</span> is the author of <cite><strong>The Codex
+   Mojaodicus</strong></cite>, winner of the Fence Modern Poets Prize. He has also authored the novels
+   in verse <cite><strong>Manhatitlán</strong></cite> published by The Operating System and  <cite><strong>The
+   Pocho Codex</strong></cite> and <cite><strong>The Xicano Genome</strong></cite>, both
+   published by Editorial Paroxismo, and the chapbooks, <cite><strong>Tonalamatl</strong></cite>, <cite><strong>El Segundo's
+   Dream Notes</strong></cite> (Letter [r] Press), <cite><strong>Un/documented</strong></cite>, Kentucky (winner of
+   the Rusty Toque Chapbook Prize), and <cite><strong>Six Poems from the Codex Mojaodicus</strong></cite> (winner of the Seven
+   Kitchens Press Rane Arroyo Poetry Prize). His work has appeared in the <i>Best Experimental Writing</i>, <i>Berkeley
+   Poetry Review</i>, <i>Fence</i>, <i>Huizache</i>, <i>The Offing</i>, and <i>Waxwing</i>. Follow
+   Steven on Instagram <a className={styles.biosExternalLink} target="_blank"
+   href="https://www.instagram.com/stevenpaulalvarez">@stevenpaulalvarez</a> and on Twitter <a
+   className={styles.biosExternalLink} target="_blank" href="https://twitter.com/Chastitellez">@chastitellez</a>
+   <br/>
+   <br/>
+   <br/>
    <span className={styles.grayInverse}>JACQUELINE FELDMAN</span> is a Delaney Fellow in the MFA Program for Poets &
    Writers at the University of Massachusetts-Amherst. Recent work appears in <i>Socrates on the Beach</i>, <i>3:AM
    Magazine</i>, <i>Triple Canopy</i>, and <i>The White Review</i>. A fuller index can be found at <a
