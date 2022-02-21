@@ -37,6 +37,7 @@
 }
 
 .siteNav > .dropDown > button, .home, .about {
+  position:relative;
   border:none;
   font-family:"lores-9-plus-narrow", monospace;
   font-size: 0.7rem;
@@ -86,6 +87,7 @@
   text-align: left;
   text-transform:lowercase;
   letter-spacing:1.5px;
+  cursor:pointer;
 }
 
 .blackwellBackground {

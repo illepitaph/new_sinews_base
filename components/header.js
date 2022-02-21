@@ -17,13 +17,13 @@ export default function Header(props) {
   <div className={styles.iconPlusSitebar}>
   <Link href="/"><div className={styles.iconImage}></div></Link>
   <nav className={styles.siteNav}>
-  <div className={styles.dropDown}>
-  <Link href="/issue5"><button onMouseEnter={() => {
+  <div className={styles.dropDown} onMouseEnter={() => {
     setIssueFiveDropdownClass("issueContentOpen");
   }}
                                 onMouseLeave={() => {
     setIssueFiveDropdownClass("issueContentClosed");
-}}>issue_5</button></Link>
+}}>
+  <Link href="/issue5"><button>issue_5</button></Link>
   <div className={styles[issueFiveDropdownClass]}>
   <Link href="/issue5"><button>new_sinews_issue5</button></Link>
   <Link href="/issue5/shiota"><button>julia shiota_in the beginning, she was the sun</button></Link>
@@ -38,13 +38,13 @@ export default function Header(props) {
   <Link href="/issue5/bios"><button>issue5_bios</button></Link>
     </div>
   </div>
-  <div className={styles.dropDown}>
-  <Link href="/issue4"><button onMouseEnter={() => {
+  <div className={styles.dropDown} onMouseEnter={() => {
     setIssueFourDropdownClass("issueContentOpen");
   }}
                                 onMouseLeave={() => {
     setIssueFourDropdownClass("issueContentClosed");
-}}>issue_4</button></Link>
+}}>
+  <Link href="/issue4"><button>issue_4</button></Link>
   <div className={styles[issueFourDropdownClass]}>
     <Link href="/issue4"><button>new_sinews_issue4</button></Link>
     <Link href="/issue4/rat"><button>brandon shimoda_the hour of the rat</button></Link>
@@ -61,13 +61,13 @@ export default function Header(props) {
     <Link href="/issue4/bios"><button>issue4_bios</button></Link>
     </div>
   </div>
-  <div className={styles.dropDown}>
-  <Link href="/issue3"><button onMouseEnter={() => {
+  <div className={styles.dropDown} onMouseEnter={() => {
     setIssueThreeDropdownClass("issueContentOpen");
   }}
                                 onMouseLeave={() => {
     setIssueThreeDropdownClass("issueContentClosed");
-}}>issue_3</button></Link>
+}}>
+  <Link href="/issue3"><button>issue_3</button></Link>
   <div className={styles[issueThreeDropdownClass]}>
     <Link href="/issue3"><button>new_sinews_issue3</button></Link>
     <Link href="/issue3/dusk"><button>vi khi nao_retrieve the dusk</button></Link>
@@ -81,13 +81,13 @@ export default function Header(props) {
     <Link href="/issue3/bios"><button>issue3_bios</button></Link>
     </div>
   </div>
-  <div className={styles.dropDown}>
-  <Link href="/issue2"><button onMouseEnter={() => {
+  <div className={styles.dropDown} onMouseEnter={() => {
     setIssueTwoDropdownClass("issueContentOpen");
   }}
                                 onMouseLeave={() => {
     setIssueTwoDropdownClass("issueContentClosed");
-}}>issue_2</button></Link>
+}}>
+  <Link href="/issue2"><button>issue_2</button></Link>
   <div className={styles[issueTwoDropdownClass]}>
     <Link href="/issue2"><button>new_sinews_issue2</button></Link>
     <Link href="/issue2/briante"><button>susan briante_two poems</button></Link>
@@ -105,13 +105,13 @@ export default function Header(props) {
     <Link href="/issue2/bios"><button>issue2_bios</button></Link>
     </div>
   </div>
-  <div className={styles.dropDown}>
-  <Link href="/issue1"><button onMouseEnter={() => {
+  <div className={styles.dropDown} onMouseEnter={() => {
     setIssueOneDropdownClass("issueContentOpen");
   }}
                                 onMouseLeave={() => {
     setIssueOneDropdownClass("issueContentClosed");
-}}>issue_1</button></Link>
+}}>
+  <Link href="/issue1"><button>issue_1</button></Link>
   <div className={styles.[issueOneDropdownClass]}>
     <Link href="/issue1"><button>new_sinews_issue1</button></Link>
     <Link href="/issue1/gridley"><button>sarah gridley_poems from _insofar_</button></Link>
