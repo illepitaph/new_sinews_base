@@ -38,7 +38,7 @@
   align-self:center;
   display:inline-flex;
   justify-content:flex-end;
-  margin-right:6%;
+  margin-right:11%;
 }
 
 .dropDown {
@@ -81,7 +81,7 @@
   display: flex;
   flex-flow: column wrap;
   position: absolute;
-  min-width:35vw;
+  min-width:25vw;
 }
 
 .issueContentOpen > button {
@@ -96,6 +96,7 @@
   text-transform:lowercase;
   letter-spacing:1.5px;
   cursor:pointer;
+  z-index:99;
 }
 
 .graffiti {
