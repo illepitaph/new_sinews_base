@@ -21,7 +21,7 @@
   justify-content:space-between;
 }
 
-.iconPlusSitebar > div {
+.iconImage {
   background-image:url("../public/images/NewSinewsIcon.jpg");
   background-repeat:no-repeat;
   background-position:center;
@@ -34,16 +34,6 @@
   cursor:pointer;
 }
 
-.graffiti {
-  position:sticky;
-  font-family:"lores-9-plus-wide-bold-alt", monospace;
-  font-size:2.4rem;
-  text-transform:lowercase;
-  color:whitesmoke;
-  text-shadow:1px 1px 19px white, 3px 3px 19px #b0b0b0;
-  margin:19% 0 0 14%;
-}
-
 .siteNav {
   align-self:center;
   display:inline-flex;
@@ -51,7 +41,11 @@
   margin-right:6%;
 }
 
-.siteNav  > button {
+.dropDown {
+  position:relative;
+}
+
+.siteNav > .dropDown > button, .about {
   border:none;
   font-family:"lores-9-plus-narrow", monospace;
   font-size: 0.9rem;
@@ -63,10 +57,55 @@
   text-transform:lowercase;
   letter-spacing:1.5px;
   cursor:pointer;
+  transition:1.2s background-color;
 }
 
-.siteNav > button:not(last-child) {
+.siteNav > .dropDown > button {
   margin-right:3px;
+}
+
+.issueContentClosed {
+    display: none;
+    position: absolute;
+    z-index: 99;
+    box-shadow: 4px 8px 26px black;
+    cursor:pointer;
+}
+
+.siteNav > .dropDown > button:hover, .about:hover {
+  background-color:black;
+  color:white;
+}
+
+.issueContentOpen {
+  display: flex;
+  flex-flow: column wrap;
+  position: absolute;
+  min-width:35vw;
+}
+
+.issueContentOpen > button {
+  border:4px double #c0a5a5;
+  font-family:"lores-9-plus-narrow", monospace;
+  font-size: 0.8rem;
+  background-color:black;
+  color:snow;
+  opacity: 0.9;
+  padding:6px 16px;
+  text-align: left;
+  text-transform:lowercase;
+  letter-spacing:1.5px;
+  cursor:pointer;
+}
+
+.graffiti {
+  position:sticky;
+  font-family:"lores-9-plus-wide-bold-alt", monospace;
+  font-size:2.4rem;
+  text-transform:lowercase;
+  color:whitesmoke;
+  text-shadow:1px 1px 19px white, 3px 3px 19px #b0b0b0;
+  margin:19% 0 0 14%;
 }
 
 .middle {

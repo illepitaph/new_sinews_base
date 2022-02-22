@@ -100,6 +100,14 @@ export default function Issue5Bios() {
    <br/>
    <br/>
    <br/>
+   <span className={styles.grayInverse}>ALVIN LU</span> is the author of the novel  <cite><strong>The Hell
+   Screens</strong></cite> (Four Walls Eight Windows, 2000; reissued by Camphor Press, 2019). Recent work has
+   appeared in <i>Denver Quarterly</i>, <i>Your Impossible Voice</i>, and the Akashic Noir anthology <i>San Francisco
+   Noir</i>. He lives in San Francisco, California. <a
+   className={styles.biosExternalLink} target="_blank"href="https://alvinlu.co">alvinlu.com</a>
+   <br/>
+   <br/>
+   <br/>
     <span className={styles.grayInverse}>PAUL BISAGNI</span> is a lapsed classicist and current MFA candidate in poetry
     at the University of Idaho. His poems can be found in <i>TIMBER</i>, <i>Harpur Palate</i>, <i>Afternoon Visitor</i>, <i>Heavy
     Feather Review</i>, <i>Guesthouse</i>, <i>SELFFUCK</i>, the <i>Action Books</i> blog, and elsewhere. Alternative
