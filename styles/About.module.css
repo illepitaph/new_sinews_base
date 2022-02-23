@@ -39,7 +39,7 @@
   justify-content:space-between;
 }
 
-.iconPlusSitebar > div {
+.iconImage {
   background-image:url("../public/images/NewSinewsIcon.jpg");
   background-repeat:no-repeat;
   background-position:center;
@@ -55,26 +55,71 @@
   align-self:center;
   display:inline-flex;
   justify-content:flex-end;
-  margin-right:6%;
+  margin-right:11%;
 }
 
-.siteNav > button {
+.dropDown {
+  position:relative;
+}
+
+.siteNav > .dropDown > button, .about {
   border:none;
   font-family:"lores-9-plus-narrow", monospace;
-  font-size: 0.7rem;
-  font-weight:500;
-  background-color:#c8c8c8;
-  color:white;
-  opacity: 0.9;
+  font-size: 0.9rem;
+  background-color:#b0b0b0;
+  color:snow;
+  opacity: 0.8;
   padding:12px 19px;
   border-radius:45px;
   text-transform:lowercase;
   letter-spacing:1.5px;
   cursor:pointer;
+  transition:1.2s background-color;
 }
 
-.siteNav > button:not(last-child) {
+.siteNav > .dropDown > button {
   margin-right:3px;
+}
+
+.issueContentClosed {
+    display: none;
+    position: absolute;
+    z-index: 99;
+    box-shadow: 4px 8px 26px black;
+    cursor:pointer;
+}
+
+.siteNav > .dropDown > button:hover, .about:hover {
+  background-color:black;
+  color:white;
+}
+
+.issueContentOpen {
+  display: flex;
+  flex-flow: column wrap;
+  position: absolute;
+  min-width:25vw;
+}
+
+.issueContentOpen > button {
+  border:4px double #b0b0b0;
+  font-family:"lores-9-plus-narrow", monospace;
+  font-size: 0.8rem;
+  background-color:black;
+  color:snow;
+  opacity: 0.9;
+  padding:6px 16px;
+  text-align: left;
+  text-transform:lowercase;
+  letter-spacing:1.5px;
+  cursor:pointer;
+  z-index:99;
+}
+
+.issueContentOpen > button:hover {
+  background-color:snow;
+  color:black;
+  text-transform: uppercase;
 }
 
 .middle {
@@ -153,15 +198,6 @@
 
 .jpegBox2 > img:nth-of-type(even) {
   border:2px solid #404040;
-}
-
-@media (max-width: 1081px) and (orientation:landscape){
-
-  .middle {
-    width:85vw;
-  }
-
-
 }
 
 @media (max-width: 991.98px) {
