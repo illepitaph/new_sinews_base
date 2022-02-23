@@ -164,22 +164,22 @@ export default function Home() {
       <span className={styles.lightTypeface}>julia shiota
       <br/>
       <br/>
+      mike corrao
+      <br/>
+      <br/>
       vi khi nao
       <br/>
       <br/>
       jessica alexander
       <br/>
       <br/>
-      mike corrao
-      <br/>
-      <br/>
       samuel moss
       <br/>
       <br/>
-      jacqueline feldman
-      <br/>
-      <br/>
       steven alvarez
+      <br/>
+      <br/>
+      jacqueline feldman
       <br/>
       <br/>
       alvin lu

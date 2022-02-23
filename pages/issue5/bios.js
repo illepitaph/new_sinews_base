@@ -31,7 +31,7 @@ export default function Issue5Bios() {
    including <cite><strong>Gut Text</strong></cite> (11:11 Press), <cite><strong>Rituals
    Performed in the Absence of Ganymede</strong></cite> (11:11 Press), <cite><strong>Desert
    Tiles</strong></cite> (Equus Press), and <cite><strong>Smut-Maker</strong></cite> (Inside the
-   Castle). His work often explores the haptic, architectural, and organismal qualities of the text-object.
+   Castle). His work often explores the haptic, architectural, and organismal qualities of the text-object.<br/>
    <a className={styles.biosExternalLink} target="_blank" href="http://www.mikecorrao.com/"> www.mikecorrao.com</a>
    <br/>
    <br/>
@@ -93,9 +93,9 @@ export default function Issue5Bios() {
    <br/>
    <br/>
    <br/>
-   <span className={styles.grayInverse}>JACQUELINE FELDMAN</span> is a Delaney Fellow in the MFA Program for Poets &
-   Writers at the University of Massachusetts-Amherst. Recent work appears in <i>Socrates on the Beach</i>, <i>3:AM
-   Magazine</i>, <i>Triple Canopy</i>, and <i>The White Review</i>. A fuller index can be found at <a
+   <span className={styles.grayInverse}>JACQUELINE FELDMAN</span> is an MFA candidate at UMass
+   Amherst. Recent work appears in <i>Socrates on the Beach</i>, <i>3:AM</i>, <i>Triple Canopy</i>, and <i>The White
+   Review</i>. A fuller index can be found at <a
    className={styles.biosExternalLink} target="_blank"href="https://www.jacqueline-feldman.com/">jacqueline-feldman.com</a>
    <br/>
    <br/>
@@ -108,14 +108,19 @@ export default function Issue5Bios() {
    <br/>
    <br/>
    <br/>
-    <span className={styles.grayInverse}>PAUL BISAGNI</span> is a lapsed classicist and current MFA candidate in poetry
+   <span className={styles.grayInverse}>DELIA RAINEY</span> is a writer and musician from St. Louis, Missouri. She received
+   her MFA in nonfiction from Columbia College Chicago. Her writing has been featured in <i>DIAGRAM</i>, <i>Brink</i>, and <i>Hobart</i> and
+   many others. She is the author of the chapbook <cite><strong>CRUMBBOOK</strong></cite> (Bottlecap
+   Press, 2021). Find more on her website: <a className={styles.biosExternalLink} target="_blank"
+   href="https://www.deliarainey.com">deliarainey.com</a>
+   <br/>
+   <br/>
+   <br/>
+   <span className={styles.grayInverse}>PAUL BISAGNI</span> is a lapsed classicist and current MFA candidate in poetry
     at the University of Idaho. His poems can be found in <i>TIMBER</i>, <i>Harpur Palate</i>, <i>Afternoon Visitor</i>, <i>Heavy
     Feather Review</i>, <i>Guesthouse</i>, <i>SELFFUCK</i>, the <i>Action Books</i> blog, and elsewhere. Alternative
     versions of him float around Instagram and Twitter <a
     className={styles.biosExternalLink} target="_blank" href="https://twitter.com/sapphojane">@sapphojane</a>
-
-
-
    </StandardProse>
 
    <Footer/>

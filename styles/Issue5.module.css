@@ -99,6 +99,7 @@
   min-height:100%;
   min-width:33%;
   margin:0;
+  z-index:32;
 }
 
 .workStructureTwo {
@@ -149,6 +150,10 @@
   color:black;
   text-shadow: 2px 2px white;
   text-transform:uppercase;
+}
+
+.linkButtonOne, .linkButtonTwo {
+  white-space: nowrap;
 }
 
 .workLink {
@@ -214,4 +219,106 @@ text-shadow:2px 2px white,
 .inverseSubtitleColor {
   color: black;
   text-shadow: 2px 4px 6px #b0b0b0;
+}
+
+@media (max-width:927px) and (orientation:landscape) {
+
+  .pageTitle {
+    margin:35vh 0 0 4vw;
+  }
+
+  .issueTitle {
+    margin-top:23vh;
+  }
+
+}
+
+@media (max-width:913px) and (orientation:portrait) {
+
+  .pageTitle {
+    margin:25vh 0 0 4vw;
+  }
+
+  .issueTitle {
+    margin-top:20vh;
+  }
+}
+
+@media (width:540px) and  (height:720px) and (orientation:portrait) {
+
+  .linkButtonOne, .linkButtonTwo {
+    font-size:0.9rem;
+  }
+
+  .issueTitle {
+    margin-left:14vw;
+  }
+}
+
+@media (max-width:429px) and (orientation:portrait) {
+
+  .pageBackgroundOne, .pageBackgroundTwo {
+    min-width:34%;
+  }
+
+  .pageBackgroundThree {
+    min-width:32%;
+  }
+
+  .workStructure, .workStructureTwo {
+    font-size:1.1rem;
+    margin:3vh 1vw;
+    max-width:75%;
+    white-space:pre-line;
+  }
+
+  .workColumn {
+    max-width:5vw;
+  }
+
+  .pageTitle {
+    font-size:2.5rem;
+    margin:15vh 0 0 3vw;
+  }
+
+  .issueTitle {
+    font-size:1.7rem;
+    margin-left:14vw;
+  }
+
+  .linkButtonOne {
+    width:100%;
+    margin-top:2vh;
+  }
+
+  .linkButtonTwo {
+    margin-left:7vw;
+  }
+
+  .linkButtonOne, .linkButtonTwo {
+    font-size:0.9rem;
+  }
+}
+
+
+@media (max-width:391px) and (orientation:portrait) {
+
+  .linkButtonOne, .linkButtonTwo {
+    font-size:0.7rem;
+  }
+}
+
+@media (max-width:361px) and (orientation:portrait) {
+
+  .workStructure, .workStructureTwo {
+    font-size:0.9rem;
+  }
+
+  .linkButtonOne, .linkButtonTwo {
+    font-size:0.6rem;
+  }
+
+  .issueTitle {
+    margin-left:6vw;
+  }
 }
