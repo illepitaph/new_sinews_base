@@ -16,6 +16,31 @@
   }
 }
 
+@keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-moz-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-webkit-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-o-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-ms-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
 .pageStructure {
   margin: 0;
   max-height:100vh;
@@ -25,6 +50,7 @@
   grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
   grid-template-columns: 1fr 1fr;
   background-color:black;
+  animation: fadeIn ease-out 0.9s;
 }
 
 .issueContents {
@@ -274,5 +300,9 @@
 @media(max-width: 320px){
   .workLink {
     font-size: 0.5rem;
+  }
+
+  .siteShortcuts > .linkButton {
+    font-size: 0.4rem;
   }
 }

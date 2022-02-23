@@ -1,3 +1,29 @@
+@keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-moz-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-webkit-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-o-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-ms-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+
 .siteBarContainer {
   height:61vh;
   width:100%;
@@ -6,6 +32,7 @@
   background-repeat:no-repeat;
   background-attachment:fixed;
   font-size:1rem;
+  animation: fadeIn ease-in 0.4s;
 }
 
 .iconPlusSitebar {
@@ -88,6 +115,12 @@
   letter-spacing:1.5px;
   cursor:pointer;
   z-index:99;
+}
+
+.issueContentOpen > button:hover {
+  background-color:snow;
+  color:black;
+  text-transform: uppercase;
 }
 
 .blackwellBackground {
@@ -258,19 +291,31 @@
 
 @media (max-width: 991.98px) {
 
+  .iconPlusSitebar {
+    justify-content:space-around;
+  }
+
   .siteNav {
     margin:10% 6% 0 6%;
     background-size:cover;
   }
 
-  .siteNav > button {
-    padding:7.5px 10px;
+  .siteNav > .dropDown > button, .home, .about {
+    width:5rem;
+    padding:8.5px 8.5px;
   }
+}
+
+@media (max-width: 916px) and (orientation:landscape) {
+
+.siteBarContainer {
+  height:73vh;
+}
 }
 
 @media (max-width: 769px) and (orientation:portrait) {
 
-  .iconPlusSitebar > a {
+  .iconImage {
     width:45vw;
     height:45vh;
     margin-top:13vh;
@@ -283,23 +328,39 @@
     display:inline-flex;
     flex-flow:column wrap;
     justify-content:flex-end;
-    margin:6vh 6vw 0 0 ;
+    margin:17vh 6vw 0 0 ;
   }
 
-  .siteNav > button {
-    padding:5.5px 7px;
-    margin-bottom:2.5vh;
-    cursor:pointer;
+  .siteNav > .dropDown > button, .home, .about {
+    margin-bottom:1.5vh;
     opacity:0.7;
   }
 
  }
 
+ @media (max-width: 768px) and (height:1024px) {
+
+   .siteNav {
+     margin:27vh 6vw 0 0 ;
+   }
+
+  }
+
  @media (max-width: 721px) and (orientation:landscape) {
 
-   .siteNav > button {
-     padding:3.5px 5px;
+   .siteNav > button, .home, .about {
+     padding:1.5px 3px;
    }
+ }
+
+ @media (max-height: 667px) and (orientation:landscape){
+
+   .siteNav > button, .home, .about {
+     width:auto;
+   }
+
+
+
  }
 
  @media (max-height: 400px) and (orientation:landscape){
@@ -319,7 +380,7 @@
 
  @media (max-height: 376px) and (orientation:landscape){
 
-   .siteNav > button {
+   .siteNav > button, .home, .about {
      margin-bottom:4vh;
    }
 
@@ -330,7 +391,7 @@
  @media (max-width: 376px) and (orientation:portrait) {
 
    .siteNav {
-     margin:14vh 6vw 0 0 ;
+     margin:19vh 6vw 0 0 ;
    }
 
   }
@@ -343,7 +404,7 @@
 
  @media (max-height: 281px) and (orientation:landscape){
 
-   .siteNav > button {
+   .siteNav > button, .home, .about {
      font-size:0.5rem;
      padding:3.5px 5px;
    }

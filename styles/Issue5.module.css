@@ -25,6 +25,31 @@
   }
 }
 
+@keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-moz-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-webkit-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-o-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-ms-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
 .bodyContainer {
   position:absolute;
   min-height:100%;
@@ -33,6 +58,7 @@
   grid-template-columns: repeat(3, 1fr);
   margin: 0;
   overflow: hidden;
+  animation: fadeIn ease-out 0.9s;
 }
 
 
@@ -53,15 +79,15 @@
   width:100%;
   display: grid;
   grid-auto-flow: row;
-  grid-gap:2.2vh;
+  grid-gap:2vh;
   color:white;
   font-family:"lores-15-bold-alt-oakland", monospace;
   text-shadow:2px 2px black,
               4px 4px #D10000;
-  font-size:1.75rem;
+  font-size:1.7rem;
   font-weight: 700;
   letter-spacing: 0.3rem;
-  margin:7vh 1vw 1vh 6vw;
+  margin:6vh 1vw 1vh 6vw;
   text-transform: uppercase;
 }
 
@@ -79,7 +105,6 @@
   border:none;
   cursor:pointer;
   background:none;
-  margin-top:5vh;
 }
 
 .linkButtonOne:hover {
@@ -107,12 +132,12 @@
   width:100%;
   display: grid;
   grid-auto-flow: row;
-  grid-gap:3vh;
+  grid-gap:2.2vh;
   color:white;
   font-family:"lores-15-bold-alt-oakland", monospace;
   text-shadow:2px 2px black,
               4px 4px #D10000;
-  font-size:1.65rem;
+  font-size:1.63rem;
   font-weight: 700;
   letter-spacing: 0.3rem;
   margin:4vh 1vw 1vh 6vw;
@@ -128,7 +153,6 @@
   position:relative;
   display:flex;
   justify-content:center;
-  margin-top:1vh;
 
 }
 
@@ -164,6 +188,7 @@
 color:black;
 text-shadow:2px 2px white,
             4px 4px #D10000;
+text-transform: lowercase;
 }
 
 .pageBackgroundThree {

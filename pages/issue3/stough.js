@@ -18,7 +18,8 @@ export default function Stough() {
         className={styles.inverse}>l </span>an <span
         className={styles.inverse}>c</span>e<br/><span
         className={styles.inverse}><span className={styles.headerIndent}>s</span></span> hee<span
-        className={styles.inverse}> t</span></span></LeftGrayTitle>
+        className={styles.inverse}> <span
+        className={styles.t}>t</span></span></span></LeftGrayTitle>
 
 
         <RightBlackTitle><span className={styles.bareHeader}>... ... cary<br/>... ... stough</span>

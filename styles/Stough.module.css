@@ -39,6 +39,10 @@
               2px 2px #b0b0b0;
 }
 
+.t {
+  text-transform:uppercase;
+}
+
 
 @media (max-width:429px) and (orientation:portrait) {
   .duskShadow {

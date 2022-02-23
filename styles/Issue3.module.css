@@ -1,3 +1,29 @@
+@keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-moz-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-webkit-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-o-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-ms-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+
 .fullPageBackground {
   position: fixed;
   background: linear-gradient(
@@ -17,6 +43,7 @@
   display:grid;
   grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  animation: fadeIn ease-in 1.4s;
 }
 
 .titleAndSubtitle {
@@ -92,6 +119,7 @@
   font-size: 1.3em;
   text-transform: uppercase;
   letter-spacing:0.3rem;
+  cursor:pointer;
 }
 
 .workLink:hover {
@@ -107,7 +135,7 @@
   position: relative;
   border: 0;
   background-color: black;
-  padding: 1.5vh 1.4vw;
+  padding: 0.7vh 1vw;
   font-size: 0.7rem;
   border-radius: 44px;
   cursor: pointer;

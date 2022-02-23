@@ -1,3 +1,29 @@
+@keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-moz-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-webkit-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-o-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-ms-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+
 .top {
   height:65vh;
   background-image:url("../public/images/LineNewSinew.jpg");
@@ -5,6 +31,7 @@
   background-repeat:no-repeat;
   background-attachment:fixed;
   font-size:1rem;
+  animation: fadeIn ease-in 0.7s;
 }
 
 .iconPlusSitebar {

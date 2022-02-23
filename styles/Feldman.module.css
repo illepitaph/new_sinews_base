@@ -34,7 +34,7 @@
 
 }
 
-@media (max-width:429px) and (orientation:portrait) {
+@media (max-width:541px) and (orientation:portrait) {
 
   .faintShadowMain {
     font-size:3.3rem;
@@ -48,7 +48,12 @@
 
 }
 
-@media (max-width:391px) and (orientation:portrait) {
+@media (max-width:394px) and (orientation:portrait) {
+
+  .faintShadowMain {
+    font-size:3rem;
+    letter-spacing:0.2rem;
+  }
 
   .faintShadowAncillary, .alternateTitleColor, .uppercaseAlternateTitleColor  {
     font-size:2rem;
@@ -57,7 +62,11 @@
 
 }
 
-@media (max-width:391px) and (orientation:portrait) {
+@media (max-width:361px) and (orientation:portrait) {
+
+  .faintShadowMain {
+    font-size:1.8rem;
+  }
 
   .faintShadowAncillary, .alternateTitleColor, .uppercaseAlternateTitleColor  {
     font-size:1.5rem;
