@@ -231,10 +231,12 @@
     margin:7vh 6vw 0 0 ;
   }
 
-  .siteNav > .dropDown > button, .about {
-    padding:9px 15px;
+  .siteNav > .dropDown > button, .home, .about {
+    width:6rem;
+    font-size:0.8rem;
     margin-bottom:2vh;
-    opacity:0.8;
+    padding:9px 16px;
+    opacity:0.9;
   }
 }
 
@@ -283,10 +285,9 @@
 
 }
 
-@media (max-width: 801px) and (orientation:landscape) {
+@media (max-width: 812px) and (orientation:landscape) {
 
   .siteNav > .dropDown > button, .about {
-    font-size:0.8rem;
     padding:4px 8px;
     margin-bottom:4vh;
     opacity:0.8;
@@ -334,8 +335,8 @@
   }
 
   .siteNav > .dropDown > button, .about {
-    padding:3px 7px;
-    margin-bottom:2vh;
+    margin-top:2vh;
+    padding:4px 8px;
   }
 
 }
@@ -359,6 +360,10 @@
   .graffiti {
     font-size:0.7rem;
     margin:21% 0 0 0;
+  }
+
+  .siteNav > .dropDown > button, .about {
+    margin-top:0;
   }
 
 }
