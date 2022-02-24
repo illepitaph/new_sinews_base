@@ -231,8 +231,7 @@
     margin:7vh 6vw 0 0 ;
   }
 
-  .siteNav > button {
-    padding:6px 13px;
+  .siteNav > .dropDown > button, .about {
     margin-bottom:2vh;
     opacity:0.8;
   }
@@ -283,12 +282,22 @@
 
 }
 
+@media (max-width: 801px) and (orientation:landscape) {
+
+  .siteNav > .dropDown > button, .about {
+    padding:4px 8px;
+    margin-bottom:4vh;
+    opacity:0.8;
+  }
+
+
+}
+
 @media (max-width: 668px) and (orientation:landscape) {
 
-  .siteNav > button {
+  .siteNav > .dropDown > button, .about {
     padding:3px 7px;
     margin-bottom:2vh;
-    opacity:0.8;
   }
 
 
@@ -333,6 +342,11 @@
 
   .snowTypeface {
     font-size:1.7rem;
+  }
+
+  .siteNav > .dropDown > button, .about {
+    padding:3px 7px;
+    margin-bottom:2vh;
   }
 
 }
