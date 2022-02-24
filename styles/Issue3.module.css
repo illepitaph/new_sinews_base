@@ -127,6 +127,8 @@
 }
 
 .siteShortcuts {
+  display:flex;
+  justify-content:space-around;
   grid-column:3 / span 1;
   margin-top:16px;
 }
@@ -134,15 +136,16 @@
 .siteShortcuts > .linkButton {
   position: relative;
   border: 0;
-  background-color: black;
+  background-color: #2cbae7;
   padding: 0.7vh 1vw;
   font-size: 0.7rem;
   border-radius: 44px;
   cursor: pointer;
+  opacity:0.7;
 }
 
 .siteShortcuts > .linkButton:not(:first-child) {
-  margin-left:10px;
+  margin-left:2vw;
 }
 
 .innerSiteLinkTag, .twitterLinkTag {
@@ -154,12 +157,16 @@
 
 .twitterLinkTag {
   position: relative;
-  background-color: inherit;
-  padding: 1.3vh 1.7vw;
+  background-color: #6b6b6b;
+  padding: 1.2vh 1vw;
   border: 1px solid white;
   border-radius: 50%;
 }
 
+.siteShortcuts > .linkButton:hover {
+  opacity:1;
+  letter-spacing:0.15rem;
+}
 
 @media (width:1280px) and (height:800px) and (orientation:landscape) {
 
@@ -196,52 +203,6 @@
     margin:1.2vh 0 0 23vw;
   }
 }
-
-@media (max-width: 767.98px) {
-
-  .titleAndSubtitle {
-    position:relative;
-    display:grid;
-    grid-template-columns:1fr 1fr;
-    grid-area: 1 / 1 / 4 / 2;
-    grid-auto-flow: column;
-  }
-
-  .issueTitle {
-    margin-left:4vw;
-  }
-
-  .issueContents {
-    margin:1vh 0 0 1vw;
-  }
-
-  .workColumn {
-    max-width:11rem;
-    margin-bottom:0.5rem;
-  }
-
-  .workLink {
-    position: relative;
-    font-family: "ubuntu", sans-serif;
-    color: white;
-    font-size: 0.9em;
-    text-transform: uppercase;
-  }
-
-  .siteShortcuts > .linkButton {
-    font-size: 0.6rem;
-    padding:0.7vh 0.8vw;
-  }
-
-  .twitterLinkTag {
-    padding: 0.7vh 0.8vw;
-  }
-
-  .siteShortcuts > .linkButton:not(:first-child) {
-    margin-left:3px;
-  }
-
- }
 
  @media (max-width: 997.98px) and (orientation: landscape) {
 
@@ -322,6 +283,52 @@
 
 }
 
+@media (max-width: 767.98px) {
+
+  .titleAndSubtitle {
+    position:relative;
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    grid-area: 1 / 1 / 4 / 2;
+    grid-auto-flow: column;
+  }
+
+  .issueTitle {
+    margin-left:4vw;
+  }
+
+  .issueContents {
+    margin:1vh 0 0 1vw;
+  }
+
+  .workColumn {
+    max-width:11rem;
+    margin-bottom:0.5rem;
+  }
+
+  .workLink {
+    position: relative;
+    font-family: "ubuntu", sans-serif;
+    color: white;
+    font-size: 0.9em;
+    text-transform: uppercase;
+  }
+
+  .siteShortcuts > .linkButton {
+    font-size: 0.6rem;
+    padding:0.7vh 0.8vw;
+  }
+
+  .twitterLinkTag {
+    padding: 0.7vh 0.8vw;
+  }
+
+  .siteShortcuts > .linkButton:not(:first-child) {
+    margin-left:3px;
+  }
+
+ }
+
 @media (max-width: 761px) and (orientation:landscape) {
 
   .issueContents {
@@ -333,6 +340,11 @@
     font-size: 0.6rem;
     letter-spacing:0.1rem;
   }
+
+  .siteShortcuts > .linkButton {
+  padding: 0.3vh 0.6vw;
+  }
+
 
 }
 
@@ -353,6 +365,15 @@
   .workLink {
     letter-spacing:0.17rem;
   }
+
+  .siteShortcuts > .linkButton {
+  padding: 0.3vh 0.6vw;
+  }
+
+  .siteShortcuts > .linkButton:not(:first-child) {
+    margin-left:2.5vw;
+  }
+
 }
 
 
