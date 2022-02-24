@@ -128,6 +128,7 @@ return (
                 <Link href="/issue1/bios"><button>issue1_bios</button></Link>
             </div>
           </div>
+            <Link href="/"><button className={styles.home}>new sinews</button></Link>
       <Link href="/about"><button className={styles.about}>about</button></Link>
       </nav>
     </div>

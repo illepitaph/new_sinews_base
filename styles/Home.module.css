@@ -232,6 +232,7 @@
   }
 
   .siteNav > .dropDown > button, .about {
+    padding:9px 15px;
     margin-bottom:2vh;
     opacity:0.8;
   }
@@ -285,6 +286,7 @@
 @media (max-width: 801px) and (orientation:landscape) {
 
   .siteNav > .dropDown > button, .about {
+    font-size:0.8rem;
     padding:4px 8px;
     margin-bottom:4vh;
     opacity:0.8;
@@ -331,6 +333,11 @@
     font-size:2.3rem;
   }
 
+  .siteNav > .dropDown > button, .about {
+    padding:3px 7px;
+    margin-bottom:2vh;
+  }
+
 }
 
 
@@ -342,11 +349,6 @@
 
   .snowTypeface {
     font-size:1.7rem;
-  }
-
-  .siteNav > .dropDown > button, .about {
-    padding:3px 7px;
-    margin-bottom:2vh;
   }
 
 }
