@@ -471,15 +471,13 @@ text-transform: lowercase;
 @media (width:800px) and (height:1280px) {
 
   .workStructure{
-    margin:3vh 1vw 1vh 1vw;
-    font-size:1.4rem;
-      grid-gap:1vh;
+    margin:5vh 1vw 1vh 1vw;
+      grid-gap:5vh;
   }
 
   .workStructureTwo {
-    margin:2vh 1vw 1vh 1vw;
-    font-size:1.3rem;
-      grid-gap:1vh;
+    margin:4vh 1vw 1vh 1vw;
+      grid-gap:5vh;
   }
 
   .workColumn {
@@ -560,7 +558,7 @@ text-transform: lowercase;
 
   .workStructure, .workStructureTwo {
     font-size:0.95rem;
-    grid-gap:15px;
+    grid-gap:5px;
   }
 
   .linkButtonOne, .linkButtonTwo {
@@ -608,7 +606,7 @@ text-transform: lowercase;
   }
 
   .workStructure, .workStructureTwo {
-    font-size:1.5rem;
+    font-size:1.45rem;
     text-shadow:1px 1px #D10000,
     2px 2px black;
     margin:3vh 1vw;
@@ -649,6 +647,44 @@ text-transform: lowercase;
   }
 }
 
+@media (max-width:413px) and (orientation:portrait) {
+
+  .workStructure, .workStructureTwo {
+    font-size:1.4rem;
+    grid-gap:10px;
+  }
+
+  .workColumn, .workColumnTwo {
+    max-width:100%;
+  }
+
+  .workStructureTwo {
+    margin-top:1vh;
+  }
+
+  .pageTitle {
+    font-size:2.5rem;
+    margin:7vh 0 0 3vw;
+  }
+
+  .issueTitle {
+    font-size:1.7rem;
+    margin-left:14vw;
+  }
+
+  .linkButtonOne {
+    width:100%;
+    margin-top:2vh;
+  }
+
+  .linkButtonTwo {
+    margin-right:5vw;
+  }
+
+  .linkButtonOne, .linkButtonTwo {
+    font-size:0.9rem;
+  }
+}
 
 @media (max-width:391px) and (orientation:portrait) {
 
@@ -663,6 +699,10 @@ text-transform: lowercase;
 }
 
 @media (max-width:361px) and (orientation:portrait) {
+
+  .workStructure, .workStructureTwo {
+    font-size:1.15rem;
+  }
 
   .linkButtonOne, .linkButtonTwo {
     font-size:0.8rem;

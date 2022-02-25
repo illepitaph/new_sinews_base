@@ -263,7 +263,7 @@
 
  }
 
- @media(max-width: 320px){
+ @media(max-width: 361px){
    .workLink {
      font-size: 0.8rem;
    }

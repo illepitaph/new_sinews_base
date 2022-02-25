@@ -392,6 +392,10 @@
 
 @media (max-width: 361px) and (orientation:portrait) {
 
+  .pageTitle {
+    margin-top:0;
+  }
+
   .issueContents {
     margin:3vh 0 0 15vw;
   }

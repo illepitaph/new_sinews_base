@@ -8,9 +8,9 @@ export default function Issue1() {
       <>
       <Head/>
 
-      <div className={styles.fullPageBackground}>
+      <body className={styles.fullPageBackground}>
 
-      <body className={styles.pageStructure}>
+      <div className={styles.pageStructure}>
 
       <div className={styles.pageTitle}>new_sinews</div>
 
@@ -49,8 +49,8 @@ export default function Issue1() {
               href="https://twitter.com/new_sinews">tweeter</Link></div></button>
         </div>
     </div>
- </body>
-      </div>
+ </div>
+      </body>
       </>
   )
 }
