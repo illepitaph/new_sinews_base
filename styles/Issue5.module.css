@@ -52,7 +52,7 @@
 
 .bodyContainer {
   position:absolute;
-  min-height:100%;
+  height:100vh;
   min-width:100%;
   display:grid;
   grid-template-columns: repeat(3, 1fr);
@@ -246,19 +246,103 @@ text-transform: lowercase;
   text-shadow: 2px 4px 6px #b0b0b0;
 }
 
-@media (max-width:927px) and (orientation:landscape) {
+@media (width:1280px) and (height:800px) {
+
+  .workStructure{
+    margin:3vh 1vw 1vh 1vw;
+    font-size:1.65rem;
+      grid-gap:1vh;
+  }
+
+  .workStructureTwo {
+    margin:2vh 1vw 1vh 1vw;
+    font-size:1.55rem;
+      grid-gap:1vh;
+  }
+
+  .linkButtonOne {
+    margin:2vw 0 0 4vw;
+  }
+
+  .linkButtonTwo {
+    margin-top:1vh;
+  }
+
+}
+
+@media (width:1080px) and (height:810px) {
+
+  .bodyContainer {
+    height:100vh;
+  }
+
+  .workStructure{
+    margin:4vh 1vw 1vh 1vw;
+    font-size:1.5rem;
+      grid-gap:1vh;
+  }
+
+  .workStructureTwo {
+    margin:3vh 1vw 1vh 1vw;
+    font-size:1.4rem;
+      grid-gap:1vh;
+  }
 
   .pageTitle {
-    margin:35vh 0 0 4vw;
+    margin:1vh 0 0 4vw;
+    font-size: 3rem;
   }
 
   .issueTitle {
-    margin-top:23vh;
+    font-size: 2.5rem;
+  }
+
+
+}
+
+@media (max-width:927px) and (orientation:landscape) {
+
+  .workStructure, .workStructureTwo {
+    font-size:1.1rem;
+    text-shadow:1px 1px #D10000,
+    2px 2px black;
+    letter-spacing: 0.1rem;
+    margin:3vh 1vw;
+    width:100%;
+    grid-gap:6px;
+    white-space:pre-line;
+  }
+
+  .pageBackgroundThree {
+    background-position:top;
+  }
+
+  .pageTitle {
+    margin:35vh 0 0 4vw;
+    font-size: 2rem;
+    margin:1vh 0 0 4vw;
+  }
+
+  .issueTitle {
+    margin:23vh 0 0 15vw;
+    font-size: 1.7rem;
+  }
+
+  .linkButtonOne {
+    margin:2vw 0 0 4vw;
+  }
+
+  .linkButtonTwo {
+    margin-top:0;
   }
 
 }
 
 @media (max-width:913px) and (orientation:portrait) {
+
+  .bodyContainer {
+    max-height:100%;
+  }
 
   .pageTitle {
     margin:25vh 0 0 4vw;
@@ -267,6 +351,130 @@ text-transform: lowercase;
   .issueTitle {
     margin-top:20vh;
   }
+
+}
+
+@media (max-width:854px) and (orientation:landscape) {
+
+  .workStructure, .workStructureTwo {
+    font-size:1rem;
+  }
+
+  .pageTitle {
+    font-size: 1.9rem;
+}
+
+.issueTitle {
+  margin-top:10vh;
+}
+}
+
+@media (width:810px) and (height:1080px) {
+
+  .workStructure{
+    margin:4vh 1vw 1vh 1vw;
+    font-size:1.4rem;
+      grid-gap:1vh;
+  }
+
+  .workStructureTwo {
+    margin:3vh 1vw 1vh 1vw;
+    font-size:1.3rem;
+      grid-gap:1vh;
+  }
+
+  .workColumn {
+    max-width:27vw;
+  }
+
+  .workColumnTwo {
+    max-width:33vw;
+  }
+
+  .pageTitle {
+    font-size: 2.7rem;
+    margin:2vh 0 0 4vw;
+  }
+
+  .issueTitle {
+    font-size: 2.1rem;
+  }
+
+
+}
+
+@media (width:800px) and (height:1280px) {
+
+  .workStructure{
+    margin:3vh 1vw 1vh 1vw;
+    font-size:1.4rem;
+      grid-gap:1vh;
+  }
+
+  .workStructureTwo {
+    margin:2vh 1vw 1vh 1vw;
+    font-size:1.3rem;
+      grid-gap:1vh;
+  }
+
+  .workColumn {
+    max-width:27vw;
+  }
+
+  .workColumnTwo {
+    max-width:33vw;
+  }
+
+  .pageTitle {
+    font-size: 2.7rem;
+    margin:2vh 0 0 4vw;
+  }
+
+  .issueTitle {
+    font-size: 2.1rem;
+    margin-top:5vh;
+  }
+
+
+}
+
+@media (max-width:801px) and (orientation:landscape) {
+
+  .workStructure, .workStructureTwo {
+    font-size:0.95rem;
+  }
+
+  .pageTitle {
+    margin:2vh 0 0 4vw;
+  }
+
+  .issueTitle {
+    font-size: 1.6rem;
+    margin-top:5vh;
+    margin-left:15vw;
+  }
+
+}
+
+@media (max-width:667px) and (orientation:landscape) {
+
+  .workStructure, .workStructureTwo {
+    font-size:0.85rem;
+    grid-gap:15px;
+  }
+
+  .linkButtonOne, .linkButtonTwo {
+    font-size:1rem;
+  }
+
+  .pageTitle {
+    font-size: 1.7rem;
+  }
+
+  .issueTitle {
+    font-size: 1.5rem;
+  }
+
 }
 
 @media (width:540px) and  (height:720px) and (orientation:portrait) {
@@ -291,19 +499,26 @@ text-transform: lowercase;
   }
 
   .workStructure, .workStructureTwo {
-    font-size:1.1rem;
+    font-size:1rem;
+    text-shadow:1px 1px #D10000,
+    2px 2px black;
     margin:3vh 1vw;
     max-width:75%;
+    grid-gap:10px;
     white-space:pre-line;
   }
 
-  .workColumn {
-    max-width:5vw;
+  .workColumn, .workColumnTwo {
+    max-width:100%;
+  }
+
+  .workStructureTwo {
+    margin-top:1vh;
   }
 
   .pageTitle {
     font-size:2.5rem;
-    margin:15vh 0 0 3vw;
+    margin:7vh 0 0 3vw;
   }
 
   .issueTitle {
@@ -317,7 +532,7 @@ text-transform: lowercase;
   }
 
   .linkButtonTwo {
-    margin-left:7vw;
+    margin-right:5vw;
   }
 
   .linkButtonOne, .linkButtonTwo {
@@ -340,7 +555,7 @@ text-transform: lowercase;
   }
 
   .linkButtonOne, .linkButtonTwo {
-    font-size:0.6rem;
+    font-size:0.8rem;
   }
 
   .issueTitle {
