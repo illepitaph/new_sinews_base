@@ -93,10 +93,10 @@ export default function Issue5Bios() {
    <br/>
    <br/>
    <br/>
-   <span className={styles.grayInverse}>JACQUELINE FELDMAN</span> is an MFA candidate at UMass
-   Amherst. Recent work appears in <i>Socrates on the Beach</i>, <i>3:AM</i>, <i>Triple Canopy</i>, and <i>The White
+   <span className={styles.grayInverse}>JACQUELINE FELDMAN</span>'s work has appeared in <i>Socrates on the Beach</i>, <i>3:AM</i>, <i>Triple Canopy</i>, and <i>The White
    Review</i>. A fuller index can be found at <a
-   className={styles.biosExternalLink} target="_blank"href="https://www.jacqueline-feldman.com/">jacqueline-feldman.com</a>
+   className={styles.biosExternalLink} target="_blank"href="https://www.jacqueline-feldman.com/">jacqueline-feldman.com</a>. She is currently an MFA candidate and
+   Delaney Fellow at UMass Amherst, where she teaches writing. 
    <br/>
    <br/>
    <br/>

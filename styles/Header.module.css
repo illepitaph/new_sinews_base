@@ -40,7 +40,7 @@
   justify-content:space-between;
 }
 
-.iconPlusSitebar > .iconImage {
+.iconImage {
   background-image:url("../public/images/NewSinewsIcon.jpg");
   background-repeat:no-repeat;
   background-position:center;
@@ -50,6 +50,11 @@
   margin:12vh 0 0 2vw;
   opacity:0.9;
   cursor:pointer;
+  transition:2s opacity;
+}
+
+.iconImage:hover {
+  opacity:0.4;
 }
 
 .siteNav {
