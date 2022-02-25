@@ -49,10 +49,8 @@ export default function Issue3() {
         <div className={styles.workColumn}>
           <div className={styles.workLink}><Link href="/issue3/bios">~~~ contri butor_ _ _b  i  os ~~~</Link></div>
         <div className={styles.siteShortcuts}>
-              <button className={styles.linkButton}><a
-              className={styles.innerSiteLinkTag} href="https://newnewsinews.com">new sinews</a></button>
-              <button className={styles.linkButton}><a
-              className={styles.innerSiteLinkTag} href="https://newnewsinews.com/about">about</a></button>
+              <button className={styles.linkButton}><Link href="/">new sinews</Link></button>
+              <button className={styles.linkButton}><Link href="/about">about</Link></button>
               <button className={styles.linkButton}>
                 <a className={styles.twitterLinkTag} href="https://twitter.com/new_sinews">tweeter</a>
               </button>

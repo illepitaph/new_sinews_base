@@ -246,18 +246,43 @@ text-transform: lowercase;
   text-shadow: 2px 4px 6px #b0b0b0;
 }
 
-@media (width:1280px) and (height:800px) {
+@media (width:1368px) and (height:912px) {
 
   .workStructure{
     margin:3vh 1vw 1vh 1vw;
-    font-size:1.65rem;
-      grid-gap:1vh;
+    font-size:1.95rem;
+      grid-gap:5vh;
   }
 
   .workStructureTwo {
     margin:2vh 1vw 1vh 1vw;
-    font-size:1.55rem;
-      grid-gap:1vh;
+    font-size:1.9rem;
+      grid-gap:5vh;
+  }
+
+  .linkButtonOne {
+    margin:2vw 0 0 4vw;
+  }
+
+  .linkButtonTwo {
+    margin-top:4vh;
+  }
+
+}
+
+
+@media (width:1280px) and (height:800px) {
+
+  .workStructure{
+    margin:3vh 1vw 1vh 1vw;
+    font-size:1.85rem;
+      grid-gap:5vh;
+  }
+
+  .workStructureTwo {
+    margin:2vh 1vw 1vh 1vw;
+    font-size:1.75rem;
+      grid-gap:5vh;
   }
 
   .linkButtonOne {
@@ -300,14 +325,48 @@ text-transform: lowercase;
 
 }
 
+@media (width:1024px) and (height:768px) {
+
+  .workStructure{
+    margin:4vh 1vw 1vh 1vw;
+    font-size:1.6rem;
+      grid-gap:5vh;
+  }
+
+  .workStructureTwo {
+    margin:3vh 1vw 1vh 1vw;
+    font-size:1.55rem;
+      grid-gap:4vh;
+  }
+
+
+}
+
+@media (width:1024px) and (height:600px) {
+
+  .workStructure{
+    margin:4vh 1vw 1vh 1vw;
+    font-size:1.48rem;
+      grid-gap:2vh;
+  }
+
+  .workStructureTwo {
+    margin:3vh 1vw 1vh 1vw;
+    font-size:1.42rem;
+      grid-gap:1vh;
+  }
+
+
+}
+
 @media (max-width:927px) and (orientation:landscape) {
 
   .workStructure, .workStructureTwo {
-    font-size:1.1rem;
+    font-size:1.25rem;
     text-shadow:1px 1px #D10000,
     2px 2px black;
     letter-spacing: 0.1rem;
-    margin:3vh 1vw;
+    margin:3vh 3vw;
     width:100%;
     grid-gap:6px;
     white-space:pre-line;
@@ -340,6 +399,12 @@ text-transform: lowercase;
 
 @media (max-width:913px) and (orientation:portrait) {
 
+  .workStructure, .workStructureTwo {
+    font-size:1.6rem;
+    letter-spacing: 0.1rem;
+    grid-gap:7.8vh;
+  }
+
   .bodyContainer {
     max-height:100%;
   }
@@ -357,7 +422,7 @@ text-transform: lowercase;
 @media (max-width:854px) and (orientation:landscape) {
 
   .workStructure, .workStructureTwo {
-    font-size:1rem;
+    font-size:1.15rem;
   }
 
   .pageTitle {
@@ -442,24 +507,59 @@ text-transform: lowercase;
 
   .workStructure, .workStructureTwo {
     font-size:0.95rem;
+    grid-gap:13px;
   }
 
   .pageTitle {
+    font-size: 1.75rem;
     margin:2vh 0 0 4vw;
   }
 
   .issueTitle {
-    font-size: 1.6rem;
+    font-size: 1.5rem;
     margin-top:5vh;
     margin-left:15vw;
   }
 
 }
 
+@media (width:768px) and (height:1024px) {
+
+  .workStructure, .workStructureTwo {
+    grid-gap:5.8vh;
+  }
+
+  .pageTitle {
+    font-size: 2.7rem;
+    margin:15vh 0 0 4vw;
+  }
+
+}
+
+@media (width:720px) and  (height:540px) {
+
+  .workStructure, .workStructureTwo {
+    font-size:1.25rem;
+    grid-gap:2vh;
+  }
+
+  .linkButtonOne, .linkButtonTwo {
+    font-size:0.9rem;
+  }
+
+  .pageTitle {
+    margin:7vh 0 0 2vw;
+  }
+
+  .issueTitle {
+    margin-left:14vw;
+  }
+}
+
 @media (max-width:667px) and (orientation:landscape) {
 
   .workStructure, .workStructureTwo {
-    font-size:0.85rem;
+    font-size:0.95rem;
     grid-gap:15px;
   }
 
@@ -477,10 +577,19 @@ text-transform: lowercase;
 
 }
 
-@media (width:540px) and  (height:720px) and (orientation:portrait) {
+@media (width:540px) and  (height:720px) {
+
+  .workStructure, .workStructureTwo {
+    font-size:1.25rem;
+    grid-gap:3vh;
+  }
 
   .linkButtonOne, .linkButtonTwo {
     font-size:0.9rem;
+  }
+
+  .pageTitle {
+    margin:7vh 0 0 2vw;
   }
 
   .issueTitle {
@@ -499,12 +608,12 @@ text-transform: lowercase;
   }
 
   .workStructure, .workStructureTwo {
-    font-size:1rem;
+    font-size:1.5rem;
     text-shadow:1px 1px #D10000,
     2px 2px black;
     margin:3vh 1vw;
     max-width:75%;
-    grid-gap:10px;
+    grid-gap:20px;
     white-space:pre-line;
   }
 
@@ -543,16 +652,17 @@ text-transform: lowercase;
 
 @media (max-width:391px) and (orientation:portrait) {
 
+  .workStructure, .workStructureTwo {
+    font-size:1.2rem;
+    grid-gap:10px;
+  }
+
   .linkButtonOne, .linkButtonTwo {
     font-size:0.7rem;
   }
 }
 
 @media (max-width:361px) and (orientation:portrait) {
-
-  .workStructure, .workStructureTwo {
-    font-size:0.9rem;
-  }
 
   .linkButtonOne, .linkButtonTwo {
     font-size:0.8rem;
@@ -561,4 +671,33 @@ text-transform: lowercase;
   .issueTitle {
     margin-left:6vw;
   }
+}
+
+@media (max-width:281px) and (orientation:portrait) {
+
+  .workStructure, .workStructureTwo {
+    font-size:1.1rem;
+    grid-gap:3vh;
+  }
+
+  .linkButtonOne, .linkButtonTwo {
+    font-size:0.7rem;
+  }
+}
+
+@media (max-height:281px) and (orientation:landscape) {
+
+  .workStructure, .workStructureTwo {
+    font-size:0.83rem;
+    grid-gap:1.4vh;
+  }
+
+  .pageTitle {
+    font-size: 1.3rem;
+  }
+
+  .issueTitle {
+    font-size: 1.1rem;
+  }
+
 }
