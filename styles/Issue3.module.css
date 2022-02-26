@@ -185,6 +185,13 @@
   }
 }
 
+@media (width:1024px) and (height:1366px) {
+
+  .issueContents {
+    margin:3vh 0 0 39vw;
+  }
+}
+
 @media (width:1024px) and (height:768px) and (orientation:landscape) {
 
   .issueContents {
@@ -260,10 +267,18 @@
 
 }
 
-@media (max-width: 855px) and (orientation:landscape) {
+@media (max-width: 869px) and (orientation:landscape) {
+
+  .pageTitle {
+    font-size: 1.5rem;
+  }
+
+  .issueTitle {
+    font-size: 1.5rem;
+  }
 
   .workLink {
-    font-size: 0.93rem;
+    font-size: 0.9rem;
   }
 
 }
@@ -351,6 +366,10 @@
 
   .issueContents {
     margin:3vh 0 0 47vw;
+  }
+
+  .workLink {
+  font-size: 0.57rem;
   }
 
 }
