@@ -44,7 +44,7 @@ export default function Issue3() {
           <Link href="/issue3/dasgupta"><div className={styles.workLink}>shome dasgupta_remember nothing</div></Link>
         </div>
         <div className={styles.workColumn}>
-          <Link href="/issue3/ovid"><div className={styles.workLink}>mike corrao_ovidian dynamics</div></Link>
+          <Link href="/issue3/corraoovidian"><div className={styles.workLink}>mike corrao_ovidian dynamics</div></Link>
         </div>
         <div className={styles.workColumn}>
           <div className={styles.workLink}><Link href="/issue3/bios">~~~ contri butor_ _ _b  i  os ~~~</Link></div>

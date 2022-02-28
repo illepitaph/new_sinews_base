@@ -82,7 +82,7 @@ return (
   <Link href="/issue3/gette"><button>megan jeanne gette_summoning green, a leprosy of the heart</button></Link>
   <Link href="/issue3/krumrie"><button>kelly krumrie_excerpts from ‘no measure’</button></Link>
   <Link href="/issue3/dasgupta"><button>shome dasgupta_remember nothing</button></Link>
-  <Link href="/issue3/ovid"><button>mike corrao_ovidian dynamics</button></Link>
+  <Link href="/issue3/corraoovidian"><button>mike corrao_ovidian dynamics</button></Link>
   <Link href="/issue3/bios"><button>issue3_bios</button></Link>
   </div>
   </div>

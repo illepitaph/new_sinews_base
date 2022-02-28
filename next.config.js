@@ -121,6 +121,56 @@ module.exports = {
         source: "/shimoda4",
         destination: "issue2/shimoda4",
       },
+
+      {
+        source: "/issue3",
+        destination: "issue3/index",
+      },
+
+      {
+        source: "/issue3bios",
+        destination: "issue3/bios",
+      },
+
+      {
+        source: "/dusk",
+        destination: "issue3/dusk",
+      },
+
+      {
+        source: "/stough",
+        destination: "issue3/stough",
+      },
+
+      {
+        source: "/akant",
+        destination: "issue3/akant",
+      },
+
+      {
+        source: "/alvarez",
+        destination: "issue3/alvarez",
+      },
+
+      {
+        source: "/gette",
+        destination: "issue3/gette",
+      },
+
+      {
+        source: "/krumrie",
+        destination: "issue3/krumrie",
+      },
+
+      {
+        source: "/dasgupta",
+        destination: "issue3/dasgupta",
+      },
+
+      {
+        source: "/corraoovidan",
+        destination: "issue3/corraoovidian",
+      },
     ]
   }
 }
