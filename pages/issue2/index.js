@@ -38,7 +38,7 @@ export default function Issue2() {
         <Link href="/issue2/strauss"><div className={styles.workLink}>adam strauss_five poems</div></Link>
       </div>
       <div className={styles.col1}>
-        <Link href="/issue2/tomb-model"><div className={styles.workLink}>brandon shimoda_excerpts from ‘tomb
+        <Link href="/issue2/shimoda"><div className={styles.workLink}>brandon shimoda_excerpts from ‘tomb
         model of a noble’s house’</div></Link>
       </div>
       <div className={styles.col2}>
@@ -52,10 +52,10 @@ export default function Issue2() {
         <Link href="/issue2/lakghomi"><div className={styles.workLink}>babak lakghomi_a request + say her name</div></Link>
       </div>
       <div className={styles.col2}>
-          <Link href="/issue2/le-yeaste"><div className={styles.workLink}>vi khi nao_le yeaste</div></Link>
+          <Link href="/issue2/leyeaste"><div className={styles.workLink}>vi khi nao_le yeaste</div></Link>
       </div>
       <div className={styles.col2}>
-        <Link href="/issue2/saluting-a-hex"><div className={styles.workLink}>saluting a hex of
+        <Link href="/issue2/salutingahex"><div className={styles.workLink}>saluting a hex of
         gangrenous sky or: brandon shimoda's ritual inversions
       </div></Link>
       </div>

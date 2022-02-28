@@ -542,7 +542,7 @@ text-transform: lowercase;
 @media (width:768px) and (height:1024px) {
 
   .workStructure, .workStructureTwo {
-    grid-gap:5.8vh;
+    grid-gap:4vh;
   }
 
   .pageTitle {

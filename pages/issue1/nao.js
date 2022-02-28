@@ -4,9 +4,9 @@ import Header from '../../components/header.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/TwoEyesInOne.module.css'
 import { text } from '../../GalleryData/TwoEyesCarouselData'
-TwoEyesInOneEye.title = "vi_khi_nao ~ two_eyes_in_one_eye: a_delirium — new_sinews";
+Nao.title = "vi_khi_nao ~ two_eyes_in_one_eye: a_delirium — new_sinews";
 
-export default function TwoEyesInOneEye() {
+export default function Nao() {
   const [textArrayIndex, setTextArrayIndex] = useState(0);
     function prevText() {
        if (textArrayIndex > 0) {

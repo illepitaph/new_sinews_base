@@ -98,10 +98,10 @@ export default function Header(props) {
     <Link href="/issue2/porte"><button>rebecca ariel porte_portraits of some persons as imaginary cities</button></Link>
     <Link href="/issue2/lewis"><button>susan lewis_two poems</button></Link>
     <Link href="/issue2/lakghomi"><button>babak lakghomi_a request + say her name</button></Link>
-      <Link href="/issue2/le-yeaste"><button>vi khi nao_le yeaste</button></Link>
+      <Link href="/issue2/leyeaste"><button>vi khi nao_le yeaste</button></Link>
     <Link href="/issue2/strauss"><button>adam strauss_five poems</button></Link>
-    <Link href="/issue2/saluting-a-hex"><button>saluting a hex of gangrenous sky or: brandon shimoda's ritual inversions</button></Link>
-    <Link href="/issue2/tomb-model"><button>brandon shimoda_excerpts from ‘tomb model of a noble’s house’</button></Link>
+    <Link href="/issue2/salutingahex"><button>saluting a hex of gangrenous sky or: brandon shimoda's ritual inversions</button></Link>
+    <Link href="/issue2/shimoda"><button>brandon shimoda_excerpts from ‘tomb model of a noble’s house’</button></Link>
     <Link href="/issue2/bios"><button>issue2_bios</button></Link>
     </div>
   </div>
@@ -118,8 +118,8 @@ export default function Header(props) {
     <Link href="/issue1/eisen-martin"><button>tongo eisen-martin_two poems</button></Link>
     <Link href="/issue1/blackwell"><button>gabriel blackwell_scenery + bedtime</button></Link>
     <Link href="/issue1/romanosky"><button>christa romanosky_three poems</button></Link>
-    <Link href="/issue1/two-eyes-in-one"><button>vi khi nao_2 eyes in 1 eye: a delirium</button></Link>
-    <Link href="/issue1/even-flesh"><button>even flesh seems a formality_or: vi khi nao's organic oscillations</button></Link>
+    <Link href="/issue1/nao"><button>vi khi nao_2 eyes in 1 eye: a delirium</button></Link>
+    <Link href="/issue1/evenflesh"><button>even flesh seems a formality_or: vi khi nao's organic oscillations</button></Link>
     <Link href="/issue1/bios"><button>issue1_bios</button></Link>
   </div>
   </div>

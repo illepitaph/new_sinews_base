@@ -29,10 +29,10 @@ export default function Issue1() {
       <Link href="/issue1/eisen-martin"><div className={styles.workLink}>tongo eisen-martin_two poems</div></Link>
       </div>
       <div className={styles.col2}>
-        <Link href="/issue1/two-eyes-in-one"><div className={styles.workLink}>vi khi nao_2 eyes in 1 eye: a delirium</div></Link>
+        <Link href="/issue1/nao"><div className={styles.workLink}>vi khi nao_2 eyes in 1 eye: a delirium</div></Link>
       </div>
       <div className={styles.col2}>
-        <Link href="/issue1/even-flesh"><div className={styles.workLink} href=""
+        <Link href="/issue1/evenflesh"><div className={styles.workLink} href=""
         >even flesh seems a formality<br/>or: vi khi nao's organic
           oscillations
         </div></Link>
