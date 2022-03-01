@@ -55,14 +55,14 @@ export default function Home() {
         <Link href="/issue4"><button>issue_4</button></Link>
       <div className={styles[issueFourDropdownClass]}>
       <Link href="/issue4"><button>new_sinews_issue4</button></Link>
-      <Link href="/issue4/rat"><button>brandon shimoda_the hour of the rat</button></Link>
+      <Link href="/issue4/hour"><button>brandon shimoda_the hour of the rat</button></Link>
       <Link href="/issue4/guanyin"><button>k-ming chang_guanyin</button></Link>
       <Link href="/issue4/isoline"><button>evan isoline_as foam from this sweet hour</button></Link>
       <Link href="/issue4/howfar"><button>christa romanosky_how far you can get on an empty tank of gas</button></Link>
       <Link href="/issue4/palacios"><button>gabriel palacios_poems from lunar hilton elegy</button></Link>
       <Link href="/issue4/hummel"><button> allison hummel_the fires are back // i look at
       sauce // untitled // comfort like the</button></Link>
-      <Link href="/issue4/text-spinality"><button>mike corrao_text spinality</button></Link>
+      <Link href="/issue4/textspinality"><button>mike corrao_text spinality</button></Link>
       <Link href="/issue4/poemsborn"><button>vi khi nao_poems born from basic words</button></Link>
       <Link href="/issue4/maierhofer"><button>grant maierhofer_in the time when my memory
       fixated on the death of princess diana</button></Link>

@@ -11,7 +11,7 @@ export default function Issue4() {
         <div className={styles.pageStructure}>
           <div className={styles.issueContents}>
         <div className={styles.workColumn}>
-            <Link href="/issue4/rat"><div className={styles.workLink}>... brandon shimoda + the hour of the rat ...</div></Link>
+            <Link href="/issue4/hour"><div className={styles.workLink}>... brandon shimoda + the hour of the rat ...</div></Link>
         </div>
         <div className={styles.workColumn}>
           <Link href="/issue4/guanyin"><div className={styles.workLink}>... k-ming chang + guanyin ...</div></Link>
@@ -33,7 +33,7 @@ export default function Issue4() {
           sauce // untitled // comfort like the ...</div></Link>
         </div>
         <div className={styles.workColumn}>
-          <Link href="/issue4/text-spinality"><div className={styles.workLink}>... mike corrao + text spinality ...</div></Link>
+          <Link href="/issue4/textspinality"><div className={styles.workLink}>... mike corrao + text spinality ...</div></Link>
         </div>
         <div className={styles.workColumn}>
         <Link href="/issue4/poemsborn"><div className={styles.workLink}>... vi khi nao + poems born from basic
