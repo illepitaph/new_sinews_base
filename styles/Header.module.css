@@ -293,6 +293,20 @@
   background-image:url("../public/images/LuBackground.jpg");
 }
 
+@media (width:1024px) and (height:1366px) {
+
+  .iconImage {
+    width:23vw;
+    height:33vh;
+    margin:12vh 0 0 5vw;
+  }
+
+  .siteNav > .dropDown > button, .home, .about {
+  font-size:0.6rem;
+  }
+
+ }
+
 
 @media (max-width: 991.98px) {
 
@@ -330,13 +344,13 @@
 }
 }
 
-@media (max-width: 769px) and (orientation:portrait) {
+@media (max-width: 835px) and (orientation:portrait) {
 
   .iconImage {
-    width:45vw;
-    height:45vh;
-    margin-top:13vh;
-    margin-left:12vw;
+    width:40vw;
+    height:40vh;
+    margin-top:21vh;
+    margin-left:4vw;
     opacity:0.7;
   }
 
@@ -355,6 +369,26 @@
 
  }
 
+ @media (width:820px) and (height:1180px) {
+
+   .siteNav > .dropDown > button, .home, .about {
+     width:7rem;
+     padding:12px 14px;
+     opacity:0.85;
+   }
+
+  }
+
+ @media (width:800px) and (height:1280px) {
+
+   .siteNav > .dropDown > button, .home, .about {
+     width:7rem;
+     padding:12px 14px;
+     opacity:0.85;
+   }
+
+  }
+
  @media (max-width: 768px) and (height:1024px) {
 
    .siteNav {
@@ -363,13 +397,40 @@
 
   }
 
- @media (max-width: 721px) and (orientation:landscape) {
+ @media (max-width: 737px) and (orientation:landscape) {
 
    .siteNav > button, .home, .about {
      padding:1.5px 3px;
+     font-size:0.63rem;
+   }
+ }
+
+ @media (max-width: 668px) and (orientation:landscape) {
+
+   .siteNav > .dropDown > button, .home, .about {
+   font-size:0.5rem;
+   }
+ }
+
+
+ @media (max-width: 601px) and (orientation:portrait) {
+
+   .iconImage {
+     width:35vw;
+     height:35vh;
+     margin-top:25vh;
+     margin-left:9vw;
    }
 
- }
+  }
+
+  @media (max-width: 481px) and (orientation:portrait) {
+
+    .iconImage {
+      margin-top:19vh;
+    }
+
+   }
 
  @media (max-height: 400px) and (orientation:landscape){
 
@@ -396,10 +457,14 @@
 
  }
 
- @media (max-width: 376px) and (orientation:portrait) {
+ @media (max-width: 375px) and (orientation:portrait) {
 
    .siteNav {
      margin:19vh 6vw 0 0 ;
+   }
+
+   .siteNav > .dropDown > button, .home, .about {
+     padding:2.5px 4px;
    }
 
   }

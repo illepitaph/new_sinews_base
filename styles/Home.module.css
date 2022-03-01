@@ -194,6 +194,30 @@
     filter: drop-shadow(1px 1px snow) invert(75%);
 }
 
+@media (width:1024px) and (height:1366px) {
+
+  .iconImage {
+    width:25vw;
+    height:25vh;
+    margin-top:9vh;
+    margin-left:5vw;
+    opacity:0.7;
+  }
+
+  .siteNav {
+    align-self:center;
+    display:inline-flex;
+    justify-content:flex-end;
+    margin-right:2%;
+  }
+
+  .graffiti {
+    margin:19% 0 0 1%;
+  }
+
+
+}
+
 @media (width:1024px) and (height:768px) and (orientation:landscape) {
 
   .graffiti {
@@ -219,14 +243,6 @@
     background-position:center;
   }
 
-  .iconPlusSitebar > div {
-    width:35vw;
-    height:35vh;
-    margin-top:9vh;
-    margin-left:5vw;
-    opacity:0.7;
-  }
-
   .siteNav {
     align-self:center;
     display:inline-flex;
@@ -246,7 +262,7 @@
 
 @media (max-width: 927px) and (orientation:landscape) {
 
-  .iconPlusSitebar > div {
+  .iconImage {
     width:55vw;
     height:55vh;
     margin-left:1vw;
@@ -265,6 +281,13 @@
 }
 
 @media (max-width: 913px) and (orientation:portrait) {
+
+  .iconImage {
+    width:40vw;
+    height:40vh;
+      margin:8vh 0 0 12vw;
+
+  }
 
   .top {
     background-size:cover;
@@ -300,6 +323,16 @@
 
 }
 
+@media (max-width:721px) and (orientation:portrait) {
+
+
+  .graffiti {
+    font-size:1.8rem;
+  }
+
+}
+
+
 @media (max-width: 668px) and (orientation:landscape) {
 
   .siteNav > .dropDown > button, .about {
@@ -322,7 +355,14 @@
 
 }
 
-@media (max-width:429px) and (orientation:portrait) {
+@media (max-width:481px) and (orientation:portrait) {
+
+  .iconImage {
+    width:40vw;
+    height:40vh;
+      margin:8vh 0 0 12vw;
+
+  }
 
   .graffiti {
     font-size:1rem;
@@ -348,6 +388,11 @@
 
 @media (max-width:391px) and (orientation:portrait) {
 
+  .iconImage {
+    margin:11vh 0 0 12vw;
+
+  }
+
   .graffiti {
     font-size:0.9rem;
   }
@@ -358,7 +403,12 @@
 
 }
 
-@media (max-width:281px) and (orientation:portrait) {
+@media (max-width:321px) and (orientation:portrait) {
+
+  .iconImage {
+    margin:7vh 0 0 12vw;
+
+  }
 
 
   .graffiti {
@@ -372,7 +422,7 @@
 
 }
 
-@media (max-height:281px) and (orientation:landscape) {
+@media (max-height:321px) and (orientation:landscape) {
 
 
   .graffiti {

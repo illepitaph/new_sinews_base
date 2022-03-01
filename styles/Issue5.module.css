@@ -593,7 +593,7 @@ text-transform: lowercase;
 
 }
 
-@media (max-width:601px) and (orientation:portrait) {
+@media (max-width:605px) and (orientation:portrait) {
 
   .pageBackgroundOne, .pageBackgroundTwo {
     min-width:34%;
