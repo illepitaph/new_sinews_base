@@ -235,6 +235,30 @@
 
 }
 
+@media (width:1024px) and (height:1366px) {
+
+  .iconImage {
+    width:20vw;
+    height:20vh;
+    margin-top:9vh;
+    margin-left:2vw;
+    opacity:0.7;
+  }
+
+  .siteNav {
+    align-self:center;
+    display:inline-flex;
+    justify-content:flex-end;
+    margin-right:2%;
+  }
+
+  .siteNav > .dropDown > button, .home, .about {
+    font-size:0.8rem;
+  }
+
+
+}
+
 @media (width:1024px) and (height:768px) {
 
   .siteNav > .dropDown > button, .home, .about {
