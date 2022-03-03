@@ -247,6 +247,7 @@
 
  }
 
+
  @media (max-height: 620px) {
 
    .workLink {
@@ -254,6 +255,14 @@
    }
 
  }
+
+ @media (max-height: 415px) and (orientation:landscape){
+
+   .workLink {
+     font-size: 0.9rem;
+   }
+}
+
 
  @media (max-height: 400px) and (orientation:landscape){
 
