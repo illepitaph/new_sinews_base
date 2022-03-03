@@ -2,7 +2,7 @@ import Head from 'next/head'
 import Header from '../../components/header.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Lewis.module.css'
-import React, {useState} from 'react'
+import React, {useState, useEffect} from 'react'
 import { lewisText } from '../../GalleryData/LewisCarouselData'
 Lewis.title = "susan_lewis ~ two poems — new_sinews"
 
@@ -23,6 +23,28 @@ export default function Lewis() {
       setTextArrayIndex(0);
     }
 }
+
+useEffect (() => {
+
+function handleKeyDown(e) {
+   if (e.keyCode === 37 && textArrayIndex > 0) {
+setTextArrayIndex(textArrayIndex - 1);
+} else if (e.keyCode === 37 && textArrayIndex === 0)  {
+ setTextArrayIndex(lewisText.length - 1);
+}  else if (e.keyCode === 39 && textArrayIndex < 12) {
+  setTextArrayIndex(textArrayIndex + 1);
+} else if (e.keyCode === 39 && textArrayIndex === 12) {
+  setTextArrayIndex(0);
+ }
+}
+
+  window.addEventListener("keydown", handleKeyDown, handleKeyDown);
+
+return () => {
+  window.removeEventListener("keydown", handleKeyDown, handleKeyDown);
+};
+}, [textArrayIndex]);
+
 
 const RawText = lewisText[textArrayIndex]["textName"];
 

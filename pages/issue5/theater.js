@@ -1,4 +1,4 @@
-import React, {useState} from 'react'
+import React, {useState, useEffect} from 'react'
 import Head from 'next/head'
 import Header from '../../components/header.js'
 import Footer from '../../components/footer.js'
@@ -23,6 +23,28 @@ export default function TheaterOfMaterials() {
       setTextArrayIndex(0);
     }
 }
+
+useEffect (() => {
+
+function handleKeyDown(e) {
+   if (e.keyCode === 37 && textArrayIndex > 0) {
+setTextArrayIndex(textArrayIndex - 1);
+} else if (e.keyCode === 37 && textArrayIndex === 0)  {
+ setTextArrayIndex(theaterText.length - 1);
+}  else if (e.keyCode === 39 && textArrayIndex < 12) {
+  setTextArrayIndex(textArrayIndex + 1);
+} else if (e.keyCode === 39 && textArrayIndex === 12) {
+  setTextArrayIndex(0);
+ }
+}
+
+  window.addEventListener("keydown", handleKeyDown, handleKeyDown);
+
+return () => {
+  window.removeEventListener("keydown", handleKeyDown, handleKeyDown);
+};
+}, [textArrayIndex]);
+
 
 const RawText = theaterText[textArrayIndex]["textName"];
 

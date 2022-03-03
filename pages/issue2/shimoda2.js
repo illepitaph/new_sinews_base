@@ -1,4 +1,4 @@
-import React, {useState} from 'react'
+import React, {useState, useEffect} from 'react'
 import Head from 'next/head'
 import Header from '../../components/header.js'
 import Footer from '../../components/footer.js'
@@ -23,6 +23,28 @@ export default function TombModelTwo() {
       setTextArrayIndex(0);
     }
 }
+
+useEffect (() => {
+
+function handleKeyDown(e) {
+   if (e.keyCode === 37 && textArrayIndex > 0) {
+setTextArrayIndex(textArrayIndex - 1);
+} else if (e.keyCode === 37 && textArrayIndex === 0)  {
+ setTextArrayIndex(tombModelTwoText.length - 1);
+}  else if (e.keyCode === 39 && textArrayIndex < 22) {
+  setTextArrayIndex(textArrayIndex + 1);
+} else if (e.keyCode === 39 && textArrayIndex === 22) {
+  setTextArrayIndex(0);
+ }
+}
+
+  window.addEventListener("keydown", handleKeyDown, handleKeyDown);
+
+return () => {
+  window.removeEventListener("keydown", handleKeyDown, handleKeyDown);
+};
+}, [textArrayIndex]);
+
 
 const RawText = tombModelTwoText[textArrayIndex]["textName"];
 

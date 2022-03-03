@@ -2,7 +2,7 @@ import Head from 'next/head'
 import Header from '../../components/header.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Zamora.module.css'
-import React, {useState} from 'react'
+import React, {useState, useEffect} from 'react'
 import { zamoraText } from '../../GalleryData/ZamoraCarouselData'
 Zamora.title = "felicia_zamora ~ selections_from_'quotient' — new_sinews"
 
@@ -24,6 +24,28 @@ export default function Zamora() {
       setTextArrayIndex(0);
     }
 }
+
+useEffect (() => {
+
+function handleKeyDown(e) {
+   if (e.keyCode === 37 && textArrayIndex > 0) {
+setTextArrayIndex(textArrayIndex - 1);
+} else if (e.keyCode === 37 && textArrayIndex === 0)  {
+ setTextArrayIndex(zamoraText.length - 1);
+}  else if (e.keyCode === 39 && textArrayIndex < 7) {
+  setTextArrayIndex(textArrayIndex + 1);
+} else if (e.keyCode === 39 && textArrayIndex === 7) {
+  setTextArrayIndex(0);
+ }
+}
+
+  window.addEventListener("keydown", handleKeyDown, handleKeyDown);
+
+return () => {
+  window.removeEventListener("keydown", handleKeyDown, handleKeyDown);
+};
+}, [textArrayIndex]);
+
 
 const RawText = zamoraText[textArrayIndex]["textName"];
 
