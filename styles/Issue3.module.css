@@ -420,14 +420,22 @@
   }
 }
 
-@media (max-width: 291px) and (orientation:portrait) {
+@media (max-width: 321px) and (orientation:portrait) {
+
+  .pageTitle {
+    font-size: 2.5rem;
+  }
+
+  .issueTitle {
+    font-size: 2.5rem;
+  }
 
   .issueContents {
     margin:3vh 0 0 3vw;
   }
 
   .workLink {
-    font-size:0.8rem;
+    font-size:0.75rem;
   }
 }
 

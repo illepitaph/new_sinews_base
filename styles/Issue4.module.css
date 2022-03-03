@@ -296,6 +296,14 @@
 
 }
 
+@media (max-width: 534px) and (orientation: landscape) {
+
+  .workLink {
+    font-size: 0.68rem;
+  }
+
+}
+
 
 @media(max-width: 320px){
   .workLink {
