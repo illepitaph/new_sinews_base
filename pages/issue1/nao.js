@@ -25,29 +25,30 @@ export default function Nao() {
     }
 }
 
-   function handleKeyDownLeft(e) {
-  if (e.keyCode === 37 && textArrayIndex > 0) {
- setTextArrayIndex(textArrayIndex - 1);
-} else {
- setTextArrayIndex(text.length - 1);
-}
-}
-
-    function handleKeyDownRight(e) {
-      if (e.keyCode === 39 && textArrayIndex < 24) {
-      setTextArrayIndex(textArrayIndex + 1);
-    } else {
-      setTextArrayIndex(0);
-    }
-}
-
 useEffect (() => {
-  window.addEventListener("keydown", handleKeyDownLeft, handleKeyDownRight);
+
+function handleKeyDown(e) {
+   if (e.keyCode === 37 && textArrayIndex > 0) {
+setTextArrayIndex(textArrayIndex - 1);
+} else if (e.keyCode === 37 && textArrayIndex === 0)  {
+ setTextArrayIndex(text.length - 1);
+}  else if (e.keyCode === 39 && textArrayIndex < 24) {
+  setTextArrayIndex(textArrayIndex + 1);
+} else if (e.keyCode === 39 && textArrayIndex === 24) {
+  setTextArrayIndex(0);
+ }
+}
+
+  window.addEventListener("keydown", handleKeyDown, handleKeyDown);
 
 return () => {
-  window.removeEventListener("keydown", handleKeyDownLeft, handleKeyDownRight);
-}
-})
+  window.removeEventListener("keydown", handleKeyDown, handleKeyDown);
+};
+}, [textArrayIndex]);
+
+
+
+
 
 const RawText = text[textArrayIndex]["textName"];
 
