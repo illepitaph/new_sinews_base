@@ -38,10 +38,10 @@ setTextArrayIndex(textArrayIndex - 1);
  }
 }
 
-  window.addEventListener("keydown", handleKeyDown, handleKeyDown);
+  window.addEventListener("keydown", handleKeyDown);
 
 return () => {
-  window.removeEventListener("keydown", handleKeyDown, handleKeyDown);
+  window.removeEventListener("keydown", handleKeyDown);
 };
 }, [textArrayIndex]);
 
