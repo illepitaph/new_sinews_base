@@ -30,7 +30,7 @@
       rgba(32, 32, 32, 0.75),
       rgba(32, 32, 32, 0.25)
     ),
-    url("../public/images/SemiMirrorIssue1COVER.jpg") no-repeat center center fixed;
+    url("../public/images/Issue1Cover.jpg") no-repeat center center fixed;
   background-size: cover;
   min-height: 100%;
   min-width: 100%;
@@ -199,23 +199,14 @@
 
   }
 
-  @media (max-width: 800px) and (orientation:landscape) {
-
-    .pageTitle {
-      font-size: 2.5rem;
-    }
-
-    .issue {
-      font-size: 1.8rem;
-    }
+  @media (max-width: 927px) and (orientation:landscape) {
 
     .workLink {
-      font-size: 0.9rem;
+      font-size: 1.4rem;
       margin-top:2vh;
     }
 
-
-   }
+  }
 
    @media (max-height: 900px) and (orientation:portrait) {
 
@@ -225,6 +216,23 @@
 
 
     }
+
+    @media (max-width: 813px) and (orientation:landscape) {
+
+      .pageTitle {
+        font-size: 2.5rem;
+      }
+
+      .issue {
+        font-size: 1.8rem;
+      }
+
+      .workLink {
+        font-size: 0.9rem;
+      }
+
+
+     }
 
   @media (max-width: 380px) {
 
@@ -243,8 +251,16 @@
 
    }
 
+   @media(max-height: 376px) and (orientation:landscape){
 
-   @media(max-width: 320px){
+     .siteShortcuts > .linkButton {
+       font-size: 0.6rem;
+     }
+
+   }
+
+
+   @media(max-width: 320px) and (orientation:portrait) {
 
      .pageTitle {
        font-size: 2rem;
@@ -270,9 +286,7 @@
 
      .siteShortcuts > .linkButton {
        padding: 0.6vh 0.5vw;
-       font-size: 0.6rem;
        margin-right:4vw;
-       border:1px solid white;
      }
 
    }

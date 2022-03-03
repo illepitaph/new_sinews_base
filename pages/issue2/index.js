@@ -11,7 +11,7 @@ export default function Issue2() {
 
        <div className={styles.fullPageBackground}>
 
-      <body className={styles.pageStructure}>
+      <div className={styles.pageStructure}>
 
     <div className={styles.titleAndSubtitle}>
       <div className={styles.pageTitle}>n<i>e</i>w  _   <span className={styles.inverseTitleColor}>s<i>i</i>n</span>  _  e<i>w</i> s</div>
@@ -73,7 +73,7 @@ export default function Issue2() {
               href="https://twitter.com/new_sinews">➜ tweeter ➜</Link></div></button>
         </div>
     </div>
- </body>
+ </div>
 </div>
 
       </>

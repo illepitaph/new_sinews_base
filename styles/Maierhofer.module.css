@@ -18,7 +18,7 @@
 
 .epigraphAttribution {
   max-width:70vw;
-  font-family: sans-serif;
+  font-family: "base-9-sans", sans-serif;
   font-weight: 400;
   font-style: normal;
   font-size:1.2rem;
@@ -95,7 +95,7 @@
 
 }
 
-@media (max-width:281px) and (orientation:portrait) {
+@media (max-width:321px) and (orientation:portrait) {
   .title {
       font-size:1.1rem;
   }

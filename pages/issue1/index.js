@@ -8,7 +8,7 @@ export default function Issue1() {
       <>
       <Head/>
 
-      <body className={styles.fullPageBackground}>
+      <div className={styles.fullPageBackground}>
 
       <div className={styles.pageStructure}>
 
@@ -50,7 +50,7 @@ export default function Issue1() {
         </div>
     </div>
  </div>
-      </body>
+      </div>
       </>
   )
 }
