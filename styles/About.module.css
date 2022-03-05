@@ -197,13 +197,13 @@
 }
 
 .jpegBox2 > img {
-  height:100px;
+  height:30vh;
   flex:1 1 0;
-  border:2px solid black;
+  border:3px double black;
 }
 
 .jpegBox2 > img:nth-of-type(even) {
-  border:2px solid #404040;
+  border:3px double #404040;
 }
 
 @media (width:1180px) and (height:820px) {

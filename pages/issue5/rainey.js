@@ -77,7 +77,6 @@ export default function Rainey() {
       <br/>
       <br/>
       <br/>
-      <p className={styles.sectionBreak}>*</p>
       <br/>
       <br/>
       <br/>
@@ -95,7 +94,6 @@ export default function Rainey() {
       <br/>
       <br/>
       <br/>
-      <p className={styles.sectionBreak}>*</p>
       <br/>
       <br/>
       <br/>
@@ -108,7 +106,6 @@ export default function Rainey() {
       <br/>
       <br/>
       <br/>
-      <p className={styles.sectionBreak}>*</p>
       <br/>
       <br/>
       <br/>
@@ -162,7 +159,6 @@ export default function Rainey() {
       <br/>
       <br/>
       <br/>
-      <p className={styles.sectionBreak}>*</p>
       <br/>
       <br/>
       <br/>
@@ -284,7 +280,6 @@ export default function Rainey() {
       <br/>
       <br/>
       <br/>
-      <p className={styles.sectionBreak}>*</p>
       <br/>
       <br/>
       <br/>
@@ -301,7 +296,6 @@ export default function Rainey() {
       <br/>
       <br/>
       <br/>
-      <p className={styles.sectionBreak}>*</p>
       <br/>
       <br/>
       <br/>
@@ -346,7 +340,6 @@ export default function Rainey() {
       <br/>
       <br/>
       <br/>
-      <p className={styles.sectionBreak}>*</p>
       <br/>
       <br/>
       <br/>
@@ -447,7 +440,6 @@ export default function Rainey() {
       <br/>
       <br/>
       <br/>
-      <p className={styles.sectionBreak}>*</p>
       <br/>
       <br/>
       <br/>
@@ -490,7 +482,6 @@ export default function Rainey() {
       <br/>
       <br/>
       <br/>
-      <p className={styles.sectionBreak}>*</p>
       <br/>
       <br/>
       <br/>
@@ -524,7 +515,6 @@ export default function Rainey() {
       <br/>
       <br/>
       <br/>
-      <p className={styles.sectionBreak}>*</p>
       <br/>
       <br/>
       <br/>
@@ -563,7 +553,6 @@ export default function Rainey() {
       <br/>
       <br/>
       <br/>
-      <p className={styles.sectionBreak}>*</p>
       <br/>
       <br/>
       <br/>
@@ -596,7 +585,6 @@ export default function Rainey() {
       <br/>
       <br/>
       <br/>
-      <p className={styles.sectionBreak}>*</p>
       <br/>
       <br/>
       <br/>
