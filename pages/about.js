@@ -150,7 +150,7 @@ return (
     <img src="images/ArchaicEntity.jpg"></img>
     <img src="images/Bubbles.jpg"></img>
     <img src="images/SiracusaWall.jpg"></img>
-    <img src="images/SiracusaWall.jpg"></img>
+    <img src="images/ArchaicEntity.jpg"></img>
     <img src="images/Bubbles.jpg"></img>
     <img src="images/ArchaicEntity.jpg"></img>
     <img src="images/Security.jpg"></img>
@@ -188,32 +188,6 @@ creative nonfiction in a <code>word DOC</code> to be considered to:</p>
       <img src="images/Security.jpg"></img>
       <img src="images/ArchaicEntity.jpg"></img>
       <img src="images/Bubbles.jpg"></img>
-      <img src="images/SiracusaWall.jpg"></img>
-      <img src="images/SiracusaWall.jpg"></img>
-      <img src="images/Bubbles.jpg"></img>
-      <img src="images/ArchaicEntity.jpg"></img>
-      <img src="images/Security.jpg"></img>
-      <img src="images/ArchaicEntity.jpg"></img>
-      <img src="images/SiracusaWall.jpg"></img>
-      <img src="images/Security.jpg"></img>
-      <img src="images/Bubbles.jpg"></img>
-      <img src="images/Security.jpg"></img>
-      <img src="images/ArchaicEntity.jpg"></img>
-      <img src="images/Bubbles.jpg"></img>
-      <img src="images/SiracusaWall.jpg"></img>
-      <img src="images/SiracusaWall.jpg"></img>
-      <img src="images/Bubbles.jpg"></img>
-      <img src="images/ArchaicEntity.jpg"></img>
-      <img src="images/Security.jpg"></img>
-      <img src="images/ArchaicEntity.jpg"></img>
-      <img src="images/SiracusaWall.jpg"></img>
-      <img src="images/Security.jpg"></img>
-      <img src="images/Bubbles.jpg"></img>
-      <img src="images/Security.jpg"></img>
-      <img src="images/ArchaicEntity.jpg"></img>
-      <img src="images/Bubbles.jpg"></img>
-      <img src="images/SiracusaWall.jpg"></img>
-
     </div>
 </section>
 
