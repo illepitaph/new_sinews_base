@@ -3,7 +3,7 @@ import Header from '../../components/header.js'
 import CenterGrayTitle from '../../components/centerGrayTitle.js'
 import CenterBlackTitle from '../../components/centerBlackTitle.js'
 import Footer from '../../components/footer.js'
-import styles from '../../styles/Eisenmartin.module.css'
+import styles from '../../styles/EisenMartin.module.css'
 Eisen_Martin.title = "tongo_eisen-martin ~ two_poems — new_sinews";
 
 export default function Eisen_Martin() {
