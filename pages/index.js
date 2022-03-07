@@ -101,14 +101,14 @@ export default function Home() {
        <Link href="/issue2/briante" passHref><button>susan briante_two poems</button></Link>
        <Link href="/issue2/corrao" passHref><button>mike corrao_the archaeology of virtual
        spaces</button></Link>
-       <Link href="/issue2/zamora" passHref><button>felicia zamora_selections from 'quotient'</button></Link>
+       <Link href="/issue2/zamora" passHref><button>felicia zamora_selections from quotient</button></Link>
        <Link href="/issue2/taylor" passHref><button>sam taylor_five poems</button></Link>
        <Link href="/issue2/porte" passHref><button>rebecca ariel porte_portraits of some persons as imaginary cities</button></Link>
        <Link href="/issue2/lewis" passHref><button>susan lewis_two poems</button></Link>
        <Link href="/issue2/lakghomi" passHref><button>babak lakghomi_a request + say her name</button></Link>
          <Link href="/issue2/leyeaste" passHref><button>vi khi nao_le yeaste</button></Link>
        <Link href="/issue2/strauss" passHref><button>adam strauss_five poems</button></Link>
-       <Link href="/issue2/salutingahex" passHref><button>saluting a hex of gangrenous sky or: brandon shimoda's ritual inversions</button></Link>
+       <Link href="/issue2/salutingahex" passHref><button>saluting a hex of gangrenous sky or: brandon shimoda`&apos;`s ritual inversions</button></Link>
        <Link href="/issue2/shimoda" passHref><button>brandon shimoda_excerpts from ‘tomb model of a noble’s house’</button></Link>
        <Link href="/issue2/bios" passHref><button>issue2_bios</button></Link>
        </div>
@@ -127,11 +127,11 @@ export default function Home() {
               <Link href="/issue1/blackwell" passHref><button>gabriel blackwell_scenery + bedtime</button></Link>
                 <Link href="/issue1/romanosky" passHref><button>christa romanosky_three poems</button></Link>
                   <Link href="/issue1/nao" passHref><button>vi khi nao_2 eyes in 1 eye: a delirium</button></Link>
-                    <Link href="/issue1/evenflesh" passHref><button>even flesh seems a formality_or: vi khi nao's organic oscillations</button></Link>
+                    <Link href="/issue1/evenflesh" passHref><button>even flesh seems a formality_or: vi khi nao`&apos;`s organic oscillations</button></Link>
                       <Link href="/issue1/bios" passHref><button>issue1_bios</button></Link>
                   </div>
                 </div>
-            <Link href="/about"><button className={styles.about}>about</button></Link>
+            <Link href="/about" passHref><button className={styles.about}>about</button></Link>
             </nav>
           </div>
             <pre className={styles.graffiti}>{`

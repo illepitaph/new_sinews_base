@@ -39,7 +39,7 @@ export default function Issue1Bios() {
    and educator. His latest curriculum on extrajudicial killing of Black people,
   <cite><strong> We Charge Genocide Again</strong></cite>, has been used as an
   educational and organizing tool throughout the country. His book <cite><strong>
-   Someone's Dead Already </strong></cite> was nominated for a California Book
+   Someone`&apos;`s Dead Already </strong></cite> was nominated for a California Book
    Award. His latest book <cite><strong>Heaven Is All Goodbyes </strong></cite>
    was published by the City Lights Pocket Poets series, was shortlisted for the
    Griffin Poetry Prize and won a California Book Award and an American Book Award.
