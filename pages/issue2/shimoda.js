@@ -20,21 +20,21 @@ export default function TombModelCover() {
        <CenterGrayTitle> :: brandon<br/>shimoda :: </CenterGrayTitle>
        <br/><br/>
        <div className={styles.arrows}>&#8675; &#8681; &#8675; &#8681;</div>
-       <Link href="/issue2/shimoda1"><div
+       <Link href="/issue2/shimoda1" passHref><div
        className={styles.link}>place is our new<br/>destitute imperative</div></Link>
        <br/><br/>
        <div className={styles.arrows}>&#8681; &#8675; &#8681; &#8675;</div>
-       <Link href="/issue2/shimoda2"><div
+       <Link href="/issue2/shimoda2" passHref><div
        className={styles.link}>we need to find<br/>the right geography<br/>for
        our revelations</div></Link>
        <br/><br/>
        <div className={styles.arrows}>&#8675; &#8681; &#8675; &#8681;</div>
-       <Link href="/issue2/shimoda3"><div
+       <Link href="/issue2/shimoda3" passHref><div
        className={styles.link}>don't forget that for<br/>now it's strawberry season.<br/>yes.
        </div></Link>
        <br/><br/>
        <div className={styles.arrows}>&#8681; &#8675; &#8681; &#8675;</div>
-       <Link href="/issue2/shimoda4"><div
+       <Link href="/issue2/shimoda4" passHref><div
        className={styles.link}>i still have no way to<br/>survive but to keep
       writing<br/>one line, one more line, one<br/>more line...</div></Link>
 
