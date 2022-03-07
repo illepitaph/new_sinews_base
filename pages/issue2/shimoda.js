@@ -15,7 +15,7 @@ export default function TombModelCover() {
 
        <Header headerBackground="tombBackground"/>
        <br/><br/><br/><br/><br/>
-       <CenterBlackTitle> :: excerpts<br/>from _tomb_<br/>_model_of_a_<br/>_noble`&apos;`s_house_ :: </CenterBlackTitle>
+       <CenterBlackTitle> :: excerpts<br/>from _tomb_<br/>_model_of_a_<br/>_noble&apos;s_house_ :: </CenterBlackTitle>
        <br/><br/>
        <CenterGrayTitle> :: brandon<br/>shimoda :: </CenterGrayTitle>
        <br/><br/>
@@ -30,7 +30,7 @@ export default function TombModelCover() {
        <br/><br/>
        <div className={styles.arrows}>&#8675; &#8681; &#8675; &#8681;</div>
        <Link href="/issue2/shimoda3" passHref><div
-       className={styles.link}>don`&apos;`t forget that for<br/>now it`&apos;`s strawberry season.<br/>yes.
+       className={styles.link}>don&apos;t forget that for<br/>now it&apos;s strawberry season.<br/>yes.
        </div></Link>
        <br/><br/>
        <div className={styles.arrows}>&#8681; &#8675; &#8681; &#8675;</div>
