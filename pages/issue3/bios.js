@@ -21,7 +21,8 @@ export default function Issue3Bios() {
    <StandardProse>
    <br/>
    <br/>
-   <span className={styles.grayInverse}>VI KHI NAO</span> is the author of four poetry collections: <a className={styles.biosExternalLink} target="_blank" rel="noreferrer" rel="noreferrer"
+   <span className={styles.grayInverse}>VI KHI NAO</span> is the author of four poetry collections: <a
+   className={styles.biosExternalLink} target="_blank"
    rel="noreferrer" href="http://1111press.com/human-tetris/"> <cite><strong> Human Tetris </strong></cite></a>(11:11
    Press, 2019), <a className={styles.biosExternalLink} target="_blank" rel="noreferrer" href="http://blacksunlit.com/sheep-machine/">
    <cite><strong> Sheep Machine </strong></cite></a> (Black Sun Lit, 2018), <a className={styles.biosExternalLink}
