@@ -44,7 +44,7 @@ export default function Issue4Bios() {
    <br/>
    <br/>
    <br/>
-   <span className={styles.grayInverse}>CHRISTA ROMANOSKY</span>'s recent fiction and poetry appears in <i>Glimmer
+   <span className={styles.grayInverse}>CHRISTA ROMANOSKY</span>`&apos;`s recent fiction and poetry appears in <i>Glimmer
    Train</i>, <i>The Cincinnati Review</i>, <i>The Missouri Review</i>, <i>Alaska Quarterly Review</i>, and
    elsewhere. She has held fellowships at the Fine Arts Work Center, James Merrill House, and Tulsa Artist
    Fellowship. Her writing focuses on rural spaces, extraction, and trauma. She currently works for the Virginia
@@ -65,9 +65,9 @@ export default function Issue4Bios() {
    <br/>
    <br/>
    <span className={styles.grayInverse}>MIKE CORRAO</span> is the author of three novels, <cite><strong>Man</strong>
-   </cite>, <cite><strong>Oh Man</strong></cite> (Orson's Publishing); <cite><strong>Gut Text</strong>
+   </cite>, <cite><strong>Oh Man</strong></cite> (Orson`&apos;`s Publishing); <cite><strong>Gut Text</strong>
    </cite> (11:11 Press); and <cite><strong>Rituals Performed In The Absence Of Ganymede</strong></cite> (11:11 Press); one book
-   of poetry, <cite><strong>Two Novels </strong></cite>(Orson's Publishing); two plays, <cite><strong>Smut-Maker</strong></cite> (Inside the
+   of poetry, <cite><strong>Two Novels </strong></cite>(Orson`&apos;`s Publishing); two plays, <cite><strong>Smut-Maker</strong></cite> (Inside the
    Castle) and <cite><strong>Andromedusa</strong></cite> (Forthcoming - Plays Inverse); and three
    chapbooks, <cite><strong>Avian Funeral March</strong></cite> (Self-Fuck); <cite><strong>Material Catalogue</strong></cite> (Alienist);
    and <cite><strong>Spelunker</strong></cite> (Schism - Neuronics). Along with earning multiple Best of the Net
@@ -76,13 +76,13 @@ export default function Issue4Bios() {
    <br/>
    <br/>
    <br/>
-   <span className={styles.grayInverse}>VI KHI NAO</span>'s work includes poetry, fiction, film, play, and cross-genre
+   <span className={styles.grayInverse}>VI KHI NAO</span>`&apos;`s work includes poetry, fiction, film, play, and cross-genre
    collaboration. She is the author of the novel, <a className={styles.biosExternalLink} target="_blank" rel="noreferrer"
    href="https://coffeehousepress.org/products/fish-in-exile"> <cite>
    <strong>Fish in Exile</strong></cite></a>, the short stories collection, <a
    className={styles.biosExternalLink} target="_blank" rel="noreferrer"
    href="http://www.uapress.ua.edu/product/Brief-Alphabet-of-Torture,6637.aspx"> <cite>
-   <strong> A Brief Alphabet of Torture </strong></cite></a> (winner of the 2016 FC2's Ronald Sukenick
+   <strong> A Brief Alphabet of Torture </strong></cite></a> (winner of the 2016 FC2`&apos;`s Ronald Sukenick
    Innovative Fiction Prize), and of four poetry collections: <a className={styles.biosExternalLink} target="_blank" rel="noreferrer"
    href="http://1111press.com/human-tetris/"> <cite><strong> Human Tetris </strong></cite></a>(11:11
    Press, 2019), <a className={styles.biosExternalLink} target="_blank" rel="noreferrer" href="http://blacksunlit.com/sheep-machine/">

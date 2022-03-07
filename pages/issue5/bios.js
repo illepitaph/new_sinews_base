@@ -52,7 +52,7 @@ export default function Issue5Bios() {
    <cite><strong> The Vegas Dilemma</strong></cite></a> (11:11 Press, 2021) and <a
    className={styles.biosExternalLink} target="_blank" rel="noreferrer"
    href="http://www.uapress.ua.edu/product/Brief-Alphabet-of-Torture,6637.aspx"><cite>
-   <strong> A Brief Alphabet of Torture </strong></cite></a> (winner of the 2016 FC2's Ronald Sukenick
+   <strong> A Brief Alphabet of Torture </strong></cite></a> (winner of the 2016 FC2`&apos;`s Ronald Sukenick
    Innovative Fiction Prize), and also the novel <a className={styles.biosExternalLink} target="_blank" rel="noreferrer"
    href="https://coffeehousepress.org/products/fish-in-exile"> <cite>
    <strong>Fish in Exile</strong></cite></a> (Coffee House Press, 2016). Her work includes poetry, fiction, film and
@@ -82,7 +82,7 @@ export default function Issue5Bios() {
    Mojaodicus</strong></cite>, winner of the Fence Modern Poets Prize. He has also authored the novels
    in verse <cite><strong>Manhatitlán</strong></cite> published by The Operating System and  <cite><strong>The
    Pocho Codex</strong></cite> and <cite><strong>The Xicano Genome</strong></cite>, both
-   published by Editorial Paroxismo, and the chapbooks, <cite><strong>Tonalamatl</strong></cite>, <cite><strong>El Segundo's
+   published by Editorial Paroxismo, and the chapbooks, <cite><strong>Tonalamatl</strong></cite>, <cite><strong>El Segundo`&apos;`s
    Dream Notes</strong></cite> (Letter [r] Press), <cite><strong>Un/documented</strong></cite>, Kentucky (winner of
    the Rusty Toque Chapbook Prize), and <cite><strong>Six Poems from the Codex Mojaodicus</strong></cite> (winner of the Seven
    Kitchens Press Rane Arroyo Poetry Prize). His work has appeared in the <i>Best Experimental Writing</i>, <i>Berkeley
@@ -93,7 +93,7 @@ export default function Issue5Bios() {
    <br/>
    <br/>
    <br/>
-   <span className={styles.grayInverse}>JACQUELINE FELDMAN</span>'s work has appeared in <i>Socrates on the Beach</i>, <i>3:AM</i>, <i>Triple Canopy</i>, and <i>The White
+   <span className={styles.grayInverse}>JACQUELINE FELDMAN</span>`&apos;`s work has appeared in <i>Socrates on the Beach</i>, <i>3:AM</i>, <i>Triple Canopy</i>, and <i>The White
    Review</i>. A fuller index can be found at <a
    className={styles.biosExternalLink} target="_blank" rel="noreferrer" href="https://www.jacqueline-feldman.com/">jacqueline-feldman.com</a>. She is currently an MFA candidate and
    Delaney Fellow at UMass Amherst, where she teaches writing.

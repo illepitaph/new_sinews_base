@@ -88,7 +88,7 @@ export default function Feldman() {
       We had to take a chairlift. “My grandmother really believed,” David said, “that if she died and was
       buried in the Bronx, an underground tube would suck her over to Israel.” His hat was purple, with a tiger on it.
       <br/><br/>
-      “I don't think my grandmother spoke English,” my dad said. His hat was green, with dragons.
+      “I don`&apos;`t think my grandmother spoke English,” my dad said. His hat was green, with dragons.
       <br/><br/>
       I was using both hands to work on the spot where my hair came out of my own hat, fixing it up as I
       could; the hair tie needed to be on the outside of the hat band but was badly stuck.
@@ -339,7 +339,7 @@ export default function Feldman() {
       meanwhile, have to put in work to get rid of them, breaking them down.
       <br/><br/>
       My landlady, before going to New York, had had the opportunity (when I left the door ajar) to glimpse
-      the boxes. I didn't think she liked them. I had on my arrival found the room almost over-furnished. In
+      the boxes. I didn`&apos;`t think she liked them. I had on my arrival found the room almost over-furnished. In
       addition to the desk and bed, a twin, there was a wicker chair, a wardrobe, a dresser, a bookcase, a
       rack for clothes, an end table, a shelf, a chest made out of wicker in which an air mattress was stored, four
       lamps, and a bulletin board; the room was not, however, large. I was able to fit the cardboard boxes under
@@ -357,8 +357,8 @@ export default function Feldman() {
       whatever mechanism, educated. My roommates and I, all students of some kind, were only the most recent
       of the students she had taken in. She needed the money, as she always found her chance to put to us. It
       would have been out of the question to mention in the hope of redressing a significant bloodstain I had
-      found on the underside of the mattress. “That girl was crazy,” the roommate I didn't like as much, who’d
-      been there longest, said. The roommate I didn't like as much was, like me, like the other, an American
+      found on the underside of the mattress. “That girl was crazy,” the roommate I didn`&apos;`t like as much, who’d
+      been there longest, said. The roommate I didn`&apos;`t like as much was, like me, like the other, an American
       woman in her late twenties; she had come to Paris to go back to school at a university of prestige and
       chic equipping her to do something with refugees. The girl had been twenty-one, I think Slovenian, Erasmus. “I
       have never seen anyone eat so many bananas. She would come home with two bunches, and in a day they’d
@@ -391,7 +391,7 @@ export default function Feldman() {
       up. “Horrible man,” she added, in a tone that I found difficult to assess.
       <br/><br/>
       Months went by, and she came back. It was going to take her a couple of days to go through all her
-      things. By that time I felt quite at home. I had acquired, by then, a quantity of books. They didn't
+      things. By that time I felt quite at home. I had acquired, by then, a quantity of books. They didn`&apos;`t
       all fit in the bookcase my landlady provided in my room, and so I fitted a couple—the ones I liked
       least, though there was no way for anyone else to know that—into a low shelf where the row was
       loose. My landlady must have gone right to them. They were books of bright primary
