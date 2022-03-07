@@ -11,36 +11,36 @@ export default function Issue4() {
         <div className={styles.pageStructure}>
           <div className={styles.issueContents}>
         <div className={styles.workColumn}>
-            <Link href="/issue4/hour"><div className={styles.workLink}>... brandon shimoda + the hour of the rat ...</div></Link>
+            <Link href="/issue4/hour" passHref><div className={styles.workLink}>... brandon shimoda + the hour of the rat ...</div></Link>
         </div>
         <div className={styles.workColumn}>
-          <Link href="/issue4/guanyin"><div className={styles.workLink}>... k-ming chang + guanyin ...</div></Link>
+          <Link href="/issue4/guanyin" passHref><div className={styles.workLink}>... k-ming chang + guanyin ...</div></Link>
         </div>
         <div className={styles.workColumn}>
-        <Link href="/issue4/isoline"><div className={styles.workLink}>... evan isoline + as foam from
+        <Link href="/issue4/isoline" passHref><div className={styles.workLink}>... evan isoline + as foam from
           this sweet hour ...</div></Link>
         </div>
         <div className={styles.workColumn}>
-          <Link href="/issue4/howfar"><div className={styles.workLink}>... christa romanosky + how far you can
+          <Link href="/issue4/howfar" passHref><div className={styles.workLink}>... christa romanosky + how far you can
           get on an empty tank of gas ...</div></Link>
         </div>
         <div className={styles.workColumn}>
-          <Link href="/issue4/palacios"><div className={styles.workLink}>... gabriel palacios + poems from lunar hilton
+          <Link href="/issue4/palacios" passHref><div className={styles.workLink}>... gabriel palacios + poems from lunar hilton
           elegy ...</div></Link>
         </div>
         <div className={styles.workColumn}>
-          <Link href="/issue4/hummel"><div className={styles.workLink}>... allison hummel + the fires are back // i look at
+          <Link href="/issue4/hummel" passHref><div className={styles.workLink}>... allison hummel + the fires are back // i look at
           sauce // untitled // comfort like the ...</div></Link>
         </div>
         <div className={styles.workColumn}>
-          <Link href="/issue4/textspinality"><div className={styles.workLink}>... mike corrao + text spinality ...</div></Link>
+          <Link href="/issue4/textspinality" passHref><div className={styles.workLink}>... mike corrao + text spinality ...</div></Link>
         </div>
         <div className={styles.workColumn}>
-        <Link href="/issue4/poemsborn"><div className={styles.workLink}>... vi khi nao + poems born from basic
+        <Link href="/issue4/poemsborn" passHref><div className={styles.workLink}>... vi khi nao + poems born from basic
           words ...</div></Link>
         </div>
         <div className={styles.workColumn}>
-          <Link href="/issue4/maierhofer"><div className={styles.workLink}>... grant maierhofer + in the time when my memory
+          <Link href="/issue4/maierhofer" passHref><div className={styles.workLink}>... grant maierhofer + in the time when my memory
           fixated on the death of princess diana ...</div></Link>
         </div>
         <div className={styles.workColumn}>
@@ -65,11 +65,11 @@ export default function Issue4() {
              <div className={styles.backgroundBox}></div>
              <div className={styles.siteShortcuts}>
                    <button className={styles.linkButton}><div
-                   className={styles.innerSiteLinkTag}><Link href="/">new sinews</Link></div></button>
+                   className={styles.innerSiteLinkTag}><Link href="/" passHref>new sinews</Link></div></button>
                    <button className={styles.linkButton}><div
-                   className={styles.innerSiteLinkTag}><Link href="/about">about</Link></div></button>
+                   className={styles.innerSiteLinkTag}><Link href="/about" passHref>about</Link></div></button>
                    <button className={styles.linkButton}>
-                     <div className={styles.twitterLinkTag}><Link href="https://twitter.com/new_sinews">tweeter</Link>
+                     <div className={styles.twitterLinkTag}><Link href="https://twitter.com/new_sinews" passHref>tweeter</Link>
                      </div></button>
                    </div>
              </div>
