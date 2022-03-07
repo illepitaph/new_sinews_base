@@ -23,13 +23,13 @@ export default function EvenFlesh() {
        <br/>
        <br/>
        <StandardProse>
-       &quot;How might the partakers of cynically sensible deeds be freed in the very
+       How might the partakers of cynically sensible deeds be freed in the very
        course of their yielding? “The virtue of ecstasy robs reality of its
        synthetic robes,” Vi Khi Nao answers by way of her first book, <cite> The
        Vanishing Point of Desire </cite> (2011). And in this novel-in-roomily-white-spaced-prose,
        the bleh ritual of a two-person interview in a conference
        room is rejigged, via the 1st person narrator’s eros-engined mid-interview
-       reveries, to encapsulate Charles de Gaulle Airport, of all earthly backdrops.&quot;
+       reveries, to encapsulate Charles de Gaulle Airport, of all earthly backdrops.
        <br/>
        <br/>
        As if said hub of hubbub might indeed prove a kind of ideal destination,
