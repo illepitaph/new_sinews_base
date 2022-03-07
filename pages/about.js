@@ -105,7 +105,7 @@ return (
   <Link href="/issue2/lakghomi" passHref><button>babak lakghomi_a request + say her name</button></Link>
    <Link href="/issue2/leyeaste" passHref><button>vi khi nao_le yeaste</button></Link>
   <Link href="/issue2/strauss" passHref><button>adam strauss_five poems</button></Link>
-  <Link href="/issue2/salutingahex" passHref><button>saluting a hex of gangrenous sky or: brandon shimoda`&;`s ritual inversions</button></Link>
+  <Link href="/issue2/salutingahex" passHref><button>saluting a hex of gangrenous sky or: brandon shimoda&apos;s ritual inversions</button></Link>
   <Link href="/issue2/shimoda" passHref><button>brandon shimoda_excerpts from tomb model of a noble’s house</button></Link>
   <Link href="/issue2/bios" passHref><button>issue2_bios</button></Link>
   </div>
