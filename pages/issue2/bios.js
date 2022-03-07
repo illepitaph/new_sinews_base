@@ -101,7 +101,7 @@ export default function Issue2Bios() {
    Old Philosopher </strong></cite></a>(winner of the Nightboat Prize for 2014), & of the short stories collection, <a
    className={styles.biosExternalLink} target="_blank" rel="noreferrer"
    href="http://www.uapress.ua.edu/product/Brief-Alphabet-of-Torture,6637.aspx"> <cite>
-   <strong> A Brief Alphabet of Torture </strong></cite></a> (winner of the 2016 FC2's Ronald Sukenick
+   <strong> A Brief Alphabet of Torture </strong></cite></a> (winner of the 2016 FC2`&apos;`s Ronald Sukenick
    Innovative Fiction Prize), the novel, <a className={styles.biosExternalLink} target="_blank" rel="noreferrer"
    href="https://coffeehousepress.org/products/fish-in-exile"> <cite>
    <strong>Fish in Exile </strong></cite></a>(Coffee House Press, 2016). Her work includes poetry, fiction,
@@ -115,7 +115,7 @@ export default function Issue2Bios() {
    <br/>
    <br/>
    <br/>
-   <span className={styles.grayInverse}>BRANDON SHIMODA</span>'s most recent books include <strong><cite> The Grave on the Wall </cite>
+   <span className={styles.grayInverse}>BRANDON SHIMODA</span>`&apos;`s most recent books include <strong><cite> The Grave on the Wall </cite>
    </strong>(City Lights, 2019) and <strong><cite> The Desert </cite></strong>(The Song Cave,
    2018). He is the curator of the Hiroshima Library, an itinerant reading room/collection of
    books on the atomic bombings of Hiroshima and Nagasaki, which appeared at BRUNA

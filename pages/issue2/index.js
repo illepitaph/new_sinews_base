@@ -22,55 +22,55 @@ export default function Issue2() {
 
     <div className={styles.issueContents}>
       <div className={styles.col1}>
-        <Link href="/issue2/briante"><div className={styles.workLink}>susan briante_two poems</div></Link>
+        <Link href="/issue2/briante" passHref><div className={styles.workLink}>susan briante_two poems</div></Link>
       </div>
       <div className={styles.col1}>
-        <Link href="/issue2/zamora"><div className={styles.workLink}>felicia zamora_selections from 'quotient'</div></Link>
+        <Link href="/issue2/zamora" passHref><div className={styles.workLink}>felicia zamora_selections from `&apos;`quotient`&apos;`</div></Link>
       </div>
       <div className={styles.col1}>
-      <Link href="/issue2/taylor"><div className={styles.workLink}>sam taylor_five poems</div></Link>
+      <Link href="/issue2/taylor" passHref><div className={styles.workLink}>sam taylor_five poems</div></Link>
       </div>
       <div className={styles.col1}>
-        <Link href="/issue2/porte"><div className={styles.workLink}>rebecca ariel porte_portraits of some persons as
+        <Link href="/issue2/porte" passHref><div className={styles.workLink}>rebecca ariel porte_portraits of some persons as
         imaginary cities</div></Link>
       </div>
       <div className={styles.col1}>
-        <Link href="/issue2/strauss"><div className={styles.workLink}>adam strauss_five poems</div></Link>
+        <Link href="/issue2/strauss" passHref><div className={styles.workLink}>adam strauss_five poems</div></Link>
       </div>
       <div className={styles.col1}>
-        <Link href="/issue2/shimoda"><div className={styles.workLink}>brandon shimoda_excerpts from ‘tomb
+        <Link href="/issue2/shimoda" passHref><div className={styles.workLink}>brandon shimoda_excerpts from ‘tomb
         model of a noble’s house’</div></Link>
       </div>
       <div className={styles.col2}>
-        <Link href="/issue2/corrao"><div className={styles.workLink}>mike corrao_the archaeology of virtual
+        <Link href="/issue2/corrao" passHref><div className={styles.workLink}>mike corrao_the archaeology of virtual
         spaces</div></Link>
       </div>
       <div className={styles.col2}>
-        <Link href="/issue2/lewis"><div className={styles.workLink}>susan lewis_two poems</div></Link>
+        <Link href="/issue2/lewis" passHref><div className={styles.workLink}>susan lewis_two poems</div></Link>
       </div>
       <div className={styles.col2}>
-        <Link href="/issue2/lakghomi"><div className={styles.workLink}>babak lakghomi_a request + say her name</div></Link>
+        <Link href="/issue2/lakghomi" passHref><div className={styles.workLink}>babak lakghomi_a request + say her name</div></Link>
       </div>
       <div className={styles.col2}>
-          <Link href="/issue2/leyeaste"><div className={styles.workLink}>vi khi nao_le yeaste</div></Link>
+          <Link href="/issue2/leyeaste" passHref><div className={styles.workLink}>vi khi nao_le yeaste</div></Link>
       </div>
       <div className={styles.col2}>
-        <Link href="/issue2/salutingahex"><div className={styles.workLink}>saluting a hex of
-        gangrenous sky or: brandon shimoda's ritual inversions
+        <Link href="/issue2/salutingahex" passHref><div className={styles.workLink}>saluting a hex of
+        gangrenous sky or: brandon shimoda`&apos;`s ritual inversions
       </div></Link>
       </div>
       <div className={styles.col2}>
-        <Link href="/issue2/bios"><div className={styles.workLink}>~~~ contri butor_ _ _b  i  os ~~~</div></Link>
+        <Link href="/issue2/bios" passHref><div className={styles.workLink}>~~~ contri butor_ _ _b  i  os ~~~</div></Link>
       </div>
 
       <div className={styles.siteShortcuts}>
             <button className={styles.linkButton}><div
-            className={styles.innerSiteLinkTag}><Link href="/">➜ new sinews ➜</Link></div></button>
+            className={styles.innerSiteLinkTag}><Link href="/" passHref>➜ new sinews ➜</Link></div></button>
             <button className={styles.linkButton}><div
-            className={styles.innerSiteLinkTag}><Link href="/about">➜ about ➜</Link></div></button>
+            className={styles.innerSiteLinkTag}><Link href="/about" passHref>➜ about ➜</Link></div></button>
             <button className={styles.linkButton}>
               <div className={styles.twitterLinkTag}><Link
-              href="https://twitter.com/new_sinews">➜ tweeter ➜</Link></div></button>
+              href="https://twitter.com/new_sinews" passHref>➜ tweeter ➜</Link></div></button>
         </div>
     </div>
  </div>
