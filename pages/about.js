@@ -105,7 +105,7 @@ return (
   <Link href="/issue2/lakghomi" passHref><button>babak lakghomi_a request + say her name</button></Link>
    <Link href="/issue2/leyeaste" passHref><button>vi khi nao_le yeaste</button></Link>
   <Link href="/issue2/strauss" passHref><button>adam strauss_five poems</button></Link>
-  <Link href="/issue2/salutingahex" passHref><button>saluting a hex of gangrenous sky or: brandon shimoda`&apos;`s ritual inversions</button></Link>
+  <Link href="/issue2/salutingahex" passHref><button>saluting a hex of gangrenous sky or: brandon shimoda`&;`s ritual inversions</button></Link>
   <Link href="/issue2/shimoda" passHref><button>brandon shimoda_excerpts from tomb model of a noble’s house</button></Link>
   <Link href="/issue2/bios" passHref><button>issue2_bios</button></Link>
   </div>
@@ -124,7 +124,7 @@ return (
         <Link href="/issue1/blackwell" passHref><button>gabriel blackwell_scenery + bedtime</button></Link>
           <Link href="/issue1/romanosky" passHref><button>christa romanosky_three poems</button></Link>
             <Link href="/issue1/nao" passHref><button>vi khi nao_2 eyes in 1 eye: a delirium</button></Link>
-              <Link href="/issue1/evenflesh" passHref><button>even flesh seems a formality_or: vi khi nao`&apos;`s organic oscillations</button></Link>
+              <Link href="/issue1/evenflesh" passHref><button>even flesh seems a formality_or: vi khi nao&apos;s organic oscillations</button></Link>
                 <Link href="/issue1/bios" passHref><button>issue1_bios</button></Link>
             </div>
           </div>
