@@ -28,7 +28,7 @@ return (
                                   onMouseLeave={() => {
       setIssueFiveDropdownClass("issueContentClosed");
   }}>
-    <Link href="/issue5"><button>issue_5</button></Link>
+    <Link href="/issue5" passHref><button>issue_5</button></Link>
   <div className={styles[issueFiveDropdownClass]}>
   <Link href="/issue5" passHref><button>new_sinews_issue5</button></Link>
   <Link href="/issue5/shiota" passHref><button>julia shiota_in the beginning, she was the sun</button></Link>
