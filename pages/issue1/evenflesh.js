@@ -29,7 +29,7 @@ export default function EvenFlesh() {
        Vanishing Point of Desire </cite> (2011). And in this novel-in-roomily-white-spaced-prose,
        the bleh ritual of a two-person interview in a conference
        room is rejigged, via the 1st person narrator’s eros-engined mid-interview
-       reveries, to encapsulate Charles de Gaulle Airport, of all earthly backdrops."
+       reveries, to encapsulate Charles de Gaulle Airport, of all earthly backdrops.`&quot;`
        <br/>
        <br/>
        As if said hub of hubbub might indeed prove a kind of ideal destination,
@@ -211,7 +211,7 @@ export default function EvenFlesh() {
        Perhaps the reality ensnaring us—an overarching reality of our own making, legitimized anew
        each day by the cynical acts to which we accede and accede—is ripe for an ameliorating
        flux via our own rejigged will. “I have nothing to say to things,” Vi Khi Nao insists,
-       elucidating a frontier in an otherwise brink-breaching oeuvre, “that appear to be not changing."
+       elucidating a frontier in an otherwise brink-breaching oeuvre, “that appear to be not changing.`&quot;`
        </StandardProse>
 
     <Footer/>

@@ -33,7 +33,7 @@ export default function Issue1() {
       </div>
       <div className={styles.col2}>
         <Link href="/issue1/evenflesh" passHref><div className={styles.workLink} href=""
-        >even flesh seems a formality<br/>or: vi khi nao's organic
+        >even flesh seems a formality<br/>or: vi khi nao`&apos;`s organic
           oscillations
         </div></Link>
         <Link href="/issue1/bios" passHref><div className={styles.workLink} href="">~~~b  i  os ~~~</div></Link>
