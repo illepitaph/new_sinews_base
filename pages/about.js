@@ -20,7 +20,7 @@ return (
 
   <section className={styles.top}>
     <div className={styles.iconPlusSitebar}>
-    <Link href="/"><div className={styles.iconImage}></div></Link>
+    <Link href="/" passHref><div className={styles.iconImage}></div></Link>
     <nav className={styles.siteNav}>
     <div className={styles.dropDown} onMouseEnter={() => {
       setIssueFiveDropdownClass("issueContentOpen");
