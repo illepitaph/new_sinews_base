@@ -26,7 +26,7 @@ export default function Gette() {
         <br/>
         <br/>
         <div className={styles.container}><Image src="/../public/images/Gette1.jpg" width={793} height={800}
-        layout={`responsive`}/></div>
+        layout={`responsive`} alt="British Army Officer spraying Paris Green into a stagnant pool in Syria in order to preclude Malaria, 1942"/></div>
 
           <div className={styles.poemContainer}>
         <p className={styles.getteLineation}>When I write the lines it comes out in a child’s voice</p>
@@ -57,7 +57,7 @@ export default function Gette() {
   </div>
 
       <div className={styles.container}><Image src="/../public/images/Gette2.jpg" width={400} height={500}
-      layout={`responsive`}/></div>
+      layout={`responsive`} alt="Still One From Marguerite Duras’ India Song"/></div>
 
   <div className={styles.poemContainer}>
   <p className={styles.getteLineation}>
@@ -87,7 +87,7 @@ slow inhalation in his sleep</p>
 </div>
 
       <div className={styles.container}><Image src="/../public/images/Gette3.jpg" width={100} height={100}
-      layout={`responsive`}/></div>
+      layout={`responsive`} alt="Still Two From Marguerite Duras’ India Song"/></div>
 
   <div className={styles.poemContainer}>
   <p className={styles.getteLineation}>I think of this in the context of household toxins and what it means to keep
@@ -102,7 +102,7 @@ slow inhalation in his sleep</p>
   a symptom of respiratory droplets?</p>
   <p className={styles.getteLineation}>Spat him like tobacco, sugarcane, unripe banana etc.?</p>
   <p className={styles.getteLineation}>Spat him like he spat arsenic, orgeat syrup, potassium tartrate, calomel, copper in
-  the wallpaper and household items of the Longwood house, where he spent his exile in the clutches of Britain's East
+  the wallpaper and household items of the Longwood house, where he spent his exile in the clutches of Britain`&apos;`s East
   India Company?</p>
   <p className={styles.getteLineation}>Spat him like a locust spits as it covers the sky in swarms as a symptom of
   thoughtless human tearing up the topsoil, scraping the mantle-deep grasses that turned wheat into dust (too far West
@@ -113,7 +113,7 @@ slow inhalation in his sleep</p>
   </div>
 
       <div className={styles.container}><Image src="/../public/images/Gette4.jpg" width={100} height={100}
-      layout={`responsive`}/></div>
+      layout={`responsive`} alt="Still Three From Marguerite Duras’ India Song"/></div>
 
     <div className={styles.poemContainer}>
     <p className={styles.getteLineation}>No one speaks they just loll around performing dull movements to this song while
@@ -126,7 +126,7 @@ slow inhalation in his sleep</p>
     </div>
 
       <div className={styles.container}><Image src="/../public/images/Gette5.jpg" width={100} height={100}
-      layout={`responsive`}/></div>
+      layout={`responsive`} alt="Still Four From Marguerite Duras’ India Song"/></div>
 
     <div className={styles.poemContainer}>
     <p className={styles.getteLineation}>In the film she moves through time as a gelatinous membrane</p>
@@ -154,11 +154,11 @@ slow inhalation in his sleep</p>
     </div>
 
         <div className={styles.container}><Image src="/../public/images/Gette6.jpg" width={100} height={100}
-        layout={`responsive`}/></div>
+        layout={`responsive`} alt="Chemical Chart"/></div>
         <div className={styles.container}><Image src="/../public/images/Gette7.jpg" width={100} height={100}
-        layout={`responsive`}/></div>
+        layout={`responsive`} alt="Still Five From Marguerite Duras’ India Song"/></div>
         <div className={styles.container}><Image src="/../public/images/Gette8.jpg" width={100} height={100}
-        layout={`responsive`}/></div>
+        layout={`responsive`} alt="Container of Berger's Pure Paris Green"/></div>
 
      <div className={styles.poemContainer}>
      <p className={styles.getteLineation}>She is exhausted again, or dehydrated, and her child’s voice creeps out
@@ -216,7 +216,7 @@ slow inhalation in his sleep</p>
       </div>
 
         <div className={styles.container}><Image src="/../public/images/Gette9.jpg" width={100} height={100}
-        layout={`responsive`}/></div>
+        layout={`responsive`} alt="Pollination of a canal with Paris greenery, Java"/></div>
         <p className={styles.caption}><i>COLLECTION TROPEN MUSEUM</i><br/>Fighting malaria; pollination of
         a canal with Paris greenery, Java.</p>
 
@@ -253,7 +253,7 @@ slow inhalation in his sleep</p>
       </div>
 
         <div className={styles.container}><Image src="/../public/images/Gette10.jpg" width={100} height={100}
-        layout={`responsive`}/></div>
+        layout={`responsive`} alt="English-language advertisement for Paris Green"/></div>
 
       <div className={styles.poemContainer}>
       <p className={styles.getteLineation}>She lies down on the rug</p>
@@ -271,7 +271,7 @@ slow inhalation in his sleep</p>
       </div>
 
         <div className={styles.container}><Image src="/../public/images/Gette11.jpg" width={100} height={100}
-        layout={`responsive`}/></div>
+        layout={`responsive`} alt="1862 sketch of the so-called Arsenic Waltz"/></div>
 
       <div className={styles.poemContainer}>
       <p className={styles.getteLineation}><span className={styles.greenShadow}>[1]</span>Wikipedia tells me the Rothschild
@@ -297,7 +297,7 @@ slow inhalation in his sleep</p>
       96. <a className={styles.textSizeMinimizerFour} href="https://doi.org/10.1186/s12936-018-2244-2"
       target="_blank" rel="noreferrer">https://doi.org/10.1186/s12936-018-2244-2</a></p>
       <br/><br/>
-      <p className={styles.getteLineation}>Loayza, Beatrice. “Close-Up on Marguerite Duras's ‘India Song.’” MUBI, 4 Apr.
+      <p className={styles.getteLineation}>Loayza, Beatrice. “Close-Up on Marguerite Duras`&apos;`s ‘India Song.’” MUBI, 4 Apr.
       2020, <a href="https://www.mubi.com/notebook/posts/close-up-on-marguerite-duras-s-india-song"
       target="_blank" rel="noreferrer" className={styles.textSizeMinimizerTwo}>mubi.com/notebook/posts/close-up-on-marguerite-duras-s-india-song</a></p>
       </div>
