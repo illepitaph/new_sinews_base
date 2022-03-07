@@ -32,11 +32,11 @@ export default function Issue1() {
         <Link href="/issue1/nao" passHref><div className={styles.workLink}>vi khi nao_2 eyes in 1 eye: a delirium</div></Link>
       </div>
       <div className={styles.col2}>
-        <Link href="/issue1/evenflesh" passHref><div className={styles.workLink} href=""
-        >even flesh seems a formality<br/>or: vi khi nao`&apos;`s organic
+        <Link href="/issue1/evenflesh" passHref><div className={styles.workLink}
+        >even flesh seems a formality<br/>or: vi khi nao&apos;s organic
           oscillations
         </div></Link>
-        <Link href="/issue1/bios" passHref><div className={styles.workLink} href="">~~~b  i  os ~~~</div></Link>
+        <Link href="/issue1/bios" passHref><div className={styles.workLink}>~~~b  i  os ~~~</div></Link>
       </div>
 
       <div className={styles.siteShortcuts}>
