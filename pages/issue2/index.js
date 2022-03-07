@@ -25,7 +25,7 @@ export default function Issue2() {
         <Link href="/issue2/briante" passHref><div className={styles.workLink}>susan briante_two poems</div></Link>
       </div>
       <div className={styles.col1}>
-        <Link href="/issue2/zamora" passHref><div className={styles.workLink}>felicia zamora_selections from `&apos;`quotient`&apos;`</div></Link>
+        <Link href="/issue2/zamora" passHref><div className={styles.workLink}>felicia zamora_selections from &apos;quotient&apos;</div></Link>
       </div>
       <div className={styles.col1}>
       <Link href="/issue2/taylor" passHref><div className={styles.workLink}>sam taylor_five poems</div></Link>
@@ -56,7 +56,7 @@ export default function Issue2() {
       </div>
       <div className={styles.col2}>
         <Link href="/issue2/salutingahex" passHref><div className={styles.workLink}>saluting a hex of
-        gangrenous sky or: brandon shimoda`&apos;`s ritual inversions
+        gangrenous sky or: brandon shimoda&apos;s ritual inversions
       </div></Link>
       </div>
       <div className={styles.col2}>
