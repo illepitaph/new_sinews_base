@@ -38,7 +38,7 @@ export default function Issue2Bios() {
    Publishing) and <cite><strong> Gut Text </strong></cite> (11:11 Press). His work
    has been featured in publications such as <i>Collagist</i>, <i>3:AM</i>, <i>Always
    Crashing</i>, and <i>The Portland Review</i>. He lives in Minneapolis.
-   Learn more at <a className={styles.biosExternalLink} target="_blank"
+   Learn more at <a className={styles.biosExternalLink} target="_blank" rel="noreferrer"
    href="http://www.mikecorrao.com/">www.mikecorrao.com</a>
    <br/>
    <br/>
@@ -63,18 +63,18 @@ export default function Issue2Bios() {
    he currently tends a wild garden in Kansas, where he is an Associate Professor and the Director of
    the MFA Program at Wichita State. His work has been recognized with the Amy Lowell Poetry Traveling
    Scholarship, among other awards, and his poems have appeared in such journals as <i>The Kenyon
-   Review</i>, <i>AGNI</i>, and <i>The New Republic</i>.  <a className={styles.biosExternalLink} target="_blank"
+   Review</i>, <i>AGNI</i>, and <i>The New Republic</i>.  <a className={styles.biosExternalLink} target="_blank" rel="noreferrer"
    href="http://www.samtaylor.us/">www.samtaylor.us</a>
    <br/>
    <br/>
    <br/>
-   <span className={styles.grayInverse}>SUSAN LEWIS</span> <a className={styles.biosExternalLink} target="_blank"
+   <span className={styles.grayInverse}>SUSAN LEWIS</span> <a className={styles.biosExternalLink} target="_blank" rel="noreferrer"
    href="http://www.susanlewis.net/">www.susanlewis.net</a> is the author of ten books and chapbooks,
    including <cite><strong> Zoom</strong></cite>, winner of the Washington Prize, and <cite><strong> Heisenberg’s
    Salon</strong></cite>. Recently, her work has appeared in <i>Agni</i>, <i>Boston Review</i>, <i>The
    Brooklyn Rail</i>, <i>Conjunctions</i> (online), <i>Diode</i>, <i>Interim</i>, <i>New American
    Writing</i>, <i>VOLT</i>, and many other journals and anthologies. She is the founding
-   editor of <i>Posit</i> <a className={styles.biosExternalLink} target="_blank"
+   editor of <i>Posit</i> <a className={styles.biosExternalLink} target="_blank" rel="noreferrer"
    href="http://www.positjournal.com/"> www.positjournal.com</a>.
    <br/>
    <br/>
@@ -90,19 +90,19 @@ export default function Issue2Bios() {
    <br/>
    <br/>
    <br/>
-   <span className={styles.grayInverse}>VI KHI NAO</span> is the author of four poetry collections: <a className={styles.biosExternalLink} target="_blank"
+   <span className={styles.grayInverse}>VI KHI NAO</span> is the author of four poetry collections: <a className={styles.biosExternalLink} target="_blank" rel="noreferrer"
    href="http://1111press.com/human-tetris/"> <cite><strong> Human Tetris </strong></cite></a>(11:11
-   Press, 2019), <a className={styles.biosExternalLink} target="_blank" href="http://blacksunlit.com/sheep-machine/">
+   Press, 2019), <a className={styles.biosExternalLink} target="_blank" rel="noreferrer" href="http://blacksunlit.com/sheep-machine/">
    <cite><strong> Sheep Machine </strong></cite></a> (Black Sun Lit, 2018), <a className={styles.biosExternalLink}
-   target="_blank"
+   target="_blank" rel="noreferrer"
    href="https://www.journal1913.org/publications/umbilical-hospital/"> <cite><strong> Umbilical Hospital </strong>
-   </cite></a> (Press 1913, 2017), <a className={styles.biosExternalLink} target="_blank"
+   </cite></a> (Press 1913, 2017), <a className={styles.biosExternalLink} target="_blank" rel="noreferrer"
    href="https://nightboat.org/book/the-old-philosopher/"> <cite><strong> The
    Old Philosopher </strong></cite></a>(winner of the Nightboat Prize for 2014), & of the short stories collection, <a
-   className={styles.biosExternalLink} target="_blank"
+   className={styles.biosExternalLink} target="_blank" rel="noreferrer"
    href="http://www.uapress.ua.edu/product/Brief-Alphabet-of-Torture,6637.aspx"> <cite>
    <strong> A Brief Alphabet of Torture </strong></cite></a> (winner of the 2016 FC2's Ronald Sukenick
-   Innovative Fiction Prize), the novel, <a className={styles.biosExternalLink} target="_blank"
+   Innovative Fiction Prize), the novel, <a className={styles.biosExternalLink} target="_blank" rel="noreferrer"
    href="https://coffeehousepress.org/products/fish-in-exile"> <cite>
    <strong>Fish in Exile </strong></cite></a>(Coffee House Press, 2016). Her work includes poetry, fiction,
    film, and cross-genre collaboration. She is the current Fall 2019 fellow at the Black Mountain Institute.

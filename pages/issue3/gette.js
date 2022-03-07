@@ -281,7 +281,7 @@ slow inhalation in his sleep</p>
       <p className={styles.getteLineation}><span className={styles.greenShadow}>[2]</span>“Leprosy (Hansen’s
       Disease).” 2019. <i>Communicable Disease Management Protocol</i>.  Accessed April 2020. <a
       className={styles.textSizeMinimizer} href="https://www.manitoba.ca/health/publichealth/cdc/protocol/leprosy.pdf"
-      target="_blank">www.manitoba.ca/health/publichealth/cdc/protocol/leprosy.pdf</a></p>
+      target="_blank" rel="noreferrer">www.manitoba.ca/health/publichealth/cdc/protocol/leprosy.pdf</a></p>
       <br/><br/>
       <p className={styles.getteLineation}><span className={styles.greenShadow}><i>Appearances</i></span> ::</p>
       <br/><br/>
@@ -295,11 +295,11 @@ slow inhalation in his sleep</p>
       <p className={styles.getteLineation}>Gachelin, G., Garner, P., Ferroni, E., Verhave, J. P., & Opinel, A
       (2018). “Evidence and strategies for malaria prevention and control: a historical analysis.” <i>Malaria Journal</i>. 17(1),
       96. <a className={styles.textSizeMinimizerFour} href="https://doi.org/10.1186/s12936-018-2244-2"
-      target="_blank">https://doi.org/10.1186/s12936-018-2244-2</a></p>
+      target="_blank" rel="noreferrer">https://doi.org/10.1186/s12936-018-2244-2</a></p>
       <br/><br/>
       <p className={styles.getteLineation}>Loayza, Beatrice. “Close-Up on Marguerite Duras's ‘India Song.’” MUBI, 4 Apr.
       2020, <a href="https://www.mubi.com/notebook/posts/close-up-on-marguerite-duras-s-india-song"
-      target="_blank" className={styles.textSizeMinimizerTwo}>mubi.com/notebook/posts/close-up-on-marguerite-duras-s-india-song</a></p>
+      target="_blank" rel="noreferrer" className={styles.textSizeMinimizerTwo}>mubi.com/notebook/posts/close-up-on-marguerite-duras-s-india-song</a></p>
       </div>
                      <Footer/>
 

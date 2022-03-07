@@ -31,15 +31,15 @@ export default function Issue4Bios() {
    <br/>
    <span className={styles.grayInverse}>K-MING CHANG</span> is the author of <cite><strong>Bestiary</strong></cite> (One
    World, 2020) and the forthcoming short story collection <cite><strong>Gods of Want</strong></cite> (One World, June
-    2022). More of her work can be found at <a className={styles.biosExternalLink} target="_blank"
+    2022). More of her work can be found at <a className={styles.biosExternalLink} target="_blank" rel="noreferrer"
     href="https://www.kmingchang.com/">kmingchang.com</a>
    <br/>
    <br/>
    <br/>
    <span className={styles.grayInverse}>EVAN ISOLINE</span> is a writer and artist living on the Oregon coast. He is
    the author of <cite><strong>Philosophy of The Sky</strong></cite> and the founder/editor of a literary project
-   called <i>SELFFUCK</i>. Find him <a className={styles.biosExternalLink} target="_blank"
-   href="https://twitter.com/evan_isoline">@evan_isoline </a>or else: <a className={styles.biosExternalLink} target="_blank"
+   called <i>SELFFUCK</i>. Find him <a className={styles.biosExternalLink} target="_blank" rel="noreferrer"
+   href="https://twitter.com/evan_isoline">@evan_isoline </a>or else: <a className={styles.biosExternalLink} target="_blank" rel="noreferrer"
    href="https://evanisoline.com/">evanisoline.com</a>
    <br/>
    <br/>
@@ -77,27 +77,27 @@ export default function Issue4Bios() {
    <br/>
    <br/>
    <span className={styles.grayInverse}>VI KHI NAO</span>'s work includes poetry, fiction, film, play, and cross-genre
-   collaboration. She is the author of the novel, <a className={styles.biosExternalLink} target="_blank"
+   collaboration. She is the author of the novel, <a className={styles.biosExternalLink} target="_blank" rel="noreferrer"
    href="https://coffeehousepress.org/products/fish-in-exile"> <cite>
    <strong>Fish in Exile</strong></cite></a>, the short stories collection, <a
-   className={styles.biosExternalLink} target="_blank"
+   className={styles.biosExternalLink} target="_blank" rel="noreferrer"
    href="http://www.uapress.ua.edu/product/Brief-Alphabet-of-Torture,6637.aspx"> <cite>
    <strong> A Brief Alphabet of Torture </strong></cite></a> (winner of the 2016 FC2's Ronald Sukenick
-   Innovative Fiction Prize), and of four poetry collections: <a className={styles.biosExternalLink} target="_blank"
+   Innovative Fiction Prize), and of four poetry collections: <a className={styles.biosExternalLink} target="_blank" rel="noreferrer"
    href="http://1111press.com/human-tetris/"> <cite><strong> Human Tetris </strong></cite></a>(11:11
-   Press, 2019), <a className={styles.biosExternalLink} target="_blank" href="http://blacksunlit.com/sheep-machine/">
+   Press, 2019), <a className={styles.biosExternalLink} target="_blank" rel="noreferrer" href="http://blacksunlit.com/sheep-machine/">
    <cite><strong> Sheep Machine </strong></cite></a> (Black Sun Lit, 2018), <a className={styles.biosExternalLink}
-   target="_blank"
+   target="_blank" rel="noreferrer"
    href="https://www.journal1913.org/publications/umbilical-hospital/"> <cite><strong> Umbilical Hospital </strong>
-   </cite></a> (Press 1913, 2017), and<a className={styles.biosExternalLink} target="_blank"
+   </cite></a> (Press 1913, 2017), and<a className={styles.biosExternalLink} target="_blank" rel="noreferrer"
    href="https://nightboat.org/book/the-old-philosopher/"> <cite><strong> The
    Old Philosopher </strong></cite></a>(winner of the Nightboat Prize for 2014). Her poetry collection, <a
-   className={styles.biosExternalLink} target="_blank" href="https://1111press.com/a-bell-curve-is-a-pregnant-straight-line">
+   className={styles.biosExternalLink} target="_blank" rel="noreferrer" href="https://1111press.com/a-bell-curve-is-a-pregnant-straight-line">
    <cite><strong> A Bell Curve Is A Pregnant Straight Line</strong></cite></a>, and her short story collection <a
-   className={styles.biosExternalLink} target="_blank" href="https://1111press.com/the-vegas-dilemma-by-vi-khi-nao">
+   className={styles.biosExternalLink} target="_blank" rel="noreferrer" href="https://1111press.com/the-vegas-dilemma-by-vi-khi-nao">
    <cite><strong> The Vegas Dilemma</strong></cite></a>, are forthcoming from 11:11 Press in Summer and Fall 2021
    respectively. She was the fall 2019 fellow at the Black Mountain Institute. <a
-   className={styles.biosExternalLink} target="_blank" href="https://www.vikhinao.com/">vikhinao.com</a>
+   className={styles.biosExternalLink} target="_blank" rel="noreferrer" href="https://www.vikhinao.com/">vikhinao.com</a>
    <br/>
    <br/>
    <br/>
@@ -105,7 +105,7 @@ export default function Issue4Bios() {
    Songs</strong></cite>, <cite><strong>Peripatet</strong></cite>, <cite><strong>Works</strong></cite>, and the
    forthcoming <cite><strong>Shame</strong></cite> (FC2/University of Alabama Press), and also another <i>Inside
    the Castle</i> project whose title, longer than the current Guinness Record Holder, is available here: <a
-   className={styles.biosExternalLinkSpecial} target="_blank" href="http://www.insidethecastle.org/title/">insidethecastle.org/title</a>.
+   className={styles.biosExternalLinkSpecial} target="_blank" rel="noreferrer" href="http://www.insidethecastle.org/title/">insidethecastle.org/title</a>.
    He lives in Moscow, Idaho.
    </StandardProse>
 

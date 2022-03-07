@@ -53,7 +53,7 @@ export default function EvenFlesh() {
        books of poems and prose, with the latter’s component pieces often mixing the lyric,
        the essayistic, and the fictive. But even prior to the cross-genre autonomy there
        is an innate textural slipperiness to Nao’s work, something Megan Jeanne Gette keenly
-       diagnoses in a vibrant <a className={styles.externalLink} target="_blank"
+       diagnoses in a vibrant <a className={styles.externalLink} target="_blank" rel="noreferrer"
        href="https://www.3ammagazine.com/3am/vi-khi-naos-molecular-agriculture-something-looms/">
        3:AM essay</a> on Nao as “molecular architecture.”
        To focus however for now on Nao’s earlier oeuvre—and to again monitor the way that

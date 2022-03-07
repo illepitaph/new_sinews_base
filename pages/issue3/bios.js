@@ -21,19 +21,19 @@ export default function Issue3Bios() {
    <StandardProse>
    <br/>
    <br/>
-   <span className={styles.grayInverse}>VI KHI NAO</span> is the author of four poetry collections: <a className={styles.biosExternalLink} target="_blank"
+   <span className={styles.grayInverse}>VI KHI NAO</span> is the author of four poetry collections: <a className={styles.biosExternalLink} target="_blank" rel="noreferrer" rel="noreferrer"
    href="http://1111press.com/human-tetris/"> <cite><strong> Human Tetris </strong></cite></a>(11:11
-   Press, 2019), <a className={styles.biosExternalLink} target="_blank" href="http://blacksunlit.com/sheep-machine/">
+   Press, 2019), <a className={styles.biosExternalLink} target="_blank" rel="noreferrer" href="http://blacksunlit.com/sheep-machine/">
    <cite><strong> Sheep Machine </strong></cite></a> (Black Sun Lit, 2018), <a className={styles.biosExternalLink}
-   target="_blank"
+   target="_blank" rel="noreferrer"
    href="https://www.journal1913.org/publications/umbilical-hospital/"> <cite><strong> Umbilical Hospital </strong>
-   </cite></a> (Press 1913, 2017), <a className={styles.biosExternalLink} target="_blank"
+   </cite></a> (Press 1913, 2017), <a className={styles.biosExternalLink} target="_blank" rel="noreferrer"
    href="https://nightboat.org/book/the-old-philosopher/"> <cite><strong> The
    Old Philosopher </strong></cite></a>(winner of the Nightboat Prize for 2014), & of the short stories collection, <a
-   className={styles.biosExternalLink} target="_blank"
+   className={styles.biosExternalLink} target="_blank" rel="noreferrer"
    href="http://www.uapress.ua.edu/product/Brief-Alphabet-of-Torture,6637.aspx"> <cite>
    <strong> A Brief Alphabet of Torture </strong></cite></a> (winner of the 2016 FC2's Ronald Sukenick
-   Innovative Fiction Prize), the novel, <a className={styles.biosExternalLink} target="_blank"
+   Innovative Fiction Prize), the novel, <a className={styles.biosExternalLink} target="_blank" rel="noreferrer"
    href="https://coffeehousepress.org/products/fish-in-exile"> <cite>
    <strong>Fish in Exile </strong></cite></a>(Coffee House Press, 2016). Her work includes poetry, fiction,
    film, and cross-genre collaboration.
@@ -42,7 +42,7 @@ export default function Issue3Bios() {
    <br/>
    <span className={styles.grayInverse}>CARY STOUGH</span> is a poet from the Missouri Ozarks and a Children's Librarian in Massachusetts. Recent work has
    been published in <i>X-R-A-Y</i>, <i>Bennington Review</i>, and <i>Apartment Poetry</i>. Talk to him about
-   Deleuze and Guattari on Twitter <a className={styles.biosExternalLink} target="_blank"
+   Deleuze and Guattari on Twitter <a className={styles.biosExternalLink} target="_blank" rel="noreferrer"
    href="https://twitter.com/gros__pipi">@gros_pipi</a>
    <br/>
    <br/>
@@ -64,9 +64,9 @@ export default function Issue3Bios() {
    the Rusty Toque Chapbook Prize), and <cite><strong>Six Poems from the Codex Mojaodicus</strong></cite> (winner of the Seven
    Kitchens Press Rane Arroyo Poetry Prize). His work has appeared in the <i>Best Experimental Writing</i>, <i>Anomaly</i>,
    <i> Asymptote</i>, <i>Berkeley Poetry Review</i>, <i>Fence</i>, <i>MAKE</i>, <i>The Offing</i>, and <i>Waxwing</i>. Follow
-   Steven on Instagram <a className={styles.biosExternalLink} target="_blank"
+   Steven on Instagram <a className={styles.biosExternalLink} target="_blank" rel="noreferrer"
    href="https://www.instagram.com/stevenpaulalvarez">@stevenpaulalvarez</a> and on Twitter <a
-   className={styles.biosExternalLink} target="_blank" href="https://twitter.com/Chastitellez">@chastitellez</a>
+   className={styles.biosExternalLink} target="_blank" rel="noreferrer" href="https://twitter.com/Chastitellez">@chastitellez</a>
    <br/>
    <br/>
    <br/>
@@ -86,9 +86,9 @@ export default function Issue3Bios() {
    been republished in the UK by Accent Press as <cite><strong>The Sea Singer</strong></cite> (2016), <cite>
    <strong>Anklet And Other Stories</strong></cite> (Golden Antelope Press, 2017), <cite><strong>Pretend I Am
    Someone You Like</strong></cite> (Livingston Press, 2018), and <cite><strong>Mute</strong></cite> (Tolsun
-   Books, 2018). He can be found at <a className={styles.biosExternalLink} target="_blank"
+   Books, 2018). He can be found at <a className={styles.biosExternalLink} target="_blank" rel="noreferrer"
    href="http://www.shomedome.com/">www.shomedome.com</a> and on Twitter <a
-   className={styles.biosExternalLink} target="_blank" href="https://twitter.com/laughingyeti">@laughingyeti</a>
+   className={styles.biosExternalLink} target="_blank" rel="noreferrer" href="https://twitter.com/laughingyeti">@laughingyeti</a>
    <br/>
    <br/>
    <br/>
