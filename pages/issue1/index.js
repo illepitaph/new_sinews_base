@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import Link from 'next/link'
-import styles from '../../styles/Issue1.module.css'
+import styles from '../../styles/issue1.module.css'
 Issue1.title = "new_sinews issue1";
 
 export default function Issue1() {
