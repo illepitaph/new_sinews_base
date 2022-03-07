@@ -599,7 +599,7 @@ export default function Rainey() {
       Whenever I couldn’t sleep as a little kid, my dad would tell me, “Think about the word <span
       className={styles.shadowSpecial}>peace</span>.” My dad
       is a really meditative guy, he loves candles and incense. The color of my nighttime memories of my
-      childhood at my parents' house look dark brown in my head. My most well-known vision is the memorized
+      childhood at my parents house look dark brown in my head. My most well-known vision is the memorized
       maze of walking down the short length of my parents’ house at night. A house of pacing, well-lived
       wood floors. Peace peace peace peace peace peace peace peace.
       <br/>

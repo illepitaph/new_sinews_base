@@ -20,8 +20,8 @@ export default function Eisen_Martin() {
 
 <div className={styles.poem}>
 <p className={styles.leftJustified}>I looked in my bank account</p>
-<p className={styles.leftJustified}>It said,“you have five toilets to your name."<br/>
-                          It said, “don’t just sit there. Return fire."</p>
+<p className={styles.leftJustified}>It said,`&apos;`you have five toilets to your name.`&apos;`<br/>
+                          It said, `&apos;`don’t just sit there. Return fire.`&apos;`</p>
 <p className={styles.leftJustified}>Talking head says, “go to sleep children. You will all be police tomorrow.”</p>
 <p className={styles.leftJustified}>We say: No. We will be the poor.</p>
 <p className={styles.leftJustified}>Talking head says, “ok scumbags, I talked to you like children; now you will be dogs”</p>
