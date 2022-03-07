@@ -44,7 +44,7 @@ export default function Issue4() {
           fixated on the death of princess diana ...</div></Link>
         </div>
         <div className={styles.workColumn}>
-            <div className={styles.workLink}><Link href="/issue4/bios">~~~ contri butor_ _ _b  i  os ~~~</Link></div>
+            <div className={styles.workLink}><Link href="/issue4/bios" passHref>~~~ contri butor_ _ _b  i  os ~~~</Link></div>
           </div>
           </div>
 
