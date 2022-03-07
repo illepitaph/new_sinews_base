@@ -27,7 +27,7 @@
   position: fixed;
   background: linear-gradient(
       90deg,
-      rgba(32, 32, 32, 0.75),
+      rgba(32, 32, 32, 0.749),
       rgba(32, 32, 32, 0.25)
     ),
     url("../public/images/Issue1Cover.jpg") no-repeat center center fixed;
