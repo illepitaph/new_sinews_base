@@ -23,7 +23,7 @@ export default function EvenFlesh() {
        <br/>
        <br/>
        <StandardProse>
-       "How might the partakers of cynically sensible deeds be freed in the very
+       `&quot;`How might the partakers of cynically sensible deeds be freed in the very
        course of their yielding? “The virtue of ecstasy robs reality of its
        synthetic robes,” Vi Khi Nao answers by way of her first book, <cite> The
        Vanishing Point of Desire </cite> (2011). And in this novel-in-roomily-white-spaced-prose,
@@ -211,7 +211,7 @@ export default function EvenFlesh() {
        Perhaps the reality ensnaring us—an overarching reality of our own making, legitimized anew
        each day by the cynical acts to which we accede and accede—is ripe for an ameliorating
        flux via our own rejigged will. “I have nothing to say to things,” Vi Khi Nao insists,
-       elucidating a frontier in an otherwise brink-breaching oeuvre, “that appear to be not changing.`&quot;`
+       elucidating a frontier in an otherwise brink-breaching oeuvre, “that appear to be not changing."
        </StandardProse>
 
     <Footer/>
