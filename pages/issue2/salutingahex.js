@@ -15,7 +15,7 @@ export default function SalutingAHex() {
        <Header/>
 
        <CenterGrayTitle><span className={styles.title}>saluting <br/>a hex of gangrenous<br/> sky</span></CenterGrayTitle>
-       <CenterBlackTitle>or: Brandon Shimdoa's ritual inversions</CenterBlackTitle>
+       <CenterBlackTitle>or: Brandon Shimdoa`&apos;`s ritual inversions</CenterBlackTitle>
 
        <p className={styles.authorItalic}>—Steve Barbaro</p>
 
