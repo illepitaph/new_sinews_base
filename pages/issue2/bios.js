@@ -34,7 +34,7 @@ export default function Issue2Bios() {
    <br/>
    <br/>
    <br/>
-   <span className={styles.grayInverse}>MIKE CORRAO</span> is the author of <cite><strong> Man, Oh Man </strong></cite> (Orson's
+   <span className={styles.grayInverse}>MIKE CORRAO</span> is the author of <cite><strong> Man, Oh Man </strong></cite> (Orson`&apos;`s
    Publishing) and <cite><strong> Gut Text </strong></cite> (11:11 Press). His work
    has been featured in publications such as <i>Collagist</i>, <i>3:AM</i>, <i>Always
    Crashing</i>, and <i>The Portland Review</i>. He lives in Minneapolis.
