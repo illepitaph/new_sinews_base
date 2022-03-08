@@ -182,23 +182,23 @@
     }
 
     .smallTextWall {
-      font-size:5rem;
+      font-size:4rem;
     }
 
     .mediumTextWall {
-      font-size:6.5rem;
+      font-size:5.5rem;
     }
 
     .largeTextWall {
-      font-size:7rem;
+      font-size:6rem;
     }
 
     .extraLargeTextWall {
-      font-size:7.5rem;
+      font-size:6.5rem;
     }
 
     .extraExtraLargeTextWall {
-      font-size:7.9rem;
+      font-size:6.9rem;
     }
 
 }
@@ -206,23 +206,23 @@
 @media (max-width: 855px) and (orientation:landscape) {
 
       .smallTextWall {
-        font-size:5rem;
+        font-size:4rem;
       }
 
       .mediumTextWall {
-        font-size:6.5rem;
+        font-size:5.5rem;
       }
 
       .largeTextWall {
-        font-size:7rem;
+        font-size:6rem;
       }
 
       .extraLargeTextWall {
-        font-size:7.5rem;
+        font-size:6.5rem;
       }
 
       .extraExtraLargeTextWall {
-        font-size:7.9rem;
+        font-size:6.9rem;
       }
 
 }
@@ -284,23 +284,23 @@
       }
 
       .smallTextWall {
-        font-size:3rem;
+        font-size:2rem;
       }
 
       .mediumTextWall {
-        font-size:4.5rem;
+        font-size:3.5rem;
       }
 
       .largeTextWall {
-        font-size:5rem;
+        font-size:4rem;
       }
 
       .extraLargeTextWall {
-        font-size:5.5rem;
+        font-size:4.5rem;
       }
 
       .extraExtraLargeTextWall {
-        font-size:5.9rem;
+        font-size:4.9rem;
       }
 
 }
