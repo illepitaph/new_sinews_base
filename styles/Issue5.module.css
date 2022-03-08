@@ -329,13 +329,13 @@ text-transform: lowercase;
 
   .workStructure{
     margin:4vh 1vw 1vh 1vw;
-    font-size:1.6rem;
+    font-size:1.4rem;
       grid-gap:5vh;
   }
 
   .workStructureTwo {
     margin:3vh 1vw 1vh 1vw;
-    font-size:1.55rem;
+    font-size:1.3rem;
       grid-gap:4vh;
   }
 
