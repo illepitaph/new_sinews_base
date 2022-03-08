@@ -668,7 +668,7 @@ text-transform: lowercase;
 @media (max-width:415px) and (orientation:portrait) {
 
   .workStructure, .workStructureTwo {
-    font-size:0.8rem;
+    font-size:0.9rem;
     grid-gap:10px;
   }
 }
@@ -676,7 +676,7 @@ text-transform: lowercase;
 @media (max-width:391px) and (orientation:portrait) {
 
   .workStructure, .workStructureTwo {
-    font-size:0.7rem;
+    font-size:0.8rem;
     grid-gap:10px;
   }
 
@@ -688,7 +688,7 @@ text-transform: lowercase;
 @media (max-width:361px) and (orientation:portrait) {
 
   .workStructure, .workStructureTwo {
-    font-size:0.6rem;
+    font-size:0.7rem;
   }
 
   .linkButtonOne, .linkButtonTwo {
@@ -703,7 +703,7 @@ text-transform: lowercase;
 @media (max-width:321px) and (orientation:portrait) {
 
   .workStructure, .workStructureTwo {
-    font-size:0.55rem;
+    font-size:0.6rem;
       grid-gap:3vh;
   }
 
@@ -715,7 +715,7 @@ text-transform: lowercase;
 @media (max-height:281px) and (orientation:landscape) {
 
   .workStructure, .workStructureTwo {
-    font-size:0.55rem;
+    font-size:0.6rem;
     grid-gap:1.4vh;
   }
 
