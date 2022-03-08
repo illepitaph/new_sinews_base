@@ -6,6 +6,7 @@ import RightBlackTitle from '../../components/rightBlackTitle.js'
 import StandardLineation from '../../components/standardLineation.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Gette.module.css'
+import Gette1 from '../../public/images/Gette1.jpg'
 Gette.title = "megan_jeanne_gette ~ summoning_green, a_leprosy_of_the_heart  — new_sinews"
 
 export default function Gette() {
@@ -25,8 +26,8 @@ export default function Gette() {
         <RightBlackTitle>——<i>megan<br/>jeanne<br/>gette</i></RightBlackTitle>
         <br/>
         <br/>
-        <Image src="/../public/images/Gette1.jpg" width={793} height={800}
-        layout={`responsive`} alt="British Army Officer spraying Paris Green into a stagnant pool in Syria in order to preclude Malaria, 1942"/>
+        <div className={styles.container}><Image src={Gette1} width={793} height={800}
+        layout={`responsive`} alt="British Army Officer spraying Paris Green into a stagnant pool in Syria in order to preclude Malaria, 1942"/></div>
 
           <div className={styles.poemContainer}>
         <p className={styles.getteLineation}>When I write the lines it comes out in a child’s voice</p>
