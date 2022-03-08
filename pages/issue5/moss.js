@@ -212,7 +212,7 @@ export default function Moss() {
       similarities and forget the rest. A forgetting of the understories. The true, ineffable depths washed away. It
       is one of the great struggles of being at the Veldt Institute: seeing these things and hoping to put them
       together, like pieces from different puzzles that just happen—by hope,  chance and misalignment—to have
-      complementary angles and which, when combined, might even create an image, but an false image that is nothing
+      complementary angles and which, when combined, might even create an image, but a false image that is nothing
       more than a comforting illusion. These false cognates hinder us further, relegate us to a world of simple
       meaning and cherished places. Clinging to the rock of understanding, to the illusory field of the world as
       it seems, dooming us utterly.
