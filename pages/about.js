@@ -139,7 +139,7 @@ return (
 
 <div className={styles.jpegBox1}
 
-<Image src="images/SiracusaWall.jpg" width={400} height={500} layout={`responsive`}
+<Image src="/../public/images/SiracusaWall.jpg" width={400} height={500} layout={`responsive`}
 alt="new_sinews children-playing-in-front-of-a-wall icon"/>   
 
 </div>
