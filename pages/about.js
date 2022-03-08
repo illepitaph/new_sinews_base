@@ -4,6 +4,11 @@ import Image from 'next/image'
 import React, {useState} from 'react'
 import Footer from '../components/footer.js'
 import styles from '../styles/About.module.css'
+import SiracusaWall from '../public/images/SiracusaWall.jpg'
+import Bubbles from '../public/images/Bubbles.jpg'
+import Face from '../public/images/Face.jpg'
+import Security from '../public/images/Security.jpg'
+import ArchaicEntity from '../public/images/ArchaicEntity.jpg'
 About.title = "about — new_sinews";
 
 export default function About() {
@@ -138,49 +143,49 @@ return (
 <p><span className={styles.darkTypeface}>edited +++ programmed +++ designed by :: steve barbaro</span></p>
 
 <div className={styles.imageContainer}>
-<Image src="/../public/images/SiracusaWall.jpg" width={140} height={110}
+<Image src={SiracusaWall} width={140} height={110}
 layout={`intrinsic`} alt="new_sinews children-playing-in-front-of-a-wall icon"/>
-<Image src="/../public/images/Bubbles.jpg" width={140} height={110}
+<Image src={Bubbles} width={140} height={110}
 layout={`intrinsic`} alt="new_sinews bubbles-on-plastic icon"/>
-<Image src="/../public/images/Face.jpg" width={130} height={110}
+<Image src={Face} width={130} height={110}
 layout={`intrinsic`} alt="new_sinews deity icon"/>
-<Image src="/../public/images/Security.jpg" width={100} height={110}
+<Image src={Security} width={100} height={110}
 layout={`intrinsic`} alt="new_sinews securitycam icon"/>
-<Image src="/../public/images/ArchaicEntity.jpg" width={100} height={110}
+<Image src={ArchaicEntity} width={100} height={110}
 layout={`intrinsic`} alt="new_sinews fossil icon"/>
-<Image src="/../public/images/SiracusaWall.jpg" width={140} height={110}
+<Image src={SiracusaWall} width={140} height={110}
 layout={`intrinsic`} alt="new_sinews children-playing-in-front-of-a-wall icon"/>
-<Image src="/../public/images/Security.jpg" width={100} height={110}
+<Image src={Security} width={100} height={110}
 layout={`intrinsic`} alt="new_sinews securitycam icon"/>
-<Image src="/../public/images/Face.jpg" width={130} height={110}
+<Image src={Face} width={130} height={110}
 layout={`intrinsic`} alt="new_sinews deity icon"/>
-<Image src="/../public/images/Security.jpg" width={100} height={110}
+<Image src={Security} width={100} height={110}
 layout={`intrinsic`} alt="new_sinews securitycam icon"/>
-<Image src="/../public/images/ArchaicEntity.jpg" width={100} height={110}
+<Image src={ArchaicEntity} width={100} height={110}
 layout={`intrinsic`} alt="new_sinews fossil icon"/>
-<Image src="/../public/images/Bubbles.jpg" width={140} height={110}
+<Image src={Bubbles} width={140} height={110}
 layout={`intrinsic`} alt="new_sinews bubbles-on-plastic icon"/>
-<Image src="/../public/images/ArchaicEntity.jpg" width={100} height={110}
+<Image src={ArchaicEntity} width={100} height={110}
 layout={`intrinsic`} alt="new_sinews fossil icon"/>
-<Image src="/../public/images/Face.jpg" width={130} height={110}
+<Image src={Face} width={130} height={110}
 layout={`intrinsic`} alt="new_sinews deity icon"/>
-<Image src="/../public/images/Bubbles.jpg" width={140} height={110}
+<Image src={Bubbles} width={140} height={110}
 layout={`intrinsic`} alt="new_sinews bubbles-on-plastic icon"/>
-<Image src="/../public/images/SiracusaWall.jpg" width={140} height={110}
+<Image src={SiracusaWall} width={140} height={110}
 layout={`intrinsic`} alt="new_sinews children-playing-in-front-of-a-wall icon"/>
-<Image src="/../public/images/Security.jpg" width={100} height={110}
+<Image src={Security} width={100} height={110}
 layout={`intrinsic`} alt="new_sinews securitycam icon"/>
-<Image src="/../public/images/ArchaicEntity.jpg" width={100} height={110}
+<Image src={ArchaicEntity} width={100} height={110}
 layout={`intrinsic`} alt="new_sinews fossil icon"/>
-<Image src="/../public/images/SiracusaWall.jpg" width={140} height={110}
+<Image src={SiracusaWall} width={140} height={110}
 layout={`intrinsic`} alt="new_sinews children-playing-in-front-of-a-wall icon"/>
-<Image src="/../public/images/Face.jpg" width={130} height={110}
+<Image src={Face} width={130} height={110}
 layout={`intrinsic`} alt="new_sinews deity icon"/>
-<Image src="/../public/images/Bubbles.jpg" width={140} height={110}
+<Image src={Bubbles} width={140} height={110}
 layout={`intrinsic`} alt="new_sinews bubbles-on-plastic icon"/>
-<Image src="/../public/images/Security.jpg" width={100} height={110}
+<Image src={Security} width={100} height={110}
 layout={`intrinsic`} alt="new_sinews securitycam icon"/>
-<Image src="/../public/images/ArchaicEntity.jpg" width={100} height={110}
+<Image src={ArchaicEntity} width={100} height={110}
 layout={`intrinsic`} alt="new_sinews fossil icon"/>
 
 
