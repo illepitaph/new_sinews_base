@@ -303,14 +303,14 @@ text-transform: lowercase;
 
   .workStructure{
     margin:4vh 1vw 1vh 1vw;
-    font-size:1.8rem;
-      grid-gap:3.5vh;
+    font-size:1.7rem;
+      grid-gap:3vh;
   }
 
   .workStructureTwo {
     margin:3vh 1vw 1vh 1vw;
-    font-size:1.7rem;
-      grid-gap:2.5vh;
+    font-size:1.65rem;
+      grid-gap:2vh;
   }
 
   .pageTitle {
@@ -362,7 +362,7 @@ text-transform: lowercase;
 @media (max-width:927px) and (orientation:landscape) {
 
   .workStructure, .workStructureTwo {
-    font-size:1.15rem;
+    font-size:1rem;
     text-shadow:1px 1px #D10000,
     2px 2px black;
     letter-spacing: 0.1rem;
@@ -400,7 +400,7 @@ text-transform: lowercase;
 @media (max-width:913px) and (orientation:portrait) {
 
   .workStructure, .workStructureTwo {
-    font-size:1.4rem;
+    font-size:1.2rem;
     letter-spacing: 0.1rem;
     grid-gap:7.8vh;
   }
@@ -422,7 +422,7 @@ text-transform: lowercase;
 @media (max-width:869px) and (orientation:landscape) {
 
   .workStructure, .workStructureTwo {
-    font-size:0.85rem;
+    font-size:0.75rem;
   }
 
   .pageTitle {
@@ -437,7 +437,7 @@ text-transform: lowercase;
 @media (max-width:846px) and (orientation:landscape) {
 
   .workStructure, .workStructureTwo {
-    font-size:0.88rem;
+    font-size:0.7rem;
     letter-spacing:0;
   }
 
@@ -522,7 +522,7 @@ text-transform: lowercase;
 @media (max-width:801px) and (orientation:landscape) {
 
   .workStructure, .workStructureTwo {
-    font-size:0.85rem;
+    font-size:0.7rem;
     grid-gap:13px;
   }
 
@@ -575,7 +575,7 @@ text-transform: lowercase;
 @media (max-width:667px) and (orientation:landscape) {
 
   .workStructure, .workStructureTwo {
-    font-size:0.77rem;
+    font-size:0.65rem;
     grid-gap:10px;
   }
 
@@ -584,11 +584,11 @@ text-transform: lowercase;
   }
 
   .pageTitle {
-    font-size: 1.55rem;
+    font-size: 1.35rem;
   }
 
   .issueTitle {
-    font-size: 1.35rem;
+    font-size: 1.25rem;
   }
 
 }
@@ -604,7 +604,7 @@ text-transform: lowercase;
   }
 
   .workStructure, .workStructureTwo {
-    font-size:1.3rem;
+    font-size:1.2rem;
     text-shadow:1px 1px #D10000,
     2px 2px black;
     margin:3vh 1vw;
@@ -622,12 +622,12 @@ text-transform: lowercase;
   }
 
   .pageTitle {
-    font-size:2.1rem;
+    font-size:1.9rem;
     margin:7vh 0 0 3vw;
   }
 
   .issueTitle {
-    font-size:1.5rem;
+    font-size:1.4rem;
     margin-left:14vw;
   }
 
@@ -668,7 +668,7 @@ text-transform: lowercase;
 @media (max-width:415px) and (orientation:portrait) {
 
   .workStructure, .workStructureTwo {
-    font-size:1.3rem;
+    font-size:1.2rem;
     grid-gap:10px;
   }
 }
@@ -676,7 +676,7 @@ text-transform: lowercase;
 @media (max-width:391px) and (orientation:portrait) {
 
   .workStructure, .workStructureTwo {
-    font-size:1.1rem;
+    font-size:1rem;
     grid-gap:10px;
   }
 
@@ -688,7 +688,7 @@ text-transform: lowercase;
 @media (max-width:361px) and (orientation:portrait) {
 
   .workStructure, .workStructureTwo {
-    font-size:1.05rem;
+    font-size:1rem;
   }
 
   .linkButtonOne, .linkButtonTwo {
@@ -703,7 +703,7 @@ text-transform: lowercase;
 @media (max-width:321px) and (orientation:portrait) {
 
   .workStructure, .workStructureTwo {
-    font-size:0.9rem;
+    font-size:0.8rem;
       grid-gap:3vh;
   }
 
@@ -715,7 +715,7 @@ text-transform: lowercase;
 @media (max-height:281px) and (orientation:landscape) {
 
   .workStructure, .workStructureTwo {
-    font-size:0.77rem;
+    font-size:0.7rem;
     grid-gap:1.4vh;
   }
 
