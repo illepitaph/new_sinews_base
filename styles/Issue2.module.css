@@ -163,10 +163,10 @@
 @media (max-width: 767.98px) {
 
   .pageTitle {
-    font-size: 2rem;
+    font-size: 1.5rem;
       text-shadow: 4px 2px snow;
     margin-left:1px;
-    margin: 5% 0 0 4%;
+    margin: 0 0 0 4%;
   }
 
   .inverseTitleColor {
@@ -174,7 +174,7 @@
   }
 
   .issue {
-    font-size:1.5rem;
+    font-size:1rem;
     text-shadow: 4px 2px snow;
     margin:1vh 0 0 6vw;
   }
@@ -205,7 +205,7 @@
 
    .pageTitle {
      font-size:3rem;
-     margin: 1% 0 0 4%;
+     margin: 0 0 0 4%;
    }
 
    .issue {
