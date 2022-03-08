@@ -25,7 +25,7 @@ export default function Gette() {
         <RightBlackTitle>——<i>megan<br/>jeanne<br/>gette</i></RightBlackTitle>
         <br/>
         <br/>
-        <div className={styles.container}><Image src="/../public/images/Gette1.jpg" width={793} height={800}
+        <div className={styles.container}><Image src="../public/images/Gette1.jpg" width={793} height={800}
         layout={`responsive`} alt="British Army Officer spraying Paris Green into a stagnant pool in Syria in order to preclude Malaria, 1942"/></div>
 
           <div className={styles.poemContainer}>
