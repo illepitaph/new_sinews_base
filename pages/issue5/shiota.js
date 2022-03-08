@@ -546,7 +546,7 @@ export default function Shiota() {
       street, the crowds she could easily disappear in and out of when necessary. An expectant thrill ran through her.
       <br/>
       <br/>
-      &quot;I am sure I will get used to it.&quot; She said, then bowed as the woman`&;`s husband came over to greet them.
+      &quot;I am sure I will get used to it.&quot; She said, then bowed as the woman&apos;s husband came over to greet them.
       </StandardProse>
 
        <Footer/>
