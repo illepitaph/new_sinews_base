@@ -274,7 +274,7 @@
 
   .graffiti {
     font-size:2rem;
-    margin:5% 0 0 4%;
+    margin:5% 0 0 2%;
   }
 
 
@@ -306,7 +306,7 @@
 @media (max-width: 854px) and (orientation:landscape) {
 
   .graffiti {
-    font-size:1.6rem;
+    font-size:1.3rem;
   }
 
 
