@@ -57,7 +57,7 @@
   display:grid;
   grid-template-columns: repeat(3, 1fr);
   margin: 0;
-  overflow: hidden;
+  overflow: scroll;
   animation: fadeIn ease-out 0.9s;
 }
 
