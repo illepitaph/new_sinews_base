@@ -40,6 +40,7 @@
   bottom: 0px;
   left: 0px;
   animation: fadeIn ease-out 0.9s;
+  overflow:scroll;
 }
 
 .pageStructure {
