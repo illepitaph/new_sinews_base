@@ -158,7 +158,7 @@
     }
 
     .smallTextWall, .mediumTextWall, .largeTextWall , .extraLargeTextWall, .extraExtraLargeTextWall {
-        letter-spacing:1.1vw;
+        letter-spacing:0.8vw;
       }
 
 }
@@ -178,7 +178,7 @@
     }
 
   .smallTextWall, .mediumTextWall, .largeTextWall , .extraLargeTextWall, .extraExtraLargeTextWall {
-      letter-spacing:0.8vw;
+      letter-spacing:0.6vw;
     }
 
     .smallTextWall {
@@ -324,11 +324,11 @@
     }
 
     .smallTextWall {
-          letter-spacing:0.45vw;
+          letter-spacing:0.3vw;
       }
 
       .mediumTextWall, .largeTextWall, .extraLargeTextWall, .extraExtraLargeTextWall {
-            letter-spacing:0.3vw;
+            letter-spacing:0.24vw;
         }
 
 }
