@@ -162,6 +162,10 @@
   letter-spacing:2px;
 }
 
+.imageContainer {
+  margin:0 1.5vw;
+}
+
 .darkTypeface {
   font-family:"lores-9-plus-wide", monospace;
   font-size:1.8rem;
