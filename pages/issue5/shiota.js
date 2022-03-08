@@ -201,7 +201,7 @@ export default function Shiota() {
       when push comes to shove, I will go for the kill if I must.&quot; The sentiment rang true to the other foxes.
       <br/>
       <br/>
-      &quot;The proof is in the biology. &quot; A speckled grey fox once commented matter-of-factly, &quot;Why else would we be
+      &quot;The proof is in the biology.&quot; A speckled grey fox once commented matter-of-factly, &quot;Why else would we be
       able to switch only between human and fox? Why else would they find us so alluring? The tanuki can change
       their shape into anything they like, yet here we are, precision machines perfectly attuned to catch our prey.&quot;
       <br/>
@@ -502,7 +502,7 @@ export default function Shiota() {
       on our way to the capital anyhow, so it made no sense to stop.&quot;
       <br/>
       <br/>
-      &quot;You are heading all the way to the capital?
+      &quot;You are heading all the way to the capital?&quot;
       <br/>
       <br/>
       &quot;Yes, my husband&apos;s opening a shop stall there. We&apos;ve done well enough that it&apos;s about time for us to stop
