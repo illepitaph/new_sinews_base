@@ -137,12 +137,55 @@ return (
     <section className={styles.middle}>
 <p><span className={styles.darkTypeface}>edited +++ programmed +++ designed by :: steve barbaro</span></p>
 
-<div className={styles.jpegBox1}
+<div className={styles.imageContainer}>
+<Image src="/../public/images/SiracusaWall.jpg" width={140} height={110}
+layout={`intrinsic`} alt="new_sinews children-playing-in-front-of-a-wall icon"/>
+<Image src="/../public/images/Bubbles.jpg" width={140} height={110}
+layout={`intrinsic`} alt="new_sinews bubbles-on-plastic icon"/>
+<Image src="/../public/images/Face.jpg" width={130} height={110}
+layout={`intrinsic`} alt="new_sinews deity icon"/>
+<Image src="/../public/images/Security.jpg" width={100} height={110}
+layout={`intrinsic`} alt="new_sinews securitycam icon"/>
+<Image src="/../public/images/ArchaicEntity.jpg" width={100} height={110}
+layout={`intrinsic`} alt="new_sinews fossil icon"/>
+<Image src="/../public/images/SiracusaWall.jpg" width={140} height={110}
+layout={`intrinsic`} alt="new_sinews children-playing-in-front-of-a-wall icon"/>
+<Image src="/../public/images/Security.jpg" width={100} height={110}
+layout={`intrinsic`} alt="new_sinews securitycam icon"/>
+<Image src="/../public/images/Face.jpg" width={130} height={110}
+layout={`intrinsic`} alt="new_sinews deity icon"/>
+<Image src="/../public/images/Security.jpg" width={100} height={110}
+layout={`intrinsic`} alt="new_sinews securitycam icon"/>
+<Image src="/../public/images/ArchaicEntity.jpg" width={100} height={110}
+layout={`intrinsic`} alt="new_sinews fossil icon"/>
+<Image src="/../public/images/Bubbles.jpg" width={140} height={110}
+layout={`intrinsic`} alt="new_sinews bubbles-on-plastic icon"/>
+<Image src="/../public/images/ArchaicEntity.jpg" width={100} height={110}
+layout={`intrinsic`} alt="new_sinews fossil icon"/>
+<Image src="/../public/images/Face.jpg" width={130} height={110}
+layout={`intrinsic`} alt="new_sinews deity icon"/>
+<Image src="/../public/images/Bubbles.jpg" width={140} height={110}
+layout={`intrinsic`} alt="new_sinews bubbles-on-plastic icon"/>
+<Image src="/../public/images/SiracusaWall.jpg" width={140} height={110}
+layout={`intrinsic`} alt="new_sinews children-playing-in-front-of-a-wall icon"/>
+<Image src="/../public/images/Security.jpg" width={100} height={110}
+layout={`intrinsic`} alt="new_sinews securitycam icon"/>
+<Image src="/../public/images/ArchaicEntity.jpg" width={100} height={110}
+layout={`intrinsic`} alt="Still One From Marguerite Duras’ India Song"/>
+<Image src="/../public/images/SiracusaWall.jpg" width={140} height={110}
+layout={`intrinsic`} alt="Still One From Marguerite Duras’ India Song"/>
+<Image src="/../public/images/Face.jpg" width={130} height={110}
+layout={`intrinsic`} alt="new_sinews deity icon"/>
+<Image src="/../public/images/Bubbles.jpg" width={140} height={110}
+layout={`intrinsic`} alt="new_sinews bubbles-on-plastic icon"/>
+<Image src="/../public/images/Security.jpg" width={100} height={110}
+layout={`intrinsic`} alt="new_sinews securitycam icon"/>
+<Image src="/../public/images/ArchaicEntity.jpg" width={100} height={110}
+layout={`intrinsic`} alt="Still One From Marguerite Duras’ India Song"/>
 
-<Image src="/../public/images/SiracusaWall.jpg" width={400} height={500} layout={`responsive`}
-alt="new_sinews children-playing-in-front-of-a-wall icon"/>   
 
 </div>
+
 
 <p>send poems & fiction (very much open to speculative/fantasy) or even aggressively
 creative nonfiction in a <code>word DOC</code> to be considered to:</p>
