@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Link from 'next/link'
+import Image from 'next/image'
 import React, {useState} from 'react'
 import Footer from '../components/footer.js'
 import styles from '../styles/About.module.css'
@@ -135,6 +136,13 @@ return (
 </section>
     <section className={styles.middle}>
 <p><span className={styles.darkTypeface}>edited +++ programmed +++ designed by :: steve barbaro</span></p>
+
+<div className={styles.jpegBox1}
+
+<Image src="images/SiracusaWall.jpg" width={400} height={500} layout={`responsive`}
+alt="new_sinews children-playing-in-front-of-a-wall icon"/>   
+
+</div>
 
 <p>send poems & fiction (very much open to speculative/fantasy) or even aggressively
 creative nonfiction in a <code>word DOC</code> to be considered to:</p>
