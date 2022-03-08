@@ -69,7 +69,8 @@ export default function Issue4() {
                    <button className={styles.linkButton}><div
                    className={styles.innerSiteLinkTag}><Link href="/about" passHref>about</Link></div></button>
                    <button className={styles.linkButton}>
-                     <div className={styles.twitterLinkTag}><Link href="https://twitter.com/new_sinews" passHref>tweeter</Link>
+                     <div className={styles.twitterLinkTag}><Link href="https://twitter.com/new_sinews" passHref
+                     target="_blank" rel="noreferrer">tweeter</Link>
                      </div></button>
                    </div>
              </div>

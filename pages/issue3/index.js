@@ -52,7 +52,7 @@ export default function Issue3() {
               <button className={styles.linkButton}><Link href="/" passHref>new sinews</Link></button>
               <button className={styles.linkButton}><Link href="/about" passHref>about</Link></button>
               <button className={styles.linkButton}>
-                <a className={styles.twitterLinkTag} href="https://twitter.com/new_sinews">tweeter</a>
+                <a className={styles.twitterLinkTag} href="https://twitter.com/new_sinews" target="_blank" rel="noreferrer">tweeter</a>
               </button>
               </div>
           </div>
