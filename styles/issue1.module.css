@@ -157,6 +157,10 @@
     font-size:1.8rem;
   }
 
+  .issueContents {
+    margin: 0 0 0 4%;
+  }
+
   .col2 {
     margin-left:5px;
   }
@@ -211,7 +215,7 @@
    @media (max-height: 900px) and (orientation:portrait) {
 
      .issueContents {
-       margin: 2% 0 0 0;
+       margin: 0;
      }
 
 
@@ -237,11 +241,11 @@
   @media (max-width: 380px) {
 
     .issueContents {
-      margin: 2% 0 0 1%;
+      margin: 0 0 0 1%;
     }
 
     .workLink {
-      font-size: 1.2rem;
+      font-size: 1.1rem;
       margin-top:2vh;
     }
 
@@ -271,13 +275,13 @@
      }
 
      .workLink {
-       font-size: 0.8rem;
+       font-size: 0.7rem;
      }
    }
 
    @media(max-height: 320px) and (orientation:landscape){
      .workLink {
-       font-size: 0.7rem;
+       font-size: 0.6rem;
      }
 
      .siteShortcuts {
