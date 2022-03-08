@@ -67,7 +67,7 @@ export default function Issue4Bios() {
    <span className={styles.grayInverse}>MIKE CORRAO</span> is the author of three novels, <cite><strong>Man</strong>
    </cite>, <cite><strong>Oh Man</strong></cite> (Orson&apos;s Publishing); <cite><strong>Gut Text</strong>
    </cite> (11:11 Press); and <cite><strong>Rituals Performed In The Absence Of Ganymede</strong></cite> (11:11 Press); one book
-   of poetry, <cite><strong>Two Novels </strong></cite>(Orson`&apos;`s Publishing); two plays, <cite><strong>Smut-Maker</strong></cite> (Inside the
+   of poetry, <cite><strong>Two Novels </strong></cite>(Orson&apos;s Publishing); two plays, <cite><strong>Smut-Maker</strong></cite> (Inside the
    Castle) and <cite><strong>Andromedusa</strong></cite> (Forthcoming - Plays Inverse); and three
    chapbooks, <cite><strong>Avian Funeral March</strong></cite> (Self-Fuck); <cite><strong>Material Catalogue</strong></cite> (Alienist);
    and <cite><strong>Spelunker</strong></cite> (Schism - Neuronics). Along with earning multiple Best of the Net

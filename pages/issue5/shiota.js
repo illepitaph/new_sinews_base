@@ -43,7 +43,7 @@ export default function Shiota() {
       stream to get water to douse the fire. A few young men bolted to the neighboring village for help.
       <br/>
       <br/>
-      Sawako didn`&apos;`t bother looking back as the other villagers fled, she simply ran towards the fields. As soon as her
+      Sawako didn&apos;t bother looking back as the other villagers fled, she simply ran towards the fields. As soon as her
       body hit the tall grass, she lept, landing smoothly on four paws and darted swiftly through the underbrush.
       <br/>
       <br/>
@@ -79,7 +79,7 @@ export default function Shiota() {
       <br/>
       The first time she discovered she could change she was in a field like this with her sisters. She remembered
       reveling in the feeling of the tall grass sweeping along her body as she darted about in the undergrowth, her
-      sisters`&apos;` playful growls stalking closer. Her paw caught on a stone jutting out of the ground, sending her
+      sisters&apos; playful growls stalking closer. Her paw caught on a stone jutting out of the ground, sending her
       tumbling. When she suddenly hit the ground she broke her fall with two outspread hands, her vision partially
       obscured by an outpouring of long black hair that fell like a curtain across her eyes. She heard her
       sisters’ startled yelps in the grass and pushed her hair out of her face to be greeted by three other, equally
@@ -160,7 +160,7 @@ export default function Shiota() {
       the hunger could only be quelled by the life force of a young man. Or so all the foxes said.
       <br/>
       <br/>
-      All foxes lived with the aching hunger as a fact of life, but Sawako couldn`&apos;`t pinpoint when she
+      All foxes lived with the aching hunger as a fact of life, but Sawako couldn&apos;t pinpoint when she
       began to resent their condition. All she could remember was a constant sense of disquiet, a sickening
       powerlessness. It felt so stifling, to live off the scraps of life that a single human being might
       have to offer. What if there are no young men who catch your fancy? What happens when no villages are
@@ -169,7 +169,7 @@ export default function Shiota() {
       <br/>
       During one of her many exiles between villages and husbands she ran into one of her sisters sunning
       herself on a rock. Her sister gave an imperious flick of her tail as Sawako settled beside her on the warm
-      rock, tucking her paws beneath her belly and drinking in the warmth from the sun. The sun couldn`&apos;`t sustain
+      rock, tucking her paws beneath her belly and drinking in the warmth from the sun. The sun couldn&apos;t sustain
       them, but it felt good to bask in its warmth. Her sister looked her over, clicking her tongue in disapproval.
       <br/>
       <br/>
@@ -181,7 +181,7 @@ export default function Shiota() {
       <br/>
       <br/>
       Sawako’s mind wandered to her other sisters, imagining what it would be like to encounter them now. It had
-      been so long since she had seen them. Foxes gave one another a politely wide berth; it wouldn`&apos;`t do to have
+      been so long since she had seen them. Foxes gave one another a politely wide berth; it wouldn&apos;t do to have
       too many beautiful women taking the life force of too many men in the same area. People would start to
       suspect something. Sawako imagined the comments her own sisters would make now, had they been able to watch
       her solitary walk to the mountains in the wake of her desolation of a village:
@@ -195,19 +195,19 @@ export default function Shiota() {
       Her sisters had no qualms taking life when necessary.
       <br/>
       <br/>
-      `&quot;`What other option do we have?`&quot;` Another sister had snarled, meticulously grooming a coat of glorious
-      ebony fur. `&quot;`Should I go hungry for the sake of creatures who would just as soon kill me? Of course I
+      &quot;What other option do we have?&quot; Another sister had snarled, meticulously grooming a coat of glorious
+      ebony fur. &quot;Should I go hungry for the sake of creatures who would just as soon kill me? Of course I
       want to enjoy the human for as long as I can before I have to take the last few bits of life out of him, but
-      when push comes to shove, I will go for the kill if I must.`&quot;` The sentiment rang true to the other foxes.
+      when push comes to shove, I will go for the kill if I must.&quot; The sentiment rang true to the other foxes.
       <br/>
       <br/>
-      `&quot;`The proof is in the biology.`&quot;` A speckled grey fox once commented matter-of-factly, `&quot;`Why else would we be
+      &quot;The proof is in the biology. &quot; A speckled grey fox once commented matter-of-factly, &quot;Why else would we be
       able to switch only between human and fox? Why else would they find us so alluring? The tanuki can change
-      their shape into anything they like, yet here we are, precision machines perfectly attuned to catch our prey.`&quot;`
+      their shape into anything they like, yet here we are, precision machines perfectly attuned to catch our prey.&quot;
       <br/>
       <br/>
       But when Sawako caught sight of her human face in the placid surface of a pool of water or reflected back in
-      the dark eyes of her fellow foxes, it didn`&apos;`t feel like an accident of biology. As she stared at her hands
+      the dark eyes of her fellow foxes, it didn&apos;t feel like an accident of biology. As she stared at her hands
       running through the dark ends of her hair or touched the fleshy, furless contours of her body, she felt this
       was as much a part of her as her fox form. She knew her way came at a higher cost, that to nurture the bonds
       linking her to human life was harder than to simply seduce and to exploit. But something inside her refused
@@ -221,25 +221,25 @@ export default function Shiota() {
       radiating onto her face and the smell of cooking wafting around the small space.
       <br/>
       <br/>
-      `&quot;`You are awake?`&quot;` A woman peered at her from across the room, her attention quickly returning to the fish she was
+      &quot;You are awake?&quot; A woman peered at her from across the room, her attention quickly returning to the fish she was
       frying. Sawako nodded weakly.
       <br/>
       <br/>
-      `&quot;`It is alright, you should rest. The fish will be ready soon.`&quot;` The next time Sawako came to, the woman was
+      &quot;It is alright, you should rest. The fish will be ready soon.&quot; The next time Sawako came to, the woman was
       mending a large swathe of fish net, her hands working methodically along the torn sections. She looked up as
       Sawako sat up on the cot, smiling and setting the net aside.
       <br/>
       <br/>
-      `&quot;`You seem rested now. Good.`&quot;` Before Sawako could respond, the woman handed her a small bit of fish and
-      rice, along with some vegetables from the local area. Unexpectedly, the woman`&apos;`s hand brushed Sawako`&apos;`s and she
+      &quot;You seem rested now. Good.&quot; Before Sawako could respond, the woman handed her a small bit of fish and
+      rice, along with some vegetables from the local area. Unexpectedly, the woman&apos;s hand brushed Sawako&apos;s and she
       felt the familiar buzz of energy beneath her skin. The hunger within her settled a bit.
       <br/>
       <br/>
-      `&quot;`Thank you, but I can`&apos;`t accept this.`&quot;` Sawako said, her voice trailing off. The woman shook her head
+      &quot;Thank you, but I can&apos;t accept this.&quot; Sawako said, her voice trailing off. The woman shook her head
       firmly, picking up the net to continue her work.
       <br/>
       <br/>
-      `&quot;`You must. We would never dream of letting anyone leave the village in such a state. Please eat.`&quot;`
+      &quot;You must. We would never dream of letting anyone leave the village in such a state. Please eat.&quot;
       <br/>
       <br/>
       Dutifully, Sawako ate. The crisp skin of the fish crunched satisfyingly between her teeth. The woman
@@ -247,18 +247,18 @@ export default function Shiota() {
       was a fisherman, she said, and he was out at sea for another week, so she was pleased to have the company.
       <br/>
       <br/>
-      `&quot;`Wouldn`&apos;`t he worry about you accepting an outsider into your home?`&quot;` Sawako asked, scraping the remnants of fish
+      &quot;Wouldn&apos;t he worry about you accepting an outsider into your home?&quot; Sawako asked, scraping the remnants of fish
       into her mouth and resisting the impulse to lick the bowl. The woman gave her a quizzical look.
       <br/>
       <br/>
-      `&quot;`Why would he worry? You were certainly in no state to harm anyone.`&quot;` She held up the mended section of fishing
-      net against the light of the fire, inspecting each knot carefully, `&quot;`There are any number of reasons for a young
+      &quot;Why would he worry? You were certainly in no state to harm anyone.&quot; She held up the mended section of fishing
+      net against the light of the fire, inspecting each knot carefully, &quot;There are any number of reasons for a young
       woman to be traveling alone. I would not send you on your way until you have regained your strength. And my
-      husband would feel the same.`&quot;`
+      husband would feel the same.&quot;
       <br/>
       <br/>
-      Sawako remained with the fisherman`&apos;`s wife for several weeks, regaining her strength piecemeal through
-      the kindness of her hostess and the other residents who would pop into the fisherman`&apos;`s hut to speak to
+      Sawako remained with the fisherman&apos;s wife for several weeks, regaining her strength piecemeal through
+      the kindness of her hostess and the other residents who would pop into the fisherman&apos;s hut to speak to
       the outsider. To her surprise, the gnawing emptiness within her ebbed. By the time she was well
       enough to set out to the fields, the hunger was fully satiated.
       <br/>
@@ -279,7 +279,7 @@ export default function Shiota() {
       other foxes would have. She no longer needed to rely on the life of a single human being.
       <br/>
       <br/>
-      But the bronze fox`&apos;`s words echoed in her mind as decades slipped by. Over time, it became increasingly
+      But the bronze fox&apos;s words echoed in her mind as decades slipped by. Over time, it became increasingly
       difficult to find villages willing to let her enter, even for a brief respite. Suddenly, she faced questions of
       lineage, home, birthplace, things she never knew how to convincingly side step.
       <br/>
@@ -290,7 +290,7 @@ export default function Shiota() {
       <br/>
       <br/>
       That shrill voice pierced her mind even now, as did the memory of the heat that first bubbled within her
-      stomach at the old woman`&apos;`s words. <i>Horrible old crone</i>, she had thought from her hiding spot among the tall
+      stomach at the old woman&apos;s words. <i>Horrible old crone</i>, she had thought from her hiding spot among the tall
       grass, watching the humans scamper back into the safety of their village through narrowed eyes and feeling the heat
       rising within her. <i>As if I chose to look this way just to snare your sniveling, pathetic young men</i>.
       <br/>
@@ -318,7 +318,7 @@ export default function Shiota() {
       <br/>
       She went with him into the village, noting an Inari shrine with its sentinel of foxes tucked near the center
       of the village, its steps worn away with devoted use. A wave of relief flooded through her. She shifted her
-      attention to the villagers beginning to crowd around, their interest piqued by the official`&apos;`s return. Sawako
+      attention to the villagers beginning to crowd around, their interest piqued by the official&apos;s return. Sawako
       tried to pleasantly smile away the suspicion and the fixed stares cast her way. She knew instinctively that
       the villagers sensed something was wrong, but she was too hungry to care. <i>Just for a little while</i>, she
       thought, <i>I just need to stay for a little while</i>. They were quickly married, much to his family’s
@@ -344,7 +344,7 @@ export default function Shiota() {
       Out of curiosity, Sawako peeked at the documents scattered across the sturdy wooden table in their home on
       one of the occasions where her husband was flitting hectically around the village. To her shock, the notes
       were barely legible scribbles, the mathematics only partially accurate, the years-long ledgers in utter
-      disarray. Now her husband`&apos;`s frantic comings and goings made perfect sense. She had married a complete
+      disarray. Now her husband&apos;s frantic comings and goings made perfect sense. She had married a complete
       fool. <i>I just need a little more time</i>, she thought each day as she plucked a little more of the life force
       from her husband.
       <br/>
@@ -357,7 +357,7 @@ export default function Shiota() {
       <br/>
       <br/>
       She tried to ignore their words, brushing past the gawkers on the street as she hurried along with her
-      business. Sawako couldn`&apos;`t bring her self to leave the village quite yet. She was still so hungry.
+      business. Sawako couldn&apos;t bring her self to leave the village quite yet. She was still so hungry.
       <br/>
       <br/>
       <i>I just need a little more time</i>.
@@ -367,16 +367,16 @@ export default function Shiota() {
       outings and as she watched the sun dip below the horizon Sawako sensed that something was deeply amiss. When
       he finally returned she was careful to keep distance between them. Her husband, whose affections had gradually
       dulled throughout their short marriage, now stared at her with open hostility. Behind him in the open doorway, she
-      could see a small crowd had formed; her husband`&apos;`s family members, their neighbors, and the most senior members of
+      could see a small crowd had formed; her husband&apos;s family members, their neighbors, and the most senior members of
       the village buzzed with eager agitation. Sawako remained within the house.
       <br/>
       <br/>
-      `&quot;`The ledgers,`&quot;` her husband hissed sharply, `&quot;`Never add up. No matter how much I check the figures, nothing adds
-      up. If those above me see what has happened, I will be accused of stealing, of lying! They will have me killed.`&quot;`
+      &quot;The ledgers,&quot; her husband hissed sharply, &quot;Never add up. No matter how much I check the figures, nothing adds
+      up. If those above me see what has happened, I will be accused of stealing, of lying! They will have me killed.&quot;
       <br/>
       <br/>
-      `&quot;`You have kept the ledgers long before we met, my dear.`&quot;` Sawako said evenly, her eyes leveling against him, `&quot;`If
-      there is any discrepancy I have no part in it.`&quot;` She felt a warmth begin to bubble in the pit her stomach. <i>Do
+      &quot;You have kept the ledgers long before we met, my dear.&quot; Sawako said evenly, her eyes leveling against him, &quot;If
+      there is any discrepancy I have no part in it.&quot; She felt a warmth begin to bubble in the pit her stomach. <i>Do
       not push me, human</i>.
       <br/>
       <br/>
@@ -384,28 +384,28 @@ export default function Shiota() {
       fists. The fire continued to grow inside her and this time she did not try to stop it.
       <br/>
       <br/>
-      `&quot;`I was advised against making you, a stranger, my wife. But you did this, you bewitched me, you brought ruin
-      upon this family.`&quot;` At this, the crowd beyond the threshold clamored loudly, trying to press themselves into
+      &quot;I was advised against making you, a stranger, my wife. But you did this, you bewitched me, you brought ruin
+      upon this family.&quot; At this, the crowd beyond the threshold clamored loudly, trying to press themselves into
       the home.
       <br/>
       <br/>
-      `&quot;`I told you she was a fox, from the moment I saw her!`&quot;`
+      &quot;I told you she was a fox, from the moment I saw her!&quot;
       <br/>
       <br/>
-      `&quot;`We should have killed her long ago.`&quot;`
+      &quot;We should have killed her long ago.&quot;
       <br/>
       <br/>
-      `&quot;`She should pay for what she has done.`&quot;`
+      &quot;She should pay for what she has done.&quot;
       <br/>
       <br/>
-      `&quot;`It brought ruin on us all!`&quot;`
+      &quot;It brought ruin on us all!&quot;
       <br/>
       <br/>
       <i>They will always try to kill you in the end</i>.
       <br/>
       <br/>
       There was a sudden spark of red and a guttural roar that pulsed outwards, throwing the villagers back through
-      the door and knocking them flat onto the street. Sawako`&apos;`s husband hit the doorframe hard, desperately scrabbling
+      the door and knocking them flat onto the street. Sawako&apos;s husband hit the doorframe hard, desperately scrabbling
       against the wall to get away as the temperature in the house spiked. His eyes grew wide with terror as thick
       black smoke enveloped him completely and spew out to the street. The embers that Sawako once fought so
       desperately to keep away from the dry wood frames of the village houses now floated freely, gleefully
@@ -428,7 +428,7 @@ export default function Shiota() {
       <br/>
       <i>They only accept the parts of us they want</i>, Sawako thought grimly, raising herself up on her hind feet to
       peer into the forest now looming before her. If there were no longer any villages that wanted to take in
-      a fox, she would simply go through the forest to the mountains. It wasn`&apos;`t far now. She lowered herself
+      a fox, she would simply go through the forest to the mountains. It wasn&apos;t far now. She lowered herself
       down to her haunches, her tail curling and uncurling thoughtfully around her paws. The wind tugged gently
       at her whiskers as she listened intently to the thrush of the grass as the wind slipped past her and
       whistled its way through the trees.
@@ -448,7 +448,7 @@ export default function Shiota() {
       <br/>
       A sudden shriek pierced the silence behind her, nearly causing her to jump out of her skin and back into her fox
       form. Instead, she whirled around as a young girl darted into view, balancing a satchel on her shoulder as she
-      gleefully chased a butterfly leisurely floating along the tall grass. The girl`&apos;`s face was grubby and her clothing
+      gleefully chased a butterfly leisurely floating along the tall grass. The girl&apos;s face was grubby and her clothing
       looked worn, though meticulously mended in multiple spots. She was no child from the village. The girl made one
       mad dash for the butterfly, satchel flopping off her shoulder and small bare feet crushing several reeds as
       the butterfly swiftly fluttered out of reach as the girl tumbled to the ground. The girl lay still, sniffling
@@ -456,58 +456,58 @@ export default function Shiota() {
       was then that she caught sight of Sawako.
       <br/>
       <br/>
-      `&quot;`It is alright, they can be hard to catch.`&quot;` Sawako said gently. The girl tensed, her dark eyes lingering on
+      &quot;It is alright, they can be hard to catch.&quot; Sawako said gently. The girl tensed, her dark eyes lingering on
       Sawako as her small hands clutched the satchel against her chest. After some deliberation, the girl
-      seemed to decide Sawako wasn`&apos;`t a threat.
+      seemed to decide Sawako wasn&apos;t a threat.
       <br/>
       <br/>
-      `&quot;`I know.`&quot;` The girl said in a self-assured manner, standing up to face Sawako though carefully keeping her arms
-      tightly around her satchel. The child`&apos;`s short cropped hair stuck out in all directions, giving her a slightly
+      &quot;I know.&quot; The girl said in a self-assured manner, standing up to face Sawako though carefully keeping her arms
+      tightly around her satchel. The child&apos;s short cropped hair stuck out in all directions, giving her a slightly
       bedraggled, impish look. But there was no shade of suspicion in her bright eyes as she gazed steadily at Sawako.
       <br/>
       <br/>
       Another voice cut across the field.
       <br/>
       <br/>
-      `&quot;`Hitomi? Where are you? I told you to stick close!`&quot;`
+      &quot;Hitomi? Where are you? I told you to stick close!&quot;
       <br/>
       <br/>
-      `&quot;`I`&apos;`m here!`&quot;` The child shouted back, holding out the last vowel until a woman pushed her way through the grass
+      &quot;I&apos;m here!&quot; The child shouted back, holding out the last vowel until a woman pushed her way through the grass
       towards them, her face clouded by anxious annoyance. Her hair was done up in an updo that had loosened over
       time, her worn garments were faded with use and clearly patched multiple times. Like the girl, she also
       carried with her an assortment of satchels that clanged slightly as she moved.
       <br/>
       <br/>
-      `&quot;`Hitomi! How many times did I tell you to stop running off?`&quot;` She caught sight of Sawako, `&quot;`Oh, was she bothering
-      you? I`&apos;`m so sorry!`&quot;` The woman shot the girl a stern look, `&quot;`I hope she wasn`&apos;`t any trouble.`&quot;`
+      &quot;Hitomi! How many times did I tell you to stop running off?&quot; She caught sight of Sawako, &quot;Oh, was she bothering
+      you? I&apos;m so sorry!&quot; The woman shot the girl a stern look, &quot;I hope she wasn&apos;t any trouble.&quot;
       <br/>
       <br/>
-      `&quot;`Not at all.`&quot;` Sawako said,  `&quot;`I am probably the one who frightened her.`&quot;`
+      &quot;Not at all.&quot; Sawako said,  &quot;I am probably the one who frightened her.&quot;
       <br/>
       <br/>
-      The girl crinkled her nose at that. `&quot;`I was <i>not</i> scared.`&quot;` She said defiantly, though surreptitiously
-      inching closer to the woman that Sawako took to be her mother. Sawako smiled at that, while the girl`&apos;`s mother
+      The girl crinkled her nose at that. &quot;I was <i>not</i> scared.&quot; She said defiantly, though surreptitiously
+      inching closer to the woman that Sawako took to be her mother. Sawako smiled at that, while the girl&apos;s mother
       let out a soft chuckle. The woman looked again at Sawako, examining her more closely.
       <br/>
       <br/>
-      `&quot;`What`&apos;`s someone like you doing out here?`&quot;` She asked, her bluntness catching Sawako off guard, `&quot;`Are you from
-      that village that burned down?`&quot;`
+      &quot;What&apos;s someone like you doing out here?&quot; She asked, her bluntness catching Sawako off guard, &quot;Are you from
+      that village that burned down?&quot;
       <br/>
       <br/>
-      `&quot;`Did you see what happened to it?`&quot;` Sawako asked, carefully sidestepping the question.
+      &quot;Did you see what happened to it?&quot; Sawako asked, carefully sidestepping the question.
       <br/>
       <br/>
-      `&quot;`Not really. We usually stop by on our way through these parts. My husband had some connections with
-      the rice farmers there but we took one look at what was left and kept moving.`&quot;` The woman shrugged. `&quot;`We`&apos;`re
-      on our way to the capital anyhow, so it made no sense to stop.`&quot;`
+      &quot;Not really. We usually stop by on our way through these parts. My husband had some connections with
+      the rice farmers there but we took one look at what was left and kept moving.&quot; The woman shrugged. &quot;We&apos;re
+      on our way to the capital anyhow, so it made no sense to stop.&quot;
       <br/>
       <br/>
-      `&quot;`You are heading all the way to the capital?
+      &quot;You are heading all the way to the capital?
       <br/>
       <br/>
-      `&quot;`Yes, my husband`&apos;`s opening a shop stall there. We`&apos;`ve done well enough that it`&apos;`s about time for us to stop
-      moving around peddling what we have, so we`&apos;`re taking a shot at the city.`&quot;` The woman said, mussing the girl`&apos;`s
-      hair affectionately as she squealed and squirmed out of reach, `&quot;`It`&apos;`s not as far from here as you`&apos;`d think.`&quot;`
+      &quot;Yes, my husband&apos;s opening a shop stall there. We&apos;ve done well enough that it&apos;s about time for us to stop
+      moving around peddling what we have, so we&apos;re taking a shot at the city.&quot; The woman said, mussing the girl&apos;s
+      hair affectionately as she squealed and squirmed out of reach, &quot;It&apos;s not as far from here as you&apos;d think.&quot;
       <br/>
       <br/>
       Sawako had heard of the capital city from her last husband. How many nights had she listened patiently as he
@@ -516,37 +516,37 @@ export default function Shiota() {
       life of their village. She never gave it a second thought until now.
       <br/>
       <br/>
-      `&quot;`Are there many people in the capital?`&quot;` Sawako blurted out.
+      &quot;Are there many people in the capital?&quot; Sawako blurted out.
       <br/>
       <br/>
-      `&quot;`Is that a joke?`&quot;` The woman raised her eyebrows incredulously, `&quot;`Of course there`&apos;`s a lot of people there, it`&apos;`s
-      the imperial capital!`&quot;`
+      &quot;Is that a joke?&quot; The woman raised her eyebrows incredulously, &quot;Of course there&apos;s a lot of people there, it&apos;s
+      the imperial capital!&quot;
       <br/>
       <br/>
-      Sawako`&apos;`s mind whirred to life. Perhaps there was another option for her after all.
+      Sawako&apos;s mind whirred to life. Perhaps there was another option for her after all.
       <br/>
       <br/>
-      `&quot;`Can I go with you to the capital?`&quot;` She asked before her nerve gave out, `&quot;`I promise I will not be a burden on
-      you or your family, I will do what I need to forage for food or help you along the journey.`&quot;`
+      &quot;Can I go with you to the capital?&quot; She asked before her nerve gave out, &quot;I promise I will not be a burden on
+      you or your family, I will do what I need to forage for food or help you along the journey.&quot;
       <br/>
       <br/>
-      The woman`&apos;`s eyes narrowed slightly, considering Sawako`&apos;`s offer. `&quot;`Well,`&quot;` She said after a measured pause, `&quot;`I`&apos;`ll
-      ask my husband first, but I don`&apos;`t see why not. Like I said, it`&apos;`s not far, but it would be nice to have another
-      pair of hands to help on this last push.`&quot;` The woman took some of the satchels hanging off of her and tossed
+      The woman&apos;s eyes narrowed slightly, considering Sawako&apos;s offer. &quot;Well,&quot; She said after a measured pause, &quot;I&apos;ll
+      ask my husband first, but I don&apos;t see why not. Like I said, it&apos;s not far, but it would be nice to have another
+      pair of hands to help on this last push.&quot; The woman took some of the satchels hanging off of her and tossed
       them to Sawako, who easily caught them and slung them over her own shoulders. The woman nodded
       approvingly, gesturing for Sawako to follow her. The young girl tagged along behind them. They walked a short
       way to a clearing, where a man was hunched over the wheels of a small chart.
       <br/>
       <br/>
-      `&quot;`I`&apos;`ll warn you, though, the city`&apos;`s a lot different from village life. It`&apos;`s a big place. You might get lost in
-      the crowds if you`&apos;`re not careful.`&quot;` The woman waved towards the man as she spoke. He waved back.
+      &quot;I&apos;ll warn you, though, the city&apos;s a lot different from village life. It&apos;s a big place. You might get lost in
+      the crowds if you&apos;re not careful.&quot; The woman waved towards the man as she spoke. He waved back.
       <br/>
       <br/>
       Sawako adjusted the weight of the satchels on her shoulders, picturing throngs of bodies jostling through a packed
       street, the crowds she could easily disappear in and out of when necessary. An expectant thrill ran through her.
       <br/>
       <br/>
-      `&quot;`I am sure I will get used to it.`&quot;` She said, then bowed as the woman`&apos;`s husband came over to greet them.
+      &quot;I am sure I will get used to it.&quot; She said, then bowed as the woman`&;`s husband came over to greet them.
       </StandardProse>
 
        <Footer/>
