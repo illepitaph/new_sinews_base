@@ -231,7 +231,7 @@
  @media (max-height: 780px) and (orientation:portrait){
 
    .workLink {
-     font-size: 1rem;
+     font-size: 0.9rem;
      letter-spacing:0.1rem;
    }
 
@@ -251,7 +251,7 @@
  @media (max-height: 620px) {
 
    .workLink {
-     font-size: 1.2rem;
+     font-size: 1.1rem;
    }
 
  }
@@ -259,7 +259,7 @@
  @media (max-height: 415px) and (orientation:landscape){
 
    .workLink {
-     font-size: 0.9rem;
+     font-size: 0.8rem;
    }
 }
 
@@ -267,20 +267,20 @@
  @media (max-height: 400px) and (orientation:landscape){
 
    .workLink {
-     font-size: 0.8rem;
+     font-size: 0.7rem;
    }
 
  }
 
  @media(max-width: 361px){
    .workLink {
-     font-size: 0.8rem;
+     font-size: 0.7rem;
    }
  }
 
  @media(max-height: 320px) and (orientation:landscape){
    .workLink {
-     font-size: 0.7rem;
+     font-size: 0.6rem;
    }
 
    .siteShortcuts {
