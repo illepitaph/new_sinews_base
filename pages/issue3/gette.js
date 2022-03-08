@@ -7,6 +7,16 @@ import StandardLineation from '../../components/standardLineation.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Gette.module.css'
 import Gette1 from '../../public/images/Gette1.jpg'
+import Gette2 from '../../public/images/Gette2.jpg'
+import Gette3 from '../../public/images/Gette3.jpg'
+import Gette4 from '../../public/images/Gette4.jpg'
+import Gette5 from '../../public/images/Gette5.jpg'
+import Gette6 from '../../public/images/Gette6.jpg'
+import Gette7 from '../../public/images/Gette7.jpg'
+import Gette8 from '../../public/images/Gette8.jpg'
+import Gette9 from '../../public/images/Gette9.jpg'
+import Gette10 from '../../public/images/Gette10.jpg'
+import Gette11 from '../../public/images/Gette11.jpg'
 Gette.title = "megan_jeanne_gette ~ summoning_green, a_leprosy_of_the_heart  — new_sinews"
 
 export default function Gette() {
@@ -57,7 +67,7 @@ export default function Gette() {
   <p className={styles.getteLineation}>Permanent dream permanent dream</p>
   </div>
 
-      <div className={styles.container}><Image src="/../public/images/Gette2.jpg" width={400} height={500}
+      <div className={styles.container}><Image src={Gette2} width={400} height={500}
       layout={`responsive`} alt="Still One From Marguerite Duras’ India Song"/></div>
 
   <div className={styles.poemContainer}>
@@ -87,7 +97,7 @@ everywhere in a sick green, and I wonder if it is Paris Green, the color of Napo
 slow inhalation in his sleep</p>
 </div>
 
-      <div className={styles.container}><Image src="/../public/images/Gette3.jpg" width={100} height={100}
+      <div className={styles.container}><Image src={Gette3} width={100} height={100}
       layout={`responsive`} alt="Still Two From Marguerite Duras’ India Song"/></div>
 
   <div className={styles.poemContainer}>
@@ -113,7 +123,7 @@ slow inhalation in his sleep</p>
   gossip</p>
   </div>
 
-      <div className={styles.container}><Image src="/../public/images/Gette4.jpg" width={100} height={100}
+      <div className={styles.container}><Image src={Gette4} width={100} height={100}
       layout={`responsive`} alt="Still Three From Marguerite Duras’ India Song"/></div>
 
     <div className={styles.poemContainer}>
@@ -126,7 +136,7 @@ slow inhalation in his sleep</p>
     <p className={styles.getteLineation}>She grew bored with the Empire and decided to die</p>
     </div>
 
-      <div className={styles.container}><Image src="/../public/images/Gette5.jpg" width={100} height={100}
+      <div className={styles.container}><Image src={Gette5} width={100} height={100}
       layout={`responsive`} alt="Still Four From Marguerite Duras’ India Song"/></div>
 
     <div className={styles.poemContainer}>
@@ -154,11 +164,11 @@ slow inhalation in his sleep</p>
     the Paris Green of malaria prevention</p>
     </div>
 
-        <div className={styles.container}><Image src="/../public/images/Gette6.jpg" width={100} height={100}
+        <div className={styles.container}><Image src={Gette6} width={100} height={100}
         layout={`responsive`} alt="Chemical Chart"/></div>
-        <div className={styles.container}><Image src="/../public/images/Gette7.jpg" width={100} height={100}
+        <div className={styles.container}><Image src={Gette7} width={100} height={100}
         layout={`responsive`} alt="Still Five From Marguerite Duras’ India Song"/></div>
-        <div className={styles.container}><Image src="/../public/images/Gette8.jpg" width={100} height={100}
+        <div className={styles.container}><Image src={Gette8} width={100} height={100}
         layout={`responsive`} alt="Container of Berger's Pure Paris Green"/></div>
 
      <div className={styles.poemContainer}>
@@ -216,7 +226,7 @@ slow inhalation in his sleep</p>
       <p className={styles.getteLineation}>Swollen up with garbage—ordinary primitive accumulation</p>
       </div>
 
-        <div className={styles.container}><Image src="/../public/images/Gette9.jpg" width={100} height={100}
+        <div className={styles.container}><Image src={Gette9} width={100} height={100}
         layout={`responsive`} alt="Pollination of a canal with Paris greenery, Java"/></div>
         <p className={styles.caption}><i>COLLECTION TROPEN MUSEUM</i><br/>Fighting malaria; pollination of
         a canal with Paris greenery, Java.</p>
@@ -253,7 +263,7 @@ slow inhalation in his sleep</p>
       pose a threat to those outside the palace walls</p>
       </div>
 
-        <div className={styles.container}><Image src="/../public/images/Gette10.jpg" width={100} height={100}
+        <div className={styles.container}><Image src={Gette10} width={100} height={100}
         layout={`responsive`} alt="English-language advertisement for Paris Green"/></div>
 
       <div className={styles.poemContainer}>
@@ -271,7 +281,7 @@ slow inhalation in his sleep</p>
       <p className={styles.getteLineation}>Then gossip kills a figure by slow consensus</p>
       </div>
 
-        <div className={styles.container}><Image src="/../public/images/Gette11.jpg" width={100} height={100}
+        <div className={styles.container}><Image src={Gette11} width={100} height={100}
         layout={`responsive`} alt="1862 sketch of the so-called Arsenic Waltz"/></div>
 
       <div className={styles.poemContainer}>
