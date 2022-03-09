@@ -104,7 +104,7 @@ export default function Issue5Bios() {
    Screens</strong></cite> (Four Walls Eight Windows, 2000; reissued by Camphor Press, 2019). Recent work has
    appeared in <i>Denver Quarterly</i>, <i>Your Impossible Voice</i>, and the Akashic Noir anthology <i>San Francisco
    Noir</i>. He lives in San Francisco, California. <a
-   className={styles.biosExternalLink} target="_blank" rel="noreferrer" href="https://alvinlu.co">alvinlu.com</a>
+   className={styles.biosExternalLink} target="_blank" rel="noreferrer" href="https://alvinlu.com">alvinlu.com</a>
    <br/>
    <br/>
    <br/>
