@@ -5,8 +5,8 @@ import Footer from '../../components/footer.js'
 import styles from '../../styles/TombModel.module.css'
 import { tombModelOneText } from '../../GalleryData/TombModelCarouselData.js'
 TombModelOne.title = "brandon_shimoda ~ place_is_our_destitute_imperative — new_sinews"
-TombModeOne.pieceName = "brandon_shimoda ~ place_is_our_destitute_imperative — new_sinews"
-TombModeOne.description = "_place is our new destitute imperative_Brandon Shimoda_new sinews_issue2_"
+TombModelOne.pieceName = "brandon_shimoda ~ place_is_our_destitute_imperative — new_sinews"
+TombModelOne.description = "_place is our new destitute imperative_Brandon Shimoda_new sinews_issue2_"
 
 
 export default function TombModelOne() {
