@@ -45,7 +45,7 @@ export default function Feldman() {
       className={styles.uppercaseFaintShadow}>f</span><span
       className={styles.uppercaseFaintShadow}>t</span></span></RightGrayTitle>
       <StandardProse>
-      We stopped in Jerusalem, my father and I, to see the sights, next to the Wailing Wall a clarinetist
+      We stopped in Jerusalem, my father and I, to see the attractions, next to the Wailing Wall a clarinetist
       and his friend; a third man getting ready to sell yarmulkes was shaking them, curled tight as cowrie
       shells, out of a plastic sleeve.
       <br/><br/>
@@ -150,8 +150,8 @@ export default function Feldman() {
       I noticed, because the stutter was normal, from my perspective. But I certainly noticed the work David
       put in. It was the kind of thing a grownup would’ve been likelier to do.”
       <br/><br/><br/><br/><br/><br/>
-      All of us got into and finally out of the car heavily, limbs heavy from the heat. It was Shabbat, and
-      the operation of machines in various greenhouses used by the kibbutzniks slowed to a stop. These
+      All of us got into and finally out of the van heavily, limbs heavy from the heat. It was Shabbat, and
+      the operation of machines in various greenhouses had been by the kibbutzniks slowed to a stop. These
       greenhouses lay across the main road from a grove of buildings in which these people who were not our
       family lived. They had machines of yellow metal used to lift a single worker high as eighteen
       meters to pick dates. These were the machines that now lay still, folded in like sleeping roe
@@ -192,7 +192,7 @@ export default function Feldman() {
       an impound lot for date palms. Behind it, visible to us, were mountains that the country shared
       with Jordan. In between were sheds I judged to be of tin or something. That was where the workers
       slept. We continued to be reached by the distant sound of pinging that, after my father joined
-      us, as we walked leaving the car, went on.
+      us, as we walked leaving the van, went on.
       <br/><br/><br/><br/><br/><br/>
       My dad had a stomachache.
       <br/><br/>
@@ -241,7 +241,7 @@ export default function Feldman() {
       tell you down to the last detail the differences between these species. I was so curious that one day
       I couldn’t resist, I said in answer that I’d done whatever it was on purpose, beautiful phrase. My
       mother’s anger was something terrifying; it terrifies me to think of it today. She would never have
-      hit me, but she may have wanted to.
+      hit me, but she might have wanted to.
       </StandardProse>
       <br/><br/><br/><br/><br/><br/>
       <RightGrayTitle><span className={styles.faintShadowAncillary}><span
@@ -309,7 +309,7 @@ export default function Feldman() {
       eggplant so it came up off the tray, and tasted it. I had thought I was so smart in sprinkling those
       pieces of eggplant with sesame seeds, but I hadn’t done that properly. I would have had to use egg or
       something to get the seeds to stick, and the burned seeds, strays, looked like an insect colony, or
-      mouse droppings. I was in the habit of roasting an eggplant each week. I would take leftovers to
+      mouse droppings—uncleanly. I was in the habit of roasting an eggplant each week. I would take leftovers to
       the library throughout the week. I ate some more eggplant and then, quite to my surprise, threw up
       into my hand. I had to bring up the other hand in a hurry. I put the vomit in the trash under
       the sink and, after rinsing my hands, vomited another time.
@@ -343,7 +343,7 @@ export default function Feldman() {
       addition to the desk and bed, a twin, there was a wicker chair, a wardrobe, a dresser, a bookcase, a
       rack for clothes, an end table, a shelf, a chest made out of wicker in which an air mattress was stored, four
       lamps, and a bulletin board; the room was not, however, large. I was able to fit the cardboard boxes under
-      the desk and on top of the wardrobe. My landlady had taken care in preparing the room for my arrival. She
+      the desk and on top of the wardrobe. My landlady had taken care in preparing this room for my arrival. She
       had taken the chair cushion to the cleaner’s. But she hadn’t removed, nor did she comment on, a bar for
       exercising stuck up and quite useless to me in the doorway of the room. Suction held it up, a pull-up bar. Her
       sons were grown, but she often spoke of paying for their education; it seemed each of them was still
@@ -417,8 +417,8 @@ export default function Feldman() {
       </StandardProse>
       <br/><br/><br/><br/><br/><br/>
       <RightGrayTitle><span className={styles.faintShadowAncillary}><span
-      className={styles.uppercaseFaintShadow}>l</span>e<span
-      className={styles.uppercaseAlternateTitleColor}>s </span> v<span
+      className={styles.uppercaseFaintShadow}>m</span>o<span
+      className={styles.uppercaseAlternateTitleColor}>n </span> v<span
       className={styles.alternateTitleColor}>i</span><span
       className={styles.uppercaseFaintShadow}>e</span>ux</span></RightGrayTitle>
       <StandardProse>
@@ -429,10 +429,7 @@ export default function Feldman() {
       <i>Splat</i>.
       </StandardProse>
       <br/><br/><br/><br/><br/><br/>
-      <RightGrayTitle><span className={styles.faintShadowAncillary}><span
-      className={styles.uppercaseFaintShadow}>t</span><span
-      className={styles.alternateTitleColor}>h</span><span
-      className={styles.uppercaseFaintShadow}>e</span> e<span
+      <RightGrayTitle><span className={styles.faintShadowAncillary}>e<span
       className={styles.uppercaseAlternateTitleColor}>n</span>d o<span
       className={styles.uppercaseFaintShadow}>f </span><span
       className={styles.uppercaseAlternateTitleColor}>t</span>h<span
