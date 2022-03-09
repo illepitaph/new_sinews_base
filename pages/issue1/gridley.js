@@ -6,7 +6,9 @@ import StandardMiniTitle from '../../components/standardMiniTitle.js'
 import StandardLineation from '../../components/standardLineation.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Gridley.module.css'
-Gridley.title = "sarah_gridley ~ poems from insofar — new_sinews";
+Gridley.title = "sarah_gridley ~ poems from insofar — new_sinews"
+Gridley.pieceName = "sarah_gridley ~ poems from insofar — new_sinews"
+Gridley.description = "_Sarah Gridley_4 poems_DO NO HARM+UNSOUND SUPPOSITION+COMPOUNDING PHARMACY+CHAIR_new_sinews _issue1_"
 
 export default function Gridley() {
   return (

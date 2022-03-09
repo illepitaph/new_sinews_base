@@ -5,6 +5,8 @@ import Footer from '../../components/footer.js'
 import styles from '../../styles/TwoEyesInOne.module.css'
 import { text } from '../../GalleryData/TwoEyesCarouselData'
 Nao.title = "vi_khi_nao ~ two_eyes_in_one_eye: a_delirium — new_sinews";
+Nao.pieceName = "vi_khi_nao ~ two_eyes_in_one_eye: a_delirium — new_sinews"
+Nao.description = "_Vi Khi Nao_2 EYES IN 1 EYE: A DELIRIUM_poetry_new_sinews _issue1_"
 
 export default function Nao() {
 

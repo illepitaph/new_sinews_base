@@ -4,7 +4,9 @@ import CenterGrayTitle from '../../components/centerGrayTitle.js'
 import CenterBlackTitle from '../../components/centerBlackTitle.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/EisenMartin.module.css'
-Eisen_Martin.title = "tongo_eisen-martin ~ two_poems — new_sinews";
+Eisen_Martin.title = "tongo_eisen-martin ~ two_poems — new_sinews"
+Eisen_Martin.pieceName = "tongo_eisen-martin ~ two_poems — new_sinews"
+Eisen_Martin.description = "Tongo Eisen-Martin_2 Poems_FISH WITH AMBITION TO BECOME THE RIVER+TWO NIGHTS ON 16TH STREET_new_sinews _issue1_"
 
 export default function Eisen_Martin() {
   return (

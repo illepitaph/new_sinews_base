@@ -11,7 +11,7 @@ import Security from '../public/images/Security.jpg'
 import ArchaicEntity from '../public/images/ArchaicEntity.jpg'
 About.title = "about — new_sinews";
 About.pieceName = "new_sinews about page"
-About.description = 'new_sinews ~ submissions info + imagistic mosaistry'
+About.description = 'new_sinews ~ late empire new writing ~ submissions info + imagistic mosaistry'
 
 export default function About() {
 

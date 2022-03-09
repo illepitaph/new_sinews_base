@@ -6,8 +6,8 @@ import StandardProse from '../../components/standardProse.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Bios.module.css'
 Issue1Bios.title = "issue1_bios — new_sinews";
-Issue1Bios.pieceName = "contributor context"
-Issue1Bios.description = "Sarah Gridley+Tongo Eisen-Martin+Gabriel Blackwell+Christa Romanosky+Vi Khi Nao"
+Issue1Bios.pieceName = "issue1_bios — new_sinews"
+Issue1Bios.description = "Sarah Gridley+Tongo Eisen-Martin+Gabriel Blackwell+Christa Romanosky+Vi Khi Nao_new_sinews _issue1_"
 
 
 export default function Issue1Bios() {
