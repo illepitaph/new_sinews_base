@@ -577,7 +577,7 @@ fixated  on   the
       an opportunist dilletante little shit. I remember coming out to certain people. I’m keeping to myself. The
       thing always is to keep to yourself. What would you hope to know about me, given that I believe in privacy?<i> What
       do you know about me, given that I believe in secrecy?</i> Who said that? Gilles Deleuze said it. He
-      said <i>if I stick where I am</i>, <i>if I don`&apos;`t travel around</i>, <i>like anyone else I make my inner
+      said <i>if I stick where I am</i>, <i>if I don&apos;t travel around</i>, <i>like anyone else I make my inner
       journeys that I can only measure by my emotions</i>, <i>and express very obliquely and circuitously in
       what I write</i>. He said other things. He jumped from the window of a building when he was old and an
       illness was unbearable. He had no fingerprints. His fingernails were kept long because of it. My own perversion
