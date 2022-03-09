@@ -5,6 +5,8 @@ import styles from '../../styles/Zamora.module.css'
 import React, {useState, useEffect} from 'react'
 import { zamoraText } from '../../GalleryData/ZamoraCarouselData'
 Zamora.title = "felicia_zamora ~ selections_from_'quotient' — new_sinews"
+Zamora.pieceName = "felicia_zamora ~ selections_from_'quotient' — new_sinews"
+Zamora.description = "_Felicia Zamora_selections from ‘quotient’_poetry_new_sinews _issue2_"
 
 
 export default function Zamora() {

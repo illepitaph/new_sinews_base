@@ -5,6 +5,8 @@ import Footer from '../../components/footer.js'
 import styles from '../../styles/LeYeaste.module.css'
 import { leYeasteText } from '../../GalleryData/LeYeasteCarouselData.js'
 LeYeaste.title = "vi_khi_nao ~ le_yeaste — new_sinews"
+LeYeaste.pieceName = "vi_khi_nao ~ le_yeaste — new_sinews"
+LeYeaste.description = "_Vi Khi Nao_LE YEASTE_poetry_new_sinews _issue2_"
 
 export default function LeYeaste() {
   const [textArrayIndex, setTextArrayIndex] = useState(0);

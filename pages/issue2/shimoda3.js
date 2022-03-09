@@ -5,6 +5,8 @@ import Footer from '../../components/footer.js'
 import styles from '../../styles/TombModel.module.css'
 import { tombModelThreeText } from '../../GalleryData/TombModelCarouselData.js'
 TombModelThree.title = "brandon_shimoda ~ don't_forget_that_for_now_it's_strawberry_season_yes._ — new_sinews"
+TombModelThree.pieceName = "brandon_shimoda ~ don't_forget_that_for_now_it's_strawberry_season_yes._ — new_sinews"
+TombModelThree.description = "_don’t forget that for now it’s strawberry season. yes_Brandon Shimoda_new sinews_issue2_"
 
 export default function TombModelThree() {
   const [textArrayIndex, setTextArrayIndex] = useState(0);

@@ -5,6 +5,8 @@ import LeftGrayTitle from '../../components/leftGrayTitle.js'
 import StandardProse from '../../components/standardProse.js'
 import Footer from '../../components/footer.js'
 Lakghomi.title = "babak_lakghomi ~ a request + say her name — new_sinews"
+Lakghomi.pieceName = "babak_lakghomi ~ a request + say her name — new_sinews"
+Lakghomi.description = "_Babak Lakghomi_2 stories_A REQUEST+SAY HER NAME_new_sinews _issue2_"
 
 export default function Lakghomi() {
   return (

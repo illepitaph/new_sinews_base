@@ -6,6 +6,8 @@ import StandardProse from '../../components/standardProse.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Porte.module.css'
 Porte.title = "rebecca_ariel_porte ~ portraits_of_some_persons_as_imaginary_cities — new_sinews"
+Porte.pieceName = "rebecca_ariel_porte ~ portraits_of_some_persons_as_imaginary_cities — new_sinews"
+Porte.description = "_Rebecca Ariel Porte_PORTRAITS OF SOME PERSONS AS IMAGINARY CITIES_fiction_new_sinews _issue2_"
 
 export default function Porte() {
   return (

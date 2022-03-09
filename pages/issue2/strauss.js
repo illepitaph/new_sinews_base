@@ -7,6 +7,9 @@ import React, {useState, useEffect} from 'react'
 import { straussText } from '../../GalleryData/StraussCarouselData.js'
 import styles from '../../styles/Strauss.module.css'
 Strauss.title = "adam_strauss ~ five_poems — new_sinews"
+Strauss.pieceName = "adam_strauss ~ five_poems — new_sinews"
+Strauss.description = "_Adam Strauss_5 poems_GREY AS IT BREAKS TO BARE CANVAS+DUCK YOLK DYED SCRIM FOR SEEING+TOUCHTONE+SLIVERY SILVERS+RESPIRATION RUSTS GLOSSY_new_sinews _issue2_"
+
 
 
 export default function Strauss() {

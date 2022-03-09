@@ -6,6 +6,8 @@ import StandardProse from '../../components/standardProse.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Corrao.module.css'
 Corrao.title = "mike_corrao ~ the_archaelogy_of_virtual_spaces — new_sinews"
+Corrao.pieceName = "mike_corrao ~ the_archaelogy_of_virtual_spaces — new_sinews"
+Corrao.description = "_Mike Corrao_THE ARCHAEOLOGY OF VIRTUAL SPACES_fiction_new_sinews _issue2_"
 
 export default function Corrao() {
   return (

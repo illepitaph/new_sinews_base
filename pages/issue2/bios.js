@@ -6,7 +6,9 @@ import CenterBlackTitle from '../../components/centerBlackTitle.js'
 import StandardProse from '../../components/standardProse.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Bios.module.css'
-Issue2Bios.title = "issue2_bios — new_sinews";
+Issue2Bios.title = "issue2_bios — new_sinews"
+Issue2Bios.pieceName = "issue2_bios — new_sinews"
+Issue2Bios.description = "_contributor bios_new sinews_issue2_"
 
 export default function Issue2Bios() {
   return (

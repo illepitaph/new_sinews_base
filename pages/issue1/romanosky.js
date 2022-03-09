@@ -5,8 +5,8 @@ import StandardMiniTitle from '../../components/standardMiniTitle.js'
 import StandardLineation from '../../components/standardLineation.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Romanosky.module.css'
-Romanosky.title = "christa_romanosky ~ three_poems — new_sinews";
-Romanosky.pieceName = "christa_romanosky ~ three_poems — new_sinews";
+Romanosky.title = "christa_romanosky ~ three_poems — new_sinews"
+Romanosky.pieceName = "christa_romanosky ~ three_poems — new_sinews"
 Romanosky.description = "_Christa Romanosky_3 poems_EXTINCTION OPUS NO. 16+EXTINCTION OPUS NO. 17+THE WOMAN WHO CLIMBED THE BEANSTALK_new_sinews _issue1_"
 
 export default function Romanosky() {

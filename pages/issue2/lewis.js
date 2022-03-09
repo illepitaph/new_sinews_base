@@ -5,6 +5,8 @@ import styles from '../../styles/Lewis.module.css'
 import React, {useState, useEffect} from 'react'
 import { lewisText } from '../../GalleryData/LewisCarouselData'
 Lewis.title = "susan_lewis ~ two poems — new_sinews"
+Lewis.pieceName = "susan_lewis ~ two poems — new_sinews"
+Lewis.description = "_Susan Lewis_2 poems_THE AGGREGATE OF FLOWN FUR+SIMPLE PLEASURES_new_sinews _issue2_"
 
 
 export default function Lewis() {

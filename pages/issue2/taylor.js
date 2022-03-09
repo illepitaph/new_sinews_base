@@ -6,6 +6,9 @@ import StandardLineation from '../../components/standardLineation.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Taylor.module.css'
 Taylor.title = "sam_taylor ~ five_poems — new_sinews"
+Taylor.pieceName = "sam_taylor ~ five_poems — new_sinews"
+Taylor.description = "_Sam Taylor_5 poems_DANCING OF OUR OWN ERASURE+REVISION+RETURN+IF YOU FIND SOME SHARD+THE BOOK OF RUNES PART VI_new_sinews _issue2_"
+
 
 export default function Taylor() {
   return (

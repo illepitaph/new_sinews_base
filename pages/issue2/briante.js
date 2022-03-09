@@ -7,6 +7,8 @@ import LeftGrayTitle from '../../components/leftGrayTitle.js'
 import StandardProse from '../../components/standardProse.js'
 import Footer from '../../components/footer.js'
 Briante.title = "susan_briante ~ two_poems — new_sinews"
+Briante.pieceName = "susan_briante ~ two_poems — new_sinews"
+Briante.description = "_Susan Briante_2 poems_MAY DAY+GALLERY WALLS new_sinews _issue2_"
 
 export default function Briante() {
   return (
