@@ -18,6 +18,9 @@ import Gette9 from '../../public/images/Gette9.jpg'
 import Gette10 from '../../public/images/Gette10.jpg'
 import Gette11 from '../../public/images/Gette11.jpg'
 Gette.title = "megan_jeanne_gette ~ summoning_green, a_leprosy_of_the_heart  — new_sinews"
+Gette.pieceName = "megan_jeanne_gette ~ summoning_green, a_leprosy_of_the_heart  — new_sinews"
+Gette.description = "_Megan Jeanne Gette_poetry_hybrid_SUMMONING GREEN, A LEPROSY OF THE HEART_new_sinews_issue3_"
+
 
 export default function Gette() {
   return (

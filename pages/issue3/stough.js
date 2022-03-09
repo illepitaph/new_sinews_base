@@ -6,6 +6,8 @@ import StandardProse from '../../components/standardProse.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Stough.module.css'
 Stough.title = "cary_stough ~ balance_sheet — new_sinews"
+Stough.pieceName = "cary_stough ~ balance_sheet — new_sinews"
+Stough.description = "_Cary Stough_lyric~memoir_BALANCE SHEET_new_sinews_issue3_"
 
 export default function Stough() {
   return (

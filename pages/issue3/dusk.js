@@ -5,6 +5,8 @@ import RightGrayTitle from '../../components/rightGrayTitle.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Dusk.module.css'
 Dusk.title = "vi_khi_nao ~ retrieve_the_dusk — new_sinews"
+Dusk.pieceName = "vi_khi_nao ~ retrieve_the_dusk — new_sinews"
+Dusk.description = "_Vi Khi Nao_poetry_RETRIEVE THE DUSK_new_sinews_issue3_"
 
 export default function Dusk() {
   return (

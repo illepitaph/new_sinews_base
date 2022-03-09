@@ -6,6 +6,8 @@ import RightBlackTitle from '../../components/rightBlackTitle.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Alvarez.module.css'
 Alvarez.title = "steven_alvarez ~ data | blood // zero progress silhouette — new_sinews"
+Alvarez.pieceName = "steven_alvarez ~ data | blood // zero progress silhouette — new_sinews"
+Alvarez.description = "Steven Alvarez_2 poems_DATA | BLOOD+ZERO PROGRESS SILHOUETTE_new_sinews_issue3_"
 
 export default function Alvarez() {
   return (

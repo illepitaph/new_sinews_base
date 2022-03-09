@@ -5,6 +5,8 @@ import Footer from '../../components/footer.js'
 import styles from '../../styles/Krumrie.module.css'
 import { krumrieText } from '../../GalleryData/KrumrieCarouselData.js'
 Krumrie.title = "kelly_krumrie ~ selections_from_'no_measure' — new_sinews"
+Krumrie.pieceName = "kelly_krumrie ~ selections_from_'no_measure' — new_sinews"
+Krumrie.description = "_Kelly Krumrie_poetry_SELECTIONS FROM NO MEASURE_new_sinews_issue3"
 
 export default function Krumrie() {
   const [textArrayIndex, setTextArrayIndex] = useState(0);

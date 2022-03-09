@@ -6,6 +6,8 @@ import StandardProse from '../../components/standardProse.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Dasgupta.module.css'
 Dasgupta.title = "shome_dasgupta ~ remember_nothing — new_sinews"
+Dasgupta.pieceName = "shome_dasgupta ~ remember_nothing — new_sinews"
+Dasgupta.description = "_Shome Dasgupta_fiction_REMEMBER NOTHING_new_sinews_issue3_"
 
 export default function Dasgupta() {
   return (

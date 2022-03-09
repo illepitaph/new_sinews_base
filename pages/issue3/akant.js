@@ -5,6 +5,8 @@ import Footer from '../../components/footer.js'
 import styles from '../../styles/Akant.module.css'
 import { akantText } from '../../GalleryData/AkantCarouselData.js'
 Akant.title = "sara_deniz_akant ~ how_t_langed — new_sinews"
+Akant.pieceName = "sara_deniz_akant ~ how_t_langed — new_sinews"
+Akant.description = "_Sara Deniz Akant_poetry_HOW T LANGED_new_sinews_issue3_"
 
 export default function Akant() {
   const [textArrayIndex, setTextArrayIndex] = useState(0);

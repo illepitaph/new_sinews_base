@@ -5,6 +5,9 @@ import Footer from '../../components/footer.js'
 import styles from '../../styles/Ovid.module.css'
 import { ovidText } from '../../GalleryData/OvidCarouselData.js'
 Ovid.title = "mike_corrao ~ ovidian_dynamics — new_sinews"
+Ovid.pieceName = "mike_corrao ~ ovidian_dynamics — new_sinews"
+Ovid.description = "_Mike Corrao_fiction_OVIDIAN DYNAMICS_new_sinews_issue3_"
+
 
 export default function Ovid() {
   const [textArrayIndex, setTextArrayIndex] = useState(0);
