@@ -14,7 +14,6 @@ function MyApp({ Component, pageProps}) {
     <link rel="icon" href="/images/favicon.ico" type="image/x-icon"/>
     <meta name="description" content="new sinews ~ late empire new writing ~ digital hub of poems & fiction"/>
     <meta name="twitter:card" content="summary_large_image"/>
-    <meta name="twitter:site" content={Component.site}/>
     <meta name="twitter:title" content={Component.pieceName}/>
     <meta name="twitter:description" content={Component.description}/>
     <meta name="twitter:image" content={Component.image} key="ogtitle"/>
