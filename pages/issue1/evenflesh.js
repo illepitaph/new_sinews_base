@@ -5,7 +5,6 @@ import CenterBlackTitle from '../../components/centerBlackTitle.js'
 import StandardProse from '../../components/standardProse.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/EssayMode.module.css'
-EvenFlesh.title = 'even flesh seems a formality_or: Vi Khi Naos organic oscillations — new_sinews';
 EvenFlesh.pieceName = 'even flesh seems a formality_or: Vi Khi Naos organic oscillations — new_sinews'
 EvenFlesh.description = '_Vi Khi Naos organic oscillations_Steve Barbaro_criticism_new sinews_issue1_'
 
