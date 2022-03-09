@@ -6,7 +6,7 @@ import StandardProse from '../../components/standardProse.js'
 import Footer from '../../components/footer.js'
 Blackwell.title = "gabriel_blackwell ~ scenery + bedtime — new_sinews";
 Blackwell.pieceName = "gabriel_blackwell ~ scenery + bedtime — new_sinews"
-BlackWell.description = "_Gabriel Blackwell_2 Stories_SCENERY+BEDTIME_new_sinews _issue1_"
+Blackwell.description = "_Gabriel Blackwell_2 Stories_SCENERY+BEDTIME_new_sinews _issue1_"
 
 export default function Blackwell() {
   return (
