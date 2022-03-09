@@ -252,7 +252,7 @@ creative nonfiction in a <code>word DOC</code> to be considered to:</p>
     layout={`intrinsic`} alt="new_sinews fossil icon"/>
     <Image src={SiracusaWall} width={140} height={160}
     layout={`intrinsic`} alt="new_sinews children-playing-in-front-of-a-wall icon"/>
-    <Image src={Face} width={730} height={160}
+    <Image src={Face} width={230} height={160}
     layout={`intrinsic`} alt="new_sinews deity icon"/>
     <Image src={Bubbles} width={140} height={160}
     layout={`intrinsic`} alt="new_sinews bubbles-on-plastic icon"/>
