@@ -17,8 +17,6 @@ function MyApp({ Component, pageProps, description, image, slug, article}) {
     <meta name="twitter:creator" content={Component.creator}/>
     <meta name="twitter:image" content={Component.image} key="ogtitle"/>
     <meta name="twitter:description" content={Component.description}/>
-
-      />
     <link rel="icon" href="/images/favicon.ico" />
   </Head>
   <Component {...pageProps} />
