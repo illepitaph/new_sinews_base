@@ -2,11 +2,12 @@ import Link from 'next/link'
 import Head from 'next/head'
 import React, {useState} from 'react'
 import styles from '/styles/Home.module.css'
-Home.title = "new_sinews"
-Home.site = "newnewsinews.com"
-Home.pieceName = "newnewsinews"
-Home.description = "new sinews ~ late empire new writing ~ digital hub of poems & fiction"
-Home.image = "../public/images/ArchNewSinew.jpg"
+import ArchNewSinew from '../public/images/ArchNewSinew.jpg'
+Home.title = 'new_sinews'
+Home.site = 'newnewsinews.com'
+Home.pieceName = 'newnewsinews'
+Home.description = 'new sinews ~ late empire new writing ~ digital hub of poems & fiction'
+Home.image = {ArchNewSinew}
 
 export default function Home() {
 
