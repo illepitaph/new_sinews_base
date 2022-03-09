@@ -5,14 +5,14 @@ function MyApp({ Component, pageProps}) {
 
   return (
     <>
+    <html lang="en-US">
   <Head>
     <title>{Component.title}</title>
-    <html lang="en-US"/>
-    <meta name="description" content="new sinews ~ late empire new writing ~ digital hub of poems & fiction"/>
-    <meta name="author" content="Steve Barbaro"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <meta charSet="utf-8"/>
+    <meta name="author" content="Steve Barbaro"/>
     <link rel="icon" href="/images/favicon.ico" type="image/x-icon"/>
+    <meta name="description" content="new sinews ~ late empire new writing ~ digital hub of poems & fiction"/>
     <meta name="twitter:card" content="summary_large_image"/>
     <meta name="twitter:site" content={Component.site}/>
     <meta name="twitter:title" content={Component.pieceName}/>
@@ -21,6 +21,7 @@ function MyApp({ Component, pageProps}) {
     <meta name="twitter:image" content={Component.image} key="ogtitle"/>
   </Head>
   <Component {...pageProps} />
+  </html>
   </>
  );
 }
