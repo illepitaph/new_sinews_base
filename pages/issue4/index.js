@@ -2,6 +2,8 @@ import Head from 'next/head'
 import Link from 'next/link'
 import styles from '../../styles/Issue4.module.css'
 Issue4.title = "new_sinews issue4"
+Issue4.pieceName = "new_sinews issue4"
+Issue4.description = "_newsinews_issue4_Brandon Shimoda+K-Ming Chang+Evan Isoline+Christa Romanosky+Gabriel Palacios+Allison Hummel+Mike Corrao+Vi Khi Nao+Grant Maierhofer_"
 
 export default function Issue4() {
   return (

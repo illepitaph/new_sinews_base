@@ -6,6 +6,8 @@ import StandardProse from '../../components/standardProse.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Guanyin.module.css'
 Guanyin.title = "k-ming_chang ~ guanyin — new_sinews"
+Guanyin.pieceName = "k-ming_chang ~ guanyin — new_sinews"
+Guanyin.description = "_K-Ming Chang_fiction_GUANYIN_new_sinews_issue4_"
 
 export default function Guanyin() {
   return (
@@ -51,7 +53,7 @@ export default function Guanyin() {
       could imagine, and behind the glass, Guanyin detonated, sharding into sixteen pieces I would need to
       tweeze out of me.
       </StandardProse>
-  
+
        <Footer/>
 
          </>

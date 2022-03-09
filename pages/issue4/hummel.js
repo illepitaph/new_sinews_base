@@ -5,6 +5,8 @@ import CenterBlackTitle from '../../components/centerBlackTitle.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Hummel.module.css'
 Hummel.title = "allison_hummel ~ the_fires_are_back // i_look_at_sauce // untitled // comfort_like_the — new_sinews"
+Hummel.pieceName = "allison_hummel ~ the_fires_are_back // i_look_at_sauce // untitled // comfort_like_the — new_sinews"
+Hummel.description = "_Allison Hummel_poetry_THE FIRES ARE BACK+I LOOK AT SAUCE+UNTITLED+COMFORT LIKE THE_new_sinews_issue4_"
 
 export default function Hummel() {
   return (

@@ -5,6 +5,8 @@ import CenterBlackTitle from '../../components/centerBlackTitle.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Palacios.module.css'
 Palacios.title = "gabriel_palacios ~ poems_from_lunar_hilton_elegy — new_sinews"
+Palacios.pieceName = "gabriel_palacios ~ poems_from_lunar_hilton_elegy — new_sinews"
+Palacios.description = "_Gabriel Palacios_poetry_POEMS FROM LUNAR HILTON ELEGY_new_sinews_issue4_"
 
 export default function Palacios() {
   return (

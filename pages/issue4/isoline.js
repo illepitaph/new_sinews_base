@@ -5,6 +5,8 @@ import CenterBlackTitle from '../../components/centerBlackTitle.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Isoline.module.css'
 Isoline.title = "evan_isoline ~ as_foam_from_this_sweet_hour — new_sinews"
+Isoline.pieceName = "evan_isoline ~ as_foam_from_this_sweet_hour — new_sinews"
+Isoline.description = "_Evan Isoline_poetry_AS FOAM FROM THIS SWEET HOUR_new_sinews_issue4_"
 
 export default function Isoline() {
   return (

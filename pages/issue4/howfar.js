@@ -4,6 +4,8 @@ import StandardProse from '../../components/standardProse.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/HowFar.module.css'
 HowFar.title = "christa_romanosky ~ how_far_you_can_get_on_an_empty_tank_of_gas — new_sinews"
+HowFar.pieceName = "christa_romanosky ~ how_far_you_can_get_on_an_empty_tank_of_gas — new_sinews"
+HowFar.description = "_Christa Romanosky_fiction_HOW FAR YOU CAN GET ON AN EMPTY TANK OF GAS_new_sinews_issue4_"
 
 export default function HowFar() {
   return (

@@ -6,6 +6,8 @@ import StandardProse from '../../components/standardProse.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/TextSpinality.module.css'
 TextSpinality.title = "mike_corrao ~ text_spinality — new_sinews"
+TextSpinality.pieceName = "mike_corrao ~ text_spinality — new_sinews"
+TextSpinality.description = "_Mike Corrao_fiction_TEXT SPINALITY_new_sinews_issue4_"
 
 export default function TextSpinality() {
   return (

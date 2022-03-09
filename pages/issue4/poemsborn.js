@@ -6,6 +6,8 @@ import StandardLineation from '../../components/standardLineation.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/PoemsBorn.module.css'
 PoemsBorn.title = "vi_khi_nao ~ poems_born_from_basic_words — new_sinews"
+PoemsBorn.pieceName = "vi_khi_nao ~ poems_born_from_basic_words — new_sinews"
+PoemsBorn.description = "_Vi Khi Nao_poetry_POEMS BORN FROM BASIC WORDS_new_sinews_issue4_"
 
 export default function PoemsBorn() {
   return (

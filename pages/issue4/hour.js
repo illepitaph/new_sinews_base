@@ -6,6 +6,8 @@ import RightBlackTitle from '../../components/rightBlackTitle.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Rat.module.css'
 Rat.title = "brandon_shimoda ~ the_hour_of_the_rat — new_sinews"
+Rat.pieceName = "brandon_shimoda ~ the_hour_of_the_rat — new_sinews"
+Rat.description = "_Brandon Shimoda_poetry_THE HOUR OF THE RAT_new_sinews_issue4_"
 
 export default function Rat() {
   return (
