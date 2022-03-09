@@ -6,7 +6,7 @@ Home.title = "new_sinews"
 Home.site = "newnewsinews.com"
 Home.pieceName = "newnewsinews"
 Home.description = "new sinews ~ late empire new writing ~ digital hub of poems & fiction"
-Home.image = "../../public/images/ArchNewSinew.jpg"
+Home.image = "../public/images/ArchNewSinew.jpg"
 
 export default function Home() {
 
