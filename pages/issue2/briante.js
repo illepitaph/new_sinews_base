@@ -60,7 +60,7 @@ export default function Briante() {
        <StandardProse>
        Women wash in the ruins of a stone house. A child cups water from a stream
        to lift into an infant’s mouth. In the Pablo Picasso museum, I look at
-       newsreels, photographs of Spanish Civil War atrocities, Picasso’s <cite>Guernica</cite>
+       newsreels, photographs of Spanish Civil War atrocities, Picasso’s <cite>Guernica </cite>
        studies: a crying woman, lips opened up like a bowl to the sky, scream in
        the shape of a knife rising out.
        <br/>

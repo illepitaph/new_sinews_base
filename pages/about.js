@@ -179,14 +179,14 @@ layout={`intrinsic`} alt="new_sinews securitycam icon"/>
 layout={`intrinsic`} alt="new_sinews fossil icon"/>
 <Image src={SiracusaWall} width={140} height={110}
 layout={`intrinsic`} alt="new_sinews children-playing-in-front-of-a-wall icon"/>
-<Image src={Face} width={130} height={110}
-layout={`intrinsic`} alt="new_sinews deity icon"/>
+<Image src={ArchaicEntity} width={100} height={110}
+layout={`intrinsic`} alt="new_sinews fossil icon"/>
 <Image src={Bubbles} width={140} height={110}
 layout={`intrinsic`} alt="new_sinews bubbles-on-plastic icon"/>
 <Image src={Security} width={100} height={110}
 layout={`intrinsic`} alt="new_sinews securitycam icon"/>
-<Image src={ArchaicEntity} width={100} height={110}
-layout={`intrinsic`} alt="new_sinews fossil icon"/>
+<Image src={Face} width={130} height={110}
+layout={`intrinsic`} alt="new_sinews deity icon"/>
 
 
 </div>

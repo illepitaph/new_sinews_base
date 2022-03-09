@@ -142,7 +142,7 @@ export default function Stough() {
         I don’t consider my walk to be “computer-assisted” as one might mistake. Rather, a walking-with the folded
         entity that would augment my attunement to the music. Unlike a constraint of omission simply. Simply.
         A critical relation to whatever else is available, to what avails, to complexify the affective stature of
-        the walk as it`&apos;`s habitually laid lit. We say that one “makes the time” to accomplish some necessary. I
+        the walk as it&apos;s habitually laid lit. We say that one “makes the time” to accomplish some necessary. I
         make the time to relearn.
         <br/>
         <br/>
@@ -171,14 +171,14 @@ export default function Stough() {
         <br/>
         <br/>
         <br/>
-        `&quot;`Affect sticks,`&quot;` expressed and contending. Affect stings, a sometime emotion. I approach it how I imagine
+        &quot;Affect sticks,&quot; expressed and contending. Affect stings, a sometime emotion. I approach it how I imagine
         the Surrealists approached their own writing, with surprise.
         <br/>
         <br/>
         <br/>
         As I rounded the corner at Lexington and Acton, near where the construction had been taking place, I suddenly
         became aware of the exercise’s impending “completion.” I both wanted it to end and didn’t want it to have
-        an ending. It had an ending, or it had many endings that I continued renewing. I`&apos;`m told this is called
+        an ending. It had an ending, or it had many endings that I continued renewing. I&apos;m told this is called
         the formation of territory, from where aggression takes form. Formal anger. Anger-fear. And homily, humming.
         <br/>
         <br/>
@@ -218,18 +218,18 @@ export default function Stough() {
         <br/>
         I tried some listening, I tried to achieve a global attention. I heard the brush of passing cars down
         below in the street. I heard the thicker brush of the shower in which someone was standing. I thought
-        about cars and the naked body. I want to write, I thought of a naked body, but shouldn’t. Though I`&apos;`ve
+        about cars and the naked body. I want to write, I thought of a naked body, but shouldn’t. Though I&apos;ve
         just done that here. I tried slow walking, but quickly fell out of concentration (the concentration
         of attention), when I thought I would hit the desk. My eyes were closed shut, like a zazen beginner.
         When I turned around and walked the other way I fell off balance as soon as I began lifting the heel
         of my second foot. I just kind of looked down and exhaled at the floor. Sometimes it means you’re
         a part of a machine, not necessarily the one you were hoping. Sometimes the floor fights back, but
-        it doesn’t mean it’s <i>you</i> that it`&apos;`s fighting.
+        it doesn’t mean it’s <i>you</i> that it&apos;s fighting.
         <br/>
         <br/>
         <br/>
         I know nothing of the <span className={styles.grayShadow}><i>OM</i></span> other than the moan of it. Word which
-        has its root in others. As it`&apos;`s been often said, hidden (and reversed, though not it`&apos;`s negation) in <span
+        has its root in others. As it&apos;s been often said, hidden (and reversed, though not it&apos;s negation) in <span
         className={styles.grayShadow}><i>mother</i></span>, extended in <span className={styles.grayShadow}><i>ovum</i></span>, nearly
         residing in <span className={styles.grayShadow}><i>often</i></span> and <span
         className={styles.grayShadow}><i>open</i></span>, both of which titillate the walk toward membrane. In <span
@@ -291,29 +291,29 @@ export default function Stough() {
         <br/>
         <br/>
         <br/>
-        I walk past a philosopher`&apos;`s camp of squirrels, not darting as I pass. It’s still <cite><span
+        I walk past a philosopher&apos;s camp of squirrels, not darting as I pass. It’s still <cite><span
         className={styles.grayShadow}>Horse Sings From A Cloud</span></cite> in the ear-space. The ear-piece—that
         is, made for the ear—which splits the ear-peace, or connects up to another less-probable. Though this time
-        I`&apos;`ve forgotten my notebook and am writing this on the back of a printed out copy of Felix Guattari`&apos;`s `&quot;`Balance
-        Sheet for `&apos;`Desiring-Machines`&apos;`.`&quot;` Having begun the exercise in the middle of my walk, I realize that from the
-        beginning of the first time, I`&apos;`m ready for (the?) music to begin. I’m thinking of Messaiaen. Oliveros’ note:
+        I&apos;ve forgotten my notebook and am writing this on the back of a printed out copy of Felix Guattari&apos;s &quot;Balance
+        Sheet for &apos;Desiring-Machines&apos;.&quot; Having begun the exercise in the middle of my walk, I realize that from the
+        beginning of the first time, I&apos;m ready for (the?) music to begin. I’m thinking of Messaiaen. Oliveros’ note:
         flubbing in and out of one’s focus. One dead squirrel under a tree on the opposite side of the trail to the
         library from the squirrel camp, mirrors the dead rabbit under the car from yesterday. Just as I wonder why I
         am compelled to record repetitions as repetitions and not, say, something else, I wonder what occurs (or who)
         between the slow rise of the foot and the decision to step. Is there any way for the body but forward? Trail,
-        squirrel, shade, a mother`&apos;`s long cleavage as she pushes two three year olds in a stroller. Utterly called-out
+        squirrel, shade, a mother&apos;s long cleavage as she pushes two three year olds in a stroller. Utterly called-out
         by this soon-to-be-diagram. There are no conditions, other than summer, that make me and the strangers passing
-        me part of a legitimate ensemble, no recurrence by virtue of itself. I glimpse how far one`&apos;`s attentional ethics
+        me part of a legitimate ensemble, no recurrence by virtue of itself. I glimpse how far one&apos;s attentional ethics
         can come in over ten years of breathing deeply, as well as how false that distance actually is. The so-called
         space between strides that seems too artificial to ascribe to parts of the body, especially parts of the body
-        I am conditioned to love. `&quot;`This is the machine of which the dancer is a component part.`&quot;`
+        I am conditioned to love. &quot;This is the machine of which the dancer is a component part.&quot;
         <br/>
         <br/>
         <br/>
         Waiting for the music to take over the tune. To take over taking attention. Utterly called-out by this, too.
-        I must relearn what it means to constitute. The natal. To open a door, any door. To music. I`&apos;`ve decided I need
+        I must relearn what it means to constitute. The natal. To open a door, any door. To music. I&apos;ve decided I need
         to relearn how to walk. How much else of my life takes places as if in a dream? Poor legs. Relearn to
-        re-exercise, too. These are the degrees of mistrusting the dream, gradations of doubt. My raison d`&apos;`etre.
+        re-exercise, too. These are the degrees of mistrusting the dream, gradations of doubt. My raison d&apos;etre.
         <br/>
         <br/>
         <br/>
@@ -353,7 +353,7 @@ export default function Stough() {
         The body leans where it needs to lead, yet in the suffocation of grief, it’s the world that seems to falter. I
         try to worry about other people. In the world. I worry about the people on my phone. My primary interaction with
         a text is to “text” text back at it. I know this is a new normal. My primary understanding of the proletariat
-        comes from the eldery women I work with, the shit they`&apos;`ve put up with. On twitter, it`&apos;`s like a beer in
+        comes from the eldery women I work with, the shit they&apos;ve put up with. On twitter, it&apos;s like a beer in
         the middle of the day. I try to keep off of it. So I walk.
         <br/>
         <br/>
@@ -371,11 +371,11 @@ export default function Stough() {
         <br/>
         <br/>
         <br/>
-        What’s meant by the body`&apos;`s center. The center of the body. More than a locus? I speak of a body <span
+        What’s meant by the body&apos;s center. The center of the body. More than a locus? I speak of a body <span
         className={styles.grayShadow}><i>around which</i></span>. As the body means, necessarily. A configuration. I
         take a walk through Watertown, a town—having lived in it unemployed for so long—I think I know decently. A town
-        my body`&apos;`s internalized, folded over. <span className={styles.grayShadow}><i>Horse Sings from a Cloud</i></span> in
-        the ear-space. I think about how Chris spoke about<span className={styles.grayShadow}><i>Glass</i></span>, <span
+        my body&apos;s internalized, folded over. <span className={styles.grayShadow}><i>Horse Sings from a Cloud</i></span> in
+        the ear-space. I think about how Chris spoke about<span className={styles.grayShadow}><i> Glass</i></span>, <span
         className={styles.grayShadow}><i>Irony and God</i></span>, how he said he admired it but wouldn’t ever think of
         curling up in bed with it. What would I curl up with? This song, eddying like the digestive cut that occurs between
         the snake’s scales and the creek. Sometimes things are just below the surface of what we think of as surface.
@@ -401,7 +401,7 @@ export default function Stough() {
         <br/>
         <br/>
         I would like to go against progress with this. This exercise. Approach without any discernible progression
-        towards which. Operating without totalization. Isn`&apos;`t this how James approached the squirrel problem? Wherever
+        towards which. Operating without totalization. Isn&apos;t this how James approached the squirrel problem? Wherever
         my body stands, practical consequences follow closely before.
         <br/>
         <br/>
@@ -432,18 +432,18 @@ export default function Stough() {
         <br/>
         <br/>
         <br/>
-        Often others refuse the 1:1 relation of things while also in metaphorical substancing. When we say `&quot;`refrain
-        from ____, please`&quot;` (“stop doing x action”), we make an appeal to the autonomic without even realizing. We
+        Often others refuse the 1:1 relation of things while also in metaphorical substancing. When we say &quot;refrain
+        from ____, please&quot; (“stop doing x action”), we make an appeal to the autonomic without even realizing. We
         chain a command.
         <br/>
         <br/>
         <br/>
-        From Kant we come to believe we possess the right to be right, not to cry when it isn`&apos;`t seemly to, no coffee
+        From Kant we come to believe we possess the right to be right, not to cry when it isn&apos;t seemly to, no coffee
         past certain thresholds of human time. Rather with duration, the unthought of the body comes visible once
         more (as in the time after infancy, before childhood, where the dreams are stored). We place our hands in
-        a circle below the gut and something simultaneous urges the sense of the body`&apos;`s being locked into place,
-        yet never more free. It`&apos;`s about setting a plane. You can think of destination and speed as a wooden disk,
-        if you want. With metaphor in tow, we grope into physics. You don`&apos;`t have to think of anything, really. You
+        a circle below the gut and something simultaneous urges the sense of the body&apos;s being locked into place,
+        yet never more free. It&apos;s about setting a plane. You can think of destination and speed as a wooden disk,
+        if you want. With metaphor in tow, we grope into physics. You don&apos;t have to think of anything, really. You
         can just walk, let truth rally behind your thought like the wind through a flag.
         <br/>
         <br/>
@@ -472,7 +472,7 @@ export default function Stough() {
         <br/>
         <br/>
         <br/>
-        It`&apos;`s been ten years since I began my life as someone whose father had died.
+        It&apos;s been ten years since I began my life as someone whose father had died.
         <br/>
         <br/>
         <br/>
@@ -491,19 +491,19 @@ export default function Stough() {
         <br/>
         <br/>
         <br/>
-        I need to relearn. Five panic attacks, bad ones. I poured through Oliveros`&apos;` book again. I needed to learn
-        how to walk so I did it, with Pauline, or tried. I bought a pair of fresh-colored New Balance 574`&apos;`s,
+        I need to relearn. Five panic attacks, bad ones. I poured through Oliveros&apos; book again. I needed to learn
+        how to walk so I did it, with Pauline, or tried. I bought a pair of fresh-colored New Balance 574&apos;s,
         plugged in my headphones, and for 20 minutes every week this summer I listened to  <span
         className={styles.grayShadow}><i>Horse Sings From A Cloud</i></span> in attempts to revive myself, one who
-        had been forgotten by poetry. What role does repetition play in a person`&apos;`s personological stupidity, was
+        had been forgotten by poetry. What role does repetition play in a person&apos;s personological stupidity, was
         the type of question I tried asking myself. Tried to reach my own personological stupidity plane. I didn’t.
-        I didn`&apos;`t reach it. I tired easily. I tired, though.
+        I didn&apos;t reach it. I tired easily. I tired, though.
         <br/>
         <br/>
         <br/>
         I let pace establish itself as I walked. I mimicked, willing or unwittingly, a form of stepping first theorized
-        by people long gone. People who had to walk to get places, I`&apos;`m told. For some reason I think of the nuns in
-        Powell and Pressburger`&apos;`s <span className={styles.grayShadow}><i>Black Narcissus</i></span>.
+        by people long gone. People who had to walk to get places, I&apos;m told. For some reason I think of the nuns in
+        Powell and Pressburger&apos;s <span className={styles.grayShadow}><i>Black Narcissus</i></span>.
         <br/>
         <br/>
         <br/>
@@ -637,7 +637,7 @@ export default function Stough() {
         I didn’t <i>discover</i> that love made a refrain. I’m not so naive as I often appear—due to my forgetfulness. What
         I realized was how moments return. Not memories of moments, but the conditions themselves—their conditions of
         being felt, seen, withdrawn from. I began to regain a sense of myself as it was when your love was so new to me.
-        When I wouldn`&apos;`t know what the next day would bring, walking back from fucking in your house on the dark Providence
+        When I wouldn&apos;t know what the next day would bring, walking back from fucking in your house on the dark Providence
         street, listening to Angel Olsen (for empathy) and Deathheaven (in honor of ecstasy), not wanting to die.
         <br/>
         <br/>
@@ -648,17 +648,17 @@ export default function Stough() {
         <br/>
         For Christmas I ask for a pair of Sony Bluetooth Over-The-Ear Headphones, coveting their higher fidelity and
         cordless capabilities. I wondered how this would adjust to the contours of the walk. A week before Christmas
-        you informed me the price had gone up. I didn`&apos;`t expect you to pay $200 for headphones. Instead I asked for
-        a pair of black Cowin E7`&apos;`s. Cheaper, still cordless. I didn`&apos;`t like them at first, or was hesitant to make
+        you informed me the price had gone up. I didn&apos;t expect you to pay $200 for headphones. Instead I asked for
+        a pair of black Cowin E7&apos;s. Cheaper, still cordless. I didn&apos;t like them at first, or was hesitant to make
         an evaluation. Until I lay down in bed and flicked on that song.
         <br/>
         <br/>
         <br/>
-        I heard the note that I`&apos;`d always heard. The note I keep hearing. But I heard something else. I could, for
-        the first time, hear Oliveros`&apos;` fingers clicking the bass switches of her accordion. I tried to imagine
+        I heard the note that I&apos;d always heard. The note I keep hearing. But I heard something else. I could, for
+        the first time, hear Oliveros&apos; fingers clicking the bass switches of her accordion. I tried to imagine
         how the dog on the cover of the album understood bass switches, their itinerant clinking. A dog howls
         with a timbre we recognize. I was in bed but felt lifted. I remembered the walk I took in May or June,
-        whenever it was, or in some way I rewalked it. I didn`&apos;`t think of Deleuze or Guattari, or Thoreau or
+        whenever it was, or in some way I rewalked it. I didn&apos;t think of Deleuze or Guattari, or Thoreau or
         Kant or anyone other than Pauline, who had given me this message: I hope that when we finally buy
         a house together we own this album on vinyl and can walk together inside it. We meaning me now.
         <br/>
@@ -686,7 +686,7 @@ export default function Stough() {
         <br/>
         <br/>
         <br/>
-        As if you`&apos;`re walking.
+        As if you&apos;re walking.
         <br/>
         As if
         <br/>
