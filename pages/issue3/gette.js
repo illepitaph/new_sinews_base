@@ -113,7 +113,7 @@ slow inhalation in his sleep</p>
   a symptom of respiratory droplets?</p>
   <p className={styles.getteLineation}>Spat him like tobacco, sugarcane, unripe banana etc.?</p>
   <p className={styles.getteLineation}>Spat him like he spat arsenic, orgeat syrup, potassium tartrate, calomel, copper in
-  the wallpaper and household items of the Longwood house, where he spent his exile in the clutches of Britain`&apos;`s East
+  the wallpaper and household items of the Longwood house, where he spent his exile in the clutches of Britain&apos;s East
   India Company?</p>
   <p className={styles.getteLineation}>Spat him like a locust spits as it covers the sky in swarms as a symptom of
   thoughtless human tearing up the topsoil, scraping the mantle-deep grasses that turned wheat into dust (too far West
@@ -308,7 +308,7 @@ slow inhalation in his sleep</p>
       96. <a className={styles.textSizeMinimizerFour} href="https://doi.org/10.1186/s12936-018-2244-2"
       target="_blank" rel="noreferrer">https://doi.org/10.1186/s12936-018-2244-2</a></p>
       <br/><br/>
-      <p className={styles.getteLineation}>Loayza, Beatrice. “Close-Up on Marguerite Duras`&apos;`s ‘India Song.’” MUBI, 4 Apr.
+      <p className={styles.getteLineation}>Loayza, Beatrice. “Close-Up on Marguerite Duras&apos;s ‘India Song.’” MUBI, 4 Apr.
       2020, <a href="https://www.mubi.com/notebook/posts/close-up-on-marguerite-duras-s-india-song"
       target="_blank" rel="noreferrer" className={styles.textSizeMinimizerTwo}>mubi.com/notebook/posts/close-up-on-marguerite-duras-s-india-song</a></p>
       </div>
