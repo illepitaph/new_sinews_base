@@ -7,7 +7,7 @@ import styles from '../../styles/Bisagni.module.css'
 Bisagni.title = "paul_bisagni ~ nice_time_formula + jumbo_marvelous_domesticity_jilt + by_dint_of_little_else — new_sinews"
 Bisagni.pieceName = "paul_bisagni ~ nice_time_formula + jumbo_marvelous_domesticity_jilt + by_dint_of_little_else — new_sinews"
 Bisagni.description = "_Paul Bisagni_poetry_NICE TIME FORMULA+JUMBO MARVELOUS DOMESTICITY JILT+BY DINT OF LITTLE ELSE_new_sinews_issue5_"
-
+Bisagni.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622a511e57a9e763a94636f3/1646940446246/BisagniBackground.jpg"
 
 export default function Bisagni() {
   return (
