@@ -6,7 +6,7 @@ import ArchNewSinew from '../public/images/ArchNewSinew.jpg'
 Home.title = 'new_sinews'
 Home.pieceName = 'newnewsinews'
 Home.description = 'new_sinews ~ late empire new writing ~ digital hub of poems & fiction'
-Home.image = {ArchNewSinew}
+Home.image = "https://static1.squarespace.com/static/5b78c5275ffd20862324ad8e/t/622a4c8d8249442d34b49b5d/1646939277961/ArchNewSinew.jpg"
 
 export default function Home() {
 
