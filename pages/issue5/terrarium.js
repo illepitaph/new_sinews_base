@@ -7,7 +7,7 @@ import styles from '../../styles/Terrarium.module.css'
 Terrarium.title = "vi_khi_nao + jessica_alexander ~ when_my_body_was_a_glass_terrarium — new_sinews"
 Terrarium.pieceName = "vi_khi_nao + jessica_alexander ~ when_my_body_was_a_glass_terrarium — new_sinews"
 Terrarium.description = "_Vi_Khi_Nao+Jessica_Alexander_poetry_WHEN MY BODY WAS A GLASS TERRARIUM_new_sinews_issue5_"
-Terrarium.image = "https://static1.squarespace.com/static/5b78c5275ffd20862324ad8e/t/622a4c8d8249442d34b49b5d/1646939277961/ArchNewSinew.jpg"
+Terrarium.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622a54f77fc68c6bc1d1638f/1646941431775/TerrariumBackground.jpg"
 
 export default function Terrarium() {
   return (
