@@ -132,7 +132,7 @@ export default function Feldman() {
       <br/><br/>
       “Could they spy?” I asked. “Like, could you put cameras on their heads?”
       <br/><br/>
-      “No, these would be, uh”—as I let the record show, he audibly swallowed—“suicide dolphins.”
+      “No, these would be, uh”—as I let the record show, he audibly swallowed—“suicide dolphins.
       <br/><br/>
       “What are you writing all this for?” he asked, just after that. He was leaning as if rakishly
       upon a guardrail, letting his forearms all but absorb it.
