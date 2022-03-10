@@ -12,7 +12,7 @@ import ArchaicEntity from '../public/images/ArchaicEntity.jpg'
 About.title = "about — new_sinews";
 About.pieceName = "new_sinews about page"
 About.description = 'new_sinews ~ late empire new writing ~ submissions info + imagistic mosaistry'
-About.image = "https://static1.squarespace.com/static/5b78c5275ffd20862324ad8e/t/622a4cbd3fc07b3a3a3ab5c7/1646939326071/LineNewSinew.jpg"
+About.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622a59e9f261534c88ac23f4/1646942697487/l.jpg"
 
 export default function About() {
 
