@@ -3,7 +3,7 @@ import Link from 'next/link'
 import styles from '../../styles/issue1.module.css'
 Issue1.title = "new_sinews issue1"
 Issue1.pieceName = "new_sinews issue1"
-Issue1.description = "_new sinews_issue1_Sarah Gridley+Tongo Eisen-Martin+Gabriel Blackwell+Christa Romanosky+Vi Khi Nao"
+Issue1.description = "_newsinews_issue1_Sarah Gridley+Tongo Eisen-Martin+Gabriel Blackwell+Christa Romanosky+Vi Khi Nao"
 
 export default function Issue1() {
   return (

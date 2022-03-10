@@ -6,6 +6,8 @@ import StandardProse from '../../components/standardProse.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Feldman.module.css'
 Feldman.title = "jacqueline_feldman ~ passel: eight stories — new_sinews"
+Feldman.pieceName = "jacqueline_feldman ~ passel: eight stories — new_sinews"
+Feldman.description = "_Jacqueline Feldman_fiction_PASSEL:8+STORIES_news_sinews_issue5_"
 
 
 export default function Feldman() {

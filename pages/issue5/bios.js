@@ -6,6 +6,8 @@ import StandardProse from '../../components/standardProse.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Bios.module.css'
 Issue5Bios.title = "issue5_bios — new_sinews"
+Issue5Bios.pieceName = "issue5_bios — new_sinews"
+Issue5Bios.description = "_contributor bios_new sinews_issue5_"
 
 export default function Issue5Bios() {
   return (

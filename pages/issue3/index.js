@@ -3,7 +3,7 @@ import Link from 'next/link'
 import styles from '../../styles/Issue3.module.css'
 Issue3.title = "new_sinews issue3"
 Issue3.pieceName = "new_sinews issue3"
-Issue3.description = "_new sinews_issue3_Vi Khi Nao+Cary Stough+Sara Deniz Akant+Steven Alvarez+Megan Jeanne Gette+Kelly Krumrie+Shome Dasgupta+Mike Corrao_"
+Issue3.description = "_newsinews_issue3_Vi Khi Nao+Cary Stough+Sara Deniz Akant+Steven Alvarez+Megan Jeanne Gette+Kelly Krumrie+Shome Dasgupta+Mike Corrao_"
 
 export default function Issue3() {
   return (
