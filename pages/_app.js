@@ -16,7 +16,7 @@ function MyApp({ Component, pageProps}) {
     <meta name="twitter:card" content="summary_large_image"/>
     <meta name="twitter:title" content={Component.pieceName}/>
     <meta name="twitter:description" content={Component.description}/>
-    <meta name="twitter:image" content="https://photos.google.com/photo/AF1QipO6GZoLy5IqCzmK71XDtPL_alOr-2rs6xWwYRLt" key="ogtitle"/>
+    <meta name="twitter:image" content={Component.image} key="ogtitle"/>
   </Head>
   <Component {...pageProps} />
   </html>
