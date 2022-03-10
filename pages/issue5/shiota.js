@@ -18,7 +18,7 @@ export default function Shiota() {
       <br/>
       <br/>
       <br/>
-      <pre className={styles.title}>... <b>...  In</b>   The <b>  Beginning,   She</b>    Was The<b> Sun  ...</b>  ...</pre>
+      <pre className={styles.title}>... <b>...  In</b>   The <b>  <i>Beginning</i>,   She</b>    Was The<b> Sun  ...</b>  ...</pre>
       <br/>
       <pre className={styles.title}>... ... <b>... julia      <i>shiota</i> ...</b> ... ...</pre>
       <br/>
