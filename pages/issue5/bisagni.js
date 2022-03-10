@@ -7,7 +7,7 @@ import styles from '../../styles/Bisagni.module.css'
 Bisagni.title = "paul_bisagni ~ nice_time_formula + jumbo_marvelous_domesticity_jilt + by_dint_of_little_else — new_sinews"
 Bisagni.pieceName = "paul_bisagni ~ nice_time_formula + jumbo_marvelous_domesticity_jilt + by_dint_of_little_else — new_sinews"
 Bisagni.description = "_Paul Bisagni_poetry_NICE TIME FORMULA+JUMBO MARVELOUS DOMESTICITY JILT+BY DINT OF LITTLE ELSE_new_sinews_issue5_"
-Bisagni.image = "https://stevebarbaro.com/heracles-leucothea/141bcqf4tqjgjsbxlafp4kcxppn9gl"
+
 
 export default function Bisagni() {
   return (
