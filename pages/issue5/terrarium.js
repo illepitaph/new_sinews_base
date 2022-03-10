@@ -6,7 +6,8 @@ import Footer from '../../components/footer.js'
 import styles from '../../styles/Terrarium.module.css'
 Terrarium.title = "vi_khi_nao + jessica_alexander ~ when_my_body_was_a_glass_terrarium — new_sinews"
 Terrarium.pieceName = "vi_khi_nao + jessica_alexander ~ when_my_body_was_a_glass_terrarium — new_sinews"
-Terrarium.descrition = "_Vi_Khi_Nao+Jessica_Alexander_poetry_WHEN MY BODY WAS A GLASS TERRARIUM_new_sinews_issue5_"
+Terrarium.description = "_Vi_Khi_Nao+Jessica_Alexander_poetry_WHEN MY BODY WAS A GLASS TERRARIUM_new_sinews_issue5_"
+Terrarium.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622a54f77fc68c6bc1d1638f/1646941431775/TerrariumBackground.jpg"
 
 export default function Terrarium() {
   return (

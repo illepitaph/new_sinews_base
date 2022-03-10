@@ -7,6 +7,7 @@ import styles from '../../styles/Yrclimate.module.css'
 YrClimate.title = "steven_alvarez ~ yr_climate — new_sinews"
 YrClimate.pieceName = "steven_alvarez ~ yr_climate — new_sinews"
 YrClimate.description = "_Steven Alvarez_poetry_YR CLIMATE_new_sinews_issue5"
+YrClimate.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622a555ed5bd50395fa08a60/1646941534806/YrClimateBackground.jpg"
 
 export default function YrClimate() {
   return (
