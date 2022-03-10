@@ -8,7 +8,7 @@ import styles from '../../styles/Rainey.module.css'
 Rainey.title = "delia_rainey ~ somewhere_better_than_this_place — new_sinews"
 Rainey.pieceName = "delia_rainey ~ somewhere_better_than_this_place — new_sinews"
 Rainey.description = "_Delia Rainey_nonfiction_SOMEWHERE BETTER THAN THIS PLACE_new_sinews_issue5_"
-Rainey.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622a54866cf0fd5f65b5cb98/1646941318561/RaineyBackground.jpg"
+Rainey.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622a5f856d931f0222594f52/1646944133409/RaineyBackground.jpg"
 
 
 export default function Rainey() {
