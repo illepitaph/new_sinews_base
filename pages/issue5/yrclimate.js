@@ -5,6 +5,8 @@ import RightGrayTitle from '../../components/rightGrayTitle.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Yrclimate.module.css'
 YrClimate.title = "steven_alvarez ~ yr_climate — new_sinews"
+YrClimate.pieceName = "steven_alvarez ~ yr_climate — new_sinews"
+YrClimate.description = "_Steven Alvarez_poetry_YR CLIMATE_new_sinews_issue5"
 
 export default function YrClimate() {
   return (

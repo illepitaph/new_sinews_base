@@ -5,6 +5,8 @@ import Footer from '../../components/footer.js'
 import styles from '../../styles/Theater.module.css'
 import { theaterText } from '../../GalleryData/TheaterCarouselData.js'
 TheaterOfMaterials.title = "mike_corrao ~ theater_of_materials — new_sinews"
+TheaterOfMaterials.pieceName = "mike_corrao ~ theater_of_materials — new_sinews"
+TheaterOfMaterials.description = "_Mike_Corrao_fiction_THEATER OF MATERIALS_new_sinews_issue5_"
 
 export default function TheaterOfMaterials() {
   const [textArrayIndex, setTextArrayIndex] = useState(0);

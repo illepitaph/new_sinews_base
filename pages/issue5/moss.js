@@ -6,6 +6,8 @@ import StandardProse from '../../components/standardProse.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Moss.module.css'
 Moss.title = "samuel_moss ~ the_veldt_light — new_sinews"
+Moss.pieceNmae = "samuel_moss ~ the_veldt_light — new_sinews"
+Moss.description = "_Samuel Moss_fiction_THE VELDT LIGHT_new_sinews_issue5_"
 
 export default function Moss() {
   return (

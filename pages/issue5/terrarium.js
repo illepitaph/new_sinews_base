@@ -5,6 +5,8 @@ import CenterGrayTitle from '../../components/centerGrayTitle.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Terrarium.module.css'
 Terrarium.title = "vi_khi_nao + jessica_alexander ~ when_my_body_was_a_glass_terrarium — new_sinews"
+Terrarium.pieceName = "vi_khi_nao + jessica_alexander ~ when_my_body_was_a_glass_terrarium — new_sinews"
+Terrarium.descrition = "_Vi_Khi_Nao+Jessica_Alexander_poetry_WHEN MY BODY WAS A GLASS TERRARIUM_new_sinews_issue5_"
 
 export default function Terrarium() {
   return (

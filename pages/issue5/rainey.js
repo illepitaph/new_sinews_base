@@ -6,6 +6,9 @@ import StandardProse from '../../components/standardProse.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Rainey.module.css'
 Rainey.title = "delia_rainey ~ somewhere_better_than_this_place — new_sinews"
+Rainey.pieceName = "delia_rainey ~ somewhere_better_than_this_place — new_sinews"
+Rainey.description = "_Delia Rainey_nonfiction_SOMEWHERE BETTER THAN THIS PLACE_new_sinews_issue5_"
+
 
 export default function Rainey() {
   return (
