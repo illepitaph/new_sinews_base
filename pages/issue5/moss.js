@@ -8,7 +8,6 @@ import styles from '../../styles/Moss.module.css'
 Moss.title = "samuel_moss ~ the_veldt_light — new_sinews"
 Moss.pieceNmae = "samuel_moss ~ the_veldt_light — new_sinews"
 Moss.description = "_Samuel Moss_fiction_THE VELDT LIGHT_new_sinews_issue5_"
-Moss.image = "https://static1.squarespace.com/static/5b78c5275ffd20862324ad8e/t/622a4dbf89b8407c883a4bbe/1646939583696/MossBackground.jpg"
 
 export default function Moss() {
   return (
