@@ -8,6 +8,8 @@ import styles from '../../styles/Bios.module.css'
 Issue4Bios.title = "issue4_bios — new_sinews"
 Issue4Bios.pieceName = "issue4_bios — new_sinews"
 Issue4Bios.description = "_contributor bios_new sinews_issue4_"
+Issue4Bios.image = "https://static1.squarespace.com/static/5b78c5275ffd20862324ad8e/t/622a4c8d8249442d34b49b5d/1646939277961/ArchNewSinew.jpg"
+
 
 export default function Issue4Bios() {
   return (

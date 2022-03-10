@@ -9,6 +9,8 @@ import styles from '../../styles/Bios.module.css'
 Issue2Bios.title = "issue2_bios — new_sinews"
 Issue2Bios.pieceName = "issue2_bios — new_sinews"
 Issue2Bios.description = "_contributor bios_new sinews_issue2_"
+Issue2Bios.image = "https://static1.squarespace.com/static/5b78c5275ffd20862324ad8e/t/622a4c8d8249442d34b49b5d/1646939277961/ArchNewSinew.jpg"
+
 
 export default function Issue2Bios() {
   return (

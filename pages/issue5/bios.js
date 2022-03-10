@@ -8,7 +8,8 @@ import styles from '../../styles/Bios.module.css'
 Issue5Bios.title = "issue5_bios — new_sinews"
 Issue5Bios.pieceName = "issue5_bios — new_sinews"
 Issue5Bios.description = "_contributor bios_new sinews_issue5_"
-Issue5Bios.image = "https://photos.google.com/photo/AF1QipO6GZoLy5IqCzmK71XDtPL_alOr-2rs6xWwYRLt"
+Issue5Bios.image = "https://static1.squarespace.com/static/5b78c5275ffd20862324ad8e/t/622a4c8d8249442d34b49b5d/1646939277961/ArchNewSinew.jpg"
+
 
 export default function Issue5Bios() {
   return (
