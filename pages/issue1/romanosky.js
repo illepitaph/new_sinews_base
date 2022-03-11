@@ -8,7 +8,7 @@ import styles from '../../styles/Romanosky.module.css'
 Romanosky.title = "christa_romanosky ~ three_poems — new_sinews"
 Romanosky.pieceName = "christa_romanosky ~ three_poems — new_sinews"
 Romanosky.description = "_Christa Romanosky_3 poems_EXTINCTION OPUS NO. 16+EXTINCTION OPUS NO. 17+THE WOMAN WHO CLIMBED THE BEANSTALK_new_sinews _issue1_"
-Romanosky.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622ba709be74296de4a82463/1647027977364/RomanoskyBackground.jpg"
+Romanosky.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622ac6aef1f90326fe0cb517/1646970543180/HowFarBackground.jpg"
 
 export default function Romanosky() {
   return (

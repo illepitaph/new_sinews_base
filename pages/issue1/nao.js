@@ -7,7 +7,7 @@ import { text } from '../../GalleryData/TwoEyesCarouselData'
 Nao.title = "vi_khi_nao ~ two_eyes_in_one_eye: a_delirium — new_sinews";
 Nao.pieceName = "vi_khi_nao ~ two_eyes_in_one_eye: a_delirium — new_sinews"
 Nao.description = "_Vi Khi Nao_2 EYES IN 1 EYE: A DELIRIUM_poetry_new_sinews _issue1_"
-Nao.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622ba74169a4891872f5867c/1647028033939/NaoBackground.jpg"
+Nao.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622b8cad0a546a03c446d0b4/1647021230044/CorraoBackground.jpg"
 
 export default function Nao() {
 
