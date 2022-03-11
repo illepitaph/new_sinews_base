@@ -9,7 +9,7 @@ import styles from '../../styles/Strauss.module.css'
 Strauss.title = "adam_strauss ~ five_poems — new_sinews"
 Strauss.pieceName = "adam_strauss ~ five_poems — new_sinews"
 Strauss.description = "_Adam Strauss_5 poems_GREY AS IT BREAKS TO BARE CANVAS+DUCK YOLK DYED SCRIM FOR SEEING+TOUCHTONE+SLIVERY SILVERS+RESPIRATION RUSTS GLOSSY_new_sinews _issue2_"
-Strauss.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622ba3dee7901e7f06956c65/1647027166622/StraussBackground.jpg"
+Strauss.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622ad11c264ebd62d9a470fa/1646973213082/i-2.jpg"
 
 
 export default function Strauss() {

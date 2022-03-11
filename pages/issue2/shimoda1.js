@@ -7,7 +7,7 @@ import { tombModelOneText } from '../../GalleryData/TombModelCarouselData.js'
 TombModelOne.title = "brandon_shimoda ~ place_is_our_destitute_imperative — new_sinews"
 TombModelOne.pieceName = "brandon_shimoda ~ place_is_our_destitute_imperative — new_sinews"
 TombModelOne.description = "_place is our new destitute imperative_Brandon Shimoda_new sinews_issue2_"
-TombModelOne.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622ba38720791d70660467ff/1647027080254/TombBackground.jpg"
+TombModelOne.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622acf84d059317aea1b19d3/1646972804798/H.jpg"
 
 
 export default function TombModelOne() {

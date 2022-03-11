@@ -7,7 +7,7 @@ import { tombModelThreeText } from '../../GalleryData/TombModelCarouselData.js'
 TombModelThree.title = "brandon_shimoda ~ don't_forget_that_for_now_it's_strawberry_season_yes._ — new_sinews"
 TombModelThree.pieceName = "brandon_shimoda ~ don't_forget_that_for_now_it's_strawberry_season_yes._ — new_sinews"
 TombModelThree.description = "_don’t forget that for now it’s strawberry season. yes_Brandon Shimoda_new sinews_issue2_"
-TombModelThree.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622ba38720791d70660467ff/1647027080254/TombBackground.jpg"
+TombModelThree.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622acf84d059317aea1b19d3/1646972804798/H.jpg"
 
 export default function TombModelThree() {
   const [textArrayIndex, setTextArrayIndex] = useState(0);
