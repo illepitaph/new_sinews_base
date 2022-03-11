@@ -178,12 +178,12 @@
 
 @media (width:1180px) and (height:820px) {
 
-  .siteNav > .dropDown > button, .home, .about {
+  .siteNav > .dropDown > button, .home {
     padding: 11px 6px;
     opacity:0.9;
   }
 
-  .siteNav > .dropDown > button, .home {
+  .siteNav > .dropDown > button {
     margin-right:15px;
   }
 
@@ -192,13 +192,13 @@
 
 @media (width:1080px) and (height:810px) {
 
-  .siteNav > .dropDown > button, .home, .about {
+  .siteNav > .dropDown > button, .home {
     padding: 16px 9px;
     font-size:0.8rem;
     opacity:0.9;
   }
 
-  .siteNav > .dropDown > button, .home {
+  .siteNav > .dropDown > button {
     margin-right:15px;
   }
 
@@ -222,7 +222,7 @@
     margin-right:2%;
   }
 
-  .siteNav > .dropDown > button, .home, .about {
+  .siteNav > .dropDown > button, .home {
     font-size:0.8rem;
   }
 
@@ -231,7 +231,7 @@
 
 @media (width:1024px) and (height:768px) {
 
-  .siteNav > .dropDown > button, .home, .about {
+  .siteNav > .dropDown > button, .home {
     padding: 9px 5px;
     opacity:0.9;
   }
@@ -241,7 +241,7 @@
 
 @media (width:1024px) and (height:600px) {
 
-  .siteNav > .dropDown > button, .home, .about {
+  .siteNav > .dropDown > button, .home {
     padding: 9px 5px;
     opacity:0.9;
   }
@@ -268,10 +268,10 @@
     display:inline-flex;
     flex-flow:column wrap;
     justify-content:flex-end;
-    margin:4vh 6vw 0 0 ;
+    margin:6vh 6vw 0 0 ;
   }
 
-  .siteNav > .dropDown > button, .home, .about {
+  .siteNav > .dropDown > button, .home {
     width:6rem;
     font-size:0.8rem;
     margin-bottom:2vh;
@@ -299,7 +299,7 @@
     width:85vw;
   }
 
-  .siteNav > .dropDown > button, .home, .about {
+  .siteNav > .dropDown > button, .home {
       padding:6px 11px;
       width:5.5rem;
       font-size:0.7rem;
@@ -315,7 +315,7 @@
     width:99vw;
   }
 
-  .siteNav > .dropDown > button, .home, .about {
+  .siteNav > .dropDown > button, .home {
       width:5rem;
       font-size:0.6rem;
   }
@@ -328,7 +328,7 @@
      font-size:1.5rem;
    }
 
-   .siteNav > .dropDown > button, .home, .about {
+   .siteNav > .dropDown > button, .home {
        padding:7px 4px;
        width:4.9rem;
        font-size:0.6rem;
@@ -343,7 +343,7 @@
      font-size:1.5rem;
    }
 
-   .siteNav > .dropDown > button, .home, .about {
+   .siteNav > .dropDown > button, .home {
        padding:5px 3px;
    }
 
@@ -368,7 +368,7 @@
 
  @media (max-width: 290px) and (orientation:portrait) {
 
-   .siteNav > .dropDown > button, .home, .about {
+   .siteNav > .dropDown > button, .home {
      width:5.3rem;
      font-size:0.6rem;
      padding:5px 9px;

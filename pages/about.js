@@ -2,6 +2,7 @@ import Head from 'next/head'
 import Link from 'next/link'
 import Image from 'next/image'
 import React, {useState} from 'react'
+import JpegBox1 from '../components/jpegBox1'
 import Footer from '../components/footer.js'
 import styles from '../styles/About.module.css'
 import SiracusaWall from '../public/images/SiracusaWall.jpg'
@@ -138,61 +139,13 @@ return (
             </div>
           </div>
             <Link href="/" passHref><button className={styles.home}>new sinews</button></Link>
-      <Link href="/about" passHref><button className={styles.about}>about</button></Link>
       </nav>
     </div>
 </section>
     <section className={styles.middle}>
 <p><span className={styles.darkTypeface}>edited +++ programmed +++ designed by :: steve barbaro</span></p>
 
-<div className={styles.imageContainer}>
-<Image src={SiracusaWall} width={140} height={110}
-layout={`intrinsic`} alt="new_sinews children-playing-in-front-of-a-wall icon"/>
-<Image src={Bubbles} width={140} height={110}
-layout={`intrinsic`} alt="new_sinews bubbles-on-plastic icon"/>
-<Image src={Face} width={130} height={110}
-layout={`intrinsic`} alt="new_sinews deity icon"/>
-<Image src={Security} width={100} height={110}
-layout={`intrinsic`} alt="new_sinews securitycam icon"/>
-<Image src={ArchaicEntity} width={100} height={110}
-layout={`intrinsic`} alt="new_sinews fossil icon"/>
-<Image src={SiracusaWall} width={140} height={110}
-layout={`intrinsic`} alt="new_sinews children-playing-in-front-of-a-wall icon"/>
-<Image src={Security} width={100} height={110}
-layout={`intrinsic`} alt="new_sinews securitycam icon"/>
-<Image src={Face} width={130} height={110}
-layout={`intrinsic`} alt="new_sinews deity icon"/>
-<Image src={Security} width={100} height={110}
-layout={`intrinsic`} alt="new_sinews securitycam icon"/>
-<Image src={ArchaicEntity} width={100} height={110}
-layout={`intrinsic`} alt="new_sinews fossil icon"/>
-<Image src={Bubbles} width={140} height={110}
-layout={`intrinsic`} alt="new_sinews bubbles-on-plastic icon"/>
-<Image src={ArchaicEntity} width={100} height={110}
-layout={`intrinsic`} alt="new_sinews fossil icon"/>
-<Image src={Face} width={130} height={110}
-layout={`intrinsic`} alt="new_sinews deity icon"/>
-<Image src={Bubbles} width={140} height={110}
-layout={`intrinsic`} alt="new_sinews bubbles-on-plastic icon"/>
-<Image src={SiracusaWall} width={140} height={110}
-layout={`intrinsic`} alt="new_sinews children-playing-in-front-of-a-wall icon"/>
-<Image src={Security} width={100} height={110}
-layout={`intrinsic`} alt="new_sinews securitycam icon"/>
-<Image src={ArchaicEntity} width={100} height={110}
-layout={`intrinsic`} alt="new_sinews fossil icon"/>
-<Image src={SiracusaWall} width={140} height={110}
-layout={`intrinsic`} alt="new_sinews children-playing-in-front-of-a-wall icon"/>
-<Image src={ArchaicEntity} width={100} height={110}
-layout={`intrinsic`} alt="new_sinews fossil icon"/>
-<Image src={Bubbles} width={140} height={110}
-layout={`intrinsic`} alt="new_sinews bubbles-on-plastic icon"/>
-<Image src={Security} width={100} height={110}
-layout={`intrinsic`} alt="new_sinews securitycam icon"/>
-<Image src={Face} width={130} height={110}
-layout={`intrinsic`} alt="new_sinews deity icon"/>
-
-
-</div>
+<JpegBox1/>
 
 
 <p>send poems & fiction (very much open to speculative/fantasy) or even aggressively
