@@ -7,6 +7,7 @@ import styles from '../../styles/Dusk.module.css'
 Dusk.title = "vi_khi_nao ~ retrieve_the_dusk — new_sinews"
 Dusk.pieceName = "vi_khi_nao ~ retrieve_the_dusk — new_sinews"
 Dusk.description = "_Vi Khi Nao_poetry_RETRIEVE THE DUSK_new_sinews_issue3_"
+Dusk.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622b881f47410908434cc074/1647020063654/DuskBackground.jpg"
 
 export default function Dusk() {
   return (
