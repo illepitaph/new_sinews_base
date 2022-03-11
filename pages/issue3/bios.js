@@ -69,7 +69,7 @@ export default function Issue3Bios() {
    the Rusty Toque Chapbook Prize), and <cite><strong>Six Poems from the Codex Mojaodicus</strong></cite> (winner of the Seven
    Kitchens Press Rane Arroyo Poetry Prize). His work has appeared in the <i>Best Experimental Writing</i>, <i>Anomaly</i>,
    <i> Asymptote</i>, <i>Berkeley Poetry Review</i>, <i>Fence</i>, <i>MAKE</i>, <i>The Offing</i>, and <i>Waxwing</i>. Follow
-   Steven on Instagram <a className={styles.biosExternalLink} target="_blank" rel="noreferrer"
+   Steven on Instagram <br/><a className={styles.biosExternalLink} target="_blank" rel="noreferrer"
    href="https://www.instagram.com/stevenpaulalvarez">@stevenpaulalvarez</a> and on Twitter <a
    className={styles.biosExternalLink} target="_blank" rel="noreferrer" href="https://twitter.com/Chastitellez">@chastitellez</a>
    <br/>
