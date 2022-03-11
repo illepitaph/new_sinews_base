@@ -7,6 +7,7 @@ import { krumrieText } from '../../GalleryData/KrumrieCarouselData.js'
 Krumrie.title = "kelly_krumrie ~ selections_from_'no_measure' — new_sinews"
 Krumrie.pieceName = "kelly_krumrie ~ selections_from_'no_measure' — new_sinews"
 Krumrie.description = "_Kelly Krumrie_poetry_SELECTIONS FROM NO MEASURE_new_sinews_issue3"
+Krumrie.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622b8a8f109bbc170e498a9c/1647020687634/KrumrieBackground.jpg"
 
 export default function Krumrie() {
   const [textArrayIndex, setTextArrayIndex] = useState(0);
