@@ -4,6 +4,7 @@ import styles from '../../styles/issue1.module.css'
 Issue1.title = "new_sinews issue1"
 Issue1.pieceName = "new_sinews issue1"
 Issue1.description = "_newsinews_issue1_Sarah Gridley+Tongo Eisen-Martin+Gabriel Blackwell+Christa Romanosky+Vi Khi Nao"
+Issue1.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622ba1e73a5e7d208dc6518d/1647026664181/Screen+Shot+2022-03-11+at+1.22.52+PM.jpg"
 
 export default function Issue1() {
   return (
