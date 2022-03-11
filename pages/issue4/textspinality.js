@@ -8,7 +8,7 @@ import styles from '../../styles/TextSpinality.module.css'
 TextSpinality.title = "mike_corrao ~ text_spinality — new_sinews"
 TextSpinality.pieceName = "mike_corrao ~ text_spinality — new_sinews"
 TextSpinality.description = "_Mike Corrao_fiction_TEXT SPINALITY_new_sinews_issue4_"
-TextSpinality.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622ae180e8a25144d7271427/1646977408445/TextSpinalityBackground.jpg"
+TextSpinality.image = "https://static1.squarespace.com/static/5b78c5275ffd20862324ad8e/t/622a4c8d8249442d34b49b5d/1646939277961/ArchNewSinew.jpg"
 
 export default function TextSpinality() {
   return (
