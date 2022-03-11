@@ -9,6 +9,7 @@ import styles from '../../styles/Gridley.module.css'
 Gridley.title = "sarah_gridley ~ poems from insofar — new_sinews"
 Gridley.pieceName = "sarah_gridley ~ poems from insofar — new_sinews"
 Gridley.description = "_Sarah Gridley_4 poems_DO NO HARM+UNSOUND SUPPOSITION+COMPOUNDING PHARMACY+CHAIR_new_sinews _issue1_"
+Gridley.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622b9cfe5c0bcb5f1158ed1a/1647025406646/GridleyBackground.jpg"
 
 export default function Gridley() {
   return (
