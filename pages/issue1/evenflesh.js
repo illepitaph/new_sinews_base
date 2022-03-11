@@ -8,6 +8,7 @@ import styles from '../../styles/EssayMode.module.css'
 EvenFlesh.title = "even flesh seems a formality_or: Vi Khi Nao's organic oscillations — new_sinews"
 EvenFlesh.pieceName = "even flesh seems a formality_or: Vi Khi Nao's organic oscillations — new_sinews"
 EvenFlesh.description = "_Vi Khi Nao's organic oscillations_Steve Barbaro_criticism_new sinews_issue1_"
+EvenFles.image = "https://static1.squarespace.com/static/5b78c5275ffd20862324ad8e/t/622a4c8d8249442d34b49b5d/1646939277961/ArchNewSinew.jpg"
 
 export default function EvenFlesh() {
   return (
