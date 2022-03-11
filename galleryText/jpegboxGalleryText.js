@@ -7,6 +7,7 @@ import ArchaicEntity from '../public/images/ArchaicEntity.jpg'
 
 export default function JpegBox1() {
   return (
+    <>
     <div className={styles.jpegBox1}>
 
     <img src="images/SiracusaWall.jpg" alt="new_sinews children-playing-in-front-of-a-wall icon"></img>
@@ -33,5 +34,6 @@ export default function JpegBox1() {
     <img src="images/ArchaicEntity.jpg" alt="new_sinews fossil icon"></img>
 
 </div>
+</>
   );
 }
