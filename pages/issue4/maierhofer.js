@@ -7,6 +7,7 @@ import styles from '../../styles/Maierhofer.module.css'
 Maierhofer.title = "grant_maierhofer ~ in_the_time_when_my_memory_fixated_on_the_death_of_princess_diana — new_sinews"
 Maierhofer.pieceName = "grant_maierhofer ~ in_the_time_when_my_memory_fixated_on_the_death_of_princess_diana — new_sinews"
 Maierhofer.description = "_Grant Maierhofer_fiction_IN THE TIME WHEN MY MEMORY FIXATED ON THE DEATH OF PRINCESS DIANA_new_sinews_issue4_"
+Maierhofer.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622ac7883bdf5130f1cb4d55/1646970760473/MaierhoferBackground.jpg"
 
 export default function Maierhofer() {
   return (

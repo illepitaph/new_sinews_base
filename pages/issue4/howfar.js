@@ -6,6 +6,7 @@ import styles from '../../styles/HowFar.module.css'
 HowFar.title = "christa_romanosky ~ how_far_you_can_get_on_an_empty_tank_of_gas — new_sinews"
 HowFar.pieceName = "christa_romanosky ~ how_far_you_can_get_on_an_empty_tank_of_gas — new_sinews"
 HowFar.description = "_Christa Romanosky_fiction_HOW FAR YOU CAN GET ON AN EMPTY TANK OF GAS_new_sinews_issue4_"
+HowFar.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622ac6aef1f90326fe0cb517/1646970543180/HowFarBackground.jpg"
 
 export default function HowFar() {
   return (

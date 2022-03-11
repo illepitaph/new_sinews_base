@@ -8,6 +8,7 @@ import styles from '../../styles/Guanyin.module.css'
 Guanyin.title = "k-ming_chang ~ guanyin — new_sinews"
 Guanyin.pieceName = "k-ming_chang ~ guanyin — new_sinews"
 Guanyin.description = "_K-Ming Chang_fiction_GUANYIN_new_sinews_issue4_"
+Guanyin.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622ac63f82caf830b5c5ec2a/1646970431804/GuanyinBackground.jpg"
 
 export default function Guanyin() {
   return (

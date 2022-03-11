@@ -7,6 +7,7 @@ import styles from '../../styles/Hummel.module.css'
 Hummel.title = "allison_hummel ~ the_fires_are_back // i_look_at_sauce // untitled // comfort_like_the — new_sinews"
 Hummel.pieceName = "allison_hummel ~ the_fires_are_back // i_look_at_sauce // untitled // comfort_like_the — new_sinews"
 Hummel.description = "_Allison Hummel_poetry_THE FIRES ARE BACK+I LOOK AT SAUCE+UNTITLED+COMFORT LIKE THE_new_sinews_issue4_"
+Hummel.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622ac71f3f4d1a465fbbb19c/1646970655482/HummelBackground.jpg"
 
 export default function Hummel() {
   return (
