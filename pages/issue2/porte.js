@@ -8,6 +8,7 @@ import styles from '../../styles/Porte.module.css'
 Porte.title = "rebecca_ariel_porte ~ portraits_of_some_persons_as_imaginary_cities — new_sinews"
 Porte.pieceName = "rebecca_ariel_porte ~ portraits_of_some_persons_as_imaginary_cities — new_sinews"
 Porte.description = "_Rebecca Ariel Porte_PORTRAITS OF SOME PERSONS AS IMAGINARY CITIES_fiction_new_sinews _issue2_"
+Porte.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622b8fba456e53330118fccc/1647022011068/PorteBackground.jpg"
 
 export default function Porte() {
   return (

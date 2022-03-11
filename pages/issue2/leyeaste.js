@@ -7,6 +7,7 @@ import { leYeasteText } from '../../GalleryData/LeYeasteCarouselData.js'
 LeYeaste.title = "vi_khi_nao ~ le_yeaste — new_sinews"
 LeYeaste.pieceName = "vi_khi_nao ~ le_yeaste — new_sinews"
 LeYeaste.description = "_Vi Khi Nao_LE YEASTE_poetry_new_sinews _issue2_"
+LeYeaste.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622b8f9b6eddcc151039b001/1647021979741/LeYeasteBackground.jpg"
 
 export default function LeYeaste() {
   const [textArrayIndex, setTextArrayIndex] = useState(0);

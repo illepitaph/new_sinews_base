@@ -8,6 +8,7 @@ import styles from '../../styles/EssayMode.module.css'
 SalutingAHex.title = "saluting a hex of gangrenous sky_or: Brandon Shimoda's ritual inversions — new_sinews"
 SalutingAHex.pieceName = "saluting a hex of gangrenous sky_or: Brandon Shimoda's ritual inversions — new_sinews"
 SalutingAHex.description = "_saluting a hex of gangrenous sky_Brandon Shimoda's ritual inversions_criticism_Steve Barbaro_new sinews_issue2_"
+SalutingAHex.image = "https://static1.squarespace.com/static/5b78c5275ffd20862324ad8e/t/622a4c8d8249442d34b49b5d/1646939277961/ArchNewSinew.jpg"
 
 export default function SalutingAHex() {
   return (

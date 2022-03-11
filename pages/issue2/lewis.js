@@ -7,6 +7,7 @@ import { lewisText } from '../../GalleryData/LewisCarouselData'
 Lewis.title = "susan_lewis ~ two poems — new_sinews"
 Lewis.pieceName = "susan_lewis ~ two poems — new_sinews"
 Lewis.description = "_Susan Lewis_2 poems_THE AGGREGATE OF FLOWN FUR+SIMPLE PLEASURES_new_sinews _issue2_"
+Lewis.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622b8f733fefd84c134a7d01/1647021939655/LewisBackground.jpg"
 
 
 export default function Lewis() {
