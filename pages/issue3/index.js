@@ -4,7 +4,7 @@ import styles from '../../styles/Issue3.module.css'
 Issue3.title = "new_sinews issue3"
 Issue3.pieceName = "new_sinews issue3"
 Issue3.description = "_newsinews_issue3_Vi Khi Nao+Cary Stough+Sara Deniz Akant+Steven Alvarez+Megan Jeanne Gette+Kelly Krumrie+Shome Dasgupta+Mike Corrao_"
-Issue3.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622b8d947e401813602dd6b5/1647021460643/wh.jpg"
+Issue3.image = "https://static1.squarespace.com/static/5b78c5275ffd20862324ad8e/t/622a4c8d8249442d34b49b5d/1646939277961/ArchNewSinew.jpg"
 
 export default function Issue3() {
   return (
