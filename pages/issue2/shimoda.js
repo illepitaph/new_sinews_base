@@ -8,6 +8,7 @@ import styles from '../../styles/TombModel.module.css'
 TombModelCover.title = "brandon_shimoda ~ excerpts_from_TOMB_MODEL_OF_A_NOBEL'S_HOUSE — new_sinews"
 TombModelCover.pieceName = "brandon_shimoda ~ excerpts_from_TOMB_MODEL_OF_A_NOBEL'S_HOUSE — new_sinews"
 TombModelCover.description = "_Brandon Shimoda_excerpts from ‘tomb model of a nobel’s house’_new sinews_issue2_"
+TombModelCover.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622ba38720791d70660467ff/1647027080254/TombBackground.jpg"
 
 export default function TombModelCover() {
   return (

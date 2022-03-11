@@ -7,7 +7,7 @@ import { zamoraText } from '../../GalleryData/ZamoraCarouselData'
 Zamora.title = "felicia_zamora ~ selections_from_'quotient' — new_sinews"
 Zamora.pieceName = "felicia_zamora ~ selections_from_'quotient' — new_sinews"
 Zamora.description = "_Felicia Zamora_selections from ‘quotient’_poetry_new_sinews _issue2_"
-
+Zamora.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622ba42668c34561f6edbccc/1647027238300/ZamoraBackground.jpg"
 
 export default function Zamora() {
   const [textArrayIndex, setTextArrayIndex] = useState(0);
