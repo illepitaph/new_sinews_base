@@ -9,7 +9,7 @@ import Footer from '../../components/footer.js'
 Briante.title = "susan_briante ~ two_poems — new_sinews"
 Briante.pieceName = "susan_briante ~ two_poems — new_sinews"
 Briante.description = "_Susan Briante_2 poems_MAY DAY+GALLERY WALLS new_sinews _issue2_"
-Briante.image = "https://static1.squarespace.com/static/5b78c5275ffd20862324ad8e/t/622a4c8d8249442d34b49b5d/1646939277961/ArchNewSinew.jpg"
+Briante.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622b948a308af73c7581c54b/1647023242382/BrianteBackground.jpg"
 
 export default function Briante() {
   return (
