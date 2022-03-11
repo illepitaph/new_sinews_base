@@ -8,6 +8,7 @@ import styles from '../../styles/PoemsBorn.module.css'
 PoemsBorn.title = "vi_khi_nao ~ poems_born_from_basic_words — new_sinews"
 PoemsBorn.pieceName = "vi_khi_nao ~ poems_born_from_basic_words — new_sinews"
 PoemsBorn.description = "_Vi Khi Nao_poetry_POEMS BORN FROM BASIC WORDS_new_sinews_issue4_"
+PoemsBron.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622ad785109eab3d9d4ad99b/1646974853724/PoemsBornBackground.jpg"
 
 export default function PoemsBorn() {
   return (
