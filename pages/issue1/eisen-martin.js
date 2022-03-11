@@ -7,6 +7,7 @@ import styles from '../../styles/EisenMartin.module.css'
 Eisen_Martin.title = "tongo_eisen-martin ~ two_poems — new_sinews"
 Eisen_Martin.pieceName = "tongo_eisen-martin ~ two_poems — new_sinews"
 Eisen_Martin.description = "Tongo Eisen-Martin_2 Poems_FISH WITH AMBITION TO BECOME THE RIVER+TWO NIGHTS ON 16TH STREET_new_sinews _issue1_"
+Eisen_Martin.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622b96dd4c9a44536d37713c/1647023837874/EisenMartinBackground.jpg"
 
 export default function Eisen_Martin() {
   return (
