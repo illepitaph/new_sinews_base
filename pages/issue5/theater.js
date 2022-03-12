@@ -6,7 +6,7 @@ import styles from '../../styles/Theater.module.css'
 import { theaterText } from '../../GalleryData/TheaterCarouselData.js'
 TheaterOfMaterials.title = "mike_corrao ~ theater_of_materials — new_sinews"
 TheaterOfMaterials.pieceName = "mike_corrao ~ theater_of_materials — new_sinews"
-TheaterOfMaterials.description = "_Mike_Corrao_fiction_THEATER OF MATERIALS_new_sinews_issue5_"
+TheaterOfMaterials.description = "_Mike_Corrao_fiction_THEATEROFMATERIALS_new_sinews_issue5_"
 TheaterOfMaterials.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622a4f5489b8407c883a8498/1646939988661/TheaterHeader.jpg"
 
 export default function TheaterOfMaterials() {

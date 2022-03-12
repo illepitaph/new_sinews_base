@@ -31,7 +31,7 @@ export default function Feldman() {
       <RightGrayTitle><span className={styles.faintShadowAncillary}>co<span
       className={styles.uppercaseFaintShadow}>m</span>m<span
       className={styles.alternateTitleColor}>i</span><span
-      className={styles.uppercaseFaintShadow}>tt</span>m<span
+      className={styles.uppercaseFaintShadow}>t</span>m<span
       className={styles.uppercaseFaintShadow}>e</span>n<span
       className={styles.uppercaseAlternateTitleColor}>t</span></span></RightGrayTitle>
       <StandardProse>
