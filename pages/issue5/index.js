@@ -4,7 +4,7 @@ import styles from '../../styles/Issue5.module.css'
 Issue5.title = "new_sinews issue5"
 Issue5.pieceName = "new_sinews issue5"
 Issue5.description = "_newsinews issue5_Julia Shiota+Mike Corrao+Vi Khi Nao+Jessica Alexander+Samuel Moss+Steven Alvarez+Jaqueline Feldman+Alvin Lu+Delia Rainey+Paul Bisagni"
-Issue5.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622a5e7b35e6270585a2e101/1646943868264/Screen+Shot+2022-03-10+at+1.32.20+PM-2.jpg"
+Issue5.image = "https://static1.squarespace.com/static/5b78c5275ffd20862324ad8e/t/623351da83ab6a58cc676da0/1647530459276/1.jpg"
 
 export default function Issue5() {
   return (
