@@ -8,7 +8,7 @@ import styles from '../../styles/Feldman.module.css'
 Feldman.title = "jacqueline_feldman ~ passel: eight stories — new_sinews"
 Feldman.pieceName = "jacqueline_feldman ~ passel: eight stories — new_sinews"
 Feldman.description = "_Jacqueline Feldman_fiction_PASSEL:8+STORIES_news_sinews_issue5_"
-Feldman.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622a514c7461673541bcefa9/1646940492683/FeldmanBackground.jpg"
+Feldman.image = "https://static1.squarespace.com/static/5b78c5275ffd20862324ad8e/t/6234c1cde64461477c7c7ac0/1647624653349/FeldmanBackground.jpg"
 
 
 export default function Feldman() {
