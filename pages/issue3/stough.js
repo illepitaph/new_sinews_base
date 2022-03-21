@@ -8,7 +8,7 @@ import styles from '../../styles/Stough.module.css'
 Stough.title = "cary_stough ~ balance_sheet — new_sinews"
 Stough.pieceName = "cary_stough ~ balance_sheet — new_sinews"
 Stough.description = "_Cary Stough_lyric~memoir_BALANCE SHEET_new_sinews_issue3_"
-Stough.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622b8ad7e6eb730ca69d7c0e/1647020759198/StoughBackground.jpg"
+Stough.image = "https://www.newnewsinews.com/images/StoughBackground.jpg"
 
 export default function Stough() {
   return (

@@ -7,7 +7,7 @@ import { ovidText } from '../../GalleryData/OvidCarouselData.js'
 Ovid.title = "mike_corrao ~ ovidian_dynamics — new_sinews"
 Ovid.pieceName = "mike_corrao ~ ovidian_dynamics — new_sinews"
 Ovid.description = "_Mike Corrao_fiction_OVIDIAN DYNAMICS_new_sinews_issue3_"
-Ovid.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622b7ef8f5417a22158d3b02/1647017720123/OvidBackground.jpg"
+Ovid.image = "https://www.newnewsinews.com/images/OvidBackground.jpg"
 
 
 export default function Ovid() {

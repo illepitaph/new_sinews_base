@@ -20,7 +20,7 @@ import Gette11 from '../../public/images/Gette11.jpg'
 Gette.title = "megan_jeanne_gette ~ summoning_green, a_leprosy_of_the_heart  — new_sinews"
 Gette.pieceName = "megan_jeanne_gette ~ summoning_green, a_leprosy_of_the_heart  — new_sinews"
 Gette.description = "_Megan Jeanne Gette_poetry_hybrid_SUMMONING GREEN, A LEPROSY OF THE HEART_new_sinews_issue3_"
-Gette.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622b884dfa862511b5ea3ac3/1647020109602/GetteBackground.jpg"
+Gette.image = "https://www.newnewsinews.com/images/GetteBackground.jpg"
 
 
 export default function Gette() {

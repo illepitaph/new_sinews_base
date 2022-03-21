@@ -8,7 +8,7 @@ import styles from '../../styles/Alvarez.module.css'
 Alvarez.title = "steven_alvarez ~ data | blood // zero progress silhouette — new_sinews"
 Alvarez.pieceName = "steven_alvarez ~ data | blood // zero progress silhouette — new_sinews"
 Alvarez.description = "Steven Alvarez_2 poems_DATA | BLOOD+ZERO PROGRESS SILHOUETTE_new_sinews_issue3_"
-Alvarez.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622b7ede5760a138ed62966d/1647017694381/AlvarezBackground.jpg"
+Alvarez.image = "https://www.newnewsinews.com/images/AlvarezBackground.jpg"
 
 export default function Alvarez() {
   return (

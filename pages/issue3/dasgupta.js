@@ -8,7 +8,7 @@ import styles from '../../styles/Dasgupta.module.css'
 Dasgupta.title = "shome_dasgupta ~ remember_nothing — new_sinews"
 Dasgupta.pieceName = "shome_dasgupta ~ remember_nothing — new_sinews"
 Dasgupta.description = "_Shome Dasgupta_fiction_REMEMBER NOTHING_new_sinews_issue3_"
-Dasgupta.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622b7f1b00bbc00830c5b4fe/1647017755373/DasguptaBackground.jpg"
+Dasgupta.image = "https://www.newnewsinews.com/images/DasguptaBackground.jpg"
 
 export default function Dasgupta() {
   return (
