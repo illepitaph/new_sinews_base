@@ -8,7 +8,7 @@ import styles from '../../styles/Rat.module.css'
 Rat.title = "brandon_shimoda ~ the_hour_of_the_rat — new_sinews"
 Rat.pieceName = "brandon_shimoda ~ the_hour_of_the_rat — new_sinews"
 Rat.description = "_Brandon Shimoda_poetry_THE HOUR OF THE RAT_new_sinews_issue4_"
-Rat.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622aa37b158dad30a6043b8b/1646961531861/RatBackground.jpg"
+Rat.image = "https://www.newnewsinews.com/images/RatBackground.jpg"
 
 export default function Rat() {
   return (

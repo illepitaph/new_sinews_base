@@ -4,7 +4,7 @@ import styles from '../../styles/Issue4.module.css'
 Issue4.title = "new_sinews issue4"
 Issue4.pieceName = "new_sinews issue4"
 Issue4.description = "_newsinews_issue4_Brandon Shimoda+K-Ming Chang+Evan Isoline+Christa Romanosky+Gabriel Palacios+Allison Hummel+Mike Corrao+Vi Khi Nao+Grant Maierhofer_"
-Issue4.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622a938402f71b7ed41ab7ab/1646957446875/Screen+Shot+2022-03-10+at+6.06.07+PM.png"
+Issue4.image = "https://www.newnewsinews.com/images/Issue4Cover.jpg"
 
 export default function Issue4() {
   return (

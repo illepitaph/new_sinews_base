@@ -7,7 +7,7 @@ import styles from '../../styles/Palacios.module.css'
 Palacios.title = "gabriel_palacios ~ poems_from_lunar_hilton_elegy — new_sinews"
 Palacios.pieceName = "gabriel_palacios ~ poems_from_lunar_hilton_elegy — new_sinews"
 Palacios.description = "_Gabriel Palacios_poetry_POEMS FROM LUNAR HILTON ELEGY_new_sinews_issue4_"
-Palacios.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622ad68984d02e5ff31bc007/1646974601477/PalaciosBackground.jpg"
+Palacios.image = "https://www.newnewsinews.com/images/TextSpinalityBackground.jpg"
 
 export default function Palacios() {
   return (

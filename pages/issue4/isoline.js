@@ -7,7 +7,7 @@ import styles from '../../styles/Isoline.module.css'
 Isoline.title = "evan_isoline ~ as_foam_from_this_sweet_hour — new_sinews"
 Isoline.pieceName = "evan_isoline ~ as_foam_from_this_sweet_hour — new_sinews"
 Isoline.description = "_Evan Isoline_poetry_AS FOAM FROM THIS SWEET HOUR_new_sinews_issue4_"
-Isoline.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622ad11c264ebd62d9a470fa/1646973213082/i-2.jpg"
+Isoline.image = "https://www.newnewsinews.com/images/IsolineBackground.jpg"
 
 export default function Isoline() {
   return (
