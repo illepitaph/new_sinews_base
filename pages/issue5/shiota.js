@@ -6,7 +6,7 @@ import styles from '../../styles/Shiota.module.css'
 Shiota.title = "julia_shiota ~ in_the_beginning_she_was_the_sun — new_sinews"
 Shiota.pieceName = "julia_shiota ~ in_the_beginning_she_was_the_sun — new_sinews"
 Shiota.description = "_Julia Shiota_fiction_IN THE BEGINNING SHE WAS THE SUN_new_sinews_issue5_"
-Shiota.image = "https://static1.squarespace.com/static/5b78c5275ffd20862324ad8e/t/6234c18cdd5b6939a5811ed4/1647624588247/ShiotaBackground.jpg"
+Shiota.image = "https://www.newnewsinews.com/images/ShiotaBackground.jpg"
 
 export default function Shiota() {
   return (

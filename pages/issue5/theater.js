@@ -7,7 +7,7 @@ import { theaterText } from '../../GalleryData/TheaterCarouselData.js'
 TheaterOfMaterials.title = "mike_corrao ~ theater_of_materials — new_sinews"
 TheaterOfMaterials.pieceName = "mike_corrao ~ theater_of_materials — new_sinews"
 TheaterOfMaterials.description = "_Mike_Corrao_fiction_THEATEROFMATERIALS_new_sinews_issue5_"
-TheaterOfMaterials.image = "https://static1.squarespace.com/static/5b78c5275ffd20862324ad8e/t/6234fb7390d94f200c158471/1647639412178/TheaterHeader.jpg"
+TheaterOfMaterials.image = "https://www.newnewsinews.com/images/TheaterHeader.jpg"
 
 export default function TheaterOfMaterials() {
   const [textArrayIndex, setTextArrayIndex] = useState(0);
