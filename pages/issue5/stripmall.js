@@ -8,7 +8,7 @@ import styles from '../../styles/Stripmall.module.css'
 StripMall.title = "alvin_lu ~ proposal_for_the_construction_of_an_ethnic_strip_mall — new_sinews"
 StripMall.pieceName = "alvin_lu ~ proposal_for_the_construction_of_an_ethnic_strip_mall — new_sinews"
 StripMall.description = "_Alvin Lu_fiction_PROPOSAL FOR THE CONSTRUCTION OF AN ETHNIC STRIP MALL_new_sinews_issue5_"
-StripMall.image = "https://www.newnewsinews.com/images/LuBackground.jpg"
+StripMall.image = "https://www.newnewsinews.com/images/StripMallBackground.jpg"
 
 export default function StripMall() {
   return (
