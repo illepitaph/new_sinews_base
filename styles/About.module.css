@@ -278,6 +278,10 @@
     opacity:0.9;
   }
 
+  .issueContentOpen {
+    display: none;
+  }
+
   .bottom {
     margin-top:6vh;
   }

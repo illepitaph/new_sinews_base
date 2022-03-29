@@ -258,6 +258,11 @@
     padding:9px 16px;
     opacity:0.9;
   }
+
+  .issueContentOpen {
+    display: none;
+  }
+
 }
 
 @media (max-width: 927px) and (orientation:landscape) {
