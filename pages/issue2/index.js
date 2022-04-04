@@ -4,7 +4,7 @@ import styles from '../../styles/Issue2.module.css'
 Issue2.title = "new_sinews issue2"
 Issue2.pieceName = "new_sinews issue2"
 Issue2.description = "_newsinews_issue2_Susan Briante+Mike Corrao+Felicia Zamora+Sam Taylor+Rebecca Ariel Porte+Susan Lewis+Babak Lakghomi+Vi Khi Nao+Adam Strauss+Brandon Shimoda_"
-Issue2.image = "https://www.newnewsinews.com/images/Issue2Cover.jpg"
+Issue2.image = "https://www.newnewsinews.com/images/Issue2CoverScreen.jpg"
 
 export default function Issue2() {
   return (

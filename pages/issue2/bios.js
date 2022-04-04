@@ -9,7 +9,7 @@ import styles from '../../styles/Bios.module.css'
 Issue2Bios.title = "issue2_bios — new_sinews"
 Issue2Bios.pieceName = "issue2_bios — new_sinews"
 Issue2Bios.description = "_contributor bios_new sinews_issue2_"
-Issue2Bios.image = "https://www.newnewsinews.com/images/Issue2Cover.jpg"
+Issue2Bios.image = "https://www.newnewsinews.com/images/Issue2CoverScreen.jpg"
 
 
 export default function Issue2Bios() {

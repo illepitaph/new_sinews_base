@@ -7,7 +7,7 @@ import Footer from '../../components/footer.js'
 Blackwell.title = "gabriel_blackwell ~ scenery + bedtime — new_sinews";
 Blackwell.pieceName = "gabriel_blackwell ~ scenery + bedtime — new_sinews"
 Blackwell.description = "_Gabriel Blackwell_2 Stories_SCENERY+BEDTIME_new_sinews _issue1_"
-Blackwell.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622b96c23b695d68f1f36847/1647023810216/BlackwellBackground.jpg"
+Blackwell.image = "https://www.newnewsinews.com/images/BlackwellBackground.jpg"
 
 export default function Blackwell() {
   return (
