@@ -8,7 +8,7 @@ import styles from '../../styles/Bios.module.css'
 Issue1Bios.title = "issue1_bios — new_sinews";
 Issue1Bios.pieceName = "issue1_bios — new_sinews"
 Issue1Bios.description = "_contributor bios_new sinews_issue1_"
-Issue1Bios.image = "https://static1.squarespace.com/static/5b78c5275ffd20862324ad8e/t/622a4c8d8249442d34b49b5d/1646939277961/ArchNewSinew.jpg"
+Issue1Bios.image = "https://www.newnewsinews.com/images/Issue1Cover.jpg"
 
 
 
