@@ -7,7 +7,7 @@ import { tombModelTwoText } from '../../GalleryData/TombModelCarouselData.js'
 TombModelTwo.title = "brandon_shimoda ~ we_need_to_find_the_right_geography_for_our_revelations — new_sinews"
 TombModelTwo.pieceName = "brandon_shimoda ~ we_need_to_find_the_right_geography_for_our_revelations — new_sinews"
 TombModelTwo.description = "_we need to find the right geography for our revelations_Brandon Shimoda_new sinews_issue2_"
-TombModelTwo.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622acf84d059317aea1b19d3/1646972804798/H.jpg"
+TombModelTwo.image = "https://www.newnewsinews.com/images/TombBackground.jpg"
 
 export default function TombModelTwo() {
   const [textArrayIndex, setTextArrayIndex] = useState(0);

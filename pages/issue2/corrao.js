@@ -8,7 +8,7 @@ import styles from '../../styles/Corrao.module.css'
 Corrao.title = "mike_corrao ~ the_archaelogy_of_virtual_spaces — new_sinews"
 Corrao.pieceName = "mike_corrao ~ the_archaelogy_of_virtual_spaces — new_sinews"
 Corrao.description = "_Mike Corrao_THE ARCHAEOLOGY OF VIRTUAL SPACES_fiction_new_sinews _issue2_"
-Corrao.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622b8cad0a546a03c446d0b4/1647021230044/CorraoBackground.jpg"
+Corrao.image = "https://www.newnewsinews.com/images/CorraoBackground.jpg"
 
 export default function Corrao() {
   return (

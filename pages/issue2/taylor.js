@@ -8,7 +8,7 @@ import styles from '../../styles/Taylor.module.css'
 Taylor.title = "sam_taylor ~ five_poems — new_sinews"
 Taylor.pieceName = "sam_taylor ~ five_poems — new_sinews"
 Taylor.description = "_Sam Taylor_5 poems_DANCING OF OUR OWN ERASURE+REVISION+RETURN+IF YOU FIND SOME SHARD+THE BOOK OF RUNES PART VI_new_sinews _issue2_"
-Taylor.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622ba41325623d589d69902e/1647027220029/TaylorBackground.jpg"
+Taylor.image = "https://www.newnewsinews.com/images/TaylorBackground.jpg"
 
 export default function Taylor() {
   return (

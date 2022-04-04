@@ -7,7 +7,7 @@ import Footer from '../../components/footer.js'
 Lakghomi.title = "babak_lakghomi ~ a request + say her name — new_sinews"
 Lakghomi.pieceName = "babak_lakghomi ~ a request + say her name — new_sinews"
 Lakghomi.description = "_Babak Lakghomi_2 stories_A REQUEST+SAY HER NAME_new_sinews _issue2_"
-Lakghomi.image = "https://static1.squarespace.com/static/56ffc729d210b8e9fdfebb18/t/622b8f4afdb8b47db0095745/1647021899074/LakghomiBackground.jpg"
+Lakghomi.image = "https://www.newnewsinews.com/images/LakghomiBackground.jpg"
 
 export default function Lakghomi() {
   return (
