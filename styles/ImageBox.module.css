@@ -46,3 +46,26 @@
   border:5px double #303030;
   animation: fadeIn ease-in-out 2.3s;
 }
+
+.jpegBox2 {
+  display:flex;
+  flex-flow:row wrap;
+  justify-content:flex-start;
+  row-gap:2vh;
+  margin-top:0;
+  margin:0 auto;
+  box-shadow: 3px;
+  cursor:pointer;
+}
+
+.jpegBox2 > img {
+  height:135px;
+  flex:1 1 0;
+  border:5px double gainsboro;
+  animation: fadeIn ease-in-out 1.7s;
+}
+
+.jpegBox1 > img:nth-child(even) {
+  border:5px double #303030;
+  animation: fadeIn ease-in-out 2.3s;
+}

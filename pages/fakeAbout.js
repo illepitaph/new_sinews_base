@@ -34,7 +34,7 @@ export default function About() {
     }
 
         function nextText() {
-          if (textArrayIndex < 2) {
+          if (textArrayIndex < 4) {
           setTextArrayIndex(textArrayIndex + 1);
         } else {
           setTextArrayIndex(0);
