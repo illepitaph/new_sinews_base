@@ -44,6 +44,5 @@
 
 .jpegBox1 > img:nth-child(even) {
   border:5px double #303030;
-  opacity:0.7;
   animation: fadeIn ease-in-out 2.3s;
 }
