@@ -65,7 +65,7 @@
   animation: fadeIn ease-in-out 1.7s;
 }
 
-.jpegBox1 > img:nth-child(even) {
+.jpegBox2 > img:nth-child(odd) {
   border:5px double #303030;
   animation: fadeIn ease-in-out 2.3s;
 }
