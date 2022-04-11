@@ -69,3 +69,21 @@
   border:5px double #303030;
   animation: fadeIn ease-in-out 2.3s;
 }
+
+@media and (max-width:998px) {
+
+  .jpegBox1 > img {
+    height:15px;
+  }
+
+  .jpegBox2 {
+    row-gap:1vh;
+    cursor:none;
+  }
+
+  .jpegBox2 > img {
+    height:25px;
+
+}
+
+}
