@@ -166,9 +166,8 @@ return (
     <section className={styles.middle}>
 <p><span className={styles.darkTypeface}>edited +++ programmed +++ designed by :: steve barbaro</span></p>
 
-<div onClick={prevText}>&#x29CF;<br/>&#x29CF;<br/>&#x29CF;</div>
-<div onClick={nextText}>&#x29D0;<br/>&#x29D0;<br/>&#x29D0;</div>
-<div><RawText/></div>
+<div onClick={nextText}><RawText/></div>
+
 
 
 <p>send poems & fiction (very much open to speculative/fantasy) or even aggressively

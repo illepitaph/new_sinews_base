@@ -1,15 +1,49 @@
+@keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-moz-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-webkit-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-o-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-ms-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+
 .jpegBox1 {
   display:flex;
   flex-flow:row wrap;
   justify-content:flex-start;
+  row-gap:1vh;
   margin-top:0;
-  padding-bottom:2rem;
   margin:0 auto;
   box-shadow: 3px;
+  cursor:pointer;
 }
 
 .jpegBox1 > img {
-  height:50px;
+  height:90px;
   flex:1 1 0;
-  border:2px double #303030;
+  border:5px double gainsboro;
+  animation: fadeIn ease-in-out 1.7s;
+}
+
+.jpegBox1 > img:nth-child(even) {
+  border:5px double #303030;
+  opacity:0.7;
+  animation: fadeIn ease-in-out 2.3s;
 }
