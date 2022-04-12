@@ -19,13 +19,6 @@ export default function About() {
     const [issueOneDropdownClass, setIssueOneDropdownClass] = useState("issueContentClosed");
 
       const [textArrayIndex, setTextArrayIndex] = useState(0);
-        function prevText() {
-           if (textArrayIndex > 0) {
-          setTextArrayIndex(textArrayIndex - 1);
-        } else {
-          setTextArrayIndex(imageText.length - 1);
-        }
-    }
 
         function nextText() {
           if (textArrayIndex < 5) {

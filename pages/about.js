@@ -1,14 +1,9 @@
 import Head from 'next/head'
 import Link from 'next/link'
-import Image from 'next/image'
 import React, {useState} from 'react'
 import Footer from '../components/footer.js'
 import styles from '../styles/About.module.css'
-import SiracusaWall from '../public/images/SiracusaWall.jpg'
-import Bubbles from '../public/images/Bubbles.jpg'
-import Face from '../public/images/Face.jpg'
-import Security from '../public/images/Security.jpg'
-import ArchaicEntity from '../public/images/ArchaicEntity.jpg'
+import { imageText } from '../GalleryData/ImageBoxCarouselData.js'
 About.title = "about — new_sinews";
 About.pieceName = "new_sinews about page"
 About.description = 'new_sinews ~ late empire new writing ~ submissions info + imagistic mosaistry'
@@ -22,6 +17,26 @@ export default function About() {
     const [issueThreeDropdownClass, setIssueThreeDropdownClass] = useState("issueContentClosed");
     const [issueTwoDropdownClass, setIssueTwoDropdownClass] = useState("issueContentClosed");
     const [issueOneDropdownClass, setIssueOneDropdownClass] = useState("issueContentClosed");
+
+    const [textArrayIndex, setTextArrayIndex] = useState(0);
+      function prevText() {
+         if (textArrayIndex > 0) {
+        setTextArrayIndex(textArrayIndex - 1);
+      } else {
+        setTextArrayIndex(imageText.length - 1);
+      }
+  }
+
+      function nextText() {
+        if (textArrayIndex < 5) {
+        setTextArrayIndex(textArrayIndex + 1);
+      } else {
+        setTextArrayIndex(0);
+      }
+  }
+
+
+  const RawText = imageText[textArrayIndex]["textName"];
 
 return (
 
@@ -145,54 +160,7 @@ return (
     <section className={styles.middle}>
 <p><span className={styles.darkTypeface}>edited +++ programmed +++ designed by :: steve barbaro</span></p>
 
-<div className={styles.imageContainer}>
-<Image src={SiracusaWall} width={140} height={110}
-layout={`intrinsic`} alt="new_sinews children-playing-in-front-of-a-wall icon"/>
-<Image src={Bubbles} width={140} height={110}
-layout={`intrinsic`} alt="new_sinews bubbles-on-plastic icon"/>
-<Image src={Face} width={130} height={110}
-layout={`intrinsic`} alt="new_sinews deity icon"/>
-<Image src={Security} width={100} height={110}
-layout={`intrinsic`} alt="new_sinews securitycam icon"/>
-<Image src={ArchaicEntity} width={100} height={110}
-layout={`intrinsic`} alt="new_sinews fossil icon"/>
-<Image src={SiracusaWall} width={140} height={110}
-layout={`intrinsic`} alt="new_sinews children-playing-in-front-of-a-wall icon"/>
-<Image src={Security} width={100} height={110}
-layout={`intrinsic`} alt="new_sinews securitycam icon"/>
-<Image src={Face} width={130} height={110}
-layout={`intrinsic`} alt="new_sinews deity icon"/>
-<Image src={Security} width={100} height={110}
-layout={`intrinsic`} alt="new_sinews securitycam icon"/>
-<Image src={ArchaicEntity} width={100} height={110}
-layout={`intrinsic`} alt="new_sinews fossil icon"/>
-<Image src={Bubbles} width={140} height={110}
-layout={`intrinsic`} alt="new_sinews bubbles-on-plastic icon"/>
-<Image src={ArchaicEntity} width={100} height={110}
-layout={`intrinsic`} alt="new_sinews fossil icon"/>
-<Image src={Face} width={130} height={110}
-layout={`intrinsic`} alt="new_sinews deity icon"/>
-<Image src={Bubbles} width={140} height={110}
-layout={`intrinsic`} alt="new_sinews bubbles-on-plastic icon"/>
-<Image src={SiracusaWall} width={140} height={110}
-layout={`intrinsic`} alt="new_sinews children-playing-in-front-of-a-wall icon"/>
-<Image src={Security} width={100} height={110}
-layout={`intrinsic`} alt="new_sinews securitycam icon"/>
-<Image src={ArchaicEntity} width={100} height={110}
-layout={`intrinsic`} alt="new_sinews fossil icon"/>
-<Image src={SiracusaWall} width={140} height={110}
-layout={`intrinsic`} alt="new_sinews children-playing-in-front-of-a-wall icon"/>
-<Image src={ArchaicEntity} width={100} height={110}
-layout={`intrinsic`} alt="new_sinews fossil icon"/>
-<Image src={Bubbles} width={140} height={110}
-layout={`intrinsic`} alt="new_sinews bubbles-on-plastic icon"/>
-<Image src={Security} width={100} height={110}
-layout={`intrinsic`} alt="new_sinews securitycam icon"/>
-<Image src={Face} width={130} height={110}
-layout={`intrinsic`} alt="new_sinews deity icon"/>
-
-
-</div>
+<div onClick={nextText}><RawText/></div>
 
 
 <p>send poems & fiction (very much open to speculative/fantasy) or even aggressively
@@ -207,94 +175,7 @@ creative nonfiction in a <code>word DOC</code> to be considered to:</p>
 <p>especially: seeking writing that is historically keen</p>
     </section>
 
-    <br/>
-
-    <div className={styles.imageContainer}>
-
-    <Image src={SiracusaWall} width={140} height={160}
-    layout={`intrinsic`} alt="new_sinews children-playing-in-front-of-a-wall icon"/>
-    <Image src={ArchaicEntity} width={125} height={160}
-    layout={`intrinsic`} alt="new_sinews fossil icon"/>
-    <Image src={Bubbles} width={140} height={160}
-    layout={`intrinsic`} alt="new_sinews bubbles-on-plastic icon"/>
-    <Image src={Security} width={100} height={160}
-    layout={`intrinsic`} alt="new_sinews securitycam icon"/>
-    <Image src={Face} width={150} height={160}
-    layout={`intrinsic`} alt="new_sinews deity icon"/>
-    <Image src={ArchaicEntity} width={50} height={160}
-    layout={`intrinsic`} alt="new_sinews fossil icon"/>
-    <Image src={Security} width={50} height={160}
-    layout={`intrinsic`} alt="new_sinews securitycam icon"/>
-    <Image src={Face} width={130} height={160}
-    layout={`intrinsic`} alt="new_sinews deity icon"/>
-    <Image src={Security} width={135} height={160}
-    layout={`intrinsic`} alt="new_sinews securitycam icon"/>
-    <Image src={ArchaicEntity} width={150} height={160}
-    layout={`intrinsic`} alt="new_sinews fossil icon"/>
-    <Image src={SiracusaWall} width={200} height={160}
-    layout={`intrinsic`} alt="new_sinews children-playing-in-front-of-a-wall icon"/>
-    <Image src={ArchaicEntity} width={100} height={160}
-    layout={`intrinsic`} alt="new_sinews fossil icon"/>
-    <Image src={Security} width={100} height={160}
-    layout={`intrinsic`} alt="new_sinews securitycam icon"/>
-    <Image src={Face} width={180} height={160}
-    layout={`intrinsic`} alt="new_sinews deity icon"/>
-    <Image src={ArchaicEntity} width={80} height={160}
-    layout={`intrinsic`} alt="new_sinews fossil icon"/>
-    <Image src={Bubbles} width={270} height={160}
-    layout={`intrinsic`} alt="new_sinews bubbles-on-plastic icon"/>
-    <Image src={SiracusaWall} width={140} height={160}
-    layout={`intrinsic`} alt="new_sinews children-playing-in-front-of-a-wall icon"/>
-    <Image src={Face} width={420} height={160}
-    layout={`intrinsic`} alt="new_sinews deity icon"/>
-    <Image src={Security} width={80} height={160}
-    layout={`intrinsic`} alt="new_sinews securitycam icon"/>
-    <Image src={Security} width={120} height={160}
-    layout={`intrinsic`} alt="new_sinews securitycam icon"/>
-    <Image src={Bubbles} width={70} height={160}
-    layout={`intrinsic`} alt="new_sinews bubbles-on-plastic icon"/>
-    <Image src={Face} width={70} height={160}
-    layout={`intrinsic`} alt="new_sinews deity icon"/>
-    <Image src={Security} width={70} height={160}
-    layout={`intrinsic`} alt="new_sinews securitycam icon"/>
-    <Image src={Face} width={70} height={160}
-    layout={`intrinsic`} alt="new_sinews deity icon"/>
-    <Image src={ArchaicEntity} width={70} height={160}
-    layout={`intrinsic`} alt="new_sinews fossil icon"/>
-    <Image src={Security} width={30} height={160}
-    layout={`intrinsic`} alt="new_sinews securitycam icon"/>
-    <Image src={SiracusaWall} width={500} height={160}
-    layout={`intrinsic`} alt="new_sinews children-playing-in-front-of-a-wall icon"/>
-    <Image src={Bubbles} width={200} height={160}
-    layout={`intrinsic`} alt="new_sinews bubbles-on-plastic icon"/>
-    <Image src={ArchaicEntity} width={40} height={160}
-    layout={`intrinsic`} alt="new_sinews fossil icon"/>
-    <Image src={ArchaicEntity} width={45} height={160}
-    layout={`intrinsic`} alt="new_sinews fossil icon"/>
-    <Image src={Bubbles} width={85} height={160}
-    layout={`intrinsic`} alt="new_sinews bubbles-on-plastic icon"/>
-
-    <Image src={ArchaicEntity} width={200} height={160}
-    layout={`intrinsic`} alt="new_sinews fossil icon"/>
-    <Image src={SiracusaWall} width={140} height={160}
-    layout={`intrinsic`} alt="new_sinews children-playing-in-front-of-a-wall icon"/>
-    <Image src={Face} width={230} height={160}
-    layout={`intrinsic`} alt="new_sinews deity icon"/>
-    <Image src={Bubbles} width={140} height={160}
-    layout={`intrinsic`} alt="new_sinews bubbles-on-plastic icon"/>
-    <Image src={Security} width={100} height={160}
-    layout={`intrinsic`} alt="new_sinews securitycam icon"/>
-    <Image src={ArchaicEntity} width={90} height={160}
-    layout={`intrinsic`} alt="new_sinews fossil icon"/>
-    <Image src={Bubbles} width={140} height={160}
-    layout={`intrinsic`} alt="new_sinews bubbles-on-plastic icon"/>
-    <Image src={SiracusaWall} width={140} height={160}
-    layout={`intrinsic`} alt="new_sinews children-playing-in-front-of-a-wall icon"/>
-    <Image src={Face} width={190} height={160}
-    layout={`intrinsic`} alt="new_sinews deity icon"/>
-
-
-    </div>
+<div onClick={prevText}><RawText/><div className={styles.separator}/><RawText/></div>
 
 
     <Footer/>

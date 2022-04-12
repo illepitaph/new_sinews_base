@@ -142,7 +142,7 @@
 }
 
 .middle > p {
-  margin-bottom:6%;
+  margin-bottom:3%;
 }
 
 .middle > p:first-child {
@@ -160,10 +160,6 @@
 .middle > p > a:hover {
   cursor:pointer;
   letter-spacing:2px;
-}
-
-.imageContainer, .imageContainer2 {
-  margin:0 1.5vw;
 }
 
 .darkTypeface {
