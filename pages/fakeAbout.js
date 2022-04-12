@@ -185,6 +185,7 @@ creative nonfiction in a <code>word DOC</code> to be considered to:</p>
     <br/>
 
   <div onClick={nextText}><RawText/></div>
+  <div onClick={nextText}><RawText/></div>
 
 
     <Footer/>
