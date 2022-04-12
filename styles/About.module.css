@@ -176,6 +176,10 @@
   letter-spacing:-0.02rem;
 }
 
+.separator {
+  height:1vh;
+}
+
 @media (width:1180px) and (height:820px) {
 
   .siteNav > .dropDown > button, .home {

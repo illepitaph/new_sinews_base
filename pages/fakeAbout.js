@@ -1,14 +1,8 @@
 import Head from 'next/head'
 import Link from 'next/link'
-import Image from 'next/image'
 import React, {useState} from 'react'
 import Footer from '../components/footer.js'
 import styles from '../styles/About.module.css'
-import SiracusaWall from '../public/images/SiracusaWall.jpg'
-import Bubbles from '../public/images/Bubbles.jpg'
-import Face from '../public/images/Face.jpg'
-import Security from '../public/images/Security.jpg'
-import ArchaicEntity from '../public/images/ArchaicEntity.jpg'
 import { imageText } from '../GalleryData/ImageBoxCarouselData.js'
 About.title = "about — new_sinews";
 About.pieceName = "new_sinews about page"
@@ -184,8 +178,7 @@ creative nonfiction in a <code>word DOC</code> to be considered to:</p>
 
     <br/>
 
-  <div onClick={nextText}><RawText/></div>
-  <div onClick={nextText}><RawText/></div>
+  <div onClick={nextText}><RawText/><div className={styles.separator}/><RawText/></div>
 
 
     <Footer/>
