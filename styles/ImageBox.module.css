@@ -70,6 +70,29 @@
   animation: fadeIn ease-in-out 2.3s;
 }
 
+.jpegBox3 {
+  display:flex;
+  flex-flow:row wrap;
+  justify-content:flex-start;
+  row-gap:2vh;
+  margin-top:0;
+  margin:0 auto;
+  box-shadow: 3px;
+  cursor:pointer;
+}
+
+.jpegBox3 > img {
+  height:45px;
+  flex:1 1 0;
+  border:3px double gainsboro;
+  animation: fadeIn ease-in-out 1.7s;
+}
+
+.jpegBox3 > img:nth-child(even) {
+  border:5px double #303030;
+  animation: fadeIn ease-in-out 2.3s;
+}
+
 @media and (max-width:998px) {
 
   .jpegBox1 > img {

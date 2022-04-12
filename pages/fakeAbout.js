@@ -34,7 +34,7 @@ export default function About() {
     }
 
         function nextText() {
-          if (textArrayIndex < 4) {
+          if (textArrayIndex < 5) {
           setTextArrayIndex(textArrayIndex + 1);
         } else {
           setTextArrayIndex(0);
@@ -184,92 +184,7 @@ creative nonfiction in a <code>word DOC</code> to be considered to:</p>
 
     <br/>
 
-    <div className={styles.imageContainer}>
-
-    <Image src={SiracusaWall} width={140} height={160}
-    layout={`intrinsic`} alt="new_sinews children-playing-in-front-of-a-wall icon"/>
-    <Image src={ArchaicEntity} width={125} height={160}
-    layout={`intrinsic`} alt="new_sinews fossil icon"/>
-    <Image src={Bubbles} width={140} height={160}
-    layout={`intrinsic`} alt="new_sinews bubbles-on-plastic icon"/>
-    <Image src={Security} width={100} height={160}
-    layout={`intrinsic`} alt="new_sinews securitycam icon"/>
-    <Image src={Face} width={150} height={160}
-    layout={`intrinsic`} alt="new_sinews deity icon"/>
-    <Image src={ArchaicEntity} width={50} height={160}
-    layout={`intrinsic`} alt="new_sinews fossil icon"/>
-    <Image src={Security} width={50} height={160}
-    layout={`intrinsic`} alt="new_sinews securitycam icon"/>
-    <Image src={Face} width={130} height={160}
-    layout={`intrinsic`} alt="new_sinews deity icon"/>
-    <Image src={Security} width={135} height={160}
-    layout={`intrinsic`} alt="new_sinews securitycam icon"/>
-    <Image src={ArchaicEntity} width={150} height={160}
-    layout={`intrinsic`} alt="new_sinews fossil icon"/>
-    <Image src={SiracusaWall} width={200} height={160}
-    layout={`intrinsic`} alt="new_sinews children-playing-in-front-of-a-wall icon"/>
-    <Image src={ArchaicEntity} width={100} height={160}
-    layout={`intrinsic`} alt="new_sinews fossil icon"/>
-    <Image src={Security} width={100} height={160}
-    layout={`intrinsic`} alt="new_sinews securitycam icon"/>
-    <Image src={Face} width={180} height={160}
-    layout={`intrinsic`} alt="new_sinews deity icon"/>
-    <Image src={ArchaicEntity} width={80} height={160}
-    layout={`intrinsic`} alt="new_sinews fossil icon"/>
-    <Image src={Bubbles} width={270} height={160}
-    layout={`intrinsic`} alt="new_sinews bubbles-on-plastic icon"/>
-    <Image src={SiracusaWall} width={140} height={160}
-    layout={`intrinsic`} alt="new_sinews children-playing-in-front-of-a-wall icon"/>
-    <Image src={Face} width={420} height={160}
-    layout={`intrinsic`} alt="new_sinews deity icon"/>
-    <Image src={Security} width={80} height={160}
-    layout={`intrinsic`} alt="new_sinews securitycam icon"/>
-    <Image src={Security} width={120} height={160}
-    layout={`intrinsic`} alt="new_sinews securitycam icon"/>
-    <Image src={Bubbles} width={70} height={160}
-    layout={`intrinsic`} alt="new_sinews bubbles-on-plastic icon"/>
-    <Image src={Face} width={70} height={160}
-    layout={`intrinsic`} alt="new_sinews deity icon"/>
-    <Image src={Security} width={70} height={160}
-    layout={`intrinsic`} alt="new_sinews securitycam icon"/>
-    <Image src={Face} width={70} height={160}
-    layout={`intrinsic`} alt="new_sinews deity icon"/>
-    <Image src={ArchaicEntity} width={70} height={160}
-    layout={`intrinsic`} alt="new_sinews fossil icon"/>
-    <Image src={Security} width={30} height={160}
-    layout={`intrinsic`} alt="new_sinews securitycam icon"/>
-    <Image src={SiracusaWall} width={500} height={160}
-    layout={`intrinsic`} alt="new_sinews children-playing-in-front-of-a-wall icon"/>
-    <Image src={Bubbles} width={200} height={160}
-    layout={`intrinsic`} alt="new_sinews bubbles-on-plastic icon"/>
-    <Image src={ArchaicEntity} width={40} height={160}
-    layout={`intrinsic`} alt="new_sinews fossil icon"/>
-    <Image src={ArchaicEntity} width={45} height={160}
-    layout={`intrinsic`} alt="new_sinews fossil icon"/>
-    <Image src={Bubbles} width={85} height={160}
-    layout={`intrinsic`} alt="new_sinews bubbles-on-plastic icon"/>
-
-    <Image src={ArchaicEntity} width={200} height={160}
-    layout={`intrinsic`} alt="new_sinews fossil icon"/>
-    <Image src={SiracusaWall} width={140} height={160}
-    layout={`intrinsic`} alt="new_sinews children-playing-in-front-of-a-wall icon"/>
-    <Image src={Face} width={230} height={160}
-    layout={`intrinsic`} alt="new_sinews deity icon"/>
-    <Image src={Bubbles} width={140} height={160}
-    layout={`intrinsic`} alt="new_sinews bubbles-on-plastic icon"/>
-    <Image src={Security} width={100} height={160}
-    layout={`intrinsic`} alt="new_sinews securitycam icon"/>
-    <Image src={ArchaicEntity} width={90} height={160}
-    layout={`intrinsic`} alt="new_sinews fossil icon"/>
-    <Image src={Bubbles} width={140} height={160}
-    layout={`intrinsic`} alt="new_sinews bubbles-on-plastic icon"/>
-    <Image src={SiracusaWall} width={140} height={160}
-    layout={`intrinsic`} alt="new_sinews children-playing-in-front-of-a-wall icon"/>
-    <Image src={Face} width={190} height={160}
-    layout={`intrinsic`} alt="new_sinews deity icon"/>
-
-
-    </div>
+  <div onClick={nextText}><RawText/></div>
 
 
     <Footer/>
