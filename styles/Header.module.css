@@ -293,6 +293,11 @@
   background-image:url("../public/images/StripMallBackground.jpg");
 }
 
+.targetBackground {
+  background-image:url("../public/images/TargetBackground.jpg");
+}
+
+
 @media (width:1024px) and (height:1366px) {
 
   .iconImage {
