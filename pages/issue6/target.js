@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Header from '../../components/header.js'
 import RightGrayTitle from '../../components/rightGrayTitle.js'
-import RightBlackTitle from '../../components/rightBlackTitle.js'
+import LeftBlackTitle from '../../components/leftBlackTitle.js'
 import StandardProse from '../../components/standardProse.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Stough.module.css'
@@ -25,6 +25,11 @@ export default function Target() {
       className={styles.duskShadowUppercase}>e</span><span
       className={styles.inverse}> <span
       className={styles.t}>t</span></span></span></RightGrayTitle>
+
+
+      <LeftBlackTitle><span className={styles.bareHeader}>... cary ...<br/>... stough ...</span>
+      </LeftBlackTitle>
+
       <StandardProse>
       <br/>
       <br/>
