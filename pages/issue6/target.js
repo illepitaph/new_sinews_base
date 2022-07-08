@@ -394,6 +394,424 @@ export default function Target() {
       <br/>
       <br/>
       <br/>
+      <span className={styles.grayShadow}><i>Message body</i> :<br/><br/>
+      Hi Cary,<br/><br/>
+      How are you doing ? How medication works for you ?<br/><br/>
+      Please let me know,<br/><br/>
+      xxxxx</span>
+      <br/>
+      <br/>
+      <br/>
+      A wing engulfed in a freefall of the lips.
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <span className={styles.sectionBreakSymbol}>~</span>
+      <br/>
+      <br/>
+      <br/>
+      <span className={styles.boldHeader}>8.28.21</span>
+      <br/>
+      <br/>
+      <br/>
+      I follow her lead. Wore Haiwaiian shirts all summer because I followed her lead. After
+      complaining about making coffee, N. reminds me: “You can be a real pussy sometimes.” That’s undeniable. I can be a real pussy.
+      <br/>
+      <br/>
+      <br/>
+      I'm going to start practicing kegels to improve my pelvic control, ball motion. I want to be able to make my testicles dance.
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <span className={styles.sectionBreakSymbol}>~</span>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      Where do we find ourselves
+      <br/>
+      <br/>
+      <br/>
+      <span className={styles.grayShadow}>with an empty rifle in my hands and the targets down</span> (Fitzgerald)
+      <br/>
+      <br/>
+      <br/>
+      the game already played, moves already huddled in the shell of decision
+      <br/>
+      <br/>
+      <br/>
+      this hell of decision, implodes in the Barrel
+      <br/>
+      <br/>
+      <br/>
+      a voice in the word
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <span className={styles.sectionBreakSymbol}>~</span>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      Like a press.
+      <br/>
+      <br/>
+      <br/>
+      Like the old fashioned
+      <br/>
+      <br/>
+      <br/>
+      Only man in town who knows a little bit about everything in knowing a little bit about anything.
+      <br/>
+      <br/>
+      <br/>
+      These models of non-oscillation.
+      <br/>
+      <br/>
+      <br/>
+      Act of mirroring fudged.
+      <br/>
+      <br/>
+      <br/>
+      Straight shots of the common.
+      <br/>
+      <br/>
+      <br/>
+      The supplement resides, homely, at the beginning. A plane of consistency.
+      <br/>
+      <br/>
+      <br/>
+      “You might as well say the Grand Canyon cracked with you. Why not? …No, <i>listen</i> to me.”
+      <br/>
+      <br/>
+      <br/>
+      Left nut of the crowd.
+      <br/>
+      <br/>
+      <br/>
+      “Disarticulated, deterritorialized, Challenger muttered that he was taking the earth with
+       him, that he was leaving for the mysterious world, his poison garden.”
+      <br/>
+      <br/>
+      <br/>
+      Right nut of solipsism.
+      <br/>
+      <br/>
+      <br/>
+      “I am the color of dead leaves, like certain unnoticed insects.”
+      <br/>
+      <br/>
+      <br/>
+      Prick of the multiple.
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <span className={styles.boldHeader}>9.2.21</span>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      Becoming-one with this person, that is, becoming familiar, which sometimes has the opposite
+      effect, as it does now. Malfunction, or the overworn repetitive groove.
+      <br/>
+      <br/>
+      <br/>
+      N. and I take a trip to the Wenham Museum of Child Artifacts. Though when we arrive, a sign
+      informs us that it’s closed for repair, for cleaning. Presumably of the toy trains. We look
+      in the windows and see nothing other than the specters of what is desired. My mask around
+      my chin in the reflection like a blue helmet strap.
+      <br/>
+      <br/>
+      <br/>
+      This part of New England is beginning to feel most authentic. Unlike the big port simulacra of
+      the city. A building built in 1668 stands (still stands!) mere feet from the space I am said
+      to inhabit, aged 29 years.
+      <br/>
+      <br/>
+      <br/>
+      We drive to Manchester-By-The-Sea in the spirit of the same spontaneous urging that led us this
+      far north today. I’m hopeful a full somatic return to a place of memory-comfort will revive
+      my body into its rhythm, but at one I take 10 mg of buspirone and take each step off
+      a cliff onto the sidewalk. Side effects: dizziness, fatigue. Barely different from
+      the effects of anxiety, though “safer,” unable to climb.
+      <br/>
+      <br/>
+      <br/>
+      I’m drinking an Arnold Palmer in such a quaint little place, I feel the movement of the infinitely
+      small particle itching for a mirror. Through shaky hands I peer through the book to the wisdom of
+      lines such as <span className={styles.grayShadow}>“Everything happens for a reason”</span> (Leibniz), that
+      nearly carries me over the edge, head into the glass. And if I were to act on such a motive, would I be
+      more in pain or relieved to be breathing fresh air again. I don’t have an answer for it. I feel like I’m
+      inhabiting the life of a different human copy, even my shits appear “off.” Come out at a non-Euclidean angle.
+      <br/>
+      <br/>
+      <br/>
+      <span className={styles.grayShadow}>“[A] feeling that I was standing at twilight on a deserted range, with an
+      empty rifle in my hands and the targets down. No problem set—simply silence with only the sound of my own breathing”</span> (Fitzgerald).
+      <br/>
+      <br/>
+      <br/>
+      How fast would I have to run and how low would I have to lunge to escape through the opening to the other side of the tracks.
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <span className={styles.sectionBreakSymbol}>~</span>
+      <br/>
+      <br/>
+      <br/>
+      “Well said...”
+      <br/>
+      <br/>
+      <br/>
+      I should try yoga.
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <span className={styles.boldHeader}>9.4.21</span>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      The moment of dream reflection, of reflecting upon what is thought to be recognized as images incorporated
+      into the dream, is really dream-dreaming. It’s the inward folding of the force of the dream back into form, which
+      it, in fact, didn’t <i>have</i> prior to this formation. Form is supplementary to the dream, the dangerous supplement, although
+      it can be said that in the virtual form exists, as links between coils of RNA. The cult is a formal dream of community
+      that only “works” under conditions of great secrecy and grace. Such that one can only enter into prayer fully with
+      eyes closed, the moment contemplation reaches the status of representation, it suffers a pre-slotted caval of judgment
+      that (typically) leads to its dissolution. Or at least its dissolution into the <i>everything else</i>.
+      <br/>
+      <br/>
+      <br/>
+      Brook Farm, in West Roxbury, a plot of land. Bought and sold by individuals in honor of individual-less honor.
+      <br/>
+      <br/>
+      <br/>
+      I dreamed a Tik Tok of an anime woman getting eaten out in POV. I kept flicking the video into recession, viewing it as
+      one views the footage of some once in a lifetime feat.
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <span className={styles.sectionBreakSymbol}>~</span>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <span className={styles.boldHeader}>9.8.21</span>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      Indefatigable human presence, I am thankful for mercy, thankful for existing for others, thankful for pain. However
+      difficult it is to sustain, this thankfulness, or how cheap of an utterance, I am thankful for pain, for the evidence
+      of forgiveness, brotherly love. I am thankful for paintings and presence. Indefatigable human presence.
+      <br/>
+      <br/>
+      <br/>
+      Turkey Hill Lane, or Turkey Hill Place. I sift through the remains of a weekend's Maps queries for the actual name. Technological c
+      urtain of territorialization. Turkey Hill Lane in Hingham, near the Weir River Farm where a woman, commemorated there by an
+      art studio, painted a regionally famous landscape, red barn included. In her quotation, she mentions the tree covering, as
+      well as the faint scab of the city visible behind (now much more visible, no less a scab). N. and I walk awhile through
+      mud to what we thought was more trail, but was only the head we'd misinterpreted, having to backtrack. To trek back. Chiggers
+      or something loving me alive. Trying hard to wake myself up to this light. Photo-receptors lagging behind the faciality
+      burnish, calibration taking on more than it can to chew daytime.
+      <br/>
+      <br/>
+      <br/>
+      I'm scolded whenever I let my head fall, wishing I had no head to let fall, or arms to let hang, or legs to be eaten
+      alive. We eat sandwiches in the now unseasonable, though expected, dry heat. <span className={styles.grayShadow}>I am thankful
+      for mercy, I am...</span>
+      <br/>
+      <br/>
+      <br/>
+      However much of a hill it is, or ridge, Turkey Hill Trail gives one the impression, by its proximity to the air, that
+      they’re mountainous. Perhaps any closer to the Sun, I’m not even a feeling-being, just floes.
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <span className={styles.sectionBreakSymbol}>~</span>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      Polly Thayer Starr, the painter’s name. One farm, presumed, for one family. Hers. Weir River Farm, just down the hill from
+      Turkey Hill. The artist’s father, lawyer and at least <i>intellectual</i> acquaintance of the Transcendentalists, committed
+      himself to the swift Charles—as many had done and would do—just after she’d turned 11, a death which would mark the family
+      with that familiar stain of Why. Digressively, the discourse surrounding what would now be termed ‘acute depression’ had
+      not burgeoned, as it later would, in this very region of America, and so blame had to be left to personal spirit. And as
+      societal-academic perspective would come around to rid depression of its teleology (theology), the river dried, sank, overran, and
+      eventually collapsed in its modern state to the level of picturesque event, rather than callously insatiable serpent.
+      <br/>
+      <br/>
+      <br/>
+      “There are suicides and suicides,” the elder James brother would write, one who was not a stranger to melancholy of his own, and
+      who dedicated even his philosophical career to the scientificity of studying the humors. “We, too, as we sit here in our
+      comfort, must ‘ponder these things,’ also, for we are of one substance with these suicides, and their life is the life we
+      share.” Is life, as it is lived by some, lived? To be lived? Where is the <i>will</i>.
+      <br/>
+      <br/>
+      <br/>
+      In James, as with Emerson, we’re always “finding ourselves” someplace. <span className={styles.grayShadow}>Where do we find
+      ourselves? // We find ourselves believing, we hardly know how or why.</span> As if life exceeds our apprehension of it, or
+      rather, as if Life shapes this apprehension as the angle of touch affects both the leg and the lathe.
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <span className={styles.boldHeader}>9.16.21</span>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      I disclosed my predicament in the form of an admission of guilt in the audience of two men I love: M. and B. Two men I love
+      dearly, friends who—up to that point—I’d considered adjacent to the type of bond of friendship that says anything anytime, though
+      that correction had been misplaced. I misapprehended, on the ride down, how uncallously loving their reactions would be, swift
+      and declarative, tumbling in my chest as they spoke. I needed time away, they advised, I needed to see myself as I appeared
+      to myself fully naked for a time. Sinking into the couch.
+      <br/>
+      <br/>
+      <br/>
+      B.’s apartment overlooks downtown New Bedford, a city of streets leading to water, sluices down which terribly loud flocks
+      of seagulls come squawking. His windows, large and imposing from the inside, eternally covered in unwashed fog, are as big
+      as backyard movie screens. Upon one visit, I even suggested he begin screening his crowd-favorites for the weekend
+      drunkards below: <span className={styles.grayShadow}>Brother from Another Planet, Walkabout, Days of Heaven</span>. Imagine a red biplane banking left from Shore St. onto
+      Broadway, film reflection patterning distortedly its frame as it passes. His guitar and television feature prominently
+      in the “space,” as if of a gallery exhibition of a turn of the century (this century) apartment. To be among the people
+      I’ve gathered here feels to be among something so undeniably Massachusetts, whether we’re driving down the South Shore
+      or fishing along a river in North Hampton. There thrives a familiarity with every part of the state and its history within
+      each bred individual. Today we’re headed toward water, a beach on the other side of Dartmouth. Discussions range from
+      when will the one of us who is single feel comfortable dating again to Ivy League ratings.
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <span className={styles.sectionBreakSymbol}>~</span>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      Outside my window at work they’ve replaced the rotted Yellowwood with a sapling Yellowwood.
+      <br/>
+      <br/>
+      <br/>
+      I learned diaphragmatic breathing. Which makes me feel pregnant more than it eases me.
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <span className={styles.sectionBreakSymbol}>~</span>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      Control is the center’s supposed background. I had come to realize realizing, feeling as if I could no
+      longer disengage. What a duddy comportment! So rarely do my nerves rest, rather attached to reaching and kept
+      doing. Last Tuesday, I zoomed in with M., a therapist, to unearth—not the poison—but its pathological
+      track. Family. Not family, but the words with which I ascribe to it a substantive barrier. <span className={styles.grayShadow}>Unacceptable
+      deaths</span>, I jot down. <span className={styles.grayShadow}>These unacceptable deaths</span>.
+      <br/>
+      <br/>
+      <br/>
+      Papa (pronounced paw, paw), April, my cousin, dead in April. It’s only the deads’ names I authorize,
+      write-out. Cancer-line. Granny’s soon to be authorized, my mother even. All of these whom I’ve killed by my
+      neglecting them a moment of peace, captured-in-presence up in my cranium. Their cancer full of heart, my own laying waiting.
+      <br/>
+      <br/>
+      <br/>
+      “You weren’t treated right,” N. said to me early on, confirming something I resisted.
+      <br/>
+      <br/>
+      <br/>
+      Coming on in the middle. Not static, but blue-screened.
+      <br/>
+      <br/>
+      <br/>
+      In dying, they retreated. I became treated to it. My own laid waiting. Sex with the sentence.
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <span className={styles.sectionBreakSymbol}>~</span>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      When the three Roche sisters sing in unison “If you go down to Hammond, forget about us,” Hammond refers to Hammond, Florida, and
+      us refers to the music industry, or the managers and producers as the intimidatory arms of that institution. Instead of leaving
+      for Florida, the sisters, it’s written, stuck around and finished the album, although its best song—<span className={styles.grayShadow}>Hammond Song</span>—with its
+      ahead-of-its-time untimeliness (the way the King Crimson guitar line floods and recedes, presaging Nigel Godrich), wasn’t
+      written until the end. In a time of reflection. (To reflect upon a period in which one couldn't hold the line, is there any
+      other rationale for literature?) One wonders (me) whether or not they should have scrapped all before it. Instead, the sisters
+      tacked the song onto the beginning of the record, as if it had been there all along. Dangerous, beloved supplement. Creation’s
+      children always end up shadowy in the mirror.
+      <br/>
+      <br/>
+      <br/>
+      I will continue writing <i>this</i> and <i>that</i>, which I wield like ceremonial blades, until I’m directly told that
+      it’s within my best interest to cease and regather. That the tip of my nose bleeds, or my eye drips, plucked at the sharpest
+      point, its non-conscious light on the All.
+      <br/>
+      <br/>
+      <br/>
+      Does your heart have an answer for this heart of mine, I always misremember. <span className={styles.grayShadow}><i>Do your eyes
+      have an answer / to this song of mine</i></span>. The song is a query. In the land of State power, combination of song and deliverance.
+      <br/>
+      <br/>
+      <br/>
+      I'm waking waking. I wake to sleep. I go by learning. I’m already awake.
       </StandardProse>
       <Footer/>
     </>
