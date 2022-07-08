@@ -90,7 +90,7 @@ export default function Target() {
       <br/>
       <br/>
       <br/>
-      <span className={styles.grayShadow}>“A doubling where there is too much feedback.”</span> A doubling that isn't circle, but an unbreaking dynastic Line.
+      <span className={styles.grayShadow}>“A doubling where there is too much feedback.”</span> A doubling that isn&apos;t circle, but an unbreaking dynastic Line.
       <br/>
       <br/>
       <br/>
@@ -422,7 +422,7 @@ export default function Target() {
       <br/>
       <br/>
       <br/>
-      I'm going to start practicing kegels to improve my pelvic control, ball motion. I want to be able to make my testicles dance.
+      I&apos;m going to start practicing kegels to improve my pelvic control, ball motion. I want to be able to make my testicles dance.
       <br/>
       <br/>
       <br/>
@@ -640,17 +640,17 @@ export default function Target() {
       <br/>
       <br/>
       <br/>
-      Turkey Hill Lane, or Turkey Hill Place. I sift through the remains of a weekend's Maps queries for the actual name. Technological c
+      Turkey Hill Lane, or Turkey Hill Place. I sift through the remains of a weekend&apos;s Maps queries for the actual name. Technological c
       urtain of territorialization. Turkey Hill Lane in Hingham, near the Weir River Farm where a woman, commemorated there by an
       art studio, painted a regionally famous landscape, red barn included. In her quotation, she mentions the tree covering, as
       well as the faint scab of the city visible behind (now much more visible, no less a scab). N. and I walk awhile through
-      mud to what we thought was more trail, but was only the head we'd misinterpreted, having to backtrack. To trek back. Chiggers
+      mud to what we thought was more trail, but was only the head we&apos;d misinterpreted, having to backtrack. To trek back. Chiggers
       or something loving me alive. Trying hard to wake myself up to this light. Photo-receptors lagging behind the faciality
       burnish, calibration taking on more than it can to chew daytime.
       <br/>
       <br/>
       <br/>
-      I'm scolded whenever I let my head fall, wishing I had no head to let fall, or arms to let hang, or legs to be eaten
+      I&apos;m scolded whenever I let my head fall, wishing I had no head to let fall, or arms to let hang, or legs to be eaten
       alive. We eat sandwiches in the now unseasonable, though expected, dry heat. <span className={styles.grayShadow}>I am thankful
       for mercy, I am...</span>
       <br/>
@@ -793,7 +793,7 @@ export default function Target() {
       us refers to the music industry, or the managers and producers as the intimidatory arms of that institution. Instead of leaving
       for Florida, the sisters, it’s written, stuck around and finished the album, although its best song—<span className={styles.grayShadow}>Hammond Song</span>—with its
       ahead-of-its-time untimeliness (the way the King Crimson guitar line floods and recedes, presaging Nigel Godrich), wasn’t
-      written until the end. In a time of reflection. (To reflect upon a period in which one couldn't hold the line, is there any
+      written until the end. In a time of reflection. (To reflect upon a period in which one couldn&apos;t hold the line, is there any
       other rationale for literature?) One wonders (me) whether or not they should have scrapped all before it. Instead, the sisters
       tacked the song onto the beginning of the record, as if it had been there all along. Dangerous, beloved supplement. Creation’s
       children always end up shadowy in the mirror.
@@ -811,7 +811,7 @@ export default function Target() {
       <br/>
       <br/>
       <br/>
-      I'm waking waking. I wake to sleep. I go by learning. I’m already awake.
+      I&apos;m waking waking. I wake to sleep. I go by learning. I’m already awake.
       </StandardProse>
       <Footer/>
     </>
