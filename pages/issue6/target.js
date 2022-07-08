@@ -688,8 +688,8 @@ export default function Target() {
       <br/>
       <br/>
       <br/>
-      In James, as with Emerson, we’re always “finding ourselves” someplace. <span className={styles.grayShadow}>Where do we find
-      ourselves? // We find ourselves believing, we hardly know how or why.</span> As if life exceeds our apprehension of it, or
+      In James, as with Emerson, we’re always “finding ourselves” someplace. <span className={styles.grayShadow}><i>Where do we find
+      ourselves? // We find ourselves believing, we hardly know how or why.</i></span> As if life exceeds our apprehension of it, or
       rather, as if Life shapes this apprehension as the angle of touch affects both the leg and the lathe.
       <br/>
       <br/>
@@ -715,7 +715,7 @@ export default function Target() {
       B.’s apartment overlooks downtown New Bedford, a city of streets leading to water, sluices down which terribly loud flocks
       of seagulls come squawking. His windows, large and imposing from the inside, eternally covered in unwashed fog, are as big
       as backyard movie screens. Upon one visit, I even suggested he begin screening his crowd-favorites for the weekend
-      drunkards below: <span className={styles.grayShadow}>Brother from Another Planet, Walkabout, Days of Heaven</span>. Imagine a red biplane banking left from Shore St. onto
+      drunkards below: <span className={styles.grayShadow}><i>Brother from Another Planet, Walkabout, Days of Heaven</i></span>. Imagine a red biplane banking left from Shore St. onto
       Broadway, film reflection patterning distortedly its frame as it passes. His guitar and television feature prominently
       in the “space,” as if of a gallery exhibition of a turn of the century (this century) apartment. To be among the people
       I’ve gathered here feels to be among something so undeniably Massachusetts, whether we’re driving down the South Shore
