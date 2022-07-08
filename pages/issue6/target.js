@@ -3,7 +3,9 @@ import Header from '../../components/header.js'
 import RightGrayTitle from '../../components/rightGrayTitle.js'
 import RightBlackTitle from '../../components/rightBlackTitle.js'
 import StandardProse from '../../components/standardProse.js'
+import Image from 'next/image'
 import Footer from '../../components/footer.js'
+import Stough1 from '../../public/images/Stough1.jpg'
 import styles from '../../styles/Stough.module.css'
 Target.title = "cary_stough ~ acquired_target — new_sinews"
 Target.pieceName = "cary_stough ~ acquired_target — new_sinews"
@@ -36,7 +38,7 @@ export default function Target() {
       <StandardProse>
       <br/>
       <br/>
-      <i>Where is on down the line / How far away</i>
+      <span className={styles.grayShadow}><i>Where is on down the line / How far away</i></span>
       <br/>
       <br/>
       <br/>
@@ -88,7 +90,7 @@ export default function Target() {
       <br/>
       <br/>
       <br/>
-      “A doubling where there is too much feedback.” A doubling that isn't circle, but an unbreaking dynastic Line.
+      <span className={styles.grayShadow}>“A doubling where there is too much feedback.”</span> A doubling that isn't circle, but an unbreaking dynastic Line.
       <br/>
       <br/>
       <br/>
@@ -117,8 +119,8 @@ export default function Target() {
       <br/>
       <br/>
       <br/>
-      “Certainty is nothing other than the objective essence itself, that is to say, the way in which we become aware of the
-      formal essence is certainty itself.” Spinoza, <span
+      <span className={styles.grayShadow}>“Certainty is nothing other than the objective essence itself, that is to say, the way in which we become aware of the
+      formal essence is certainty itself.”</span> Spinoza, <span
       className={styles.grayShadow}><i>Treatise on the Emendation of the Intellect</i></span>. So simple, and yet, so difficult
       to internalize, to remember to deploy—conceptually—when I’m digging digging. Instead of, in the place of. I’m in the
       place of wherein the place-of desists. Certain works of philosophy would take the mind’s inability to focus on
@@ -147,10 +149,10 @@ export default function Target() {
       <br/>
       <br/>
       <br/>
-      “I first of all realized that if I abandoned the old ways and embarked on a new way of life, I should
+      <span className={styles.grayShadow}>“I first of all realized that if I abandoned the old ways and embarked on a new way of life, I should
       be abandoning a good that was by its very nature uncertain—as we can clearly gather from what has been said—in favor
       of one that was uncertain not of its own nature (for I was seeking a permanent good) but only in respect of
-      attainment.” Spinoza again, with a clarity of spirit one like me could only achieve under the wracked bodily
+      attainment.”</span> Spinoza again, with a clarity of spirit one like me could only achieve under the wracked bodily
       strain of nasal steroids—all else sullying, a wet napkin placed over the iron.
       <br/>
       <br/>
@@ -162,8 +164,8 @@ export default function Target() {
       <br/>
       <br/>
       <br/>
-      “[I]t may be that believing in this world, in this life, becomes our most difficult task, or the task of
-      a mode of existence still to be discovered on our plane of immanence today.” Deleuze and Guattari—or, here, speaking
+      <span className={styles.grayShadow}>“[I]t may be that believing in this world, in this life, becomes our most difficult task, or the task of
+      a mode of existence still to be discovered on our plane of immanence today.”</span> Deleuze and Guattari—or, here, speaking
       from the double-voice, Deleuze—speaks of an empiricist conversion of the work of philosophy, from
       Hume to James/Peirce, which would require the belief in belief, or calling belief what has customarily been
       described as the process by which something is folded into the body, prehension, demiurge of the platelets. Can
@@ -171,9 +173,11 @@ export default function Target() {
       <br/>
       <br/>
       <br/>
-      There isn’t anything to be <i>recovered</i> by believing in “this world.” This is of no reactionary order. Rather, what
+      There isn’t anything to be <span
+      className={styles.grayShadow}>recovered</span> by believing in “this world.” This is of no reactionary order. Rather, what
       is believed is believed in the utility of leading to other belief: of what <i>can</i> be believed. Can we adjust
-      the goal posts of what may comprise the <i>new</i> so as to crack open belief (always <i>once again</i>), is
+      the goal posts of what may comprise the <span
+      className={styles.grayShadow}>new</span> so as to crack open belief (always <i>once again</i>), is
       the question asked by those in whom I place my intellectual trust, and those to whom my writing—in the spiritual
       sense—is dedicated.
       <br/>
@@ -189,13 +193,13 @@ export default function Target() {
       <br/>
       <br/>
       <br/>
-      <i>I love you more every day</i>.
+      <span className={styles.grayShadow}>I love you more every day</span>.
       <br/>
       <br/>
       <br/>
       The bad trip came at a time at which I thought I was becoming one with this person, N., who I loved. A ficus tree
       turned into a dark mobile of rain-inhered dying. To be breathing or seeing was death-defying, and I wasn’t
-      sure <i>I</i> knew how to do either anymore. It was as if there were fishing lines attached to each muscle in
+      sure <span className={styles.grayShadow}>I</span> knew how to do either anymore. It was as if there were fishing lines attached to each muscle in
       my face, reacting to what I felt were the exultations of my own actions recited back to me in hers. Black
       hole. Bad hole. That was that.
       <br/>
@@ -268,7 +272,8 @@ export default function Target() {
       <br/>
       <br/>
       N. and I stay for 6 hours, though in more love than ever. Leaving not before visiting E. Fay Jones’ Thorncrown
-      Chapel, a hidden gem, literally among the pines. <i>Where the sun never shines, and you shiver when the cold wind blows</i>.
+      Chapel, a hidden gem, literally among the pines. <span
+      className={styles.grayShadow}><i>Where the sun never shines, and you shiver when the cold wind blows</i></span>.
       <br/>
       <br/>
       <br/>
@@ -278,15 +283,15 @@ export default function Target() {
       <br/>
       <br/>
       E. Fay Jones cites the inspiration of his mentor, Frank Lloyd Wright, as well as Anglo-Saxon architecture. And it’s true, one
-      isn’t sure whether they’ve entered the set of Beowulf or Deep Space Nine. A “thin place.” Eric Weiner of the NYT: “locales
+      isn’t sure whether they’ve entered the set of Beowulf or Deep Space Nine. A “thin place.” Eric Weiner of the NYT:   <span className={styles.grayShadow}>“locales
       where the distance between heaven and earth collapses and we’re able to catch glimpses of the divine, or the transcendent
-      or, as I like to think of it, the Infinite Whatever.” A proper deterritorialization. One alights as the site of what had
+      or, as I like to think of it, the Infinite Whatever.”</span> A proper deterritorialization. One alights as the site of what had
       previously been an arbitrary caesura. Is this not the history of the world? Acclamation of glory at the slightest
       indication of the subject’s waning. Architecture: a frozen multitude.
       <br/>
       <br/>
       <br/>
-      Being <i>in></i> or <i>among</i> a thin place remembers me to the importance thinkers like Deleuze and Foucault (as Nietzsche
+      Being <i>in</i> or <i>among</i> a thin place remembers me to the importance thinkers like Deleuze and Foucault (as Nietzsche
       and Spinoza before them) on <i>comportment</i>, the way one carries one’s meat around. Especially in this century this
       strikes me as immediately vital, this century which no longer believes the body other than discursively drawn. Thought
       to have eliminated the mind-body dualism it (our chatter) has made everything mind. Deleuze and Foucault are in some
@@ -316,6 +321,79 @@ export default function Target() {
       <br/>
       <br/>
       Love nox. Bring on the night-love.
+      <br/>
+      <br/>
+      <br/>
+      <div><Image src={Stough1} width={100} height={100}
+      layout={`responsive`} alt="Cary Stough Photo of The Bottom of an Edifice"/></div>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <span className={styles.boldHeader}>8.26.21</span>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      Jean Luc Nancy, I find out on twitter days after the fact, has passed away. I feel a similar chest-tightening
+      when learning of Sophie’s tragic fall from moon-watching. These individuals whose very courage, as it was
+      expressed through media not known for courage, offered a glimpse at an action removed from itself as the
+      deadening strike.   <span className={styles.grayShadow}>“Poetry <i>itself</i> might be found better,”</span> Nancy
+      wrote, <span className={styles.grayShadow}>“where there isn’t any poetry at all...Poetry
+      does not coincide with itself.”</span> Eternal return of the same difficulty, that of appearing together. Not of
+      appearing as if together but together-appearing, compearance. I’ve been telling myself how the Other stands
+      there for me, against the wall of all-else, and I should take note of its budding circle-producing. How
+      poetry can be a brick and a garden.
+      <br/>
+      <br/>
+      <br/>
+      To draw a territory. MP on love:   <span className={styles.grayShadow}>“to make my outside your inside, and
+      vice versa.”</span> To, as GL would
+      write, affirm that bodily reaction does not arise from excitation, but that the outside world lends
+      evidence for a movement occurring in the deep, we weave a fiction for every pre-game. <span className={styles.grayShadow}>“To be exposed
+      is to be ‘posed’ in exteriority,”</span> wrote Nancy. An intimate outside, not like one’s childhood
+      backyard, but like one’s head of hair.
+      <br/>
+      <br/>
+      <br/>
+      We have the desire to be together, either at an origin or, orgiastically, at the end of all trouble.
+      <br/>
+      <br/>
+      <br/>
+      Wordsworthian sublime as element of oneself taken place outside of one’s motive, an unreachable tide, staggered
+      by the vision of the giant swan. On a beach in Niantic, N. and I sip seltzer down and read to each other, the
+      hottest people around, naked in our summer outfits. I’m leaning on my fist and elbow, dreaming of making her
+      quiver, on the lookout for loose nipples, sine waves lapping a child. “A child is being lapped.” A lapsus is
+      being birthed, and for what? Other than making it difficult.
+      <br/>
+      <br/>
+      <br/>
+      I haven’t been able to do anything anything, but seeing myself loving, fucking, as if I were watching myself
+      showering, wondering how powerful such a body would be over me. In combat. I had to stop smoking weed in my
+      Somerville apartment. Too hot to walk around in, I would vegetate, waking up in a
+      spiral. <span className={styles.grayShadow}>Where do we find ourselves</span>… (Emerson). Though now, there’s
+      cicada-whir, budging me.
+      <br/>
+      <br/>
+      <br/>
+      Waking up so cloudy I slap blood out of my mouth in the car, punch my jaw so hard I let go of the steering
+      wheel. Yelling into the dash. This is the danger I’m printed on. A trip to regulated life at a desk. A deck
+      of emotion on which is laid the granular innate, innately intimate body. Throating the drunk liquid, shoveling
+      shit into my gullet, finally sure of some breakdown of bodily softening that could be said to be mine. A few
+      mornings of not being able to speak, of holding my ribs, N.’s had enough of it, and drives me to the ER in
+      a hurry. I toke before getting into the car, the light at the end of the cartridge flashed, hatred of
+      the image intensified, entwined in a chrysalis of fear that in stretching out my arms, the muscles will
+      fall from the bone. We drive behind a truck with an advertisement: <span className={styles.grayShadow}>Ur | bane</span>, N. pronounces it “ur-bane.” The
+      master of bone. I have fishbowl vision, and this won’t end, even after the medication I’m prescribed kicks
+      in, although already I’m remembering believing. Remembering believing in remembering-at-hand. A pin
+      emerging, red hot, out of the birthday balloon.
+      <br/>
+      <br/>
+      <br/>
       </StandardProse>
       <Footer/>
     </>
