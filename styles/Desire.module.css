@@ -39,9 +39,17 @@
   font-family: "base-9-sans", sans-serif;
   font-weight: 300;
   font-style: normal;
-  font-size:1.2rem;
+  font-size:1.5rem;
   text-shadow:2px 2px gainsboro;
   letter-spacing:-0.02rem;
   line-height:1.7em;
-  margin-left:8vw;
+  margin-left:13vw;
+}
+
+.boldHeader {
+  font-size:1.6rem;
+  font-weight: 700;
+  text-shadow:1px 1px snow,
+              8px 8px #aaf0d1;
+
 }
