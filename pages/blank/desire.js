@@ -60,7 +60,7 @@ earthquakes. knowing what happens when separate, powerful bodies come,
 as in fascination, as in momentum, as in defying the fact of edges, to meet
 
 `}<span className={styles.boldHeader}>fiction—</span><br/>
-{`the knowledge of green is told in the language of trees. the knowledge of hunger
+<i>the knowledge of green is told in the language of trees</i>{`. the knowledge of hunger
 is told in hunger. to take in the generous way the night takes in the land,
 all of it, one mouthful. to fall is always to move through something that
 hasn’t taken place yet, one digs with their body a tunnel for the following
@@ -74,7 +74,7 @@ made, instead of how it has been imagined. dislocation of blue by a single
 `}<span className={styles.boldHeader}>chorus—</span><br/>
 {`if only transposition were enough. if we were for even a second free of our
 helpless powers of change. in the pulse of two fingers held to the throat lay
-a dark pulsing morse of yes. I ran, yes I ran, towards the cannibal light breaking
+a dark pulsing morse of yes. I ran, yes I `}<i>ran</i>{`, towards the cannibal light breaking
 teeth on the day, like fire struggling to be born under all that continent, all
 
 `}<span className={styles.boldHeader}>extent—</span><br/>
