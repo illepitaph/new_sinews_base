@@ -1,0 +1,25 @@
+.duskShadow {
+  font-style:italic;
+  text-shadow:2px 2px snow,
+              4px 4px 8px #aaf0d1;
+}
+
+.inverse {
+  color:black;
+  text-shadow:4px 4px snow,
+              6px 6px #aaf0d1;
+}
+
+.duskShadowUpper {
+  font-style:italic;
+  text-shadow:2px 2px black,
+              4px 4px 12px silver;
+  text-transform: uppercase;
+}
+
+.inverseUpper {
+  color:black;
+  text-shadow:4px 4px snow,
+              6px 6px 12px #b0b0b0;
+                text-transform: uppercase;
+}
