@@ -36,7 +36,15 @@ export default function Desire() {
 
     <LeftBlackTitle><span className={styles.bareHeader}>... xiao ...<br/>... yue ...<br/>... shan ...</span>
     </LeftBlackTitle>
+
+    <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+    <div className={styles.poemTitleContainer}>
+    <div><i>nothing can fix the finite which lies between the two infinities that enclose
+    and flee from it</i><br/><br/><br/>—blaise pascal</div>
+    </div>
     </>
+
 
   )
 }
