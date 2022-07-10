@@ -14,7 +14,7 @@ Griffin.image = "https://www.newnewsinews.com/images/TargetBackground.jpg"
 export default function Griffin() {
   return (
     <>
-    <Header headerBackground="desireBackground"/>
+    <Header headerBackground="griffinBackground"/>
 
     <br/>
     <br/>
