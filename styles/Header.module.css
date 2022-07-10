@@ -297,6 +297,10 @@
   background-image:url("../public/images/TargetBackground.jpg");
 }
 
+.desireBackground {
+  background-image:url("../public/images/DesireBackground.jpg");
+}
+
 
 @media (width:1024px) and (height:1366px) {
 

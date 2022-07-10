@@ -13,6 +13,7 @@ Desire.image = "https://www.newnewsinews.com/images/TargetBackground.jpg"
 export default function Desire() {
   return (
     <>
+    <Header headerBackground="desireBackground"/>
     <LeftGrayTitle><span className={styles.duskShadowUpper}>... t</span><span className={styles.duskShadow}><span
     className={styles.inverse}>h</span>e <span
     className={styles.inverse}>... </span>d<span
