@@ -1,16 +1,10 @@
 .titleShadow {
+  color:white;
   font-size:3.3rem;
-  text-shadow:2px 2px snow,
-              4px 4px 14px gainsboro;
+  text-shadow:1px 1px black,
+              4px 4px 16px black;
   text-transform:uppercase;
   opacity:0.6;
-}
-
-.titleShadowAlternate {
-  font-size:3.6rem;
-  text-shadow:2px 2px snow,
-              4px 4px 14px gainsboro;
-  text-transform:uppercase;
 }
 
 .inverseShadow {

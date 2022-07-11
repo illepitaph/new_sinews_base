@@ -14,23 +14,27 @@ export default function Desire() {
   return (
     <>
     <Header headerBackground="desireBackground"/>
-    <LeftGrayTitle><span className={styles.duskShadowUpper}>... t</span><span className={styles.duskShadow}><span
-    className={styles.inverse}>h</span>e <span
-    className={styles.inverse}>... </span>d<span
-    className={styles.inverse}>i</span>c<span className={styles.duskShadowUpper}>T</span><span
-    className={styles.inverse}>i</span>o<span
-    className={styles.inverseUpper}>n</span><span
-    className={styles.duskShadow}>a</span><span className={styles.duskShadowUpper}>r</span><span
-    className={styles.inverseUpper}>y</span> ... </span></LeftGrayTitle>
+    <LeftGrayTitle><span className={styles.mintShadow}>... <span
+    className={styles.silverShadowUpper}>t</span><span
+    className={styles.grayShadow}> h</span> <span
+    className={styles.inverse}>e ... </span><span
+    className={styles.silverShadow}>d</span> <span
+    className={styles.inverse}><i>i</i> </span> c<span className={styles.silverShadowUpper}>T </span><span
+    className={styles.grayShadow}>i </span><span
+    className={styles.silverShadow}>o</span><span
+    className={styles.inverseUpper}><i>n</i> </span><span
+    className={styles.mintShadow}>a </span><span className={styles.silverShadowUpper}>r </span><span
+    className={styles.inverseUpper}>y </span> ... </span></LeftGrayTitle>
 
 
     <RightGrayTitle><span
-    className={styles.inverse}>_</span><span className={styles.duskShadow}> o<span
-    className={styles.inverseUpper}>f</span> _ <br/><br/><br/> <span
-    className={styles.inverse}>... </span><span
-    className={styles.inverse}>d</span>e<span className={styles.duskShadowUpper}>s</span><span
-    className={styles.inverse}>i</span><span className={styles.duskShadowUpper}>r</span><span
-    className={styles.inverseUpper}>e</span> ... </span></RightGrayTitle>
+    className={styles.grayShadow}><span
+    className={styles.silverShadowUpper}>_</span></span><span className={styles.mintShadow}> o<span
+    className={styles.inverseUpper}><i>f</i></span> _ <br/><br/><br/> <span
+    className={styles.grayShadow}>... </span><span
+    className={styles.silverShadow}>d</span> e <span className={styles.silverShadowUpper}>s </span><span
+    className={styles.inverse}>i </span><span className={styles.silverShadowUpper}>r </span><span
+    className={styles.inverseUpper}>e</span> <span className={styles.inverse}>...</span> </span></RightGrayTitle>
 
 
     <br/><br/>

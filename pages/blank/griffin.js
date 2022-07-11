@@ -33,7 +33,7 @@ export default function Griffin() {
     className={styles.titleShadow}>w</span><span
     className={styles.inverseShadow}>a</span><span
     className={styles.mintAlternate}>l </span><span
-    className={styles.titleShadow}>n</span><span
+    className={styles.titleShadow}><i>n</i></span><span
     className={styles.inverseShadow}> u</span><span
     className={styles.mintAlternate}>t</span></RightGrayTitle>
 
@@ -53,7 +53,7 @@ export default function Griffin() {
     className={styles.titleShadow}>n </span><span
     className={styles.inverseShadow}>o </span><span
     className={styles.mintAlternate}>t </span><span
-    className={styles.titleShadow}>h </span><span
+    className={styles.titleShadow}><i>h</i> </span><span
     className={styles.inverseShadowAlternate}>e <span
     className={styles.inverseShadow}>r </span></span><span
     className={styles.mintAlternate}>wh<span
