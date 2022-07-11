@@ -29,7 +29,7 @@ export default function Griffin() {
     </CenterGrayTitle>
 
 
-    <RightGrayTitle><span className={styles.inverseShadow}>a</span><br/><span
+    <RightGrayTitle><span className={styles.inverseShadow}>a</span><br/><br/><span
     className={styles.titleShadow}>w</span><span
     className={styles.inverseShadow}>a</span><span
     className={styles.mintAlternate}>l </span><span
@@ -49,13 +49,13 @@ export default function Griffin() {
     <br/>
     <br/>
 
-    <LeftGrayTitle><span className={styles.inverseShadow}>a</span><span
-    className={styles.titleShadow}>n</span><span
-    className={styles.inverseShadow}>o</span><span
+    <LeftGrayTitle><span className={styles.inverseShadow}>a </span><span
+    className={styles.titleShadow}>n </span><span
+    className={styles.inverseShadow}>o </span><span
     className={styles.mintAlternate}>t </span><span
-    className={styles.titleShadow}>h</span><span
-    className={styles.inverseShadowAlternate}>e<span
-    className={styles.inverseShadow}>r</span></span><span
+    className={styles.titleShadow}>h </span><span
+    className={styles.inverseShadowAlternate}>e <span
+    className={styles.inverseShadow}>r </span></span><span
     className={styles.mintAlternate}>wh<span
     className={styles.inverseShadowAlternate}>er</span>e</span></LeftGrayTitle>
 
@@ -78,7 +78,7 @@ export default function Griffin() {
     <i>the nut's on public transit, then park</i>
     </div>
 
-
+    <Footer/>
     </>
   )
 }
