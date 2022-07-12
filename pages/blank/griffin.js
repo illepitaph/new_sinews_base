@@ -95,7 +95,26 @@ export default function Griffin() {
                                                                               (   ) (  )
                                                                             (   )  (   )
                                                                          (    )   (    )
-                                                                        (   )    (    )`}</pre>
+                                                                        (   )    (    )
+                                                                         (a)    (fruit)
+                                                                         (in)    (husk)
+                                                                          (the)    (hussk)
+                                                                        (peelss)    off
+                                                                            ooff     odff
+                                                                             to     let
+                                                                           me    drop
+                                                                        drobp    and
+                                                                          roll      to
+                                                                           new     place
+                                                                               as     shell
+                                                                              with    seed
+                                                                             called     meat
+                                                                      	          in     me
+                                                                                    in     park
+                                                                                      i     see
+                                                                                 shel     seees
+                                                                                  this      park
+`}</pre>
 
     <Footer/>
     </>
