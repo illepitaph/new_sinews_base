@@ -20,7 +20,7 @@ export default function Desire() {
     className={styles.inverse}>e ... </span><span
     className={styles.silverShadow}>d</span> <span
     className={styles.inverse}><i>i</i> </span> c<span className={styles.silverShadowUpper}>T </span><span
-    className={styles.grayShadow}>i </span><span
+    className={styles.grayShadow}><i>i</i> </span><span
     className={styles.silverShadow}>o</span><span
     className={styles.inverseUpper}><i>n</i> </span><span
     className={styles.mintShadow}>a </span><span className={styles.silverShadowUpper}>r </span><span

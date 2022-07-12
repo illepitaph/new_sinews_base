@@ -78,6 +78,25 @@ export default function Griffin() {
     <i>the nut's on public transit, then park</i>
     </div>
 
+    <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+
+    <pre className={styles.poem}>{`                                                                        ....
+                                                                        ....
+                                                                          ....
+                                                                             ....
+                                                                                 |...
+                                                                              | |..
+                                                                                 | | | |
+                                                                               | | | |
+                                                                                |  |  | )
+                                                                                (  |  |  )
+                                                                                (  )(  )
+                                                                              (   ) (  )
+                                                                            (   )  (   )
+                                                                         (    )   (    )
+                                                                        (   )    (    )`}</pre>
+
     <Footer/>
     </>
   )
