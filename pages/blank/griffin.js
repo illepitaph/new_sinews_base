@@ -197,6 +197,49 @@ export default function Griffin() {
                                                                          proteins | that comes from andromeda galaxy  )
                                                                         ( a stem in adrumeda galaxy | we’re linked )
                                                                             ( andromeda stem buzzs me ) ( saying wut )
+                                                                                        (  ..  )   ( ..)
+                                                                                           ( .. )   (..)
+                                                                                               ( .. ) ( .. )
+                                                                                                    ( .. )( .. )
+                                                                                                          ( ..  ..  )
+                                                                                                               (  .. ..)
+                                                                                                                     ( ....)
+                                                                                                                      (  .... )
+                                                                                                                      (   .... )
+                                                                                               ( a seaweed in andromeda | shakes )
+                                                                                           (  seaweed dancing ) ( in that star disc )
+                                                                                                 (  in rotating heavy galaxy dsic ) ( a
+                                                                                              zoom down ) ( seweed shakes | ordering
+                                                                                                   amino molecule in me to shake
+                                                                                                                       ( ....  )
+                                                                                                                        (  .... )
+                                                                                                                           ( .... )
+                                                                                                                              ( ..|..)
+                                                                                                                            (...||...)
+                                                                                                                ( mainwhile | i’m in park ) ( gooseland )
+                                                                                                                       (eggs oboeing in hidden)
+                                                                                                                             ( ...||.... )
+                                                                                                                              ( ...| )( |... )
+                                                                                                                               ( ...| )  ( | ... )
+                                                                                                                                  the    park’s
+                                                                                                                                 a      duck
+                                                                                                                                 that     flies
+                                                                                                                                       its     lake
+                                                                                                                                          to      land
+                                                                                                                                                   on    lake
+                                                                                                                                                     skims    lake
+                                                                                                                                                          to    float
+                                                                                                                                         (  lake is past tense of like )  (  as
+                                                                                                                                       in | discwater ) (  reversing likeness )
+                                                                                                                                          ( to rest on )  ( gathering full day in
+                                                                                                                                       feathershell | keeps duckgoose warm )
+                                                                                                                                                          goose  fooot
+                                                                                                                                                              a      thawp
+                                                                                                                                                       foot     for
+                                                                                                                                                  plop     thwap
+                                                                                                                                               with      web
+                                                                                                                                          honk     each
+                                                                                                                                     goose     clops
 
 `}</pre>
 
