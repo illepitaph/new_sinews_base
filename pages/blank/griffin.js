@@ -114,6 +114,69 @@ export default function Griffin() {
                                                                                       i     see
                                                                                  shel     seees
                                                                                   this      park
+                                                                         ( walnut falls off tree and rolls  )
+                                                                      ( out of b train) ( outta c trein) (into park)
+                                                                         ( rolling from 4/5/6 treens   )
+                                                                       ( wolly a wellknut in centrl prk )
+                                                                                    as     loan
+                                                                                 from     twig
+                                                                                     from     branch
+                                                                                      brench     rdops
+                                                                                               me      i
+                                                                                             roall     roll
+                                                                                              in      train
+                                                                                        treen      roaoalls
+                                                                                       to      park
+                                                                                      wet     park
+                                                                                           stem      park
+                                                                                              sky        peark
+                                                                                                 sckyy     sckyyy
+                                                                                                       prk     grass
+                                                                                                               path     is
+                                                                                                                   rock     is
+                                                                                                                      rogck   rogck
+                                                                                                                           it      flowms
+                                                                                                                          me      bends
+                                                                                                                         me      shellts
+                                                                                                                      me      that
+                                                                                                                   way     and
+                                                                                                               ducks     fly
+                                                                                                           thruh      me
+                                                                                                              in     park
+                                                                                                           nut     pirk
+                                                                                                           nuttt    with
+                                                                                                          dyucks   that
+                                                                                                             flap      throo
+                                                                                                                my      shell
+                                                                                                      (   wolly gets genechucked )
+                                                                                                      (  to park)  (  sensing with shell )
+                                                                                                          (  i’m wolly | miniuvering  )
+                                                                                                       ( entengangled | with faroff  )
+                                                                                                                        a    wa
+                                                                                                                        wa     nut
+                                                                                                                          in    fact
+                                                                                                                             a      fruit
+                                                                                                                                  a    wood
+                                                                                                                                       woo    wooo
+                                                                                                                                              bark      a
+                                                                                                                                                   pool     a
+                                                                                                                                                    drop     of
+                                                                                                                                                    drupe    of
+                                                                                                                                                  wood      i
+                                                                                                                                                  roll    my
+                                                                                                                                          seedt     roll
+                                                                                                                                         my    shell
+                                                                                                                                  popd    from
+                                                                                                                           gene     gene
+                                                                                                                gene      and
+                                                                                                         gene      seesd’s
+                                                                                                         me      i
+                                                                                                    clack   clack
+                                                                                                       wa    wa
+                                                                                                       wal    wall
+                                                                                                           in    shkull
+                                                                                                      called   schell
+                                                                                                             i      roll
 `}</pre>
 
     <Footer/>
