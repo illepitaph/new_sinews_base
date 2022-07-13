@@ -103,19 +103,19 @@ export default function Griffin() {
                                                                             ooff     odff
                                                                              to     let
                                                                            me    drop
-                                                                        drobp    and
-                                                                          roll      to
-                                                                           new     place
-                                                                               as     shell
-                                                                              with    seed
-                                                                             called     meat
-                                                                      	          in     me
-                                                                                    in     park
-                                                                                      i     see
-                                                                                 shel     seees
-                                                                                  this      park
-                                                                         ( walnut falls off tree and rolls  )
-                                                                      ( out of b train) ( outta c trein) (into park)
+                                                                       drobp    and
+                                                                         roll      to
+                                                                          new     place
+                                                                              as     shell
+                                                                             with    seed
+                                                                            called     meat
+                                                                      	         in     me
+                                                                                   in     park
+                                                                                     i     see
+                                                                                shel     seees
+                                                                                 this      park
+                                                                        ( walnut falls off tree and rolls  )
+                                                                     ( out of b train) ( outta c trein) (into park)
                                                                          ( rolling from 4/5/6 treens   )
                                                                        ( wolly a wellknut in centrl prk )
                                                                                     as     loan
@@ -149,7 +149,7 @@ export default function Griffin() {
                                                                                                              flap      throo
                                                                                                                 my      shell
                                                                                                       (   wolly gets genechucked )
-                                                                                                      (  to park)  (  sensing with shell )
+                                                                                                     (  to park)  (  sensing with shell )
                                                                                                           (  i’m wolly | miniuvering  )
                                                                                                        ( entengangled | with faroff  )
                                                                                                                         a    wa
