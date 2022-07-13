@@ -177,6 +177,27 @@ export default function Griffin() {
                                                                                                            in    shkull
                                                                                                       called   schell
                                                                                                              i      roll
+                                                                                      (  becuse of subway | i ticketed along )
+                                                                                     ( a susbscription) ( turnstiles slowly
+                                                                                         accmululating as an air )  (a tugged
+                                                                                  fruiting clutch in this treen | treen | treen)
+                                                                                    (  rattling a sapway undergroanwd )
+                                                                                                           as     pod
+                                                                                                          as    whelp
+                                                                                                        as      nut
+                                                                                                    dropt    to
+                                                                                                seeed      to
+                                                                                             see      to
+                                                                                         seeeed     as
+                                                                                        safe     as
+                                                                                        can    beed
+                                                                                         ( )   (   )
+                                                                                    ( .. )   ( .. )
+                                                                           ( all the whyle i vibrate)  ( a stir in my
+                                                                         proteins | that comes from andromeda galaxy  )
+                                                                        ( a stem in adrumeda galaxy | we’re linked )
+                                                                            ( andromeda stem buzzs me ) ( saying wut )
+
 `}</pre>
 
     <Footer/>
