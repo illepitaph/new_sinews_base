@@ -368,6 +368,37 @@ export default function Griffin() {
                                                                                                       time ) (  i hope i don’t ) ( dear swayweed )
                                                                                                                                i       don't
                                                                                                                              like       to
+                                                                                                                              be      born
+                                                                                                                              (...| | |..)
+                                                                                                                              (...|||..)
+                                                                                                                            (..||||..)
+                                                                                                                            (.||||.)
+                                                                                                                        (.||||.)
+                                                                                                                   (||||)
+                                                                                                (  or rat eats me and that’s that  )
+                                                                                            ( a dog | a pigeon | a rat passes me by )
+                                                                                                  (  today i survive   )
+                                                                                                       sealed    shshut
+                                                                                                           to      wax
+                                                                                                          to     clamp
+                                                                                                            to      down
+                                                                                                         calmp    to
+                                                                                                            clam    down
+                                                                                                                 a       point
+                                                                                                                 valve       an
+                                                                                                                   arch       poynt
+                                                                                                       (  nooked into shell clamp ) ( my
+                                                                                                          double recessives  ) ( hey seawead )
+                                                                                                                          i’m         a
+                                                                                                                        tree        clam
+                                                                                                                         washed     to
+                                                                                                                         ground      a
+                                                                                                                                 tree       calm
+                                                                                                                                          a        tree
+                                                                                                                                            clam      treen
+                                                                                                                                                clam    valved
+                                                                                                                                                     shut      and
+                                                                                                                                                      dried      up
 
 
 `}</pre>
