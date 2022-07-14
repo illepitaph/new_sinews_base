@@ -313,6 +313,45 @@ export default function Griffin() {
                                                                                                          sprays     a
                                                                                                             life     thrue
                                                                                                            the      park
+                                                                                         (  according to a science | a history
+                                                                                        of why i’d get made )  (it’s to
+                                                                                   explode  ) ( into tree ) ( splosive branch tips
+                                                                                    antennas for sunrhythms ) ( leafpanes  )
+                                                                                                  as    far
+                                                                                                as   trees
+                                                                                            go   each
+                                                                                        tree   knows
+                                                                                      i’m    just
+                                                                                      half   so
+                                                                                     (...| ) (|| .. )
+                                                                                       (...|)(|| ..)
+                                                                                       (...| || .. )
+                                                                                     ( ...| ||.. )
+                                                                                  ( ...| | |..)
+                                                                                  (...| | |..)
+                                                                                  not   not
+                                                                                  wood    a
+                                                                                  shape    of
+                                                                                  hard     of
+                                                                                  shaped    hard
+                                                                                  wood      not
+                                                                                  wood     or
+                                                                                  bark      or
+                                                                                  plank     plane
+                                                                                  i’m     from
+                                                                                  tree      treen
+                                                                                  sub     that
+                                                                                  coughs    me
+                                                                                  out      it
+                                                                                  cranks    a
+                                                                                  cough    it
+                                                                                  trees     out
+                                                                                  grizzs    out
+                                                                                   barks    out
+                                                                                      line    and
+                                                                                          oil      oil
+                                                                                             and     pod
+
 
 `}</pre>
 
