@@ -255,6 +255,25 @@ export default function Griffin() {
                                                                                disc    the
                                                                              neck   wears
                                                                                 to      onk
+                                                                             ( ...|)      ( | ...)
+                                                                                  (...|)     (| ...)
+                                                                                    (...| )   (| ... )
+                                                                                         ( ...| )  (|... )
+                                                                                             (...|)(|...)
+                                                                                                  (...||...)
+                                                                                                     (..|..|..)
+                                                                                                    (|.....|.)
+                                                                                                    (|...|.)
+                                                                                                   (|.|.)
+                                                                            ( a nut is a travelog) ( cluckd up from
+                                                                                treen ) (  an unravelogue )
+                                                                                      ( spit out | clocked up  )
+                                                                                 (  into park thru tirmstyles)
+                                                                                                  (|.|.)
+                                                                                          gene(|.|.)gene
+                                                                                        gene(|.|.)gene
+                                                                                           gene(|.|.)
+                                                                                                      (|.|.)gone
 
 `}</pre>
 
