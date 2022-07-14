@@ -399,6 +399,11 @@ export default function Griffin() {
                                                                                                                                                 clam    valved
                                                                                                                                                      shut      and
                                                                                                                                                       dried      up
+                                                                                                                                      (  unseenweed in andromeda sea
+                                                                                                                                  ( shakes me ) ( aminoly)  (it contrasts
+                                                                                                                                      against lightyears | at once)  (against
+                                                                                                                                  ( twomillionyears it’s at once ) ( weed
+                                                                                                                                        twitches | under my valvet hide )
 
 
 `}</pre>
