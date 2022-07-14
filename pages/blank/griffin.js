@@ -274,6 +274,45 @@ export default function Griffin() {
                                                                                         gene(|.|.)gene
                                                                                            gene(|.|.)
                                                                                                       (|.|.)gone
+                                                                                        ( gone with a specieal quality ) ( ejected
+                                                                                        into a type | a packet   ) ( goad and info )
+                                                                                                 (  and errosrs for the future )
+                                                                                                                    (|.|.)
+                                                                                                                           (.|.|.)
+                                                                                                                                   (.|.|.)
+                                                                                                                                           (.|..|.)
+                                                                                                                                        stic (.|..|.)stuc
+                                                                                                                                             uck(.|..|.)icked
+                                                                                                                                              stucc(.|..|.)to
+                                                                                                                                                  this(.|..|.)form
+                                                                                                                                                 this(.|..|.)kind
+                                                                                                                                                 of (.|..|.) life
+                                                                                                                                                  (..|.||..)
+                                                                                                                                              (...|||..)
+                                                                                                                                           (...| ||..)
+                                                                                                                                      (...|)(|| .. )
+                                                                                                                                (...| )   ( || .. )
+                                                                                                      (  sensing as a rattling | a knuckling on
+                                                                                                            ( shell  )  ( sense that each one isn’t quite
+                                                                                                        settled in | topology of hapi
+                                                                                                       appiness funneling out  )
+                                                                                                            gene   strips
+                                                                                                          out    out
+                                                                                                    paths    a
+                                                                                            park    road
+                                                                                        and    paths
+                                                                                      a     shell
+                                                                                    a     duck
+                                                                                      a     nut
+                                                                                      rips     a
+                                                                                           way    thru
+                                                                                              grass     hill
+                                                                                                   thruw      leaf
+                                                                                                        rags     this
+                                                                                                            gene    strip
+                                                                                                         sprays     a
+                                                                                                            life     thrue
+                                                                                                           the      park
 
 `}</pre>
 
