@@ -351,6 +351,23 @@ export default function Griffin() {
                                                                                       line    and
                                                                                           oil      oil
                                                                                              and     pod
+                                                                                                   i     drop
+                                                                                                        i       pod
+                                                                                                         these   drops
+                                                                                                                 of        me
+                                                                                                                     wal     wal
+                                                                                                                      roll     there
+                                                                                                         (  waht i’m carrying in me ) ( it’s
+                                                                                                      info ) ( twined purpose ) ( it’ll make me
+                                                                                                    a tree | gut me with roots  ) ( i haven’t been
+                                                                                                          made yet ) ( with my gene info )
+                                                                                                                              i    flip
+                                                                                                                             out    in
+                                                                                                                            soft     still
+                                                                                                    ( i’m gene bomb | that’ll explode through
+                                                                                                      time ) (  i hope i don’t ) ( dear swayweed )
+                                                                                                                               i       don't
+                                                                                                                             like       to
 
 
 `}</pre>
