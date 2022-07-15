@@ -559,6 +559,18 @@ export default function Griffin() {
                                                                                                                    bomb     strike
                                                                                                                           bomb    bomb
                                                                                                                              bomb     bomb
+                                                                                                                                  i      dodge
+                                                                                                                                their   deaths
+                                                                                                                                their     plans
+                                                                                                                    (  the treenfate schedules me )
+                                                                                                                 ( and even if my cells eat me
+                                                                                                                         eat me | eat me ) (  i’m
+                                                                                                                     out for a roll in the park today )
+                                                                                                                                long     glass
+                                                                                                                                 and      steel
+                                                                                                                               homes    past
+                                                                                                                                the     trees
+                                                                                                                          these     glass
 
 
 
