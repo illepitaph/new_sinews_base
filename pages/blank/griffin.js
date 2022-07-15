@@ -462,6 +462,106 @@ export default function Griffin() {
                                                                                      to     sail
                                                                                      to     jlump
                                                                                   from    grass
+                                                                                      tip      to
+                                                                                      sail     off
+                                                                                    mud     in
+                                                                                     sun      on
+                                                                                      sumn      in
+                                                                                      close      touch
+                                                                                         with     wind
+                                                                                              i      see
+                                                                                           all     this
+                                                                                        park     and
+                                                                                    road     and
+                                                                                       i       kno
+                                                                                     sun     null
+                                                                                     smog   knuck
+                                                                                        air      a
+                                                                                        tree     pod
+                                                                                         that’s    not
+                                                                                               me     yes
+                                                                                                 it’s      me
+                                                                                     (  i get split  )  ( i get spl | spl | sp
+                                                                                         lit by having to be | by eventually )
+                                                                                            (  that splices    )  ( i splay to
+                                                                                        rooting | somedya | mabye ) ( maybe )
+                                                                                                    grown      and
+                                                                                                        dry       as
+                                                                                                     sprung    sprang
+                                                                                                           a      shoot
+                                                                                                          shot      off
+                                                                                                              shot    shoot
+                                                                                                                      i      wick
+                                                                                                                           these     sights
+                                                                                                                                   like       a
+                                                                                                                                        fad       of
+                                                                                                                                         skin     skimd
+                                                                                                                                ( my personality’s the personality of
+                                                                                                                                the code for the life that’s important  )
+                                                                                                                                    (   the tree | the important life )
+                                                                                                                                                   ( | | )     ( .. )
+                                                                                                                                                    ( | | )    ( .. )
+                                                                                                                                                      ( | | ) ( .. )
+                                                                                                                                                        ( | | .. )
+                                                                                                                                                       ( | | .... )
+                                                                                                                                                      ( | | ||..)
+                                                                                                                                                    ( | | ||..)
+                                                                                                                                                  ( | | | | .. )
+                                                                                                                                                 ( | | | | )( .. )
+                                                                                                                                                ( | | | | )   ( .. )
+                                                                                                                                                ( | | | | )    ( .. )
+                                                                                                                                                   the      train
+                                                                                                                                                    th      sub
+                                                                                                                                                    it       shakes
+                                                                                                                                                     this     park
+                                                                                                                                                         it      swells
+                                                                                                                                                           trees     treen
+                                                                                                                                                           mrakes     land
+                                                                                                                                                                 roll        me
+                                                                                                                                                                       past       you
+                                                                                                                                                                            them      and
+                                                                                                                                                                               ducks       a
+                                                                                                                                                                                nut       a
+                                                                                                                                                                          shell     we’re
+                                                                                                                                                                       all    things
+                                                                                                                                            ( a seed | as treenstation | as stop
+                                                                                                                                          no tracks )  (  lacquer of | licqeur
+                                                                                                                                                  of | of rattle delay )
+                                                                                                                                                          i     feel
+                                                                                                                                                       a      still
+                                                                                                                                                     a      stop
+                                                                                                                                                tsill     spill
+                                                                                                                                                  i’m      in
+                                                                                                                                                treen      and
+                                                                                                                                              stretched   going
+                                                                                                                                                   but      no
+                                                                                                                                               ow      but
+                                                                                                                                            now      i’m
+                                                                                                                                      just     one
+                                                                                                                              sadt        seet
+                                                                                                            (  a tree’s my genefoam  ) ( so
+                                                                                                        i roll underfoot to die to let it
+                                                                                                       live ) ( cut andromaweed loose )
+                                                                                                           soles     feet
+                                                                                                   stomp     romp
+                                                                                                 down     from
+                                                                                            sky      feet
+                                                                                          cloud     down
+                                                                                            and       stombp
+                                                                                           burst      ants
+                                                                                                 an      ant
+                                                                                                 burst     and
+                                                                                                       heel   struck
+                                                                                                           it       heeld
+                                                                                                             its      heel
+                                                                                                             way     bomb
+                                                                                                              bomb       to
+                                                                                                                   bomb     strike
+                                                                                                                          bomb    bomb
+                                                                                                                             bomb     bomb
+
+
+
 
 
 `}</pre>
