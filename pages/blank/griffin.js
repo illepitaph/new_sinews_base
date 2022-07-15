@@ -404,6 +404,64 @@ export default function Griffin() {
                                                                                                                                       against lightyears | at once)  (against
                                                                                                                                   ( twomillionyears it’s at once ) ( weed
                                                                                                                                         twitches | under my valvet hide )
+                                                                                                                                                                (||||)
+                                                                                                                                                                 (|||| )
+                                                                                                                                                                ( || || )
+                                                                                                                                                                ( | | ||)
+                                                                                                                                                               ( | |)(||)
+                                                                                                                                                              ( | | ) ( ||)
+                                                                                                                                                            ( | | )    ( || )
+                                                                                                                                                          klamp     and
+                                                                                                                                                           seal       and
+                                                                                                                                                        cllamp       my
+                                                                                                                                                          face      with
+                                                                                                                                                      shell       seal
+                                                                                                                                                     the      face
+                                                                                                                                                of       each
+                                                                                                                                          thing’s   seed
+                                                                                                                                          each    one’s
+                                                                                                                                              a      fact
+                                                                                                                                             alll      faice
+                                                                                                                                              to     roll
+                                                                                                                                         throu     all
+                                                                                                                                    laughs     all
+                                                                                                                              lace      we
+                                                                                                                     sprout    laughs
+                                                                                                                   laff      lofv
+                                                                                                                lifft     this
+                                                                                                              loaf      of
+                                                                                                                me     seed
+                                                                                                            shakes    as
+                                                                                                                kelp     on
+                                                                                                               far    worlds
+                                                                                                         wake     up
+                                                                                             ( i wonder | should i lean into
+                                                                                        being instrument of infoamation  )
+                                                                                         (   frothing ) ( be a parcel for
+                                                                                      the life well-lived | by others  )
+                                                                                                   in      clef
+                                                                                              nook    in
+                                                                                              in       round
+                                                                                             hatch    seed
+                                                                                                 in       hold
+                                                                                                  in       out
+                                                                                     ( how long can i be this )  ( do i decide
+                                                                                  to be this )  ( i commit to )  ( to comomitting)
+                                                                                        (  straying or get planted
+                                                                                                    ( | | )   ( || )
+                                                                                                     ( | | )    ( || )
+                                                                                                       ( | | )   ( || )
+                                                                                                      ( | | )    ( .| )
+                                                                                                   ( | | )      ( .| )
+                                                                                                ( | | )        ( .. )
+                                                                                               mud       flicks
+                                                                                                up     grass
+                                                                                          blade      grass
+                                                                                      drops     i
+                                                                                   jump    grass
+                                                                                     to     sail
+                                                                                     to     jlump
+                                                                                  from    grass
 
 
 `}</pre>
