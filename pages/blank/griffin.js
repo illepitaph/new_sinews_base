@@ -602,6 +602,100 @@ export default function Griffin() {
                                                                                                                                      me      lea
                                                                                                                                    me     leave
                                                                                                                                  me    here
+                                                                                                              (  i rodode i rode the treen to
+                                                                                                        be a treen  )  ( while andormeda’s
+                                                                                                          shaking in me | telling me i’m
+                                                                                                        androm too )  (  seewove in the deep
+                                                                                                      (  in me ) (  shood i be a tree ? )
+                                                                                                               ( | | | | )       ( .. )
+                                                                                                             ( | | | | )       ( .. )
+                                                                                                             ( | | |..| )    ( .. )
+                                                                                                            ( | | | ..|)  ( .. )
+                                                                                                         ( | | | |..)  ( .. )
+                                                                                                        ( | | | |  ..)(..  )
+                                                                                                         ( | | | | ) (....  )
+                                                                                                           ( | | | | )  ( .... )
+                                                                                                            crack      me
+                                                                                                               now      just
+                                                                                                                    do       it
+                                                                                                                    i     crick
+                                                                                                                   at    beacks
+                                                                                                                 at     feet
+                                                                                                                  i    roll
+                                                                                                                   to     show
+                                                                                                                        a      look
+                                                                                                                          to     break
+                                                                                                                          looks    out
+                                                                                                                              look     in
+                                                                                                                                   ooks    clrack
+                                                                                                                                          up      all
+                                                                                                                                              this     face
+                                                                                                                                                     this     swim
+                                                                                                                                                             of     look
+                                                                                                                                                                   i     swim
+                                                                                                                                                                   in     shell
+                                                                                                                                                                           a     sea
+                                                                                                                                                                            of      loonks
+                                                                                                                                                                               each   loo
+                                                                                                                                                                                   a    face
+                                                                                                                                                                                    a    thing
+                                                                                                                                                                                    an    out
+                                                                                                                                                                                    i’m      in
+                                                                                                                                                                                 your    out
+                                                                                                                                                                              that’s     me
+                                                                                                                                                                             my    out’s
+                                                                                                                                                                            your     in
+                                                                                                                                                                        that’s    us
+                                                                                                                                                                     each   hard’s
+                                                                                                                                                                  a     soft
+                                                                                                                                                              and    us
+                                                                                                                                                        and     me
+                                                                                                                                                   are   shells
+                                                                                                                                                to      see
+                                                                                                                                              a      shell’s
+                                                                                                                                            my    way
+                                                                                                                                             i       say
+                                                                                                                                          don’t     kill
+                                                                                                                                           me      yet
+                                                                                                                                      (  | | | | )   ( .... )
+                                                                                                                                    ( |  | || )  ( .... )
+                                                                                                                                  ( | | || )( .... )
+                                                                                                                              ( | | || .... )
+                                                                                                                           ( | | || .... )
+                                                                                                                  ( | | ||.... )
+                                                                                                              (  | | |.|...)
+                                                                                                           ( | |.|.|..)
+                                                                                                        (|.|.|.|.)
+                                                                                                  (.|.|.|.|)
+                                                                                                    (|.|.|.|.)
+                                                                                                ( .|.|.|.| )
+                                                                                                  (  |.|.|.|. )
+                                                                                                 (  .|.|.|.|  )
+                                                                                                      (  |.|.|.|. )
+                                                                                                            (| |.|.|..)
+                                                                                                                  ( | |.| .|.. )
+                                                                                                                     ( | | . |  .|..)
+                                                                                                                           ( | | . |) (.|..)
+                                                                                                                                ( | . || ) (..|. )
+                                                                                                                                  ( |. | | )  ( ...| )
+                                                                                                                                   ( |. | | )    ( ...| )
+                                                                                                                                 ( | . | | )    ( ...| )
+                                                                                                                                ( | . | | )   (  ...| )
+                                                                                                                              ( | . | | )      (  ...| )
+                                                                                                                             ( | .)(| | )       ( ...| )
+                                                                                                                          ( | . ) ( | | )           ( ...| )
+                                                                                                                      ( | . )  ( | | )                ( .. .| )
+                                                                                                                  ( | . )     ( | | || )                 ( ..)( .|)
+                                                                                                                ( | ... )         ( | | || )	             ( .. ) (.| )
+                                                                                                             ( | . ) (..)       (| | ) ( || )	      ( .. )   ( .| )
+                                                                                                        ( | . | . )    ( .. )     (| | )  ( || )           ( .  . )     ( .| )
+                                                                                                    ( | .   | . ) () ( .. )         (| |)   ( || )           ( .. )(.. )    ( .| )
+
+
+
+
+
+
 
 
 
