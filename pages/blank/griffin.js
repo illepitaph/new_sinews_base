@@ -571,6 +571,37 @@ export default function Griffin() {
                                                                                                                                homes    past
                                                                                                                                 the     trees
                                                                                                                           these     glass
+                                                                                                                     homes     that
+                                                                                                                  blind      to
+                                                                                                            trees      the
+                                                                                                      trees     are
+                                                                                               blined    to
+                                                                                             too     and
+                                                                                         and     what’s
+                                                                                       bliind      to
+                                                                                       what     gets
+                                                                                        asked      once
+                                                                                             more    more
+                                                                                                   it   makes
+                                                                                                    me      roll
+                                                                                                   ( | | | | ) ( .... )
+                                                                                                    ( | | | | )  ( .... )
+                                                                                                      ( | | | | )   ( .... )
+                                                                                                      ( | | | | )    ( .... )
+                                                                                              (  to rerfuse part in
+                                                                                                 the tipe of story we tell
+                                                                                                at this time  ) ( this stag
+                                                                                                      ( of gene transfer   )
+                                                                                                                 as    nut
+                                                                                                                 i    call
+                                                                                                                  to     you
+                                                                                                                   eat    me
+                                                                                                                        eet    mee
+                                                                                                                              meel    me
+                                                                                                                                 meal    mleal
+                                                                                                                                     me      lea
+                                                                                                                                   me     leave
+                                                                                                                                 me    here
 
 
 
