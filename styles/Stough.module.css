@@ -6,6 +6,15 @@
               4px 4px black;
 }
 
+.duskShadowFaint {
+  font-size:4rem;
+  margin-left:3rem;
+  font-style:italic;
+  text-shadow:2px 2px snow,
+              4px 4px black;
+  opacity:0.3;
+}
+
 .inverse {
   color:black;
   text-shadow:4px 4px snow,
@@ -19,6 +28,16 @@
   text-shadow:2px 2px snow,
               4px 4px black;
   text-transform:uppercase;
+}
+
+.duskShadowUppercaseFaint {
+  font-size:4rem;
+  margin-left:3rem;
+  font-style:italic;
+  text-shadow:2px 2px snow,
+              4px 4px black;
+  text-transform:uppercase;
+  opacity:0.3;
 }
 
 .inverseUppercase {

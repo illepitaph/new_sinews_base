@@ -17,16 +17,17 @@ export default function Target() {
     <>
       <Head/>
       <Header headerBackground="targetBackground"/>
-      <RightGrayTitle><span className={styles.duskShadow}>a <span
+      <RightGrayTitle><span className={styles.duskShadow}><span
+      className={styles.duskShadowFaint}>a</span> <span
       className={styles.inverse}>c </span><span
-      className={styles.mintAlternate}>q</span> <span
+      className={styles.duskShadowFaint}>q</span> <span
       className={styles.inverseUppercase}>u</span>i<span className={styles.inverseUppercase}>r</span><span
       className={styles.duskShadowUppercase}>e</span><span
-      className={styles.mintAlternate}>d</span><br/><span
+      className={styles.duskShadowFaint}>d</span><br/><span
       className={styles.duskShadowUppercase}><span className={styles.headerIndent}>t </span></span> <span
       className={styles.inverse}>a</span><span className={styles.inverseUppercase}>r</span><span
       className={styles.mintAlternate}>g</span><span
-      className={styles.duskShadowUppercase}>e</span><span
+      className={styles.duskShadowUppercaseFaint}>e</span><span
       className={styles.inverse}> <span
       className={styles.t}>t</span></span></span></RightGrayTitle>
 
