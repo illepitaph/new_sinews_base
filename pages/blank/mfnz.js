@@ -22,9 +22,10 @@ export default function Marfa() {
       className={styles.marginTwo}>r</span><br/><br/><br/></span><span
       className={styles.inverseUppercase}><span
       className={styles.marginThree}>f</span></span><br/><br/><br/><span
-      className={styles.redShadowUppercase}>a</span></span><span
-      className={styles.inverse}> ,</span><br/><br/><br/><br/><span
       className={styles.marginFour}><span
+      className={styles.redShadowUppercase}>a</span><span
+      className={styles.inverse}> ,</span></span></span><br/><br/><br/><br/><span
+      className={styles.marginFive}><span
       className={styles.silverShadowUpper}><i>n</i> </span><span
       className={styles.inverseUppercase}>z</span></span></RightGrayTitle>
 

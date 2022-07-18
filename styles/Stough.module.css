@@ -15,6 +15,15 @@
   opacity:0.3;
 }
 
+.duskShadowFaintTwo {
+  font-size:4rem;
+  margin-left:3rem;
+  font-style:italic;
+  text-shadow:2px 2px snow,
+              4px 4px black;
+  opacity:0.6;
+}
+
 .inverse {
   color:black;
   text-shadow:4px 4px snow,
@@ -46,14 +55,6 @@
               6px 6px #b0b0b0;
   text-transform:uppercase;
 }
-
-.mintAlternate {
-  color:#aaf0d1;
-  text-shadow:4px 4px snow,
-              5px 5px 15px black;
-  opacity:0.4;
-}
-
 
 
 
