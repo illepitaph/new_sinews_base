@@ -28,6 +28,16 @@
   text-transform:uppercase;
 }
 
+.mintAlternate {
+  color:#aaf0d1;
+  text-shadow:4px 4px snow,
+              5px 5px 15px black;
+  opacity:0.4;
+}
+
+
+
+
 .headerIndent {
   margin-left:5rem;
 }

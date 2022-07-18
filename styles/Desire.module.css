@@ -18,10 +18,8 @@
 
 .silverShadowUpper {
   color:white;
-  font-style:italic;
   text-shadow:2px 2px black,
               4px 4px 12px silver;
-  text-transform: uppercase;
 }
 
 .inverse {

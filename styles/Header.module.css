@@ -297,18 +297,17 @@
   background-image:url("../public/images/MarfaBackground.jpg");
 }
 
-.targetBackground {
-  background-image:url("../public/images/TargetBackground.jpg");
+.griffinBackground {
+  background-image:url("../public/images/GriffinBackground.jpg");
 }
 
 .desireBackground {
   background-image:url("../public/images/DesireBackground.jpg");
 }
 
-.griffinBackground {
-  background-image:url("../public/images/GriffinBackground.jpg");
+.targetBackground {
+  background-image:url("../public/images/TargetBackground.jpg");
 }
-
 
 @media (width:1024px) and (height:1366px) {
 

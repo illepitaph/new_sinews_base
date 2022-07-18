@@ -1,0 +1,49 @@
+.blackShadow {
+  color:white;
+  font-size:4rem;
+  font-style:italic;
+  text-shadow:2px 2px 12px black;
+}
+
+.inverse {
+  color:black;
+  text-shadow:4px 4px snow,
+              6px 6px #b0b0b0;
+}
+
+.redShadowUppercase {
+  font-size:4rem;
+  text-shadow:1px 1px 6px #d10000;
+  text-transform:uppercase;
+}
+
+.inverseUppercase {
+  color:black;
+  text-shadow:4px 4px snow,
+              6px 6px #b0b0b0;
+  text-transform:uppercase;
+}
+
+.silverShadowUpper {
+  color:white;
+  text-shadow:2px 2px black,
+              4px 4px 12px silver;
+  text-transform: uppercase;
+  font-style: normal;
+}
+
+.marginOne {
+  margin-right:6vw;
+}
+
+.marginTwo {
+  margin-right:1vw;
+}
+
+.marginThree {
+  margin-right:5vw;
+}
+
+.marginFour {
+  margin-right:15vw;
+}
