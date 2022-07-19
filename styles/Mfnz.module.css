@@ -11,6 +11,12 @@
               6px 6px #b0b0b0;
 }
 
+.redShadow {
+  font-size:4rem;
+  text-shadow:1px 1px 6px #d10000;
+  text-transform:lowercase;
+}
+
 .redShadowUppercase {
   font-size:4rem;
   text-shadow:1px 1px 6px #d10000;
