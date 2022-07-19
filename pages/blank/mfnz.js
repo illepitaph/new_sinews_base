@@ -39,7 +39,8 @@ export default function Marfa() {
       className={styles.redShadowUppercase}>l </span><span
       className={styles.inverse}>a </span><span
       className={styles.silverShadowUpper}>n </span><span
-      className={styles.redShadow}>d _</span></span></LeftGrayTitle>
+      className={styles.redShadow}>d </span><span
+      className={styles.inverse}>_</span></span></LeftGrayTitle>
 
       <Footer/>
     </>
