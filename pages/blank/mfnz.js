@@ -460,7 +460,7 @@ warms the grass,`}</pre>
 
 <br/><br/>
 
-<p className={styles.altarText}><i>— 2015 - 2016</i></p>
+<p className={styles.altarTextTwo}><i>— 2015 - 2016</i></p>
 
 
       <Footer/>
