@@ -363,6 +363,104 @@ to translate The mild asphyxiation –
 
 vice`}</pre>
 
+<p className={styles.asteriskRed}>+</p>
+
+<pre className={styles.poem}>{`Someday the earth
+will be the moon
+
+beaten, abused
+extinguished
+
+and indispensably radiant
+to some other life
+
+“We would sweep the desert with a telescope.”
+—Violeta Barrios`}</pre>
+
+<p className={styles.asteriskInverse}>+</p>
+
+<pre className={styles.poem}>{`I thought: hell in the crevice
+
+where darkness is
+collected
+
+and harnessed—
+
+People
+mimic ghosts
+
+at once,
+
+but it comes out
+as the mocking
+of young people`}</pre>
+
+<p className={styles.asteriskSilver}>+</p>
+
+<pre className={styles.poem}>{`The moon was the hero
+deposed
+
+and licked, and made
+to carry correspondence up
+the long, arcing ladder
+
+I watched it rise
+out of the dark tree,
+
+where it was young
+and could not yet claim
+humiliation,
+
+then
+appreciate itself,
+
+it only meant (it meant only)
+appearing
+unadorned
+
+but it was—bright
+old fire`}</pre>
+
+<p className={styles.asteriskRed}>+</p>
+
+<pre className={styles.poem}>{`The shadow on the grass (in the yard)
+consolidates all the aspects of
+the self   into one
+black mass
+
+the color of the grass
+shielded from the sun
+
+by the ambiguous body
+pulled tight
+
+where the sun is
+
+a halo on
+
+the back of the original
+
+I do not know who I was
+when I was alive (aka
+on the ground;
+
+this death does not resolve
+the lack of knowing
+
+the impossibility is
+preserved
+in the glowing
+
+borders (edges).
+
+If there is no sun?
+
+Shadow   breath
+warms the grass,`}</pre>
+
+<br/><br/>
+
+<p className={styles.altarText}><i>— 2015 - 2016</i></p>
 
 
       <Footer/>
