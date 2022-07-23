@@ -319,7 +319,7 @@ mice,
 strangers
 assuage their depression ...
 
-`}</pre><span className={styles.altarText}>I approach the altar.</span><pre className={styles.poem}>{`The strait is behind me
+`}</pre><span className={styles.altarText}>I approach the altar</span><pre className={styles.poem}>{`The strait is behind me
 I approach the mirror
 If I can see The strait
 I am Invisible,
@@ -333,7 +333,7 @@ the rail
 
 “in solitude, asylum, or restraint”
 
-`}</pre><span className={styles.altarText}>I approach the altar.</span><pre className={styles.poem}>{`The strait
+`}</pre><span className={styles.altarText}>I approach the altar</span><pre className={styles.poem}>{`The strait
 in The back of my head
 
 implores
