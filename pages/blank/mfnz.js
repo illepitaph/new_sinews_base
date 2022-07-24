@@ -124,7 +124,7 @@ rejected a chorus`}</pre>
 <pre className={styles.poem}>{`Did mushrooms grow
 after rain? Did flowers?
 
-Yes, one mushroom	cont.`}</pre>
+Yes, one mushroom              cont.`}</pre>
 
 <p className={styles.asteriskRed}>+</p>
 
@@ -219,7 +219,7 @@ like the guardian of her megalithic sentence—`}</pre>
 <pre className={styles.poem}>{`corpse poem
 
 Google Bks
-`}</pre><p className={styles.specialArrow}>↓</p><pre className={styles.poem}>{`
+`}</pre><span className={styles.specialArrow}>↓</span><pre className={styles.poem}>{`
 
 Is it true?`}</pre>
 
@@ -260,9 +260,7 @@ the prestige`}</pre>
 
 <p className={styles.asteriskSilver}>+</p>
 
-<pre className={styles.poem}>{``}</pre><span className={styles.altarText}>I approach the altar.</span><pre className={styles.poem}>{`
-
-Fathers   always clutching,
+<pre className={styles.poem}>{``}</pre><span className={styles.altarText}>I approach the altar.</span><pre className={styles.poem}>{`Fathers   always clutching,
 
 wearing white   burying
 their face
