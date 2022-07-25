@@ -309,6 +309,10 @@
   background-image:url("../public/images/TargetBackground.jpg");
 }
 
+.beausangBackground {
+  background-image:url("../public/images/BeausangBackground.jpg");
+}
+
 @media (width:1024px) and (height:1366px) {
 
   .iconImage {
