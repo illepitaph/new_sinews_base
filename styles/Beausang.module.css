@@ -1,0 +1,46 @@
+.grayShadow {
+  color:gainsboro;
+  text-shadow:2px 2px white,
+              4px 4px 4px #E8E8E8;
+}
+
+.grayShadowUpper {
+  color:gainsboro;
+  text-shadow:2px 2px white,
+              4px 4px 4px #E8E8E8;
+  text-transform: uppercase;
+}
+
+.silverShadow {
+  color:white;
+  text-shadow:2px 2px black,
+              4px 4px 12px silver;
+}
+
+.silverShadowUpper {
+  color:white;
+  text-shadow:2px 2px black,
+              4px 4px 12px silver;
+  text-transform: uppercase;
+}
+
+.inverse {
+  color:black;
+  text-shadow:4px 4px snow,
+              6px 6px 12px #b0b0b0;
+}
+
+.inverseUpper {
+  color:black;
+  text-shadow:4px 4px snow,
+              6px 6px 12px #b0b0b0;
+  text-transform: uppercase;
+}
+
+.leftMarginPusher {
+  margin-left:25vw;
+}
+
+.leftMarginPusherTwo {
+  margin-left:5vw;
+}
