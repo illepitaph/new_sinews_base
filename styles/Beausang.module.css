@@ -1,5 +1,6 @@
 .grayShadow {
-  color:gainsboro;
+  font-size:2rem;
+  color:black;
   text-shadow:2px 2px white,
               4px 4px 4px #E8E8E8;
 }
@@ -45,4 +46,28 @@
 .leftMarginPusherTwo {
   margin-left:5vw;
   letter-spacing:0.75rem;
+}
+
+.grayShadowProse {
+  font-size:1.5rem;
+  color:black;
+  font-family:"lores-9-plus-wide", monospace;
+  text-shadow:1px 1px snow,
+              2px 2px #b0b0b0;
+}
+
+.grayShadowTwo {
+  font-size:1.5rem;
+  color:black;
+  font-family:"lores-9-plus-wide", monospace;
+  text-shadow:1px 1px snow,
+              2px 2px #b0b0b0;
+  line-height: 3rem;
+}
+
+.compactProse {
+  max-width:60vw;
+  margin-left:5vw;
+  font-size:1rem;
+  line-height:1.2rem;
 }
