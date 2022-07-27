@@ -39,8 +39,10 @@
 
 .leftMarginPusher {
   margin-left:25vw;
+  letter-spacing:0.5rem;
 }
 
 .leftMarginPusherTwo {
   margin-left:5vw;
+  letter-spacing:0.75rem;
 }

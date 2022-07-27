@@ -25,18 +25,17 @@ export default function Eighty() {
         className={styles.leftMarginPusher}> <span
         className={styles.inverseUpper}> t</span><span
         className={styles.grayShadow}> <i>e</i></span><span
-        className={styles.silverShadow}> <i>e</i></span><span
-        className={styles.inverseUpper}> n</span><span
+        className={styles.silverShadow}> e</span><span
+        className={styles.grayShadowUpper}> <i>n</i></span><span
         className={styles.silverShadow}> _ </span></span><br/><br/><br/><br/><br/><span
         className={styles.leftMarginPusherTwo}> <span
-        className={styles.grayShadow}>e </span><span
         className={styles.inverse}> _ </span><span
-        className={styles.silverShadow}>i</span><span
-        className={styles.grayShadow}> <i>g</i></span><span
-        className={styles.silverShadow}> _ </span><span
-        className={styles.inverseUpper}> <i>h</i></span><span
-        className={styles.grayShadowUpper}> t</span><span
-        className={styles.silverShadow}> y</span><span
+        className={styles.grayShadowUpper}><i>e</i> </span><span
+        className={styles.silverShadow}><i>i </i></span><span
+        className={styles.inverseUpper}> g</span><span
+        className={styles.grayShadow}> <i>h</i></span><span
+        className={styles.silverShadowUpper}> <i>t</i></span><span
+        className={styles.inverseUpper}> y</span><span
         className={styles.grayShadow}> _ </span></span></LeftGrayTitle>
 
         <br/>
