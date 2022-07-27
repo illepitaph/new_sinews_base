@@ -49,19 +49,19 @@
 }
 
 .grayShadowProse {
-  font-size:1.5rem;
-  color:black;
+  font-size:1.8rem;
+  color:white;
   font-family:"lores-9-plus-wide", monospace;
-  text-shadow:1px 1px snow,
-              2px 2px #b0b0b0;
+  text-shadow:1px 1px silver,
+              4px 4px 16px black;
 }
 
 .grayShadowTwo {
-  font-size:1.5rem;
-  color:black;
+  font-size:1.8rem;
+  color:white;
   font-family:"lores-9-plus-wide", monospace;
-  text-shadow:1px 1px snow,
-              2px 2px #b0b0b0;
+  text-shadow:1px 1px silver,
+              4px 4px 16px black;
   line-height: 3rem;
 }
 
