@@ -3,7 +3,6 @@ import Header from '../../components/header.js'
 import RightGrayTitle from '../../components/rightGrayTitle.js'
 import LeftGrayTitle from '../../components/leftGrayTitle.js'
 import RightBlackTitle from '../../components/rightBlackTitle.js'
-import Image from 'next/image'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Mfnz.module.css'
 Marfa.title = "brandon_shimoda ~ marfa_new_zealand — new_sinews"

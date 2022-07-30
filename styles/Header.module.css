@@ -313,6 +313,10 @@
   background-image:url("../public/images/BeausangBackground.jpg");
 }
 
+.numbersBackground {
+  background-image:url("../public/images/NumbersBackground.jpg");
+}
+
 @media (width:1024px) and (height:1366px) {
 
   .iconImage {

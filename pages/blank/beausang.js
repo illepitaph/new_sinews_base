@@ -3,7 +3,6 @@ import Header from '../../components/header.js'
 import LeftGrayTitle from '../../components/leftGrayTitle.js'
 import RightBlackTitle from '../../components/rightBlackTitle.js'
 import StandardProse from '../../components/standardProse.js'
-import Image from 'next/image'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Beausang.module.css'
 Eighty.title = "chris_beausang ~ 1980 — new_sinews"
@@ -178,7 +177,7 @@ export default function Eighty() {
         <br/><br/>
         Twomey’s leaflets produced for the 1987 general election contained:
         <br/><br/>
-        1. quotes from many of the incumbent candidates’ speeches in which he said that the people of Waterford were a disgrace, that
+        1. quotes from many of the incumbent candidates’ speeches in which they said that the people of Waterford were a disgrace, that
         people should be ashamed of themselves, that if Twomey stood for a fifty-five seater constituency in a civilised country, he
         would not get a seat.
         <br/><br/>
@@ -255,8 +254,8 @@ export default function Eighty() {
         Atlanticist outlook and more competent avatars of political stability untrained by associations with corruption and
         the economic populism of the past, drawn as they tend to be from the propertied and privately educated ranks of
         society. We should not however regard this moment as any sort of definitive break or rupture; along the road to
-        this juncture it is possible to identify many instances in which the electorate — often under acute economic
-        stress — have sought to administer the political class with a kick. As the poet Patrick Kavanagh once said, of such
+        this juncture it is possible to identify many instances in which the electorate—often under acute economic
+        stress—have sought to administer the political class with a kick. As the poet Patrick Kavanagh once said, of such
         local disputes was Homer’s Iliad written.
         </p>
         <br/>
