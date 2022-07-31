@@ -11,12 +11,13 @@ export default function Numbers() {
     <>
       <Head/>
       <Header headerBackground="numbersBackground"/>
-      <CenterGrayTitle><span className={styles.faintShadow}> v i <br/><span
-      className={styles.extraSpace}><span
+      <CenterGrayTitle><span className={styles.faintShadow}><span
+      className={styles.extraSpaceOne}> v i _</span><br/><span
+      className={styles.extraSpaceTwo}><span
       className={styles.alternateTitleColor}>_</span> k <span
       className={styles.alternateTitleColor}>h</span> i <span
       className={styles.alternateTitleColor}>_</span></span><br/><span
-      className={styles.extraSpaceTwo}> n a <span
+      className={styles.extraSpaceThree}>_ n a <span
       className={styles.alternateTitleColor}>o</span> </span></span></CenterGrayTitle>
       <br/>
       <RightBlackTitle><span

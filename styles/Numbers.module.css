@@ -4,7 +4,7 @@
               5px 6px black,
               10px 10px gainsboro;
   letter-spacing:1.8rem;
-  line-height:10rem;
+  line-height:15rem;
 }
 
 .alternateTitleColor {
@@ -14,14 +14,18 @@
               8px 8px gainsboro;
 }
 
-.extraSpace {
-  margin-right:25vw;
-  letter-spacing: 2.8rem;
+.extraSpaceOne {
+  margin-left:40vw;
 }
 
 .extraSpaceTwo {
-  margin-left:25vw;
-  letter-spacing: 4.6rem;
+  margin-right:30vw;
+  letter-spacing: 3.1rem;
+}
+
+.extraSpaceThree {
+  margin-left:27vw;
+  letter-spacing: 4.7rem;
 }
 
 .titleShadow {
@@ -36,7 +40,7 @@
   font-weight: 300;
   font-style: normal;
   font-size:1.2rem;
-  text-shadow:2px 2px gainsboro;
+  text-shadow:1px 1px snow, 2px 2px gainsboro;
   letter-spacing:-0.02rem;
   line-height:1.7em;
   margin-left:2vw;
