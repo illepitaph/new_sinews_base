@@ -7,6 +7,10 @@
   line-height:15rem;
 }
 
+.uppercase {
+  text-transform: uppercase;
+}
+
 .alternateTitleColor {
   font-size:4.3rem;
   color:black;
@@ -24,8 +28,8 @@
 }
 
 .extraSpaceThree {
-  margin-left:27vw;
-  letter-spacing: 4.7rem;
+  margin-left:28vw;
+  letter-spacing: 3.7rem;
 }
 
 .titleShadow {

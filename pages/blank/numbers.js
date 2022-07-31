@@ -12,12 +12,14 @@ export default function Numbers() {
       <Head/>
       <Header headerBackground="numbersBackground"/>
       <CenterGrayTitle><span className={styles.faintShadow}><span
-      className={styles.extraSpaceOne}> v i _</span><br/><span
+      className={styles.extraSpaceOne}> v <i>i</i> <span
+      className={styles.alternateTitleColor}>+</span></span><br/><span
       className={styles.extraSpaceTwo}><span
       className={styles.alternateTitleColor}>_</span> k <span
-      className={styles.alternateTitleColor}>h</span> i <span
+      className={styles.alternateTitleColor}><i>h</i></span> i <span
       className={styles.alternateTitleColor}>_</span></span><br/><span
-      className={styles.extraSpaceThree}>_ n a <span
+      className={styles.extraSpaceThree}><span
+      className={styles.alternateTitleColor}> +</span> <span className={styles.uppercase}>n</span> <i>a</i> <span
       className={styles.alternateTitleColor}>o</span> </span></span></CenterGrayTitle>
       <br/>
       <RightBlackTitle><span
