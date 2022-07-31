@@ -18,17 +18,17 @@ export default function Target() {
       <Head/>
       <Header headerBackground="targetBackground"/>
       <RightGrayTitle><span className={styles.duskShadow}><span
-      className={styles.duskShadowFaint}>a</span> <span
+      className={styles.duskShadowTwo}>a</span> <span
       className={styles.inverse}>c </span><span
-      className={styles.duskShadowFaintTwo}>q</span> <span
+      className={styles.duskShadowFaintTwo}>q</span><span
       className={styles.inverseUppercase}>u</span>i<span className={styles.duskShadowUppercaseFaint}>r</span><span
       className={styles.duskShadowUppercase}>e</span><span
-      className={styles.duskShadowFaint}>d</span><br/><span
+      className={styles.duskShadowFaint}>d</span><br/><br/><br/><span
       className={styles.duskShadowUppercase}><span className={styles.headerIndent}>t </span></span> <span
-      className={styles.inverse}>a</span><span className={styles.inverseUppercase}>r</span><span
-      className={styles.duskShadowFaintTwo}>g</span><span
+      className={styles.duskShadowTwo}>a</span><span className={styles.inverseUppercase}>r</span><span
+      className={styles.duskShadow}>g</span><span
       className={styles.duskShadowUppercaseFaint}>e</span><span
-      className={styles.inverse}> <span
+      className={styles.inverse}><span
       className={styles.t}>t</span></span></span></RightGrayTitle>
 
       <br/>

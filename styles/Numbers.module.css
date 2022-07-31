@@ -1,0 +1,44 @@
+.faintShadow {
+  font-size:4.3rem;
+  text-shadow:5px 5px snow,
+              5px 6px black,
+              10px 10px gainsboro;
+  letter-spacing:1.8rem;
+  line-height:10rem;
+}
+
+.alternateTitleColor {
+  font-size:4.3rem;
+  color:black;
+  text-shadow:4px 4px snow,
+              8px 8px gainsboro;
+}
+
+.extraSpace {
+  margin-right:25vw;
+  letter-spacing: 2.8rem;
+}
+
+.extraSpaceTwo {
+  margin-left:25vw;
+  letter-spacing: 4.6rem;
+}
+
+.titleShadow {
+  text-shadow:5px 5px snow,
+              10px 10px silver,
+              14px 14px gainsboro;
+}
+
+.poem {
+  max-width:96vw;
+  font-family: "base-9-sans", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size:1.2rem;
+  text-shadow:2px 2px gainsboro;
+  letter-spacing:-0.02rem;
+  line-height:1.7em;
+  margin-left:2vw;
+  white-space: pre-line;
+}

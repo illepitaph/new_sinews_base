@@ -80,14 +80,14 @@ export default function Eighty() {
         bookies carried odds on the local elections, putting Donal O’Rourke (FF) on 9/1, Michael Raleigh (FG), a local barrister, on
         8/1 and Buckley Jnr. 1/2 to secure the third seat ahead of the Labour candidate Billy Dunphy. Twomey’s odds were listed on
         the first day as 100/1; before these odds were trimmed and the ticket closed to all future bets, five separate men had put
-        £1000 on Twomey. From that point on Patrick Buckley’s nickname — ‘the idiot son’ — would enter into more general circulation.
+        £1000 on Twomey. From that point on Patrick Buckley’s nickname—‘the idiot son’—would enter into more general circulation.
         <br/><br/>
         On the second week of the campaign Twomey again made the front page of <i>The Waterford People</i>, with news of the statement
         Guinness had issued emphasising that they had nothing to do with Twomey’s campaign and did not endorse him. A senior Fianna
         Fáil man from the area was anonymously quoted in the article as saying though he would love some of Twomey’s backers as
         PR men, he does not think he has a chance of being elected.
         <br/><br/>
-        —I’ll give it to him this. He has a well-run campaign. Very beautifully produced.
+        ——I’ll give it to him this. He has a well-run campaign. Very beautifully produced.
         <br/><br/><br/>
         <span className={styles.grayShadowProse}>
         Voters of Waterford you have a once-in-a-lifetime opportunity to write yourself into the chapters of history.
@@ -110,13 +110,13 @@ export default function Eighty() {
         They’ve found the man to fit the bill<br/>
         Who can it be but Twomey</span>
         <br/><br/>
-        In response to the question posed on the eve of the poll — when Twomey appeared on the back of an articulated lorry at
-        The Mall with marching bands, cheerleaders and hundreds of supporters — as to whether or not prominent members of the legal
+        In response to the question posed on the eve of the poll—when Twomey appeared on the back of an articulated lorry at
+        The Mall with marching bands, cheerleaders and hundreds of supporters—as to whether or not prominent members of the legal
         profession in Waterford were behind his campaign, Twomey said he had nothing to say.
         <br/><br/>
-        —To what do you attribute all your success here this evening?
+        ——To what do you attribute all your success here this evening?
         <br/><br/>
-        —The people of Waterford want me on the council because they like me and because they know me! It’s as simple as that.
+        ——The people of Waterford want me on the council because they like me and because they know me! It’s as simple as that.
         <br/><br/>
         O’Rourke was elected at the first count with 1508 first preferences. Over the next number of counts, the Communist Party
         candidate, four Independents, second, third and fourth Gaelers were eliminated, until Raleigh and Dunphy came in on
@@ -125,15 +125,15 @@ export default function Eighty() {
         The occasion of Twomey’s accession to the seat, a rank outsider facing down a political  dynasty and winning, was
         described in the national press as one of the biggest electoral upsets in the history of the state.
         <br/><br/>
-        —Do you have any ambitions now that you have taken office?
+        ——Do you have any ambitions now that you have taken office?
         <br/><br/>
-        —The closure of Ford’s and the tyre factory amid the recession here in Waterford has made me sick and I intend to go
+        ——The closure of Ford’s and the tyre factory amid the recession here in Waterford has made me sick and I intend to go
         to Brussels and to the United States to see if I can work out any sort of deal with anyone willing to come here and to
         create jobs.
         <br/><br/>
-        —How do you feel about some of the local politicians who you’ve beaten here today?
+        ——How do you feel about some of the local politicians who you’ve beaten here today?
         <br/><br/>
-        —I’m not going to criticise anybody.
+        ——I’m not going to criticise anybody.
         <br/><br/>
         When Twomey was asked if he had any further comments to make, one of his supporters moved vociferously to obstruct
         the press, for which Twomey rebuked him. Twomey’s supporters then chanted here we go here we go here we go and lifted
@@ -154,7 +154,7 @@ export default function Eighty() {
         legal profession of the most outrageous blackguardism and said that if there are people in Waterford who have
         engaged in skulduggery or subterfuge than he is for the first time, ashamed to be a Waterford man.
         <br/><br/>
-        —Twomey is a nice and gentle man who I have had many dealings with over the years, both socially and from the point of
+        ——Twomey is a nice and gentle man who I have had many dealings with over the years, both socially and from the point of
         view of my business terms but with the greatest of respect to him he has no contribution to make to public life and as he
         has been known to say himself doesn’t know the first thing about politics or about policy. I have not yet proved this
         definitively, but I am saying now that I am damn well out to find out if there are solicitors involved in this and that
@@ -226,23 +226,23 @@ export default function Eighty() {
         too stalled as he tried to clear the blockage, Buckley was able only to investigate the extent of his paralysis while
         listening to the sound of someone taking a bite of something, chewing.
         <br/><br/>
-        —There is a wall. When you come off the M7. On your left. It’s gray. That wall is you. You’re the whitewash on it. You’re nothing.
+        ——There is a wall. When you come off the M7. On your left. It’s gray. That wall is you. You’re the whitewash on it. You’re nothing.
         <br/><br/>
         Buckley’s feet lifted from the floor, the receiver and the outlet on the wall drifted with him towards the starch panels of
         the drop ceiling.
         <br/><br/>
-        —If asked your wife would agree that having sex with you is not unlike the style of football that Jack Charlton will bring
+        ——If asked your wife would agree that having sex with you is not unlike the style of football that Jack Charlton will bring
         to the Irish football squad. Running. Running. Running.
         <br/><br/>
         The voice on the phone grew fingers and pawed into parts of Buckley’s mind and memory; a father with a bullwhip, its
         handle lacquered and brown revenging itself on something white and hanging, maybe by a limb, from the oak in the back garden.
         <br/><br/>
-        —Every night for the rest of your life you will dream of everyone you have ever know in every place you have ever been.
+        ——Every night for the rest of your life you will dream of everyone you have ever know in every place you have ever been.
         <br/><br/>
         The fingers reached further, into the circuits of the brain-stem and its outlays, its ground-work to excavate circles
         within circles, human lives measured in railway lines.
         <br/><br/>
-        —1999. Terry Keane on the Late Late Show.
+        ——1999. Terry Keane on the Late Late Show.
         <br/><br/>
         In an article  entitled ‘A rock and a hard place: Prospects for the two-and-a-half party system in the Republic
         of Ireland’ published in the quarterly journal <i>European Elections and Representation</i>, lecturer and
