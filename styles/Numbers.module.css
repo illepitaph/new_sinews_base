@@ -3,12 +3,12 @@
   text-shadow:5px 5px snow,
               5px 6px black,
               10px 10px gainsboro;
-  letter-spacing:1.8rem;
   line-height:15rem;
 }
 
-.uppercase {
+.uppercaseFaint {
   text-transform: uppercase;
+  opacity:0.3;
 }
 
 .alternateTitleColor {
@@ -19,12 +19,13 @@
 }
 
 .extraSpaceOne {
-  margin-left:40vw;
+  margin-left:41vw;
+    letter-spacing:4.4rem;
 }
 
 .extraSpaceTwo {
   margin-right:30vw;
-  letter-spacing: 3.1rem;
+  letter-spacing: 4.1rem;
 }
 
 .extraSpaceThree {

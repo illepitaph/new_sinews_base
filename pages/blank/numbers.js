@@ -19,11 +19,17 @@ export default function Numbers() {
       className={styles.alternateTitleColor}><i>h</i></span> i <span
       className={styles.alternateTitleColor}>_</span></span><br/><span
       className={styles.extraSpaceThree}><span
-      className={styles.alternateTitleColor}> +</span> <span className={styles.uppercase}>n</span> <i>a</i> <span
+      className={styles.alternateTitleColor}> +</span> <span className={styles.uppercaseFaint}>n</span> <i>a</i> <span
       className={styles.alternateTitleColor}>o</span> </span></span></CenterGrayTitle>
       <br/>
       <RightBlackTitle><span
-      className={styles.titleShadow}><i>MY DUSKY SOUL SOILED IN GLOOMY NARRATIVE WHILE I ATE THE BLEACHED CAULIFLOWER OF MY ADVERSARY, MY SERFDOM, MY INFANT, MY DREAMSCAPE</i></span></RightBlackTitle>
+      className={styles.titleShadow}><i>MY DUSKY SOUL SOILED IN GLOOMY N<span
+      className={styles.uppercaseFaint}>A</span>RR<span className={styles.uppercaseFaint}>A</span>TIVE WHILE I <span
+      className={styles.uppercaseFaint}>A</span>TE THE BLE<span className={styles.uppercaseFaint}>A</span>CHED C<span
+      className={styles.uppercaseFaint}>A</span>ULIFLOWER OF MY <span className={styles.uppercaseFaint}>A</span>DVERS<span
+      className={styles.uppercaseFaint}>A</span>RY, MY SERFDOM, MY INF<span
+      className={styles.uppercaseFaint}>A</span>NT, MY DRE<span className={styles.uppercaseFaint}>A</span>MSC<span
+      className={styles.uppercaseFaint}>A</span>PE</i></span></RightBlackTitle>
       <br/>
       <br/>
       <pre className={styles.poem}>{`1. Back arched, moon falling
@@ -42,7 +48,19 @@ export default function Numbers() {
       <br/>
       <br/>
   <RightBlackTitle><span
-  className={styles.titleShadow}><i>THE SUICIDAL RAIN CLIMBS THE LAMPPOSTS, DESCENDS THE ASPHALT, AND SOMEHOW IT WAS ALL OF MY FAULT, IT WAS ALL MY FAULT</i></span></RightBlackTitle>
+  className={styles.titleShadow}><i>THE SUICID<span
+  className={styles.uppercaseFaint}>A</span>L R<span
+  className={styles.uppercaseFaint}>A</span>IN CLIMBS THE L<span
+  className={styles.uppercaseFaint}>A</span>MPPOSTS, DESCENDS THE <span
+  className={styles.uppercaseFaint}>A</span>SPH<span
+  className={styles.uppercaseFaint}>A</span>LT, <span
+  className={styles.uppercaseFaint}>A</span>ND SOMEHOW IT W<span
+  className={styles.uppercaseFaint}>A</span>S <span
+  className={styles.uppercaseFaint}>A</span>LL OF MY F<span
+  className={styles.uppercaseFaint}>A</span>ULT, IT W<span
+  className={styles.uppercaseFaint}>A</span>S <span
+  className={styles.uppercaseFaint}>A</span>LL MY F<span
+  className={styles.uppercaseFaint}>A</span>ULT</i></span></RightBlackTitle>
   <pre className={styles.poem}>{`1. 	The suicidal rain
 2.	Is the refrain in my outer coast
 3.	It’s the sea
@@ -67,7 +85,14 @@ export default function Numbers() {
 22.	Within this dumfounded disharmony
 23.	Oh, this suicidal rain`}</pre>
 <RightBlackTitle><span
-className={styles.titleShadow}><i>MY YELLOW HEART WITHERS, CATALOGUING ITS LEMONY GRANITE WHILE YOU  UNCANNED MY TOMATO SAUCE</i></span></RightBlackTitle>
+className={styles.titleShadow}><i>MY YELLOW HE<span
+className={styles.uppercaseFaint}>A</span>RT WITHERS, C<span
+className={styles.uppercaseFaint}>A</span>T<span
+className={styles.uppercaseFaint}>A</span>LOGUING ITS LEMONY GR<span
+className={styles.uppercaseFaint}>A</span>NITE WHILE YOU  UNC<span
+className={styles.uppercaseFaint}>A</span>NNED MY TOM<span
+className={styles.uppercaseFaint}>A</span>TO S<span
+className={styles.uppercaseFaint}>A</span>UCE</i></span></RightBlackTitle>
 <pre className={styles.poem}>{`1. My midnight: soft   
 2. You’re bread. You’re diameter.   
 3. You disquieted my opaque reflection
@@ -90,8 +115,6 @@ className={styles.titleShadow}><i>MY YELLOW HEART WITHERS, CATALOGUING ITS LEMO
 20. And, incarcerated
 21. And, as a prefix
 22. Respond by crying`}</pre>
-      <br/>
-      <br/>
 <Footer/>
     </>
   )
