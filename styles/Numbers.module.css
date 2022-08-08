@@ -20,7 +20,6 @@
 
 .extraSpaceOne {
   margin-left:41vw;
-    letter-spacing:4.4rem;
 }
 
 .extraSpaceTwo {
@@ -29,8 +28,8 @@
 }
 
 .extraSpaceThree {
-  margin-left:28vw;
-  letter-spacing: 3.7rem;
+  margin-left:25vw;
+  letter-spacing: 3rem;
 }
 
 .titleShadow {
@@ -50,4 +49,186 @@
   line-height:1.7em;
   margin-left:2vw;
   white-space: pre-line;
+}
+
+@media (width:1280px) and (height:800px) {
+
+  .extraSpaceTwo {
+    letter-spacing:1.6rem;
+  }
+
+
+}
+
+
+@media (width:1194px) and (height:834px) {
+
+  .extraSpaceTwo {
+    letter-spacing:1.6rem;
+  }
+
+
+}
+
+@media (width:1180px) and (height:820px) {
+
+  .faintShadow, .alternateTitleColor {
+    font-size:3.5rem;
+  }
+  .extraSpaceTwo {
+    letter-spacing:1.6rem;
+  }
+
+
+}
+
+@media (width:1080px) and (height:810px) {
+
+  .faintShadow, .alternateTitleColor {
+    font-size:3.5rem;
+  }
+  .extraSpaceTwo {
+    letter-spacing:1.6rem;
+  }
+
+
+}
+
+@media (width:1024px) and (height:1366px) {
+
+  .faintShadow, .alternateTitleColor {
+    font-size:3.5rem;
+  }
+  .extraSpaceTwo {
+    letter-spacing:1.6rem;
+  }
+
+
+}
+
+
+@media (width:1024px) and (height:768px) {
+
+  .faintShadow, .alternateTitleColor {
+    font-size:3.5rem;
+  }
+  .extraSpaceTwo {
+    letter-spacing:1.6rem;
+  }
+
+
+}
+
+@media (width:1024px) and (height:600px) {
+
+  .faintShadow, .alternateTitleColor {
+    font-size:3.5rem;
+  }
+  .extraSpaceTwo {
+    letter-spacing:1.6rem;
+  }
+
+
+}
+
+@media (max-width:927px) and (orientation:landscape) {
+
+  .faintShadow, .alternateTitleColor {
+    font-size:3.5rem;
+  }
+  .extraSpaceTwo {
+    letter-spacing:1.2rem;
+  }
+
+
+}
+
+@media (width:912px) and (height:1368px) {
+
+  .extraSpaceTwo {
+    letter-spacing:1.6rem;
+  }
+
+
+}
+
+@media (width:834px) and (height:1194px) {
+
+  .faintShadow, .alternateTitleColor {
+    font-size:3.5rem;
+  }
+  .extraSpaceTwo {
+    letter-spacing:1.2rem;
+  }
+
+
+}
+
+@media (width:820px) and (height:1180px) {
+
+  .faintShadow, .alternateTitleColor {
+    font-size:3.5rem;
+  }
+  .extraSpaceTwo {
+    letter-spacing:1.6rem;
+  }
+
+
+}
+
+@media (max-width:811px) and (orientation:portrait) {
+
+  .faintShadow, .alternateTitleColor {
+    font-size:3.3rem;
+  }
+  .extraSpaceTwo  {
+    letter-spacing:1.2rem;
+  }
+
+
+}
+
+@media (max-width:762px) and (orientation:landscape) {
+
+  .extraSpaceThree {
+    letter-spacing:1.2rem;
+  }
+
+
+}
+
+@media (max-width:541px) and (orientation:portrait) {
+
+  .faintShadow, .alternateTitleColor {
+    font-size:3rem;
+  }
+  .extraSpaceTwo, .extraSpaceThree {
+    letter-spacing:0.2rem;
+  }
+
+
+}
+
+@media (max-width:361px) and (orientation:portrait) {
+
+  .faintShadow, .alternateTitleColor {
+    font-size:2.5rem;
+  }
+  .extraSpaceTwo, .extraSpaceThree {
+    letter-spacing:0.2rem;
+  }
+
+
+}
+
+@media (max-width:281px) and (orientation:portrait) {
+
+  .faintShadow, .alternateTitleColor {
+    font-size:2.3rem;
+  }
+  .extraSpaceTwo, .extraSpaceThree {
+    letter-spacing:0rem;
+  }
+
+
 }
