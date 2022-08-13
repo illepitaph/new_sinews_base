@@ -293,6 +293,10 @@
   background-image:url("../public/images/StripMallBackground.jpg");
 }
 
+.ihnsBackground {
+  background-image:url("../public/images/IhnsBackground.jpg");
+}
+
 .marfaBackground {
   background-image:url("../public/images/MarfaBackground.jpg");
 }
