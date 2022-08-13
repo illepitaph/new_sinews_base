@@ -4,8 +4,8 @@ import CenterGrayTitle from '../../components/centerGrayTitle.js'
 import RightBlackTitle from '../../components/rightBlackTitle.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Numbers.module.css'
-Numbers.title = "vi_khi_nao ~ 3 poems ++ — new_sinews"
-Numbers.pieceName = "vi_khi_nao ~ the suicidal rain ++ the bleached cauliflower of my adversary ++ — new_sinews"
+Numbers.title = "vi_khi_nao ~ 3 poems — new_sinews"
+Numbers.pieceName = "vi_khi_nao ~ the_suicidal_rain ++ the_bleached_cauliflower_of_my_adversary ++ — new_sinews"
 Numbers.description = "_Vi Khi Nao_poetry_3 poems_issue6_"
 Numbers.image = "https://www.newnewsinews.com/images/NumbersBackground.jpg"
 
