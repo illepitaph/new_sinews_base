@@ -1,0 +1,65 @@
+.titleShadow {
+  text-shadow:5px 5px snow,
+              10px 10px silver,
+              14px 14px gainsboro;
+}
+
+.nameShadow {
+  color:white;
+  font-size:3.3rem;
+  text-shadow:1px 1px black,
+              4px 4px 16px black;
+  text-transform:uppercase;
+  opacity:0.6;
+}
+
+.inverseNameShadow {
+  font-size:4.1rem;
+  color:black;
+  text-shadow:4px 4px snow,
+              6px 6px 16px dimgray;
+}
+
+.mintAlternate {
+  font-size:4.1rem;
+  color:#aaf0d1;
+  text-shadow:4px 4px snow,
+              5px 5px 15px black;
+  opacity:0.6;
+}
+
+.mintAlternateUppercase {
+  font-size:4.1rem;
+  color:#aaf0d1;
+  text-shadow:4px 4px snow,
+              5px 5px 15px black;
+  opacity:0.6;
+  text-transform: uppercase;
+}
+
+.poemTitle {
+  max-width:70vw;
+  font-family:"lores-9-plus-wide", monospace;
+  font-weight: 600;
+  font-style: normal;
+  font-size:2.2rem;
+  color:white;
+  text-shadow:1px 1px black,
+              4px 4px 16px black;;
+  letter-spacing:-0.02rem;
+  line-height:1.4em;
+  margin-left:18vw;
+  text-transform:uppercase;
+}
+
+.poem {
+  max-width:70vw;
+  font-family: "base-9-sans", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size:1.2rem;
+  text-shadow:2px 2px gainsboro;
+  letter-spacing:-0.02rem;
+  line-height:1.7em;
+  margin-left:18vw;
+}
