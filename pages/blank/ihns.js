@@ -6,7 +6,7 @@ import Footer from '../../components/footer.js'
 import styles from '../../styles/Ihns.module.css'
 Ihns.title = "kirsten_ihns ~ 6_poems — new_sinews"
 Ihns.pieceName = "kirsten_ihns ~ all_properties_of_the_house_burning ++ in_which_you_are_appearing_as_its_shape ++ — new_sinews"
-Ihns.description = "_Kirsten Ihns_poetry_6 poems_WULV_issue6_"
+Ihns.description = "_Kirsten Ihns_poetry_6 POEMS_issue6_"
 Ihns.image = "https://www.newnewsinews.com/images/NumbersBackground.jpg"
 
 
