@@ -25,13 +25,12 @@
 .issueContentsOne {
   position:absolute;
   display:flex;
-  align-items: flex-end;
   flex-flow:row wrap;
   column-gap:3vw;
   row-gap:1.7vw;
-  max-width:35vw;
+  max-width:91vw;
   top:40px;
-  left:4vw;
+  left:3vw;
   font-family:"lores-15-bold-alt-oakland", monospace;
   color:white;
   font-size:1.5rem;
