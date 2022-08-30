@@ -1,7 +1,7 @@
 .bodyContainer {
   position: fixed;
   background: url("../public/images/Issue6Cover.jpg") no-repeat center center fixed;
-  background-size: cover;
+  background-size:cover;
   min-height: 100%;
   min-width: 100%;
   margin: 0;
@@ -12,13 +12,6 @@
   animation: fadeIn ease-out 0.9s;
 }
 
-.pageStructure {
-  display: grid;
-  align-content: center;
-  position: relative;
-  font-size: 16px;
-}
-
 .pageTitle {
   font-family: "lores-9-plus-wide-bold-alt", monospace;
   color:white;
@@ -27,4 +20,69 @@
   font-size: 4.3rem;
   text-align:right;
   margin:2vh 2vw 0 0;
+}
+
+.issueContentsOne {
+  position:absolute;
+  display:flex;
+  align-items: flex-end;
+  flex-flow:row wrap;
+  column-gap:3vw;
+  row-gap:1.7vw;
+  max-width:35vw;
+  top:40px;
+  left:4vw;
+  font-family:"lores-15-bold-alt-oakland", monospace;
+  color:white;
+  font-size:1.5rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-shadow:2px 2px black,
+              4px 4px 12px silver;
+  cursor:pointer;
+}
+
+.issueContentsTwo {
+  position:absolute;
+  display:flex;
+  flex-flow:column wrap;
+  width:87vw;
+  max-height:30vh;
+  bottom:20px;
+  row-gap:2vw;
+  left:1.2vw;
+  font-family:"lores-15-bold-alt-oakland", monospace;
+  color:white;
+  font-size:1.5rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-shadow:2px 2px black,
+              4px 4px 12px silver;
+  cursor:pointer;
+}
+
+.siteShortcuts {
+  display:flex;
+  flex-flow: column;
+  row-gap:3vh;
+  justify-content:space-around;
+}
+
+.siteShortcuts > .linkButton {
+  align-self: flex-end;
+  width:10vw;
+  border: 0;
+  background-color: #2cbae7;
+  padding: 0.7vh 0.1vw;
+  font-size: 1.2rem;
+  border-radius: 44px;
+  opacity:0.68;
+  font-family: "lores-9-plus-narrow", monospace;
+  text-decoration: none;
+  color: white;
+  transition:1s ease-in-out opacity;
+}
+
+.siteShortcuts > .linkButton:hover {
+  opacity:1;
 }
