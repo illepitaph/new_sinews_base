@@ -33,7 +33,7 @@ export default function Issue6() {
                 </div>
                   <div className={styles.issueContentsTwo}>
                 <div className={styles.workColumn}>
-                  <Link href="/issue3/krumrie" passHref><div className={styles.workLink}>megan_jeanne_gette ::<br/>wolly a walnut<br/>talks anotherwhere</div></Link>
+                  <Link href="/issue3/krumrie" passHref><div className={styles.workLink}>megan_jeanne_<br/>gette ::<br/>?</div></Link>
                 </div>
                 <div className={styles.workColumn}>
                   <Link href="/issue3/dasgupta" passHref><div className={styles.workLink}>vi_khi_nao ::<br/>the suicidal<br/>rain ++ the bleached<br/>cauliflower of my<br/>adversary ++</div></Link>
@@ -46,7 +46,7 @@ export default function Issue6() {
                 </div>
                 <br/>
                 <div className={styles.workColumn}>
-                  <div className={styles.workLink}><Link href="/issue3/bios" passHref>~~~ contri butor_ _ _b  i  os ~~~</Link></div>
+                  <Link href="/issue3/bios" passHref><div className={styles.workLink}>~~~ con tributor_ _ _<br/>b  i  o s ~~~</div></Link>
                   </div>
                   <div className={styles.siteShortcuts}>
                         <button className={styles.linkButton}><Link href="/" passHref>new sinews</Link></button>
