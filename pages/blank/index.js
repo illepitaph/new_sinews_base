@@ -16,19 +16,19 @@ export default function Issue6() {
 
               <div className={styles.issueContentsOne}>
                 <div className={styles.workColumn}>
-                 <Link href="/issue3/dusk" passHref><div className={styles.workLink}>kirsten_ihns ::<br/>all properties of the<br/>house burning ++ in which <br/>you are appearing as its<br/>shape ++ </div></Link>
+                 <Link href="/blank/ihns" passHref><div className={styles.workLink}>kirsten_ihns ::<br/>all properties of the<br/>house burning ++ in which <br/>you are appearing as its<br/>shape ++ </div></Link>
                 </div>
                 <div className={styles.workColumn}>
                 <Link href="/issue3/stough" passHref><div className={styles.workLink}>jacqueline_feldman ::<br/>casting<br/>off</div></Link>
                 </div>
                 <div className={styles.workColumn}>
-                  <Link href="/issue3/akant" passHref><div className={styles.workLink}>brandon_shimoda ::<br/>marfa new<br/>zealand</div></Link>
+                  <Link href="/blank/mfnz" passHref><div className={styles.workLink}>brandon_shimoda ::<br/>marfa, new<br/>zealand</div></Link>
                 </div>
                 <div className={styles.workColumn}>
                 <Link href="/issue3/alvarez" passHref><div className={styles.workLink}>chris_beausang ::<br/>nineteen<br/>eighty</div></Link>
                 </div>
                 <div className={styles.workColumn}>
-                  <Link href="/issue3/gette" passHref><div className={styles.workLink}>brendan_griffin ::<br/>wolly a wal-<br/>nut talks another-<br/>where</div></Link>
+                  <Link href="/blank/griffin" passHref><div className={styles.workLink}>brendan_griffin ::<br/>wolly a wal-<br/>nut talks another-<br/>where</div></Link>
                 </div>
                 </div>
                   <div className={styles.issueContentsTwo}>
@@ -36,21 +36,22 @@ export default function Issue6() {
                   <Link href="/issue3/krumrie" passHref><div className={styles.workLink}>megan_jeanne_<br/>gette ::<br/>?</div></Link>
                 </div>
                 <div className={styles.workColumn}>
-                  <Link href="/issue3/dasgupta" passHref><div className={styles.workLink}>vi_khi_nao ::<br/>the suicidal<br/>rain ++ the bleached<br/>cauliflower of my<br/>adversary ++</div></Link>
+                  <Link href="/blank/numbers" passHref><div className={styles.workLink}>vi_khi_nao ::<br/>the suicidal<br/>rain ++ the bleached<br/>cauliflower of my<br/>adversary ++</div></Link>
                 </div>
                 <div className={styles.workColumn}>
-                  <Link href="/issue3/corraoovidian" passHref><div className={styles.workLink}>cary_stough ::<br/>acquired target</div></Link>
+                  <Link href="/blank/target" passHref><div className={styles.workLink}>cary_stough ::<br/>acquired target</div></Link>
+                  <br/>
+                  <br/>
+                   <br/>
+                    <br/>
+                      <Link href="/issue3/bios" passHref><div className={styles.workLink}> ... b  i  o s ...</div></Link>
                 </div>
                 <div className={styles.workColumn}>
-                  <Link href="/issue3/corraoovidian" passHref><div className={styles.workLink}>xiao_yue_shan ::<br/>the dictionary<br/>of desire</div></Link>
-                </div>
-                <br/>
-                <div className={styles.workColumn}>
-                  <Link href="/issue3/bios" passHref><div className={styles.workLink}>~~~ con tributor_ _ _<br/>b  i  o s ~~~</div></Link>
+                <Link href="/blank/desire" passHref><div className={styles.workLink}>xiao_yue_shan ::<br/>the dictionary<br/>of desire</div></Link>
                   </div>
                   <div className={styles.siteShortcuts}>
-                        <button className={styles.linkButton}><Link href="/" passHref>new sinews</Link></button>
-                        <button className={styles.linkButton}><Link href="/about" passHref>about</Link></button>
+                        <Link href="/" passHref><button className={styles.linkButton}>new sinews</button></Link>
+                        <Link href="/about" passHref><button className={styles.linkButton}>about</button></Link>
                         <button className={styles.linkButton}>
                           <a className={styles.twitterLinkTag} href="https://twitter.com/new_sinews" target="_blank" rel="noreferrer">tweeter</a>
                         </button>

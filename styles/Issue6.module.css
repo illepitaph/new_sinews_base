@@ -1,3 +1,28 @@
+@keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-moz-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-webkit-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-o-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-ms-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
 .bodyContainer {
   position: fixed;
   background: url("../public/images/Issue6Cover.jpg") no-repeat center center fixed;
@@ -9,6 +34,7 @@
   right: 0px;
   bottom: 0px;
   left: 0px;
+  overflow:hidden;
   animation: fadeIn ease-out 0.9s;
 }
 
@@ -27,11 +53,11 @@
   display:flex;
   flex-flow:row wrap;
   column-gap:3vw;
-  row-gap:1.7vw;
-  max-width:91vw;
+  row-gap:1.9vw;
+  max-width:92vw;
   top:40px;
   left:3vw;
-  font-family:"lores-15-bold-alt-oakland", monospace;
+  font-family:"lores-22-bold-oakland", monospace;;
 }
 
 .issueContentsTwo {
@@ -43,15 +69,14 @@
   bottom:20px;
   row-gap:2vw;
   left:1.2vw;
-  font-family:"lores-15-bold-alt-oakland", monospace;
+  font-family:"lores-22-bold-oakland", monospace;;
 }
 
 
 .workLink {
   color:white;
-  font-size:1.5rem;
+  font-size:2.2rem;
   font-weight: 700;
-  text-transform: uppercase;
   text-shadow:2px 2px black,
               4px 4px 12px silver;
   cursor:pointer;
@@ -87,4 +112,203 @@
 
 .siteShortcuts > .linkButton:hover {
   opacity:1;
+}
+
+@media (max-width:927px) and (orientation:landscape) {
+
+  .pageTitle {
+    font-size: 2.4rem;
+  }
+
+  .issueContentsOne {
+    column-gap:3vw;
+    row-gap:1.9vw;
+    height:35vh;
+    max-width:92vw;
+    top:0.5vh;
+    left:1vw;
+  }
+
+  .issueContentsTwo {
+
+    row-gap:1vw;
+    left:1.2vw;
+    bottom:7vh;
+  }
+
+  .workLink {
+    font-size:1.4rem;
+  }
+
+  .siteShortcuts > .linkButton {
+    width:15vw;
+    font-size: 0.8rem;
+  }
+}
+
+@media (max-width:855px) and (orientation:landscape) {
+
+  .pageTitle {
+    font-size: 2.2rem;
+  }
+
+  .issueContentsOne {
+    max-width:99vw;
+    column-gap:4vw;
+  }
+
+  .workLink {
+    font-size:1.2rem;
+  }
+}
+
+@media (max-width:801px) and (orientation:landscape) {
+
+  .pageTitle {
+    font-size: 2rem;
+  }
+
+  .issueContentsOne {
+    column-gap:3vw;
+  }
+}
+
+@media (max-width:768px) and (orientation:portrait) {
+
+  .issueContentsOne {
+    column-gap:7vw;
+    row-gap:3.9vw;
+    top:5vh;
+  }
+
+  .issueContentsTwo {
+
+    bottom:10vh;
+  }
+
+  .workLink {
+    font-size:1.7rem;
+  }
+
+  .siteShortcuts {
+    margin-right:5vw;
+  }
+
+  .siteShortcuts > .linkButton {
+    width:15vw;
+    font-size: 0.8rem;
+  }
+}
+
+@media (max-width:658px) and (orientation:landscape) {
+
+  .pageTitle {
+    font-size: 1.8rem;
+  }
+
+  .issueContentsTwo {
+    bottom:10vh;
+  }
+
+  .workLink {
+    font-size:1.1rem;
+  }
+}
+
+@media (max-width:654px) and (orientation:landscape) {
+
+  .pageTitle {
+    font-size: 1.7rem;
+  }
+
+  .issueContentsTwo {
+
+    bottom:15vh;
+  }
+
+
+}
+
+@media (max-width:429px) and (orientation:portrait) {
+
+  .pageTitle {
+    font-size: 3.4rem;
+  }
+
+  .issueContentsOne {
+    column-gap:3vw;
+    row-gap:1.9vw;
+    height:35vh;
+    max-width:92vw;
+    top:2vh;
+    left:1vw;
+  }
+
+  .issueContentsTwo {
+
+    row-gap:1vw;
+    left:1.2vw;
+    bottom:5vh;
+  }
+
+  .workLink {
+    font-size:1.3rem;
+  }
+
+  .siteShortcuts {
+    margin-right:5vw;
+    margin-top:9vh;
+  }
+
+  .siteShortcuts > .linkButton {
+    width:15vw;
+    font-size: 0.8rem;
+  }
+}
+
+@media (max-width:375px) and (orientation:portrait) {
+
+  .issueContentsTwo {
+      column-gap:4vh;
+  }
+
+}
+
+@media (max-height:668px) and (orientation:portrait) {
+
+  .workLink {
+    font-size:1.1rem;
+  }
+
+}
+
+@media (max-width:361px) and (orientation:portrait) {
+
+  .pageTitle {
+    font-size: 3.4rem;
+  }
+
+  .issueContentsOne {
+    column-gap:4vw;
+    row-gap:5vw;
+  }
+
+  .issueContentsTwo {
+
+    row-gap:3vw;
+    bottom:1vh;
+  }
+
+  .workLink {
+    font-size:1.2rem;
+  }
+
+  .siteShortcuts {
+    margin-right:5vw;
+  }
+
+  .siteShortcuts > .linkButton {
+    font-size: 0.7rem;
+  }
+
 }
