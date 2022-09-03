@@ -297,28 +297,32 @@
   background-image:url("../public/images/IhnsBackground.jpg");
 }
 
+.castingOffBackground {
+  background-image:url("../public/images/CastingOffBackground.jpg");
+}
+
 .marfaBackground {
   background-image:url("../public/images/MarfaBackground.jpg");
-}
-
-.griffinBackground {
-  background-image:url("../public/images/GriffinBackground.jpg");
-}
-
-.desireBackground {
-  background-image:url("../public/images/DesireBackground.jpg");
-}
-
-.targetBackground {
-  background-image:url("../public/images/TargetBackground.jpg");
 }
 
 .beausangBackground {
   background-image:url("../public/images/BeausangBackground.jpg");
 }
 
+.griffinBackground {
+  background-image:url("../public/images/GriffinBackground.jpg");
+}
+
 .numbersBackground {
   background-image:url("../public/images/NumbersBackground.jpg");
+}
+
+.targetBackground {
+  background-image:url("../public/images/TargetBackground.jpg");
+}
+
+.desireBackground {
+  background-image:url("../public/images/DesireBackground.jpg");
 }
 
 @media (width:1024px) and (height:1366px) {
