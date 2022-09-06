@@ -287,7 +287,7 @@ export default function CastingOff() {
       Utility such as they found in <span className={styles.grayShadow}>Clèves</span> is not, for Quintane, extra-literary, as
       I hazard in the more theoretical French part of all this. I give examples such as that of a page of verse in <i>Chaussure</i> that, while
       unlabeled, resembles a drinking song for workers clearly. You could tear it out, I thought, in which it reminded me of kits for
-      making paper dolls. <i>Un œil en moins</i>, about participating in activism at the time of Nuit Debout, is a fat, diaristic
+      making paper dolls. <span className={styles.grayShadow}>Un œil en moins</span>, about participating in activism at the time of Nuit Debout, is a fat, diaristic
       book demanding, like the strike, a period of abstention from paid labor. It bears other formal resemblances to activism, but
       this thickness, unusual for Quintane, is also the object of her pun on the back cover; she calls it a <i>pavé</i>, colloquial
       for “tome” as well as, literally, “paving stone” like those that have been torn up and used as barricades in urban uprisings such
@@ -298,6 +298,108 @@ export default function CastingOff() {
       get me a visa” as I used to say, is not discussed.
       <br/>
       <br/>
+      My reading of these aspects of Quintane’s works hinges on a line from <span className={styles.grayShadow}>Un œil en moins</span>, a provocation, about a portion of the
+      Invisible Committee’s readers making “practical use” rather than “literary use” of the books. Speaking of things being
+      thrown, of the projectiles of insurrectionists, <span className={styles.grayShadow}>Tomates</span> is the book of Quintane’s
+      with that committee at its center, which brings me back to my project of glossing, to “Benjamin de Tarnac.” Tarnac, a village
+      of about three hundred in the middle of that country, on the wonderfully named Plateau de Millevaches, names that location
+      but also—I’ll treat you like the dictionary the translator makes recourse to—a scandal. In the <span
+      className={styles.grayShadow}>Affaire Tarnac</span>, young people living on a commune there—the “Tarnac Nine”—were
+      arrested on charges of terrorism, accused of sabotaging the railway by placing a hook of reinforcing steel on its
+      lines. Julien Coupat, their supposed leader, was a literary man, having famously attended the EHESS (where my own
+      thesis, the present work, was undertaken) and founded the journal <i>Tiqqun</i>. He was also suspected of having
+      participated in this Invisible Committee, an anonymous collective whose <span
+      className={styles.grayShadow}>L’insurrection qui vient</span> (2007, published by Semiotexte in 2009 as <span
+      className={styles.grayShadow}>The Coming Insurrection</span>) was entered in as evidence wholesale. Literature
+      itself was on trial, as Quintane writes in <span className={styles.grayShadow}>Oeil</span>. In <span
+      className={styles.grayShadow}>Tomates</span>, which is centered on this episode, she manages an analysis of the
+      aesthetic, the affective implications of all this, not only the terror of realpolitik, but another, subtler
+      uncanny—the freshly bared and glinting contiguity of life and literary art. Coupat, interviewed for <i>Le Monde</i> from
+      prison in May 2009, was discovered reading Foucault (<span
+      className={styles.grayShadow}>Surveillance and Punishment</span>—<i>bien sûr</i>). In <span
+      className={styles.grayShadow}>Tomates</span>, Quintane has herself, her speaker, claiming to be the Invisible Committee—echoing
+      petitions of that time with many signatures.
+      <br/>
+      <br/>
+      <span className={styles.grayShadow}>Tomates</span> is paradoxical, however, in this ostensible focus on <i>events</i>. It is more
+      properly a book of continuity, taking continuity as its subject. Looking around, for example at a literature festival
+      on the island of Majorca, the narrator finds she is observing, in a police line for example, a tightening of the apparatus
+      of the security state. Out of her “flash” of fascism a bigger picture is, in the book’s course, developed. It turns out to
+      be, in the course of her reframing, of the reframing she performs, a denial of the feasibility of revolution in Quintane’s
+      day so widespread, so potent it amounts to mass hysteria. <span className={styles.grayShadow}>The Coming Insurrection</span> followed
+      on from, was inspired by, the 2005 riots in French suburbs, uprisings Quintane considers the chattering classes have been
+      hasty in discounting. I remember where we were standing as she told me <span className={styles.grayShadow}>Tomates</span> was
+      about the problem of transmission of knowledge; I raced to make a note of this. Quintane’s own generation and Marine Le
+      Pen’s has been, as she puts forth in both <span className={styles.grayShadow}>Tomates</span> and <span
+      className={styles.grayShadow}>Stand up</span>, the missing link, since 1968. But this is no excuse for inaction, poor timing
+      isn’t; “intense” is a lowkey reference (<i>tumulte</i>, in <span className={styles.grayShadow}>Stand up</span>, being more
+      obvious) to Georges Bataille’s morbidly serious claim of having lived through a surpassingly tumultuous epoch. She pokes fun
+      at him and, for the moment being, was showing me the school where she taught. I think that we had had to cross a bridge. The
+      light was getting low and orange. In a traffic circle the monument was decorated for Armistice Day, decked out in patriotic
+      bunting. Because I can remember vaguely in this way as well as tracking where I was in town as each note was taken down, this
+      notepad has a psycho-geographic function. Sprinkled in among my notes, as if to avoid drawing notice, are the <i>ad hominem</i> observations
+      I couldn’t resist surreptitiously making—“long delicate fingers,” “extremely slow walk”—tucked between the lines of pages
+      peppered all across with the abbreviation of my own devising, “Q.”
+      <br/>
+      <br/>
+      We had come, in that place, to a standstill. I had tripped her up, eager as I was to demonstrate that I had done the reading. In
+      the changing light I thought, below the delicately layered makeup that had caught it, she was, actually, blushing. Out of
+      consternation; we’d stopped moving. Quintane, leading us, had stopped short on that sidewalk in accommodating, suddenly, heated
+      discussion I’d begun about some connection between <span className={styles.grayShadow}>Tomates</span> and <span
+      className={styles.grayShadow}>La Cavalière</span>, a tonal similarity. Both deal with history, each a work of history or
+      almost; they use footnotes. <span className={styles.grayShadow}>Tomates</span> self-identifies as a “mute book”—prosy,
+      cultivated, not disruptive in its language. “So I write a mute book; I take that risk. I can’t write my revolt in any other
+      prose if I wish to be heard.” Elegiac, even. I may have said that; it’s a perfect cognate, <i>élégiaque</i>, but different
+      enough from the French éloge that I can never get it. Tomates had been a turning point in her reception by the
+      public. <span className={styles.grayShadow}>La Cavalière</span> was darker, I offered, more troubling, because the
+      problem of transmission both books consider becomes, in that book, shaky epistemologically; it might not be possible. The <i>soixante-huitards</i> being
+      interviewed are dying off; there’s a lot they have forgotten. Saying this, I was, however, thinking
+      something different, that it was a strangely satisfying feeling, new and negative, to see a favorite author frozen to the
+      spot because of something I was doing (her reader, who had spent so many hours transfixed). That was a cheap thrill, and, like
+      approval can be, I may have found it cheapening. In my French conclusion, I make much of an idea about a reste, a remainder
+      of the translator’s operation, that for Derrida is the untranslatable; here was another. Does it matter if the author
+      agrees with your reading? What difference can that make?
+      <br/>
+      <br/>
+      All over town, the revenge of the real continued. Digne was, even now (from the briefest of glances at my camera roll), blue
+      skies. Fluffy clouds. By each chestnut tree were piled golden leaves, still dry and fresh. I had proposed to Quintane from
+      the comfort of my home, United States, this <i>voyage sur les traces de MLP</i>. But the Greek restaurant was, it ensued, way
+      over there. The angle of ten degrees was nowhere to be seen. My thesis that I’d printed off was flopping in my hands as I
+      made reference to the text. Distinctly I remember the exercise of restraint, refraining, or so I thought, from taking notes
+      so frequently I’d seem insane. Quintane caught on anyway and, in a hostly way, pointed out a bench, asking if I might
+      want, before we moved on, to note “two-three” things. And before long we were seated, my notepad between us. I’d gotten
+      coffee while Quintane ordered warm milk, like a cat. I reached for my copy of <span
+      className={styles.grayShadow}>Les années 10</span>, which wasn’t there. It was in, of course, her car. Did I want her to
+      get it? This offer of Nathalie Quintane’s was more grounds for panicking, directions have always been my worst subject, and
+      it was adrenaline, I think, that let me find my way back to her car where it was parked—where Nathalie Quintane had parked
+      it. There it was. <span className={styles.grayShadow}>Les années 10</span>, the object, is a brightly colored book. Orange, it
+      is deeply dyed. Mine is well loved, and use has turned the edges of the spine white, rubbing off the color.
+      <br/>
+      <br/>
+      You were the one who said, at Amherst Coffee, said I’d have to capture in my writing what I told you there about the big
+      car of Nathalie Quintane being one of the dirtiest I’d ever been in. No way, I said in answer. Which is how I end up in
+      such positions of regret for all the questions that I never manage asking. Simple questions, like: Why is your car so
+      big? Is it for hauling stuff, what stuff? Why is it so dirty, what is your relationship to cleaning out your car? What is
+      the proper relationship of the writer to cleaning out a car?
+      <br/>
+      <br/>
+      And relatedly: is anything sacred? There was, back at that café, an unease, a flickering disappointment I felt only
+      intermittently but accessed, felt at the alacrity with which other questions, about which parts of <span
+      className={styles.grayShadow}>Stand up</span> were true—questions I’d puzzled over, left to conjecture; puzzling that
+      had seemed to open doors on hidden meanings—were cleared up by the author. The Barrière family, Jewish, had existed, for
+      example; she wouldn’t have made that up. Regarding <span className={styles.grayShadow}>La Cavalière</span> also, she was open
+      in discussing deontology, and even as certain lines of my questioning began to seem small, mere, wasted, huge and messy
+      ones were being opened up. There were questions that Nathalie Quintane found herself wanting to ask of those who came
+      places to do fieldwork—questions like what right they had. To ask their questions, air publicly the details of people’s
+      lives. Anyway, because she lived among them, all their lives made in the one place, Digne, she would not have offended
+      her interviewees. This was a question that seemed to her “moral.”
+      <br/>
+      <br/>
+
+
+
+
+
 
 
 
