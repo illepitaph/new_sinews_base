@@ -33,7 +33,7 @@ export default function Issue6() {
                 </div>
                   <div className={styles.issueContentsTwo}>
                 <div className={styles.workColumn}>
-                  <Link href="/issue3/krumrie" passHref><div className={styles.workLink}>megan_jeanne_<br/>gette ::something<br/>something</div></Link>
+                  <Link href="/issue3/krumrie" passHref><div className={styles.workLink}>megan_jeanne_<br/>gette :: ferdinand</div></Link>
                 </div>
                 <div className={styles.workColumn}>
                   <Link href="/blank/numbers" passHref><div className={styles.workLink}>vi_khi_nao ::<br/>the suicidal<br/>rain ++ the bleached<br/>cauliflower of my<br/>adversary ++</div></Link>
