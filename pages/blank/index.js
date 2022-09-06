@@ -33,7 +33,7 @@ export default function Issue6() {
                 </div>
                   <div className={styles.issueContentsTwo}>
                 <div className={styles.workColumn}>
-                  <Link href="/issue3/krumrie" passHref><div className={styles.workLink}>megan_jeanne_<br/>gette ::<br/>?</div></Link>
+                  <Link href="/issue3/krumrie" passHref><div className={styles.workLink}>megan_jeanne_<br/>gette ::something<br/>something</div></Link>
                 </div>
                 <div className={styles.workColumn}>
                   <Link href="/blank/numbers" passHref><div className={styles.workLink}>vi_khi_nao ::<br/>the suicidal<br/>rain ++ the bleached<br/>cauliflower of my<br/>adversary ++</div></Link>
@@ -42,12 +42,13 @@ export default function Issue6() {
                   <Link href="/blank/target" passHref><div className={styles.workLink}>cary_stough ::<br/>acquired target</div></Link>
                   <br/>
                   <br/>
-                   <br/>
-                    <br/>
-                      <Link href="/issue3/bios" passHref><div className={styles.workLink}> ... b  i  o s ...</div></Link>
+                      <Link href="/issue3/bios" passHref><div className={styles.workLink}> julian_mithra_::<br/>harrier</div></Link>
                 </div>
                 <div className={styles.workColumn}>
                 <Link href="/blank/desire" passHref><div className={styles.workLink}>xiao_yue_shan ::<br/>the dictionary<br/>of desire</div></Link>
+                <br/>
+                <br/>
+                <Link href="/issue3/krumrie" passHref><div className={styles.workLink}>... b  i  o s ...</div></Link>
                   </div>
                   <div className={styles.siteShortcuts}>
                         <Link href="/" passHref><button className={styles.linkButton}>new sinews</button></Link>
