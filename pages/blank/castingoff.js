@@ -841,26 +841,158 @@ export default function CastingOff() {
       for, surely, the connotation in my native language about hunting down celebrities.
       <br/>
       <br/>
-
-
-
-
-
-
-
-
-
-
+      There are two chocolate shops on the Boulevard Gassendi, three if you count one that’s primarily a bakery, and
+      yet, according to the author, the store that was the inspiration for the chocolate shop in <span
+      className={styles.grayShadow}>Stand up</span> is, although
+      the author referred to it a “deco” store, not even that; it is a florist. My cover was a question if they had any
+      lavender sachets. Amazingly, David, they did not. What I call, in my translation, Madison’s
+      Locker (<span className={styles.grayShadow}>Stand up</span>’s <i>Maison de Madison</i>) has an almost perfect
+      analogue, however; I spent stunned minutes in among asynchronously ticking clocks, the glassware, candles, aprons
+      printed with depictions of our fellow animals, companion animals, and, prominent, as if it might be reached
+      by breaking glass in the case of some emergency of fuss, a statue of the placid Buddha, presumably for sale
+      too. Another faithful representation <span
+      className={styles.grayShadow}>Stand up</span> makes is of, as I discovered just nearby, the nationalistic
+      café, in reality as in the literature crowned by a crest in (faded) gold on red—its awning. “You’re
+      welcome, and still water,” the server said, obnoxiously since I had spoken French to him. Beautiful, haiku-like
+      phrase, I could think, but only after taking a warming sip of coffee. I was, after all, far from home, far
+      enough that David, at the post office, I had to borrow a stranger’s phone to look up your Zip code. And while
+      MLP practically falls into each of the restaurants and shops, without even trying, my efforts on my own to find
+      my way back to that Greek restaurant led only to dead ends, led me finally to byways of an infectious
+      tranquility, where birds could be heard singing.
+      <br/>
+      <br/>
+      <span className={styles.grayShadow}>Stand up</span> is not the only work of Quintane’s to feature, as a key
+      setting, the Place du Général de Gaulle—with its long, rectangular bed for a fountain; with, right there, its
+      kiosk, which turns out to be what in English we call a gazebo, the sound system of which Quintane herself had
+      pointed out to me so proudly. They all gather, during the period of protests in <span
+      className={styles.grayShadow}>Un œil en moins</span>, on this plaza; there is a moving passage that became
+      important to my understanding of, and to my argument about, what, in Quintane, is so politically activated. I’ll
+      give it a try and translate, but for me it all relies on just two words of argot that, in their affective
+      valence, a casualness so great it implies not only solidarity but affection, are typical not only of this
+      slang at its strongest but also, incidentally, of the way Quintane uses it. There’s no English equivalent
+      of such a flavor for <i>tchoul</i>, a homeless person or bum—less derogatory than <i>cassos</i> (for <i>cas
+      social</i>)—or <i>parlote</i>, talk, chatter, gab:
+      <br/>
+      <br/>
+      <br/>
+      <p className={styles.compactProse}>He has a big smile on, is a little twisted, he speaks in a sped-up fashion with
+      brusque stops. His right hand in an aerial suspension. We talk. He wants to know what we’re carrying on about
+      and, in contrast to the others, the non-charity cases, doesn’t leave again immediately. He stays awhile. He’s
+      come to chat, for the gift of gab, to warm himself by it. He warms up a little and then at last, saluting us, he goes.</p>
+      <br/>
+      <br/>
+      <br/>
+      I think I interviewed this very <i>tchoul</i>; it’s possible. Happy as he and his lady were to talk, when I found
+      out they’d arrived in town just recently, I had to find some means to extricate myself. “I was in middle school,” a young
+      woman, approached after they were, said. Flanked by an older couple, the man oddly edgy. <i>On jetait des pierres
+      dessus</i>. <i>C’était pas rigolo</i>. <i>Elle n’était pas très bien accueillie</i>. <i>J’ai pas vu mais j’ai
+      entendu</i> … <i>mais j’étais petite</i>. Not an eyewitness, her testimony is included for the atmosphere and
+      left in French. <i>Merci pour ce beau souvenir</i>, a reporter told her, and, catching up with
+      another <i>dignois</i> by speed-walking at his side, learned he’d been in attendance. He could confirm projectiles
+      had been thrown. “You’re doing an investigation? Who for? Marine Le Pen?” Reassured by an answer in the negative, he
+      added that he certainly hoped not. “Marine Le Pen isn’t welcome here,” the man, petit, gray, neatly dressed, then
+      said, allowing a smile he kept to himself, looking straight ahead in the direction he’d been headed. While
+      memory might have faded, that punch line remained, I realized, cracking the secret of some relationship between
+      literature and life. But by that time I had to catch a bus, I had to run.
+      <br/>
+      <br/>
+      <span className={styles.grayShadow}>La Cavalière</span> hadn’t been an investigation, as Quintane herself could
+      clarify to me. Not even a <i>mise au jour</i>, it had been a <i>mise à jour</i>—teasing out connections of those events in
+      Digne to Nathalie Quintane’s present. And here I am, essaying my own contribution to the genre. As a matter of personal
+      history, I had, back in the time of that original composition, come across a quotation from Umberto Eco about how
+      the Master’s thesis should be <i>useful</i>—<i>useful to others</i>, unless I am thinking of something from Barthes—and
+      the literature of Nathalie Quintane is useful, too. In a recent English-language dissertation, the researcher Eric
+      Lynch explores Quintane’s use of a style in narration, that of <i>idiotie</i>, her idiot operating maybe much like my
+      construct of the American girl in Paris, ingenuous in just her way perhaps, opening up in some way or other
+      anyway a space on the page where thinking happens visibly, is as if mechanically stimulated, inducted in
+      the reader; this has political stakes. Out of the many errors I’m sure remain in my own thesis, one that
+      leaps off the page, out of that French conclusion, is, arguably, an over-reading where I make claims about
+      the role of therapy in Quintane’s oeuvre. Looking back, I may have just meant something like talking, discussion—but
+      been lead astray by the seductive association of what we call a mother tongue via its other idiom of “talking
+      cure.” For Quintane, going fast, making mistakes, showing yourself making and then correcting them, had
+      been revelations of her study of the avant-gardes. They mean you’re working; it’s good to show your work. “It’s
+      very good to show that you’re at work.” Here’s something I learned years ago, studying journalism: one thing
+      you can do with a mistake, or an unverifiability, is fix it, another is put it in quotes.
+      <br/>
+      <br/>
+      I felt sleepy and happy, staring out the window of that filling bus as if someone might appear to wave me off. I knew
+      now why I’d had such a strong reaction to that line in   <span className={styles.grayShadow}>La Cavalière</span>, you
+      know about Quintane’s wanting to be left the hell alone, but I had had nothing to fear. And maybe I had been seeking
+      reassurance; as you know, I had been writing this and that, having trouble putting out a book, and had perhaps figured
+      that if my first book were by Nathalie Quintane then it couldn’t miss. Far be it from her to prevent anyone at all
+      from sticking their nose in her work, as she has written, doing with it as they like, she’s written this, somewhere
+      or other. And indeed, she’d been more lenient with me than her interview subjects for <span
+      className={styles.grayShadow}>La Cavalière</span> had been with her. She’d shared they were against her recording. Had
+      sent interviews back to them for corrections. All this due, as she had said, to the intermingling of their experiences
+      of living in a town where she wouldn’t be able, otherwise, to face them. So it was possible I was presenting a contrast
+      in high-tailing it out of there, with consequences for my soul, but I preferred to think in terms, a term, of Gertrude
+      Stein’s that appealed to me in writing my thesis. Writers must have a “second” country, Stein asserts—as if literature
+      were it. And even if I did have to go back to the US rather than stay on in France or, I don’t know, Germany, this framing
+      gave me the option of thinking of Quintane as a compatriot, with all that entailed about trying to resist betrayal.
+      <br/>
+      <br/>
+      But she was so transparent anyway. I don’t know how to say it. She would, like, step through a door I hadn’t noticed
+      to return holding a stack of books for me, that kind of thing. At the bottom was an anthology, <span
+      className={styles.grayShadow}>Lettres aux jeunes poétesses</span>. She made, then, a perfect quip about her feminism, about
+      concerns of mine that might be laid to rest. I had the strangest intuition that it was her only copy. In fact I
+      refer, throughout my thesis, to the <i>poétesse</i>, not the <i>poète</i>; in French, different from in English, the
+      feminine form of this is considered, actually, more feminist, more progressive, and I had received coaching from my
+      friend Karim whose sense for everything, not just political correctness, is exquisite. But rereading <span
+      className={styles.grayShadow}>Tomates</span> I’d seen her call herself <i>poète</i>. I don’t know that her essay in
+      this volume is her best effort; it seems a little hasty (<i>Mais tu n’es pas Milena</i>, <i>et je ne suis pas Kafka</i>). Though
+      it does deal with a change in the form of one’s life, with moving house somewhere, with an implantation, marked by a kind
+      of radical, absurd self-sufficiency, in the Lozère … I was scandalized however to find, in black and white, an error
+      of Quintane’s, unless the error was the English language’s: <i>Mummy</i>, <i>en anglais</i>, <i>se prononce momie</i>. “Mummy,
+      in English, is pronounced <i>momie</i>.” It’s in service of a pun about mummification—<i>momie</i> is “mummy” in French—but
+      I don’t know who told her this.
+      <br/>
+      <br/>
+      <span className={styles.grayShadow}>Lettres aux jeunes poétesses</span>, a few others but, <span
+      className={styles.grayShadow}>Attention</span>, no lavender sachet, I arrived back in Paris with—What was this?—my extra
+      notepad. I gave it to Zoey. She made a big fuss over it, said she’d bring it one day to her favorite café for a writing
+      session while wearing a pair of shoes I had given her the previous year—another story. I had been persuaded during the winter
+      sales by some unscrupulous boutiquier that they’d stretch out, a pair of Converse, canvas. And it was in the course of my
+      very last days—the organization of the going-away party, so like a living funeral, under green trees; the trip to the
+      Monoprix for cardboard boxes I would use to pack and ship my books; the leaving, at that Monoprix, of my driver’s
+      license (American!), collateral against a shopping cart then used to haul my books to the post office—that, meeting this
+      friend Zoey at a picnic table in the sun, I offered them. I just had a hunch; she’s so petite. I told her the story, how
+      I’d ended up with them. “Oh my god,” she said, on seeing them. “Why are they so small?” They fit her perfectly, of course.
+      <br/>
+      <br/>
+      Now in stocking feet, at my desk in Massachusetts, I keep looking back at Quintane’s castoff. <span
+      className={styles.grayShadow}>À la jeune poétesse</span>, her letter. It’s interesting, David, but this is how it
+      begins: “Of course, if you know me, you already know that I can’t write a letter.”
+      <br/>
+      <br/>
+      Well, there you go; that’s all for now.
       <br/>
       <br/>
       <br/>
       <br/>
       <br/>
       <br/>
-
-
-
-
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
       <p id="footnote">[1] At the time of his death Christophe Tarkos was 41 as reported by <i>Le Monde</i> and according to Google
       but 40 as reported by <i>Libération</i> and as printed on the back cover of P.O.L’s paperback edition of <span
       className={styles.grayShadow}>Le Petit Bidon et autres textes</span>, a posthumous collection. Tarkos died in November
@@ -868,7 +1000,6 @@ export default function CastingOff() {
       National Library) or (per Wikipedia, for example) December 1963. I will update this essay as I learn more and would
       be grateful to receive further information from any source.</p>
       </StandardProse>
-
        <Footer/>
 
 
