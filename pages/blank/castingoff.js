@@ -568,6 +568,286 @@ export default function CastingOff() {
       didn’t, however, visibly, seem to … No, she said, she had never been one for … particularly … Well, I said
       finally, finishing somewhat weakly, perhaps, Quintane was quick to agree, that was only a way of speaking (He was
       writing) that Gleize had.
+      <br/>
+      <br/>
+      <i>Conversion</i> was, anyway, Gleize’s word, Quintane said, and when she said that I sensed she was throwing me off
+      the scent of something, of some trail. A relationship that art can bear to life is one of righting it, of making
+      right, not only redirecting but apologizing, and I’m about to find myself returning, again, to what I perceived as, fleeting
+      and possibly my own projection, a moment of discomfort for Madame. I had too much insisted, returned us one too many
+      times to this question, as I felt. Because my <i>mémoire de fin de vie en France</i> had been, on the other hand, a
+      preparation for the beginning of some other life; indeed after finishing it, a little over a year before, I had made
+      my entry into another form of life, to use the definition from <span
+      className={styles.grayShadow}>Ultra-Proust</span>, gone through a <i>conversion</i>. Which of her three options had I
+      chosen, if any? Was that what I’d come to tell her? In a demonstration of the multiplication of tactics, I had
+      left an urban center to install myself in Northampton, Massachusetts, a city of thirty thousand (on the scale of
+      Digne’s sixteen) where, supporting myself as a part-time teacher, I would be able to give my days and nights to
+      writing. In my culture this is called an MFA program; in <span
+      className={styles.grayShadow}>La Cavalière</span> we learn there is no such thing as the nation, only a progressive
+      conquest of the countryside. So there I was. It had been done. Was that what she had meant for me to do? No, but
+      hadn’t she given me the language? The claim is still too great, but if it weren’t, if the shoe fit, putting
+      yourself in the author’s: to see your text, composed by a past self, come in its way (mine) to life must be
+      like seeing a ghost. So what did you mean by that, Nathalie Quintane, your phrase about conversion? Was that
+      a call to action, did you mean it to be active? Did you put it there for me, did my response suffice? It’s
+      only fair for me to put you on the spot. <i>Parce que moi</i>, <i>j’ai changé de vie à base de cela</i>.
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <p className={styles.sectionBreak}>*</p>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      This said, obviously you can change who you are, maybe even in the direction of buttressing your contribution to whatever
+      revolution, without moving across an ocean, and so too can you change who you are just by changing an aspect of your
+      writing, certainly by changing the language of your writing, as I will now argue. In the conclusion, in French, acknowledgment
+      is made of the implication of a kind of character, the translator or annotator, by all that paratext. (In French, I call
+      this character the “lady translator” or “lady annotator.”) But there’s also that of the writer in French as, at the remove
+      of this subsequent pass, I can consider her. Writing in French, I found it possible to bury in there, not only a few
+      targeted readings, you could call them pugnacious, of contemporary writers in the Anglosphere, but other stuff I might
+      not have shared in English, like musings on my own past (too self-indulgent), hopes for the future like that of moving
+      to Massachusetts as part of my own conversion to literature (embarrassing). It’s not just a matter of hiding all that
+      out of view or, more literally, beyond the comprehension of the Anglophone acquaintance of my life; writing in French
+      I feel, more deeply, not me, estranged or rather played, hazarded. There is, for me, a pleasurable frisson of distance
+      that effects as when I write narratively about myself, narrating, from some other vantage, my own experience—“deciding” it
+      for one side or the other in that way that always is to lie a little. We change so much over time.
+      <br/>
+      <br/>
+      Language changes, too; accordingly a leitmotif of those French footnotes is my turning up headline items of that time
+      in connection with a word or phrase from <span
+      className={styles.grayShadow}>Stand up</span>, making sensational claims about the amazing power poetry had to
+      anticipate and even predict politics, political life, by being out at the vanguard of language, generating it. The
+      Nice lemon festival, an object of fixation for <span
+      className={styles.grayShadow}>Stand up</span>’s MLP, had been, as I was translating, closed to Italians, who in
+      other years would cross the border to attend, Italy being where early cases had been happening. The xenophobia of
+      an MLP always will be contextual. If I were translating today I might have saved my footnote for “slug,” my
+      translation of <i>limace</i>, not a hard call, but there is an incredible resonance of <i>limace</i> in the French language ever
+      since, in February of 2022, Marine Le Pen, following the departure of Nicolas Bay, her spokesman who went over
+      to Eric Zemmour, used the word to malign practitioners of what she called “slug strategy,” saboteurs (<i>la stratégie de
+      la limace</i>): “Not only because the slug is slow but because it is sticky,” as she, no poet, said, quoted
+      in <i>Le Monde</i>. Mine was not only a technical matter of being precise about usage in making a selection of words
+      for the translation so, ideally, they’d carry all the meaning they had to (for “Objects, words must be led across time
+      not preserved against it,” as Spicer writes in <span
+      className={styles.grayShadow}>After Lorca</span>). It was also, something suspect, a justification made in retrospect, my
+      case for the decision, at a moment in history, to translate one story in particular. As Benjamin says, a translation that
+      is more than simple transcription can occur when, in the course of its reception, a work has attained the age of its
+      glory. Were we there? Despite the musings I’ve identified on past and future, the French sections say little about
+      this present, lacking information about the time of writing—much of it implied, to be fair; she is just sitting
+      at the keyboard—though there are clues, chiefly allusions to the writer’s own, too modest library, to which recourse
+      must, all the same, be made, all the while quoting Benjamin, <i>Je déballe ma bibliothèque</i>, and, perhaps, the
+      domination of this library, so like a time capsule in its frozenness, by works of Anglophone literature that had
+      peaked in popularity shortly before the pandemic set in as such, books she has on hand by Rachel Cusk, Ben Lerner.
+      <br/>
+      <br/>
+      Who was she, this writer in French? All around were clues. Some were red herrings, however; I was subletting this
+      studio from another woman. I was making my life temporarily in her space and among her personal effects, a situation
+      not unlike translating’s of writing another’s text, and in fact that woman’s handwriting was all over the walls. An
+      artist, she worked as a designer, and those works on paper, her calligraphy, had tendencies to fall and droop from
+      where she’d hung them up with putty. I remedied this, finding extra putty by her desk, where I did my writing. And
+      my reading; in Brice Matthieussent’s <span
+      className={styles.grayShadow}>Vengeance du traducteur</span>, “The Translator’s Revenge,” that page space below the bar
+      for footnotes where a translator can add their notes, can at last “play at elbows” as is said in French, is figured
+      as a lair out of Dostoevsky—you know, underground. The sudden lockdown, with police stationed everywhere to check
+      your papers, makes me think of, pair this with, the French word <i>contrôle</i>, used for border control but also for
+      an exam, for being tested. What I had down there would have to be enough to get me through.
+      <br/>
+      <br/>
+      There was a Kallax that separated living room, such as it was, from kitchen and supported stacks of plates, where
+      they collected dust; I have invented the cabinet, I thought. There was, besides her artwork, a pair of mugs for which
+      my host’s instructions had been to break anything but them; whenever I held either I could feel it straining floor-ward, it
+      was all I could do not to hurry it along in its flight by dashing it to shatter on the planks of plastic made to look
+      like wood. There were, besides my books, jars of pickles and packets of sous vide beets acquired at the recommendation
+      of a French friend I had asked, in a friendly way, for advice on how to last; they weren’t foods I usually ate, but
+      she had said to get them, and it was, it turned out, comforting to have these foods, preserves, on hand. My host
+      suffered from a chronic illness and had gone to take a cure, as it might be phrased in an old novel, in India—I
+      don’t know that she said where. “I have cats here,” she’d written in English, sending a picture. News came of a
+      boyfriend, followed by images of a sunset backing palm trees and of beaches. A joke was easy. I was going to stay
+      forever; she was never coming back.
+      <br/>
+      <br/>
+      And your domicile determined, throughout France, the area your life ranged over; you were forbidden to venture
+      farther than a kilometer from home. This was being enforced seriously. Early in that lockdown, which it would
+      be fair to call a forever in miniature, I was stopped by a policeman who let me off without a ticket and gave me
+      to appreciate exception had been made. Out jogging, I might have thought it proof enough I’d stayed in my own
+      neighborhood that I was wearing yoga pants, as American women can. With their sheer panels. Not so. From then
+      on I followed everything scrupulously, limiting my grocery runs to once a week and masking up, though I didn’t
+      know personally any babies or old people in all of France.
+      <br/>
+      <br/>
+      One neighbor I met because of the shit of her cat. In this way I got to know the neighbor with the balcony that
+      gave onto my big, railed window—we shared an interior corner of the building. She had become, as I
+      observed, depressed, too depressed, too something, enough of whatever it was not to clean out the box that
+      she put, instead, out on this balcony. Well before my opportunity presented itself, I planned out how I’d make
+      my ask. That apartment complex was large, contemporary with compost, gardens, children, washing on the
+      line; I heard pandemonium and sounds of something rolling that turned out, when I saw it, to be a life-sized
+      plastic car, sized to a child. Sun entered in the morning on the wrong side; the side on which my host lived
+      was not favored. Below us the families spoke to each other with what seemed greater ease than I would have
+      on finding words, on exchanging them with my neighbor. Willingly or not my host had adopted a certain
+      posture in maintaining, as a single woman of a certain age, a studio in that building. A few months
+      away from turning thirty, that was how I saw it, and I watched those families out my window, leaning
+      on the railing and clutching occasionally, as if for respectability’s sake, a mug, any mug, of coffee. I
+      was carrying on a kind of dry, boring romance over WhatsApp with a college classmate who had become
+      a businessman, but it was easy, under the circumstances, to keep in my mind an earlier version of this
+      person, lanky, vulnerable, bad at handling disappointment. He had directed a play, on opening night some
+      mistake was made, and I had a strong memory of him actually running off into the night, crying. My boyfriend
+      had gone after. I had tried to follow and been stopped. “He won’t want you there,” that boyfriend had
+      said gravely, leaving me alone to ponder why that was.
+      <br/>
+      <br/>
+      One day like this, as spring was coming, I got it in me to use a bleach solution and clean out a vent that
+      I had noticed was disgusting even as it was, I had a look around, quite alone in piping in my air, the air
+      that filled that room where I was living. Time passed quickly in this way, too quickly. My black socks were
+      spotted, my green T-shirt altered by the stains. It occurred to me at, perhaps, the advent of the headache, likely
+      after, I had done myself some harm. I called, not any French service, but Poison Control, I knew to call them. The
+      American English of the woman who answered was companionable, so soothing as I made my way over to my window with
+      its railing. She was sympathetic, I found her so and told her everything as, in the sun-drenched courtyard I was
+      looking down on, children picked up with their games, giving out their shrieks. She cut me off, the lady on
+      the phone. Her tone was sharp, even frightening. Ma’am, is there a child? I had had kids, I had forgotten about
+      them, they were coming to take them away.
+      <br/>
+      <br/>
+      The lockdown coincided with the period of year when it gets warmer; an excitement always builds, and with the
+      effective deprivation of other social senses that one came on strong. Everywhere around my neighborhood was
+      a sense of motion and of heating up, of movement; music carried. To my host I sent photos of flowers she had
+      planted on their ways up in the window box. I photographed the gardens of her neighbors, gardens of those larger
+      units sprawling at my feet. The most important texts to me during this period were, it could be argued, a ream
+      or almost of originals and photocopies taken along by necessity on my every outing, fitted with precision into
+      a poppy-red shoulder bag I’d bought while on vacation with my mom, the right size for my last visa, lapsed, for
+      other proofs of my presence there in France as legitimate, a slip for my appointment with the prefecture, a
+      document attesting to my scholarization at a French institution, statements of domiciliation with utility
+      bills, identity cards and passport … The most important texts to me during this period were, more seriously, the
+      works of Nathalie Quintane.
+      <br/>
+      <br/>
+      The most important text was, at that time to me, a podcast; I sent it piping in my headphones to hear another
+      author claiming he had found it helpful, for his book, to access some abyss. I heard this walking in my circles
+      of one kilometer in radius, summer coming on, laughing at the joke I had no one to tell. Sirens I’d associate
+      with the hospital nearby, Robert Debré, feeling my incapacity to judge if they were much more numerous than
+      usual. Parties gathered, illicit I thought, in an apartment across the courtyard. I watched them gather
+      until, at last, I was seen watching. I was seen by a man in silhouette. I was sleeping with the window open
+      by that time, getting bitten, summer almost there. The man was standing on another neighbor’s balcony, silhouetted
+      against a lit window where the loud party was happening, shouting back at me. Seeing me this ghostly
+      figure, shouting, asked if they were being loud. I signaled, somehow, my assent. He was unperturbed, looking
+      back: <i>Vous n’avez qu’à nous rejoindre</i>.
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <p className={styles.sectionBreak}>*</p>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      Nathalie Quintane’s is the last house in the last town before the Alps. This happens to be true. I struggled, in the
+      morning, to get up—behind country-style shutters, the room was dark and very calm—and when I did, she wasn’t
+      there. She had gone off to school. But there was Nathalie Quintane’s computer, an old desktop that, had I wanted
+      to be certain of leaving an impact of some kind on literary history with my life, I might have spilled something
+      on. There’s an admonition familiar from the creative-writing classroom, I’ve heard it someplace anyway, to “leave
+      space for the reader”—leaving space for the reader being a mark of the text’s achievement, sophistication. Evidently
+      Quintane had managed this, for there I was. With everything unpacked. With, now, something to add to the
+      project, the present project that had already contained, in the French sections, a rendering of my imagined visit to
+      Digne, as well as containing Quintane’s descriptions, via MLP, of Digne—leaving my visit, my real visit, as another <i>reste</i>,
+      remainder. As Quintane herself remains, in my telling of this visit, elusive, maybe.
+      <br/>
+      <br/>
+      We had arrived there by night, after spending the early part of the evening in the town center, and it was a real
+      shock for me to see the mountain out her kitchen window. Her friend the filmmaker was there to say gently, even
+      apologetically that, for several months out of the year, they went without light, though I’d meant only to express
+      my wonder at the mountain’s beauty. To orient me, he drew sketches in pencil, a pair of diagrams that showed the
+      mountains, how the valleys worked, their meeting and the shadow. Finding these beautiful, too, admiring their
+      spidery lines, I tucked them away in my notepad. I didn’t consult them on the walk that I went out for
+      subsequently, but one of the great pleasures of being a foreigner is receiving the hospitality of having
+      something explained to you carefully and in such detail as is rarely given between adults, for fear of insulting
+      the other’s intelligence—a shame (I tend to think). With that filmmaker I ventured shyly, before setting out, that
+      I was concerned the method I’d default to, that of <i>épuisement</i> (a Perec reference), was just overdoing, a thing
+      of being a good student (<i>ex-bon élève</i>, as Quintane characterizes teachers in <span
+      className={styles.grayShadow}>La Cavalière</span>, bringing to mind for her readers the portrait drawn so
+      vividly in <span className={styles.grayShadow}>Un hamster à l’école</span>, her previous book; <i>hamster</i> is a perfect
+      cognate). He reassured me the approach was good. Because, he said, finally you don't exhaust it, it exhausts you.
+      <br/>
+      <br/>
+      This visit would have filled me with, obviously, inspiration, by the time that I got back to Amherst, David. I had, among
+      others, the bright idea of inviting my students, my freshmen, on our last day to take five minutes and commit to paper
+      some question they’d been left with about writing. I gathered up these questions to answer them, sight unseen, and was
+      confronted by:
+      <br/>
+      <br/>
+      <br/>
+      <p className={styles.compactProse}>Before this semester comes to a close, I want to know, what makes new
+      authors so well-liked or enjoyable, because surely their style of writing has been done before. It can be argued that you
+      will never have an original thought: someone has already had it and someone is bound to have it after you. That being
+      said, how can new authors even make names for themselves if what they are presenting is not truly profound? This can go
+      for fiction and nonfiction writers. I feel as though you can only go so far with writing.</p>
+      <br/>
+      <br/>
+      <br/>
+      You know how suspicious they’ve been made of even the concept of knowledge being produced in the humanities, and, doing
+      my best, I tried to say it was like science, a group effort. Originality was arrived at by recombination; even the overwhelming
+      mass of middling-profound authors contributed to a culture in which greatness might one day obtain. Placing pieces of writing
+      in this way between two (or more) people, or between other pieces of writing, letting your pieces of writing hang in
+      suspension, would seem to better your chances of originality immensely, more precisely by a magnitude of, at least, two (a
+      figure I just arrived at thanks to laws of probability from math). If translation is one mechanism of this, the intersection
+      of a work with politics, or with reality, is perhaps another. Translation relieves literature of its solitude, makes
+      it “transitive” as Samoyault argues, a theory that has always reminded me of the virulent hatred of Quintane’s, expressed
+      in a couple of places, for the verb “to write” when used in the intransitive (<i>écrire</i>). A third leg, like the object, or
+      the form, can stabilize. Original, translation, and reality; writer, reader, and how it really was. Seriously, then, I
+      can come clean and say my curiosity for writing between French and English originated in the jokes I loved to share, in
+      France, with bilingual friends and foreigners—puns of a certain type, feigned misunderstandings about which I hoped
+      to overturn my original hypothesis they could occur only out loud, between two people, one of them a friend of mine, in
+      speaking.
+      <br/>
+      <br/>
+      A very old, dun-colored dog, apparently a stray, walking in the middle of the road eyed me with a little, not too much
+      hope as I passed him by. To my right were gravestones, was the church of Digne’s medieval section. I was headed into town
+      where, alone now, I was ready to encounter history, my fact check. “When Jeanne Duval lived in this neighbourhood,” Robertson
+      writes, using her Canadian spellings, of another French city, “in the late 1830s, it was home to several popular theatres
+      frequented by students, and it was already ancient.” This had been attractive to me too as a young woman, the notion of
+      a place so old you couldn’t break it. Jeanne Duval’s in the Parisian imaginary, for her partnership with “Monsieur
+      Baudelaire,” as she was “always,” Robertson says, “ironically,” to call him, Baudelaire who “exoticized her hair, and
+      skin, and scent … the mixture and distance she was constrained to express … with a grossly inevitable racism,” is
+      Robertson’s next subject. Dionne Brand has her blue clerk, who is in the business of literary-historical accounting, search, in
+      her diligent way, search and search “<span className={styles.grayShadow}>Les Fleurs du mal</span> for Baudelaire’s tropical
+      soul,” something Benjamin, in the papers collected as his <span className={styles.grayShadow}>Arcades Project</span>, makes
+      report of, coming up with only, <i>hélas</i>, “a European aesthetic category.” Exoticized, objectified, the first American girl in
+      Paris arguably was a Black woman. This, in addition to decentering whiteness, also decenters the United States; considering
+      Duval’s provenance in probably Haiti, like Brand’s and Robertson’s in Trinidad and Tobago and Canada, may help relieve
+      that “American” of its heavy focus on the US, something I found that I could do in writing in French as I can’t in
+      writing in English by referring to myself as, not American, <i>étatsunienne</i>—an adjective that, in the spirit of historical
+      accuracy, I think we need. I had only ever been a Unitedstatesish girl in Paris.
+      <br/>
+      <br/>
+      All the more so as this figure, if it is to be contextualized in history, can’t, exactly, be de-whitewashed, as it can’t
+      be extricated from the matrix of another property relation—from the entrance, made by ladies of the upper classes, into
+      marriage. It was “Alexis de Tocqueville” who “wrote of American women in the 19th century” that their freedom, “that
+      lone, unique freedom” in letting them marry for love “damned them to unhappy marriages” as Lynne Tillman has her
+      apparently eponymous character, an unmarried white woman, reflecting rather dryly in the novel <span
+      className={styles.grayShadow}>American Genius, A Comedy</span>. In this archly stenographic rendering of the nobleman’s <i>pensée</i> one
+      feels those cases, in their individuality, receding and receding fast—hearing, even, the whoosh of air attending their displacement—for lack of point of attachment, of identification, in the woman’s own imagination. “I think she never bothered to bite any apple at all” writes Angela Carter, by contrast, of the Jeanne Duval of her story “Black Venus” who, rather than becoming pregnant by the sex she sells, is shown to impregnate her clients (“the most privileged of the colonial administration”) with death, with “the veritable, the authentic, the true Baudelairean syphilis.” “Oh, I do hope they’ll make a revolution!” in the words of Isabel Archer, characteristically a pretty outburst. “In a revolution—after it was well begun—I think I should be a high, proud loyalist,” she adds—but the effect of that is, so mysteriously it is almost automatic, unmistakably, irreverent. She is still a kind of problem. And, because there is no evidence in the surrounding text to explain the inclusion of that clause of hers, her note on timing, I feel like pointing out that she suggests it is the revolutionaries who should be given the advantage.
+      <br/>
+      <br/>
+      Upon reaching, again, the Place du Général de Gaulle I saw it was under construction, fenced off like a joke about the
+      unreachability of truths such as how things were exactly. I prefer to flee the sound of the drills, but I made my way over
+      to the storefront that had been the National Front headquarters, inaugurated on the day of Le Pen’s real visit. Since
+      election season this had been converted into, happily enough, a pottery studio and showroom, as if nature had taken it
+      back. I jotted down some notes, joining a school group as it made a visit of its own, hanging around with clipboards
+      taking in the framed display. “The principle of the artisanal is that each piece is unique,” I heard the teacher
+      say. Nearby, though again not quite where a careful reader of <span
+      className={styles.grayShadow}>Stand up</span> would have placed it, was the bookstore. High
+      on a wall were promo photos, publishers’, of literary lions—in black and white, Pasolini’s stare, Francis Ponge in
+      shirtsleeves, the over-processed hair of Annie Ernaux—from which I tore myself away to look around for titles
+      mentioned by Quintane as important in her development as a writer, unsuccessfully. Amusing myself, then, with
+      the thought that Quintane herself had bought up every copy. Just outside was Digne’s bronze statue of Pierre
+      Gassendi, the astronomer from there; the region is good for star-gazing, a detail that sticks in my mind
+      for, surely, the connotation in my native language about hunting down celebrities.
+      <br/>
+      <br/>
+
+
+
+
+
+
+
 
 
 

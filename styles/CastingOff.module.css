@@ -20,6 +20,13 @@
   text-align:center;
 }
 
+.compactProse {
+  max-width:45vw;
+  margin-left:12.5vw;
+  font-size:1rem;
+  line-height:1.2rem;
+}
+
 @media (max-width:429px) and (orientation:portrait) {
   .title {
     font-size:1.1rem;
