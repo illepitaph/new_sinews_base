@@ -395,17 +395,198 @@ export default function CastingOff() {
       her interviewees. This was a question that seemed to her “moral.”
       <br/>
       <br/>
+      Difficult territory, for me in that setting anyway, which makes me remember the last thing I meant to gloss from
+      that <span className={styles.grayShadow}>Tomates</span> quotation—“minoritarian” (which I’ve translated aslant; “minority”
+      is, except for the connotation in American English about race, here inappropriate, a cognate). For a long time a highlight
+      of Quintane’s author bio on the P. O. L website has been the showstopping sentence <i>Je suis peu nombreuse</i>, <i>mais je
+      suis décidée</i>. Placing the author in a society of one as part of a “biography [that] reduces itself to a few malicious
+      lines,” as the critic Anne Malaprade has termed another of Quintane’s of comparable length, this is as if designed to
+      scare off those who would search the life for clues to the art, as cops search—you’ll remember that <span
+      className={styles.grayShadow}>Tomates</span>, her breakthrough, is about the juridical usage of literature and, perhaps, identity
+      to persecute supposed authors—and even so, with my notepad, I’d shown up.
+      <br/>
+      <br/>
+      She had a schoolteacher’s sense for which directions to give, the necessary ones. So this had been, evidently, because I
+      kept forgetting, in my negligence disregarding the rule she had set to close the door to the room where I was sleeping, and
+      would find myself in consequence discreetly giving chase to the cats of Nathalie Quintane (how well she knew them), chasing
+      cats to capture and remove them, activity the poet politely ignored. The room was taken up by a grand piano at the center. I
+      chased those cats around the grand piano. There were plants, one a spindly plant, atop that grand piano. The handle of the
+      door was offset slightly, I don’t know how to name what made it wrong. It had been set askew somehow. Repeatedly I had trouble
+      getting it open, an instant of trouble. But it was figurative, my term when, failing to sleep, I wrote in my notes about
+      feeling “trapped.” Quintane had given me plenty to worry about, but what I really feared by now was that the whole enterprise
+      of a text I’d promised, David, you, would be weighted down, go flat. With me constrained, doomed from then to write another
+      mute text, not only elegiac but, worse, loyal to the record. The burden of the real, history’s burden, would prove a lethal
+      weight. You and I had a plan, laid in Massachusetts, for me to write something funny; it would be totally wrecked. And
+      maybe there had been always but unacknowledged a sinking melancholy to the project, drowning it in this tsunami of
+      nostalgia, attempt, pathetic, to make something of my life in France, get something useful out … <i>Les bons profs savent
+      jouer de ça</i> : Quintane’s line was running through my head as I tried sleeping; it’s from <span
+      className={styles.grayShadow}>Ultra-Proust</span>. And connecting to Nathalie Quintane’s WiFi network, I saw, then, a
+      message from Malte, afraid that he had COVID.
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <p className={styles.sectionBreak}>*</p>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      So what did I hope to get out of life that I hadn’t gotten out of art? This time, I mean. In the French you may still be
+      struggling, David, to read, some demonstration is made of my understanding of the theory of Gérard Genette, whose contributions
+      include a taxonomy of possible relationships between texts (e.g., intertextuality, paratextuality, architextuality, metatextuality,
+      hypotextuality, hypertextuality); analogously I offer, as part of my conclusion, a breakdown of the operations on display in
+      my own footnotes. Meanwhile in that French introduction, I say something about the stakes of an assertion of the scholar Alice
+      Kaplan’s being unclear; the stakes of learning French as a foreign language having given her, as a young person, “a place to
+      hide,” remain, in the telling of her memoir, unclear. As I suggest. But if I were to follow Kaplan, there are any number of
+      claims like that that it would be possible to advance about this project and its relationship to yours truly, David, I mean
+      me. About my writing in French being, for example, a translation of the self. About my journey to Digne being a translation
+      of art into life. These raise, again, questions without answers; that French section begins on a helpful quote from George
+      Steiner about there being, of translation, no theory properly speaking, only narratives of praxis. So this time—you
+      know, starting off—I really did try, out of the gate, to help you out, David, by translating into English all I’d written
+      in the French, but what I came to find was lacking, for me personally, was that sense of transgression—of fun—that enlivens
+      translation, making something exciting out of an eye-crossing task. Where you get to put your mouth around the words of
+      someone else, speak them as yours.
+      <br/>
+      <br/>
+      I have exaggerated, maybe. It was no disaster I was dozing, for I had at hand, I could refer to, a hard-copy version of
+      myself that I’d prepared in Aix, waiting for the bus. The questions I’d assembled completely covered, in their
+      groupings—<i>Understanding/verification traduction fideleté</i>, <i>Interpretations de ce texte</i>, <i>Thèmes de l’œuvre
+      quintanien</i>, <i>Questions plus larges</i>—four sheets of paper (the questions with their brackets, headers, arrows, page
+      references). Torn from their pad, they had come away cleanly. I warned Quintane that my questions for her would spread over
+      four progressive levels, and I’d followed her home by the time we’d reached the last out of the lists, <i>Questions plus
+      larges</i>, with its prying, personal, salacious flavor. Quintane’s friend, a filmmaker, had offered us the use of some
+      equipment. And this presented an improvement over the digital recorder I had brought. It sat with us still and fluffy
+      like an extra cat.
+      <br/>
+      <br/>
+      Congruous with her slow walk was—as I may well find myself considering anew, replaying that recording—the schoolteacher’s
+      way she had of talking. As her great height had educated her gait, so too in an analogous operation had her conversation
+      taken on its character in years spent leading classes. Nothing much was dropped, or so it seemed to me. Our discussion
+      unfolded in a synthesizing manner. It was easy, around Nathalie Quintane, to think. Impressionability is a part of life, and
+      yet it wasn’t until my late twenties, or thereabouts, that I realized I was going to imitate others no matter what and
+      so, rather than attempting to stem off that impulse, would do best by it in making a careful selection. But even when I
+      did, some of these people I ultimately chose to glom on to turned out to be modeling examples of, primarily, selflessness,
+      tolerance—as if referring the problem, sending it someplace beyond (<i>plus loin</i>). And there I was, in any case, availing
+      myself of Quintane. Coaxing out of her some maxims I might use to broaden the horizon of my thought, make myself a little
+      larger. Autobiography leaks into Quintane’s work in a way that makes of her life a resource, epitomized maybe by the use
+      she makes, throughout her oeuvre, of Digne itself. A typically, even prototypically mid-sized French city, she finds it
+      representative, investigates it accordingly. For a book of hers about another city in the South of France she’d taken
+      photos out her window as she told me, giving this as an example of the use she makes of Digne—we were walking, then, its
+      Boulevard Gassendi—using it, in that case, for her book <span
+      className={styles.grayShadow}>Saint-Tropez</span> … She trailed off. But I knew, because I knew by
+      heart her every title, that she was just being polite, and, perversely, I supplied it, the full title, self-identifying: <span className={styles.grayShadow}>Saint-Tropez –
+      Une Américaine</span>, “an American woman.” (When on our arrival at her house a cat appeared, I blurted
+      out “Chemoule,” a name known to me from <span className={styles.grayShadow}>Un œil en moins</span>.)
+      <br/>
+      <br/>
+      There’s imitation, study, and then there’s “diabolical possession,” you know on the other hand, a phrase offered up by
+      Quintane in responding to one of my lower-level questions about Stand up. As I was embarking on my project in its
+      original, academic framework, I had found it challenging to get the attention of the critic who was serving as the
+      director of this Master’s thesis, which was no surprise, she had in point of fact warned me, but a side effect was that
+      what she, the eminent critic, said by way of advice took on, for its rarity, a glittering preciousness. She had said
+      something, I could have sworn she’d said something, about attending to the moments of this text where an ambiguity, or
+      overlap, was present between the voices of the narrator and MLP, or the narrator’s fantasy of MLP, and while I hadn’t so much
+      noticed those moments at the outset, I began to see them everywhere. Glossing them, performing a detangling, ascribing words
+      to one or the other of these characters or to both, became a motif of my French footnotes, David. And then, during the
+      defense, the critic said with finality that the division between the voices was, on second thought, assez nette. I was
+      left to wonder if all that activity, all that glossing, had been undertaken in my, as they say, right mind, or if I had
+      been, well … But then with me Quintane, in characterizing her relationship to MLP in writing <span
+      className={styles.grayShadow}>Stand up</span> as one of possession, of her being possessed, not only allowed this reading
+      but went so far as to make reference to the film <span
+      className={styles.grayShadow}>The Exorcist</span>. (French people tend to think me knowledgeable about the films of
+      Hollywood.) And because there would never be any way of furnishing an answer to the question of if my thesis director
+      had possessed me diabolically, this confirmation of Quintane’s was especially satisfying. Je me laisse posséder, she
+      had said—although, on reflection, because after all her agreement didn’t matter, I had and have no way of knowing if
+      Quintane was just agreeing with my reading in the way a teacher does, to be supportive of my
+      inquiry. <i>Et quand je dis je c’est le texte</i>.
+      <br/>
+      <br/>
+      I can say more, with your patience, about what I mean by “life” and what I mean by “art”—a little vague, I know—which
+      will probably bring me back to the woman thing, too, if I’m not careful. Out of my <i>Questions plus larges</i>, the one that
+      I kept harping on has to do with another line of resonance from <span
+      className={styles.grayShadow}>Ultra-Proust</span>. It deals with a conversion to literature that Marcel Proust is
+      calculated to have undertaken. Such <i>conversion à la littérature</i> is defined, in <span
+      className={styles.grayShadow}>Ultra-Proust</span>, in terms of lifestyle. The speaker here is thinking on their
+      feet, ellipses theirs: <i>l’entrée dans une autre forme de vie</i>, <i>comme on dit aujourd’hui</i>, <i>c’est-à-dire
+      une conversion</i>… <i>On ne peut écrire ce qu’il a écrit dans le temps qui lui était imparti</i>, <i>qu’il savait
+      lui être imparti</i>, <i>sans conversion</i> … <i>une conversion à la littérature</i> … Impossible to have written what he
+      did, in the time that he knew left to him, without conversion, conversion, “the entry into another form of life.” So, Nathalie
+      Quintane, <i>des astuces</i>, any tips? <i>Que faire</i> ? In a preliminary way however I had suggested that there were at
+      least two very fair objections to the line of questioning I’d be pursuing, first of course that <span
+      className={styles.grayShadow}>Tomates</span>, surveillance-state-y one, and second that it’d be, just, inappropriate, the
+      personal, and yet again I didn’t think so but sometimes thought it central, even, to an understanding of the politics
+      of literature, to approach the question of how to write by a question of how to organize one’s life. Which is maybe
+      why a paper on the politics of literature will devolve into, find its level with, bottom out on, lifestyle
+      journalism, as I am discovering—did you know that Nathalie Quintane enjoys a yogurt after meals? Quintane’s
+      response to this, anyway, was gratifying, immediate; she said knowingly that Christophe Tarkos was the poet
+      of that—even though I personally had actually considered Nathalie Quintane to be the poet of that, a strong
+      candidate. In <span className={styles.grayShadow}>La Cavalière</span>, for example, she posits three options—the
+      remaking of institutions, leaving cities to live on communes, doing both—saying she tends, herself, to favor
+      Number One in the morning, Two by evening, Three at noon.
+      <br/>
+      <br/>
+      Yogurt, yogurt, yogurt—and later, it occurred to me inescapably without my knowing what it meant, occurred to me as
+      important without my knowing why, that two of the poets we’d most spoken about—Tarkos, and Jack Spicer—were men who
+      died at forty.<a href="#footnote"> [1] </a> All around us, I mean all around you and me in Amherst, are female poets making reproaches of male
+      poets for expecting to be cleaned up after, but I don’t, sometimes, think that that’s what’s happening. The man our
+      professor called me just last week a “good student” and an “overachiever,” but the lesson of Quintane, who is open
+      about what she considers her quality of “obedience” as well as the overarching one of being a good student, is
+      that these crosses can be borne with style; it is its own reward to live. Meanwhile a lady professor said, and
+      I wrote this down because it seemed so revelatory, “It’s good for me, so it must be good for my writing,” about
+      some living arrangement of hers. Quintane dates the burgeoning of her practice to her implantation in
+      Digne, where—after a visit, I can confirm—she considers herself to lead a <i>vie agréable</i>. That’s the secret. For
+      my part I recorded Quintane’s gestures. Removing a cat from her lap, welcoming it back, all the while saying
+      something apposite.
+      <br/>
+      <br/>
+      That line I’ve evoked has been, for me, so memorable for the reason of its setting in a conversation, I would say. It
+      takes its special dynamism—more than tonal ambiguity, a tonal polyvalence—from this setting. (Even the title, <span
+      className={styles.grayShadow}>Ultra-Proust</span>, is sonically apt for a book about French literature and its
+      kitsch, for the comic duplication of that vowel that is, for a foreign speaker like myself, really
+      killer.) <i>Conversion à la littérature</i>—and the perfection of those cognates may have also helped the phrase stand
+      out to this Anglophone with vividness—is not the only irresistible phrase of Quintane’s to occur in dialogue. Indeed, the
+      depiction of disembodied speakers getting into a pitched and, from the outside, humorous argument about some aspect of
+      the politics or <i>philosophy</i> of literature is something of a specialty of hers. One of the marvels of <span
+      className={styles.grayShadow}>Tomates</span> is the speaker’s doing that with Auguste Blanqui, who had a
+      brother, Adolphe. Actually, Adolphe and Auguste, who disagreed on whether violence was an appropriate means to
+      revolution, are the ones fighting, but they seem to be fighting about Quintane’s approach to the book that
+      contains them. “What cowardice”! All this talk, ranging “from Franco to” her festivals, why not “roll up
+      a couple of tracts” and stuff them under “your bike seat” … and “your <i>Eternité par les astres</i>,” that would
+      be, perhaps, a “ ‘practical guide’ ”? … Ooh there it is! “But the real truth is that you don’t know how to
+      read!” … You “want me to think, Auguste,” that “you slipped the plan of attack for the Winter Palace into your description
+      of the Milky Way?!” … “You think I’d have” stirred myself “from my low and humid cave” in jail, “at a distance of two
+      fingers from death itself, just to write you a poem” …
+      <br/>
+      <br/>
+      They are fighting about taking things literally as well as about political utility, that use value, or not, of
+      literature. At issue in this is how to live a life, which Quintane introduces with a phrase she says would be paralyzing
+      if offered, offering it, and I, taking the bait, take it up, incorporating it in that French section as an ingredient of
+      my inquiry, this phrase about the difference between a “mediocre” existence, “floating, eyeballing it in navigating
+      between possibilities” and a “determined” one. You can really fall on your face as well as getting paralyzed and
+      eating crow in reading literally, and at Quintane’s I brought up with her, looking around the room, something I’d
+      read of Jean-Marie Gleize’s about her, about her sticking up poems all across her walls, something that she
+      didn’t, however, visibly, seem to … No, she said, she had never been one for … particularly … Well, I said
+      finally, finishing somewhat weakly, perhaps, Quintane was quick to agree, that was only a way of speaking (He was
+      writing) that Gleize had.
+
+
+
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
 
 
 
 
-
-
-
-
-
-
-
+      <p id="footnote">[1] At the time of his death Christophe Tarkos was 41 as reported by <i>Le Monde</i> and according to Google
+      but 40 as reported by <i>Libération</i> and as printed on the back cover of P.O.L’s paperback edition of <span
+      className={styles.grayShadow}>Le Petit Bidon et autres textes</span>, a posthumous collection. Tarkos died in November
+      2004, but it seems that there is disagreement if he was born in September 1963 (according to the catalog of the French
+      National Library) or (per Wikipedia, for example) December 1963. I will update this essay as I learn more and would
+      be grateful to receive further information from any source.</p>
       </StandardProse>
 
        <Footer/>
