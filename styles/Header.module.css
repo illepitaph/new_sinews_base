@@ -305,6 +305,10 @@
   background-image:url("../public/images/MarfaBackground.jpg");
 }
 
+.harrierBackground {
+  background-image:url("../public/images/HarrierBackground.jpg");
+}
+
 .beausangBackground {
   background-image:url("../public/images/BeausangBackground.jpg");
 }
