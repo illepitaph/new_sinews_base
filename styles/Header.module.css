@@ -313,6 +313,10 @@
   background-image:url("../public/images/GriffinBackground.jpg");
 }
 
+.ferdinandBackground {
+  background-image:url("../public/images/FerdinandBackground.jpg");
+}
+
 .numbersBackground {
   background-image:url("../public/images/NumbersBackground.jpg");
 }
