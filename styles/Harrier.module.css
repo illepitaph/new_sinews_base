@@ -33,6 +33,15 @@
   text-transform:uppercase;
 }
 
+.mintAlternateTwo {
+  font-size:4.1rem;
+  color:#aaf0d1;
+  text-shadow:4px 4px snow,
+              5px 5px 15px black;
+  opacity:0.6;
+  text-transform:lowercase;
+}
+
 .grayShadowUpper {
   font-family:"lores-9-plus-wide", monospace;
   text-shadow:1px 1px snow,
@@ -52,7 +61,7 @@
 .compactProse {
   max-width:45vw;
   margin-left:12.5vw;
-  line-height:1.2rem;
+  line-height:1.6rem;
 }
 
 .box {
@@ -68,9 +77,10 @@
 }
 
 .underlineThick {
+  font-size:2.5rem;
+  font-family:"bickham-script-pro-3", sans-serif;
   text-decoration-line:underline;
-  text-decoration-thickness:4px;
-  text-underline-width:15rem;
+  text-decoration-thickness:5px;
 }
 
 .compactProseTwo {
@@ -86,4 +96,13 @@
   color:white;
   text-shadow:1px 1px 6px #d10000;
   text-align:center;
+}
+
+.glossLink {
+  text-shadow:3px 3px 15px gray;
+}
+
+.glossLink:hover {
+  color:white;
+  text-shadow:3px 3px 10px black;
 }

@@ -50,9 +50,9 @@ export default function Harrier() {
     <br/>
     <br/>
     Rowland the orphan-catcher sniffed round at dusk, dogging slouchers who gathered in fours and threes, passing stale
-    terbacker behind their backs. A billy in his belt, chin shaved, burnsides, and a book on a string about his neck marked
-    Rowland our solemn enemy. Under the office of white charity, he swindled us of liberty. Harper had dodged him long, a fast
-    fleer with a hiding spot, though many others had fallen to his capture.
+    terbacker behind their backs. A <a className={styles.glossLink} href="#billy">billy</a> in his belt, chin shaved, burnsides, and a book on a string
+    about his neck marked Rowland our solemn enemy. Under the office of white charity, he swindled us of liberty. Harper
+    had dodged him long, a fast fleer with a hiding spot, though many others had fallen to his capture.
     <br/>
     <br/>
     In a dilapidated corner of our heart, perhaps there was shelter for Rowland’s impulse to shield us from starvation and
@@ -77,9 +77,9 @@ export default function Harrier() {
     had held another dipper of water...
     <br/>
     <br/>
-    <div className={styles.compactProse}><i><span className={styles.underlineThick}><b>Harriet Wilkins</b></span> is entrusted to the responsible stewardship of an agency with the full backing
-    of the State of Penn’s Sylvania, namely <span className={styles.underlineThick}><b>Blainswerd House</b></span>, for Christian education and moral guidance</i>. <p
-    className={styles.middleText}>She is spoiled by the following misdeeds:</p></div>
+    <div className={styles.compactProse}><span className={styles.underlineThick}><b>Harriet Wilkins</b></span> <i>is entrusted to the responsible stewardship of an agency with the full backing
+    of the State of Penn’s Sylvania, namely</i> <span className={styles.underlineThick}><b>Blainswerd House</b></span>, <i>for Christian education and moral guidance. <p
+    className={styles.middleText}>She is spoiled by the following misdeeds:</p></i></div>
 
     <div className={styles.box}><p>▢ gambling</p> <p>⌧ indecent dress</p></div>
     <div className={styles.box}><p>▢ earning wages</p> <p>▢ truancy</p></div>
@@ -164,8 +164,9 @@ export default function Harrier() {
     <br/>
     <br/>
     Memories of rat tail and leather soup flooded his ankles as the tide rose and knocked the smaller ships against their
-    galosh, resettling. Holyoke posed with a cocked hat, a father’s bequeathal, against a sky flashing with terns. Bells used
-    to be brass and small before Hopewell smelled iron and kicked down a mountain, before cutters leveled Markman’s Wood, before
+    galosh, resettling. Holyoke posed with <a className={styles.glossLink} href="#cocked">a cocked hat</a>, a father’s bequeathal, against a sky flashing with terns. Bells used
+    to be brass and small before <a
+    className={styles.glossLink} href="#hopewell">Hopewell</a> smelled iron and kicked down a mountain, before cutters leveled Markman’s Wood, before
     metal ran soft as milk from fingers into church pews and sat upright and tipped its head in proper reverence and leant
     its loud voice to to the silence of animal indolence to <i>Wake up</i>, <i>you</i>, <i>put on your frock</i>, <i>and
     take up a sickle</i>. Why, ye may have heared of a famous bell, eh, who hitched a ride from London to the State House
@@ -209,7 +210,8 @@ export default function Harrier() {
     <br/>
     <br/>
     I had not known of hies pining, nor would I have given else than a half-livered sneer, as smitten as I was in other
-    subtle-boys, as enwrapped. If only I were a hound then, brimming with wet-nosed ardor, to find Harper harping on hies
+    subtle-boys, as enwrapped. If only I were a hound then, brimming with wet-nosed ardor, to find Harper <a
+    className={styles.glossLink} href="#harp">harping</a> on hies
     lornfulness, bedraggled by fleas, and nuzzle hies hand into an embrace, and elaborate the touch into a camaraderie, and
     follow hiem, dew-eyed, though hie kicks at me, and prosper by hies drippings, and, by inverting that force of
     domestication, tempt him into submission.
@@ -240,11 +242,12 @@ export default function Harrier() {
     drenched hiem in a wave.
     <br/>
     <br/>
-    They did not court, perhaps because she conjectured—no, she could not conjecture. Perhaps she admired hies reticence? Hie
+    They did not <a className={styles.glossLink} href="#courtship">court</a>, perhaps because she conjectured—no, she could not conjecture. Perhaps she admired hies reticence? Hie
     retreated, rallied, then advanced. Hie could not do away entirely with war metaphor. This was of a whole with the
     problem. Topped by satin, she was, by extension, a decoration hie’d like to pin to hies lapel. The deception of hies
     sex knotted hiem. Reveal the deception and Eunice might quaff hies desire. Yet all could be lost. <i>Quelle horreur</i>. Hie
-    spent hies wages on bay rum and a subscription to <i>Last of the Mohicans</i> to scour for dull passages describing
+    spent hies wages on bay rum and a subscription to <a className={styles.glossLink} href="#mohican"><i>Last of the
+    Mohicans</i></a> to scour for dull passages describing
     Alice always fainting and trembling and ashen-cheeked and unable to steady a rifle. Then rescued. Yes, rescued.
     <br/>
     <br/>
@@ -268,8 +271,9 @@ export default function Harrier() {
     “<i>Excusez-moi</i>,” Harper gestured to a tailor to assist.
     <br/>
     <br/>
-    Hie couldn’t face hies dandle, cherie, parfait. <span
-    className={styles.grayShadowUpperBigger}>&#123;The Betrayal&#125;</span> How many beaux did she court? It drew hies
+    Hie couldn’t face hies dandle, <i>cherie</i>, parfait. <span
+    className={styles.grayShadowUpperBigger}>&#123;The Betrayal&#125;</span> How many beaux did she <a
+    className={styles.glossLink} href="#courtship">court</a>? It drew hies
     ire to see her like a common strumpet being strong-armed and admiring it. Hie sickened at her masque. Her betraying
     kiss a spindle in some vast manufacture of sacrifice and infamy. Hie had played the fool with the romantic novel. Hie
     had played a fool with—what matter to detail hies humiliations. And to think, if only he had excessive rodomontade, or
@@ -283,17 +287,20 @@ export default function Harrier() {
     Eunice. It did not deliver hiem to her smile or put hiem in striking distance of heaven neither. It only made hiem a do-er.
     <br/>
     <br/>
-    Bitter Harper stomped from the millener. I had quit of a cruel lad, so I listened to hies harping (the kind like
-    harpies and not a dulcet strum) and willed myself a harrier to hies halter. I ascertained that daring wouldn’t do
-    it, nor flattery, nor kicks to the shin, nor a kiss, but only this tether.
+    Bitter Harper stomped from the millener. I had quit of a cruel lad, so I listened to hies harping (the kind
+    like <a className={styles.glossLink} href="#harpy">harpies</a> and not a dulcet strum) and willed myself a <a
+    className={styles.glossLink} href="#harrier">harrier</a> to
+    hies halter. I ascertained that daring wouldn’t do it, nor flattery, nor kicks to the shin, nor a kiss, but only this tether.
     <br/>
     <br/>
-    The city had nearly cleared out to Wilmington for the running of locks on the much-delayed C&D canal. “Have
+    The city had nearly cleared out to Wilmington for the running of locks on the much-delayed <a
+    className={styles.glossLink} href="#canal">C&D canal</a>. “Have
     you climbed a tall place?” I asked. For I found that the liberty of canoes, of ponies, of comets, of too many pork
     pies, had nothing to offer the vertical of a bridge tower or silo ladder.
     <br/>
     <br/>
-    It swept hiem back to hies erranding for the benevolent society. Hie led me through two burrows and round the
+    It swept hiem back to hies erranding for <a
+    className={styles.glossLink} href="#benevolent">the benevolent society</a>. Hie led me through two burrows and round the
     back of a fine edifice. There were guards of course in uniform. I had not been to the statehouse since they repaired
     the rotting tower and added an obnoxious clock to the steeple. I would not want ye, reader, to attempt our trespass, so
     I have omitted the details that brought us clambering through weights and gears into the belfry itself.
@@ -306,7 +313,8 @@ export default function Harrier() {
     <br/>
     <br/>
     “Some say it’s the Lord’s voice that peals from them. Er, angels? In the Bible they made us read at the House
-    of Reform, liberty had to be renewed. That if you weren’t careful, you’d be captive.”
+    of Reform, <a
+    className={styles.glossLink} href="#liberty">liberty</a> had to be renewed. That if you weren’t careful, you’d be captive.”
     <br/>
     <br/>
     Captive by what, I wanted to ask.
@@ -340,21 +348,160 @@ export default function Harrier() {
     <br/>
     <br/>
     <br/>
+    </StandardProse>
 
 
 
+    <RightGrayTitle><span
+    className={styles.titleShadow}>g </span><span
+    className={styles.inverseShadowAlternate}>l </span><span
+    className={styles.mintAlternate}>o </span><span
+    className={styles.titleShadow}><i>s s</i><br/><br/><br/><span
+    className={styles.mintAlternate}>( </span><span
+    className={styles.inverseShadow}><i>h</i></span> a <span
+    className={styles.mintAlternate}>r</span> r <i>i</i> </span><span
+    className={styles.mintAlternateTwo}><i>e</i> </span><span
+    className={styles.inverseShadowAlternate}>r</span><span
+    className={styles.mintAlternate}> )</span></RightGrayTitle>
 
+    <br/>
+    <br/>
+    <br/>
 
-
-
-
-
-
-
+    <StandardProse>
+    <span id="benevolent" className={styles.grayShadowUpper}>benevolent societies</span>
+    <br/>
+    (The Guardians of the Unfortunate) Driven both by white saviourism and genuine distress at urban
+    ills, benevolent societies predate social welfare institutions organized by the state. In orphanages, charities for
+    abandoned mothers, and mutual aid organizations, those in need were often expected to perform uncompensated labor to
+    secure resources.
+    <br/>
+    <br/>
+    <span id="billy" className={styles.grayShadowUpper}>billy</span>
+    <br/>
+    Prior to the establishment of a state police force, watchmen targeted rioters, thieves, free Black people, and the unruly
+    and drunk to protect local white business interests. They also lit lamps, announced the hour.
+    <br/>
+    <br/>
+    <span id="canal" className={styles.grayShadowUpper}>Chesapeake & Delaware Canal</span>
+    <br/>
+    Much delayed, this canal opened in 1829 to connect the Chesapeake Bay to the Delaware River and encourage commerce before railroads
+    had become affordable.
+    <br/>
+    <br/>
+    <span id="cocked" className={styles.grayShadowUpper}>cocked hat</span>
+    <br/>
+    Iconic fashion of the period of the Revolutionary War, the brim is turned up on three sides to meet the crown. (also, <i>tricorn</i>)
+    <br/>
+    <br/>
+    <span id="courtship" className={styles.grayShadowUpper}>courtship</span>
+    <br/>
+    In response to changing family dynamics and increasing economic independence in the early 19th century, white suitors began
+    favoring romance in finding a partner. Rituals would include letter-writing, physical affection, and exchanging of intentions.
+    <br/>
+    <br/>
+    <span id="harp" className={styles.grayShadowUpper}>harp</span>
+    <br/>
+    (n.) Angels, portrayed as soldiers or monsters, don’t play harps in the Bible. Metaphorically, in Revelation, a cacophonous
+    sound from heaven “was as the voice of harpers harping with their harps.”
+    <br/>
+    <br/>
+    <span id="harpy" className={styles.grayShadowUpper}>harpy</span>
+    <br/>
+    Deities personifying wind, harpies are typically depicted with exaggerated ugliness in their half-bird, half-woman form with
+    a harsh and unrelenting personality.
+    <br/>
+    <br/>
+    <span id="harrier" className={styles.grayShadowUpper}>harrier</span>
+    <br/>
+    A small hound bred for hunting. Converging etymology. One from hare, as in hare-hunter. Also, from “harry” or to
+    accost. Also from Middle English <i>eirer</i>, related to <i>wanderer</i>.
+    <br/>
+    <br/>
+    <span id="hobo" className={styles.grayShadowUpper}>hobo signs</span>
+    <br/>
+    Itinerant laborers popularized graffiti along railways to warn each other of dangerous train guards or advise how to approach
+    a charity. (cf. “Who is Bozo Texino” by Bill Daniels)
+    <br/>
+    <br/>
+    <span id="hopewell" className={styles.grayShadowUpper}>Hopewell Furnace</span>
+    <br/>
+    Iron smelting ravaged eastern Pennsylvania, with its rich metal deposits and forested trees harvested for charcoal.
+    <br/>
+    <br/>
+    <span id="mohican" className={styles.grayShadowUpper}>The Last of the Mohicans</span>
+    <br/>
+    Canonized as the father of the American novel, James Fenimore Cooper galvanized “the backwoodsman,” in Natty Bumpo, a white
+    Christian Anglo Saxon man who was brave, self-reliant, and skilled at appropriating Native American virtues.
+    <br/>
+    <br/>
+    <span id="liberty" className={styles.grayShadowUpper}>Liberty Bell</span>
+    <br/>
+    Similar to the State of Liberty, the bell represents an idealized form of freedom. Commissioned for Pennsylvanian legislature
+    when it was still a colony, the poorly made bell immediately cracked and had to be recast several times. It is inscribed with
+    a quote from the Book of Leviticus from the Christian Bible.
+    <br/>
+    <br/>
+    <span className={styles.grayShadowUpper}>millinery</span>
+    <br/>
+    Single women employed at local manufactories began forming a new urban class with disposable income. Elaborate bonnets
+    and decorative hats in the Regency Period anticipated the Victorian plumage craze that extincted dozens of bird species.
+    <br/>
+    <br/>
+    <span className={styles.grayShadowUpper}>Philadelphia</span>
+    <br/>
+    From <i>philos</i> for loving or affectionate and <i>adelphos</i> for brother or sibling, William Penn, a settler colonist named
+    the city as part of his campaign to promote religious tolerance.
+    <br/>
+    <br/>
+    <span className={styles.grayShadowUpper}>rodomontade</span>
+    <br/>
+    (from Rodomontade, a fictional Italian hero) As urban domesticity threatened outdoorsy masculinity, brashness and arrogance
+    could be both attractive and a sign of insecure overcompensation.
+    <br/>
+    <br/>
+    <span className={styles.grayShadowUpper}>St. Dunstan’s Day</span>
+    <br/>
+    Celebrated in mid-May, this holiday honors a saint who favored a monastic lifestyle of work, such as blacksmithing, and prayer.
+    <br/>
+    <br/>
+    <span className={styles.grayShadowUpper}>St. Lucia’s Day</span>
+    <br/>
+    Swede settlers celebrated this martyr near the winter solstice, admiring her virgin purity in dedicating herself to service.
+    <br/>
+    <br/>
+    <span className={styles.grayShadowUpper}>temperance</span>
+    <br/>
+    In response to growing urban unrest, some activists identified imbibing alcohol as the root of poverty and violence. The temperance
+    movement mobilized racism and xenophobia against immigrants from Ireland and cast suspicion on the Catholic eucharist.
+    <br/>
+    <br/>
+    <span className={styles.grayShadowUpper}>terbacker</span>
+    <br/>
+    Unlike the alight form used for its smoke in ceremony, most early Americans chewed it or took it as snuff. Charles
+    Dickens, disgusted by the habit, complained of spit in the street, in his <i>American Notes</i>. In order to profit from the crop’s
+    demanding process of cultivation and processing, white colonists created, justified, legalized, and protected chattel
+    enslavement of Black people for hundreds of years.
+    <br/>
+    <br/>
 
 
 
     </StandardProse>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     <Footer/>
     </>
