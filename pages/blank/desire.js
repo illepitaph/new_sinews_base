@@ -6,7 +6,7 @@ import LeftBlackTitle from '../../components/leftBlackTitle.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/Desire.module.css'
 Desire.title = "xiao_yue_shan ~ the_dictionary_of_desire — new_sinews"
-Desire.pieceName = "xiao_yue_shan ~ the_dictionary_of_desire — new_sinew"
+Desire.pieceName = "xiao_yue_shan ~ the_dictionary_of_desire — new_sinews"
 Desire.description = "_XIAO YUE SHAN_poetry_THE DICTIONARY OF DESIRE_new_sinews_issue6_"
 Desire.image = "https://www.newnewsinews.com/images/DesireBackground.jpg"
 

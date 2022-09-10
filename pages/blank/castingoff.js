@@ -1,7 +1,5 @@
 import Head from 'next/head'
 import Header from '../../components/header.js'
-import LeftBlackTitle from '../../components/leftBlackTitle.js'
-import RightGrayTitle from '../../components/rightGrayTitle.js'
 import StandardProse from '../../components/standardProse.js'
 import Footer from '../../components/footer.js'
 import styles from '../../styles/CastingOff.module.css'

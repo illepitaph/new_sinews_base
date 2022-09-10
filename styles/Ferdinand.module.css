@@ -1,0 +1,144 @@
+.titleShadow {
+  font-size:4.3rem;
+  color:black;
+  text-shadow:2px 2px snow,
+              6px 6px #aaf0d1;
+  letter-spacing: 0.2rem;
+  margin-right:7.5vw;
+}
+
+.inverseShadow {
+  color:#aaf0d1;
+  text-shadow:3px 5px black;
+}
+
+.titleShadowUppercase {
+  color:black;
+  text-shadow:2px 2px snow,
+              4px 4px #b0b0b0;
+  text-transform:uppercase;
+}
+
+.inverseShadowUppercase {
+  color:#aaf0d1;
+  text-shadow:2px 2px snow,
+              4px 5px black;
+  text-transform:uppercase;
+}
+
+.marginOne {
+  margin-right:-2.5vw;
+}
+
+.marginTwo {
+  margin-right:10vw;
+}
+
+.marginThree {
+  margin-right:15vw;
+}
+
+.poem {
+  max-width:80vw;
+  font-family: "base-9-sans", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size:1.2rem;
+  text-shadow:2px 2px gainsboro;
+  letter-spacing:-0.02rem;
+  line-height:1.7em;
+  margin-left:13.5vw;
+  white-space:pre-line;
+}
+
+@media (max-width:927px) and (orientation:landscape) {
+
+  .poem {
+    max-width:90vw;
+    margin-left:4vw;
+  }
+
+}
+
+@media (max-width:913px) and (orientation:portrait) {
+
+  .poem {
+    max-width:98vw;
+    margin-left:2vw;
+  }
+
+}
+
+@media (max-width:854px) and (orientation:landscape) {
+
+  .poem {
+    font-size:1.1rem;
+  }
+
+}
+
+@media (max-width:801px) and (orientation:landscape) {
+
+  .poem {
+    font-size:1rem;
+  }
+
+}
+
+@media (max-width:769px) and (orientation:portrait) {
+
+  .poem {
+    font-size:1.1rem;
+  }
+}
+
+@media (max-width:668px) and (orientation:landscape) {
+
+  .poem {
+    max-width:98vw;
+    font-size:0.9rem;
+  }
+
+}
+
+@media (max-width:541px) and (orientation:portrait) {
+
+  .poem {
+    font-size:0.8rem;
+  }
+
+}
+
+
+@media (max-width:429px) and (orientation:portrait) {
+
+  .poem {
+    font-size:0.62rem;
+  }
+
+}
+
+@media (max-width:394px) and (orientation:portrait) {
+
+  .poem {
+    margin-left:1vw;
+    font-size:0.55rem;
+  }
+
+}
+
+@media (max-width:361px) and (orientation:portrait) {
+
+  .poem {
+    font-size:0.5rem;
+  }
+
+}
+
+@media (max-width:281px) and (orientation:portrait) {
+
+  .poem {
+    font-size:0.45rem;
+  }
+
+}

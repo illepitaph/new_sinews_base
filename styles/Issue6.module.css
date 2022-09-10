@@ -92,6 +92,7 @@
   flex-flow: column;
   row-gap:3vh;
   justify-content:space-around;
+  margin-right:1.5vw;
 }
 
 .siteShortcuts > .linkButton {
