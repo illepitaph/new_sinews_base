@@ -49,8 +49,9 @@ export default function Harrier() {
     hasps and hinges.
     <br/>
     <br/>
-    Rowland the orphan-catcher sniffed round at dusk, dogging slouchers who gathered in fours and threes, passing stale
-    terbacker behind their backs. A <a className={styles.glossLink} href="#billy">billy</a> in his belt, chin shaved, burnsides, and a book on a string
+    Rowland the orphan-catcher sniffed round at dusk, dogging slouchers who gathered in fours and threes, passing
+    stale <a className={styles.glossLink} href="#terbacker">terbacker</a> behind their backs. A <a
+    className={styles.glossLink} href="#billy">billy</a> in his belt, chin shaved, burnsides, and a book on a string
     about his neck marked Rowland our solemn enemy. Under the office of white charity, he swindled us of liberty. Harper
     had dodged him long, a fast fleer with a hiding spot, though many others had fallen to his capture.
     <br/>
@@ -135,7 +136,8 @@ export default function Harrier() {
     <div className={styles.compactProseTwo}><i>How our fathers do mutter over welfare expenditures, wood relief, flour relief, and outright
     specie from decades past. We have learned the folly of such generosity on the dimwitted widows and mothers of fatherless children, who
     would sooner exchange their silver for a dram than for a filcher of cream. At the Home for Reformed, we turn idle hands to
-    labor. Temperance requires their earnest fashioning of these wares, for we know it is not merely illiteracy, indigence, impoverished
+    labor. <a className={styles.glossLink} href="#temperance">Temperance</a> requires their earnest fashioning of these
+    wares, for we know it is not merely illiteracy, indigence, impoverished
     morals, nor heathenness which compels the profligate to suck upon the teat of the Guardians of the Unfortunate, but the taste for
     drink. Our thirty young vagrants produce twine, stockings, spindles, clappers, braces, kettles, candlesticks, knife
     handles, ledgers, and soles to compete with the best manufactories on the far shore of the Atlantic.
@@ -185,15 +187,17 @@ export default function Harrier() {
     did it. <span className={styles.grayShadowUpperBigger}>&#123;The Temptation&#125;</span> Secretly and remaining secret, Harper
     longed for the farm of ‘her’ infancy. If not precisely for the farm, then for the entreaties, coneflower-scented, from
     girl-cousins, even at the cost of hies girlhood. A bonnet might cast a shadow across Marlene’s nose, nearly touching
-    foreheads, over tangled floss. Or enrapt at a litter of pups, her coos enchanting the mother to let them pet one. On
-    St. Lucia’s Day, Marlene had enticed a leap from a porch rail into a drift of snow by standing at the foot and opening
+    foreheads, over tangled floss. Or enrapt at a litter of pups, her coos enchanting the mother to let them pet
+    one. On <a className={styles.glossLink} href="#lucia">St. Lucia’s Day</a>, Marlene had enticed a leap from a porch
+    rail into a drift of snow by standing at the foot and opening
     her arms. In the burrow, hies brothers called him yellow if hie wouldn’t jump from any branch, admire lodged thorns and
     trickling blood. A cockerel hie had become, far from angelic arc into a billow-white drift to be enfolded in hies
     cousin’s gladness.
     <br/>
     <br/>
     It had been this, more than britches, than muddy tag, than coin, than street-harangues, than church, or physical
-    monstrosity, that had niggled hiem into emigrating to The City Of. Hie had not wanted to earn the affections of girls
+    monstrosity, that had niggled hiem into emigrating to <a
+    className={styles.glossLink} href="#philadelphia">The City Of</a>. Hie had not wanted to earn the affections of girls
     under duplicity, with the pretense of sharing something sweeter than a butterfly wing. In the guise of a girl, girls’
     kindness burgeoned as a fairy ring of champignon. Hie had not guessed the Brotherhoods would be thus, as full of
     brothers as the marsh was smokey with midges, their brotherhoods more pronounced even than bachelors, than
@@ -218,7 +222,8 @@ export default function Harrier() {
     <br/>
     <br/>
     Houndless as a blizzard, Harper-no-longer-Harriet, in a stolen vest and beating a path from the Unfortunates, loitered
-    middle-town’s painted facades until hie got hired as a milliner for not-quite-gentlewomen who frequented the
+    middle-town’s painted facades until hie got hired as a <a
+    className={styles.glossLink} href="#millinery">milliner</a> for not-quite-gentlewomen who frequented the
     shops. <span className={styles.grayShadowUpperBigger}>&#123;The Resurrection&#125;</span> Betsy jingled her curls for
     a buckram bonnet and Harper obliged with panache. Bending over Felicity’s locks, hie sniffed behind her ear where she
     smeared <i>eau de heliotrope</i>, before advising a riband coronet. For Frances, hie would drape trimmings and lace
@@ -251,7 +256,8 @@ export default function Harrier() {
     Alice always fainting and trembling and ashen-cheeked and unable to steady a rifle. Then rescued. Yes, rescued.
     <br/>
     <br/>
-    Near to St. Dunstan’s Day, Harper was setting the window when hie heard Eunice’s distinctive chirrup without. Hiding
+    Near to <a className={styles.glossLink} href="#dunstan">St. Dunstan’s Day</a>, Harper was setting the window when hie heard
+    Eunice’s distinctive chirrup without. Hiding
     behind a bonnet, hie espied an exchange. In playful jest, perhaps, a goatish gentleman pushed her nearly into a horse, who
     shied and snuffled. Peevish, perhaps, she stabbed her finger into his face. To which offense, he took hold of her sleeve
     puff and ripped. To which aggrievement, she laughed or pretended to laugh as she swiped him cross the face with her
@@ -276,7 +282,8 @@ export default function Harrier() {
     className={styles.glossLink} href="#courtship">court</a>? It drew hies
     ire to see her like a common strumpet being strong-armed and admiring it. Hie sickened at her masque. Her betraying
     kiss a spindle in some vast manufacture of sacrifice and infamy. Hie had played the fool with the romantic novel. Hie
-    had played a fool with—what matter to detail hies humiliations. And to think, if only he had excessive rodomontade, or
+    had played a fool with—what matter to detail hies humiliations. And to think, if only he had excessive <a
+    className={styles.glossLink} href="#rodomon">rodomontade</a>, or
     insulted her bracelet. The bridge to manhood was paved with jibes and braggadocio, not, as hies pathetic mind had
     believed, doing for.
     <br/>
@@ -442,41 +449,41 @@ export default function Harrier() {
     a quote from the Book of Leviticus from the Christian Bible.
     <br/>
     <br/>
-    <span className={styles.grayShadowUpper}>millinery</span>
+    <span id="millinery" className={styles.grayShadowUpper}>millinery</span>
     <br/>
     Single women employed at local manufactories began forming a new urban class with disposable income. Elaborate bonnets
     and decorative hats in the Regency Period anticipated the Victorian plumage craze that extincted dozens of bird species.
     <br/>
     <br/>
-    <span className={styles.grayShadowUpper}>Philadelphia</span>
+    <span id="philadelphia" className={styles.grayShadowUpper}>Philadelphia</span>
     <br/>
     From <i>philos</i> for loving or affectionate and <i>adelphos</i> for brother or sibling, William Penn, a settler colonist named
     the city as part of his campaign to promote religious tolerance.
     <br/>
     <br/>
-    <span className={styles.grayShadowUpper}>rodomontade</span>
+    <span id="rodomontade" className={styles.grayShadowUpper}>rodomontade</span>
     <br/>
     (from Rodomontade, a fictional Italian hero) As urban domesticity threatened outdoorsy masculinity, brashness and arrogance
     could be both attractive and a sign of insecure overcompensation.
     <br/>
     <br/>
-    <span className={styles.grayShadowUpper}>St. Dunstan’s Day</span>
+    <span id="dunstan" className={styles.grayShadowUpper}>St. Dunstan’s Day</span>
     <br/>
     Celebrated in mid-May, this holiday honors a saint who favored a monastic lifestyle of work, such as blacksmithing, and prayer.
     <br/>
     <br/>
-    <span className={styles.grayShadowUpper}>St. Lucia’s Day</span>
+    <span id="lucia" className={styles.grayShadowUpper}>St. Lucia’s Day</span>
     <br/>
     Swede settlers celebrated this martyr near the winter solstice, admiring her virgin purity in dedicating herself to service.
     <br/>
     <br/>
-    <span className={styles.grayShadowUpper}>temperance</span>
+    <span id="temperance" className={styles.grayShadowUpper}>temperance</span>
     <br/>
     In response to growing urban unrest, some activists identified imbibing alcohol as the root of poverty and violence. The temperance
     movement mobilized racism and xenophobia against immigrants from Ireland and cast suspicion on the Catholic eucharist.
     <br/>
     <br/>
-    <span className={styles.grayShadowUpper}>terbacker</span>
+    <span id="terbacker" className={styles.grayShadowUpper}>terbacker</span>
     <br/>
     Unlike the alight form used for its smoke in ceremony, most early Americans chewed it or took it as snuff. Charles
     Dickens, disgusted by the habit, complained of spit in the street, in his <i>American Notes</i>. In order to profit from the crop’s

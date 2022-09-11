@@ -99,7 +99,7 @@
 }
 
 .glossLink {
-  text-shadow:3px 3px 15px gray;
+  text-shadow:1px 2px white, 3px 3px 19px dimgray;
 }
 
 .glossLink:hover {
