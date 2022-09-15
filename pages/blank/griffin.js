@@ -75,7 +75,7 @@ export default function Griffin() {
     <br/>
 
     <div className={styles.poemTitleContainer}>
-    <i>the nut's on public transit, then park</i>
+    <i>the nut&apos;s on public transit, then park</i>
     </div>
 
     <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
