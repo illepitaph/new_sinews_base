@@ -61,7 +61,8 @@ export default function CastingOff() {
       for nostalgia to enter in, you’ll suffer from your trip back not at all … Unknown to Emma I had then stayed up very
       late, crouching at one edge of a mountainously tall air mattress that another friend, Zoey, had blown up for me; on
       the phone, I was trying to keep my voice down as Zoey and her boyfriend lay asleep, presumably, in the next room. I was
-      negotiating with Malte, the German boyfriend I think I told you about, during the Malina reading group. During the
+      negotiating with Malte, the German boyfriend I think I told you about, during the <span
+      className={styles.grayShadow}>Malina</span> reading group. During the
       pandemic, it was free to rebook. Rebooking could be done at the click of a button. Nothing could be easier. But if I was
       going to do that, a possibility that had originated as Malte’s idea, and move the classes I was teaching online, I wanted
       obviously to stay in Berlin, a city I had never visited, for more than a couple of days. He was getting cold feet. Just
@@ -235,7 +236,7 @@ export default function CastingOff() {
       back in to buy, just in case, a second notepad identical to the first (the only kind they had). Of course I was
       nervous. If I look back at my notes from the days before the trip, they are more consistent, however, with a kind of
       mesmerized appreciation, wonder: <i>5:15 PM</i>—<i>this person whose books I’ve spent 50€ on this weekend has just warned me
-      via email that she has 2 cats + hopes I’m not allergic</i>.
+      via email that she has 2 cats</i> + <i>hopes I’m not allergic</i>.
       <br/>
       <br/>
       And there she was, the poet. With a sweeter appearance than I had imagined, perhaps. I thought of the French
@@ -348,7 +349,7 @@ export default function CastingOff() {
       almost; they use footnotes. <span className={styles.grayShadow}>Tomates</span> self-identifies as a “mute book”—prosy,
       cultivated, not disruptive in its language. “So I write a mute book; I take that risk. I can’t write my revolt in any other
       prose if I wish to be heard.” Elegiac, even. I may have said that; it’s a perfect cognate, <i>élégiaque</i>, but different
-      enough from the French éloge that I can never get it. Tomates had been a turning point in her reception by the
+      enough from the French <i>éloge</i> that I can never get it. Tomates had been a turning point in her reception by the
       public. <span className={styles.grayShadow}>La Cavalière</span> was darker, I offered, more troubling, because the
       problem of transmission both books consider becomes, in that book, shaky epistemologically; it might not be possible. The <i>soixante-huitards</i> being
       interviewed are dying off; there’s a lot they have forgotten. Saying this, I was, however, thinking
@@ -493,7 +494,7 @@ export default function CastingOff() {
       but went so far as to make reference to the film <span
       className={styles.grayShadow}>The Exorcist</span>. (French people tend to think me knowledgeable about the films of
       Hollywood.) And because there would never be any way of furnishing an answer to the question of if my thesis director
-      had possessed me diabolically, this confirmation of Quintane’s was especially satisfying. Je me laisse posséder, she
+      had possessed me diabolically, this confirmation of Quintane’s was especially satisfying. <i>Je me laisse posséder</i>, she
       had said—although, on reflection, because after all her agreement didn’t matter, I had and have no way of knowing if
       Quintane was just agreeing with my reading in the way a teacher does, to be supportive of my
       inquiry. <i>Et quand je dis je c’est le texte</i>.
@@ -584,7 +585,7 @@ export default function CastingOff() {
       conquest of the countryside. So there I was. It had been done. Was that what she had meant for me to do? No, but
       hadn’t she given me the language? The claim is still too great, but if it weren’t, if the shoe fit, putting
       yourself in the author’s: to see your text, composed by a past self, come in its way (mine) to life must be
-      like seeing a ghost. So what did you mean by that, Nathalie Quintane, your phrase about conversion? Was that
+      like seeing a ghost. So what did you mean by that, Nathalie Quintane, your phrase about <i>conversion</i>? Was that
       a call to action, did you mean it to be active? Did you put it there for me, did my response suffice? It’s
       only fair for me to put you on the spot. <i>Parce que moi</i>, <i>j’ai changé de vie à base de cela</i>.
       <br/>
@@ -618,7 +619,7 @@ export default function CastingOff() {
       Nice lemon festival, an object of fixation for <span
       className={styles.grayShadow}>Stand up</span>’s MLP, had been, as I was translating, closed to Italians, who in
       other years would cross the border to attend, Italy being where early cases had been happening. The xenophobia of
-      an MLP always will be contextual. If I were translating today I might have saved my footnote for “slug,” my
+      an MLP always will be <i>contextual</i>. If I were translating today I might have saved my footnote for “slug,” my
       translation of <i>limace</i>, not a hard call, but there is an incredible resonance of <i>limace</i> in the French language ever
       since, in February of 2022, Marine Le Pen, following the departure of Nicolas Bay, her spokesman who went over
       to Eric Zemmour, used the word to malign practitioners of what she called “slug strategy,” saboteurs (<i>la stratégie de
