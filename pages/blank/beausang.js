@@ -177,6 +177,7 @@ export default function Eighty() {
         <br/><br/>
         Twomey’s leaflets produced for the 1987 general election contained:
         <br/><br/>
+        <span className={styles.leafletText}>
         1. quotes from many of the incumbent candidates’ speeches in which they said that the people of Waterford were a disgrace, that
         people should be ashamed of themselves, that if Twomey stood for a fifty-five seater constituency in a civilised country, he
         would not get a seat.
@@ -216,6 +217,7 @@ export default function Eighty() {
         14. that he would donate his Dáil salary to Cork charities to be decided upon by the church hierarchy
         <br/><br/>
         15. that the number of TD’s in every constituency should be reduced by one.
+        </span>
         <br/><br/>
         A few hundred attended Twomey’s polling night rally. He polled 684 votes, 0.8% of the ballot.
         <br/><br/>

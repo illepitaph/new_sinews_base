@@ -48,6 +48,13 @@
   letter-spacing:0.75rem;
 }
 
+.leafletText {
+  font-size:1.5rem;
+  font-family:"lores-9-plus-wide", monospace;
+  text-shadow:1px 1px white,
+              4px 4px 6px silver;
+}
+
 .grayShadowProse {
   font-size:1.8rem;
   color:white;
