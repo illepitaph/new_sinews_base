@@ -48,7 +48,7 @@ export default function Issue6() {
                 <Link href="/blank/desire" passHref><div className={styles.workLink}>xiao_yue_shan ::<br/>the dictionary<br/>of desire</div></Link>
                 <br/>
                 <br/>
-                <Link href="/issue3/krumrie" passHref><div className={styles.workLink}>... b  i  o s ...</div></Link>
+                <Link href="/blank/bios" passHref><div className={styles.workLink}>... b  i  o s ...</div></Link>
                   </div>
                   <div className={styles.siteShortcuts}>
                         <Link href="/" passHref><button className={styles.linkButton}>new sinews</button></Link>
