@@ -32,6 +32,12 @@ export default function Issue6Bios() {
    <br/>
    <br/>
    <br/>
+   <span className={styles.grayInverse}>CHRIS BEAUSANG</span> is a writer and critic based in Dublin. He has had
+   fiction and criticism published in <i>Rupture</i>, <i>Liberated Texts</i> and <i>The Belfield Literary Review</i>. His
+   first novel, <strong><cite>Tunnel of Toads</cite></strong>, is forthcoming from Marrowbone Books.
+   <br/>
+   <br/>
+   <br/>
    <span className={styles.grayInverse}>VI KHI NAO</span> is the author of six poetry collections: <a
    className={styles.biosExternalLink} target="_blank" rel="noreferrer" href="http://blacksunlit.com/fish-carcass/"><cite><strong>Fish
    Carcass</strong></cite></a> (Black Sun Lit, 2022), <a
