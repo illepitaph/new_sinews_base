@@ -189,7 +189,7 @@ export default function Eighty() {
         been left unloved in the streets, has only been re-united with them with his entry into local government after almost
         four decades in which he has known only loneliness, that he has slept in doorways, ditches, parks, poorhouses, that he
         has lived hand-in-hand with the most abject in Irish society but has never given up, has never done harm to anyone, that
-        there were many hundreds and thousands and tens of thousands of people like him in the history of this
+        there were many hundreds, thousands and tens of thousands of people like him in the history of this
         nation, illiterate, forced to emigrate, the hungry masses yearning to breathe free, that he was witness to how the American
         dream could work.
         <br/><br/>
