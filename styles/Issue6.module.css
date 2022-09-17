@@ -54,7 +54,7 @@
   flex-flow:row wrap;
   column-gap:3vw;
   row-gap:1.9vw;
-  max-width:92vw;
+  max-width:95vw;
   top:40px;
   left:3vw;
   font-family:"lores-22-bold-oakland", monospace;
@@ -75,7 +75,7 @@
 
 .workLink {
   color:white;
-  font-size:2.1rem;
+  font-size:2.2rem;
   font-weight: 700;
   text-shadow:2px 2px black,
               4px 4px 12px silver;
