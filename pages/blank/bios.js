@@ -32,6 +32,12 @@ export default function Issue6Bios() {
    <br/>
    <br/>
    <br/>
+   <span className={styles.grayInverse}>BRANDON SHIMODA</span>'s last book was <strong><cite>The Grave on the Wall</cite></strong> (City
+    Lights, 2019). His next book is <strong><cite>Hydra Medusa</cite></strong> (Nightboat Books, 2023). His first book, that he
+    can remember, was a collection of scratch-and-sniff stickers which he arranged in a blank photo album.
+   <br/>
+   <br/>
+   <br/>
    <span className={styles.grayInverse}>JULIAN MITHRA</span> hovers between genders and genres, border-mongering and -mongreling. An
    experimental archive, <strong><cite>Unearthingly</cite></strong> (KERNPUNKT) excavates forgotten
    spaces. <strong><cite>If the Color Is Fugitive</cite></strong> (Nomadic Press) historically intervenes in
