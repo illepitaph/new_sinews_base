@@ -4,7 +4,7 @@ import styles from '../../styles/Issue6.module.css'
 Issue6.title = "new_sinews issue6"
 Issue6.pieceName = "new_sinews issue6"
 Issue6.description = "_newsinews issue6_Kirsten Ihns+Jacqueline Feldman+Brandon Shimoda+Julian Mithra+Brandan Griffin+Chris Beausang+Vi Khi Nao+Cary Stough+Megan Jeanne Gette+Xiao Yue Shan"
-Issue6.image = "https://www.newnewsinews.com/images/Issue6Cover.jpg"
+Issue6.image = "https://www.newnewsinews.com/images/Issue6CoverMeta.jpg"
 
 export default function Issue6() {
   return (
