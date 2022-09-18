@@ -63,6 +63,12 @@ export default function Issue6Bios() {
    <br/>
    <br/>
    <br/>
+   <span className={styles.grayInverse}>CARY STOUGH</span> is a poet, critic, and library worker in Massachusetts. Recent
+   or forthcoming work can be found in <i>The Cleveland Review of Books</i>, <i>Annulet</i>, <i>The American Poetry
+   Review</i>, and elsewhere. "Acquired Target" is a chapter in the manuscript <cite><strong>Aim Down Sight</strong></cite>.
+   <br/>
+   <br/>
+   <br/>
    <span className={styles.grayInverse}>MEGAN JEANNE GETTE</span> writes from Far West Texas, lately.
    </StandardProse>
 
