@@ -32,6 +32,15 @@ export default function Issue6Bios() {
    <br/>
    <br/>
    <br/>
+   <span className={styles.grayInverse}>JULIAN MITHRA</span> hovers between genders and genres, border-mongering and -mongreling. An
+   experimental archive, <strong><cite>Unearthingly</cite></strong> (KERNPUNKT) excavates forgotten
+   spaces. <strong><cite>If the Color Is Fugitive</cite></strong> (Nomadic Press) historically intervenes in
+   frontiers. <strong><cite>KALEIDOSCOPE</cite></strong> (Ethel Press) flexes transembodiment against alphabetic
+   constraints. They’re cobbling together a record of trans*masculinity in a speculative Philadelphia, 1829, where
+   natural scientists rival evangelical millenarianists for insight into the sublunary and sublime.
+   <br/>
+   <br/>
+   <br/>
    <span className={styles.grayInverse}>CHRIS BEAUSANG</span> is a writer and critic based in Dublin. He has had
    fiction and criticism published in <i>Rupture</i>, <i>Liberated Texts</i> and <i>The Belfield Literary Review</i>. His
    first novel, <strong><cite>Tunnel of Toads</cite></strong>, is forthcoming from Marrowbone Books.

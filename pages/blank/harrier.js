@@ -60,7 +60,8 @@ export default function Harrier() {
     a prolonged nap in the snow? Could it ever be that sweet charity redeems the child wot—Damnation. Do ye hear yerself? Get on.
     <br/>
     <br/>
-    We chalked cornerstones and lantern-posts in hopes of evasion. A cross meant <i>Immanent Capture</i>. A dog’s head meant <i>Caution</i>. A
+    We <a className={styles.glossLink} href="#chalked">chalked</a> cornerstones and lantern-posts in hopes of evasion. A
+    cross meant <i>Immanent Capture</i>. A dog’s head meant <i>Caution</i>. A
     crosshatch meant <i>Friends Near</i>. A crook meant <i>Likely Escape if Donning a Skirt</i>. Circle: <i>Bribery</i>. A
     staircase: <i>Hide Within</i>. Almost every corner orated symbolic.
     <br/>
@@ -109,7 +110,7 @@ export default function Harrier() {
     <br/>
     “Girl, you look a might friend to hunger. We have a place to rest,” a door-minder welcomed Harper. Harper
     nodded, if <i>friend</i> meant <i>captor</i> and <i>rest</i> meant <i>labor</i> from dawn to lantern-light. Hie was no
-    stranger to labor. Harper <i>had</i> worked. Hie had lifted a maundril, wrestled a sow. If only the rescuer had seen him in
+    stranger to labor. Harper <i>had</i> worked. Hie had lifted a maundril, wrestled a sow. If only the rescuer had seen hiem in
     Delaware, furrowing, petering, smithing, makering til hies thumbs bruised and the sun burned two medallions on hies shoulders.
     <br/>
     <br/>
@@ -165,7 +166,7 @@ export default function Harrier() {
     wouldn’t reach hiem as far as the wharves; hie would have to swim through time without its strike.
     <br/>
     <br/>
-    Memories of rat tail and leather soup flooded his ankles as the tide rose and knocked the smaller ships against their
+    Memories of rat tail and leather soup flooded hies ankles as the tide rose and knocked the smaller ships against their
     galosh, resettling. Holyoke posed with <a className={styles.glossLink} href="#cocked">a cocked hat</a>, a father’s bequeathal, against a sky flashing with terns. Bells used
     to be brass and small before <a
     className={styles.glossLink} href="#hopewell">Hopewell</a> smelled iron and kicked down a mountain, before cutters leveled Markman’s Wood, before
@@ -218,7 +219,7 @@ export default function Harrier() {
     className={styles.glossLink} href="#harp">harping</a> on hies
     lornfulness, bedraggled by fleas, and nuzzle hies hand into an embrace, and elaborate the touch into a camaraderie, and
     follow hiem, dew-eyed, though hie kicks at me, and prosper by hies drippings, and, by inverting that force of
-    domestication, tempt him into submission.
+    domestication, tempt hiem into submission.
     <br/>
     <br/>
     Houndless as a blizzard, Harper-no-longer-Harriet, in a stolen vest and beating a path from the Unfortunates, loitered
@@ -442,7 +443,7 @@ export default function Harrier() {
     accost. Also from Middle English <i>eirer</i>, related to <i>wanderer</i>.
     <br/>
     <br/>
-    <span id="hobo" className={styles.grayShadowUpper}>hobo signs</span>
+    <span id="chalked" className={styles.grayShadowUpper}>hobo signs</span>
     <br/>
     Itinerant laborers popularized graffiti along railways to warn each other of dangerous train guards or advise how to approach
     a charity. (cf. “Who is Bozo Texino” by Bill Daniels)
@@ -506,6 +507,18 @@ export default function Harrier() {
     Dickens, disgusted by the habit, complained of spit in the street, in his <i>American Notes</i>. In order to profit from the crop’s
     demanding process of cultivation and processing, white colonists created, justified, legalized, and protected chattel
     enslavement of Black people for hundreds of years.
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
     <br/>
     <br/>
 
