@@ -32,7 +32,7 @@ export default function Issue6Bios() {
    <br/>
    <br/>
    <br/>
-   <span className={styles.grayInverse}>BRANDON SHIMODA</span>'s last book was <strong><cite>The Grave on the Wall</cite></strong> (City
+   <span className={styles.grayInverse}>BRANDON SHIMODA</span>&apos;s last book was <strong><cite>The Grave on the Wall</cite></strong> (City
     Lights, 2019). His next book is <strong><cite>Hydra Medusa</cite></strong> (Nightboat Books, 2023). His first book, that he
     can remember, was a collection of scratch-and-sniff stickers which he arranged in a blank photo album.
    <br/>
