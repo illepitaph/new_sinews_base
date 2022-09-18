@@ -65,7 +65,7 @@ export default function Issue6Bios() {
    <br/>
    <span className={styles.grayInverse}>CARY STOUGH</span> is a poet, critic, and library worker in Massachusetts. Recent
    or forthcoming work can be found in <i>The Cleveland Review of Books</i>, <i>Annulet</i>, <i>The American Poetry
-   Review</i>, and elsewhere. "Acquired Target" is a chapter in the manuscript <cite><strong>Aim Down Sight</strong></cite>.
+   Review</i>, and elsewhere. &quot;Acquired Target&quot; is a chapter in the manuscript <cite><strong>Aim Down Sight</strong></cite>.
    <br/>
    <br/>
    <br/>
