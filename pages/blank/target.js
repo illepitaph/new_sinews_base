@@ -643,8 +643,8 @@ export default function Target() {
       <br/>
       <br/>
       <br/>
-      Turkey Hill Lane, or Turkey Hill Place. I sift through the remains of a weekend&apos;s Maps queries for the actual name. Technological c
-      urtain of territorialization. Turkey Hill Lane in Hingham, near the Weir River Farm where a woman, commemorated there by an
+      Turkey Hill Lane, or Turkey Hill Place. I sift through the remains of a weekend&apos;s Maps queries for the actual name. Technological
+      curtain of territorialization. Turkey Hill Lane in Hingham, near the Weir River Farm where a woman, commemorated there by an
       art studio, painted a regionally famous landscape, red barn included. In her quotation, she mentions the tree covering, as
       well as the faint scab of the city visible behind (now much more visible, no less a scab). N. and I walk awhile through
       mud to what we thought was more trail, but was only the head we&apos;d misinterpreted, having to backtrack. To trek back. Chiggers
