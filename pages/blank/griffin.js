@@ -589,7 +589,7 @@ export default function Griffin() {
                                                                                                       ( | | | | )    ( .... )
                                                                                               (  to rerfuse part in
                                                                                                  the tipe of story we tell
-                                                                                                at this time  ) ( this stag
+                                                                                                at this time  ) ( this stage
                                                                                                       ( of gene transfer   )
                                                                                                                  as    nut
                                                                                                                  i    call

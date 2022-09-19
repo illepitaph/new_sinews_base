@@ -47,6 +47,13 @@ export default function Issue6Bios() {
    <br/>
    <br/>
    <br/>
+   <span className={styles.grayInverse}>BRANDAN GRIFFIN</span> is the author of <strong><cite>Impastoral</cite></strong> (Omnidawn,
+   2022) and a forthcoming chapbook, <strong><cite>Four Concretures</cite></strong> (Theaphora Editions). He's published 
+   poems in <i>Tagvverk</i>, <i>Chicago Review</i>, and <i>Word For/Word</i>, and also has work forthcoming in <i>Cloak</i>. He
+   lives in Kansas City, MO.
+   <br/>
+   <br/>
+   <br/>
    <span className={styles.grayInverse}>CHRIS BEAUSANG</span> is a writer and critic based in Dublin. He has had
    fiction and criticism published in <i>Rupture</i>, <i>Liberated Texts</i> and <i>The Belfield Literary Review</i>. His
    first novel, <strong><cite>Tunnel of Toads</cite></strong>, is forthcoming from Marrowbone Books.
@@ -85,6 +92,13 @@ export default function Issue6Bios() {
    <br/>
    <br/>
    <span className={styles.grayInverse}>MEGAN JEANNE GETTE</span> writes from Far West Texas, lately.
+   <br/>
+   <br/>
+   <br/>
+   <span className={styles.grayInverse}>XIAO YUE SHAN</span> is a poet. <cite><strong>How Often I Have Chosen
+   Love</strong></cite> was published in 2019. <cite><strong>Then Telling Be the Antidote</strong></cite> will be
+   published in 2023. <a className={styles.biosExternalLink} target="_blank" rel="noreferrer"
+   href="https://shellyshan.com">shellyshan.com</a>
    </StandardProse>
 
    <Footer/>

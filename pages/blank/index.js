@@ -28,7 +28,7 @@ export default function Issue6() {
                 <Link href="/blank/harrier" passHref><div className={styles.workLink}> julian_mithra ::<br/>harrier</div></Link>
                 </div>
                 <div className={styles.workColumn}>
-                  <Link href="/blank/griffin" passHref><div className={styles.workLink}>brendan_griffin ::<br/>wolly a wal-<br/>nut talks another-<br/>where</div></Link>
+                  <Link href="/blank/griffin" passHref><div className={styles.workLink}>brandan_griffin ::<br/>wolly a wal-<br/>nut talks another-<br/>where</div></Link>
                 </div>
                 </div>
                   <div className={styles.issueContentsTwo}>
