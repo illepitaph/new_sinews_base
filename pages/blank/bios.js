@@ -48,7 +48,7 @@ export default function Issue6Bios() {
    <br/>
    <br/>
    <span className={styles.grayInverse}>BRANDAN GRIFFIN</span> is the author of <strong><cite>Impastoral</cite></strong> (Omnidawn,
-   2022) and a forthcoming chapbook, <strong><cite>Four Concretures</cite></strong> (Theaphora Editions). He's published 
+   2022) and a forthcoming chapbook, <strong><cite>Four Concretures</cite></strong> (Theaphora Editions). He&apos;s published 
    poems in <i>Tagvverk</i>, <i>Chicago Review</i>, and <i>Word For/Word</i>, and also has work forthcoming in <i>Cloak</i>. He
    lives in Kansas City, MO.
    <br/>
