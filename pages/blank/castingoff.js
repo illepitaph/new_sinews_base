@@ -398,7 +398,7 @@ export default function CastingOff() {
       is, except for the connotation in American English about race, here inappropriate, a cognate). For a long time a highlight
       of Quintane’s author bio on the P. O. L website has been the showstopping sentence <i>Je suis peu nombreuse</i>, <i>mais je
       suis décidée</i>. Placing the author in a society of one as part of a “biography [that] reduces itself to a few malicious
-      lines,” as the critic Anne Malaprade has termed another of that author's of comparable length, this is as if designed to
+      lines,” as the critic Anne Malaprade has termed another of that author&apos;s of comparable length, this is as if designed to
       scare off those who would search the life for clues to the art, as cops search—you&apos;ll remember that <span
       className={styles.grayShadow}>Tomates</span>, her breakthrough, is <i>about</i> the juridical usage of literature and, perhaps, identity
       to persecute supposed authors—and even so, with my notepad, I’d shown up.
