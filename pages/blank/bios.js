@@ -25,6 +25,12 @@ export default function Issue6Bios() {
    <StandardProse>
    <br/>
    <br/>
+   <span className={styles.grayInverse}>KIRSTEN IHNS</span> is a poet and filmmaker finishing up her PhD at the University of
+   Chicago, where she studies film and contemporary experimental poetics. She also works as an editor, and as half of the
+   video collective dunt project. She lives in Chicago.
+   <br/>
+   <br/>
+   <br/>
    <span className={styles.grayInverse}>JACQUELINE FELDMAN</span> lives in Massachusetts. “On Your Feet,” her translation of
    Nathalie Quintane’s story <strong><cite>Stand up</cite></strong>, is forthcoming in <i>The White
    Review</i> No. 34. <strong><cite>On Your Feet</cite></strong>, a novel in translations from which “Casting Off” is taken, will
@@ -48,7 +54,7 @@ export default function Issue6Bios() {
    <br/>
    <br/>
    <span className={styles.grayInverse}>BRANDAN GRIFFIN</span> is the author of <strong><cite>Impastoral</cite></strong> (Omnidawn,
-   2022) and a forthcoming chapbook, <strong><cite>Four Concretures</cite></strong> (Theaphora Editions). He&apos;s published 
+   2022) and a forthcoming chapbook, <strong><cite>Four Concretures</cite></strong> (Theaphora Editions). He&apos;s published
    poems in <i>Tagvverk</i>, <i>Chicago Review</i>, and <i>Word For/Word</i>, and also has work forthcoming in <i>Cloak</i>. He
    lives in Kansas City, MO.
    <br/>
