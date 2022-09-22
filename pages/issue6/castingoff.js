@@ -46,7 +46,7 @@ export default function CastingOff() {
       I wanted to impress you, and we’d come from that reading. You and I can be honest, between us, about the demands readings
       can make on the affective capacities. The good cheer. The decision, inexhaustible in its rigor, of when to leave, the
       lingering … Personally I always stay too long, and I hadn’t eaten; none of us had eaten. I had arrived with friends, with
-      Rabia. I’d persuaded Rabia to join us despite all she had to do that week—“Come on,” I’d said, “this is a special time in
+      Rabia. I’d worked to persuade Rabia to join us despite all she had to do that week—“Come on,” I’d said, “this is a special time in
       our lives, graduate school”—and then, it turned out, had urgently to stop for gas, but the gas stations in Amherst were
       closed, and so we had to go fifteen minutes out of our way; I kept apologizing. We arrived at Amherst Coffee eating
       from a big bag of almonds found in a pocket of my car. My mom gave me a big bag of almonds every time I saw her though
@@ -208,7 +208,7 @@ export default function CastingOff() {
       the audience. Occasionally a play would call for an actor to light up, and there seemed no good reason to apply
       the rule unfairly. “The troupe is a community. The theater is communal life. No difference,” Quintane writes
       in conclusion, “between art and life.” It was time, anyway, similarly, relatedly, for me to leave my books
-      behind, or rather to make the selection of which ones to bring in a dedicated tote bag, and for my own project
+      behind, or rather to make a selection of which ones to bring in a dedicated tote bag, and for my own project
       to get up onto its feet—for some fourth wall to be broken.
       <br/>
       <br/>
@@ -304,7 +304,7 @@ export default function CastingOff() {
       but also—I’ll treat you like the dictionary the translator makes recourse to—a scandal. In the <i>Affaire Tarnac</i>, young people living on a commune there—the “Tarnac Nine”—were
       arrested on charges of terrorism, accused of sabotaging the railway by placing a hook of reinforcing steel on its
       lines. Julien Coupat, their supposed leader, was a literary man, having famously attended the EHESS (where my own
-      thesis, the <i>present work</i>, was undertaken) and founded the journal <i>Tiqqun</i>. He was also suspected of having
+      thesis, <i>the present work</i>, was undertaken) and founded the journal <i>Tiqqun</i>. He was also suspected of having
       participated in this Invisible Committee, an anonymous collective whose <span
       className={styles.grayShadow}>L’insurrection qui vient</span> (2007, published by Semiotexte in 2009 as <span
       className={styles.grayShadow}>The Coming Insurrection</span>) was entered in as evidence wholesale. Literature
@@ -327,9 +327,8 @@ export default function CastingOff() {
       on from, was inspired by, the 2005 riots in French suburbs, uprisings Quintane considers the chattering classes have been
       hasty in discounting. I remember where we were standing as she told me <span className={styles.grayShadow}>Tomates</span> was
       about the problem of transmission of knowledge; I raced to make a note of this. Quintane’s own generation and Marine Le
-      Pen’s has been, as she puts forth in <span className={styles.grayShadow}>Tomates</span> and <span
-      className={styles.grayShadow}>Stand up</span>, the missing link, since 1968. But this is no excuse for inaction, poor timing
-      isn’t; “intense” seems to be a lowkey reference (<i>tumulte</i>, in <span className={styles.grayShadow}>Stand up</span>, being more
+      Pen’s has been, as she puts forth in <span className={styles.grayShadow}>Tomates</span> and "Stand up", the missing link, since 1968. But this is no excuse for inaction, poor timing
+      isn’t; “intense” seems to be a lowkey reference (<i>tumulte</i>, in "Stand up", being more
       obvious) to Georges Bataille’s morbidly serious claim of having lived through a surpassingly tumultuous epoch. She pokes fun
       at him and, for the moment being, was showing me the school where she taught. I think that we had had to cross a bridge. The
       light was getting low and orange. In a traffic circle the monument was decorated for Armistice Day, decked out in patriotic
@@ -382,8 +381,7 @@ export default function CastingOff() {
       <br/>
       <br/>
       And relatedly: is anything sacred? There was, back at that café, an unease, a flickering disappointment I felt only
-      intermittently but accessed, felt at the alacrity with which other questions, about which parts of <span
-      className={styles.grayShadow}>Stand up</span> were true—questions I’d puzzled over, left to conjecture; puzzling that
+      intermittently but accessed, felt at the alacrity with which other questions, about which parts of "Stand up" were true—questions I’d puzzled over, left to conjecture; puzzling that
       had seemed to open doors on hidden meanings—were cleared up by the author. The Barrière family, Jewish, had existed, for
       example; she wouldn’t have made that up. Regarding <span className={styles.grayShadow}>La Cavalière</span> also, she was open
       in discussing deontology, and even as certain lines of my questioning began to seem small, mere, wasted, huge and messy
@@ -478,7 +476,7 @@ export default function CastingOff() {
       <br/>
       <br/>
       There’s imitation, study, and then there’s “diabolical possession,” you know on the other hand, a phrase offered up by
-      Quintane in responding to one of my lower-level questions about Stand up. As I was embarking on my project in its
+      Quintane in responding to one of my lower-level questions about "Stand up". As I was embarking on my project in its
       original, academic framework, I had found it challenging to get the attention of the critic who was serving as the
       director of this Master’s thesis, which was no surprise, she had in point of fact warned me, but a side effect was that
       what she, the eminent critic, said by way of advice took on, for its rarity, a glittering preciousness. She had said
@@ -488,8 +486,7 @@ export default function CastingOff() {
       to one or the other of these characters <i>or to both</i>, became a motif of my French footnotes, David. And then, during the
       defense, the critic said with finality that the division between the voices was, on second thought, <i>assez nette</i>. I was
       left to wonder if all that activity, all that glossing, had been undertaken in my, as they say, right mind, or if I had
-      been, well … But then with me Quintane, in characterizing her relationship to MLP in writing <span
-      className={styles.grayShadow}>Stand up</span> as one of possession, of her being possessed, not only allowed this reading
+      been, well … But then with me Quintane, in characterizing her relationship to MLP in writing "Stand up" as one of possession, of her being possessed, not only allowed this reading
       but went so far as to make reference to the film <span
       className={styles.grayShadow}>The Exorcist</span>. (French people tend to think me knowledgeable about the films of
       Hollywood.) And because there would never be any way of furnishing an answer to the question of if my thesis director
@@ -544,7 +541,7 @@ export default function CastingOff() {
       killer.) <i>Conversion à la littérature</i>—and the perfection of those cognates may have also helped the phrase stand
       out to this Anglophone with vividness—is not the only irresistible phrase of Quintane’s to occur in dialogue. Indeed, the
       depiction of disembodied speakers getting into a pitched and, from the outside, humorous argument about some aspect of
-      the <i>politics or philosophy</i> of literature is something of a specialty of hers. One of the marvels of <span
+      the politics <i>or philosophy</i> of literature is something of a specialty of hers. One of the marvels of <span
       className={styles.grayShadow}>Tomates</span> is the speaker’s doing that with Auguste Blanqui, who had a
       brother, Adolphe. Actually, Adolphe and Auguste, who disagreed on whether violence was an appropriate means to
       revolution, are the ones fighting, but they seem to be fighting about Quintane’s approach to the book that
@@ -612,11 +609,9 @@ export default function CastingOff() {
       <br/>
       <br/>
       Language changes, too; accordingly a leitmotif of those French footnotes is my turning up headline items of that time
-      in connection with a word or phrase from <span
-      className={styles.grayShadow}>Stand up</span>, making sensational claims about the amazing power poetry had to
+      in connection with a word or phrase from "Stand up", making sensational claims about the amazing power poetry had to
       anticipate and even predict politics, political life, by being out at the vanguard of language, generating it. The
-      Nice lemon festival, an object of fixation for <span
-      className={styles.grayShadow}>Stand up</span>’s MLP, had been, as I was translating, closed to Italians, who in
+      Nice lemon festival, an object of fixation for "Stand up"’s MLP, had been, as I was translating, closed to Italians, who in
       other years would cross the border to attend, Italy being where early cases had been happening. The xenophobia of
       an MLP always will be <i>contextual</i>. If I were translating today I might have saved my footnote for “slug,” my
       translation of <i>limace</i>, not a hard call, but there is an incredible resonance of <i>limace</i> in the French language ever
@@ -787,7 +782,7 @@ export default function CastingOff() {
       suspension, would seem to better your chances of originality immensely, more precisely by a magnitude of, at least, two (a
       figure I just arrived at thanks to laws of probability from math). If translation is one mechanism of this, the intersection
       of a work with politics, or with reality, is perhaps another. Translation relieves literature of its solitude, makes
-      it “transitive” as Samoyault argues, a theory that has always reminded me of the hatred of Quintane’s, expressed
+      it “transitive” as Samoyault argues, a theory that brings to mind for me Quintane's distaste, expressed
       in a couple of places, for the verb “to write” when used in the intransitive (<i>écrire</i>). A third leg, like the object, or
       the form, can stabilize. Original, translation, and reality; writer, reader, and how it really was. Seriously, then, I
       can come clean and say my curiosity for writing between French and English originated in the jokes I loved to share, in
@@ -807,7 +802,7 @@ export default function CastingOff() {
       Robertson’s next subject. Dionne Brand has her blue clerk, who is in the business of literary-historical accounting, search, in
       her diligent way, search and search “<span className={styles.grayShadow}>Les Fleurs du mal</span> for Baudelaire’s tropical
       soul,” something Benjamin, in the papers collected as his <span className={styles.grayShadow}>Arcades Project</span>, makes
-      report of, coming up with only, <i>hélas</i>, “a European aesthetic category.” Exoticized, objectified, the first <i>American girl</i> in
+      report of, coming up with only, <i>hélas</i>, “a European aesthetic category.” Exoticized, objectified, the first American girl in
       Paris arguably was a Black woman. This, in addition to decentering whiteness, also decenters the United States; considering
       Duval’s provenance in probably Haiti, like Brand’s and Robertson’s in Trinidad and Tobago and Canada, may help relieve
       that “American” of its heavy focus on the US, something I found that I could do in writing in French as I can’t in
@@ -830,8 +825,7 @@ export default function CastingOff() {
       election season this had been converted into, happily enough, a pottery studio and showroom, as if nature had taken it
       back. I jotted down some notes, joining a school group as it made a visit of its own, hanging around with clipboards
       taking in the framed display. “The principle of the artisanal is that each piece is unique,” I heard the teacher
-      say. Nearby, though again not quite where a careful reader of <span
-      className={styles.grayShadow}>Stand up</span> would have placed it, was the bookstore. High
+      say. Nearby, though again not quite where a careful reader of "Stand up" would have placed it, was the bookstore. High
       on a wall were promo photos, publishers’, of literary lions—in black and white, Pasolini’s stare, Francis Ponge in
       shirtsleeves, the over-processed hair of Annie Ernaux—from which I tore myself away to look around for titles
       mentioned by Quintane as important in her development as a writer, unsuccessfully. Amusing myself, then, with
@@ -841,16 +835,14 @@ export default function CastingOff() {
       <br/>
       <br/>
       There are two chocolate shops on the Boulevard Gassendi, three if you count one that’s primarily a bakery, and
-      yet, according to the author, the store that was the inspiration for the chocolate shop in <span
-      className={styles.grayShadow}>Stand up</span> is, although
+      yet, according to the author, the store that was the inspiration for the chocolate shop in "Stand up" is, although
       the author referred to it a “deco” store, not even that; it is a florist. My cover was a question if they had any
       lavender sachets. Amazingly, David, they did <i>not</i>. What I call, in my translation, Madison’s
-      Locker (<span className={styles.grayShadow}>Stand up</span>’s <i>Maison de Madison</i>) has an almost perfect
+      Locker ("Stand up"’s <i>Maison de Madison</i>) has an almost perfect
       analogue, however; I spent stunned minutes in among asynchronously ticking clocks, the glassware, candles, aprons
       printed with depictions of our fellow animals, companion animals, and, prominent, as if it might be reached
       by breaking glass in case of some emergency of fuss, a statue of the placid Buddha, presumably for sale
-      too. Another faithful representation <span
-      className={styles.grayShadow}>Stand up</span> makes is of, as I discovered just nearby, the nationalistic
+      too. Another faithful representation "Stand up" makes is of, as I discovered just nearby, the nationalistic
       café, in reality as in the literature crowned by a crest in (faded) gold on red—its awning. “You’re
       welcome, and still water,” the server said, obnoxiously since I had spoken French to him. Beautiful, haiku-like
       phrase, I could think, but only after taking a warming sip of coffee. I was, after all, far from home, far
@@ -860,7 +852,7 @@ export default function CastingOff() {
       tranquility, where birds could be heard singing.
       <br/>
       <br/>
-      <span className={styles.grayShadow}>Stand up</span> is not the only work of Quintane’s to feature, as a key
+      "Stand up" is not the only work of Quintane’s to feature, as a key
       setting, the Place du Général de Gaulle—with its long, rectangular bed for a fountain; with, right there, its
       kiosk, which turns out to be what in English we call a gazebo, the sound system of which Quintane herself had
       pointed out to me so proudly. They all gather, during the period of protests in <span
@@ -887,7 +879,7 @@ export default function CastingOff() {
       dessus</i>. <i>C’était pas rigolo</i>. <i>Elle n’était pas très bien accueillie</i>. <i>J’ai pas vu mais j’ai
       entendu</i> … <i>mais j’étais petite</i>. Not an eyewitness, her testimony is included for the atmosphere and
       left in French. <i>Merci pour ce beau souvenir</i>, a reporter told her, and, catching up with
-      another <i>dignois</i> by speed-walking at his side, learned he’d been in attendance. He could confirm projectiles
+      another <i>Dignois</i> by speed-walking at his side, learned he’d been in attendance. He could confirm projectiles
       had been thrown. “You’re doing an investigation? Who for? Marine Le Pen?” Reassured by an answer in the negative, he
       added that he certainly hoped not. “Marine Le Pen isn’t welcome here,” the man, petit, gray, neatly dressed, then
       said, allowing a smile he kept to himself, looking straight ahead in the direction he’d been headed. While
@@ -902,7 +894,7 @@ export default function CastingOff() {
       the Master’s thesis should be <i>useful</i>—<i>useful to others</i>, unless I am remembering another thing—and
       the literature of Nathalie Quintane is useful, too. In a recent English-language dissertation, the researcher Eric
       Lynch explores Quintane’s use of a style in narration, that of <i>idiotie</i>, her idiot operating maybe much like my
-      construct of the American girl in Paris, ingenuous in just her way perhaps, opening up in some way or other
+      construct of the <i>American girl</i> in Paris, ingenuous in just her way perhaps, opening up in some way or other
       anyway a space on the page where thinking happens visibly, is as if mechanically stimulated, inducted in
       the reader; this has political stakes. Out of the many errors I’m sure remain in my own thesis, one that
       leaps off the page, out of that French conclusion, is, arguably, an over-reading where I make claims about
