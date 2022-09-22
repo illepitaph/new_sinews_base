@@ -782,7 +782,7 @@ export default function CastingOff() {
       suspension, would seem to better your chances of originality immensely, more precisely by a magnitude of, at least, two (a
       figure I just arrived at thanks to laws of probability from math). If translation is one mechanism of this, the intersection
       of a work with politics, or with reality, is perhaps another. Translation relieves literature of its solitude, makes
-      it &quot;transitive&quot; as Samoyault argues, a theory that brings to mind for me Quintane's distaste, expressed
+      it &quot;transitive&quot; as Samoyault argues, a theory that brings to mind for me Quintane&apos;s distaste, expressed
       in a couple of places, for the verb “to write” when used in the intransitive (<i>écrire</i>). A third leg, like the object, or
       the form, can stabilize. Original, translation, and reality; writer, reader, and how it really was. Seriously, then, I
       can come clean and say my curiosity for writing between French and English originated in the jokes I loved to share, in
