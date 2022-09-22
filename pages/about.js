@@ -11,7 +11,7 @@ About.image = "https://www.newnewsinews.com/images/ArchNewSinew.jpg"
 
 export default function About() {
 
-
+    const [issueSixDropdownClass, setIssueSixDropdownClass] = useState("issueContentClosed");
     const [issueFiveDropdownClass, setIssueFiveDropdownClass] = useState("issueContentClosed");
     const [issueFourDropdownClass, setIssueFourDropdownClass] = useState("issueContentClosed");
     const [issueThreeDropdownClass, setIssueThreeDropdownClass] = useState("issueContentClosed");
@@ -47,6 +47,28 @@ return (
     <div className={styles.iconPlusSitebar}>
     <Link href="/" passHref><div className={styles.iconImage}></div></Link>
     <nav className={styles.siteNav}>
+    <div className={styles.dropDown} onMouseEnter={() => {
+      setIssueSixDropdownClass("issueContentOpen");
+    }}
+                                  onMouseLeave={() => {
+      setIssueSixDropdownClass("issueContentClosed");
+  }}>
+    <Link href="/issue6" passHref><button>issue_6</button></Link>
+    <div className={styles[issueSixDropdownClass]}>
+    <Link href="/issue6" passHref><button>new_sinews_issue6</button></Link>
+    <Link href="/issue6/ihns" passHref><button>kirsten ihns_all properties of the house burning ++ in which you are appearing as its shape ++</button></Link>
+    <Link href="/issue6/castingoff" passHref><button>jacqueline feldman_casting off</button></Link>
+    <Link href="/issue6/mfnz" passHref><button>brandon shimoda_marfa, new zealand</button></Link>
+    <Link href="/issue6/harrier" passHref><button>julian mithra_harrier</button></Link>
+    <Link href="/issue6/griffin" passHref><button>brandan griffin_wolly a walnut talks anotherwhere</button></Link>
+    <Link href="/issue6/beausang" passHref><button>chris beausang_1980</button></Link>
+    <Link href="/issue6/numbers" passHref><button>vi khi nao_the suicidal rain ++ the bleached cauliflower of my adversary ++</button></Link>
+    <Link href="/issue6/ferdinand" passHref><button>megan jeanne gette_ferdinand</button></Link>
+    <Link href="/issue6/target" passHref><button>cary stough_acquired target</button></Link>
+    <Link href="/issue6/desire" passHref><button>xiao yue shan_the dictionary of desire</button></Link>
+    <Link href="/issue6/bios" passHref><button>issue6_bios</button></Link>
+      </div>
+    </div>
     <div className={styles.dropDown} onMouseEnter={() => {
       setIssueFiveDropdownClass("issueContentOpen");
     }}

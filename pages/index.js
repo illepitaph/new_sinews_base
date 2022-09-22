@@ -10,6 +10,7 @@ Home.image = "https://www.newnewsinews.com/images/Issue5Cover.jpg"
 
 export default function Home() {
 
+  const [issueSixDropdownClass, setIssueSixDropdownClass] = useState("issueContentClosed");
   const [issueFiveDropdownClass, setIssueFiveDropdownClass] = useState("issueContentClosed");
   const [issueFourDropdownClass, setIssueFourDropdownClass] = useState("issueContentClosed");
   const [issueThreeDropdownClass, setIssueThreeDropdownClass] = useState("issueContentClosed");
@@ -29,6 +30,28 @@ export default function Home() {
           <div className={styles.iconPlusSitebar}>
             <Link href="/" passHref><div className={styles.iconImage}></div></Link>
           <nav className={styles.siteNav}>
+          <div className={styles.dropDown} onMouseEnter={() => {
+            setIssueSixDropdownClass("issueContentOpen");
+          }}
+                                        onMouseLeave={() => {
+            setIssueSixDropdownClass("issueContentClosed");
+        }}>
+          <Link href="/issue6" passHref><button>issue_6</button></Link>
+          <div className={styles[issueSixDropdownClass]}>
+          <Link href="/issue6" passHref><button>new_sinews_issue6</button></Link>
+          <Link href="/issue6/ihns" passHref><button>kirsten ihns_all properties of the house burning ++ in which you are appearing as its shape ++</button></Link>
+          <Link href="/issue6/castingoff" passHref><button>jacqueline feldman_casting off</button></Link>
+          <Link href="/issue6/mfnz" passHref><button>brandon shimoda_marfa, new zealand</button></Link>
+          <Link href="/issue6/harrier" passHref><button>julian mithra_harrier</button></Link>
+          <Link href="/issue6/griffin" passHref><button>brandan griffin_wolly a walnut talks anotherwhere</button></Link>
+          <Link href="/issue6/beausang" passHref><button>chris beausang_1980</button></Link>
+          <Link href="/issue6/numbers" passHref><button>vi khi nao_the suicidal rain ++ the bleached cauliflower of my adversary ++</button></Link>
+          <Link href="/issue6/ferdinand" passHref><button>megan jeanne gette_ferdinand</button></Link>
+          <Link href="/issue6/target" passHref><button>cary stough_acquired target</button></Link>
+          <Link href="/issue6/desire" passHref><button>xiao yue shan_the dictionary of desire</button></Link>
+          <Link href="/issue6/bios" passHref><button>issue6_bios</button></Link>
+            </div>
+          </div>
           <div className={styles.dropDown} onMouseEnter={() => {
             setIssueFiveDropdownClass("issueContentOpen");
           }}
@@ -159,40 +182,40 @@ export default function Home() {
       <span className={styles.snowTypeface}>late empire new writing</span>
       <br/>
       <br/>
-      <span className={styles.lightTypeface}>_issue_five_</span>
+      <span className={styles.lightTypeface}>_issue_six_</span>
       <br/>
       <br/>
       <span className={styles.snowTypeface}>featuring</span>
       <br/>
       <br/>
-      <span className={styles.lightTypeface}>julia shiota
-      <br/>
-      <br/>
-      mike corrao
-      <br/>
-      <br/>
-      vi khi nao
-      <br/>
-      <br/>
-      jessica alexander
-      <br/>
-      <br/>
-      samuel moss
-      <br/>
-      <br/>
-      steven alvarez
+      <span className={styles.lightTypeface}>kirsten ihns
       <br/>
       <br/>
       jacqueline feldman
       <br/>
       <br/>
-      alvin lu
+      brandon shimoda
       <br/>
       <br/>
-      delia rainey
+      julian mithra
       <br/>
       <br/>
-      paul bisagni
+      brandan griffin
+      <br/>
+      <br/>
+      chris beausang
+      <br/>
+      <br/>
+      vi khi nao
+      <br/>
+      <br/>
+      megan jeanne gette
+      <br/>
+      <br/>
+      cary stough
+      <br/>
+      <br/>
+      xiao yue shan
       <br/>
       <br/>
            </span>

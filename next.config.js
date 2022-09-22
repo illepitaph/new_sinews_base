@@ -289,9 +289,71 @@ module.exports = {
       },
 
       {
+        source: '/issue6',
+        destination: '/issue6/index',
+      },
+
+      {
+        source: '/ihns',
+        destination: '/issue6/ihns',
+      },
+
+      {
+        source: '/castingoff',
+        destination: '/issue6/castingoff',
+      },
+
+      {
+        source: '/mfnz',
+        destination: '/issue6/mfnz',
+      },
+
+      {
+        source: '/harrier',
+        destination: '/issue6/harrier',
+      },
+
+      {
+        source: '/griffin',
+        destination: '/issue6/griffin',
+      },
+
+      {
+        source: '/beausang',
+        destination: '/issue6/beausang',
+      },
+
+      {
+        source: '/numbers',
+        destination: '/issue6/numbers',
+      },
+
+      {
+        source: '/ferdinand',
+        destination: '/issue6/ferdinand',
+      },
+
+      {
+        source: '/target',
+        destination: '/issue6/target',
+      },
+
+      {
+        source: '/desire',
+        destination: '/issue6/desire',
+      },
+
+
+      {
+        source: '/issue6bios',
+        destination: '/issue6/bios',
+      },
+
+      {
         source: '/home',
         destination: '/',
       },
+
 
     ]
   },

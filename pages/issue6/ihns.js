@@ -115,7 +115,6 @@ the sanctuary is there by itself so on hand
 
           a gel
 
-
                                  at all times you decide what belongs together
                       have to go back in myself and require something in there
           the future of knitwear

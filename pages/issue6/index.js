@@ -16,39 +16,39 @@ export default function Issue6() {
 
               <div className={styles.issueContentsOne}>
                 <div className={styles.workColumn}>
-                 <Link href="/blank/ihns" passHref><div className={styles.workLink}>kirsten_ihns ::<br/>all properties of the<br/>house burning ++ in which <br/>you are appearing as its<br/>shape ++ </div></Link>
+                 <Link href="/issue6/ihns" passHref><div className={styles.workLink}>kirsten_ihns ::<br/>all properties of the<br/>house burning ++ in which <br/>you are appearing as its<br/>shape ++ </div></Link>
                 </div>
                 <div className={styles.workColumn}>
-                <Link href="/blank/castingoff" passHref><div className={styles.workLink}>jacqueline_feldman ::<br/>casting<br/>off</div></Link>
+                <Link href="/issue6/castingoff" passHref><div className={styles.workLink}>jacqueline_feldman ::<br/>casting<br/>off</div></Link>
                 </div>
                 <div className={styles.workColumn}>
-                  <Link href="/blank/mfnz" passHref><div className={styles.workLink}>brandon_shimoda ::<br/>marfa, new<br/>zealand</div></Link>
+                  <Link href="/issue6/mfnz" passHref><div className={styles.workLink}>brandon_shimoda ::<br/>marfa, new<br/>zealand</div></Link>
                 </div>
                 <div className={styles.workColumn}>
-                <Link href="/blank/harrier" passHref><div className={styles.workLink}> julian_mithra ::<br/>harrier</div></Link>
+                <Link href="/issue6/harrier" passHref><div className={styles.workLink}> julian_mithra ::<br/>harrier</div></Link>
                 </div>
                 <div className={styles.workColumn}>
-                  <Link href="/blank/griffin" passHref><div className={styles.workLink}>brandan_griffin ::<br/>wolly a wal-<br/>nut talks another-<br/>where</div></Link>
+                  <Link href="/issue6/griffin" passHref><div className={styles.workLink}>brandan_griffin ::<br/>wolly a wal-<br/>nut talks another-<br/>where</div></Link>
                 </div>
                 </div>
                   <div className={styles.issueContentsTwo}>
                 <div className={styles.workColumn}>
-                    <Link href="/blank/beausang" passHref><div className={styles.workLink}>chris_beausang ::<br/>nineteen<br/>eighty</div></Link>
+                    <Link href="/issue6/beausang" passHref><div className={styles.workLink}>chris_beausang ::<br/>nineteen<br/>eighty</div></Link>
                 </div>
                 <div className={styles.workColumn}>
-                  <Link href="/blank/numbers" passHref><div className={styles.workLink}>vi_khi_nao ::<br/>the suicidal<br/>rain ++ the bleached<br/>cauliflower of my<br/>adversary ++</div></Link>
+                  <Link href="/issue6/numbers" passHref><div className={styles.workLink}>vi_khi_nao ::<br/>the suicidal<br/>rain ++ the bleached<br/>cauliflower of my<br/>adversary ++</div></Link>
                 </div>
                 <div className={styles.workColumn}>
-                  <Link href="/blank/target" passHref><div className={styles.workLink}>cary_stough ::<br/>acquired target</div></Link>
+                  <Link href="/issue6/target" passHref><div className={styles.workLink}>cary_stough ::<br/>acquired target</div></Link>
                   <br/>
                   <br/>
-                    <Link href="/blank/ferdinand" passHref><div className={styles.workLink}>megan_jeanne_<br/>gette :: ferdinand</div></Link>
+                    <Link href="/issue6/ferdinand" passHref><div className={styles.workLink}>megan_jeanne_<br/>gette :: ferdinand</div></Link>
                 </div>
                 <div className={styles.workColumn}>
-                <Link href="/blank/desire" passHref><div className={styles.workLink}>xiao_yue_shan ::<br/>the dictionary<br/>of desire</div></Link>
+                <Link href="/issue6/desire" passHref><div className={styles.workLink}>xiao_yue_shan ::<br/>the dictionary<br/>of desire</div></Link>
                 <br/>
                 <br/>
-                <Link href="/blank/bios" passHref><div className={styles.workLink}>... b  i  o s ...</div></Link>
+                <Link href="/issue6/bios" passHref><div className={styles.workLink}>... b  i  o s ...</div></Link>
                   </div>
                   <div className={styles.siteShortcuts}>
                         <Link href="/" passHref><button className={styles.linkButton}>new sinews</button></Link>
