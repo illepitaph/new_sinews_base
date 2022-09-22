@@ -32,7 +32,7 @@ export default function Issue6Bios() {
    <br/>
    <br/>
    <span className={styles.grayInverse}>JACQUELINE FELDMAN</span> lives in Massachusetts. “On Your Feet,” her translation of
-   Nathalie Quintane’s story <strong><cite>Stand up</cite></strong>, is forthcoming in <i>The White
+   Nathalie Quintane’s story "Stand up", is forthcoming in <i>The White
    Review</i>. <strong><cite>On Your Feet</cite></strong>, a novel in translations from which “Casting Off” is taken, will
    be published next year by dispersed holdings.
    <br/>

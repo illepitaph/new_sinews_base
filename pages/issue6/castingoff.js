@@ -98,8 +98,8 @@ export default function CastingOff() {
       stripped in the popular imagination—which is not to mention the imagination of Nathalie Quintane. Her
       novel <span
       className={styles.grayShadow}>Cavale</span> opens on the narrator’s fantasy of serving a perfectly cooked fish as a fine British
-      lady, a fantasy abandoned as early as the second page (at the top of the page) in favor of that of being american
-      girl (“proud and sporting, between thighs in the shape of an S”). That pair of English words is used, the lowercase Quintane’s.
+      lady, a fantasy abandoned as early as the second page (at the top of the page) in favor of that of being <i>american
+      girl</i> (“proud and sporting, between thighs in the shape of an S”). That pair of English words is used, the lowercase Quintane’s.
       <br/>
       <br/>
       It would have been unsporting, I may have felt, let’s say I felt, to put to bed that life without the full
@@ -894,7 +894,7 @@ export default function CastingOff() {
       the Master’s thesis should be <i>useful</i>—<i>useful to others</i>, unless I am remembering another thing—and
       the literature of Nathalie Quintane is useful, too. In a recent English-language dissertation, the researcher Eric
       Lynch explores Quintane’s use of a style in narration, that of <i>idiotie</i>, her idiot operating maybe much like my
-      construct of the <i>American girl</i> in Paris, ingenuous in just her way perhaps, opening up in some way or other
+      construct of the American girl in Paris, ingenuous in just her way perhaps, opening up in some way or other
       anyway a space on the page where thinking happens visibly, is as if mechanically stimulated, inducted in
       the reader; this has political stakes. Out of the many errors I’m sure remain in my own thesis, one that
       leaps off the page, out of that French conclusion, is, arguably, an over-reading where I make claims about
