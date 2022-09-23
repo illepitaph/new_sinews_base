@@ -608,7 +608,7 @@ export default function CastingOff() {
       <br/>
       <br/>
       Language changes, too; accordingly a leitmotif of those French footnotes is my turning up headline items of that time
-      in connection with a word or phrase from &#8220;Stand up&#8221;, making sensational claims about the amazing power poetry had to
+      in connection with a word or phrase from &#8220;Stand up,&#8221; making sensational claims about the amazing power poetry had to
       anticipate and even predict politics, political life, by being out at the vanguard of language, generating it. The
       Nice lemon festival, an object of fixation for &#8220;Stand up&#8221;’s MLP, had been, as I was translating, closed to Italians, who in
       other years would cross the border to attend, Italy being where early cases had been happening. The xenophobia of
