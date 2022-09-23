@@ -9,7 +9,7 @@ import styles from '../../styles/Griffin.module.css'
 Griffin.title = "brandan_griffin ~ wolly_a_walnut_talks_anotherwhere — new_sinews"
 Griffin.pieceName = "brandan_griffin ~ wolly_a_walnut_talks_anotherwhere — new_sinews"
 Griffin.description = "_BRANDAN GRIFFIN_poetry_WALLY A WALNUT TALKS ANOTHERWHERE_new_sinews_issue6_"
-Griffin.image = "https://www.newnewsinews.com/images/TargetBackground.jpg"
+Griffin.image = "https://www.newnewsinews.com/images/GriffinBackground.jpg"
 
 export default function Griffin() {
   return (
