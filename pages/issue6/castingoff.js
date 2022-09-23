@@ -475,7 +475,7 @@ export default function CastingOff() {
       <br/>
       <br/>
       There’s imitation, study, and then there’s “diabolical possession,” you know on the other hand, a phrase offered up by
-      Quintane in responding to one of my lower-level questions about &#8220;Stand up&#8221;. As I was embarking on my project in its
+      Quintane in responding to one of my lower-level questions about &#8220;Stand up.&#8221; As I was embarking on my project in its
       original, academic framework, I had found it challenging to get the attention of the critic who was serving as the
       director of this Master’s thesis, which was no surprise, she had in point of fact warned me, but a side effect was that
       what she, the eminent critic, said by way of advice took on, for its rarity, a glittering preciousness. She had said
