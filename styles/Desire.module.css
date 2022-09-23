@@ -194,7 +194,7 @@
 @media (max-width: 854px) and (orientation:landscape) {
 
   .poem {
-    font-size:1.15rem;
+    font-size:1rem;
   }
 
   .boldHeader {
@@ -227,7 +227,7 @@
   }
 
   .poem {
-    font-size:1rem;
+    font-size:0.85rem;
   }
 
 }
@@ -248,7 +248,7 @@
   }
 
   .poem {
-    font-size:0.8rem;
+    font-size:0.65rem;
   }
 
 }
