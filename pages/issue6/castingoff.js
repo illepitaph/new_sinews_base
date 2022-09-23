@@ -326,8 +326,8 @@ export default function CastingOff() {
       on from, was inspired by, the 2005 riots in French suburbs, uprisings Quintane considers the chattering classes have been
       hasty in discounting. I remember where we were standing as she told me <span className={styles.grayShadow}>Tomates</span> was
       about the problem of transmission of knowledge; I raced to make a note of this. Quintane’s own generation and Marine Le
-      Pen’s has been, as she puts forth in <span className={styles.grayShadow}>Tomates</span> and &#8220;Stand up&#8221;, the missing link, since 1968. But this is no excuse for inaction, poor timing
-      isn’t; “intense” seems to be a lowkey reference (<i>tumulte</i>, in &#8220;Stand up&#8221;, being more
+      Pen’s has been, as she puts forth in <span className={styles.grayShadow}>Tomates</span> and &#8220;Stand up,&#8221; the missing link, since 1968. But this is no excuse for inaction, poor timing
+      isn’t; “intense” seems to be a lowkey reference (<i>tumulte</i>, in &#8220;Stand up,&#8221; being more
       obvious) to Georges Bataille’s morbidly serious claim of having lived through a surpassingly tumultuous epoch. She pokes fun
       at him and, for the moment being, was showing me the school where she taught. I think that we had had to cross a bridge. The
       light was getting low and orange. In a traffic circle the monument was decorated for Armistice Day, decked out in patriotic
