@@ -67,9 +67,9 @@ export default function CastingOff() {
       going to do that, a possibility that had originated as Malte’s idea, and move the classes I was teaching online, I wanted
       obviously to stay in Berlin, a city I had never visited, for more than a couple of days. He was getting cold feet. Just
       as I’d secured his agreement—I’d fly out of Berlin a week from then, we’d figure out what to do in between, he’d come
-      to Paris, I&apos;d go there, if we hated each other I&apos;d go to a hotel—my phone, which I don&apos;t know if you’ve ever noticed
+      to Paris, I&#8217;d go there, if we hated each other I&#8217;d go to a hotel—my phone, which I don&#8217;t know if you’ve ever noticed
       is shitty and broken, died. I had been laughing, it was funny, he’d been funny, made proof of good humor in capitulating
-      after a long resistance. Or it was nerves, my nerves. I don&apos;t know how I sounded. I got the phone working just to get
+      after a long resistance. Or it was nerves, my nerves. I don&#8217;t know how I sounded. I got the phone working just to get
       the texts, in tenor somewhat frantic, walking his position back. He would meet me, we’d spend two days in Paris
       maximum. It was clear he’d inferred I’d hung up victoriously to change my booking before he could change his
       mind again. He thought me capable. I was interested to feel the spreading tingle of my mortification; it was 1 a.m. I
@@ -180,7 +180,7 @@ export default function CastingOff() {
       fired for indecency (long story; she would leave her house unlocked), really a pretext for Quintane’s oral
       history tracing back a lineage of revolutionary thinking—was, I couldn’t help noticing, very sweet in tone. Too
       sweet, maybe. The narrator had some aversion to writing the story, and while this aversion was referred to
-      often, I didn&apos;t get it viscerally. Cavallero&apos;s firing wasn’t investigated in its details, and the book seemed in
+      often, I didn&#8217;t get it viscerally. Cavallero&#8217;s firing wasn’t investigated in its details, and the book seemed in
       other ways to lack the vigor I associate with independence of investigation. Subjects step in to qualify accounts
       they’ve given, at times correcting this investigator’s understanding: “It’s
       a shame … two or three years out I still remembered everything … now it’s distant.” There are some lovely
@@ -395,8 +395,8 @@ export default function CastingOff() {
       is, except for the connotation in American English about race, here inappropriate, a cognate). For a long time a highlight
       of Quintane’s author bio on the P. O. L website has been the showstopping sentence <i>Je suis peu nombreuse</i>, <i>mais je
       suis décidée</i>. Placing the author in a society of one as part of a “biography [that] reduces itself to a few malicious
-      lines,” as the critic Anne Malaprade has termed another of that author&apos;s of comparable length, this is as if designed to
-      scare off those who would search the life for clues to the art, as cops search—you&apos;ll remember that <span
+      lines,” as the critic Anne Malaprade has termed another of that author&#8217;s of comparable length, this is as if designed to
+      scare off those who would search the life for clues to the art, as cops search—you&#8217;ll remember that <span
       className={styles.grayShadow}>Tomates</span>, her breakthrough, is <i>about</i> the juridical usage of literature and, perhaps, identity
       to persecute supposed authors—and even so, with my notepad, I’d shown up.
       <br/>
@@ -757,7 +757,7 @@ export default function CastingOff() {
       of being a good student (<i>ex-bon élève</i>, as Quintane characterizes teachers in <span
       className={styles.grayShadow}>La Cavalière</span>, bringing to mind for readers the portrait drawn so
       vividly in <span className={styles.grayShadow}>Un hamster à l’école</span>, her previous book; <i>hamster</i> is a perfect
-      cognate). He reassured me the approach was good. Because, he said, finally you don&apos;t exhaust it, it exhausts you.
+      cognate). He reassured me the approach was good. Because, he said, finally you don&#8217;t exhaust it, it exhausts you.
       <br/>
       <br/>
       This visit would have filled me with, obviously, inspiration, by the time that I got back to Amherst, David. I had, among
@@ -782,7 +782,7 @@ export default function CastingOff() {
       suspension, would seem to better your chances of originality immensely, more precisely by a magnitude of, at least, two (a
       figure I just arrived at thanks to laws of probability from math). If translation is one mechanism of this, the intersection
       of a work with politics, or with reality, is perhaps another. Translation relieves literature of its solitude, makes
-      it &#8216;transitive&#8217; as Samoyault argues, a theory that brings to mind for me Quintane&apos;s distaste, expressed
+      it &#8216;transitive&#8217; as Samoyault argues, a theory that brings to mind for me Quintane&#8217;s distaste, expressed
       in a couple of places, for the verb “to write” when used in the intransitive (<i>écrire</i>). A third leg, like the object, or
       the form, can stabilize. Original, translation, and reality; writer, reader, and how it really was. Seriously, then, I
       can come clean and say my curiosity for writing between French and English originated in the jokes I loved to share, in
