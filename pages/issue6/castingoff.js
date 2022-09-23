@@ -123,7 +123,7 @@ export default function CastingOff() {
       the word). It reassesses, argues for the reassessment of, and even advocates for this violence, a reality
       that writing must be de-written before rewriting it can be achieved. This reality is well documented. Artaud,
       quoted I forget where, puts apt words to the feeling of fiery, transgressive glee (something Artaud was
-      good at feeling; I don’t know if you’ve ever seen, David, video of him acting), “a malicious flame” that &#8220;leapt up on him&#8221;, on translating out of English, claiming the words as his own (and that
+      good at feeling; I don’t know if you’ve ever seen, David, video of him acting), “a malicious flame” that &#8220;leapt up on&#8221; him, on translating out of English, claiming the words as his own (and that
       impersonation, translation, is, like all the others, mine). But Samoyault situates this aggression, as well
       as the need for its recall, in a highly contemporary and actually quite dire context. At stake in the rise
       of machine translation is the technologically mediated disappearance of disfavored languages. Samoyault is
