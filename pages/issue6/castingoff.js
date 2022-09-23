@@ -545,7 +545,7 @@ export default function CastingOff() {
       brother, Adolphe. Actually, Adolphe and Auguste, who disagreed on whether violence was an appropriate means to
       revolution, are the ones fighting, but they seem to be fighting about Quintane’s approach to the book that
       contains them. “What cowardice”! All this talk, ranging “from Franco to” her festivals, why not “roll up
-      a couple of tracts” and stuff them under “your bike seat” … and your "<i>Eternité par les astres</i>,” that would
+      a couple of tracts&#8221; and stuff them under &#8220;your bike seat&#8221; … and your &#8220;<i>Eternité par les astres</i>,&#8221; that would
       be, perhaps, a “ ‘practical guide’ ”? … Ooh there it is! “But the real truth is that you don’t know how to
       read!” … You “want me to think, Auguste,” that “you slipped the plan of attack for the Winter Palace into your description
       of the Milky Way?!” … “You think I’d have” stirred myself “from my low and humid cave” in jail, “at a distance of two
