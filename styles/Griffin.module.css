@@ -164,14 +164,14 @@
 @media (max-width:834px) and (orientation:portrait) {
 
   .poem {
-    font-size:0.7rem;
+    font-size:0.65rem;
   }
 }
 
 @media (max-width: 813px) and (orientation:landscape) {
 
   .poem {
-    font-size:0.68rem;
+    font-size:0.63rem;
   }
 
 }
@@ -180,7 +180,7 @@
 @media (max-width:801px) and (orientation:portrait) {
 
   .poem {
-    font-size:0.65rem;
+    font-size:0.61rem;
   }
 }
 
@@ -191,7 +191,7 @@
   }
 
   .poem {
-    font-size:0.66rem;
+    font-size:0.61rem;
   }
 
 }
@@ -211,7 +211,7 @@
 @media (max-width: 668px) and (orientation:landscape) {
 
   .poem {
-    font-size:0.56rem;
+    font-size:0.53rem;
   }
 
 }
