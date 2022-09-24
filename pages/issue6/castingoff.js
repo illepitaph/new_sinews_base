@@ -123,7 +123,7 @@ export default function CastingOff() {
       the word). It reassesses, argues for the reassessment of, and even advocates for this violence, a reality
       that writing must be de-written before rewriting it can be achieved. This reality is well documented. Artaud,
       quoted I forget where, puts apt words to the feeling of fiery, transgressive glee (something Artaud was
-      good at feeling; I don’t know if you’ve ever seen, David, video of him acting), “a malicious flame” that &#8220;leapt up ont&#8221; him, on translating out of English, claiming the words as his own (and that
+      good at feeling; I don’t know if you’ve ever seen, David, video of him acting), “a malicious flame” that &#8220;leapt up on&#8221; him, on translating out of English, claiming the words as his own (and that
       impersonation, translation, is, like all the others, mine). But Samoyault situates this aggression, as well
       as the need for its recall, in a highly contemporary and actually quite dire context. At stake in the rise
       of machine translation is the technologically mediated disappearance of disfavored languages. Samoyault is
@@ -147,7 +147,7 @@ export default function CastingOff() {
       I don’t know if I’d come out and say it like that if Quintane weren’t the first to, immediately, attribute her
       capacity for literary industry to this situation. She was quick to do so. This attribution, characteristically
       humble, as if the outpouring of her production were a matter of situational luck, would be made as
-      soon as she had me in her car; the ten-hour workweek, or whatever, was her secret, she would say, warning a young
+      soon as she had me in her car; the nine-hour workweek, or whatever, was her secret, she would say, warning a young
       seeker against the lure of getting rich. A golden light was settling on the foothills of the Alps, brown mountains
       all around. This shift in Quintane’s life, the settling down to work that she managed, may have coincided with
       the lightening of her duties as a functionary but, I knew from my study, it began with her arrival in
@@ -545,7 +545,7 @@ export default function CastingOff() {
       brother, Adolphe. Actually, Adolphe and Auguste, who disagreed on whether violence was an appropriate means to
       revolution, are the ones fighting, but they seem to be fighting about Quintane’s approach to the book that
       contains them. “What cowardice”! All this talk, ranging “from Franco to” her festivals, why not “roll up
-      a couple of tracts&#8221; and stuff them under &#8220;your bike seat&#8221; … and your &#8220;<i>Eternité par les astres</i>,&#8221; that would
+      a couple of tracts&#8221; and stuff them under &#8220;your bike seat&#8221; … and your &#8220;<i>Eternité par les astres</i>, that&#8221; would
       be, perhaps, a “ ‘practical guide’ ”? … Ooh there it is! “But the real truth is that you don’t know how to
       read!” … You “want me to think, Auguste,” that “you slipped the plan of attack for the Winter Palace into your description
       of the Milky Way?!” … “You think I’d have” stirred myself “from my low and humid cave” in jail, “at a distance of two
