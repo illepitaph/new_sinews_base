@@ -246,13 +246,13 @@
   }
 }
 
-@media (max-width: 380px) {
+@media (max-width: 413px) {
   .issueContents {
     margin: 0 0 0 1%;
   }
 
   .workLink {
-    font-size: 1.1rem;
+    font-size: 1rem;
     margin-top: 2vh;
   }
 
@@ -277,7 +277,7 @@
   }
 
   .workLink {
-    font-size: 0.7rem;
+    font-size: 0.6rem;
   }
 }
 
