@@ -1,424 +1,447 @@
 @keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-moz-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-webkit-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-o-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-ms-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
-
 .siteBarContainer {
-  height:61vh;
-  width:100%;
-  background-position:top;
-  background-size:contain;
-  background-repeat:no-repeat;
-  background-attachment:fixed;
-  font-size:1rem;
+  height: 61vh;
+  width: 100%;
+  background-position: top;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-size: 1rem;
   animation: fadeIn ease-in 0.8s;
 }
 
 .iconPlusSitebar {
-  display:flex;
-  justify-content:space-between;
+  display: flex;
+  justify-content: space-between;
 }
 
 .iconImage {
-  background-image:url("../public/images/newSinewsIcon.jpg");
-  background-repeat:no-repeat;
-  background-position:center;
-  background-size:contain;
-  width:25vw;
-  height:35vh;
-  margin:12vh 0 0 2vw;
-  opacity:0.9;
-  cursor:pointer;
-  transition:2s opacity;
+  background-image: url("../public/images/newSinewsIcon.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  width: 25vw;
+  height: 35vh;
+  margin: 12vh 0 0 2vw;
+  opacity: 0.9;
+  cursor: pointer;
+  transition: 2s opacity;
 }
 
 .iconImage:hover {
-  opacity:0.4;
+  opacity: 0.4;
 }
 
 .siteNav {
-  align-self:center;
-  display:inline-flex;
-  justify-content:flex-end;
-  margin-right:6%;
+  align-self: center;
+  display: inline-flex;
+  justify-content: flex-end;
+  margin-right: 6%;
 }
 
 .dropDown {
-  position:relative;
+  position: relative;
 }
 
-.siteNav > .dropDown > button, .home, .about {
-  border:none;
-  font-family:"lores-9-plus-narrow", monospace;
+.siteNav > .dropDown > button,
+.home,
+.about {
+  border: none;
+  font-family: "lores-9-plus-narrow", monospace;
   font-size: 0.7rem;
-  background-color:black;
-  color:#c0a5a5;
+  background-color: black;
+  color: #c0a5a5;
   opacity: 0.75;
-  padding:12px 19px;
-  border-radius:45px;
-  text-transform:lowercase;
-  letter-spacing:1.5px;
-  cursor:pointer;
-  transition:1.2s background-color;
+  padding: 12px 19px;
+  border-radius: 45px;
+  text-transform: lowercase;
+  letter-spacing: 1.5px;
+  cursor: pointer;
+  transition: 1.2s background-color;
 }
 
-.siteNav > .dropDown > button, .home {
-  margin-right:3px;
+.siteNav > .dropDown > button,
+.home {
+  margin-right: 3px;
 }
 
 .issueContentClosed {
-    display: none;
-    position: absolute;
-    z-index: 99;
-    box-shadow: 4px 8px 26px black;
-    cursor:pointer;
+  display: none;
+  position: absolute;
+  z-index: 99;
+  box-shadow: 4px 8px 26px black;
+  cursor: pointer;
 }
 
-.siteNav > .dropDown > button:hover, .home:hover, .about:hover {
-  background-color:#c0a5a5;
-  color:black;
+.siteNav > .dropDown > button:hover,
+.home:hover,
+.about:hover {
+  background-color: #c0a5a5;
+  color: black;
 }
 
 .issueContentOpen {
   display: flex;
   flex-flow: column wrap;
   position: absolute;
-  min-width:30vw;
+  min-width: 30vw;
 }
 
 .issueContentOpen > button {
-  border:4px double #c0a5a5;
-  font-family:"lores-9-plus-narrow", monospace;
+  border: 4px double #c0a5a5;
+  font-family: "lores-9-plus-narrow", monospace;
   font-size: 0.8rem;
-  background-color:black;
-  color:snow;
+  background-color: black;
+  color: snow;
   opacity: 0.9;
-  padding:6px 16px;
+  padding: 6px 16px;
   text-align: left;
-  text-transform:lowercase;
-  letter-spacing:1.5px;
-  cursor:pointer;
-  z-index:99;
+  text-transform: lowercase;
+  letter-spacing: 1.5px;
+  cursor: pointer;
+  z-index: 99;
 }
 
 .issueContentOpen > button:hover {
-  background-color:snow;
-  color:black;
+  background-color: snow;
+  color: black;
   text-transform: uppercase;
 }
 
 .blackwellBackground {
-  background-image:url("../public/images/BlackwellBackground.jpg");
+  background-image: url("../public/images/BlackwellBackground.jpg");
 }
 
 .eisenBackground {
-  background-image:url("../public/images/EisenMartinBackground.jpg");
+  background-image: url("../public/images/EisenMartinBackground.jpg");
 }
 
 .gridleyBackground {
-  background-image:url("../public/images/GridleyBackground.jpg");
+  background-image: url("../public/images/GridleyBackground.jpg");
 }
 
 .romanoskyBackground {
-  background-image:url("../public/images/RomanoskyBackground.jpg");
+  background-image: url("../public/images/RomanoskyBackground.jpg");
 }
 
 .naoBackground {
-  background-image:url("../public/images/NaoBackground.jpg");
+  background-image: url("../public/images/NaoBackground.jpg");
 }
 
 .brianteBackground {
-  background-image:url("../public/images/BrianteBackground.jpg");
+  background-image: url("../public/images/BrianteBackground.jpg");
 }
 
 .corraoBackground {
-  background-image:url("../public/images/CorraoBackground.jpg");
+  background-image: url("../public/images/CorraoBackground.jpg");
 }
 
 .zamoraBackground {
-  background-image:url("../public/images/ZamoraBackground.jpg");
+  background-image: url("../public/images/ZamoraBackground.jpg");
 }
 
 .taylorBackground {
-  background-image:url("../public/images/TaylorBackground.jpg");
+  background-image: url("../public/images/TaylorBackground.jpg");
 }
 
 .porteBackground {
-  background-image:url("../public/images/PorteBackground.jpg");
+  background-image: url("../public/images/PorteBackground.jpg");
 }
 
 .lakghomiBackground {
-  background-image:url("../public/images/LakghomiBackground.jpg");
+  background-image: url("../public/images/LakghomiBackground.jpg");
 }
 
 .lewisBackground {
-  background-image:url("../public/images/LewisBackground.jpg");
+  background-image: url("../public/images/LewisBackground.jpg");
 }
 
-
 .leYeasteBackground {
-  background-image:url("../public/images/LeYeasteBackground.jpg");
+  background-image: url("../public/images/LeYeasteBackground.jpg");
 }
 
 .straussBackground {
-  background-image:url("../public/images/StraussBackground.jpg")
+  background-image: url("../public/images/StraussBackground.jpg");
 }
 
 .tombBackground {
-  background-image:url("../public/images/TombBackground.jpg");
+  background-image: url("../public/images/TombBackground.jpg");
 }
 
 .duskBackground {
-  background-image:url("../public/images/DuskBackground.jpg");
+  background-image: url("../public/images/DuskBackground.jpg");
 }
 
 .stoughBackground {
-  background-image:url("../public/images/StoughBackground.jpg");
+  background-image: url("../public/images/StoughBackground.jpg");
 }
 
 .akantBackground {
-  background-image:url("../public/images/AkantBackground.jpg");
+  background-image: url("../public/images/AkantBackground.jpg");
 }
 
 .alvarezBackground {
-  background-image:url("../public/images/AlvarezBackground.jpg");
+  background-image: url("../public/images/AlvarezBackground.jpg");
 }
 
 .getteBackground {
-  background-image:url("../public/images/GetteBackground.jpg");
+  background-image: url("../public/images/GetteBackground.jpg");
 }
 
 .krumrieBackground {
-  background-image:url("../public/images/KrumrieBackground.jpg");
+  background-image: url("../public/images/KrumrieBackground.jpg");
 }
 
 .dasguptaBackground {
-  background-image:url("../public/images/DasguptaBackground.jpg");
+  background-image: url("../public/images/DasguptaBackground.jpg");
 }
 
 .ovidBackground {
-  background-image:url("../public/images/OvidBackground.jpg");
+  background-image: url("../public/images/OvidBackground.jpg");
 }
 
 .ratBackground {
-  background-image:url("../public/images/RatBackground.jpg");
+  background-image: url("../public/images/RatBackground.jpg");
 }
 
 .guanyinBackground {
-  background-image:url("../public/images/GuanyinBackground.jpg");
+  background-image: url("../public/images/GuanyinBackground.jpg");
 }
 
 .isolineBackground {
-  background-image:url("../public/images/IsolineBackground.jpg");
+  background-image: url("../public/images/IsolineBackground.jpg");
 }
 
 .howFarBackground {
-  background-image:url("../public/images/HowFarBackground.jpg");
+  background-image: url("../public/images/HowFarBackground.jpg");
 }
 
 .palaciosBackground {
-  background-image:url("../public/images/PalaciosBackground.jpg");
+  background-image: url("../public/images/PalaciosBackground.jpg");
 }
 
 .hummelBackground {
-  background-image:url("../public/images/HummelBackground.jpg");
+  background-image: url("../public/images/HummelBackground.jpg");
 }
 
 .poemsBornBackground {
-  background-image:url("../public/images/PoemsBornBackground.jpg");
+  background-image: url("../public/images/PoemsBornBackground.jpg");
 }
 
 .textSpinalityBackground {
-  background-image:url("../public/images/TextSpinalityBackground.jpg");
+  background-image: url("../public/images/TextSpinalityBackground.jpg");
 }
 
 .maierhoferBackground {
-  background-image:url("../public/images/MaierhoferBackground.jpg");
+  background-image: url("../public/images/MaierhoferBackground.jpg");
 }
 
 .shiotaBackground {
-  background-image:url("../public/images/ShiotaBackground.jpg");
+  background-image: url("../public/images/ShiotaBackground.jpg");
 }
 
 .terrariumBackground {
-  background-image:url("../public/images/TerrariumBackground.jpg");
+  background-image: url("../public/images/TerrariumBackground.jpg");
 }
 
 .mossBackground {
-  background-image:url("../public/images/MossBackground.jpg");
+  background-image: url("../public/images/MossBackground.jpg");
 }
 
 .feldmanBackground {
-  background-image:url("../public/images/FeldmanBackground.jpg");
+  background-image: url("../public/images/FeldmanBackground.jpg");
 }
 
 .yrClimateBackground {
-  background-image:url("../public/images/YrClimateBackground.jpg");
+  background-image: url("../public/images/YrClimateBackground.jpg");
 }
 
 .bisagniBackground {
-  background-image:url("../public/images/BisagniBackground.jpg");
+  background-image: url("../public/images/BisagniBackground.jpg");
 }
 
 .theaterBackground {
-  background-image:url("../public/images/TheaterHeader.jpg");
+  background-image: url("../public/images/TheaterHeader.jpg");
 }
 
 .raineyBackground {
-  background-image:url("../public/images/RaineyBackground.jpg");
+  background-image: url("../public/images/RaineyBackground.jpg");
 }
 
 .luBackground {
-  background-image:url("../public/images/StripMallBackground.jpg");
+  background-image: url("../public/images/StripMallBackground.jpg");
 }
 
 .ihnsBackground {
-  background-image:url("../public/images/IhnsBackground.jpg");
+  background-image: url("../public/images/IhnsBackground.jpg");
 }
 
 .castingOffBackground {
-  background-image:url("../public/images/CastingOffBackground.jpg");
+  background-image: url("../public/images/CastingOffBackground.jpg");
 }
 
 .marfaBackground {
-  background-image:url("../public/images/MarfaBackground.jpg");
+  background-image: url("../public/images/MarfaBackground.jpg");
 }
 
 .harrierBackground {
-  background-image:url("../public/images/HarrierBackground.jpg");
+  background-image: url("../public/images/HarrierBackground.jpg");
 }
 
 .beausangBackground {
-  background-image:url("../public/images/BeausangBackground.jpg");
+  background-image: url("../public/images/BeausangBackground.jpg");
 }
 
 .griffinBackground {
-  background-image:url("../public/images/GriffinBackground.jpg");
+  background-image: url("../public/images/GriffinBackground.jpg");
 }
 
 .ferdinandBackground {
-  background-image:url("../public/images/FerdinandBackground.jpg");
+  background-image: url("../public/images/FerdinandBackground.jpg");
 }
 
 .numbersBackground {
-  background-image:url("../public/images/NumbersBackground.jpg");
+  background-image: url("../public/images/NumbersBackground.jpg");
 }
 
 .targetBackground {
-  background-image:url("../public/images/TargetBackground.jpg");
+  background-image: url("../public/images/TargetBackground.jpg");
 }
 
 .desireBackground {
-  background-image:url("../public/images/DesireBackground.jpg");
+  background-image: url("../public/images/DesireBackground.jpg");
 }
 
-@media (width:1080px) and (height:810px) {
-
-
-  .siteNav > .dropDown > button, .home, .about {
+@media (width: 1080px) and (height: 810px) {
+  .siteNav > .dropDown > button,
+  .home,
+  .about {
     padding: 15px 7px;
   }
 
-  .siteNav > .dropDown > button, .home {
-    margin-right:8px;
+  .siteNav > .dropDown > button,
+  .home {
+    margin-right: 8px;
   }
+}
 
- }
-
-@media (width:1024px) and (height:1366px) {
-
+@media (width: 1024px) and (height: 1366px) {
   .iconImage {
-    width:19vw;
-    height:29vh;
-    margin:12vh 0 0 5vw;
+    width: 19vw;
+    height: 29vh;
+    margin: 12vh 0 0 5vw;
   }
 
   .siteNav {
-    margin-right:3%;
+    margin-right: 3%;
   }
 
-  .siteNav > .dropDown > button, .home, .about {
-  font-size:0.8rem;
-  padding: 6px 11px;
+  .siteNav > .dropDown > button,
+  .home,
+  .about {
+    font-size: 0.8rem;
+    padding: 6px 11px;
   }
+}
 
- }
-
- @media (width:1024px) and (height:768px) {
-
+@media (width: 1024px) and (height: 768px) {
   .iconImage {
-    width:19vw;
-    height:29vh;
-    margin:12vh 0 0 5vw;
+    width: 19vw;
+    height: 29vh;
+    margin: 12vh 0 0 5vw;
   }
 
   .siteNav {
-    margin-right:3%;
+    margin-right: 3%;
   }
 
-  .siteNav > .dropDown > button, .home, .about {
-  font-size:0.8rem;
-  padding: 6px 11px;
+  .siteNav > .dropDown > button,
+  .home,
+  .about {
+    font-size: 0.8rem;
+    padding: 6px 11px;
   }
+}
 
- }
-
- @media (width:1024px) and (height:600px) {
-
+@media (width: 1024px) and (height: 600px) {
   .iconImage {
-    width:19vw;
-    height:29vh;
-    margin:12vh 0 0 5vw;
+    width: 19vw;
+    height: 29vh;
+    margin: 12vh 0 0 5vw;
   }
 
   .siteNav {
-    margin-right:3%;
+    margin-right: 3%;
   }
 
-  .siteNav > .dropDown > button, .home, .about {
-  font-size:0.8rem;
-  padding: 6px 11px;
+  .siteNav > .dropDown > button,
+  .home,
+  .about {
+    font-size: 0.8rem;
+    padding: 6px 11px;
   }
-
- }
-
+}
 
 @media (max-width: 991.98px) {
-
   .iconPlusSitebar {
-    justify-content:space-around;
+    justify-content: space-around;
   }
 
   .siteNav {
-    margin:10% 6% 0 6%;
-    background-size:cover;
+    margin: 10% 6% 0 6%;
+    background-size: cover;
   }
 
-  .siteNav > .dropDown > button, .home, .about {
-    width:5rem;
-    padding:8.5px 8.5px;
-    opacity:0.85;
+  .siteNav > .dropDown > button,
+  .home,
+  .about {
+    width: 5rem;
+    padding: 8.5px 8.5px;
+    opacity: 0.85;
   }
 
   .issueContentOpen {
@@ -426,195 +449,184 @@
   }
 }
 
-@media (max-width: 927px) and (orientation:landscape) {
+@media (max-width: 927px) and (orientation: landscape) {
+  .siteBarContainer {
+    height: 73vh;
+  }
 
-.siteBarContainer {
-  height:73vh;
-}
+  .siteNav > .dropDown > button,
+  .home,
+  .about {
+    width: auto;
+    padding: 12px 4px;
+  }
 
-.siteNav > .dropDown > button, .home, .about {
-  width:auto;
-  padding: 12px 4px;
-}
-
-.siteNav > .dropDown > button, .home {
-    margin-right:4px;
+  .siteNav > .dropDown > button,
+  .home {
+    margin-right: 4px;
   }
 }
 
-@media (width:912px) and (height:1368px) {
-
-
-  .siteNav > .dropDown > button, .home, .about {
-  font-size:0.6rem;
-  padding: 10px 3px;
+@media (width: 912px) and (height: 1368px) {
+  .siteNav > .dropDown > button,
+  .home,
+  .about {
+    font-size: 0.6rem;
+    padding: 10px 3px;
   }
+}
 
- }
-
-@media (max-width: 897px) and (orientation:landscape) {
-  
-  .siteNav > .dropDown > button, .home, .about {
+@media (max-width: 897px) and (orientation: landscape) {
+  .siteNav > .dropDown > button,
+  .home,
+  .about {
     padding: 12px 2px;
   }
-  }
+}
 
-
-@media (max-width: 835px) and (orientation:portrait) {
-
+@media (max-width: 835px) and (orientation: portrait) {
   .iconImage {
-    width:40vw;
-    height:40vh;
-    margin-top:21vh;
-    margin-left:4vw;
-    opacity:0.7;
+    width: 40vw;
+    height: 40vh;
+    margin-top: 21vh;
+    margin-left: 4vw;
+    opacity: 0.7;
   }
 
   .siteNav {
-    align-self:center;
-    display:inline-flex;
-    flex-flow:column wrap;
-    justify-content:flex-end;
-    margin:19vh 6vw 0 0 ;
+    align-self: center;
+    display: inline-flex;
+    flex-flow: column wrap;
+    justify-content: flex-end;
+    margin: 19vh 6vw 0 0;
   }
 
-  .siteNav > .dropDown > button, .home, .about {
-    margin-bottom:1.5vh;
-    opacity:0.7;
-  }
-
- }
-
- @media (width:820px) and (height:1180px) {
-
-   .siteNav > .dropDown > button, .home, .about {
-     width:7rem;
-     padding:12px 14px;
-     opacity:0.85;
-   }
-
-  }
-
-  @media (max-width: 813px) and (orientation:landscape) {
-  
-    .siteNav > .dropDown > button, .home, .about {
-      padding: 12px 6px;
-    }
-    }
-
- @media (width:800px) and (height:1280px) {
-
-   .siteNav > .dropDown > button, .home, .about {
-     width:7rem;
-     padding:12px 14px;
-     opacity:0.85;
-   }
-
-  }
-
- @media (max-width: 768px) and (height:1024px) {
-
-   .siteNav {
-     margin:20vh 6vw 0 0 ;
-   }
-
-  }
-
- @media (max-width: 737px) and (orientation:landscape) {
-
-   .siteNav > button, .home, .about {
-     padding:1.5px 3px;
-     font-size:0.63rem;
-   }
- }
-
- @media (width:720px) and (height:540px) {
-
-   .siteNav > button, .home, .about {
-     padding:7px 0;
-     font-size:0.7rem;
-   }
-
-  }
-
- @media (max-width: 668px) and (orientation:landscape) {
-
-   .siteNav > .dropDown > button, .home, .about {
-    padding:8.5px 3px;
-    font-size:0.63rem;
-   }
- }
-
-
- @media (max-width: 601px) and (orientation:portrait) {
-
-   .iconImage {
-     width:35vw;
-     height:35vh;
-     margin-top:25vh;
-     margin-left:9vw;
-   }
-
-  }
-
-  @media (max-width: 481px) and (orientation:portrait) {
-
-    .iconImage {
-      margin-top:19vh;
-    }
-
-   }
-
- @media (max-height: 400px) and (orientation:landscape){
-
-   .siteNav {
-     justify-content:flex-start;
-     margin:2vh 6vw 0 0 ;
-   }
-
-   .siteNav > button {
-     padding:4.5px 6px;
-   }
-
-
-
- }
-
- @media (max-height: 376px) and (orientation:landscape){
-
-   .siteNav > button, .home, .about {
-     margin-bottom:4vh;
-   }
-
-
-
- }
-
- @media (max-width: 375px) and (orientation:portrait) {
-
-   .siteNav {
-     margin:19vh 6vw 0 0 ;
-   }
-
-   .siteNav > .dropDown > button, .home, .about {
-     padding:2.5px 4px;
-   }
-
-  }
-
-@media (max-width: 281px) and (orientation:portrait) {
-  .iconPlusSitebar > a {
-    width:40vw;
+  .siteNav > .dropDown > button,
+  .home,
+  .about {
+    margin-bottom: 1.5vh;
+    opacity: 0.7;
   }
 }
 
- @media (max-height: 281px) and (orientation:landscape){
+@media (width: 820px) and (height: 1180px) {
+  .siteNav > .dropDown > button,
+  .home,
+  .about {
+    width: 7rem;
+    padding: 12px 14px;
+    opacity: 0.85;
+  }
+}
 
-   .siteNav > button, .home, .about {
-     font-size:0.5rem;
-     padding:3.5px 5px;
-   }
+@media (max-width: 813px) and (orientation: landscape) {
+  .siteNav > .dropDown > button,
+  .home,
+  .about {
+    padding: 12px 6px;
+  }
+}
 
+@media (width: 800px) and (height: 1280px) {
+  .siteNav > .dropDown > button,
+  .home,
+  .about {
+    width: 7rem;
+    padding: 12px 14px;
+    opacity: 0.85;
+  }
+}
 
+@media (max-width: 768px) and (height: 1024px) {
+  .siteNav {
+    margin: 20vh 6vw 0 0;
+  }
+}
 
- }
+@media (max-width: 737px) and (orientation: landscape) {
+  .siteNav > button,
+  .home,
+  .about {
+    padding: 1.5px 3px;
+    font-size: 0.63rem;
+  }
+}
+
+@media (width: 720px) and (height: 540px) {
+  .siteNav > button,
+  .home,
+  .about {
+    padding: 7px 0;
+    font-size: 0.7rem;
+  }
+}
+
+@media (max-width: 668px) and (orientation: landscape) {
+  .siteNav > .dropDown > button,
+  .home,
+  .about {
+    padding: 8.5px 3px;
+    font-size: 0.63rem;
+  }
+}
+
+@media (max-width: 601px) and (orientation: portrait) {
+  .iconImage {
+    width: 35vw;
+    height: 35vh;
+    margin-top: 25vh;
+    margin-left: 9vw;
+  }
+}
+
+@media (max-width: 481px) and (orientation: portrait) {
+  .iconImage {
+    margin-top: 19vh;
+  }
+}
+
+@media (max-height: 400px) and (orientation: landscape) {
+  .siteNav {
+    justify-content: flex-start;
+    margin: 2vh 6vw 0 0;
+  }
+
+  .siteNav > button {
+    padding: 4.5px 6px;
+  }
+}
+
+@media (max-height: 376px) and (orientation: landscape) {
+  .siteNav > button,
+  .home,
+  .about {
+    margin-bottom: 4vh;
+  }
+}
+
+@media (max-width: 375px) and (orientation: portrait) {
+  .siteNav {
+    margin: 19vh 6vw 0 0;
+  }
+
+  .siteNav > .dropDown > button,
+  .home,
+  .about {
+    padding: 2.5px 4px;
+  }
+}
+
+@media (max-width: 281px) and (orientation: portrait) {
+  .iconPlusSitebar > a {
+    width: 40vw;
+  }
+}
+
+@media (max-height: 281px) and (orientation: landscape) {
+  .siteNav > button,
+  .home,
+  .about {
+    font-size: 0.5rem;
+    padding: 3.5px 5px;
+  }
+}
