@@ -449,7 +449,7 @@
   }
 }
 
-@media (max-width: 938px) and (orientation: landscape) {
+@media (max-width: 927px) and (orientation: landscape) {
   .siteBarContainer {
     height: 73vh;
   }
