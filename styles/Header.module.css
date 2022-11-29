@@ -432,16 +432,19 @@
   }
 
   .siteNav {
-    margin: 10% 6% 0 6%;
-    background-size: cover;
+    align-self:center;
+    display:inline-flex;
+    flex-flow:column wrap;
+    justify-content:flex-end;
+    margin:7vh 6vw 0 0 ;
   }
 
-  .siteNav > .dropDown > button,
-  .home,
-  .about {
-    width: 5rem;
-    padding: 8.5px 8.5px;
-    opacity: 0.85;
+  .siteNav > .dropDown > button, .home, .about {
+    width:6rem;
+    font-size:0.8rem;
+    margin-bottom:2vh;
+    padding:3px 6px;
+    opacity:0.9;
   }
 
   .issueContentOpen {
@@ -450,39 +453,58 @@
 }
 
 @media (max-width: 927px) and (orientation: landscape) {
+
+  .iconImage {
+    width:55vw;
+    height:55vh;
+    margin-left:1vw;
+  }
+
   .siteBarContainer {
     height: 73vh;
   }
 
-  .siteNav > .dropDown > button,
-  .home,
-  .about {
-    width: auto;
-    padding: 12px 4px;
+  .siteNav {
+    justify-content:flex-start;
+    margin:14vh 31vw 0 0;
   }
 
-  .siteNav > .dropDown > button,
   .home {
-    margin-right: 4px;
+    letter-spacing:0;
   }
+
 }
 
 @media (width: 912px) and (height: 1368px) {
   .siteNav > .dropDown > button,
   .home,
   .about {
-    font-size: 0.6rem;
-    padding: 10px 3px;
+    width: 7rem;
+    padding: 12px 14px;
+    opacity: 0.85;
   }
 }
 
-@media (max-width: 897px) and (orientation: landscape) {
-  .siteNav > .dropDown > button,
-  .home,
-  .about {
-    padding: 12px 2px;
+@media (max-width: 852px) and (orientation: landscape) {
+
+  .iconPlusSitebar {
+    margin-right:25vw;
   }
+
+  .iconImage {
+    margin-top: 3.5vh;
+  }
+
 }
+
+@media (max-width: 844px) and (orientation: landscape) {
+
+  .iconImage {
+    margin-top: 4.5vh;
+  }
+
+}
+
 
 @media (max-width: 835px) and (orientation: portrait) {
   .iconImage {
@@ -507,6 +529,10 @@
     margin-bottom: 1.5vh;
     opacity: 0.7;
   }
+
+  .home {
+    letter-spacing:0;
+  }
 }
 
 @media (width: 820px) and (height: 1180px) {
@@ -520,11 +546,22 @@
 }
 
 @media (max-width: 813px) and (orientation: landscape) {
-  .siteNav > .dropDown > button,
-  .home,
-  .about {
-    padding: 12px 6px;
+
+  .iconImage {
+    margin-top: 8vh;
   }
+
+}
+
+@media (max-width: 801px) and (orientation: landscape) {
+  .iconPlusSitebar {
+    margin-right:20vw;
+  }
+
+  .iconImage {
+    margin-top: 6vh;
+  }
+
 }
 
 @media (width: 800px) and (height: 1280px) {
@@ -538,35 +575,31 @@
 }
 
 @media (max-width: 768px) and (height: 1024px) {
-  .siteNav {
-    margin: 20vh 6vw 0 0;
-  }
-}
-
-@media (max-width: 737px) and (orientation: landscape) {
-  .siteNav > button,
+  .siteNav > .dropDown > button,
   .home,
   .about {
-    padding: 1.5px 3px;
-    font-size: 0.63rem;
+    width: 7rem;
+    padding: 12px 14px;
+    opacity: 0.85;
   }
 }
 
 @media (width: 720px) and (height: 540px) {
-  .siteNav > button,
-  .home,
-  .about {
-    padding: 7px 0;
-    font-size: 0.7rem;
-  }
-}
-
-@media (max-width: 668px) and (orientation: landscape) {
   .siteNav > .dropDown > button,
   .home,
   .about {
-    padding: 8.5px 3px;
-    font-size: 0.63rem;
+    width: 7rem;
+    padding: 12px 14px;
+    opacity: 0.85;
+  }
+}
+
+
+@media (max-width: 659px) and (orientation: landscape) {
+  .siteNav > button,
+  .home,
+  .about {
+    font-size: 0.6rem;
   }
 }
 
@@ -577,12 +610,18 @@
     margin-top: 25vh;
     margin-left: 9vw;
   }
+
+
+  .home {
+    letter-spacing:0;
+  }
 }
 
 @media (max-width: 481px) and (orientation: portrait) {
   .iconImage {
     margin-top: 19vh;
   }
+
 }
 
 @media (max-height: 400px) and (orientation: landscape) {
