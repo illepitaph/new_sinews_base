@@ -90,6 +90,7 @@
 .siteNav > .dropDown > button,
 .home,
 .about {
+  display:inline-block;
   border: none;
   font-family: "lores-9-plus-narrow", monospace;
   font-size: 0.7rem;
