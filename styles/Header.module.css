@@ -497,10 +497,14 @@
 
 }
 
-@media (max-width: 844px) and (orientation: landscape) {
+@media (max-width: 845px) and (orientation: landscape) {
 
   .iconImage {
-    margin-top: 4.5vh;
+    margin-top: 5.5vh;
+  }
+
+  .siteNav {
+    margin-top:7.5vh;
   }
 
 }
@@ -568,6 +572,7 @@
   .siteNav > .dropDown > button,
   .home,
   .about {
+    font-size:1rem;
     width: 7rem;
     padding: 12px 14px;
     opacity: 0.85;
@@ -584,30 +589,19 @@
   }
 }
 
-@media (width: 720px) and (height: 540px) {
-  .siteNav > .dropDown > button,
-  .home,
-  .about {
-    width: 7rem;
-    padding: 12px 14px;
-    opacity: 0.85;
-  }
-}
-
-
 @media (max-width: 659px) and (orientation: landscape) {
   .siteNav > button,
   .home,
   .about {
     font-size: 0.6rem;
   }
+
 }
 
 @media (max-width: 601px) and (orientation: portrait) {
   .iconImage {
     width: 35vw;
     height: 35vh;
-    margin-top: 25vh;
     margin-left: 9vw;
   }
 
@@ -644,6 +638,7 @@
 }
 
 @media (max-width: 375px) and (orientation: portrait) {
+
   .siteNav {
     margin: 19vh 6vw 0 0;
   }
