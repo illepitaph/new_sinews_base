@@ -333,7 +333,58 @@
   background-image:url("../public/images/DesireBackground.jpg");
 }
 
+@media (width:1080px) and (height:810px) {
+
+
+  .siteNav > .dropDown > button, .home, .about {
+    padding: 15px 7px;
+  }
+
+  .siteNav > .dropDown > button, .home {
+    margin-right:8px;
+  }
+
+ }
+
 @media (width:1024px) and (height:1366px) {
+
+  .iconImage {
+    width:19vw;
+    height:29vh;
+    margin:12vh 0 0 5vw;
+  }
+
+  .siteNav {
+    margin-right:3%;
+  }
+
+  .siteNav > .dropDown > button, .home, .about {
+  font-size:0.8rem;
+  padding: 6px 11px;
+  }
+
+ }
+
+ @media (width:1024px) and (height:768px) {
+
+  .iconImage {
+    width:19vw;
+    height:29vh;
+    margin:12vh 0 0 5vw;
+  }
+
+  .siteNav {
+    margin-right:3%;
+  }
+
+  .siteNav > .dropDown > button, .home, .about {
+  font-size:0.8rem;
+  padding: 6px 11px;
+  }
+
+ }
+
+ @media (width:1024px) and (height:600px) {
 
   .iconImage {
     width:19vw;
@@ -383,15 +434,31 @@
 
 .siteNav > .dropDown > button, .home, .about {
   width:auto;
-}
+  padding: 12px 4px;
 }
 
-@media (max-width: 813px) and (orientation:landscape) {
+.siteNav > .dropDown > button, .home {
+    margin-right:4px;
+  }
+}
 
-.siteNav > .dropDown > button, .home, .about {
-  padding:9px 11px;
-}
-}
+@media (width:912px) and (height:1368px) {
+
+
+  .siteNav > .dropDown > button, .home, .about {
+  font-size:0.6rem;
+  padding: 10px 3px;
+  }
+
+ }
+
+@media (max-width: 897px) and (orientation:landscape) {
+  
+  .siteNav > .dropDown > button, .home, .about {
+    padding: 12px 2px;
+  }
+  }
+
 
 @media (max-width: 835px) and (orientation:portrait) {
 
@@ -428,6 +495,13 @@
 
   }
 
+  @media (max-width: 813px) and (orientation:landscape) {
+  
+    .siteNav > .dropDown > button, .home, .about {
+      padding: 12px 6px;
+    }
+    }
+
  @media (width:800px) and (height:1280px) {
 
    .siteNav > .dropDown > button, .home, .about {
@@ -457,8 +531,8 @@
  @media (width:720px) and (height:540px) {
 
    .siteNav > button, .home, .about {
-     padding:1.5px 3px;
-     font-size:0.43rem;
+     padding:7px 0;
+     font-size:0.7rem;
    }
 
   }
@@ -466,8 +540,8 @@
  @media (max-width: 668px) and (orientation:landscape) {
 
    .siteNav > .dropDown > button, .home, .about {
-   font-size:0.5rem;
-   margin-right:1%;
+    padding:8.5px 3px;
+    font-size:0.63rem;
    }
  }
 
