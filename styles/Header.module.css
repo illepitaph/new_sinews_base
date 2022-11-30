@@ -124,6 +124,11 @@
   color: black;
 }
 
+.home {
+  color:white;
+  text-shadow:1px 1px gray;
+}
+
 .issueContentOpen {
   display: flex;
   flex-flow: column wrap;
@@ -427,8 +432,10 @@
 }
 
 @media (max-width: 991.98px) {
-  .iconPlusSitebar {
-    justify-content: space-around;
+
+  .top {
+    background-size:cover;
+    background-position:center;
   }
 
   .siteNav {
@@ -442,17 +449,26 @@
   .siteNav > .dropDown > button, .home, .about {
     width:6rem;
     font-size:0.8rem;
-    margin-bottom:2vh;
-    padding:3px 6px;
+    margin-bottom:0.1vh;
+    padding:9px 16px;
     opacity:0.9;
+  }
+
+  .home {
+    font-size:0.5rem;
+    color:white;
+    text-shadow:1px 1px gray;
+    margin-top:1.5vh;
   }
 
   .issueContentOpen {
     display: none;
   }
+
+
 }
 
-@media (max-width: 927px) and (orientation: landscape) {
+@media (max-width: 927px) and (orientation:landscape) {
 
   .iconImage {
     width:55vw;
@@ -460,207 +476,257 @@
     margin-left:1vw;
   }
 
-  .siteBarContainer {
-    height: 73vh;
+  .siteNav {
+    margin-right:25%;
   }
 
-  .siteNav {
-    justify-content:flex-start;
-    margin:14vh 31vw 0 0;
+  .siteNav > .dropDown > button, .home, .about {
+    width:6rem;
+    font-size:0.8rem;
+    padding:6px 13px;
+    margin-bottom:3vh;
   }
 
   .home {
-    letter-spacing:0;
+    font-size:0.5rem;
+    color:white;
+    text-shadow:1px 1px gray;
+    margin-top:0.5vh;
+  }
+
+
+}
+
+@media (max-width: 913px) and (orientation:portrait) {
+
+  .iconImage {
+    width:40vw;
+    height:40vh;
+      margin:8vh 0 0 12vw;
+
   }
 
 }
+
 
 @media (width: 912px) and (height: 1368px) {
-  .siteNav > .dropDown > button,
-  .home,
-  .about {
-    width: 7rem;
-    padding: 12px 14px;
-    opacity: 0.85;
-  }
-}
-
-@media (max-width: 852px) and (orientation: landscape) {
-
-  .iconPlusSitebar {
-    margin-right:25vw;
-  }
-
-  .iconImage {
-    margin-top: 3.5vh;
-  }
-
-}
-
-@media (max-width: 845px) and (orientation: landscape) {
-
-  .iconImage {
-    margin-top: 5.5vh;
-  }
 
   .siteNav {
-    margin-top:7.5vh;
+    margin-right:14vw;
   }
 
-}
-
-
-@media (max-width: 835px) and (orientation: portrait) {
-  .iconImage {
-    width: 40vw;
-    height: 40vh;
-    margin-top: 21vh;
-    margin-left: 4vw;
-    opacity: 0.7;
-  }
-
-  .siteNav {
-    align-self: center;
-    display: inline-flex;
-    flex-flow: column wrap;
-    justify-content: flex-end;
-    margin: 19vh 6vw 0 0;
-  }
-
-  .siteNav > .dropDown > button,
-  .home,
-  .about {
-    margin-bottom: 1.5vh;
-    opacity: 0.7;
+  .siteNav > .dropDown > button, .home, .about {
+    width:10rem;
+    font-size:1.2rem;
+    margin-bottom:1.7vh;
+    padding:9px 16px;
+    opacity:0.9;
   }
 
   .home {
-    letter-spacing:0;
+    font-size:0.8rem;
+    color:white;
+    text-shadow:1px 1px gray;
+    margin-top:0.3vh;
   }
+
+
+  
+}
+
+@media (width: 834px) and (height: 1194px) {
+
+  .siteNav {
+    margin-right:18vw;
+  }
+
+  .siteNav > .dropDown > button, .home, .about {
+    width:8rem;
+    font-size:0.8rem;
+    margin-bottom:1.7vh;
+    padding:9px 16px;
+    opacity:0.9;
+  }
+
+  .home {
+    font-size:0.8rem;
+    color:white;
+    text-shadow:1px 1px gray;
+    margin-top:0.3vh;
+  }
+
+
+  
 }
 
 @media (width: 820px) and (height: 1180px) {
-  .siteNav > .dropDown > button,
-  .home,
-  .about {
-    width: 7rem;
-    padding: 12px 14px;
-    opacity: 0.85;
+
+  .siteNav {
+    margin-right:18vw;
   }
+
+  .siteNav > .dropDown > button, .home, .about {
+    width:8rem;
+    font-size:0.8rem;
+    margin-bottom:1.7vh;
+    padding:9px 16px;
+    opacity:0.9;
+  }
+
+  .home {
+    font-size:0.8rem;
+    color:white;
+    text-shadow:1px 1px gray;
+    margin-top:0.3vh;
+  }
+
+
+  
 }
 
-@media (max-width: 813px) and (orientation: landscape) {
+@media (max-width: 812px) and (orientation:landscape) {
 
-  .iconImage {
-    margin-top: 8vh;
+  .siteNav > .dropDown > button, .about {
+    padding:4px 8px;
+    margin-bottom:2vh;
+    opacity:0.8;
   }
+
 
 }
 
-@media (max-width: 801px) and (orientation: landscape) {
-  .iconPlusSitebar {
-    margin-right:20vw;
+@media (width: 810px) and (height: 1080px) {
+
+  .siteNav {
+    margin-right:18vw;
   }
 
-  .iconImage {
-    margin-top: 6vh;
+  .siteNav > .dropDown > button, .home, .about {
+    width:8rem;
+    font-size:0.8rem;
+    margin-bottom:1.7vh;
+    padding:9px 16px;
+    opacity:0.9;
+  }
+
+  .home {
+    font-size:0.8rem;
+    color:white;
+    text-shadow:1px 1px gray;
+    margin-top:0.2vh;
   }
 
 }
 
 @media (width: 800px) and (height: 1280px) {
-  .siteNav > .dropDown > button,
-  .home,
-  .about {
-    font-size:1rem;
-    width: 7rem;
-    padding: 12px 14px;
-    opacity: 0.85;
-  }
-}
 
-@media (max-width: 768px) and (height: 1024px) {
-  .siteNav > .dropDown > button,
-  .home,
-  .about {
-    width: 7rem;
-    padding: 12px 14px;
-    opacity: 0.85;
-  }
-}
-
-@media (max-width: 659px) and (orientation: landscape) {
-  .siteNav > button,
-  .home,
-  .about {
-    font-size: 0.6rem;
+  .siteNav {
+    margin-right:18vw;
   }
 
-}
-
-@media (max-width: 601px) and (orientation: portrait) {
-  .iconImage {
-    width: 35vw;
-    height: 35vh;
-    margin-left: 9vw;
+  .siteNav > .dropDown > button, .home, .about {
+    width:8rem;
+    font-size:0.8rem;
+    margin-bottom:1.7vh;
+    padding:9px 16px;
+    opacity:0.9;
   }
-
 
   .home {
-    letter-spacing:0;
+    font-size:0.8rem;
+    margin-top:0.3vh;
   }
+
+
+  
 }
 
-@media (max-width: 481px) and (orientation: portrait) {
+@media (width: 768px) and (height: 1024px) {
+
+  .siteNav {
+    margin-right:18vw;
+  }
+
+  .siteNav > .dropDown > button, .home, .about {
+    width:8rem;
+    font-size:0.8rem;
+    margin-bottom:1.7vh;
+    padding:9px 16px;
+    opacity:0.9;
+  }
+
+  .home {
+    font-size:0.8rem;
+    margin-top:0.2vh;
+  }
+
+}
+
+@media (max-width: 668px) and (orientation:landscape) {
+
+  .siteNav > .dropDown > button, .about {
+    padding:3px 7px;
+    margin-bottom:2vh;
+  }
+
+
+}
+
+@media (width: 540px) and (height: 720px) {
+
+  .siteNav {
+    margin-right:13vw;
+  }
+
+  .siteNav > .dropDown > button, .home, .about {
+    width:8rem;
+    font-size:0.5rem;
+    margin-bottom:1.7vh;
+    padding:9px 16px;
+    opacity:0.9;
+  }
+
+  .home {
+    font-size:0.8rem;
+    color:white;
+    text-shadow:1px 1px gray;
+    margin-top:0.2vh;
+  }
+
+}
+
+@media (max-width:481px) and (orientation:portrait) {
+
   .iconImage {
-    margin-top: 19vh;
+    width:40vw;
+    height:40vh;
+      margin:8vh 0 0 12vw;
+
+  }
+
+  .siteNav > .dropDown > button, .about {
+    margin-top:2vh;
+    padding:4px 8px;
   }
 
 }
 
-@media (max-height: 400px) and (orientation: landscape) {
-  .siteNav {
-    justify-content: flex-start;
-    margin: 2vh 6vw 0 0;
+
+@media (max-width:391px) and (orientation:portrait) {
+
+  .iconImage {
+    margin:11vh 0 0 12vw;
+
   }
 
-  .siteNav > button {
-    padding: 4.5px 6px;
-  }
 }
 
-@media (max-height: 376px) and (orientation: landscape) {
-  .siteNav > button,
-  .home,
-  .about {
-    margin-bottom: 4vh;
+@media (max-width:321px) and (orientation:portrait) {
+
+  .iconImage {
+    margin:12vh 0 0 12vw;
+
   }
+
 }
 
-@media (max-width: 375px) and (orientation: portrait) {
-
-  .siteNav {
-    margin: 19vh 6vw 0 0;
-  }
-
-  .siteNav > .dropDown > button,
-  .home,
-  .about {
-    padding: 2.5px 4px;
-  }
-}
-
-@media (max-width: 281px) and (orientation: portrait) {
-  .iconPlusSitebar > a {
-    width: 40vw;
-  }
-}
-
-@media (max-height: 281px) and (orientation: landscape) {
-  .siteNav > button,
-  .home,
-  .about {
-    font-size: 0.5rem;
-    padding: 3.5px 5px;
-  }
-}
