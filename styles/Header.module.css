@@ -645,14 +645,12 @@
 }
 
 @media (max-width: 668px) and (orientation: landscape) {
-  .siteNav > .dropDown > button, .home {
+  .siteNav > .dropDown > button,
+  .home {
     padding: 3px 7px;
     margin-bottom: 2vh;
   }
-
 }
-
-
 
 @media (width: 540px) and (height: 720px) {
   .siteNav {
