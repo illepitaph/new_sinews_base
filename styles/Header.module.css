@@ -125,8 +125,8 @@
 }
 
 .home {
-  color:white;
-  text-shadow:1px 1px gray;
+  color: white;
+  text-shadow: 1px 1px gray;
 }
 
 .issueContentOpen {
@@ -432,299 +432,271 @@
 }
 
 @media (max-width: 991.98px) {
-
   .top {
-    background-size:cover;
-    background-position:center;
+    background-size: cover;
+    background-position: center;
   }
 
   .siteNav {
-    align-self:center;
-    display:inline-flex;
-    flex-flow:column wrap;
-    justify-content:flex-end;
-    margin:7vh 6vw 0 0 ;
+    align-self: center;
+    display: inline-flex;
+    flex-flow: column wrap;
+    justify-content: flex-end;
+    margin: 7vh 6vw 0 0;
   }
 
-  .siteNav > .dropDown > button, .home, .about {
-    width:6rem;
-    font-size:0.8rem;
-    margin-bottom:0.1vh;
-    padding:9px 16px;
-    opacity:0.9;
+  .siteNav > .dropDown > button,
+  .home,
+  .about {
+    width: 6rem;
+    font-size: 0.8rem;
+    margin-bottom: 0.1vh;
+    padding: 9px 16px;
+    opacity: 0.9;
   }
 
   .home {
-    font-size:0.5rem;
-    color:white;
-    text-shadow:1px 1px gray;
-    margin-top:1.5vh;
+    font-size: 0.5rem;
+    color: white;
+    text-shadow: 1px 1px gray;
+    margin-top: 1.5vh;
   }
 
   .issueContentOpen {
     display: none;
   }
-
-
 }
 
-@media (max-width: 927px) and (orientation:landscape) {
-
+@media (max-width: 927px) and (orientation: landscape) {
   .iconImage {
-    width:55vw;
-    height:55vh;
-    margin-left:1vw;
+    width: 55vw;
+    height: 55vh;
+    margin-left: 1vw;
   }
 
   .siteNav {
-    margin-right:25%;
+    margin-right: 25%;
   }
 
-  .siteNav > .dropDown > button, .home, .about {
-    width:6rem;
-    font-size:0.8rem;
-    padding:3px 13px;
-    margin-bottom:1vh;
+  .siteNav > .dropDown > button,
+  .home,
+  .about {
+    width: 6rem;
+    font-size: 0.8rem;
+    padding: 3px 13px;
+    margin-bottom: 1vh;
   }
 
   .home {
-    font-size:0.5rem;
-    margin-top:0.5vh;
+    font-size: 0.5rem;
+    margin-top: 0.5vh;
   }
-
-
 }
 
-@media (max-width: 913px) and (orientation:portrait) {
-
+@media (max-width: 913px) and (orientation: portrait) {
   .iconImage {
-    width:40vw;
-    height:40vh;
-      margin:8vh 0 0 12vw;
-
+    width: 40vw;
+    height: 40vh;
+    margin: 8vh 0 0 12vw;
   }
-
 }
-
 
 @media (width: 912px) and (height: 1368px) {
-
   .siteNav {
-    margin-right:14vw;
+    margin-right: 14vw;
   }
 
-  .siteNav > .dropDown > button, .home, .about {
-    width:10rem;
-    font-size:1.2rem;
-    margin-bottom:1.7vh;
-    padding:9px 16px;
-    opacity:0.9;
+  .siteNav > .dropDown > button,
+  .home,
+  .about {
+    width: 10rem;
+    font-size: 1.2rem;
+    margin-bottom: 1.7vh;
+    padding: 9px 16px;
+    opacity: 0.9;
   }
 
   .home {
-    font-size:0.8rem;
-    color:white;
-    text-shadow:1px 1px gray;
-    margin-top:0.3vh;
+    font-size: 0.8rem;
+    color: white;
+    text-shadow: 1px 1px gray;
+    margin-top: 0.3vh;
   }
-
-
-  
 }
 
 @media (width: 834px) and (height: 1194px) {
-
   .siteNav {
-    margin-right:18vw;
+    margin-right: 18vw;
   }
 
-  .siteNav > .dropDown > button, .home, .about {
-    width:8rem;
-    font-size:0.8rem;
-    margin-bottom:1.7vh;
-    padding:9px 16px;
-    opacity:0.9;
+  .siteNav > .dropDown > button,
+  .home,
+  .about {
+    width: 8rem;
+    font-size: 0.8rem;
+    margin-bottom: 1.7vh;
+    padding: 9px 16px;
+    opacity: 0.9;
   }
 
   .home {
-    font-size:0.8rem;
-    color:white;
-    text-shadow:1px 1px gray;
-    margin-top:0.3vh;
+    font-size: 0.8rem;
+    color: white;
+    text-shadow: 1px 1px gray;
+    margin-top: 0.3vh;
   }
-
-
-  
 }
 
 @media (width: 820px) and (height: 1180px) {
-
   .siteNav {
-    margin-right:18vw;
+    margin-right: 18vw;
   }
 
-  .siteNav > .dropDown > button, .home, .about {
-    width:8rem;
-    font-size:0.8rem;
-    margin-bottom:1.7vh;
-    padding:9px 16px;
-    opacity:0.9;
+  .siteNav > .dropDown > button,
+  .home,
+  .about {
+    width: 8rem;
+    font-size: 0.8rem;
+    margin-bottom: 1.7vh;
+    padding: 9px 16px;
+    opacity: 0.9;
   }
 
   .home {
-    font-size:0.8rem;
-    color:white;
-    text-shadow:1px 1px gray;
-    margin-top:0.3vh;
+    font-size: 0.8rem;
+    color: white;
+    text-shadow: 1px 1px gray;
+    margin-top: 0.3vh;
   }
-
-
-  
 }
 
-@media (max-width: 812px) and (orientation:landscape) {
-
-  .siteNav > .dropDown > button, .about {
-    padding:4px 8px;
-    margin-bottom:2vh;
-    opacity:0.8;
+@media (max-width: 812px) and (orientation: landscape) {
+  .siteNav > .dropDown > button,
+  .about {
+    padding: 4px 8px;
+    margin-bottom: 2vh;
+    opacity: 0.8;
   }
-
-
 }
 
 @media (width: 810px) and (height: 1080px) {
-
   .siteNav {
-    margin-right:18vw;
+    margin-right: 18vw;
   }
 
-  .siteNav > .dropDown > button, .home, .about {
-    width:8rem;
-    font-size:0.8rem;
-    margin-bottom:1.7vh;
-    padding:9px 16px;
-    opacity:0.9;
+  .siteNav > .dropDown > button,
+  .home,
+  .about {
+    width: 8rem;
+    font-size: 0.8rem;
+    margin-bottom: 1.7vh;
+    padding: 9px 16px;
+    opacity: 0.9;
   }
 
   .home {
-    font-size:0.8rem;
-    color:white;
-    text-shadow:1px 1px gray;
-    margin-top:0.2vh;
+    font-size: 0.8rem;
+    color: white;
+    text-shadow: 1px 1px gray;
+    margin-top: 0.2vh;
   }
-
 }
 
 @media (width: 800px) and (height: 1280px) {
-
   .siteNav {
-    margin-right:18vw;
+    margin-right: 18vw;
   }
 
-  .siteNav > .dropDown > button, .home, .about {
-    width:8rem;
-    font-size:0.8rem;
-    margin-bottom:1.7vh;
-    padding:9px 16px;
-    opacity:0.9;
+  .siteNav > .dropDown > button,
+  .home,
+  .about {
+    width: 8rem;
+    font-size: 0.8rem;
+    margin-bottom: 1.7vh;
+    padding: 9px 16px;
+    opacity: 0.9;
   }
 
   .home {
-    font-size:0.8rem;
-    margin-top:0.3vh;
+    font-size: 0.8rem;
+    margin-top: 0.3vh;
   }
-
-
-  
 }
 
 @media (width: 768px) and (height: 1024px) {
-
   .siteNav {
-    margin-right:18vw;
+    margin-right: 18vw;
   }
 
-  .siteNav > .dropDown > button, .home, .about {
-    width:8rem;
-    font-size:0.8rem;
-    margin-bottom:1.7vh;
-    padding:9px 16px;
-    opacity:0.9;
+  .siteNav > .dropDown > button,
+  .home,
+  .about {
+    width: 8rem;
+    font-size: 0.8rem;
+    margin-bottom: 1.7vh;
+    padding: 9px 16px;
+    opacity: 0.9;
   }
 
   .home {
-    font-size:0.8rem;
-    margin-top:0.2vh;
+    font-size: 0.8rem;
+    margin-top: 0.2vh;
   }
-
 }
 
-@media (max-width: 668px) and (orientation:landscape) {
-
-  .siteNav > .dropDown > button, .about {
-    padding:3px 7px;
-    margin-bottom:2vh;
+@media (max-width: 668px) and (orientation: landscape) {
+  .siteNav > .dropDown > button,
+  .about {
+    padding: 3px 7px;
+    margin-bottom: 2vh;
   }
-
-
 }
 
 @media (width: 540px) and (height: 720px) {
-
   .siteNav {
-    margin-right:13vw;
+    margin-right: 13vw;
   }
 
-  .siteNav > .dropDown > button, .home, .about {
-    width:8rem;
-    font-size:0.5rem;
-    margin-bottom:1.7vh;
-    padding:9px 16px;
-    opacity:0.9;
+  .siteNav > .dropDown > button,
+  .home,
+  .about {
+    width: 8rem;
+    font-size: 0.5rem;
+    margin-bottom: 1.7vh;
+    padding: 9px 16px;
+    opacity: 0.9;
   }
 
   .home {
-    font-size:0.8rem;
-    color:white;
-    text-shadow:1px 1px gray;
-    margin-top:0.2vh;
+    font-size: 0.8rem;
+    color: white;
+    text-shadow: 1px 1px gray;
+    margin-top: 0.2vh;
   }
-
 }
 
-@media (max-width:481px) and (orientation:portrait) {
-
+@media (max-width: 481px) and (orientation: portrait) {
   .iconImage {
-    width:40vw;
-    height:40vh;
-      margin:8vh 0 0 12vw;
-
+    width: 40vw;
+    height: 40vh;
+    margin: 8vh 0 0 12vw;
   }
 
-  .siteNav > .dropDown > button, .about {
-    margin-top:2vh;
-    padding:4px 8px;
+  .siteNav > .dropDown > button,
+  .about {
+    margin-top: 2vh;
+    padding: 4px 8px;
   }
-
 }
 
-
-@media (max-width:391px) and (orientation:portrait) {
-
+@media (max-width: 391px) and (orientation: portrait) {
   .iconImage {
-    margin:11vh 0 0 12vw;
-
+    margin: 11vh 0 0 12vw;
   }
-
 }
 
-@media (max-width:321px) and (orientation:portrait) {
-
+@media (max-width: 321px) and (orientation: portrait) {
   .iconImage {
-    margin:12vh 0 0 12vw;
-
+    margin: 12vh 0 0 12vw;
   }
-
 }
-
