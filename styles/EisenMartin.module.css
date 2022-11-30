@@ -80,6 +80,19 @@
   }
 }
 
+@media (width: 1024px) and (height: 1366px) {
+  .poem,
+  .leftJustified,
+  .standardLineation,
+  .rightJustified,
+  .centerJustified,
+  .polyphony {
+    max-width: 99%;
+    font-size: 1.2rem;
+    margin: 2% 2%;
+  }
+}
+
 @media (width: 1024px) and (height: 768px) and (orientation: landscape) {
   .poem,
   .leftJustified,
