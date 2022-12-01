@@ -1,89 +1,85 @@
 .authorItalic {
-  display:block;
+  display: block;
   font-family: "lores-9-plus-narrow", sans-serif;
-  font-size:1.3rem;
-  font-style:italic;
-  text-align:right;
-  margin-right:7vw;
+  font-size: 1.3rem;
+  font-style: italic;
+  text-align: right;
+  margin-right: 7vw;
 }
 
-.boldQuote, .quotedPoemLineation {
-  font-weight:700;
+.boldQuote,
+.quotedPoemLineation {
+  font-weight: 700;
 }
 
 .externalLink {
-  font-style:italic;
-  text-decoration:underline;
+  font-style: italic;
+  text-decoration: underline;
 }
 
 .externalLink > a:hover {
-  cursor:pointer;
-  text-shadow:3px 3px black;
+  cursor: pointer;
+  text-shadow: 3px 3px black;
 }
 
 .standardProseSectionBreak {
-  color:#b0b0b0;
+  color: #b0b0b0;
   font-family: "base-9-sans", sans-serif;
   font-weight: 300;
   font-style: normal;
-  text-align:center;
-  font-size:3.2rem;
-  letter-spacing:1rem;
-  line-height:1.4em;
+  text-align: center;
+  font-size: 3.2rem;
+  letter-spacing: 1rem;
+  line-height: 1.4em;
 }
 
 @media (max-width: 991.98px) {
-  .boldQuote, .quotedPoemLineation {
-    max-width:90vw;
-    font-size:1rem;
+  .boldQuote,
+  .quotedPoemLineation {
+    max-width: 90vw;
+    font-size: 1rem;
   }
-
 }
 
 @media (max-width: 767.98px) {
-.title {
-  font-size:2.1rem;
-}
+  .title {
+    font-size: 2.1rem;
+  }
 
   .boldQuote {
-    max-width:90vw;
-    font-size:1rem;
-}
+    max-width: 90vw;
+    font-size: 1rem;
+  }
 
   .quotedPoemLineation {
-    max-width:99vw;
-    font-size:0.55rem;
+    max-width: 99vw;
+    font-size: 0.55rem;
   }
 
   .standardProseSectionBreak {
-    font-size:2.2rem;
-    letter-spacing:0.2rem;  }
- }
+    font-size: 2.2rem;
+    letter-spacing: 0.2rem;
+  }
+}
 
- @media (max-width: 394px) and (orientation:portrait) {
+@media (max-width: 394px) and (orientation: portrait) {
+  .boldQuote {
+    max-width: 99vw;
+  }
 
-   .boldQuote {
-     max-width:99vw;
- }
+  .quotedPoemLineation {
+    font-size: 0.45rem;
+  }
+}
 
-   .quotedPoemLineation {
-     font-size:0.45rem;
-   }
+@media (max-width: 281px) and (orientation: portrait) {
+  .quotedPoemLineation {
+    font-size: 0.35rem;
+  }
+}
 
- }
-
- @media (max-width: 281px) and (orientation:portrait) {
-
-   .quotedPoemLineation {
-     font-size:0.35rem;
-   }
-
- }
-
- @media (max-height: 281px) and (orientation:landscape) {
-
-   .quotedPoemLineation {
-     font-size:0.35rem;
-   }
-
- }
+@media (max-height: 281px) and (orientation: landscape) {
+  .quotedPoemLineation {
+    font-size: 0.35rem;
+  }
+}
