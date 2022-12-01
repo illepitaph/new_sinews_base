@@ -1,100 +1,85 @@
 .standardLineation {
-  max-width:30vw;
-  margin:0 auto;
+  max-width: 30vw;
+  margin: 0 auto;
   font-family: "base-9-sans", sans-serif;
   font-weight: 300;
   font-style: normal;
-  font-size:1.2rem;
-  text-shadow:2px 2px gainsboro;
-  letter-spacing:-0.02rem;
-  line-height:1.7em;
+  font-size: 1.2rem;
+  text-shadow: 2px 2px gainsboro;
+  letter-spacing: -0.02rem;
+  line-height: 1.7em;
+}
+
+@media (width: 1024px) and (height: 1366px) {
+  .standardLineation {
+    font-size: 1.05rem;
+  }
 }
 
 @media (max-width: 991.98px) {
-
   .standardLineation {
-    max-width:70vw;
-    font-size:1rem;
+    max-width: 70vw;
+    font-size: 1rem;
   }
 }
 
 @media (max-width: 767.98px) {
-
   .standardLineation {
-    max-width:98vw;
-    font-size:0.8rem;
+    max-width: 98vw;
+    font-size: 0.8rem;
   }
+}
 
- }
-
- @media (width: 1080px) and (height:810px) and (orientation:landscape){
-
-   .standardLineation {
-     font-size:1.1rem;
-   }
-
+@media (width: 1080px) and (height: 810px) and (orientation: landscape) {
+  .standardLineation {
+    font-size: 1.1rem;
   }
+}
 
-  @media (width: 1024px) and (height:768px) and (orientation:landscape){
-
-    .standardLineation {
-      font-size:1.1rem;
-    }
-
-   }
-
-   @media (width: 1024px) and (height:600px) and (orientation:landscape){
-
-     .standardLineation {
-       font-size:1.1rem;
-     }
-
-    }
-
-  @media (max-width: 429px) and (orientation:portrait ){
-
-    .standardLineation {
-      font-size:0.7rem;
-    }
-
-   }
-
- @media (max-width: 415px) and (orientation:portrait ){
-
-   .standardLineation {
-     font-size:0.65rem;
-   }
-
+@media (width: 1024px) and (height: 768px) and (orientation: landscape) {
+  .standardLineation {
+    font-size: 1.1rem;
   }
+}
 
-  @media (max-width: 385px) and (orientation:portrait) {
+@media (width: 1024px) and (height: 600px) and (orientation: landscape) {
+  .standardLineation {
+    font-size: 1.1rem;
+  }
+}
 
-    .standardLineation {
-      font-size:0.6rem;
-    }
+@media (max-width: 429px) and (orientation: portrait) {
+  .standardLineation {
+    font-size: 0.7rem;
+  }
+}
 
-   }
+@media (max-width: 415px) and (orientation: portrait) {
+  .standardLineation {
+    font-size: 0.65rem;
+  }
+}
 
-   @media (max-width: 375px) and (orientation:portrait) {
+@media (max-width: 385px) and (orientation: portrait) {
+  .standardLineation {
+    font-size: 0.6rem;
+  }
+}
 
-     .standardLineation {
-       font-size:0.55rem;
-     }
+@media (max-width: 375px) and (orientation: portrait) {
+  .standardLineation {
+    font-size: 0.55rem;
+  }
+}
 
-    }
+@media (max-width: 320px) and (orientation: portrait) {
+  .standardLineation {
+    font-size: 0.5rem;
+  }
+}
 
-  @media (max-width: 320px) and (orientation:portrait) {
-
-    .standardLineation {
-      font-size:0.5rem;
-    }
-
-   }
-
-   @media (max-width: 281px) and (orientation:portrait) {
-
-     .standardLineation {
-       font-size:0.45rem;
-     }
-
-    }
+@media (max-width: 281px) and (orientation: portrait) {
+  .standardLineation {
+    font-size: 0.45rem;
+  }
+}
