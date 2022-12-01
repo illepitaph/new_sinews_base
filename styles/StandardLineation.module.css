@@ -16,6 +16,24 @@
   }
 }
 
+@media (width: 1080px) and (height: 810px) and (orientation: landscape) {
+  .standardLineation {
+    font-size: 1.1rem;
+  }
+}
+
+@media (width: 1024px) and (height: 768px) and (orientation: landscape) {
+  .standardLineation {
+    font-size: 1.05rem;
+  }
+}
+
+@media (width: 1024px) and (height: 600px) and (orientation: landscape) {
+  .standardLineation {
+    font-size: 1.05rem;
+  }
+}
+
 @media (max-width: 991.98px) {
   .standardLineation {
     max-width: 70vw;
@@ -27,24 +45,6 @@
   .standardLineation {
     max-width: 98vw;
     font-size: 0.8rem;
-  }
-}
-
-@media (width: 1080px) and (height: 810px) and (orientation: landscape) {
-  .standardLineation {
-    font-size: 1.1rem;
-  }
-}
-
-@media (width: 1024px) and (height: 768px) and (orientation: landscape) {
-  .standardLineation {
-    font-size: 1.1rem;
-  }
-}
-
-@media (width: 1024px) and (height: 600px) and (orientation: landscape) {
-  .standardLineation {
-    font-size: 1.1rem;
   }
 }
 
