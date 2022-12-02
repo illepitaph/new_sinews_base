@@ -190,4 +190,12 @@
   .blackShadow {
     line-height: 3.1rem;
   }
+
+  .carousel > .prev {
+    font-size: 1.5rem;
+  }
+
+  .carousel > .next {
+    font-size: 1.5rem;
+  }
 }
