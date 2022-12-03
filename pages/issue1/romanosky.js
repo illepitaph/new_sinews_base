@@ -1,34 +1,40 @@
-import Head from 'next/head'
-import Header from '../../components/header.js'
-import LeftGrayTitle from '../../components/leftGrayTitle.js'
-import StandardMiniTitle from '../../components/standardMiniTitle.js'
-import StandardLineation from '../../components/standardLineation.js'
-import Footer from '../../components/footer.js'
-import styles from '../../styles/Romanosky.module.css'
-Romanosky.title = "christa_romanosky ~ three_poems — new_sinews"
-Romanosky.pieceName = "christa_romanosky ~ three_poems — new_sinews"
-Romanosky.description = "_Christa Romanosky_3 poems_EXTINCTION OPUS NO. 16+EXTINCTION OPUS NO. 17+THE WOMAN WHO CLIMBED THE BEANSTALK_new_sinews _issue1_"
-Romanosky.image = "https://www.newnewsinews.com/images/RomanoskyBackground.jpg"
+import Head from "next/head";
+import Header from "../../components/header.js";
+import LeftGrayTitle from "../../components/leftGrayTitle.js";
+import StandardMiniTitle from "../../components/standardMiniTitle.js";
+import StandardLineation from "../../components/standardLineation.js";
+import Footer from "../../components/footer.js";
+import styles from "../../styles/Romanosky.module.css";
+Romanosky.title = "christa_romanosky ~ three_poems — new_sinews";
+Romanosky.pieceName = "christa_romanosky ~ three_poems — new_sinews";
+Romanosky.description =
+  "_Christa Romanosky_3 poems_EXTINCTION OPUS NO. 16+EXTINCTION OPUS NO. 17+THE WOMAN WHO CLIMBED THE BEANSTALK_new_sinews _issue1_";
+Romanosky.image = "https://www.newnewsinews.com/images/RomanoskyBackground.jpg";
 
 export default function Romanosky() {
   return (
-      <>
-          <Head/>
+    <>
+      <Head />
 
-          <Header headerBackground="romanoskyBackground"/>
+      <Header headerBackground="romanoskyBackground" />
 
-          <LeftGrayTitle>_ <span className={styles.titleShadow}>c<span
-          className={styles.inverseShadow}>h </span><span
-          className={styles.titleShadowUppercase}>r</span><span
-          className={styles.inverseShadow}>i</span>s<span
-          className={styles.inverseShadowUppercase}>t</span>a<br/> r <span
-          className={styles.titleShadowUppercase}>o</span>m<span
-          className={styles.inverseShadowUppercase}>a</span>n<span
-          className={styles.inverseShadow}>  o</span>s<span
-          className={styles.inverseShadowUppercase}>k </span>y _</span></LeftGrayTitle>
-          <br/>
-          <StandardMiniTitle title="Extinction Opus, No. 16"/>
-          <StandardLineation content={`
+      <LeftGrayTitle>
+        _{" "}
+        <span className={styles.titleShadow}>
+          c<span className={styles.inverseShadow}>h </span>
+          <span className={styles.titleShadowUppercase}>r</span>
+          <span className={styles.inverseShadow}>i</span>s
+          <span className={styles.inverseShadowUppercase}>t</span>a<br /> r{" "}
+          <span className={styles.titleShadowUppercase}>o</span>m
+          <span className={styles.inverseShadowUppercase}>a</span>n
+          <span className={styles.inverseShadow}> o</span>s
+          <span className={styles.inverseShadowUppercase}>k </span>y _
+        </span>
+      </LeftGrayTitle>
+      <br />
+      <StandardMiniTitle title="Extinction Opus, No. 16" />
+      <StandardLineation
+        content={`
           The future on stilts now. Corpus
           callosum like a paperclip
           unbent. Co-mingling. They say, “dirty”
@@ -50,10 +56,12 @@ export default function Romanosky() {
           in progress. Forsythia: yellow wands
           to lodge a vase. In this way, nothing
           gets past the parts.
-            `}/>
+            `}
+      />
 
-          <StandardMiniTitle title="Extinction Opus, No. 17"/>
-          <StandardLineation content={`
+      <StandardMiniTitle title="Extinction Opus, No. 17" />
+      <StandardLineation
+        content={`
           Darning the world—
           a widening sock. Mahogany axed
           solitary lash of trap where last
@@ -74,10 +82,12 @@ export default function Romanosky() {
           and forest vat. Bare
           as veal in pens. Your past
           catches, latches on.
-            `}/>
+            `}
+      />
 
-          <StandardMiniTitle title="The Woman Who Climbed The Beanstalk"/>
-          <StandardLineation content={`
+      <StandardMiniTitle title="The Woman Who Climbed The Beanstalk" />
+      <StandardLineation
+        content={`
           Sick in June, I started having the dreams again,
           of the giant, offering his office for me to hide
 
@@ -110,13 +120,10 @@ export default function Romanosky() {
 
           has a homunculus. I pickled a harmonica. I wanted
           the music to outlive the dream.
-              `}/>
+              `}
+      />
 
-
-          <Footer/>
-
-          </>
-
-        )
-
-      }
+      <Footer />
+    </>
+  );
+}
