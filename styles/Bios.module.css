@@ -42,6 +42,20 @@
   }
 }
 
+@media (max-width: 927px) and (orientation: landscape) {
+  .topMargin {
+    display:inline-block;
+    margin-top:15vh;
+  }
+}
+
+@media (max-width: 659px) and (orientation: landscape) {
+  .topMargin {
+    display:inline-block;
+    margin-top:18vh;
+  }
+}
+
 @media (max-width: 429px) and (orientation: portrait) {
   .biosExternalLinkSpecial {
     font-size: 0.8rem;
