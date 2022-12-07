@@ -244,7 +244,7 @@ export default function Issue2Bios() {
           className={styles.biosExternalLink}
           target="_blank"
           rel="noreferrer"
-          href="http://www.uapress.ua.edu/product/Brief-Alphabet-of-Torture,6637.aspx"
+          href="https://www.uapress.ua.edu/9781573660617/a-brief-alphabet-of-torture"
         >
           {" "}
           <cite>
