@@ -661,7 +661,7 @@
   .home,
   .about {
     width: 8rem;
-    font-size: 0.5rem;
+    font-size: 1rem;
     margin-bottom: 1.7vh;
     padding: 9px 16px;
     opacity: 0.9;
