@@ -1,28 +1,47 @@
 @keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-moz-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-webkit-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-o-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-ms-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
-
 
 .fullPageBackground {
   position: fixed;
@@ -40,7 +59,7 @@
   bottom: 0px;
   left: 0px;
   animation: fadeIn ease-out 1.2s;
-  overflow:scroll;
+  overflow: scroll;
 }
 
 .pageStructure {
@@ -55,7 +74,7 @@
   font-size: 3.7rem;
   text-shadow: 6px 4px snow;
   text-transform: lowercase;
-  margin-left:15px;
+  margin-left: 15px;
   margin: 5% 0 0 4%;
 }
 
@@ -70,19 +89,19 @@
   grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
   grid-template-columns: 1fr 1fr;
   height: 70vh;
-  margin-top:5vh;
+  margin-top: 5vh;
   margin: 0;
   margin: 2% 0 0 4%;
 }
 
 .col1 {
-  display:grid;
+  display: grid;
   align-content: space-between;
   grid-column: 1 / span 1;
 }
 
 .col2 {
-  display:grid;
+  display: grid;
   align-content: space-between;
   grid-column: 2 / span 1;
 }
@@ -95,7 +114,7 @@
   text-transform: uppercase;
   text-shadow: 6px 4px snow;
   grid-area: 1 / 1 / 3/ 3;
-  margin-left:8vw;
+  margin-left: 8vw;
 }
 
 .workLink {
@@ -106,9 +125,9 @@
   color: white;
   font-size: 1.6em;
   text-transform: uppercase;
-  letter-spacing:0.3rem;
+  letter-spacing: 0.3rem;
   cursor: pointer;
-  margin-top:5px;
+  margin-top: 5px;
 }
 
 .inverseWorkLinkColor {
@@ -122,8 +141,8 @@
 }
 
 .siteShortcuts {
-  display:flex;
-  justify-content:center;
+  display: flex;
+  justify-content: center;
   grid-area: 7/ 1/ 8 / 4;
   margin-top: 3%;
 }
@@ -136,16 +155,17 @@
   font-size: 0.9rem;
   border-radius: 44px;
   cursor: pointer;
-  margin-right:8vw;
+  margin-right: 8vw;
 }
 
 .siteShortcuts > .linkButton:hover {
-     background-color:#6b6b6b;
-     letter-spacing:5px;
-     font-style:italic;
-  }
+  background-color: #6b6b6b;
+  letter-spacing: 5px;
+  font-style: italic;
+}
 
-.innerSiteLinkTag, .twitterLinkTag {
+.innerSiteLinkTag,
+.twitterLinkTag {
   position: relative;
   font-family: "lores-9-plus-narrow", monospace;
   text-decoration: none;
@@ -162,11 +182,10 @@
 }
 
 @media (max-width: 767.98px) {
-
   .pageTitle {
     font-size: 1.5rem;
-      text-shadow: 4px 2px snow;
-    margin-left:1px;
+    text-shadow: 4px 2px snow;
+    margin-left: 1px;
     margin: 0 0 0 4%;
   }
 
@@ -175,13 +194,13 @@
   }
 
   .issue {
-    font-size:1rem;
+    font-size: 1rem;
     text-shadow: 4px 2px snow;
-    margin:1vh 0 0 6vw;
+    margin: 1vh 0 0 6vw;
   }
 
   .col2 {
-    margin-left:5px;
+    margin-left: 5px;
   }
 
   .workLink {
@@ -189,7 +208,7 @@
     position: relative;
     color: white;
     font-size: 1.2em;
-    letter-spacing:0.1rem;
+    letter-spacing: 0.1rem;
   }
 
   .siteShortcuts {
@@ -199,99 +218,86 @@
   .siteShortcuts > .linkButton {
     font-size: 0.7rem;
   }
-
- }
-
- @media (max-width: 1000px) and (orientation:landscape){
-
-   .pageTitle {
-     font-size:3rem;
-     margin: 0 0 0 4%;
-   }
-
-   .issue {
-     font-size: 1rem;
-   }
-
-   .issueContents {
-     margin-top:1vh;
-   }
-
-   .workLink {
-     font-size: 1.1rem;
-     letter-spacing:0.1rem;
-       text-shadow: 4px 2px #6b6b6b;
-   }
-
-   .siteShortcuts {
-     margin-top: 2vh;
-   }
-
- }
-
- @media (max-height: 780px) and (orientation:portrait){
-
-   .workLink {
-     font-size: 0.9rem;
-     letter-spacing:0.1rem;
-   }
-
-   .siteShortcuts {
-     margin-top: 4vh;
-   }
-
-   .siteShortcuts > .linkButton {
-     padding: 0.9vh 0.8vw;
-     font-size: 0.6rem;
-     margin-right:4vw;
-   }
-
- }
-
-
- @media (max-height: 620px) {
-
-   .workLink {
-     font-size: 1.1rem;
-   }
-
- }
-
- @media (max-height: 415px) and (orientation:landscape){
-
-   .workLink {
-     font-size: 0.8rem;
-   }
 }
 
+@media (max-width: 1000px) and (orientation: landscape) {
+  .pageTitle {
+    font-size: 3rem;
+    margin: 0 0 0 4%;
+  }
 
- @media (max-height: 400px) and (orientation:landscape){
+  .issue {
+    font-size: 1rem;
+  }
 
-   .workLink {
-     font-size: 0.7rem;
-   }
+  .issueContents {
+    margin-top: 1vh;
+  }
 
- }
+  .workLink {
+    font-size: 1.1rem;
+    letter-spacing: 0.1rem;
+    text-shadow: 4px 2px #6b6b6b;
+  }
 
- @media(max-width: 361px){
-   .workLink {
-     font-size: 0.7rem;
-   }
- }
+  .siteShortcuts {
+    margin-top: 2vh;
+  }
+}
 
- @media(max-height: 320px) and (orientation:landscape){
-   .workLink {
-     font-size: 0.6rem;
-   }
+@media (max-height: 780px) and (orientation: portrait) {
+  .workLink {
+    font-size: 0.9rem;
+    letter-spacing: 0.1rem;
+  }
 
-   .siteShortcuts {
-     margin-top: 1vh;
-   }
+  .siteShortcuts {
+    margin-top: 4vh;
+  }
 
-   .siteShortcuts > .linkButton {
-     padding: 0.6vh 0.5vw;
-     font-size: 0.6rem;
-     margin-right:4vw;
-   }
+  .siteShortcuts > .linkButton {
+    padding: 0.9vh 0.8vw;
+    font-size: 0.6rem;
+    margin-right: 4vw;
+  }
+}
 
- }
+@media (max-height: 620px) {
+  .workLink {
+    font-size: 1.1rem;
+  }
+}
+
+@media (max-height: 415px) and (orientation: landscape) {
+  .workLink {
+    font-size: 0.8rem;
+  }
+}
+
+@media (max-height: 400px) and (orientation: landscape) {
+  .workLink {
+    font-size: 0.7rem;
+  }
+}
+
+@media (max-width: 361px) {
+  .workLink {
+    font-size: 0.7rem;
+  }
+}
+
+@media (max-height: 320px) and (orientation: landscape) {
+  .workLink {
+    font-size: 0.6rem;
+  }
+
+  .siteShortcuts {
+    margin-top: 1vh;
+  }
+
+  .siteShortcuts > .linkButton {
+    padding: 0.6vh 0.5vw;
+    font-size: 0.6rem;
+    margin-right: 4vw;
+  }
+}
