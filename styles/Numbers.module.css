@@ -1,234 +1,194 @@
 .faintShadow {
-  font-size:4.3rem;
-  text-shadow:5px 5px snow,
-              5px 6px black,
-              10px 10px gainsboro;
-  line-height:15rem;
+  font-size: 4.3rem;
+  text-shadow: 5px 5px snow, 5px 6px black, 10px 10px gainsboro;
+  line-height: 15rem;
 }
 
 .uppercaseFaint {
   text-transform: uppercase;
-  opacity:0.3;
+  opacity: 0.3;
 }
 
 .alternateTitleColor {
-  font-size:4.3rem;
-  color:black;
-  text-shadow:4px 4px snow,
-              8px 8px gainsboro;
+  font-size: 4.3rem;
+  color: black;
+  text-shadow: 4px 4px snow, 8px 8px gainsboro;
 }
 
 .extraSpaceOne {
-  margin-left:41vw;
+  margin-left: 41vw;
 }
 
 .extraSpaceTwo {
-  margin-right:25vw;
+  margin-right: 25vw;
   letter-spacing: 2.6rem;
 }
 
 .extraSpaceThree {
-  margin-left:25vw;
+  margin-left: 25vw;
   letter-spacing: 3rem;
 }
 
 .titleShadow {
-  text-shadow:5px 5px snow,
-              10px 10px silver,
-              14px 14px gainsboro;
+  text-shadow: 5px 5px snow, 10px 10px silver, 14px 14px gainsboro;
 }
 
 .poem {
-  max-width:96vw;
+  max-width: 96vw;
   font-family: "base-9-sans", sans-serif;
   font-weight: 300;
   font-style: normal;
-  font-size:1.2rem;
-  text-shadow:1px 1px snow, 2px 2px gainsboro;
-  letter-spacing:-0.02rem;
-  line-height:1.7em;
-  margin-left:2vw;
+  font-size: 1.2rem;
+  text-shadow: 1px 1px snow, 2px 2px gainsboro;
+  letter-spacing: -0.02rem;
+  line-height: 1.7em;
+  margin-left: 2vw;
   white-space: pre-line;
 }
 
-@media (width:1280px) and (height:800px) {
-
+@media (width: 1280px) and (height: 800px) {
   .extraSpaceTwo {
-    letter-spacing:1.6rem;
+    letter-spacing: 1.6rem;
   }
-
-
 }
 
-
-@media (width:1194px) and (height:834px) {
-
+@media (width: 1194px) and (height: 834px) {
   .extraSpaceTwo {
-    letter-spacing:1.6rem;
+    letter-spacing: 1.6rem;
   }
-
-
 }
 
-@media (width:1180px) and (height:820px) {
-
-  .faintShadow, .alternateTitleColor {
-    font-size:3.5rem;
+@media (width: 1180px) and (height: 820px) {
+  .faintShadow,
+  .alternateTitleColor {
+    font-size: 3.5rem;
   }
   .extraSpaceTwo {
-    letter-spacing:1.6rem;
+    letter-spacing: 1.6rem;
   }
-
-
 }
 
-@media (width:1080px) and (height:810px) {
-
-  .faintShadow, .alternateTitleColor {
-    font-size:3.5rem;
+@media (width: 1080px) and (height: 810px) {
+  .faintShadow,
+  .alternateTitleColor {
+    font-size: 3.5rem;
   }
   .extraSpaceTwo {
-    letter-spacing:1.6rem;
+    letter-spacing: 1.6rem;
   }
-
-
 }
 
-@media (width:1024px) and (height:1366px) {
-
-  .faintShadow, .alternateTitleColor {
-    font-size:3.5rem;
+@media (width: 1024px) and (height: 1366px) {
+  .faintShadow,
+  .alternateTitleColor {
+    font-size: 3.5rem;
   }
   .extraSpaceTwo {
-    letter-spacing:1.6rem;
+    letter-spacing: 1.6rem;
   }
-
-
 }
 
-
-@media (width:1024px) and (height:768px) {
-
-  .faintShadow, .alternateTitleColor {
-    font-size:3.5rem;
+@media (width: 1024px) and (height: 768px) {
+  .faintShadow,
+  .alternateTitleColor {
+    font-size: 3.5rem;
   }
   .extraSpaceTwo {
-    letter-spacing:1.6rem;
+    letter-spacing: 1.6rem;
   }
-
-
 }
 
-@media (width:1024px) and (height:600px) {
-
-  .faintShadow, .alternateTitleColor {
-    font-size:3.5rem;
+@media (width: 1024px) and (height: 600px) {
+  .faintShadow,
+  .alternateTitleColor {
+    font-size: 3.5rem;
   }
   .extraSpaceTwo {
-    letter-spacing:1.6rem;
+    letter-spacing: 1.6rem;
   }
-
-
 }
 
-@media (max-width:927px) and (orientation:landscape) {
-
-  .faintShadow, .alternateTitleColor {
-    font-size:3.5rem;
+@media (max-width: 927px) and (orientation: landscape) {
+  .faintShadow,
+  .alternateTitleColor {
+    font-size: 3.5rem;
   }
   .extraSpaceTwo {
-    letter-spacing:1.2rem;
+    letter-spacing: 1.2rem;
   }
-
-
 }
 
-@media (width:912px) and (height:1368px) {
-
+@media (width: 912px) and (height: 1368px) {
   .extraSpaceTwo {
-    letter-spacing:1.6rem;
+    letter-spacing: 1.6rem;
   }
-
-
 }
 
-@media (width:834px) and (height:1194px) {
-
-  .faintShadow, .alternateTitleColor {
-    font-size:3.5rem;
+@media (width: 834px) and (height: 1194px) {
+  .faintShadow,
+  .alternateTitleColor {
+    font-size: 3.5rem;
   }
   .extraSpaceTwo {
-    letter-spacing:1.2rem;
+    letter-spacing: 1.2rem;
   }
-
-
 }
 
-@media (width:820px) and (height:1180px) {
-
-  .faintShadow, .alternateTitleColor {
-    font-size:3.5rem;
+@media (width: 820px) and (height: 1180px) {
+  .faintShadow,
+  .alternateTitleColor {
+    font-size: 3.5rem;
   }
   .extraSpaceTwo {
-    letter-spacing:1.6rem;
+    letter-spacing: 1.6rem;
   }
-
-
 }
 
-@media (max-width:811px) and (orientation:portrait) {
-
-  .faintShadow, .alternateTitleColor {
-    font-size:3.3rem;
+@media (max-width: 811px) and (orientation: portrait) {
+  .faintShadow,
+  .alternateTitleColor {
+    font-size: 3.3rem;
   }
-  .extraSpaceTwo  {
-    letter-spacing:1.2rem;
+  .extraSpaceTwo {
+    letter-spacing: 1.2rem;
   }
-
-
 }
 
-@media (max-width:762px) and (orientation:landscape) {
-
+@media (max-width: 762px) and (orientation: landscape) {
   .extraSpaceThree {
-    letter-spacing:1.2rem;
+    letter-spacing: 1.2rem;
   }
-
-
 }
 
-@media (max-width:541px) and (orientation:portrait) {
-
-  .faintShadow, .alternateTitleColor {
-    font-size:3rem;
+@media (max-width: 541px) and (orientation: portrait) {
+  .faintShadow,
+  .alternateTitleColor {
+    font-size: 3rem;
   }
-  .extraSpaceTwo, .extraSpaceThree {
-    letter-spacing:0.2rem;
+  .extraSpaceTwo,
+  .extraSpaceThree {
+    letter-spacing: 0.2rem;
   }
-
-
 }
 
-@media (max-width:361px) and (orientation:portrait) {
-
-  .faintShadow, .alternateTitleColor {
-    font-size:2.5rem;
+@media (max-width: 361px) and (orientation: portrait) {
+  .faintShadow,
+  .alternateTitleColor {
+    font-size: 2.5rem;
   }
-  .extraSpaceTwo, .extraSpaceThree {
-    letter-spacing:0.2rem;
+  .extraSpaceTwo,
+  .extraSpaceThree {
+    letter-spacing: 0.2rem;
   }
-
-
 }
 
-@media (max-width:281px) and (orientation:portrait) {
-
-  .faintShadow, .alternateTitleColor {
-    font-size:2.3rem;
+@media (max-width: 281px) and (orientation: portrait) {
+  .faintShadow,
+  .alternateTitleColor {
+    font-size: 2.3rem;
   }
-  .extraSpaceTwo, .extraSpaceThree {
-    letter-spacing:0rem;
+  .extraSpaceTwo,
+  .extraSpaceThree {
+    letter-spacing: 0rem;
   }
-
-
 }
