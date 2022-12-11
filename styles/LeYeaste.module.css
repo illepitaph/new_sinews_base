@@ -1,196 +1,212 @@
 @keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-moz-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-webkit-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-o-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-ms-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 .container {
-  display:grid;
+  display: grid;
   place-items: center;
-  margin-bottom:6%;
+  margin-bottom: 6%;
 }
 
 .carousel {
-  position:relative;
-  display:flex;
-  flex-flow:row wrap;
-  justify-content:center;
-  align-items:center;
-  width:90%;
-  height:100vh;
-  margin:6% 0 6% 0;
-  background:
-    linear-gradient(black 1%, white 6%, gainsboro 10%, #e8e8e8 12%, whitesmoke 17%, snow 20%,
-      whitesmoke 31%, white 41%, whitesmoke 51%, whitesmoke 71%,
-      snow 75%, #e2e2e2 88%, snow 94%, gainsboro 96%, whitesmoke 98%);
-  border-radius:30px;
+  position: relative;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+  height: 100vh;
+  margin: 6% 0 6% 0;
+  background: linear-gradient(
+    black 1%,
+    white 6%,
+    gainsboro 10%,
+    #e8e8e8 12%,
+    whitesmoke 17%,
+    snow 20%,
+    whitesmoke 31%,
+    white 41%,
+    whitesmoke 51%,
+    whitesmoke 71%,
+    snow 75%,
+    #e2e2e2 88%,
+    snow 94%,
+    gainsboro 96%,
+    whitesmoke 98%
+  );
+  border-radius: 30px;
   box-shadow: 20px 12px 5px #e2e2e2;
   animation: fadeIn ease-out 2s;
 }
 
 .carousel > .prev {
-  position:absolute;
+  position: absolute;
   z-index: 1;
-  top:40%;
-  left:-3%;
-  flex:5%;
-  height:5%;
-  display:grid;
-  place-items:center;
-  color:black;
-  text-shadow:2px 3px snow,
-             5px 5px red;
-  font-size:4rem;
-  font-weight:700;
-  letter-spacing:0.2rem;
-  cursor:pointer;
-  opacity:0.3;
+  top: 40%;
+  left: -3%;
+  flex: 5%;
+  height: 5%;
+  display: grid;
+  place-items: center;
+  color: black;
+  text-shadow: 2px 3px snow, 5px 5px red;
+  font-size: 4rem;
+  font-weight: 700;
+  letter-spacing: 0.2rem;
+  cursor: pointer;
+  opacity: 0.3;
 }
 
 .carousel > .next {
-  position:absolute;
-  z-index:1;
-  top:50%;
-  right:-3%;
-  flex:5%;
-  height:5%;
-  display:grid;
-  place-items:center;
-  color:red;
-  font-size:4rem;
-  font-weight:700;
-  text-shadow: 2px 2px #b0b0b0,
-                 4px 4px black;
-  letter-spacing:0.2rem;
-  cursor:pointer;
-  opacity:0.2;
+  position: absolute;
+  z-index: 1;
+  top: 50%;
+  right: -3%;
+  flex: 5%;
+  height: 5%;
+  display: grid;
+  place-items: center;
+  color: red;
+  font-size: 4rem;
+  font-weight: 700;
+  text-shadow: 2px 2px #b0b0b0, 4px 4px black;
+  letter-spacing: 0.2rem;
+  cursor: pointer;
+  opacity: 0.2;
 }
 
 .prev:hover {
-  font-size:4.2rem;
-  color:snow;
-  text-shadow: 2px 3px black,
-                4px 6px red;
+  font-size: 4.2rem;
+  color: snow;
+  text-shadow: 2px 3px black, 4px 6px red;
 }
 
 .next:hover {
-  font-size:4.2rem;
-  color:#b0b0b0;
-  text-shadow:3px 3px black;
+  font-size: 4.2rem;
+  color: #b0b0b0;
+  text-shadow: 3px 3px black;
 }
 
 .blackShadow {
-  color:black;
-  text-shadow:4px 4px snow,
-              6px 6px #b0b0b0;
-  font-style:italic;
+  color: black;
+  text-shadow: 4px 4px snow, 6px 6px #b0b0b0;
+  font-style: italic;
   animation: fadeIn ease-out 1.3s;
 }
 
 .grayShadow {
-  color:gainsboro;
-  text-shadow:2px 2px black,
-              4px 4px #b0b0b0;
+  color: gainsboro;
+  text-shadow: 2px 2px black, 4px 4px #b0b0b0;
   text-transform: uppercase;
-  letter-spacing:1.4rem;
-  line-height:5.4rem;
+  letter-spacing: 1.4rem;
+  line-height: 5.4rem;
   animation: fadeIn ease-out 1.3s;
 }
 
 .inverse {
-  color:black;
-  text-shadow:4px 4px snow,
-              6px 6px red;
+  color: black;
+  text-shadow: 4px 4px snow, 6px 6px red;
 }
 
 .boldText {
-  font-family:"lores-9-plus-wide", monospace;
-  color:red;
-  text-shadow:1px 1px snow;
-  font-weight:700;
-  font-style:italic;
+  font-family: "lores-9-plus-wide", monospace;
+  color: red;
+  text-shadow: 1px 1px snow;
+  font-weight: 700;
+  font-style: italic;
 }
 
-
-@media (min-height:1023px) and (orientation:portrait) {
-
+@media (min-height: 1023px) and (orientation: portrait) {
   .carousel {
-    height:40vh;
+    height: 40vh;
   }
+}
 
- }
-
- @media (width:760px) and (height:360px) and (orientation:landscape) {
-
-   .carousel {
-     height:120vh;
-   }
-
-  }
-
- @media (width:653px) and (height:280px) and (orientation:landscape) {
-
-   .carousel {
-     height:120vh;
-   }
-
-  }
-
-@media (max-width: 429px) and (orientation:portrait) {
-
+@media (width: 760px) and (height: 360px) and (orientation: landscape) {
   .carousel {
-    height:40vh;
+    height: 120vh;
+  }
+}
+
+@media (width: 653px) and (height: 280px) and (orientation: landscape) {
+  .carousel {
+    height: 120vh;
+  }
+}
+
+@media (max-width: 429px) and (orientation: portrait) {
+  .carousel {
+    height: 40vh;
   }
 
   .carousel > .prev {
-    top:10%;
-    left:-5%;
-    font-size:3.5rem;
+    top: 10%;
+    left: -5%;
+    font-size: 3.5rem;
   }
 
   .carousel > .next {
-    top:74%;
-    right:-5%;
-    font-size:3.5rem;
+    top: 74%;
+    right: -5%;
+    font-size: 3.5rem;
+  }
+}
+
+@media (max-width: 392px) and (orientation: portrait) {
+  .carousel {
+    height: 39vh;
   }
 
- }
-
- @media (max-width: 392px) and (orientation:portrait) {
-
-   .carousel {
-     height:39vh;
-   }
-
-   .carousel > .prev {
-     font-size:3rem;
-   }
-
-   .carousel > .next {
-     font-size:3rem;
-   }
-
-   .grayShadow {
-     line-height:3.4rem;
-   }
-
+  .carousel > .prev {
+    font-size: 3rem;
   }
+
+  .carousel > .next {
+    font-size: 3rem;
+  }
+
+  .grayShadow {
+    line-height: 3.4rem;
+  }
+}
