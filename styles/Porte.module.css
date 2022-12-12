@@ -1,53 +1,50 @@
 .blackShadow {
-  color:black;
-  text-shadow:4px 4px snow,
-              6px 6px #b0b0b0;
-  letter-spacing:0.4rem;
+  color: black;
+  text-shadow: 4px 4px snow, 6px 6px #b0b0b0;
+  letter-spacing: 0.4rem;
 }
 
 .blackShadowWider {
-  color:black;
-  text-shadow:4px 4px snow,
-              6px 6px #b0b0b0;
-  font-style:italic;
-  letter-spacing:2.8rem;
+  color: black;
+  text-shadow: 4px 4px snow, 6px 6px #b0b0b0;
+  font-style: italic;
+  letter-spacing: 2.8rem;
 }
 
 .uppercaseGray {
-  display:inline-block;
-  text-transform:uppercase;
-  text-shadow:none;
-  margin:3vh 0;
+  display: inline-block;
+  text-transform: uppercase;
+  text-shadow: none;
+  margin: 3vh 0;
 }
 
 .uppercaseBlack {
-  text-transform:uppercase;
+  text-transform: uppercase;
 }
 
 .storyMarquee {
   font-family: "lores-12-narrow", monospace;
-  font-size:3.4rem;
-  text-shadow:1px 1px black;
-  color:#b0b0b0;
-  text-align:right;
+  font-size: 3.4rem;
+  text-shadow: 1px 1px black;
+  color: #b0b0b0;
+  text-align: right;
   font-weight: 700;
-  letter-spacing:2px;
+  letter-spacing: 2px;
   margin: 2vh 21vw 8vh 0;
 }
 
 .storyMarqueeInner {
-  font-size:1.2rem;
+  font-size: 1.2rem;
   text-transform: uppercase;
 }
 
 .spacer {
-  margin-top:5vh;
+  margin-top: 5vh;
 }
 
 @media (max-width: 991.98px) {
-
   .title {
-    font-size:2.2rem;
+    font-size: 2.2rem;
   }
 
   .storyMarquee {
@@ -55,45 +52,36 @@
   }
 }
 
-@media (min-height: 767px) and (max-height:1181 px) and (orientation: landscape) {
-
+@media (min-height: 767px) and (max-height: 1181 px) and (orientation: landscape) {
   .storyMarquee {
     margin: 3vh 22vw 8vh 0;
   }
-
- }
+}
 
 @media (max-width: 767.98px) {
-
- .title {
-   font-size:1rem;
- }
-
- .blackShadowWider {
-   color:black;
-   letter-spacing:1.3rem;
- }
-
- }
-
- @media (max-width: 413px) and (orientation:portrait) {
-
-   .storyMarquee {
-     font-size:3.1rem;
-     margin: 0 10vw 8vh 0;
-   }
-
+  .title {
+    font-size: 1rem;
   }
 
-  @media (max-width: 291px) and (orientation:portrait) {
+  .blackShadowWider {
+    color: black;
+    letter-spacing: 1.3rem;
+  }
+}
 
-    .blackShadow {
-      letter-spacing:1px;
-    }
+@media (max-width: 413px) and (orientation: portrait) {
+  .storyMarquee {
+    font-size: 3.1rem;
+    margin: 0 10vw 8vh 0;
+  }
+}
 
-    .blackShadowWider {
-      letter-spacing:9px;
-    }
+@media (max-width: 291px) and (orientation: portrait) {
+  .blackShadow {
+    letter-spacing: 1px;
+  }
 
-
-   }
+  .blackShadowWider {
+    letter-spacing: 9px;
+  }
+}
