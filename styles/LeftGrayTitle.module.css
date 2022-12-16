@@ -1,27 +1,22 @@
 .leftGrayTitle {
-  font-family:"lores-9-plus-wide-bold-alt", monospace;
-  color:#b0b0b0;
-  font-size:3.5rem;
-  text-shadow:2px 2px snow,
-              4px 4px #b0b0b0;
-  font-weight:400;
-  text-align:left;
-  text-transform:lowercase;
+  font-family: "lores-9-plus-wide-bold-alt", monospace;
+  color: #b0b0b0;
+  font-size: 3.5rem;
+  text-shadow: 2px 2px snow, 4px 4px #b0b0b0;
+  font-weight: 400;
+  text-align: left;
+  text-transform: lowercase;
   margin: 14vh 0 14vh 7vw;
 }
 
 @media (max-width: 376px) {
-
   .leftGrayTitle {
-    font-size:3rem;
+    font-size: 3rem;
   }
-
- }
+}
 
 @media (max-width: 320px) {
-
   .leftGrayTitle {
-    font-size:2rem;
+    font-size: 2rem;
   }
-
- }
+}

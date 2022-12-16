@@ -1,36 +1,28 @@
 .centerBlackTitle {
-  font-family:"lores-9-plus-wide", monospace;
-  font-size:2.3rem;
-  font-weight:700;
-  text-align:center;
-  text-transform:lowercase;
-  letter-spacing:-0.02rem;
-  line-height:1.4em;
-  margin:7vh 0 7vh 0;
+  font-family: "lores-9-plus-wide", monospace;
+  font-size: 2.3rem;
+  font-weight: 700;
+  text-align: center;
+  text-transform: lowercase;
+  letter-spacing: -0.02rem;
+  line-height: 1.4em;
+  margin: 7vh 0 7vh 0;
 }
 
 @media (max-width: 767.98px) {
-
   .centerBlackTitle {
-    font-size:1.7rem;
+    font-size: 1.7rem;
   }
+}
 
- }
-
- @media (max-width: 428px) {
-
-   .centerBlackTitle {
-     font-size:1.4rem;
-   }
-
-
+@media (max-width: 428px) {
+  .centerBlackTitle {
+    font-size: 1.4rem;
   }
+}
 
-  @media (max-width: 281px) {
-
-    .centerBlackTitle {
-      font-size:1.1rem;
-    }
-
-
-   }
+@media (max-width: 281px) {
+  .centerBlackTitle {
+    font-size: 1.1rem;
+  }
+}

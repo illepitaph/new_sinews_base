@@ -1,27 +1,22 @@
 .centerGrayTitle {
-  font-family:"lores-9-plus-wide-bold-alt", monospace;
-  color:#b0b0b0;
-  font-size:3.5rem;
-  text-shadow:2px 2px snow,
-              4px 4px #b0b0b0;
-  font-weight:400;
-  text-align:center;
-  text-transform:lowercase;
+  font-family: "lores-9-plus-wide-bold-alt", monospace;
+  color: #b0b0b0;
+  font-size: 3.5rem;
+  text-shadow: 2px 2px snow, 4px 4px #b0b0b0;
+  font-weight: 400;
+  text-align: center;
+  text-transform: lowercase;
   margin: 14vh 0 14vh 0;
 }
 
 @media (max-width: 420px) {
-
   .centerGrayTitle {
-    font-size:2.4rem;
+    font-size: 2.4rem;
   }
-
- }
+}
 
 @media (max-width: 320px) {
-
   .centerGrayTitle {
-    font-size:2rem;
+    font-size: 2rem;
   }
-
- }
+}
