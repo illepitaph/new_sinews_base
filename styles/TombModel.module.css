@@ -1,383 +1,391 @@
 @keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-moz-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-webkit-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-o-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-ms-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 .container {
-  display:grid;
+  display: grid;
   place-items: center;
-  margin-bottom:6%;
+  margin-bottom: 6%;
 }
 
 .carousel {
-  position:relative;
-  display:flex;
-  flex-flow:row wrap;
-  justify-content:center;
-  align-items:center;
-  width:90%;
-  height:100vh;
-  margin:6% 0 6% 0;
-  background:
-    linear-gradient(to right, snow 1%, white 6%, whitesmoke 10%, #e8e8e8 12%, whitesmoke 17%, snow 20%,
-      whitesmoke 31%, white 41%, whitesmoke 51%, whitesmoke 71%,
-      snow 75%, #e2e2e2 88%, snow 94%, gainsboro 96%, whitesmoke 98%);
-  border-radius:30px;
+  position: relative;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+  height: 100vh;
+  margin: 6% 0 6% 0;
+  background: linear-gradient(
+    to right,
+    snow 1%,
+    white 6%,
+    whitesmoke 10%,
+    #e8e8e8 12%,
+    whitesmoke 17%,
+    snow 20%,
+    whitesmoke 31%,
+    white 41%,
+    whitesmoke 51%,
+    whitesmoke 71%,
+    snow 75%,
+    #e2e2e2 88%,
+    snow 94%,
+    gainsboro 96%,
+    whitesmoke 98%
+  );
+  border-radius: 30px;
   box-shadow: 20px 12px 5px gainsboro;
   animation: fadeIn ease-out 2s;
 }
 
 .carousel > .prev {
-  position:absolute;
+  position: absolute;
   z-index: 1;
-  top:10%;
-  left:-3%;
-  flex:5%;
-  height:5%;
-  display:grid;
-  place-items:center;
-  color:black;
-  text-shadow:2px 3px snow,
-             5px 5px red;
-  font-size:4rem;
-  font-weight:700;
-  letter-spacing:0.2rem;
-  cursor:pointer;
-  opacity:0.3;
+  top: 10%;
+  left: -3%;
+  flex: 5%;
+  height: 5%;
+  display: grid;
+  place-items: center;
+  color: black;
+  text-shadow: 2px 3px snow, 5px 5px red;
+  font-size: 4rem;
+  font-weight: 700;
+  letter-spacing: 0.2rem;
+  cursor: pointer;
+  opacity: 0.3;
 }
 
 .carousel > .next {
-  position:absolute;
-  z-index:1;
-  top:50%;
-  right:-3%;
-  flex:5%;
-  height:5%;
-  display:grid;
-  place-items:center;
-  color:#f2f2f2;
-  font-size:4rem;
-  font-weight:700;
-  text-shadow: 2px 2px red,
-                 4px 4px black;
-  letter-spacing:0.2rem;
-  cursor:pointer;
-  opacity:0.7;
+  position: absolute;
+  z-index: 1;
+  top: 50%;
+  right: -3%;
+  flex: 5%;
+  height: 5%;
+  display: grid;
+  place-items: center;
+  color: #f2f2f2;
+  font-size: 4rem;
+  font-weight: 700;
+  text-shadow: 2px 2px red, 4px 4px black;
+  letter-spacing: 0.2rem;
+  cursor: pointer;
+  opacity: 0.7;
 }
 
 .prev:hover {
-  font-size:4.2rem;
-  color:mintcream;
-  text-shadow: 2px 3px black,
-                4px 6px red;}
+  font-size: 4.2rem;
+  color: mintcream;
+  text-shadow: 2px 3px black, 4px 6px red;
+}
 
 .next:hover {
-  font-size:4.2rem;
-  color:#b0b0b0;
-  text-shadow:2px 2px snow,
-             3px 3px black;
+  font-size: 4.2rem;
+  color: #b0b0b0;
+  text-shadow: 2px 2px snow, 3px 3px black;
 }
 
 .arrows {
-  text-align:center;
-  letter-spacing:3vw;
-  font-size:2.6rem;
-  text-shadow:1px 1px snow,
-              2px 2px red;
+  text-align: center;
+  letter-spacing: 3vw;
+  font-size: 2.6rem;
+  text-shadow: 1px 1px snow, 2px 2px red;
 }
 
 .smallGalleryArrows {
-  text-shadow:1px 1px snow,
-              2px 2px red;
+  text-shadow: 1px 1px snow, 2px 2px red;
 }
 
 .link {
-    font-family:"lores-9-plus-wide", monospace;
-    font-size:2.3rem;
-    font-weight:700;
-    text-align:center;
-    text-transform:lowercase;
-    letter-spacing:-0.02rem;
-    line-height:1.4em;
-    margin:7vh 0 7vh 0;
-    text-shadow:2px 2px snow,
-                4px 4px #b0b0b0;
-    cursor:pointer;
-    opacity:0.6;
-  }
+  font-family: "lores-9-plus-wide", monospace;
+  font-size: 2.3rem;
+  font-weight: 700;
+  text-align: center;
+  text-transform: lowercase;
+  letter-spacing: -0.02rem;
+  line-height: 1.4em;
+  margin: 7vh 0 7vh 0;
+  text-shadow: 2px 2px snow, 4px 4px #b0b0b0;
+  cursor: pointer;
+  opacity: 0.6;
+}
 
 .link:hover {
-    color:black;
-    font-style:italic;
-    letter-spacing: 0.5rem;
-    text-shadow: none;
-    opacity:1;
-  }
+  color: black;
+  font-style: italic;
+  letter-spacing: 0.5rem;
+  text-shadow: none;
+  opacity: 1;
+}
 .grayShadow {
-  font-family:"lores-9-plus-wide", monospace;
-  text-shadow:1px 1px snow,
-              2px 2px #b0b0b0;
+  font-family: "lores-9-plus-wide", monospace;
+  text-shadow: 1px 1px snow, 2px 2px #b0b0b0;
 }
 
 .grayShadowSpecial {
-  font-size:2rem;
-  font-family:"lores-9-plus-wide", monospace;
-  text-shadow:1px 1px snow,
-              2px 2px #b0b0b0;
+  font-size: 2rem;
+  font-family: "lores-9-plus-wide", monospace;
+  text-shadow: 1px 1px snow, 2px 2px #b0b0b0;
 }
 
 .bigGrayShadow {
-  text-shadow:1px 1px snow,
-              2px 2px #b0b0b0;
+  text-shadow: 1px 1px snow, 2px 2px #b0b0b0;
 }
 
 .roughAltText {
-  font-size:2.6rem;
+  font-size: 2.6rem;
   font-family: "lores-9-wide", monospace;
-  color:#b0b0b0;
-  text-shadow:1px 1px snow,
-              2px 2px black;
+  color: #b0b0b0;
+  text-shadow: 1px 1px snow, 2px 2px black;
 }
 
 .roughAltTextTwo {
-  font-size:4.6rem;
+  font-size: 4.6rem;
   font-family: "lores-9-wide", monospace;
-  color:#b0b0b0;
-  text-shadow:1px 1px snow,
-              2px 2px black;
+  color: #b0b0b0;
+  text-shadow: 1px 1px snow, 2px 2px black;
 }
 
-@media (min-height:1279px) and (orientation:portrait) {
+@media (min-height: 1279px) and (orientation: portrait) {
   .carousel {
-    height:60vh;
+    height: 60vh;
   }
 
   .roughAltTextTwo {
-    font-size:3.2rem;
+    font-size: 3.2rem;
   }
-
 }
 
-@media (width:1024px) and (height:600px) and (orientation:landscape) {
+@media (width: 1024px) and (height: 600px) and (orientation: landscape) {
   .carousel {
-    height:180vh;
+    height: 180vh;
   }
-
 }
 
-@media (max-width:927px) and (orientation:landscape) {
+@media (max-width: 927px) and (orientation: landscape) {
   .carousel {
-    height:220vh;
+    height: 220vh;
   }
 
   .grayShadow {
-    font-size:1.1rem;
+    font-size: 1.1rem;
   }
 
-    .specialDateCitation {
-      font-size:1rem;
-    }
+  .specialDateCitation {
+    font-size: 1rem;
+  }
 
-    .roughAltText, .roughAltTextTwo {
-      font-size:2rem;
-    }
+  .roughAltText,
+  .roughAltTextTwo {
+    font-size: 2rem;
+  }
 
-    .roughAltTextTwo {
-      font-size:3rem;
-    }
+  .roughAltTextTwo {
+    font-size: 3rem;
+  }
 }
 
-@media (max-width:813px) and (orientation:landscape) {
+@media (max-width: 813px) and (orientation: landscape) {
+  .carousel > .prev {
+    top: 4%;
+  }
+}
+
+@media (min-width: 809px) and (orientation: portrait) {
+  .carousel {
+    height: 70vh;
+  }
+
+  .roughAltText,
+  .roughAltTextTwo {
+    font-size: 2rem;
+  }
+}
+
+@media (width: 800px) and (height: 1280px) and (orientation: portrait) {
+  .carousel {
+    height: 85vh;
+  }
+}
+
+@media (max-width: 769px) and (orientation: portrait) {
+  .roughAltTextTwo {
+    font-size: 3.2rem;
+  }
+}
+
+@media (max-width: 801px) and (orientation: landscape) {
+  .carousel {
+    height: 270vh;
+  }
+}
+
+@media (width: 540px) and (height: 720px) and (orientation: portrait) {
+  .carousel {
+    height: 190vh;
+  }
+
+  .grayShadowSpecial {
+    font-size: 1.8rem;
+  }
+
+  .roughAltTextTwo {
+    font-size: 2.2rem;
+  }
+
+  .specialDateCitation {
+    font-size: 0.8rem;
+  }
+}
+
+@media (max-width: 668px) and (orientation: landscape) {
+  .carousel {
+    height: 300vh;
+  }
+}
+
+@media (max-width: 429px) and (orientation: portrait) {
+  .link {
+    font-size: 2rem;
+  }
+
+  .carousel > .prev,
+  .carousel > .next {
+    font-size: 3rem;
+    letter-spacing: 0.2rem;
+  }
 
   .carousel > .prev {
-    top:4%;
+    top: 13%;
   }
 
-}
-
-@media (min-width:809px) and (orientation:portrait) {
-  .carousel {
-    height:70vh;
-  }
-
-  .roughAltText, .roughAltTextTwo {
-    font-size:2rem;
-  }
-
-}
-
-@media (width:800px) and (height:1280px) and (orientation:portrait) {
-  .carousel {
-    height:85vh;
-  }
-
-}
-
-@media (max-width:769px) and (orientation:portrait) {
-
-  .roughAltTextTwo {
-    font-size:3.2rem;
-  }
-
-}
-
-@media (max-width:801px) and (orientation:landscape) {
-  .carousel {
-    height:270vh;
-  }
-}
-
-@media (width:540px) and (height:720px) and (orientation:portrait) {
-
-  .carousel {
-    height:190vh;
-  }
-
-  .grayShadowSpecial {
-    font-size:1.8rem;
-  }
-
-  .roughAltTextTwo {
-    font-size:2.2rem;
-  }
-
-  .specialDateCitation {
-    font-size:0.8rem;
-  }
-
-}
-
-@media (max-width:668px) and (orientation:landscape) {
-  .carousel {
-    height:300vh;
-  }
-}
-
-@media (max-width:429px) and (orientation:portrait) {
-
-  .link {
-      font-size:2rem;
-    }
-
-    .carousel > .prev, .carousel > .next {
-      font-size:3rem;
-      letter-spacing:0.2rem;
-    }
-
-    .carousel > .prev {
-      top:13%;
-    }
-
-    .carousel > .next {
-      top:68%;
-    }
-
-    .grayShadow {
-      font-size:0.8rem;
-    }
-
-    .grayShadowSpecial {
-      font-size:1.4rem;
-    }
-
-    .roughAltText, .roughAltTextTwo {
-      font-size:1.7rem;
-    }
-
-    .specialDateCitation {
-      font-size:0.65rem;
-    }
-}
-
-@media (max-width:391px) and (orientation:portrait) {
-  .link {
-      font-size:1.9rem;
-    }
-
-    .specialDateCitation {
-      font-size:0.55rem;
-    }
-}
-
-@media (max-width:394px) and (orientation:portrait) {
-
-  .carousel {
-    height:140vh;
-  }
-
-}
-
-@media (max-width:376px) and (orientation:portrait) {
-
-  .carousel {
-    height:160vh;
-  }
-
-  .link {
-      font-size:1.7rem;
-    }
-
-    .grayShadowSpecial {
-      font-size:1.1rem;
-    }
-
-}
-
-@media (max-width:361px) and (orientation:portrait) {
-  .link {
-      font-size:1.5rem;
-    }
-}
-
-@media (max-width:281px) and (orientation:portrait) {
-
-  .carousel {
-    height:250vh;
+  .carousel > .next {
+    top: 68%;
   }
 
   .grayShadow {
-    font-size:0.6rem;
+    font-size: 0.8rem;
   }
 
   .grayShadowSpecial {
-    font-size:0.9rem;
+    font-size: 1.4rem;
   }
 
-  .roughAltText, .roughAltTextTwo {
-    font-size:1.3rem;
+  .roughAltText,
+  .roughAltTextTwo {
+    font-size: 1.7rem;
   }
 
   .specialDateCitation {
-    font-size:0.45rem;
+    font-size: 0.65rem;
   }
-
-
 }
 
-@media (max-height:281px) and (orientation:landscape) {
-
-  .carousel {
-    height:390vh;
+@media (max-width: 391px) and (orientation: portrait) {
+  .link {
+    font-size: 1.9rem;
   }
 
+  .specialDateCitation {
+    font-size: 0.55rem;
+  }
+}
+
+@media (max-width: 394px) and (orientation: portrait) {
+  .carousel {
+    height: 140vh;
+  }
+}
+
+@media (max-width: 376px) and (orientation: portrait) {
+  .carousel {
+    height: 160vh;
+  }
+
+  .link {
+    font-size: 1.7rem;
+  }
+
+  .grayShadowSpecial {
+    font-size: 1.1rem;
+  }
+}
+
+@media (max-width: 361px) and (orientation: portrait) {
+  .link {
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 281px) and (orientation: portrait) {
+  .carousel {
+    height: 250vh;
+  }
+
+  .grayShadow {
+    font-size: 0.6rem;
+  }
+
+  .grayShadowSpecial {
+    font-size: 0.9rem;
+  }
+
+  .roughAltText,
+  .roughAltTextTwo {
+    font-size: 1.3rem;
+  }
+
+  .specialDateCitation {
+    font-size: 0.45rem;
+  }
+}
+
+@media (max-height: 281px) and (orientation: landscape) {
+  .carousel {
+    height: 390vh;
+  }
 }
