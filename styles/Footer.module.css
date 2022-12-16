@@ -1,43 +1,39 @@
 .socialLinkFooter {
-  position:relative;
-  z-index:6;
-  height:18vh;
-  margin-top:22vh;
-  display:grid;
-  place-items:center;
-  font-size:1.7rem;
-
+  position: relative;
+  z-index: 6;
+  height: 18vh;
+  margin-top: 22vh;
+  display: grid;
+  place-items: center;
+  font-size: 1.7rem;
 }
 
 .socialLinkFooter > a {
-  color:#c8c8c8;
+  color: #c8c8c8;
   opacity: 1;
-  font-family:"lores-9-plus-wide", monospace;
-  text-decoration:none;
-  letter-spacing:0.09em;
-  text-shadow:1px 1px black;
+  font-family: "lores-9-plus-wide", monospace;
+  text-decoration: none;
+  letter-spacing: 0.09em;
+  text-shadow: 1px 1px black;
 }
 
 .socialLinkTag:visited {
-  text-decoration:none;
+  text-decoration: none;
 }
 
 .reddishText {
-  color:#c0a5a5;
+  color: #c0a5a5;
 }
 
 .socialLinkFooter > a:hover {
-  cursor:pointer;
-  color:#c8c8c8;
-  text-shadow:2px 2px snow, 5px 5px black;
-  letter-spacing:0.2rem;
+  cursor: pointer;
+  color: #c8c8c8;
+  text-shadow: 2px 2px snow, 5px 5px black;
+  letter-spacing: 0.2rem;
 }
 
-@media (max-width: 376px) and (orientation:portrait) {
-
+@media (max-width: 376px) and (orientation: portrait) {
   .socialLinkFooter {
-    font-size:1.2rem;
-
+    font-size: 1.2rem;
   }
-
- }
+}
