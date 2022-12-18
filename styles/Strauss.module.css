@@ -187,7 +187,7 @@
 
 @media (max-width: 429px) and (orientation: portrait) {
   .carousel {
-    height: 65vh;
+    height: 55vh;
   }
 
   .carousel > .prev {
@@ -199,14 +199,8 @@
 
   .carousel > .next {
     top: 55%;
-    right: -6%;
+    right: -1%;
     font-size: 2.5rem;
-  }
-}
-
-@media (max-width: 429px) and (orientation: portrait) {
-  .carousel {
-    height: 55vh;
   }
 }
 
