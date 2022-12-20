@@ -26,13 +26,25 @@
   line-height: 1.7em;
 }
 
-@media (width: 1024px) and (height: 768px) and (orientation: landscape) {
+@media (width: 1080px) and (height: 810px) {
   .specialLineation {
     font-size: 1rem;
   }
 }
 
-@media (width: 1024px) and (height: 600px) and (orientation: landscape) {
+@media (width: 1024px) and (height: 1366px) {
+  .specialLineation {
+    font-size: 1rem;
+  }
+}
+
+@media (width: 1024px) and (height: 768px) {
+  .specialLineation {
+    font-size: 1rem;
+  }
+}
+
+@media (width: 1024px) and (height: 600px) {
   .specialLineation {
     font-size: 1rem;
   }
