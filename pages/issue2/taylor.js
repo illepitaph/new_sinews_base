@@ -1,42 +1,60 @@
-import Head from 'next/head'
-import Header from '../../components/header.js'
-import LeftGrayTitle from '../../components/leftGrayTitle.js'
-import CenterBlackTitle from '../../components/centerBlackTitle.js'
-import StandardLineation from '../../components/standardLineation.js'
-import Footer from '../../components/footer.js'
-import styles from '../../styles/Taylor.module.css'
-Taylor.title = "sam_taylor ~ five_poems — new_sinews"
-Taylor.pieceName = "sam_taylor ~ five_poems — new_sinews"
-Taylor.description = "_Sam Taylor_5 poems_DANCING OF OUR OWN ERASURE+REVISION+RETURN+IF YOU FIND SOME SHARD+THE BOOK OF RUNES PART VI_new_sinews _issue2_"
-Taylor.image = "https://www.newnewsinews.com/images/TaylorBackground.jpg"
+import Head from "next/head";
+import Header from "../../components/header.js";
+import LeftGrayTitle from "../../components/leftGrayTitle.js";
+import CenterBlackTitle from "../../components/centerBlackTitle.js";
+import StandardLineation from "../../components/standardLineation.js";
+import Footer from "../../components/footer.js";
+import styles from "../../styles/Taylor.module.css";
+Taylor.title = "sam_taylor ~ five_poems — new_sinews";
+Taylor.pieceName = "sam_taylor ~ five_poems — new_sinews";
+Taylor.description =
+  "_Sam Taylor_5 poems_DANCING OF OUR OWN ERASURE+REVISION+RETURN+IF YOU FIND SOME SHARD+THE BOOK OF RUNES PART VI_new_sinews _issue2_";
+Taylor.image = "https://www.newnewsinews.com/images/TaylorBackground.jpg";
 
 export default function Taylor() {
   return (
-      <>
-          <Head/>
+    <>
+      <Head />
 
-       <Header headerBackground="taylorBackground"/>
-       <LeftGrayTitle>sa<span className={styles.mainShadow}><span
-         className={styles.uppercase}>m</span></span> <i><span
-           className={styles.uppercase}>t</span>a<span
-       className={styles.mainShadow}>y</span>l<span className={styles.inverse}>o</span><span
-         className={styles.uppercase}>r</span></i></LeftGrayTitle>
+      <Header headerBackground="taylorBackground" />
+      <LeftGrayTitle>
+        sa
+        <span className={styles.mainShadow}>
+          <span className={styles.uppercase}>m</span>
+        </span>{" "}
+        <i>
+          <span className={styles.uppercase}>t</span>a
+          <span className={styles.mainShadow}>y</span>l
+          <span className={styles.inverse}>o</span>
+          <span className={styles.uppercase}>r</span>
+        </i>
+      </LeftGrayTitle>
 
-       <CenterBlackTitle>[ <span
-         className={styles.mainShadow}>d<span
-           className={styles.uppercase}>a</span>nc<span
-         className={styles.inverse}><span
-           className={styles.uppercase}>i</span></span>n<span
-           className={styles.inverse}>g</span> o<span
-             className={styles.uppercase}>f</span> <span
-         className={styles.inverse}>o</span>ur <span
-         className={styles.inverse}>o</span>w<span
-           className={styles.uppercase}>n</span> <span
-             className={styles.uppercase}>e</span>ra<span
-           className={styles.mainShadow}><i>s</i></span>u<span
-             className={styles.inverse}><span
-               className={styles.uppercase}>re</span></span></span> ]</CenterBlackTitle>
-       <StandardLineation content={`
+      <CenterBlackTitle>
+        [{" "}
+        <span className={styles.mainShadow}>
+          d<span className={styles.uppercase}>a</span>nc
+          <span className={styles.inverse}>
+            <span className={styles.uppercase}>i</span>
+          </span>
+          n<span className={styles.inverse}>g</span> o
+          <span className={styles.uppercase}>f</span>{" "}
+          <span className={styles.inverse}>o</span>ur{" "}
+          <span className={styles.inverse}>o</span>w
+          <span className={styles.uppercase}>n</span>{" "}
+          <span className={styles.uppercase}>e</span>ra
+          <span className={styles.mainShadow}>
+            <i>s</i>
+          </span>
+          u
+          <span className={styles.inverse}>
+            <span className={styles.uppercase}>re</span>
+          </span>
+        </span>{" "}
+        ]
+      </CenterBlackTitle>
+      <StandardLineation
+        content={`
   And from the missing text of memory
   what words float up to hue the surface
   or are hauled by our wreck-divers back—splintered
@@ -84,15 +102,20 @@ export default function Taylor() {
   Story, strange and powerful, and jittery and true,
   and seeming somehow to be ours, or yours, or mine,
   while feeling quicker stole—lightning from the blue—
-         `}/>
+         `}
+      />
 
-    <CenterBlackTitle>[ r<span
-      className={styles.mainShadow}><span
-        className={styles.uppercase}>e</span></span>v<span
-        className={styles.inverse}>i</span><i>s</i>io<span
-          className={styles.mainShadow}>n</span> ]</CenterBlackTitle>
+      <CenterBlackTitle>
+        [ r
+        <span className={styles.mainShadow}>
+          <span className={styles.uppercase}>e</span>
+        </span>
+        v<span className={styles.inverse}>i</span>
+        <i>s</i>io<span className={styles.mainShadow}>n</span> ]
+      </CenterBlackTitle>
 
-    <StandardLineation content={`
+      <StandardLineation
+        content={`
       Those the last days I held
       only personal pain
       toeing the water’s edge
@@ -134,15 +157,23 @@ export default function Taylor() {
       Buildings like flames rising behind us
 
       Waves crashing around our metatarsals and arches
-      `}/>
+      `}
+      />
 
-      <CenterBlackTitle>[ r<span
-        className={styles.inverse}><span
-          className={styles.uppercase}>e</span></span><span className={styles.uppercase}>T</span>u<span
-          className={styles.mainShadow}><span className={styles.uppercase}>r</span></span><span
-            className={styles.uppercase}>n</span> ]</CenterBlackTitle>
+      <CenterBlackTitle>
+        [ r
+        <span className={styles.inverse}>
+          <span className={styles.uppercase}>e</span>
+        </span>
+        <span className={styles.uppercase}>T</span>u
+        <span className={styles.mainShadow}>
+          <span className={styles.uppercase}>r</span>
+        </span>
+        <span className={styles.uppercase}>n</span> ]
+      </CenterBlackTitle>
 
-      <StandardLineation content={`
+      <StandardLineation
+        content={`
         On days I didn’t go
         with her, across the border,
         I sat in a whirlpool, overcast
@@ -226,15 +257,20 @@ export default function Taylor() {
         California,
         but the bright maraschino cherry
         at the end of the world.
-        `}/>
+        `}
+      />
 
-        <CenterBlackTitle>[ if you <span
-          className={styles.uppercase}>find</span> some<br/> shard of lost <br/>knowledge <span
-          className={styles.uppercase}>write it
-          down</span>. if you <br/>find it written <br/>down, <span
-            className={styles.uppercase}>bury it</span> ]</CenterBlackTitle>
+      <CenterBlackTitle>
+        [ if you <span className={styles.uppercase}>find</span> some
+        <br /> shard of lost <br />
+        knowledge <span className={styles.uppercase}>write it down</span>. if
+        you <br />
+        find it written <br />
+        down, <span className={styles.uppercase}>bury it</span> ]
+      </CenterBlackTitle>
 
-          <StandardLineation content={`
+      <StandardLineation
+        content={`
             The oldest myth
             was this:
             the mother had a son
@@ -270,18 +306,23 @@ export default function Taylor() {
             In the original it is the mother
             who never
             dies.
-            `}/>
+            `}
+      />
 
-            <CenterBlackTitle>[ <span
-              className={styles.uppercase}>the</span> b<span
-              className={styles.mainShadow}>o</span>ok o<span
-                className={styles.uppercase}>f <span
-                className={styles.inverse}>r</span></span>unes, pa<span
-                  className={styles.uppercase}>r<span
-                  className={styles.inverse}>t</span></span> <span
-                  className={styles.uppercase}>VI</span> ]</CenterBlackTitle>
+      <CenterBlackTitle>
+        [ <span className={styles.uppercase}>the</span> b
+        <span className={styles.mainShadow}>o</span>ok o
+        <span className={styles.uppercase}>
+          f <span className={styles.inverse}>r</span>
+        </span>
+        unes, pa
+        <span className={styles.uppercase}>
+          r<span className={styles.inverse}>t</span>
+        </span>{" "}
+        <span className={styles.uppercase}>VI</span> ]
+      </CenterBlackTitle>
 
-            <pre className={styles.specialLineation}>{`
+      <pre className={styles.specialLineation}>{`
               All that is left now
               is this sentence
               of the doorway
@@ -344,8 +385,7 @@ export default function Taylor() {
                They?
               `}</pre>
 
-
-       <Footer/>
-         </>
-     )
-   }
+      <Footer />
+    </>
+  );
+}
