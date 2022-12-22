@@ -1,137 +1,162 @@
 @keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-moz-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-webkit-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-o-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-ms-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 .container {
-  display:grid;
+  display: grid;
   place-items: center;
-  margin-bottom:6%;
+  margin-bottom: 6%;
 }
 
 .carousel {
-  position:relative;
-  display:flex;
-  flex-flow:row wrap;
-  justify-content:center;
-  align-items:center;
-  width:90%;
-  height:75vh;
-  margin:6% 0 6% 0;
-  background:linear-gradient(to top right, white 2%, darkgray 3%, #f2f2f2 4%, snow 6%, white 11%,
-    whitesmoke 22%, white 25%, whitesmoke 35%, white 51%, whitesmoke 55%, snow 75%,
-    #e2e2e2 91%, dimgray 94%, white 96%);
-  border-radius:30px;
+  position: relative;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+  height: 75vh;
+  margin: 6% 0 6% 0;
+  background: linear-gradient(
+    to top right,
+    white 2%,
+    darkgray 3%,
+    #f2f2f2 4%,
+    snow 6%,
+    white 11%,
+    whitesmoke 22%,
+    white 25%,
+    whitesmoke 35%,
+    white 51%,
+    whitesmoke 55%,
+    snow 75%,
+    #e2e2e2 91%,
+    dimgray 94%,
+    white 96%
+  );
+  border-radius: 30px;
   box-shadow: 20px 10px 5px #e2e2e2;
   animation: fadeIn ease-out 2s;
 }
 
 .carousel > .prev {
-  position:absolute;
+  position: absolute;
   z-index: 1;
-  top:30%;
-  left:-3%;
-  flex:5%;
-  height:5%;
-  display:grid;
-  place-items:center;
-  font-size:4rem;
-  font-weight:700;
-  color:#e2e2e2;
+  top: 30%;
+  left: -3%;
+  flex: 5%;
+  height: 5%;
+  display: grid;
+  place-items: center;
+  font-size: 4rem;
+  font-weight: 700;
+  color: #e2e2e2;
   text-shadow: 2px 2px #d10000;
-  letter-spacing:0.2rem;
-  cursor:pointer;
-  opacity:0.7;
+  letter-spacing: 0.2rem;
+  cursor: pointer;
+  opacity: 0.7;
 }
 
 .carousel > .next {
-  position:absolute;
-  z-index:1;
-  top:70%;
-  right:-3%;
-  flex:5%;
-  height:5%;
-  display:grid;
-  place-items:center;
-  font-size:4rem;
-  font-weight:700;
-  color:silver;
+  position: absolute;
+  z-index: 1;
+  top: 70%;
+  right: -3%;
+  flex: 5%;
+  height: 5%;
+  display: grid;
+  place-items: center;
+  font-size: 4rem;
+  font-weight: 700;
+  color: silver;
   text-shadow: 2px 2px #d10000;
-  letter-spacing:0.2rem;
-  cursor:pointer;
-  opacity:0.7;
+  letter-spacing: 0.2rem;
+  cursor: pointer;
+  opacity: 0.7;
 }
 
 .prev:hover {
-  font-size:4.2rem;
-  color:#d10000;
-  text-shadow:3px 3px #e2e2e2;
-  opacity:0.7;
+  font-size: 4.2rem;
+  color: #d10000;
+  text-shadow: 3px 3px #e2e2e2;
+  opacity: 0.7;
 }
 
 .next:hover {
-  font-size:4.2rem;
-  color:#d10000;
-  text-shadow:3px 3px #b0b0b0;
-  opacity:0.5;
-
+  font-size: 4.2rem;
+  color: #d10000;
+  text-shadow: 3px 3px #b0b0b0;
+  opacity: 0.5;
 }
 
 .grayShadow {
-  text-shadow:2px 2px snow,
-              4px 4px #b0b0b0;
+  text-shadow: 2px 2px snow, 4px 4px #b0b0b0;
   animation: fadeIn ease-out 1.3s;
 }
 
 .blackShadow {
-  text-shadow:2px 2px snow,
-              4px 4px black;
+  text-shadow: 2px 2px snow, 4px 4px black;
   animation: fadeIn ease-out 1.3s;
 }
 
 @media (max-width: 991.98px) {
-
   .carousel > .prev {
-    font-size:3rem;
+    font-size: 3rem;
   }
 
   .carousel > .next {
-    font-size:3rem;
+    font-size: 3rem;
+  }
+}
+
+@media (max-width: 914px) and (orientation: portrait) {
+  .carousel {
+    height: 40vh;
   }
 
-
- }
-
- @media (max-width: 914px) and (orientation:portrait) {
-
-   .carousel {
-     height:40vh;
-   }
-
-   .carousel > .prev {
-     letter-spacing:0;
-     top:10%;
-   }
-
-
+  .carousel > .prev {
+    letter-spacing: 0;
+    top: 10%;
   }
+}
