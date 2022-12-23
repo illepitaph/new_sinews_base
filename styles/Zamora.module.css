@@ -140,6 +140,54 @@
   animation: fadeIn ease-out 1.3s;
 }
 
+@media (width:1366px) and (height:1024px) {
+
+  .carousel {
+    width:75%; 
+  }
+
+  .carousel > .next {
+    right: 6%;
+  }
+
+}
+
+@media (width:1194px) and (height:834px) {
+
+  .carousel {
+    width:75%; 
+  }
+
+  .carousel > .next {
+    right: 6%;
+  }
+
+}
+
+@media (width:1180px) and (height:820px) {
+
+  .carousel {
+    width:75%; 
+  }
+
+  .carousel > .next {
+    right: 6%;
+  }
+
+}
+
+@media (width:1080px) and (height:810px) {
+
+  .carousel {
+    width:75%; 
+  }
+
+  .carousel > .next {
+    right: 6%;
+  }
+
+}
+
 @media (max-width: 991.98px) {
   .carousel > .prev {
     font-size: 3rem;
