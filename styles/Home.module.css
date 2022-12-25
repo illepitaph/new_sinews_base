@@ -1,31 +1,50 @@
 @keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-moz-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-webkit-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-o-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-ms-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
-
 .top {
-  height:190vh;
+  height: 190vh;
   background: linear-gradient(
       to bottom,
       rgba(32, 32, 32, 1),
@@ -36,118 +55,120 @@
       rgba(32, 32, 32, 1)
     ),
     url("../public/images/ArchNewSinew.jpg") fixed;
-  overflow:hidden;
+  overflow: hidden;
   background-size: cover;
   background-position: center;
-  font-size:1rem;
+  font-size: 1rem;
   animation: fadeIn ease-in 0.4s;
 }
 
 .iconPlusSitebar {
-  display:flex;
-  justify-content:space-between;
+  display: flex;
+  justify-content: space-between;
 }
 
 .iconImage {
-  background-image:url("../public/images/newSinewsIcon.jpg");
-  background-repeat:no-repeat;
-  background-position:center;
-  background-size:contain;
-  width:25vw;
-  height:35vh;
-  margin:12vh 0 0 2vw;
-  cursor:pointer;
-  opacity:0.5;
-  transition:2s opacity;
+  background-image: url("../public/images/newSinewsIcon.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  width: 25vw;
+  height: 35vh;
+  margin: 12vh 0 0 2vw;
+  cursor: pointer;
+  opacity: 0.5;
+  transition: 2s opacity;
 }
 
 .iconImage:hover {
-  opacity:0.1;
+  opacity: 0.1;
 }
 
 .siteNav {
-  align-self:center;
-  display:inline-flex;
-  justify-content:flex-end;
-  margin-right:11%;
+  align-self: center;
+  display: inline-flex;
+  justify-content: flex-end;
+  margin-right: 11%;
 }
 
 .dropDown {
-  position:relative;
+  position: relative;
 }
 
-.siteNav > .dropDown > button, .about {
-  border:none;
-  font-family:"lores-9-plus-narrow", monospace;
+.siteNav > .dropDown > button,
+.about {
+  border: none;
+  font-family: "lores-9-plus-narrow", monospace;
   font-size: 0.9rem;
-  background-color:#b0b0b0;
-  color:snow;
+  background-color: #b0b0b0;
+  color: snow;
   opacity: 0.8;
-  padding:12px 19px;
-  border-radius:45px;
-  text-transform:lowercase;
-  letter-spacing:1.5px;
-  cursor:pointer;
-  transition:1.2s background-color;
+  padding: 12px 19px;
+  border-radius: 45px;
+  text-transform: lowercase;
+  letter-spacing: 1.5px;
+  cursor: pointer;
+  transition: 1.2s background-color;
 }
 
 .siteNav > .dropDown > button {
-  margin-right:3px;
+  margin-right: 3px;
 }
 
 .issueContentClosed {
-    display: none;
-    position: absolute;
-    z-index: 99;
-    box-shadow: 4px 8px 26px black;
-    cursor:pointer;
+  display: none;
+  position: absolute;
+  z-index: 99;
+  box-shadow: 4px 8px 26px black;
+  cursor: pointer;
 }
 
-.siteNav > .dropDown > button:hover, .about:hover {
-  background-color:black;
-  color:white;
+.siteNav > .dropDown > button:hover,
+.about:hover {
+  background-color: black;
+  color: white;
 }
 
 .issueContentOpen {
   display: flex;
   flex-flow: column wrap;
   position: absolute;
-  min-width:25vw;
+  min-width: 25vw;
 }
 
 .issueContentOpen > button {
-  border:4px double #b0b0b0;
-  font-family:"lores-9-plus-narrow", monospace;
+  border: 4px double #b0b0b0;
+  font-family: "lores-9-plus-narrow", monospace;
   font-size: 0.8rem;
-  background-color:black;
-  color:snow;
+  background-color: black;
+  color: snow;
   opacity: 0.9;
-  padding:6px 16px;
+  padding: 6px 16px;
   text-align: left;
-  text-transform:lowercase;
-  letter-spacing:1.5px;
-  cursor:pointer;
-  z-index:99;
+  text-transform: lowercase;
+  letter-spacing: 1.5px;
+  cursor: pointer;
+  z-index: 99;
 }
 
 .issueContentOpen > button:hover {
-  background-color:snow;
-  color:black;
+  background-color: snow;
+  color: black;
   text-transform: uppercase;
 }
 
 .graffiti {
-  position:sticky;
-  font-family:"lores-9-plus-wide-bold-alt", monospace;
-  font-size:2.4rem;
-  text-transform:lowercase;
-  color:whitesmoke;
-  text-shadow:1px 1px 19px white, 3px 3px 19px #b0b0b0;
-  margin:19% 0 0 14%;
+  position: sticky;
+  font-family: "lores-9-plus-wide-bold-alt", monospace;
+  font-size: 2.4rem;
+  text-transform: lowercase;
+  color: whitesmoke;
+  text-shadow: 1px 1px 19px white, 3px 3px 19px #b0b0b0;
+  margin: 19% 0 0 14%;
 }
 
 .middle {
-  background:linear-gradient(
+  background: linear-gradient(
       to bottom,
       rgba(32, 32, 32, 1),
       rgba(32, 32, 32, 0.84) 25%,
@@ -156,290 +177,246 @@
       rgba(32, 32, 32, 0.84) 90%,
       rgba(32, 32, 32, 1)
     ),
-  url("../public/images/ArchNewSinew.jpg") repeat fixed;
+    url("../public/images/ArchNewSinew.jpg") repeat fixed;
   background-size: cover;
   background-position: center;
 }
 
 .marquee {
-  padding:12vh 0;
-  margin-left:6%;
+  padding: 12vh 0;
+  margin-left: 6%;
 }
 
 .lightTypeface {
-  font-family:"lores-9-plus-wide-bold-alt", monospace;
-  color:#b0b0b0;
+  font-family: "lores-9-plus-wide-bold-alt", monospace;
+  color: #b0b0b0;
   opacity: 1;
-  font-size:3.5rem;
+  font-size: 3.5rem;
   text-shadow: 2px 3px snow, 4px 5px black, 6px 7px 15px gainsboro;
-  font-weight:400;
-  text-transform:lowercase;
+  font-weight: 400;
+  text-transform: lowercase;
 }
 
 .snowTypeface {
-  font-family:"lores-9-plus-narrow", monospace;
-  color:snow;
-  font-size:3.3rem;
-  font-weight:700;
-  text-transform:uppercase;
-  line-height:6.5rem;
-  letter-spacing:0.2rem;
+  font-family: "lores-9-plus-narrow", monospace;
+  color: snow;
+  font-size: 3.3rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  line-height: 6.5rem;
+  letter-spacing: 0.2rem;
 }
 
 .bottom {
-    height:160vh;
-    background: url("../public/images/ArchNewSinew.jpg") repeat fixed;
-    background-size: cover;
-    background-position: center;
-    filter: drop-shadow(1px 1px snow) invert(75%);
+  height: 160vh;
+  background: url("../public/images/ArchNewSinew.jpg") repeat fixed;
+  background-size: cover;
+  background-position: center;
+  filter: drop-shadow(1px 1px snow) invert(75%);
 }
 
-@media (width:1024px) and (height:1366px) {
-
+@media (width: 1024px) and (height: 1366px) {
   .iconImage {
-    width:25vw;
-    height:25vh;
-    margin-top:9vh;
-    margin-left:5vw;
-    opacity:0.7;
+    width: 25vw;
+    height: 25vh;
+    margin-top: 9vh;
+    margin-left: 5vw;
+    opacity: 0.7;
   }
 
   .siteNav {
-    align-self:center;
-    display:inline-flex;
-    justify-content:flex-end;
-    margin-right:2%;
+    align-self: center;
+    display: inline-flex;
+    justify-content: flex-end;
+    margin-right: 2%;
   }
 
   .graffiti {
-    margin:19% 0 0 1%;
+    margin: 19% 0 0 1%;
   }
-
-
 }
 
-@media (width:1024px) and (height:768px) and (orientation:landscape) {
-
+@media (width: 1024px) and (height: 768px) and (orientation: landscape) {
   .graffiti {
-    margin:19% 0 0 1%;
+    margin: 19% 0 0 1%;
   }
 
   .siteNav {
-    margin-right:2%;
+    margin-right: 2%;
   }
-
-
 }
 
-@media (width:1024px) and (height:600px) and (orientation:landscape) {
-
+@media (width: 1024px) and (height: 600px) and (orientation: landscape) {
   .graffiti {
-    margin:19% 0 0 1%;
+    margin: 19% 0 0 1%;
   }
 
   .siteNav {
-    margin-right:2%;
+    margin-right: 2%;
   }
-
-
 }
 
 @media (max-width: 991.98px) {
-
   .top {
-    background-size:cover;
-    background-position:center;
+    background-size: cover;
+    background-position: center;
   }
 
   .siteNav {
-    align-self:center;
-    display:inline-flex;
-    flex-flow:column wrap;
-    justify-content:flex-end;
-    margin:7vh 6vw 0 0 ;
+    align-self: center;
+    display: inline-flex;
+    flex-flow: column wrap;
+    justify-content: flex-end;
+    margin: 7vh 6vw 0 0;
   }
 
-  .siteNav > .dropDown > button, .home, .about {
-    width:6rem;
-    font-size:0.8rem;
-    margin-bottom:2vh;
-    padding:9px 16px;
-    opacity:0.9;
+  .siteNav > .dropDown > button,
+  .home,
+  .about {
+    width: 6rem;
+    font-size: 0.8rem;
+    margin-bottom: 2vh;
+    padding: 9px 16px;
+    opacity: 0.9;
   }
 
   .issueContentOpen {
     display: none;
   }
-
 }
 
-@media (max-width: 927px) and (orientation:landscape) {
-
+@media (max-width: 927px) and (orientation: landscape) {
   .iconImage {
-    width:55vw;
-    height:55vh;
-    margin-left:1vw;
+    width: 55vw;
+    height: 55vh;
+    margin-left: 1vw;
   }
 
   .siteNav {
-    margin-right:25%;
+    margin-right: 25%;
   }
 
   .graffiti {
-    font-size:2rem;
-    margin:5% 0 0 2%;
+    font-size: 2rem;
+    margin: 5% 0 0 2%;
   }
-
-
 }
 
-@media (max-width: 913px) and (orientation:portrait) {
-
+@media (max-width: 913px) and (orientation: portrait) {
   .iconImage {
-    width:40vw;
-    height:40vh;
-      margin:8vh 0 0 12vw;
-
+    width: 40vw;
+    height: 40vh;
+    margin: 8vh 0 0 12vw;
   }
 
   .top {
-    background-size:cover;
-    background-position:center;
-    height:100vh;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
   }
 
   .graffiti {
-    font-size:2rem;
-    margin:19% 0 0 0;
+    font-size: 2rem;
+    margin: 19% 0 0 0;
   }
-
-
 }
 
-@media (max-width: 854px) and (orientation:landscape) {
-
+@media (max-width: 854px) and (orientation: landscape) {
   .graffiti {
-    font-size:1.3rem;
+    font-size: 1.3rem;
   }
-
-
 }
 
-@media (max-width: 812px) and (orientation:landscape) {
-
-  .siteNav > .dropDown > button, .about {
-    padding:4px 8px;
-    margin-bottom:4vh;
-    opacity:0.8;
+@media (max-width: 812px) and (orientation: landscape) {
+  .siteNav > .dropDown > button,
+  .about {
+    padding: 4px 8px;
+    margin-bottom: 4vh;
+    opacity: 0.8;
   }
-
-
 }
 
-@media (max-width:721px) and (orientation:portrait) {
-
-
+@media (max-width: 721px) and (orientation: portrait) {
   .graffiti {
-    font-size:1.8rem;
+    font-size: 1.8rem;
   }
-
 }
 
-
-@media (max-width: 668px) and (orientation:landscape) {
-
-  .siteNav > .dropDown > button, .about {
-    padding:3px 7px;
-    margin-bottom:2vh;
+@media (max-width: 668px) and (orientation: landscape) {
+  .siteNav > .dropDown > button,
+  .about {
+    padding: 3px 7px;
+    margin-bottom: 2vh;
   }
-
-
 }
 
-
-
-@media (max-width:605px) and (orientation:portrait) {
-
-
+@media (max-width: 605px) and (orientation: portrait) {
   .graffiti {
-    font-size:1.3rem;
-    margin:16% 0 0 0;
+    font-size: 1.3rem;
+    margin: 16% 0 0 0;
   }
-
 }
 
-@media (max-width:481px) and (orientation:portrait) {
-
+@media (max-width: 481px) and (orientation: portrait) {
   .iconImage {
-    width:40vw;
-    height:40vh;
-      margin:8vh 0 0 12vw;
-
+    width: 40vw;
+    height: 40vh;
+    margin: 8vh 0 0 12vw;
   }
 
   .graffiti {
-    font-size:1rem;
-    font-weight:700;
+    font-size: 1rem;
+    font-weight: 700;
   }
 
   .lightTypeface {
-    font-size:1.7rem;
-    text-shadow:1px 1px black, 2px 2px white;
+    font-size: 1.7rem;
+    text-shadow: 1px 1px black, 2px 2px white;
   }
 
   .snowTypeface {
-    font-size:2.3rem;
+    font-size: 2.3rem;
   }
 
-  .siteNav > .dropDown > button, .about {
-    margin-top:2vh;
-    padding:4px 8px;
+  .siteNav > .dropDown > button,
+  .about {
+    margin-top: 2vh;
+    padding: 4px 8px;
   }
-
 }
 
-
-@media (max-width:391px) and (orientation:portrait) {
-
+@media (max-width: 391px) and (orientation: portrait) {
   .iconImage {
-    margin:11vh 0 0 12vw;
-
+    margin: 11vh 0 0 12vw;
   }
 
   .graffiti {
-    font-size:0.9rem;
+    font-size: 0.9rem;
   }
 
   .snowTypeface {
-    font-size:1.7rem;
+    font-size: 1.7rem;
   }
-
 }
 
-@media (max-width:321px) and (orientation:portrait) {
-
+@media (max-width: 321px) and (orientation: portrait) {
   .iconImage {
-    margin:7vh 0 0 12vw;
-
+    margin: 7vh 0 0 12vw;
   }
-
 
   .graffiti {
-    font-size:0.7rem;
-    margin:21% 0 0 0;
+    font-size: 0.7rem;
+    margin: 21% 0 0 0;
   }
 
-  .siteNav > .dropDown > button, .about {
-    margin-top:0;
+  .siteNav > .dropDown > button,
+  .about {
+    margin-top: 0;
   }
-
 }
 
-@media (max-height:321px) and (orientation:landscape) {
-
-
+@media (max-height: 321px) and (orientation: landscape) {
   .graffiti {
-    margin:5% 0 0 0;
+    margin: 5% 0 0 0;
   }
-
 }
