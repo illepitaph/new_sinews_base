@@ -1,221 +1,233 @@
 @keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-moz-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-webkit-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-o-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-ms-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 .container {
-  display:grid;
+  display: grid;
   place-items: center;
-  margin-bottom:6%;
+  margin-bottom: 6%;
 }
 
 .carousel {
-  position:relative;
-  display:flex;
-  flex-flow:row wrap;
-  justify-content:center;
-  align-items:center;
-  width:90%;
-  height:100vh;
-  margin:6% 0 6% 0;
-  background:
-    linear-gradient(to top, black 1%, white 3%, gainsboro 10%, #e8e8e8 12%, whitesmoke 17%, snow 20%,
-      whitesmoke 31%, white 41%, whitesmoke 51%, whitesmoke 71%,
-      snow 75%, #e2e2e2 88%, snow 94%, gainsboro 96%, whitesmoke 98%);
-  border-radius:30px;
+  position: relative;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+  height: 100vh;
+  margin: 6% 0 6% 0;
+  background: linear-gradient(
+    to top,
+    black 1%,
+    white 3%,
+    gainsboro 10%,
+    #e8e8e8 12%,
+    whitesmoke 17%,
+    snow 20%,
+    whitesmoke 31%,
+    white 41%,
+    whitesmoke 51%,
+    whitesmoke 71%,
+    snow 75%,
+    #e2e2e2 88%,
+    snow 94%,
+    gainsboro 96%,
+    whitesmoke 98%
+  );
+  border-radius: 30px;
   box-shadow: 20px 12px 5px #e2e2e2;
   animation: fadeIn ease-out 2s;
 }
 
 .carousel > .prev {
-  position:absolute;
+  position: absolute;
   z-index: 1;
-  top:20%;
-  left:-3%;
-  flex:5%;
-  height:5%;
-  display:grid;
-  place-items:center;
-  color:black;
-  text-shadow:2px 3px snow,
-             5px 5px red;
-  font-size:5rem;
-  font-weight:700;
-  letter-spacing:0.2rem;
-  cursor:pointer;
-  opacity:0.3;
+  top: 20%;
+  left: -3%;
+  flex: 5%;
+  height: 5%;
+  display: grid;
+  place-items: center;
+  color: black;
+  text-shadow: 2px 3px snow, 5px 5px red;
+  font-size: 5rem;
+  font-weight: 700;
+  letter-spacing: 0.2rem;
+  cursor: pointer;
+  opacity: 0.3;
 }
 
 .carousel > .next {
-  position:absolute;
-  z-index:1;
-  top:39%;
-  right:-3%;
-  flex:5%;
-  height:5%;
-  display:grid;
-  place-items:center;
-  color:red;
-  font-size:5rem;
-  font-weight:700;
-  text-shadow: 2px 2px #b0b0b0,
-                 4px 4px black;
-  letter-spacing:0.2rem;
-  cursor:pointer;
-  opacity:0.2;
+  position: absolute;
+  z-index: 1;
+  top: 39%;
+  right: -3%;
+  flex: 5%;
+  height: 5%;
+  display: grid;
+  place-items: center;
+  color: red;
+  font-size: 5rem;
+  font-weight: 700;
+  text-shadow: 2px 2px #b0b0b0, 4px 4px black;
+  letter-spacing: 0.2rem;
+  cursor: pointer;
+  opacity: 0.2;
 }
 
 .prev:hover {
-  font-size:5.2rem;
-  color:snow;
-  text-shadow: 2px 3px black,
-                4px 6px red;
+  font-size: 5.2rem;
+  color: snow;
+  text-shadow: 2px 3px black, 4px 6px red;
 }
 
 .next:hover {
-  font-size:5.2rem;
-  color:#b0b0b0;
-  text-shadow:3px 3px black;
+  font-size: 5.2rem;
+  color: #b0b0b0;
+  text-shadow: 3px 3px black;
 }
 
 .blackShadow {
-  font-size:3.7rem;
-  color:silver;
-  text-shadow:2px 2px whitesmoke,
-              4px 4px black;
+  font-size: 3.7rem;
+  color: silver;
+  text-shadow: 2px 2px whitesmoke, 4px 4px black;
   text-transform: uppercase;
-  letter-spacing:1.4rem;
-  line-height:5.4rem;
+  letter-spacing: 1.4rem;
+  line-height: 5.4rem;
   animation: fadeIn ease-out 1.3s;
 }
 
 .redShadow {
-  color:black;
-  text-shadow:4px 4px snow,
-              6px 6px red;
+  color: black;
+  text-shadow: 4px 4px snow, 6px 6px red;
   animation: fadeIn ease-out 1.3s;
 }
 
 .bigT {
-    font-size:3rem;
-    color:#b0b0b0;
-    font-family:"lores-9-plus-wide", monospace;
-    text-shadow:4px 4px snow,
-                6px 6px black;
-    text-align:center;
+  font-size: 3rem;
+  color: #b0b0b0;
+  font-family: "lores-9-plus-wide", monospace;
+  text-shadow: 4px 4px snow, 6px 6px black;
+  text-align: center;
 }
 
-@media (max-width:916px) and (orientation:landscape) {
-
+@media (max-width: 916px) and (orientation: landscape) {
   .carousel > .prev {
-  top:5%;
+    top: 5%;
+  }
 }
 
-}
-
-@media (max-width:855px) and (orientation:landscape) {
-
+@media (max-width: 855px) and (orientation: landscape) {
   .carousel {
-    height:110vh;
+    height: 110vh;
   }
 
   .carousel > .prev {
-  top:5%;
-}
-
-.blackShadow {
-  font-size:2.5rem;
-}
-
-}
-
-@media (width:540px) and (height:720px) and (orientation:portrait) {
-
+    top: 5%;
+  }
 
   .blackShadow {
-    font-size:2rem;
+    font-size: 2.5rem;
   }
-
 }
 
-@media (max-width:429px) and (orientation:portrait) {
+@media (width: 540px) and (height: 720px) and (orientation: portrait) {
+  .blackShadow {
+    font-size: 2rem;
+  }
+}
 
+@media (max-width: 429px) and (orientation: portrait) {
   .carousel {
-    height:60vh;
-    width:98%;
+    height: 60vh;
+    width: 98%;
   }
 
   .carousel > .prev {
-    font-size:3.2rem;
-    left:3%;
+    font-size: 3.2rem;
+    left: 3%;
   }
 
   .carousel > .next {
-    font-size:3.2rem;
-    right:3%;
+    font-size: 3.2rem;
+    right: 3%;
   }
 
   .blackShadow {
-    font-size:1.4rem;
-  }
-
-}
-
-@media (width:428px) and (height:926px) and (orientation:portrait) {
-
-  .carousel {
-    height:70vh;
+    font-size: 1.4rem;
   }
 }
 
-@media (max-width:391px) and (orientation:portrait) {
-
+@media (width: 428px) and (height: 926px) and (orientation: portrait) {
   .carousel {
-    height:70vh;
+    height: 70vh;
+  }
+}
+
+@media (max-width: 391px) and (orientation: portrait) {
+  .carousel {
+    height: 70vh;
   }
 
   .blackShadow {
-    font-size:1rem;
+    font-size: 1rem;
   }
-
 }
 
-@media (max-width:281px) and (orientation:portrait) {
-
+@media (max-width: 281px) and (orientation: portrait) {
   .carousel {
-    height:90vh;
+    height: 90vh;
   }
 
   .blackShadow {
-    font-size:1.9rem;
+    font-size: 1.9rem;
   }
-
 }
 
-@media (max-height:281px) and (orientation:landscape) {
-
+@media (max-height: 281px) and (orientation: landscape) {
   .carousel {
-    height:110vh;
+    height: 110vh;
   }
-
 }
