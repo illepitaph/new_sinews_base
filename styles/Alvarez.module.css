@@ -1,193 +1,169 @@
 .titleShadow {
-  text-shadow:2px 2px snow,
-              4px 4px black;
+  text-shadow: 2px 2px snow, 4px 4px black;
 }
 
 .inverseShadow {
-  color:black;
-  text-shadow:4px 4px snow,
-              6px 6px #b0b0b0;
+  color: black;
+  text-shadow: 4px 4px snow, 6px 6px #b0b0b0;
 }
 
 .titleShadowUppercase {
-  text-shadow:2px 2px snow,
-              4px 4px black;
-  text-transform:uppercase;
+  text-shadow: 2px 2px snow, 4px 4px black;
+  text-transform: uppercase;
 }
 
 .inverseShadowUppercase {
-  color:black;
-  text-shadow:4px 4px snow,
-              6px 6px #b0b0b0;
-  text-transform:uppercase;
+  color: black;
+  text-shadow: 4px 4px snow, 6px 6px #b0b0b0;
+  text-transform: uppercase;
 }
 
 .bigSeparator {
-  font-size:6rem;
-  opacity:0.5;
+  font-size: 6rem;
+  opacity: 0.5;
 }
-
 
 .dataBlood {
   font-family: "base-9-sans", sans-serif;
   font-weight: 300;
   font-style: normal;
-  font-size:1.2rem;
-  text-shadow:2px 2px gainsboro;
-  text-align:right;
-  letter-spacing:-0.02rem;
-  line-height:1.7em;
-  margin-right:7vw;
+  font-size: 1.2rem;
+  text-shadow: 2px 2px gainsboro;
+  text-align: right;
+  letter-spacing: -0.02rem;
+  line-height: 1.7em;
+  margin-right: 7vw;
 }
 
 .zeroProgress {
   font-family: "base-9-sans", sans-serif;
   font-weight: 300;
   font-style: normal;
-  font-size:1.2rem;
-  text-shadow:2px 2px gainsboro;
-  text-align:left;
-  letter-spacing:-0.02rem;
-  line-height:1.7em;
-  margin-left:7vw;
+  font-size: 1.2rem;
+  text-shadow: 2px 2px gainsboro;
+  text-align: left;
+  letter-spacing: -0.02rem;
+  line-height: 1.7em;
+  margin-left: 7vw;
 }
 
 .middleishLineation {
   font-family: "base-9-sans", sans-serif;
   font-weight: 300;
   font-style: normal;
-  font-size:1.2rem;
-  text-shadow:2px 2px gainsboro;
-  letter-spacing:-0.02rem;
-  line-height:1.7em;
-  margin-left:41vw;
+  font-size: 1.2rem;
+  text-shadow: 2px 2px gainsboro;
+  letter-spacing: -0.02rem;
+  line-height: 1.7em;
+  margin-left: 41vw;
 }
 
 .smallTextWall {
-  font-size:7rem;
-  letter-spacing:2.5vw;
-  text-shadow:2px 2px snow,
-              4px 4px #D10000;
+  font-size: 7rem;
+  letter-spacing: 2.5vw;
+  text-shadow: 2px 2px snow, 4px 4px #d10000;
 }
 
 .mediumTextWall {
-  font-size:8.5rem;
-  letter-spacing:2.5vw;
-  text-shadow:2px 2px snow,
-              4px 4px #D10000;
+  font-size: 8.5rem;
+  letter-spacing: 2.5vw;
+  text-shadow: 2px 2px snow, 4px 4px #d10000;
 }
 
 .largeTextWall {
-  font-size:9rem;
-  letter-spacing:2.5vw;
-  text-shadow:2px 2px snow,
-              4px 4px #D10000;
+  font-size: 9rem;
+  letter-spacing: 2.5vw;
+  text-shadow: 2px 2px snow, 4px 4px #d10000;
 }
 
 .extraLargeTextWall {
-  font-size:9.5rem;
-  letter-spacing:2.5vw;
-  text-shadow:2px 2px snow,
-              4px 4px #D10000;
+  font-size: 9.5rem;
+  letter-spacing: 2.5vw;
+  text-shadow: 2px 2px snow, 4px 4px #d10000;
 }
 
 .extraExtraLargeTextWall {
-  font-size:9.9rem;
-  letter-spacing:2.5vw;
-  text-shadow:2px 2px snow,
-              4px 4px #D10000;
+  font-size: 9.9rem;
+  letter-spacing: 2.5vw;
+  text-shadow: 2px 2px snow, 4px 4px #d10000;
 }
 
 .blackBackground {
-  background-color:black;
-  color:white;
-  text-shadow:none;
-
+  background-color: black;
+  color: white;
+  text-shadow: none;
 }
 
 .blackBackgroundSpecial {
-  display:inline-flex;
-  flex-flow:row wrap;
-  align-items:flex-end;
-  height:9.5rem;
-  font-size:1rem;
-  background-color:black;
-  color:white;
-  text-shadow:none;
-  letter-spacing:0.1rem;
-  padding-bottom:2.2rem;
-
+  display: inline-flex;
+  flex-flow: row wrap;
+  align-items: flex-end;
+  height: 9.5rem;
+  font-size: 1rem;
+  background-color: black;
+  color: white;
+  text-shadow: none;
+  letter-spacing: 0.1rem;
+  padding-bottom: 2.2rem;
 }
 
-
-@media (max-width: 927px) and (orientation:landscape) {
-
+@media (max-width: 927px) and (orientation: landscape) {
   .dataBlood {
-    margin-right:2vw;
+    margin-right: 2vw;
   }
 
   .zeroProgress {
-      margin-left:2vw;
-    }
-
+    margin-left: 2vw;
+  }
 }
 
-@media (max-width: 913px) and (orientation:portrait) {
-
+@media (max-width: 913px) and (orientation: portrait) {
   .dataBlood {
-    margin-right:2vw;
+    margin-right: 2vw;
   }
 
   .zeroProgress {
-    margin-left:2vw;
-    }
-
+    margin-left: 2vw;
+  }
 }
 
-@media (max-width: 667px) and (orientation:landscape) {
-
-  .dataBlood, .zeroProgress {
+@media (max-width: 667px) and (orientation: landscape) {
+  .dataBlood,
+  .zeroProgress {
     white-space: pre-line;
   }
 }
 
-@media (max-width: 541px) and (orientation:portrait) {
-
+@media (max-width: 541px) and (orientation: portrait) {
   .dataBlood {
-    font-size:1rem;
-    margin-right:2vw;
+    font-size: 1rem;
+    margin-right: 2vw;
     white-space: pre-line;
   }
 
   .zeroProgress {
-      font-size:1rem;
-      margin-left:2vw;
-      white-space: pre-line;
-    }
-
+    font-size: 1rem;
+    margin-left: 2vw;
+    white-space: pre-line;
+  }
 }
 
-@media (max-width: 415px) and (orientation:portrait) {
-
+@media (max-width: 415px) and (orientation: portrait) {
   .dataBlood {
-    margin-right:1vw;
+    margin-right: 1vw;
   }
 
   .zeroProgress {
-      margin-left:1vw;
-    }
-
+    margin-left: 1vw;
+  }
 }
 
-
-@media (max-width: 376px) and (orientation:portrait) {
-
+@media (max-width: 376px) and (orientation: portrait) {
   .dataBlood {
-      font-size:0.9rem;
+    font-size: 0.9rem;
   }
 
   .zeroProgress {
-      font-size:0.9rem;
-    }
-
+    font-size: 0.9rem;
+  }
 }

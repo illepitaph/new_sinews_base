@@ -1,37 +1,48 @@
-import Head from 'next/head'
-import Link from 'next/link'
-import Header from '../../components/header.js'
-import LeftGrayTitle from '../../components/leftGrayTitle.js'
-import RightBlackTitle from '../../components/rightBlackTitle.js'
-import Footer from '../../components/footer.js'
-import styles from '../../styles/Alvarez.module.css'
-Alvarez.title = "steven_alvarez ~ data | blood // zero progress silhouette — new_sinews"
-Alvarez.pieceName = "steven_alvarez ~ data | blood // zero progress silhouette — new_sinews"
-Alvarez.description = "Steven Alvarez_2 poems_DATA | BLOOD+ZERO PROGRESS SILHOUETTE_new_sinews_issue3_"
-Alvarez.image = "https://www.newnewsinews.com/images/AlvarezBackground.jpg"
+import Head from "next/head";
+import Link from "next/link";
+import Header from "../../components/header.js";
+import LeftGrayTitle from "../../components/leftGrayTitle.js";
+import RightBlackTitle from "../../components/rightBlackTitle.js";
+import Footer from "../../components/footer.js";
+import styles from "../../styles/Alvarez.module.css";
+Alvarez.title =
+  "steven_alvarez ~ data | blood // zero progress silhouette — new_sinews";
+Alvarez.pieceName =
+  "steven_alvarez ~ data | blood // zero progress silhouette — new_sinews";
+Alvarez.description =
+  "Steven Alvarez_2 poems_DATA | BLOOD+ZERO PROGRESS SILHOUETTE_new_sinews_issue3_";
+Alvarez.image = "https://www.newnewsinews.com/images/AlvarezBackground.jpg";
 
 export default function Alvarez() {
   return (
-      <>
-          <Head/>
+    <>
+      <Head />
 
-       <Header headerBackground="alvarezBackground"/>
+      <Header headerBackground="alvarezBackground" />
 
-       <RightBlackTitle><span className={styles.bareHeader}>... ...  steven<br/>... ... alvarez</span>
-       </RightBlackTitle>
+      <RightBlackTitle>
+        <span className={styles.bareHeader}>
+          ... ... steven
+          <br />
+          ... ... alvarez
+        </span>
+      </RightBlackTitle>
 
-        <LeftGrayTitle>_ <span className={styles.titleShadow}>d<span
-        className={styles.inverseShadow}>a</span><span
-        className={styles.titleShadowUppercase}>t</span><span
-        className={styles.inverseShadow}>a</span>   <span
-        className={styles.bigSeparator}>|</span>   <span
-        className={styles.inverseShadow}>b</span><span
-        className={styles.titleShadowUppercase}>l </span><span
-        className={styles.inverseShadow}>o</span>o<span
-        className={styles.inverseShadowUppercase}>  d _</span></span></LeftGrayTitle>
+      <LeftGrayTitle>
+        _{" "}
+        <span className={styles.titleShadow}>
+          d<span className={styles.inverseShadow}>a</span>
+          <span className={styles.titleShadowUppercase}>t</span>
+          <span className={styles.inverseShadow}>a</span>{" "}
+          <span className={styles.bigSeparator}>|</span>{" "}
+          <span className={styles.inverseShadow}>b</span>
+          <span className={styles.titleShadowUppercase}>l </span>
+          <span className={styles.inverseShadow}>o</span>o
+          <span className={styles.inverseShadowUppercase}> d _</span>
+        </span>
+      </LeftGrayTitle>
 
-
-<pre className={styles.dataBlood}>{`you
+      <pre className={styles.dataBlood}>{`you
 just hungry for this duel that’s
  going to
  fun welcome to | system | & reveal
@@ -171,19 +182,22 @@ datablood can be on Polis •’s streets two
 days after its produced here | longer | reminiscent of
 | for Polis • when | datablood has emerged as a lucrative | GO |`}</pre>
 
-<LeftGrayTitle><span
-className={styles.inverseShadow}>_ </span>z<span className={styles.titleShadow}>e<span
-className={styles.inverseShadow}>ro </span>_ p<span
-className={styles.inverseShadow}>ro</span>   g   <span
-className={styles.inverseShadow}>r</span>es <span
-className={styles.inverseShadow}>s _</span>  <br/> s<span
-className={styles.inverseShadow}> i</span>l<span
-className={styles.inverseShadow}>  h</span>ou</span><span
-className={styles.inverseShadow}>  e</span>t<span
-className={styles.inverseShadow}>  t</span>e<span
-className={styles.inverseShadow}>  </span>_</LeftGrayTitle>
+      <LeftGrayTitle>
+        <span className={styles.inverseShadow}>_ </span>z
+        <span className={styles.titleShadow}>
+          e<span className={styles.inverseShadow}>ro </span>_ p
+          <span className={styles.inverseShadow}>ro</span> g{" "}
+          <span className={styles.inverseShadow}>r</span>es{" "}
+          <span className={styles.inverseShadow}>s _</span> <br /> s
+          <span className={styles.inverseShadow}> i</span>l
+          <span className={styles.inverseShadow}> h</span>ou
+        </span>
+        <span className={styles.inverseShadow}> e</span>t
+        <span className={styles.inverseShadow}> t</span>e
+        <span className={styles.inverseShadow}> </span>_
+      </LeftGrayTitle>
 
-<pre className={styles.zeroProgress}>{`funny first run old map
+      <pre className={styles.zeroProgress}>{`funny first run old map
 you know—O—needs w. you
 you know—we’ve met yes—yes
 yeah—yeah—listen—yes—here
@@ -300,8 +314,7 @@ one reason it is that easy—yesterday—
 the good—must eat—the share—which
 too serious—either on—the business`}</pre>
 
-                     <Footer/>
-
-                       </>
-                   )
-                 }
+      <Footer />
+    </>
+  );
+}
