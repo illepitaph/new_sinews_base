@@ -16,7 +16,7 @@ export default function Issue3Bios() {
       <Head />
 
       <Header />
-
+      <span className={styles.topMargin}></span>
       <CenterBlackTitle>new_sinews</CenterBlackTitle>
       <CenterGrayTitle>
         <span className={styles.magicMint}>issue_3</span>
