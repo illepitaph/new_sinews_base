@@ -49,7 +49,7 @@
   }
 }
 
-@media (max-width: 659px) and (orientation: landscape) {
+@media (max-width: 761px) and (orientation: landscape) {
   .topMargin {
     display:inline-block;
     margin-top:18vh;
