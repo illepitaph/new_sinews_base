@@ -180,6 +180,13 @@
   text-shadow: 1px 1px white, 4px 4px gainsboro;
 }
 
+@media (width: 834px) and (height:1194px) {
+
+  .diagramText {
+    font-size: 1rem;
+  }
+}
+
 @media (max-width: 927px) and (orientation: landscape) {
   .carousel {
     height: 105vh;
