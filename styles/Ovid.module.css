@@ -273,11 +273,13 @@
   }
 
   .carousel > .prev {
+    left:0;
     font-size: 3rem;
     top: 85%;
   }
 
   .carousel > .next {
+    right:0;
     font-size: 3rem;
     top: -7%;
   }
