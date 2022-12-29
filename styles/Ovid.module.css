@@ -322,6 +322,13 @@
   }
 }
 
+@media (max-width: 321px) and (orientation: portrait) {
+
+  .diagramText {
+    font-size: 0.37rem;
+  }
+}
+
 @media (max-width: 281px) and (orientation: portrait) {
   .carousel {
     height: 120vh;
