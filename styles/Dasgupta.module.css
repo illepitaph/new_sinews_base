@@ -1,28 +1,23 @@
 .titleShadow {
-  text-shadow:2px 2px snow,
-              4px 4px black;
-  margin-left:8px;
+  text-shadow: 2px 2px snow, 4px 4px black;
+  margin-left: 8px;
 }
 
 .titleShadowUppercase {
-  text-shadow:2px 2px snow,
-              4px 4px black;
-  text-transform:uppercase;
-  margin-left:3px;
+  text-shadow: 2px 2px snow, 4px 4px black;
+  text-transform: uppercase;
+  margin-left: 3px;
 }
 
-
 .inverseTitleShadow {
-  color:black;
-  text-shadow:4px 4px snow,
-              6px 6px #b0b0b0;
-  margin-left:5px;
+  color: black;
+  text-shadow: 4px 4px snow, 6px 6px #b0b0b0;
+  margin-left: 5px;
 }
 
 .inverseTitleShadowUppercase {
-  color:black;
-  text-shadow:4px 4px snow,
-              6px 6px #b0b0b0;
-  text-transform:uppercase;
-  margin-left:15px;
+  color: black;
+  text-shadow: 4px 4px snow, 6px 6px #b0b0b0;
+  text-transform: uppercase;
+  margin-left: 15px;
 }
