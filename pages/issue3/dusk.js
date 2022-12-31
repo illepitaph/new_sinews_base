@@ -1,35 +1,40 @@
-import Head from 'next/head'
-import Header from '../../components/header.js'
-import LeftGrayTitle from '../../components/leftGrayTitle.js'
-import RightGrayTitle from '../../components/rightGrayTitle.js'
-import Footer from '../../components/footer.js'
-import styles from '../../styles/Dusk.module.css'
-Dusk.title = "vi_khi_nao ~ retrieve_the_dusk — new_sinews"
-Dusk.pieceName = "vi_khi_nao ~ retrieve_the_dusk — new_sinews"
-Dusk.description = "_Vi Khi Nao_poetry_RETRIEVE THE DUSK_new_sinews_issue3_"
-Dusk.image = "https://www.newnewsinews.com/images/DuskBackground.jpg"
+import Head from "next/head";
+import Header from "../../components/header.js";
+import LeftGrayTitle from "../../components/leftGrayTitle.js";
+import RightGrayTitle from "../../components/rightGrayTitle.js";
+import Footer from "../../components/footer.js";
+import styles from "../../styles/Dusk.module.css";
+Dusk.title = "vi_khi_nao ~ retrieve_the_dusk — new_sinews";
+Dusk.pieceName = "vi_khi_nao ~ retrieve_the_dusk — new_sinews";
+Dusk.description = "_Vi Khi Nao_poetry_RETRIEVE THE DUSK_new_sinews_issue3_";
+Dusk.image = "https://www.newnewsinews.com/images/DuskBackground.jpg";
 
 export default function Dusk() {
   return (
-      <>
-          <Head/>
+    <>
+      <Head />
 
-       <Header headerBackground="duskBackground"/>
+      <Header headerBackground="duskBackground" />
 
+      <LeftGrayTitle>
+        <span className={styles.duskShadow}>
+          Ret<span className={styles.inverse}>r</span>iev
+          <span className={styles.inverse}>e</span> T
+          <span className={styles.inverse}>h</span>e D
+          <span className={styles.inverse}>u</span>s
+          <span className={styles.inverse}>k</span>
+        </span>
+      </LeftGrayTitle>
 
-        <LeftGrayTitle><span className={styles.duskShadow}>Ret<span
-        className={styles.inverse}>r</span>iev<span
-        className={styles.inverse}>e</span> T<span
-        className={styles.inverse}>h</span>e D<span
-        className={styles.inverse}>u</span>s<span
-        className={styles.inverse}>k</span></span></LeftGrayTitle>
+      <RightGrayTitle>
+        <span className={styles.bareHeader}>
+          ——vi khi
+          <br />
+          nao
+        </span>
+      </RightGrayTitle>
 
-
-        <RightGrayTitle><span className={styles.bareHeader}>——vi khi<br/>nao</span>
-        </RightGrayTitle>
-
-
-        <pre className={styles.duskLineation}>{`
+      <pre className={styles.duskLineation}>{`
 
   1.
   They all met in the café.
@@ -241,8 +246,9 @@ export default function Dusk() {
 
   “Now all I can do is breathe like the vegetables in the garden. I have a physical longing for you.”`}</pre>
 
-  <br/><p className={styles.italAnomaly}>The Land of Green Plums.</p><pre
-  className={styles.duskLineation}>{`
+      <br />
+      <p className={styles.italAnomaly}>The Land of Green Plums.</p>
+      <pre className={styles.duskLineation}>{`
 
 
   6.
@@ -304,8 +310,7 @@ export default function Dusk() {
 
           `}</pre>
 
-                     <Footer/>
-
-                       </>
-                   )
-                 }
+      <Footer />
+    </>
+  );
+}

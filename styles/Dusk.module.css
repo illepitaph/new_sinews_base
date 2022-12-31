@@ -1,92 +1,86 @@
 .duskShadow {
-  font-style:italic;
-  text-shadow:2px 2px snow,
-              4px 4px black;
+  font-style: italic;
+  text-shadow: 2px 2px snow, 4px 4px black;
 }
 
 .inverse {
-  color:black;
-  text-shadow:4px 4px snow,
-              6px 6px #b0b0b0;
+  color: black;
+  text-shadow: 4px 4px snow, 6px 6px #b0b0b0;
 }
 
 .bareHeader {
-  text-shadow:none;
+  text-shadow: none;
 }
 
 .duskLineation {
-    max-width:80vw;
-    margin:0 auto;
-    font-family: "base-9-sans", sans-serif;
-    font-weight: 300;
-    font-style: normal;
-    font-size:1.2rem;
-    text-shadow:2px 2px gainsboro;
-    letter-spacing:-0.02rem;
-    line-height:1.7em;
-    white-space: pre-line;
+  max-width: 80vw;
+  margin: 0 auto;
+  font-family: "base-9-sans", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 1.2rem;
+  text-shadow: 2px 2px gainsboro;
+  letter-spacing: -0.02rem;
+  line-height: 1.7em;
+  white-space: pre-line;
 }
 
 .italAnomaly {
-  max-width:80vw;
-  margin:0 auto;
+  max-width: 80vw;
+  margin: 0 auto;
   font-family: "lores-9-plus-narrow", sans-serif;
   font-weight: 300;
   font-style: italic;
-  font-size:1.2rem;
-  text-shadow:2px 2px gainsboro;
-  letter-spacing:-0.02rem;
-  line-height:1.7em;
+  font-size: 1.2rem;
+  text-shadow: 2px 2px gainsboro;
+  letter-spacing: -0.02rem;
+  line-height: 1.7em;
 }
 
-@media (max-width: 992px) and (orientation:landscape){
-
-  .duskLineation, .italAnomaly {
-    max-width:90vw;
-    font-size:1rem;
+@media (max-width: 992px) and (orientation: landscape) {
+  .duskLineation,
+  .italAnomaly {
+    max-width: 90vw;
+    font-size: 1rem;
   }
 
   .italAnomaly {
-    max-width:88vw;
+    max-width: 88vw;
   }
 }
 
-@media (max-width: 884px) and (orientation:landscape){
-
-  .duskLineation, .italAnomaly {
-    max-width:95vw;
-    font-size:1rem;
-  }
-
-}
-
-@media (max-width: 810px) and (orientation:portrait){
-
-  .duskLineation, .italAnomaly {
-    max-width:90vw;
+@media (max-width: 884px) and (orientation: landscape) {
+  .duskLineation,
+  .italAnomaly {
+    max-width: 95vw;
+    font-size: 1rem;
   }
 }
 
- @media (max-width: 668px) {
-
-   .duskLineation, .italAnomaly {
-     font-size:1rem;
-   }
-
+@media (max-width: 810px) and (orientation: portrait) {
+  .duskLineation,
+  .italAnomaly {
+    max-width: 90vw;
   }
+}
 
- @media (max-width: 429px) and (orientation:portrait) {
-
-   .duskLineation, .italAnomaly {
-     max-width:90vw;
-   }
-
+@media (max-width: 668px) {
+  .duskLineation,
+  .italAnomaly {
+    font-size: 1rem;
   }
+}
 
-  @media (max-width: 394px) and (orientation:portrait) {
+@media (max-width: 429px) and (orientation: portrait) {
+  .duskLineation,
+  .italAnomaly {
+    max-width: 90vw;
+  }
+}
 
-    .duskLineation, .italAnomaly {
-      max-width:95vw;
-    }
-
-   }
+@media (max-width: 394px) and (orientation: portrait) {
+  .duskLineation,
+  .italAnomaly {
+    max-width: 95vw;
+  }
+}
