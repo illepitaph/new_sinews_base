@@ -1,12 +1,10 @@
 .titleShadow {
-  text-shadow:2px 2px snow,
-              4px 4px black;
+  text-shadow: 2px 2px snow, 4px 4px black;
 }
 
 .inverseShadow {
-  color:black;
-  text-shadow:4px 4px snow,
-              6px 6px palegreen;
+  color: black;
+  text-shadow: 4px 4px snow, 6px 6px palegreen;
 }
 
 .container {
@@ -14,105 +12,97 @@
 }
 
 .poemContainer {
-  max-width:90%;
+  max-width: 90%;
   margin: 3vh 9vw;
 }
 
 .getteLineation {
-  max-width:90%;
+  max-width: 90%;
   font-family: "base-9-sans", sans-serif;
   font-weight: 300;
   font-style: normal;
-  font-size:1.2rem;
-  text-shadow:2px 2px gainsboro;
-  text-align:left;
-  letter-spacing:-0.02rem;
-  line-height:1.7em;
+  font-size: 1.2rem;
+  text-shadow: 2px 2px gainsboro;
+  text-align: left;
+  letter-spacing: -0.02rem;
+  line-height: 1.7em;
   margin: 1vh 0;
 }
 
 .greenShadow {
-  font-family:"lores-9-plus-wide", monospace;
-  text-shadow:1px 1px snow,
-              2px 2px palegreen;
+  font-family: "lores-9-plus-wide", monospace;
+  text-shadow: 1px 1px snow, 2px 2px palegreen;
 }
 
 .caption {
-  max-width:50vw;
-  margin:0 auto;
-  margin-top:3vh;
-  font-family:"lores-9-plus-wide", monospace;
-  color:#b0b0b0;
-  font-size:2rem;
-  text-transform:lowercase;
-  text-align:center;
+  max-width: 50vw;
+  margin: 0 auto;
+  margin-top: 3vh;
+  font-family: "lores-9-plus-wide", monospace;
+  color: #b0b0b0;
+  font-size: 2rem;
+  text-transform: lowercase;
+  text-align: center;
 }
 
-@media (min-height: 925px) and (max-height:927px) and (orientation:portrait) {
+@media (min-height: 925px) and (max-height: 927px) and (orientation: portrait) {
   .titleShadow {
-    font-size:3.1rem;
+    font-size: 3.1rem;
   }
 }
 
 @media (max-width: 668px) {
-
-.textSizeMinimizer {
-  font-size:0.9rem;
-}
-}
-
-@media (max-width: 429px) and (orientation:portrait) {
-
-  .getteLineation {
-    max-width:98%;
+  .textSizeMinimizer {
+    font-size: 0.9rem;
   }
-
-.textSizeMinimizer {
-  font-size:0.7rem;
-}
 }
 
-
-@media (max-width: 394px) and (orientation:portrait) {
-
+@media (max-width: 429px) and (orientation: portrait) {
   .getteLineation {
-    max-width:99%;
+    max-width: 98%;
   }
-
 
   .textSizeMinimizer {
-    font-size:0.6rem;
+    font-size: 0.7rem;
+  }
+}
+
+@media (max-width: 394px) and (orientation: portrait) {
+  .getteLineation {
+    max-width: 99%;
+  }
+
+  .textSizeMinimizer {
+    font-size: 0.6rem;
   }
 
   .textSizeMinimizerTwo {
-    font-size:0.7rem;
+    font-size: 0.7rem;
   }
 
-.textSizeMinimizerThree {
-  font-size:0.9rem;
+  .textSizeMinimizerThree {
+    font-size: 0.9rem;
+  }
+
+  .textSizeMinimizerFour {
+    font-size: 0.9rem;
+  }
 }
 
-.textSizeMinimizerFour {
-  font-size:0.9rem;
-}
-}
-
-@media (max-width: 281px) and (orientation:portrait) {
-
+@media (max-width: 281px) and (orientation: portrait) {
   .getteLineation {
-    font-size:1rem;
+    font-size: 1rem;
   }
 
   .textSizeMinimizer {
-    font-size:0.4rem;
+    font-size: 0.4rem;
   }
 
-.textSizeMinimizerTwo {
-  font-size:0.4rem;
-}
+  .textSizeMinimizerTwo {
+    font-size: 0.4rem;
+  }
 
-.textSizeMinimizerFour {
-  font-size:0.5rem;
-}
-
+  .textSizeMinimizerFour {
+    font-size: 0.5rem;
+  }
 }
