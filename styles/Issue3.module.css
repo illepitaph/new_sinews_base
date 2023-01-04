@@ -1,28 +1,47 @@
 @keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-moz-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-webkit-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-o-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-ms-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
-
 
 .fullPageBackground {
   position: fixed;
@@ -40,41 +59,41 @@
   bottom: 0px;
   left: 0px;
   margin: 0;
-  display:grid;
+  display: grid;
   grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   animation: fadeIn ease-in 1.4s;
 }
 
 .titleAndSubtitle {
-  position:relative;
-  display:grid;
-  grid-template-columns:1fr 1fr;
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
   grid-area: 1 / 1 / 7 / 2;
   grid-auto-flow: column;
 }
 
 .pageTitle {
-  position:relative;
+  position: relative;
   grid-column: 1 / span 1;
   font-family: "lores-9-plus-wide-bold-alt", monospace;
   color: #6b6b6b;
   font-size: 3.2rem;
   text-transform: lowercase;
-  max-width:8%;
-  margin:2vh 0 0 2vw;
+  max-width: 8%;
+  margin: 2vh 0 0 2vw;
 }
 
 .issueTitle {
   position: relative;
   grid-column: 2 / span 1;
-  align-self:center;
+  align-self: center;
   font-family: "lores-9-minus-narrow", monospace;
   color: white;
-  text-shadow:1px 1px #b0b0b0;
+  text-shadow: 1px 1px #b0b0b0;
   font-size: 2.2rem;
   text-transform: uppercase;
-  max-width:8%
+  max-width: 8%;
 }
 
 .inverseTitleColor {
@@ -85,31 +104,31 @@
 .inverseSubtitleColor {
   color: black;
   text-shadow: 2px 4px snow;
-  text-transform:lowercase;
+  text-transform: lowercase;
 }
 
 .workStructure {
-  position:relative;
-  grid-area:1 / 2 / 7 / 5;
-  display:grid;
+  position: relative;
+  grid-area: 1 / 2 / 7 / 5;
+  display: grid;
   grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-auto-flow:column;
+  grid-auto-flow: column;
 }
 
 .issueContents {
-  position:relative;
+  position: relative;
   display: grid;
   grid-auto-flow: row;
   height: 70vh;
-  margin:2vh 0 0 53vw;
+  margin: 2vh 0 0 53vw;
   align-content: space-between;
-  grid-column:4 / span 1;
+  grid-column: 4 / span 1;
 }
 
 .workColumn {
-  width:21rem;
-  margin-bottom:1.1vh;
+  width: 21rem;
+  margin-bottom: 1.1vh;
 }
 
 .workLink {
@@ -118,19 +137,19 @@
   color: white;
   font-size: 1.3em;
   text-transform: uppercase;
-  letter-spacing:0.3rem;
-  cursor:pointer;
+  letter-spacing: 0.3rem;
+  cursor: pointer;
 }
 
 .workLink:hover {
-  color:#6b6b6b;
+  color: #6b6b6b;
 }
 
 .siteShortcuts {
-  display:flex;
-  justify-content:space-around;
-  grid-column:3 / span 1;
-  margin-top:16px;
+  display: flex;
+  justify-content: space-around;
+  grid-column: 3 / span 1;
+  margin-top: 16px;
 }
 
 .siteShortcuts > .linkButton {
@@ -141,14 +160,14 @@
   font-size: 0.7rem;
   border-radius: 44px;
   cursor: pointer;
-  opacity:0.7;
+  opacity: 0.7;
   font-family: "lores-9-plus-narrow", monospace;
   text-decoration: none;
   color: white;
 }
 
 .siteShortcuts > .linkButton:not(:first-child) {
-  margin-left:2vw;
+  margin-left: 2vw;
 }
 
 .twitterLinkTag {
@@ -163,112 +182,101 @@
 }
 
 .siteShortcuts > .linkButton:hover {
-  opacity:1;
-  letter-spacing:0.15rem;
+  opacity: 1;
+  letter-spacing: 0.15rem;
 }
 
-@media (width:1280px) and (height:800px) and (orientation:landscape) {
+@media (width: 1280px) and (height: 800px) and (orientation: landscape) {
+  .workLink {
+    font-size: 1.2rem;
+  }
+
+  .issueContents {
+    margin: 1vh 0 0 47vw;
+  }
+}
+
+@media (width: 1080px) and (height: 810px) and (orientation: landscape) {
+  .issueContents {
+    margin: 1vh 0 0 47vw;
+  }
+}
+
+@media (width: 1024px) and (height: 1366px) {
+  .issueContents {
+    margin: 3vh 0 0 39vw;
+  }
+}
+
+@media (width: 1024px) and (height: 768px) and (orientation: landscape) {
+  .issueContents {
+    margin: 1vh 0 0 3vw;
+  }
+}
+
+@media (width: 1024px) and (height: 600px) and (orientation: landscape) {
+  .workLink {
+    font-size: 1.1rem;
+  }
+
+  .issueContents {
+    margin: 1.2vh 0 0 23vw;
+  }
+}
+
+@media (max-width: 997.98px) and (orientation: landscape) {
+  .pageTitle {
+    font-size: 1.7rem;
+  }
+
+  .issueTitle {
+    font-size: 1.7rem;
+  }
+
+  .issueContents {
+    margin: 3vh 0 0 40vw;
+  }
+
+  .workColumn {
+    margin-bottom: 1vh;
+  }
 
   .workLink {
-    font-size:1.2rem;
+    font-size: 0.6rem;
+    letter-spacing: 0.2rem;
+    font-weight: 500;
   }
-
-  .issueContents {
-    margin:1vh 0 0 47vw;
-  }
-}
-
-@media (width:1080px) and (height:810px) and (orientation:landscape) {
-
-  .issueContents {
-    margin:1vh 0 0 47vw;
-  }
-}
-
-@media (width:1024px) and (height:1366px) {
-
-  .issueContents {
-    margin:3vh 0 0 39vw;
-  }
-}
-
-@media (width:1024px) and (height:768px) and (orientation:landscape) {
-
-  .issueContents {
-    margin:1vh 0 0 3vw;
-  }
-}
-
-@media (width:1024px) and (height:600px) and (orientation:landscape) {
-
-  .workLink {
-    font-size:1.1rem;
-  }
-
-  .issueContents {
-    margin:1.2vh 0 0 23vw;
-  }
-}
-
- @media (max-width: 997.98px) and (orientation: landscape) {
-
-   .pageTitle {
-     font-size: 1.7rem;
-   }
-
-   .issueTitle {
-     font-size: 1.7rem;
-   }
-
-   .issueContents {
-     margin:3vh 0 0 40vw;
-   }
-
-   .workColumn {
-     margin-bottom:1vh;
-   }
-
-   .workLink {
-     font-size: 0.6rem;
-     letter-spacing:0.2rem;
-     font-weight:500;
-   }
-
 }
 
 @media (max-width: 991.98px) {
-
   .titleAndSubtitle {
-    position:relative;
-    display:grid;
-    grid-template-columns:1fr 1fr;
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
     grid-area: 1 / 1 / 4 / 2;
     grid-auto-flow: column;
   }
 
   .issueTitle {
-    margin-left:14vw;
+    margin-left: 14vw;
   }
 
   .issueContents {
-    margin:3vh 0 0 23vw;
+    margin: 3vh 0 0 23vw;
   }
 }
 
-@media (max-width: 926px) and (orientation:landscape) {
-
+@media (max-width: 926px) and (orientation: landscape) {
   .issueContents {
-    margin:3vh 0 0 40vw;
+    margin: 3vh 0 0 40vw;
   }
 
   .workLink {
     font-size: 0.98rem;
   }
-
 }
 
-@media (max-width: 869px) and (orientation:landscape) {
-
+@media (max-width: 869px) and (orientation: landscape) {
   .pageTitle {
     font-size: 1.5rem;
   }
@@ -280,44 +288,39 @@
   .workLink {
     font-size: 0.9rem;
   }
-
 }
 
-@media (max-width: 813px) and (orientation:landscape) {
-
+@media (max-width: 813px) and (orientation: landscape) {
   .issueContents {
-    margin:3vh 0 0 36vw;
+    margin: 3vh 0 0 36vw;
   }
-
 
   .workLink {
     font-size: 1rem;
-    letter-spacing:0.1rem;
+    letter-spacing: 0.1rem;
   }
-
 }
 
 @media (max-width: 767.98px) {
-
   .titleAndSubtitle {
-    position:relative;
-    display:grid;
-    grid-template-columns:1fr 1fr;
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
     grid-area: 1 / 1 / 4 / 2;
     grid-auto-flow: column;
   }
 
   .issueTitle {
-    margin-left:4vw;
+    margin-left: 4vw;
   }
 
   .issueContents {
-    margin:1vh 0 0 1vw;
+    margin: 1vh 0 0 1vw;
   }
 
   .workColumn {
-    max-width:11rem;
-    margin-bottom:0.5rem;
+    max-width: 11rem;
+    margin-bottom: 0.5rem;
   }
 
   .workLink {
@@ -330,7 +333,7 @@
 
   .siteShortcuts > .linkButton {
     font-size: 0.6rem;
-    padding:0.7vh 0.8vw;
+    padding: 0.7vh 0.8vw;
   }
 
   .twitterLinkTag {
@@ -338,90 +341,76 @@
   }
 
   .siteShortcuts > .linkButton:not(:first-child) {
-    margin-left:3px;
+    margin-left: 3px;
   }
+}
 
- }
-
-@media (max-width: 761px) and (orientation:landscape) {
-
+@media (max-width: 761px) and (orientation: landscape) {
   .issueContents {
-    margin:3vh 0 0 51vw;
+    margin: 3vh 0 0 51vw;
   }
-
 
   .workLink {
     font-size: 0.6rem;
-    letter-spacing:0.1rem;
+    letter-spacing: 0.1rem;
   }
 
   .siteShortcuts > .linkButton {
-  padding: 0.3vh 0.6vw;
+    padding: 0.3vh 0.6vw;
   }
-
-
 }
 
-@media (max-width: 667px) and (orientation:landscape) {
-
+@media (max-width: 667px) and (orientation: landscape) {
   .issueContents {
-    margin:3vh 0 0 47vw;
+    margin: 3vh 0 0 47vw;
   }
 
   .workLink {
-  font-size: 0.57rem;
+    font-size: 0.57rem;
   }
-
 }
 
-@media (max-width: 429px) and (orientation:portrait) {
-
+@media (max-width: 429px) and (orientation: portrait) {
   .issueTitle {
-    margin-left:4vw;
+    margin-left: 4vw;
   }
 
   .workLink {
-    letter-spacing:0.17rem;
+    letter-spacing: 0.17rem;
   }
 
   .siteShortcuts > .linkButton {
-  padding: 0.3vh 0.6vw;
+    padding: 0.3vh 0.6vw;
   }
 
   .siteShortcuts > .linkButton:not(:first-child) {
-    margin-left:2.5vw;
+    margin-left: 2.5vw;
   }
-
 }
 
-
-@media (max-width: 391px) and (orientation:portrait) {
-
+@media (max-width: 391px) and (orientation: portrait) {
   .issueContents {
-    margin:3vh 0 0 16vw;
+    margin: 3vh 0 0 16vw;
   }
 }
 
-@media (max-width: 376px) and (orientation:portrait) {
-
+@media (max-width: 376px) and (orientation: portrait) {
   .issueContents {
-    margin:3vh 0 0 21vw;
+    margin: 3vh 0 0 21vw;
   }
 }
 
-@media (max-width: 361px) and (orientation:portrait) {
-
+@media (max-width: 361px) and (orientation: portrait) {
   .pageTitle {
-    margin-top:0;
+    margin-top: 0;
   }
 
   .issueContents {
-    margin:3vh 0 0 15vw;
+    margin: 3vh 0 0 15vw;
   }
 }
 
-@media (max-width: 321px) and (orientation:portrait) {
-
+@media (max-width: 321px) and (orientation: portrait) {
   .pageTitle {
     font-size: 2.5rem;
   }
@@ -431,16 +420,15 @@
   }
 
   .issueContents {
-    margin:3vh 0 0 3vw;
+    margin: 3vh 0 0 3vw;
   }
 
   .workLink {
-    font-size:0.75rem;
+    font-size: 0.75rem;
   }
 }
 
-@media (max-height: 291px) and (orientation:landscape) {
-
+@media (max-height: 291px) and (orientation: landscape) {
   .pageTitle {
     font-size: 1.2rem;
   }
@@ -450,6 +438,6 @@
   }
 
   .workLink {
-    font-size:0.5rem;
+    font-size: 0.5rem;
   }
 }
