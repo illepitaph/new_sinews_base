@@ -1,11 +1,9 @@
 .title {
-  margin-right:7rem;
+  margin-right: 7rem;
 }
 
-@media (max-width: 927px)  {
-
+@media (max-width: 927px) {
   .title {
-    margin-right:1rem;
+    margin-right: 1rem;
   }
-
 }
