@@ -52,7 +52,6 @@
   .rat {
     font-size: 1rem;
     margin-left: 1vw;
-    white-space: pre-line;
   }
 }
 
@@ -68,8 +67,14 @@
   }
 }
 
-@media (max-width: 281px) and (orientation: portrait) {
+@media (max-width: 321px) and (orientation: portrait) {
+
   .rat {
-    font-size: 0.7rem;
+    font-size: 0.6rem;
+    white-space: pre-wrap;
+  }
+
+  .subtitleSize {
+    font-size: 1.2rem;
   }
 }

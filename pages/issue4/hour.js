@@ -269,11 +269,13 @@ is omni`}</pre>
       </CenterGrayTitle>
 
       <CenterBlackTitle>
-        …Or: Exploring_the_
-        <br />
-        Theme_of_Autumn_
-        <br />
-        Leaves…
+        <span className={styles.subtitleSize}>
+          …Or: Exploring_the_
+          <br />
+          Theme_of_Autumn_
+          <br />
+          Leaves…
+        </span>
       </CenterBlackTitle>
       <br />
       <br />
