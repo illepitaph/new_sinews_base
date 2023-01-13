@@ -52,6 +52,7 @@
   .rat {
     font-size: 1rem;
     margin-left: 1vw;
+    white-space:pre-line
   }
 }
 
