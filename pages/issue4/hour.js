@@ -1,37 +1,48 @@
-import Head from 'next/head'
-import Header from '../../components/header.js'
-import CenterGrayTitle from '../../components/centerGrayTitle.js'
-import CenterBlackTitle from '../../components/centerBlackTitle.js'
-import RightBlackTitle from '../../components/rightBlackTitle.js'
-import Footer from '../../components/footer.js'
-import styles from '../../styles/Rat.module.css'
-Rat.title = "brandon_shimoda ~ the_hour_of_the_rat — new_sinews"
-Rat.pieceName = "brandon_shimoda ~ the_hour_of_the_rat — new_sinews"
-Rat.description = "_Brandon Shimoda_poetry_THE HOUR OF THE RAT_new_sinews_issue4_"
-Rat.image = "https://www.newnewsinews.com/images/RatBackground.jpg"
+import Head from "next/head";
+import Header from "../../components/header.js";
+import CenterGrayTitle from "../../components/centerGrayTitle.js";
+import CenterBlackTitle from "../../components/centerBlackTitle.js";
+import RightBlackTitle from "../../components/rightBlackTitle.js";
+import Footer from "../../components/footer.js";
+import styles from "../../styles/Rat.module.css";
+Rat.title = "brandon_shimoda ~ the_hour_of_the_rat — new_sinews";
+Rat.pieceName = "brandon_shimoda ~ the_hour_of_the_rat — new_sinews";
+Rat.description =
+  "_Brandon Shimoda_poetry_THE HOUR OF THE RAT_new_sinews_issue4_";
+Rat.image = "https://www.newnewsinews.com/images/RatBackground.jpg";
 
 export default function Rat() {
   return (
-      <>
-          <Head/>
+    <>
+      <Head />
 
-       <Header headerBackground="ratBackground"/>
+      <Header headerBackground="ratBackground" />
 
-       <CenterGrayTitle> <span className={styles.titleShadow}><span
-       className={styles.inverseShadow}>t</span>h<span
-       className={styles.inverseShadow}>e</span><br/>h   <span
-       className={styles.inverseShadow}>o </span> <span
-       className={styles.inverseShadow}>u </span>r<br/> o<span
-       className={styles.inverseShadow}>f </span><br/><span
-       className={styles.inverseShadow}>+ t</span><span
-       className={styles.inverseShadow}>h</span>e<span
-       className={styles.inverseShadow}> _ r</span>   a   <span
-       className={styles.inverseShadow}>t +</span></span></CenterGrayTitle>
+      <CenterGrayTitle>
+        {" "}
+        <span className={styles.titleShadow}>
+          <span className={styles.inverseShadow}>t</span>h
+          <span className={styles.inverseShadow}>e</span>
+          <br />h <span className={styles.inverseShadow}>o </span>{" "}
+          <span className={styles.inverseShadow}>u </span>r<br /> o
+          <span className={styles.inverseShadow}>f </span>
+          <br />
+          <span className={styles.inverseShadow}>+ t</span>
+          <span className={styles.inverseShadow}>h</span>e
+          <span className={styles.inverseShadow}> _ r</span> a{" "}
+          <span className={styles.inverseShadow}>t +</span>
+        </span>
+      </CenterGrayTitle>
 
-        <RightBlackTitle><span className={styles.bareHeader}>... ...  brandon<br/>... ... shimoda</span>
-        </RightBlackTitle>
+      <RightBlackTitle>
+        <span className={styles.bareHeader}>
+          ... ... brandon
+          <br />
+          ... ... shimoda
+        </span>
+      </RightBlackTitle>
 
-<pre className={styles.rat}>{`I wrote a poem for the eighth year in a row
+      <pre className={styles.rat}>{`I wrote a poem for the eighth year in a row
 Years like trees   black breezes between them
 
 The same poem   knew
@@ -127,25 +138,33 @@ To write a poem while being timed
 with seasons of instruction watching over,
 under the influence of a four month old daughter`}</pre>
 
-<CenterGrayTitle>+ <span className={styles.titleShadow}><span
-className={styles.inverseShadow}>t</span>h<span
-className={styles.inverseShadow}>e</span>  _ h   <span
-className={styles.inverseShadow}>o</span>u <span
-className={styles.inverseShadow}>r </span><br/>o<span
-className={styles.inverseShadow}>f <br/> t</span><span
-className={styles.inverseShadow}>h</span>e<span
-className={styles.inverseShadow}> _ r </span>a   <span
-className={styles.inverseShadow}>t +</span></span></CenterGrayTitle>
+      <CenterGrayTitle>
+        +{" "}
+        <span className={styles.titleShadow}>
+          <span className={styles.inverseShadow}>t</span>h
+          <span className={styles.inverseShadow}>e</span> _ h{" "}
+          <span className={styles.inverseShadow}>o</span>u{" "}
+          <span className={styles.inverseShadow}>r </span>
+          <br />o
+          <span className={styles.inverseShadow}>
+            f <br /> t
+          </span>
+          <span className={styles.inverseShadow}>h</span>e
+          <span className={styles.inverseShadow}> _ r </span>a{" "}
+          <span className={styles.inverseShadow}>t +</span>
+        </span>
+      </CenterGrayTitle>
 
-<pre className={styles.rat}>{`The rainbow is white
+      <pre className={styles.rat}>{`The rainbow is white
 The milk is in the wall
 
 Where is the milk   in the wall
 
 rings of milk   on the wall,
 
-the steeple the rising of each nova`}</pre><p className={styles.ratAsterisk}>+</p>
-<pre className={styles.rat}>{`The milk is a sunflower
+the steeple the rising of each nova`}</pre>
+      <p className={styles.ratAsterisk}>+</p>
+      <pre className={styles.rat}>{`The milk is a sunflower
 embedded in the adobe
 
 whittling a likeness,
@@ -157,14 +176,14 @@ called her grandmother's name,
 the names of her friends,
 
 she has heard, has not learned`}</pre>
-<p className={styles.ratAsterisk}>+</p>
-<pre className={styles.rat}>{`She sees her face with winter beard
+      <p className={styles.ratAsterisk}>+</p>
+      <pre className={styles.rat}>{`She sees her face with winter beard
 
 and antlers out of her head
 
 squash blossoms at the end`}</pre>
-<p className={styles.ratAsterisk}>+</p>
-<pre className={styles.rat}>{`she sees in the milk
+      <p className={styles.ratAsterisk}>+</p>
+      <pre className={styles.rat}>{`she sees in the milk
 mother and father disappearing
 into the sheet
 
@@ -173,8 +192,8 @@ the milk is in
 
 hours
 of broken sleep`}</pre>
-<p className={styles.ratAsterisk}>+</p>
-<pre className={styles.rat}>{`She puts her mouth on night
+      <p className={styles.ratAsterisk}>+</p>
+      <pre className={styles.rat}>{`She puts her mouth on night
 
 fish that swarm   then snap
 in one direction
@@ -200,8 +219,8 @@ in the center
 I am the Dila
 
 The fish are boomerang`}</pre>
-<p className={styles.ratAsterisk}>+</p>
-<pre className={styles.rat}>{`The milk is in
+      <p className={styles.ratAsterisk}>+</p>
+      <pre className={styles.rat}>{`The milk is in
 the electrifying performance
 of Bumbuku, the Magic Teakettle
 
@@ -234,21 +253,34 @@ through the milk
 
 is omni`}</pre>
 
-<CenterGrayTitle>t<span className={styles.titleShadow}><span
-className={styles.inverseShadow}>h</span>e<br/><span
-className={styles.inverseShadow}>h</span>o   <span
-className={styles.inverseShadow}>u </span> <span
-className={styles.inverseShadow}>r </span><br/><span
-className={styles.inverseShadow}>o</span>f<br/>+ t<span
-className={styles.inverseShadow}>h</span><span
-className={styles.inverseShadow}>e</span> _ r<span
-className={styles.inverseShadow}> a</span>   t +</span></CenterGrayTitle>
+      <CenterGrayTitle>
+        t
+        <span className={styles.titleShadow}>
+          <span className={styles.inverseShadow}>h</span>e<br />
+          <span className={styles.inverseShadow}>h</span>o{" "}
+          <span className={styles.inverseShadow}>u </span>{" "}
+          <span className={styles.inverseShadow}>r </span>
+          <br />
+          <span className={styles.inverseShadow}>o</span>f<br />+ t
+          <span className={styles.inverseShadow}>h</span>
+          <span className={styles.inverseShadow}>e</span> _ r
+          <span className={styles.inverseShadow}> a</span> t +
+        </span>
+      </CenterGrayTitle>
 
+      <CenterBlackTitle>
+        …Or: Exploring_the_
+        <br />
+        Theme_of_Autumn_
+        <br />
+        Leaves…
+      </CenterBlackTitle>
+      <br />
+      <br />
 
-<CenterBlackTitle>…Or: Exploring_the_<br/>Theme_of_Autumn_<br/>Leaves…</CenterBlackTitle>
-<br/><br/>
-
-<pre className={styles.rat}>{`Ghosts, to the newborn, are on the ceiling and walls.
+      <pre
+        className={styles.rat}
+      >{`Ghosts, to the newborn, are on the ceiling and walls.
 
 She sees the hill across the face
 and the organization of the flock
@@ -279,8 +311,8 @@ the ceiling
 is
 
 a soil`}</pre>
-<p className={styles.ratAsterisk}>+</p>
-<pre className={styles.rat}>{`ghosts, are
+      <p className={styles.ratAsterisk}>+</p>
+      <pre className={styles.rat}>{`ghosts, are
 family transcending
 blood,
 
@@ -296,8 +328,8 @@ with fish-like contours
 
 that pull away from limbs
 and levitate into a lipstick`}</pre>
-<p className={styles.ratAsterisk}>+</p>
-<pre className={styles.rat}>{`the autumn leaves of eden
+      <p className={styles.ratAsterisk}>+</p>
+      <pre className={styles.rat}>{`the autumn leaves of eden
 carry the strongest sentiments of light
 
 early evening   the sun is
@@ -307,16 +339,16 @@ and hemorrhaging
 into the private lives
 of people on the verge
 of internally combusting`}</pre>
-<p className={styles.ratAsterisk}>+</p>
-<pre className={styles.rat}>{`I was dreaming her,
+      <p className={styles.ratAsterisk}>+</p>
+      <pre className={styles.rat}>{`I was dreaming her,
 she cried,   her version of a scream
 
 four hours of sleep, of silence,
 
 then boiling
 tar,`}</pre>
-<p className={styles.ratAsterisk}>+</p>
-<pre className={styles.rat}>{`She stares at the wall
+      <p className={styles.ratAsterisk}>+</p>
+      <pre className={styles.rat}>{`She stares at the wall
 and laughs.
 
 I am envious   I have not found my laughter
@@ -343,17 +375,22 @@ white, liquid shadows,
 impersonate
 sunlight on a river`}</pre>
 
-<CenterGrayTitle><span className={styles.titleShadow}><span
-className={styles.inverseShadow}>_</span>t <span
-className={styles.inverseShadow}>h </span>e +   <span
-className={styles.inverseShadow}>h</span>o<span
-className={styles.inverseShadow}>u </span> r<span
-className={styles.inverseShadow}><br/>o</span>f <br/> t h<span
-className={styles.inverseShadow}>e </span><span
-className={styles.inverseShadow}> + r</span>a<span
-className={styles.inverseShadow}>t_</span></span></CenterGrayTitle>
+      <CenterGrayTitle>
+        <span className={styles.titleShadow}>
+          <span className={styles.inverseShadow}>_</span>t{" "}
+          <span className={styles.inverseShadow}>h </span>e +{" "}
+          <span className={styles.inverseShadow}>h</span>o
+          <span className={styles.inverseShadow}>u </span> r
+          <span className={styles.inverseShadow}>
+            <br />o
+          </span>
+          f <br /> t h<span className={styles.inverseShadow}>e </span>
+          <span className={styles.inverseShadow}> + r</span>a
+          <span className={styles.inverseShadow}>t_</span>
+        </span>
+      </CenterGrayTitle>
 
-<pre className={styles.rat}>{`I went to the rain
+      <pre className={styles.rat}>{`I went to the rain
 to bring back the rain
 
 Maybe I could speak it
@@ -362,8 +399,8 @@ Maybe I could translate
 the visions
 captivated inside
 each spacious crystal`}</pre>
-<p className={styles.ratAsterisk}>+</p>
-<pre className={styles.rat}>{`I went to the rain
+      <p className={styles.ratAsterisk}>+</p>
+      <pre className={styles.rat}>{`I went to the rain
 and saw three rats ascending stairs
 
 wearing flowers   substantiated
@@ -377,8 +414,8 @@ of skin drawing back
 
 the hour the sleepless
 walk through`}</pre>
-<p className={styles.ratAsterisk}>+</p>
-<pre className={styles.rat}>{`I saw a water fountain illuminated
+      <p className={styles.ratAsterisk}>+</p>
+      <pre className={styles.rat}>{`I saw a water fountain illuminated
 above the rat
 
 contemplative   cherished
@@ -397,8 +434,8 @@ above the park
 I saw his silhouette in the window. It was red
 
 then grinned   magenta`}</pre>
-<p className={styles.ratAsterisk}>+</p>
-<pre className={styles.rat}>{`Rocks were partners People were muffins
+      <p className={styles.ratAsterisk}>+</p>
+      <pre className={styles.rat}>{`Rocks were partners People were muffins
 
 A statue was casual, listening
 to the rain
@@ -413,8 +450,10 @@ no one
 stopped for
 
 echoing`}</pre>
-<p className={styles.ratAsterisk}>+</p>
-<pre className={styles.rat}>{`Every language lives by the storms on its surface,
+      <p className={styles.ratAsterisk}>+</p>
+      <pre
+        className={styles.rat}
+      >{`Every language lives by the storms on its surface,
 
 continents of water whipping
 across the mantle
@@ -429,8 +468,8 @@ in the furoshiki
 owl   an amulet ringing
 
 flowers in utero (elbow)`}</pre>
-<p className={styles.ratAsterisk}>+</p>
-<pre className={styles.rat}>{`I went to my face
+      <p className={styles.ratAsterisk}>+</p>
+      <pre className={styles.rat}>{`I went to my face
 to bring you my face
 
 I cried in the window   saw serpentine rivers
@@ -464,8 +503,8 @@ in her sack, on her cheek,
 
 because rats,
 and reading poetry in the rain`}</pre>
-<p className={styles.ratAsterisk}>+</p>
-<pre className={styles.rat}>{`I showed her the night before, the moon.
+      <p className={styles.ratAsterisk}>+</p>
+      <pre className={styles.rat}>{`I showed her the night before, the moon.
 It was full. same as the moon of my homesickness
 
 Radiant,
@@ -480,9 +519,7 @@ the flatness of space,
 saw her point on the circle
 and joined it`}</pre>
 
-
-                     <Footer/>
-
-                       </>
-                   )
-                 }
+      <Footer />
+    </>
+  );
+}

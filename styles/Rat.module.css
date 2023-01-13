@@ -1,92 +1,75 @@
 .titleShadow {
-  text-shadow:2px 2px snow,
-              4px 4px black;
+  text-shadow: 2px 2px snow, 4px 4px black;
 }
 
 .inverseShadow {
-  color:black;
-  text-shadow:4px 4px snow,
-              6px 6px #b0b0b0;
+  color: black;
+  text-shadow: 4px 4px snow, 6px 6px #b0b0b0;
 }
-
 
 .rat {
   font-family: "base-9-sans", sans-serif;
   font-weight: 300;
   font-style: normal;
-  font-size:1.2rem;
-  text-shadow:2px 2px gainsboro;
-  letter-spacing:-0.02rem;
-  line-height:1.7em;
-  margin-left:18vw;
+  font-size: 1.2rem;
+  text-shadow: 2px 2px gainsboro;
+  letter-spacing: -0.02rem;
+  line-height: 1.7em;
+  margin-left: 18vw;
 }
-
 
 .ratAsterisk {
   font-family: "base-9-sans", sans-serif;
   font-weight: 700;
   font-style: normal;
-  font-size:3.2rem;
-  color:#b0b0b0;
-  letter-spacing:-0.02rem;
-  margin-left:18vw;
+  font-size: 3.2rem;
+  color: #b0b0b0;
+  letter-spacing: -0.02rem;
+  margin-left: 18vw;
 }
 
-
-@media (max-width:930px) and (orientation:landscape)  {
-
+@media (max-width: 930px) and (orientation: landscape) {
   .rat {
-  margin-left:9vw;
-}
-}
-
-@media (max-width:930px) and (orientation:landscape)  {
-
-  .rat {
-  white-space:pre-line;
-}
-}
-
-@media (width:540px) and (height:720px) and (orientation:portrait)  {
-
-  .rat {
-  font-size:1.1rem;
-  margin-left:4vw;
-  white-space:pre-line;
-}
-}
-
-
-@media (max-width:429px) and (orientation:portrait) {
-
-
-  .rat {
-  font-size:1rem;
-  margin-left:1vw;
-  white-space:pre-line;
-}
-}
-
-@media (width:428px) and (height:926px) and (orientation:portrait)  {
-
-  .titleShadow {
-    font-size:2.8rem;
+    margin-left: 9vw;
   }
-
 }
 
-@media (max-width:391px) and (orientation:portrait) {
-
-
+@media (max-width: 930px) and (orientation: landscape) {
   .rat {
-  font-size:0.9rem;
+    white-space: pre-line;
+  }
 }
-}
 
-@media (max-width:281px) and (orientation:portrait) {
-
-
+@media (width: 540px) and (height: 720px) and (orientation: portrait) {
   .rat {
-  font-size:0.7rem;
+    font-size: 1.1rem;
+    margin-left: 4vw;
+    white-space: pre-line;
+  }
 }
+
+@media (max-width: 429px) and (orientation: portrait) {
+  .rat {
+    font-size: 1rem;
+    margin-left: 1vw;
+    white-space: pre-line;
+  }
+}
+
+@media (width: 428px) and (height: 926px) and (orientation: portrait) {
+  .titleShadow {
+    font-size: 2.8rem;
+  }
+}
+
+@media (max-width: 391px) and (orientation: portrait) {
+  .rat {
+    font-size: 0.9rem;
+  }
+}
+
+@media (max-width: 281px) and (orientation: portrait) {
+  .rat {
+    font-size: 0.7rem;
+  }
 }
