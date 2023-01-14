@@ -1,109 +1,97 @@
 .titleShadow {
-  text-shadow:2px 2px snow,
-              4px 4px black;
+  text-shadow: 2px 2px snow, 4px 4px black;
 }
 
 .inverseShadow {
-  color:black;
-  text-shadow:4px 4px snow,
-              6px 6px #b0b0b0;
+  color: black;
+  text-shadow: 4px 4px snow, 6px 6px #b0b0b0;
 }
 
 .poemTitle {
-  max-width:70vw;
-  font-family:"lores-9-plus-wide", monospace;
+  max-width: 70vw;
+  font-family: "lores-9-plus-wide", monospace;
   font-weight: 600;
   font-style: normal;
-  font-size:2.2rem;
-  letter-spacing:-0.02rem;
-  line-height:1.4em;
-  margin-left:17vw;
-  text-transform:lowercase;
+  font-size: 2.2rem;
+  letter-spacing: -0.02rem;
+  line-height: 1.4em;
+  margin-left: 17vw;
+  text-transform: lowercase;
 }
 
 .poem {
-  max-width:70vw;
+  max-width: 70vw;
   font-family: "base-9-sans", sans-serif;
   font-weight: 300;
   font-style: normal;
-  font-size:1.2rem;
-    text-shadow:2px 2px gainsboro;
-  letter-spacing:-0.02rem;
-  line-height:1.7em;
-  margin-left:17vw;
+  font-size: 1.2rem;
+  text-shadow: 2px 2px gainsboro;
+  letter-spacing: -0.02rem;
+  line-height: 1.7em;
+  margin-left: 17vw;
 }
 
 @media (max-width: 997.98px) and (orientation: landscape) {
-
   .title {
-    font-size:2rem;
+    font-size: 2rem;
   }
 
   .name {
-    font-size:2.9rem;
+    font-size: 2.9rem;
   }
 
   .poem {
-    font-size:1.2rem;
+    font-size: 1.2rem;
   }
-
 }
 
-
 @media (max-width: 991.98px) {
-
   .title {
-    font-size:2.2rem;
+    font-size: 2.2rem;
   }
 
   .name {
-    font-size:3.2rem;
+    font-size: 3.2rem;
   }
-
 }
 
 @media (max-width: 767.98px) {
-
-.title {
-  font-size:1.2rem;
-}
-
-.name {
-  font-size:2.3rem;
-}
-
-.poemTitle {
-  max-width:95vw;
-  margin-left:5vw;
-}
-
-.poem {
-  max-width:95vw;
-  margin-left:4vw;
-  font-size:0.8rem;
-}
-
-}
-
-
-@media(max-width: 394px) and (orientation:portrait){
+  .title {
+    font-size: 1.2rem;
+  }
 
   .name {
-    font-size:1.8rem;
+    font-size: 2.3rem;
+  }
+
+  .poemTitle {
+    max-width: 95vw;
+    margin-left: 5vw;
   }
 
   .poem {
-    font-size:0.7rem;
+    max-width: 95vw;
+    margin-left: 4vw;
+    font-size: 0.8rem;
   }
 }
 
-@media(max-width: 320px) and (orientation:portrait) {
-
+@media (max-width: 394px) and (orientation: portrait) {
   .name {
-    font-size:1.8rem;
+    font-size: 1.8rem;
   }
 
   .poem {
-    font-size:0.55rem;
+    font-size: 0.7rem;
+  }
+}
+
+@media (max-width: 320px) and (orientation: portrait) {
+  .name {
+    font-size: 1.8rem;
+  }
+
+  .poem {
+    font-size: 0.55rem;
   }
 }

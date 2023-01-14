@@ -1,51 +1,66 @@
-import Head from 'next/head'
-import Header from '../../components/header.js'
-import CenterGrayTitle from '../../components/centerGrayTitle.js'
-import CenterBlackTitle from '../../components/centerBlackTitle.js'
-import Footer from '../../components/footer.js'
-import styles from '../../styles/Hummel.module.css'
-Hummel.title = "allison_hummel ~ the_fires_are_back // i_look_at_sauce // untitled // comfort_like_the — new_sinews"
-Hummel.pieceName = "allison_hummel ~ the_fires_are_back // i_look_at_sauce // untitled // comfort_like_the — new_sinews"
-Hummel.description = "_Allison Hummel_poetry_THE FIRES ARE BACK+I LOOK AT SAUCE+UNTITLED+COMFORT LIKE THE_new_sinews_issue4_"
-Hummel.image = "https://www.newnewsinews.com/images/HummelBackground.jpg"
+import Head from "next/head";
+import Header from "../../components/header.js";
+import CenterGrayTitle from "../../components/centerGrayTitle.js";
+import CenterBlackTitle from "../../components/centerBlackTitle.js";
+import Footer from "../../components/footer.js";
+import styles from "../../styles/Hummel.module.css";
+Hummel.title =
+  "allison_hummel ~ the_fires_are_back // i_look_at_sauce // untitled // comfort_like_the — new_sinews";
+Hummel.pieceName =
+  "allison_hummel ~ the_fires_are_back // i_look_at_sauce // untitled // comfort_like_the — new_sinews";
+Hummel.description =
+  "_Allison Hummel_poetry_THE FIRES ARE BACK+I LOOK AT SAUCE+UNTITLED+COMFORT LIKE THE_new_sinews_issue4_";
+Hummel.image = "https://www.newnewsinews.com/images/HummelBackground.jpg";
 
 export default function Hummel() {
   return (
-      <>
-          <Head/>
+    <>
+      <Head />
 
+      <Header headerBackground="hummelBackground" />
 
-       <Header headerBackground="hummelBackground"/>
+      <br />
+      <br />
+      <br />
+      <br />
 
-       <br/>
-       <br/>
-       <br/>
-       <br/>
+      <CenterBlackTitle>
+        <span className={styles.title}>
+          the fires are back // i look at sauce // untitled // <br />
+          comfort like the
+        </span>
+      </CenterBlackTitle>
 
-       <CenterBlackTitle><span
-       className={styles.title}>the fires are back // i look at sauce // untitled // <br/>comfort like the</span></CenterBlackTitle>
+      <br />
+      <br />
 
-       <br/>
-       <br/>
+      <CenterGrayTitle>
+        <span className={styles.name}>
+          <span className={styles.name}>
+            <span className={styles.inverseShadow}>... </span> a{" "}
+            <span className={styles.inverseShadow}>l </span>
+            <span className={styles.titleShadow}>l </span>
+            <span className={styles.inverseShadow}>i </span>s{" "}
+            <span className={styles.inverseShadow}>o </span>n <br />
+            <span className={styles.titleShadow}>
+              {" "}
+              h <span className={styles.inverseShadow}>u </span>m{" "}
+            </span>
+            m <span className={styles.inverseShadow}>e </span>
+            <span className={styles.titleShadow}>l </span>...
+          </span>
+        </span>
+      </CenterGrayTitle>
 
-       <CenterGrayTitle><span
-       className={styles.name}><span className={styles.name}><span
-       className={styles.inverseShadow}>... </span> a <span
-       className={styles.inverseShadow}>l </span><span
-       className={styles.titleShadow}>l </span><span
-       className={styles.inverseShadow}>i </span>s <span
-       className={styles.inverseShadow}>o </span>n <br/><span className={styles.titleShadow}> h <span
-       className={styles.inverseShadow}>u </span>m </span>m <span
-       className={styles.inverseShadow}>e </span><span
-       className={styles.titleShadow}>l </span>...</span></span></CenterGrayTitle>
+      <br />
 
-       <br/>
+      <br />
+      <br />
 
-        <br/><br/>
-
-<h3 className={styles.poemTitle}>The Fires Are Back</h3>
-<br/>
-<pre className={styles.poem}>{`The fires are back
+      <h3 className={styles.poemTitle}>The Fires Are Back</h3>
+      <br />
+      <pre className={styles.poem}>
+        {`The fires are back
              another black rock to add to
              my garland of ineffectual
              poems.
@@ -58,7 +73,9 @@ against the dirt or
             is it all madness
 
 It is hard to worship fire
-`}<i>it’s hard for me, I see only</i>{` :
+`}
+        <i>it’s hard for me, I see only</i>
+        {` :
 vegetation, gyred unpalatable colors
 bunnies hopping away
 lisping, adherent mudslides
@@ -85,11 +102,17 @@ anything, would just burn
               in response to existence
 
 blotting out life, kind of on accident, in
-its compulsion to be`}</pre>
-<br/><br/><br/><br/>
-<h3 className={styles.poemTitle}>I Look At Sauce and Say Reduce, Reduce!</h3>
-<br/>
-<pre className={styles.poem}>{`I look at sauce and say reduce, reduce!
+its compulsion to be`}
+      </pre>
+      <br />
+      <br />
+      <br />
+      <br />
+      <h3 className={styles.poemTitle}>
+        I Look At Sauce and Say Reduce, Reduce!
+      </h3>
+      <br />
+      <pre className={styles.poem}>{`I look at sauce and say reduce, reduce!
 
 I look at myself in the chromey echo
 of the expansive car lot
@@ -129,10 +152,13 @@ extolling the crumb of a facile dream—
 it keeps on. A wet rock made air
              numb in the mouth, diffuse
 and beckoning`}</pre>
-<br/><br/><br/><br/>
-<h3 className={styles.poemTitle}>Untitled</h3>
-<br/>
-<pre className={styles.poem}>{`Been having thick dreams and
+      <br />
+      <br />
+      <br />
+      <br />
+      <h3 className={styles.poemTitle}>Untitled</h3>
+      <br />
+      <pre className={styles.poem}>{`Been having thick dreams and
 waking               to the sun between
 slats.
 
@@ -152,10 +178,13 @@ swimming around,
 
 sap wasn’t yet rock and               the whole world
 wasn’t off gassing.`}</pre>
-<br/><br/><br/><br/>
-<h3 className={styles.poemTitle}>Comfort Like The</h3>
-<br/>
-<pre className={styles.poem}>{`Comfort like the smell of
+      <br />
+      <br />
+      <br />
+      <br />
+      <h3 className={styles.poemTitle}>Comfort Like The</h3>
+      <br />
+      <pre className={styles.poem}>{`Comfort like the smell of
 hot        pee after a day at
 the beach, I’m
 coming for you,
@@ -191,12 +220,11 @@ of little
 
 kicking up          a small
 world of debris`}</pre>
-<br/>
-<br/>
-<br/>
+      <br />
+      <br />
+      <br />
 
-                     <Footer/>
-
-                       </>
-                   )
-                 }
+      <Footer />
+    </>
+  );
+}
