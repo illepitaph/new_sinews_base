@@ -1,7 +1,5 @@
-import styles from '../styles/StandardMiniTitle.module.css'
+import styles from "../styles/StandardMiniTitle.module.css";
 
 export default function StandardMiniTitle(props) {
-  return (
-    <p className={styles.standardMiniTitle}>{props.title}</p>
-  );
+  return <p className={styles.standardMiniTitle}>{props.title}</p>;
 }

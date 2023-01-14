@@ -1,18 +1,17 @@
 .standardProse {
-  max-width:70vw;
-  margin:0 auto;
-  font-family: "base-9-sans",sans-serif;
+  max-width: 70vw;
+  margin: 0 auto;
+  font-family: "base-9-sans", sans-serif;
   font-weight: 300;
   font-style: normal;
-  font-size:1.2rem;
-  text-shadow:2px 2px gainsboro;
-  letter-spacing:-0.02rem;
-  line-height:1.7em;
+  font-size: 1.2rem;
+  text-shadow: 2px 2px gainsboro;
+  letter-spacing: -0.02rem;
+  line-height: 1.7em;
 }
 
 @media (max-width: 991.98px) {
-
   .standardProse {
-    max-width:90vw;
+    max-width: 90vw;
   }
 }
