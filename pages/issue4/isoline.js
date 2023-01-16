@@ -1,39 +1,58 @@
-import Head from 'next/head'
-import Header from '../../components/header.js'
-import RightGrayTitle from '../../components/rightGrayTitle.js'
-import CenterBlackTitle from '../../components/centerBlackTitle.js'
-import Footer from '../../components/footer.js'
-import styles from '../../styles/Isoline.module.css'
-Isoline.title = "evan_isoline ~ as_foam_from_this_sweet_hour — new_sinews"
-Isoline.pieceName = "evan_isoline ~ as_foam_from_this_sweet_hour — new_sinews"
-Isoline.description = "_Evan Isoline_poetry_AS FOAM FROM THIS SWEET HOUR_new_sinews_issue4_"
-Isoline.image = "https://www.newnewsinews.com/images/IsolineBackground.jpg"
+import Head from "next/head";
+import Header from "../../components/header.js";
+import RightGrayTitle from "../../components/rightGrayTitle.js";
+import CenterBlackTitle from "../../components/centerBlackTitle.js";
+import Footer from "../../components/footer.js";
+import styles from "../../styles/Isoline.module.css";
+Isoline.title = "evan_isoline ~ as_foam_from_this_sweet_hour — new_sinews";
+Isoline.pieceName = "evan_isoline ~ as_foam_from_this_sweet_hour — new_sinews";
+Isoline.description =
+  "_Evan Isoline_poetry_AS FOAM FROM THIS SWEET HOUR_new_sinews_issue4_";
+Isoline.image = "https://www.newnewsinews.com/images/IsolineBackground.jpg";
 
 export default function Isoline() {
   return (
-      <>
-          <Head/>
+    <>
+      <Head />
 
-       <Header headerBackground="isolineBackground"/>
+      <Header headerBackground="isolineBackground" />
 
-       <RightGrayTitle><span className={styles.title}><span className={styles.titleShadow}><span
-       className={styles.inverseShadow}>a</span>s<br/>foam<span
-       className={styles.inverseShadow}><br/>f</span>r<span
-       className={styles.inverseShadow}>o</span>m t<span
-       className={styles.inverseShadow}>h</span>i<span
-       className={styles.inverseShadow}>s</span><br/><span
-       className={styles.inverseShadow}>sweet</span><br/><span className={styles.zeroMargin}>h<span
-       className={styles.inverseShadow}>o</span>u<span
-       className={styles.inverseShadow}>r</span></span></span></span></RightGrayTitle>
+      <RightGrayTitle>
+        <span className={styles.title}>
+          <span className={styles.titleShadow}>
+            <span className={styles.inverseShadow}>a</span>s<br />
+            foam
+            <span className={styles.inverseShadow}>
+              <br />f
+            </span>
+            r<span className={styles.inverseShadow}>o</span>m t
+            <span className={styles.inverseShadow}>h</span>i
+            <span className={styles.inverseShadow}>s</span>
+            <br />
+            <span className={styles.inverseShadow}>sweet</span>
+            <br />
+            <span className={styles.zeroMargin}>
+              h<span className={styles.inverseShadow}>o</span>u
+              <span className={styles.inverseShadow}>r</span>
+            </span>
+          </span>
+        </span>
+      </RightGrayTitle>
 
-       <br/>
+      <br />
 
-        <CenterBlackTitle><span className={styles.bareHeader}>......<i>evan</i> + <i>isoline</i>......</span>
-        </CenterBlackTitle>
+      <CenterBlackTitle>
+        <span className={styles.bareHeader}>
+          ......<i>evan</i> + <i>isoline</i>......
+        </span>
+      </CenterBlackTitle>
 
-        <br/><br/>
+      <br />
+      <br />
 
-<pre className={styles.foam}>{`A wildflower head with a nowness I am. The ism of absence.
+      <pre
+        className={styles.foam}
+      >{`A wildflower head with a nowness I am. The ism of absence.
 Lookit here, lookee there. Where they bristle—throng together
 in pink Samhain.
 
@@ -304,8 +323,7 @@ Please, play the music! By God!—Dancing, as foam from this sweet hour
 
 of crashing.`}</pre>
 
-                     <Footer/>
-
-                       </>
-                   )
-                 }
+      <Footer />
+    </>
+  );
+}
