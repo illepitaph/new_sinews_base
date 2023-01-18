@@ -106,7 +106,7 @@
   }
 }
 
-@media (max-width: 281px) and (orientation: portrait) {
+@media (max-width: 321px) and (orientation: portrait) {
   .title {
     font-size: 1.1rem;
   }
