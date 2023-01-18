@@ -44,15 +44,15 @@
 
 @media (max-width: 927px) and (orientation: landscape) {
   .topMargin {
-    display:inline-block;
-    margin-top:15vh;
+    display: inline-block;
+    margin-top: 15vh;
   }
 }
 
 @media (max-width: 761px) and (orientation: landscape) {
   .topMargin {
-    display:inline-block;
-    margin-top:18vh;
+    display: inline-block;
+    margin-top: 18vh;
   }
 }
 
