@@ -62,7 +62,6 @@ export default function Issue5Bios() {
         </cite>{" "}
         (Inside the Castle). His work often explores the haptic, architectural,
         and organismal qualities of the text-object.
-        <br />
         <a
           className={styles.biosExternalLink}
           target="_blank"
@@ -226,8 +225,7 @@ export default function Issue5Bios() {
         >
           perfidiousscript.com
         </a>{" "}
-        and on twitter
-        <br />{" "}
+        and on twitter{" "}
         <a
           className={styles.biosExternalLink}
           target="_blank"
