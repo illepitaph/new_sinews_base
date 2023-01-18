@@ -1,49 +1,64 @@
-import Head from 'next/head'
-import Header from '../../components/header.js'
-import CenterGrayTitle from '../../components/centerGrayTitle.js'
-import CenterBlackTitle from '../../components/centerBlackTitle.js'
-import Footer from '../../components/footer.js'
-import styles from '../../styles/Bisagni.module.css'
-Bisagni.title = "paul_bisagni ~ nice_time_formula + jumbo_marvelous_domesticity_jilt + by_dint_of_little_else — new_sinews"
-Bisagni.pieceName = "paul_bisagni ~ nice_time_formula + jumbo_marvelous_domesticity_jilt + by_dint_of_little_else — new_sinews"
-Bisagni.description = "_Paul Bisagni_poetry_NICE TIME FORMULA+JUMBO MARVELOUS DOMESTICITY JILT+BY DINT OF LITTLE ELSE_new_sinews_issue5_"
-Bisagni.image = "https://www.newnewsinews.com/images/BisagniBackground.jpg"
+import Head from "next/head";
+import Header from "../../components/header.js";
+import CenterGrayTitle from "../../components/centerGrayTitle.js";
+import CenterBlackTitle from "../../components/centerBlackTitle.js";
+import Footer from "../../components/footer.js";
+import styles from "../../styles/Bisagni.module.css";
+Bisagni.title =
+  "paul_bisagni ~ nice_time_formula + jumbo_marvelous_domesticity_jilt + by_dint_of_little_else — new_sinews";
+Bisagni.pieceName =
+  "paul_bisagni ~ nice_time_formula + jumbo_marvelous_domesticity_jilt + by_dint_of_little_else — new_sinews";
+Bisagni.description =
+  "_Paul Bisagni_poetry_NICE TIME FORMULA+JUMBO MARVELOUS DOMESTICITY JILT+BY DINT OF LITTLE ELSE_new_sinews_issue5_";
+Bisagni.image = "https://www.newnewsinews.com/images/BisagniBackground.jpg";
 
 export default function Bisagni() {
   return (
-      <>
-          <Head/>
+    <>
+      <Head />
 
-       <Header headerBackground="bisagniBackground"/>
+      <Header headerBackground="bisagniBackground" />
 
-       <br/>
-       <br/>
-       <br/>
+      <br />
+      <br />
+      <br />
 
-       <CenterBlackTitle><span className={styles.title}>nice time formula // jumbo marvelous domesticity <br/>jilt // by dint of
-       little else</span></CenterBlackTitle>
+      <CenterBlackTitle>
+        <span className={styles.title}>
+          nice time formula // jumbo marvelous domesticity <br />
+          jilt // by dint of little else
+        </span>
+      </CenterBlackTitle>
 
-       <br/>
-       <br/>
+      <br />
+      <br />
 
-       <CenterGrayTitle><span className={styles.title}>... <span
-       className={styles.inverseShadow}>p</span> a <span
-       className={styles.inverseShadow}></span><span
-       className={styles.titleShadow}> u </span><span
-       className={styles.inverseShadow}>l </span>...<br/><br/>... <span
-       className={styles.inverseShadow}>b </span><span
-       className={styles.titleShadow}>i </span><span
-       className={styles.inverseShadow}>s </span>a <span
-       className={styles.inverseShadow}>g </span>n<span
-       className={styles.titleShadow}> i</span> ...</span></CenterGrayTitle>
+      <CenterGrayTitle>
+        <span className={styles.title}>
+          ... <span className={styles.inverseShadow}>p</span> a{" "}
+          <span className={styles.inverseShadow}></span>
+          <span className={styles.titleShadow}> u </span>
+          <span className={styles.inverseShadow}>l </span>...
+          <br />
+          <br />
+          ... <span className={styles.inverseShadow}>b </span>
+          <span className={styles.titleShadow}>i </span>
+          <span className={styles.inverseShadow}>s </span>a{" "}
+          <span className={styles.inverseShadow}>g </span>n
+          <span className={styles.titleShadow}> i</span> ...
+        </span>
+      </CenterGrayTitle>
 
-       <br/>
+      <br />
 
-        <br/><br/>
+      <br />
+      <br />
 
-<h3 className={styles.poemTitle}>Nice Time Formula</h3>
-<br/>
-<pre className={styles.poem}>{`What we heard above us was less a titanomachy
+      <h3 className={styles.poemTitle}>Nice Time Formula</h3>
+      <br />
+      <pre
+        className={styles.poem}
+      >{`What we heard above us was less a titanomachy
 than the neighbors’ ado, but a little bedizenment
 does our senses good, and I’m weary of granting
 pathogenic potential to the drops I feel on my calf
@@ -74,10 +89,13 @@ only if you sit in the sprung-out parlor chair, marigold
 and ill-upholstered,
                       negating what’s gone haywire
 beneath you.`}</pre>
-<br/><br/><br/><br/>
-<h3 className={styles.poemTitle}>Jumbo Marvelous Domesticity Jilt</h3>
-<br/>
-<pre className={styles.poem}>{`With no “you” in this environs
+      <br />
+      <br />
+      <br />
+      <br />
+      <h3 className={styles.poemTitle}>Jumbo Marvelous Domesticity Jilt</h3>
+      <br />
+      <pre className={styles.poem}>{`With no “you” in this environs
 I’m hailed in 
 so scenic maquillage of standing
 in spots all decorous 
@@ -150,10 +168,14 @@ and paucity and mirth
 and meat pics and halidom
 may loogies detonate
 my catarrhless company`}</pre>
-<br/><br/><br/><br/>
-<h3 className={styles.poemTitle}>By Dint Of Little Else</h3>
-<br/>
-<pre className={styles.poem}>{`Peanut butter and ice cream won't mingle.
+      <br />
+      <br />
+      <br />
+      <br />
+      <h3 className={styles.poemTitle}>By Dint Of Little Else</h3>
+      <br />
+      <pre className={styles.poem}>
+        {`Peanut butter and ice cream won't mingle.
 
 	               Poured whole milk on both,
 
@@ -193,7 +215,9 @@ Confessed to an artist my ignorance of joinery.
 
 Jane Fonda's films will pacify the pissy.
 
-                        `}<i>I am an actress!</i>{`
+                        `}
+        <i>I am an actress!</i>
+        {`
 
 		       It’s hard to act 
 
@@ -219,10 +243,10 @@ Jane Fonda as Kitty Twist made do in a dusty pipe.
 
 to recapture the gist of the dream.
 
-Cadaverous with joie de vivre.`}</pre>
+Cadaverous with joie de vivre.`}
+      </pre>
 
-                     <Footer/>
-
-                       </>
-                   )
-                 }
+      <Footer />
+    </>
+  );
+}
