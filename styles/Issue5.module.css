@@ -362,7 +362,7 @@
 @media (max-width: 927px) and (orientation: landscape) {
   .workStructure,
   .workStructureTwo {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     text-shadow: 1px 1px #d10000, 2px 2px black;
     letter-spacing: 0.1rem;
     margin: 3vh 3vw;
@@ -416,10 +416,10 @@
   }
 }
 
-@media (max-width: 869px) and (orientation: landscape) {
+@media (max-width: 884px) and (orientation: landscape) {
   .workStructure,
   .workStructureTwo {
-    font-size: 1.1rem;
+    font-size: 1.03rem;
   }
 
   .pageTitle {
@@ -710,7 +710,7 @@
 @media (max-height: 281px) and (orientation: landscape) {
   .workStructure,
   .workStructureTwo {
-    font-size: 0.7rem;
+    font-size: 0.8rem;
     grid-gap: 1.4vh;
   }
 
