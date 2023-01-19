@@ -26,213 +26,227 @@
 }
 
 @keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-moz-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-webkit-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-o-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-ms-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 .bodyContainer {
-  position:absolute;
-  height:100vh;
-  min-width:100%;
-  display:grid;
+  position: absolute;
+  height: 100vh;
+  min-width: 100%;
+  display: grid;
   grid-template-columns: repeat(3, 1fr);
   margin: 0;
   overflow: scroll;
   animation: fadeIn ease-out 0.9s;
 }
 
-
 .pageBackgroundOne {
   animation: skew1 1.7s ease-in-out;
-  position:relative;
+  position: relative;
   background: url("../public/images/Issue5Cover1.jpg");
   background-size: cover;
-  background-position:top;
-  min-height:100%;
-  min-width:33%;
-  margin:0;
-  z-index:33;
+  background-position: top;
+  min-height: 100%;
+  min-width: 33%;
+  margin: 0;
+  z-index: 33;
 }
 
-.workStructure{
-  position:relative;
-  width:100%;
+.workStructure {
+  position: relative;
+  width: 100%;
   display: grid;
   grid-auto-flow: row;
-  grid-gap:2vh;
-  color:white;
-  font-family:"lores-15-bold-alt-oakland", monospace;
-  text-shadow:2px 2px black,
-              4px 4px #D10000;
-  font-size:1.7rem;
+  grid-gap: 2vh;
+  color: white;
+  font-family: "lores-15-bold-alt-oakland", monospace;
+  text-shadow: 2px 2px black, 4px 4px #d10000;
+  font-size: 1.7rem;
   font-weight: 700;
   letter-spacing: 0.3rem;
-  margin:6vh 1vw 1vh 6vw;
+  margin: 6vh 1vw 1vh 6vw;
   text-transform: uppercase;
 }
 
 .workColumn {
-  position:relative;
-  max-width:23vw;
+  position: relative;
+  max-width: 23vw;
 }
 
 .linkButtonOne {
-  width:50%;
+  width: 50%;
   font-family: "lores-9-plus-narrow", monospace;
-  font-size:1.2rem;
-  color:white;
-  text-shadow:2px 2px black;
-  border:none;
-  cursor:pointer;
-  background:none;
+  font-size: 1.2rem;
+  color: white;
+  text-shadow: 2px 2px black;
+  border: none;
+  cursor: pointer;
+  background: none;
 }
 
 .linkButtonOne:hover {
-  letter-spacing:0.1rem;
-  color:black;
+  letter-spacing: 0.1rem;
+  color: black;
   text-transform: uppercase;
   text-shadow: 2px 2px white;
 }
 
-
 .pageBackgroundTwo {
   animation: skew2 2.1s ease-in-out;
-  position:relative;
+  position: relative;
   background: url("../public/images/Issue5Cover2.jpg");
   background-size: cover;
-  background-position:center;
-  min-height:100%;
-  min-width:33%;
-  margin:0;
-  z-index:32;
+  background-position: center;
+  min-height: 100%;
+  min-width: 33%;
+  margin: 0;
+  z-index: 32;
 }
 
 .workStructureTwo {
-  position:relative;
-  width:100%;
+  position: relative;
+  width: 100%;
   display: grid;
   grid-auto-flow: row;
-  grid-gap:2.2vh;
-  color:white;
-  font-family:"lores-15-bold-alt-oakland", monospace;
-  text-shadow:2px 2px black,
-              4px 4px #D10000;
-  font-size:1.63rem;
+  grid-gap: 2.2vh;
+  color: white;
+  font-family: "lores-15-bold-alt-oakland", monospace;
+  text-shadow: 2px 2px black, 4px 4px #d10000;
+  font-size: 1.63rem;
   font-weight: 700;
   letter-spacing: 0.3rem;
-  margin:4vh 1vw 1vh 6vw;
+  margin: 4vh 1vw 1vh 6vw;
   text-transform: uppercase;
 }
 
 .workColumnTwo {
-  position:relative;
-  max-width:26vw;
+  position: relative;
+  max-width: 26vw;
 }
 
 .linkButtonBox {
-  position:relative;
-  display:flex;
-  justify-content:center;
-
+  position: relative;
+  display: flex;
+  justify-content: center;
 }
 
 .linkButtonTwo {
-  position:relative;
-  border:none;
-  background:none;
-  text-decoration:none;
-  cursor:pointer;
+  position: relative;
+  border: none;
+  background: none;
+  text-decoration: none;
+  cursor: pointer;
   font-family: "lores-9-plus-narrow", monospace;
-  font-size:1.2rem;
-  color:white;
-  text-shadow:2px 2px black;
-  margin-top:2vh;
+  font-size: 1.2rem;
+  color: white;
+  text-shadow: 2px 2px black;
+  margin-top: 2vh;
 }
 
 .linkButtonTwo:hover {
-  letter-spacing:0.1rem;
-  color:black;
+  letter-spacing: 0.1rem;
+  color: black;
   text-shadow: 2px 2px white;
-  text-transform:uppercase;
+  text-transform: uppercase;
 }
 
-.linkButtonOne, .linkButtonTwo {
+.linkButtonOne,
+.linkButtonTwo {
   white-space: nowrap;
 }
 
 .workLink {
-  cursor:pointer;
+  cursor: pointer;
 }
 
 .workLink:hover {
-color:black;
-text-shadow:2px 2px white,
-            4px 4px #D10000;
-text-transform: lowercase;
+  color: black;
+  text-shadow: 2px 2px white, 4px 4px #d10000;
+  text-transform: lowercase;
 }
 
 .pageBackgroundThree {
   animation: skew3 2.4s ease-in-out;
-  position:relative;
+  position: relative;
   background: url("../public/images/Issue5Cover3.jpg");
   background-size: cover;
-  background-position:bottom;
-  min-height:100%;
-  min-width:33%;
-  margin:0;
+  background-position: bottom;
+  min-height: 100%;
+  min-width: 33%;
+  margin: 0;
 }
 
 .titleAndSubtitle {
-  position:relative;
-  display:grid;
-  grid-template-columns:1fr 1fr 1fr;
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
   grid-auto-flow: column;
 }
 
 .pageTitle {
-  position:relative;
+  position: relative;
   grid-column: 1 / span 1;
   font-family: "lores-9-plus-wide-bold-alt", monospace;
-  color: #D10000;
+  color: #d10000;
   font-size: 3.2rem;
-  text-shadow: 2px 2px snow,
-              4px 4px black;
+  text-shadow: 2px 2px snow, 4px 4px black;
   text-transform: lowercase;
-  max-width:8%;
-  margin:5vh 0 0 4vw;
+  max-width: 8%;
+  margin: 5vh 0 0 4vw;
 }
 
 .issueTitle {
   position: relative;
   grid-column: 2 / span 1;
-  align-self:center;
-  font-family: "lores-12-bold-alt-oakland",  monospace;
+  align-self: center;
+  font-family: "lores-12-bold-alt-oakland", monospace;
   color: snow;
-  text-shadow:3px 3px 3px black;
+  text-shadow: 3px 3px 3px black;
   font-size: 2.7rem;
   text-transform: lowercase;
-  max-width:8%;
-  margin-left:15vw;
+  max-width: 8%;
+  margin-left: 15vw;
 }
 
 .inverseTitleColor {
@@ -246,341 +260,317 @@ text-transform: lowercase;
   text-shadow: 2px 4px 6px #b0b0b0;
 }
 
-@media (width:1368px) and (height:912px) {
-
-  .workStructure{
-    margin:3vh 1vw 1vh 1vw;
-    font-size:1.95rem;
-      grid-gap:5vh;
+@media (width: 1368px) and (height: 912px) {
+  .workStructure {
+    margin: 3vh 1vw 1vh 1vw;
+    font-size: 1.95rem;
+    grid-gap: 5vh;
   }
 
   .workStructureTwo {
-    margin:2vh 1vw 1vh 1vw;
-    font-size:1.9rem;
-      grid-gap:5vh;
+    margin: 2vh 1vw 1vh 1vw;
+    font-size: 1.9rem;
+    grid-gap: 5vh;
   }
 
   .linkButtonOne {
-    margin:2vw 0 0 4vw;
+    margin: 2vw 0 0 4vw;
   }
 
   .linkButtonTwo {
-    margin-top:4vh;
+    margin-top: 4vh;
   }
-
 }
 
-
-@media (width:1280px) and (height:800px) {
-
-  .workStructure{
-    margin:3vh 1vw 1vh 1vw;
-    font-size:1.85rem;
-      grid-gap:5vh;
+@media (width: 1280px) and (height: 800px) {
+  .workStructure {
+    margin: 3vh 1vw 1vh 1vw;
+    font-size: 1.85rem;
+    grid-gap: 5vh;
   }
 
   .workStructureTwo {
-    margin:2vh 1vw 1vh 1vw;
-    font-size:1.75rem;
-      grid-gap:5vh;
+    margin: 2vh 1vw 1vh 1vw;
+    font-size: 1.75rem;
+    grid-gap: 5vh;
   }
 
   .linkButtonOne {
-    margin:2vw 0 0 4vw;
+    margin: 2vw 0 0 4vw;
   }
 
   .linkButtonTwo {
-    margin-top:1vh;
+    margin-top: 1vh;
   }
-
 }
 
-@media (width:1080px) and (height:810px) {
-
+@media (width: 1080px) and (height: 810px) {
   .bodyContainer {
-    height:100vh;
+    height: 100vh;
   }
 
-  .workStructure{
-    margin:4vh 1vw 1vh 1vw;
-    font-size:1.5rem;
-      grid-gap:2.5vh;
+  .workStructure {
+    margin: 4vh 1vw 1vh 1vw;
+    font-size: 1.5rem;
+    grid-gap: 2.5vh;
   }
 
   .workStructureTwo {
-    margin:3vh 1vw 1vh 1vw;
-    font-size:1.4rem;
-      grid-gap:1.2vh;
+    margin: 3vh 1vw 1vh 1vw;
+    font-size: 1.4rem;
+    grid-gap: 1.2vh;
   }
 
   .pageTitle {
-    margin:1vh 0 0 4vw;
+    margin: 1vh 0 0 4vw;
     font-size: 3rem;
   }
 
   .issueTitle {
     font-size: 2.5rem;
   }
-
-
 }
 
-@media (width:1024px) and (height:768px) {
-
-  .workStructure{
-    margin:4vh 1vw 1vh 1vw;
-    font-size:1.4rem;
-      grid-gap:2vh;
+@media (width: 1024px) and (height: 768px) {
+  .workStructure {
+    margin: 4vh 1vw 1vh 1vw;
+    font-size: 1.4rem;
+    grid-gap: 2vh;
   }
 
   .workStructureTwo {
-    margin:3vh 1vw 1vh 1vw;
-    font-size:1.3rem;
-      grid-gap:1vh;
+    margin: 3vh 1vw 1vh 1vw;
+    font-size: 1.3rem;
+    grid-gap: 1vh;
   }
-
-
 }
 
-@media (width:1024px) and (height:600px) {
-
-  .workStructure{
-    margin:4vh 1vw 1vh 1vw;
-    font-size:1.48rem;
-      grid-gap:0.2vh;
+@media (width: 1024px) and (height: 600px) {
+  .workStructure {
+    margin: 4vh 1vw 1vh 1vw;
+    font-size: 1.48rem;
+    grid-gap: 0.2vh;
   }
 
   .workStructureTwo {
-    margin:3vh 1vw 1vh 1vw;
-    font-size:1.42rem;
-      grid-gap:0.1vh;
+    margin: 3vh 1vw 1vh 1vw;
+    font-size: 1.42rem;
+    grid-gap: 0.1vh;
   }
-
-
 }
 
-@media (max-width:927px) and (orientation:landscape) {
-
-  .workStructure, .workStructureTwo {
-    font-size:1.2rem;
-    text-shadow:1px 1px #D10000,
-    2px 2px black;
+@media (max-width: 927px) and (orientation: landscape) {
+  .workStructure,
+  .workStructureTwo {
+    font-size: 1.2rem;
+    text-shadow: 1px 1px #d10000, 2px 2px black;
     letter-spacing: 0.1rem;
-    margin:3vh 3vw;
-    width:100%;
-    grid-gap:6px;
-    white-space:pre-line;
+    margin: 3vh 3vw;
+    width: 100%;
+    grid-gap: 6px;
+    white-space: pre-line;
   }
 
   .pageBackgroundThree {
-    background-position:top;
+    background-position: top;
   }
 
   .pageTitle {
-    margin:35vh 0 0 4vw;
+    margin: 35vh 0 0 4vw;
     font-size: 1.7rem;
-    margin:1vh 0 0 4vw;
+    margin: 1vh 0 0 4vw;
   }
 
   .issueTitle {
-    margin:23vh 0 0 15vw;
+    margin: 23vh 0 0 15vw;
     font-size: 1.4rem;
   }
 
   .linkButtonOne {
-    margin:2vw 0 0 4vw;
+    margin: 2vw 0 0 4vw;
   }
 
   .linkButtonTwo {
-    margin-top:0;
+    margin-top: 0;
   }
-
 }
 
-@media (max-width:913px) and (orientation:portrait) {
-
-  .workStructure, .workStructureTwo {
-    font-size:1.2rem;
+@media (max-width: 913px) and (orientation: portrait) {
+  .workStructure,
+  .workStructureTwo {
+    font-size: 1.2rem;
     letter-spacing: 0.1rem;
-    grid-gap:7.8vh;
+    grid-gap: 7.8vh;
   }
 
   .bodyContainer {
-    max-height:100%;
+    max-height: 100%;
   }
 
   .pageTitle {
-    margin:25vh 0 0 4vw;
+    margin: 25vh 0 0 4vw;
   }
 
   .issueTitle {
-    margin-top:20vh;
+    margin-top: 20vh;
   }
-
 }
 
-@media (max-width:869px) and (orientation:landscape) {
-
-  .workStructure, .workStructureTwo {
-    font-size:1.1rem;
+@media (max-width: 869px) and (orientation: landscape) {
+  .workStructure,
+  .workStructureTwo {
+    font-size: 1.1rem;
   }
 
   .pageTitle {
     font-size: 1.6rem;
+  }
+
+  .issueTitle {
+    margin-top: 3vh;
+  }
 }
 
-.issueTitle {
-  margin-top:3vh;
-}
-}
-
-@media (max-width:846px) and (orientation:landscape) {
-
-  .workStructure, .workStructureTwo {
-    font-size:1rem;
-    letter-spacing:0;
+@media (max-width: 846px) and (orientation: landscape) {
+  .workStructure,
+  .workStructureTwo {
+    font-size: 1rem;
+    letter-spacing: 0;
   }
 
   .linkButtonOne {
-    margin-top:5vh;
+    margin-top: 5vh;
   }
 
   .linkButtonTwo {
-    margin-top:5vw;
+    margin-top: 5vw;
   }
-
 }
 
-@media (width:810px) and (height:1080px) {
-
-  .workStructure{
-    margin:4vh 1vw 1vh 1vw;
-    font-size:1.55rem;
-      grid-gap:7vh;
+@media (width: 810px) and (height: 1080px) {
+  .workStructure {
+    margin: 4vh 1vw 1vh 1vw;
+    font-size: 1.55rem;
+    grid-gap: 7vh;
   }
 
   .workStructureTwo {
-    margin:3vh 1vw 1vh 1vw;
-    font-size:1.45rem;
-      grid-gap:6vh;
+    margin: 3vh 1vw 1vh 1vw;
+    font-size: 1.45rem;
+    grid-gap: 6vh;
   }
 
   .workColumn {
-    max-width:27vw;
+    max-width: 27vw;
   }
 
   .workColumnTwo {
-    max-width:33vw;
+    max-width: 33vw;
   }
 
   .pageTitle {
     font-size: 3.6rem;
-    margin:2vh 0 0 4vw;
+    margin: 2vh 0 0 4vw;
   }
 
   .issueTitle {
     font-size: 3rem;
-    margin-top:10vh;
+    margin-top: 10vh;
   }
-
-
 }
 
-@media (width:800px) and (height:1280px) {
-
-  .workStructure{
-    margin:5vh 1vw 1vh 1vw;
-      grid-gap:5vh;
+@media (width: 800px) and (height: 1280px) {
+  .workStructure {
+    margin: 5vh 1vw 1vh 1vw;
+    grid-gap: 5vh;
   }
 
   .workStructureTwo {
-    margin:4vh 1vw 1vh 1vw;
-      grid-gap:5vh;
+    margin: 4vh 1vw 1vh 1vw;
+    grid-gap: 5vh;
   }
 
   .workColumn {
-    max-width:27vw;
+    max-width: 27vw;
   }
 
   .workColumnTwo {
-    max-width:33vw;
+    max-width: 33vw;
   }
 
   .pageTitle {
     font-size: 3.6rem;
-    margin:7vh 0 0 4vw;
+    margin: 7vh 0 0 4vw;
   }
 
   .issueTitle {
     font-size: 3rem;
-    margin-top:10vh;
+    margin-top: 10vh;
   }
-
-
 }
 
-@media (max-width:801px) and (orientation:landscape) {
-
-  .workStructure, .workStructureTwo {
-    font-size:0.9rem;
-    grid-gap:13px;
+@media (max-width: 801px) and (orientation: landscape) {
+  .workStructure,
+  .workStructureTwo {
+    font-size: 0.9rem;
+    grid-gap: 13px;
   }
 
   .pageTitle {
     font-size: 1.65rem;
-    margin:2vh 0 0 4vw;
+    margin: 2vh 0 0 4vw;
   }
 
   .issueTitle {
     font-size: 1.4rem;
-    margin-top:5vh;
-    margin-left:15vw;
+    margin-top: 5vh;
+    margin-left: 15vw;
   }
-
 }
 
-@media (width:768px) and (height:1024px) {
-
-  .workStructure, .workStructureTwo {
-    grid-gap:4vh;
+@media (width: 768px) and (height: 1024px) {
+  .workStructure,
+  .workStructureTwo {
+    grid-gap: 4vh;
   }
 
   .pageTitle {
     font-size: 2.7rem;
-    margin:15vh 0 0 4vw;
+    margin: 15vh 0 0 4vw;
   }
-
 }
 
-@media (width:720px) and  (height:540px) {
-
-  .workStructure, .workStructureTwo {
-    font-size:1.25rem;
-    grid-gap:2vh;
+@media (width: 720px) and (height: 540px) {
+  .workStructure,
+  .workStructureTwo {
+    font-size: 1.25rem;
+    grid-gap: 2vh;
   }
 
-  .linkButtonOne, .linkButtonTwo {
-    font-size:0.9rem;
+  .linkButtonOne,
+  .linkButtonTwo {
+    font-size: 0.9rem;
   }
 
   .pageTitle {
-    margin:7vh 0 0 2vw;
+    margin: 7vh 0 0 2vw;
   }
 
   .issueTitle {
-    margin-left:14vw;
+    margin-left: 14vw;
   }
 }
 
-@media (max-width:667px) and (orientation:landscape) {
-
-  .workStructure, .workStructureTwo {
-    font-size:0.85rem;
-    grid-gap:10px;
+@media (max-width: 667px) and (orientation: landscape) {
+  .workStructure,
+  .workStructureTwo {
+    font-size: 0.85rem;
+    grid-gap: 10px;
   }
 
-  .linkButtonOne, .linkButtonTwo {
-    font-size:1rem;
+  .linkButtonOne,
+  .linkButtonTwo {
+    font-size: 1rem;
   }
 
   .pageTitle {
@@ -590,133 +580,138 @@ text-transform: lowercase;
   .issueTitle {
     font-size: 1.25rem;
   }
-
 }
 
-@media (max-width:605px) and (orientation:portrait) {
-
-  .pageBackgroundOne, .pageBackgroundTwo {
-    min-width:34%;
+@media (max-width: 605px) and (orientation: portrait) {
+  .pageBackgroundOne,
+  .pageBackgroundTwo {
+    min-width: 34%;
   }
 
   .pageBackgroundThree {
-    min-width:32%;
+    min-width: 32%;
   }
 
-  .workStructure, .workStructureTwo {
-    font-size:1.2rem;
-    text-shadow:1px 1px #D10000,
-    2px 2px black;
-    margin:3vh 1vw;
-    max-width:75%;
-    grid-gap:20px;
-    white-space:pre-line;
+  .workStructure,
+  .workStructureTwo {
+    font-size: 1.2rem;
+    text-shadow: 1px 1px #d10000, 2px 2px black;
+    margin: 3vh 1vw;
+    max-width: 75%;
+    grid-gap: 20px;
+    white-space: pre-line;
   }
 
-  .workColumn, .workColumnTwo {
-    max-width:100%;
+  .workColumn,
+  .workColumnTwo {
+    max-width: 100%;
   }
 
   .workStructureTwo {
-    margin-top:1vh;
+    margin-top: 1vh;
   }
 
   .pageTitle {
-    font-size:1.9rem;
-    margin:7vh 0 0 3vw;
+    font-size: 1.9rem;
+    margin: 7vh 0 0 3vw;
   }
 
   .issueTitle {
-    font-size:1.4rem;
-    margin-left:14vw;
+    font-size: 1.4rem;
+    margin-left: 14vw;
   }
 
   .linkButtonOne {
-    width:100%;
-    margin-top:2vh;
+    width: 100%;
+    margin-top: 2vh;
   }
 
   .linkButtonTwo {
-    margin-right:5vw;
+    margin-right: 5vw;
   }
 
-  .linkButtonOne, .linkButtonTwo {
-    font-size:0.9rem;
+  .linkButtonOne,
+  .linkButtonTwo {
+    font-size: 0.9rem;
   }
 }
 
-@media (width:540px) and  (height:720px) {
-
-  .workStructure, .workStructureTwo {
-    font-size:1.2rem;
-    grid-gap:3vh;
+@media (width: 540px) and (height: 720px) {
+  .workStructure,
+  .workStructureTwo {
+    font-size: 1.2rem;
+    grid-gap: 3vh;
   }
 
-  .linkButtonOne, .linkButtonTwo {
-    font-size:0.9rem;
+  .linkButtonOne,
+  .linkButtonTwo {
+    font-size: 0.9rem;
   }
 
   .pageTitle {
-    margin:7vh 0 0 2vw;
+    margin: 7vh 0 0 2vw;
   }
 
   .issueTitle {
-    margin-left:14vw;
+    margin-left: 14vw;
   }
 }
 
-@media (max-width:415px) and (orientation:portrait) {
-
-  .workStructure, .workStructureTwo {
-    font-size:1.1rem;
-    grid-gap:10px;
+@media (max-width: 415px) and (orientation: portrait) {
+  .workStructure,
+  .workStructureTwo {
+    font-size: 1.1rem;
+    grid-gap: 10px;
   }
 }
 
-@media (max-width:391px) and (orientation:portrait) {
-
-  .workStructure, .workStructureTwo {
-    font-size:1rem;
-    grid-gap:10px;
+@media (max-width: 391px) and (orientation: portrait) {
+  .workStructure,
+  .workStructureTwo {
+    font-size: 1rem;
+    grid-gap: 10px;
   }
 
-  .linkButtonOne, .linkButtonTwo {
-    font-size:0.7rem;
+  .linkButtonOne,
+  .linkButtonTwo {
+    font-size: 0.7rem;
   }
 }
 
-@media (max-width:361px) and (orientation:portrait) {
-
-  .workStructure, .workStructureTwo {
-    font-size:0.9rem;
+@media (max-width: 361px) and (orientation: portrait) {
+  .workStructure,
+  .workStructureTwo {
+    font-size: 0.9rem;
   }
 
-  .linkButtonOne, .linkButtonTwo {
-    font-size:0.8rem;
+  .linkButtonOne,
+  .linkButtonTwo {
+    font-size: 0.8rem;
   }
 
   .issueTitle {
-    margin-left:6vw;
+    margin-left: 6vw;
   }
 }
 
-@media (max-width:321px) and (orientation:portrait) {
-
-  .workStructure, .workStructureTwo {
-    font-size:0.8rem;
-      grid-gap:3vh;
+@media (max-width: 321px) and (orientation: portrait) {
+  .workStructure,
+  .workStructureTwo {
+    font-size: 0.8rem;
+    grid-gap: 3vh;
   }
 
-  .linkButtonOne, .linkButtonTwo {
-    font-size:0.7rem;
+  .linkButtonOne,
+  .linkButtonTwo {
+    font-size: 0.7rem;
   }
 }
 
-@media (max-height:281px) and (orientation:landscape) {
-
-  .workStructure, .workStructureTwo {
-    font-size:0.7rem;
-    grid-gap:1.4vh;
+@media (max-height: 281px) and (orientation: landscape) {
+  .workStructure,
+  .workStructureTwo {
+    font-size: 0.7rem;
+    grid-gap: 1.4vh;
   }
 
   .pageTitle {
@@ -726,5 +721,4 @@ text-transform: lowercase;
   .issueTitle {
     font-size: 1.1rem;
   }
-
 }
