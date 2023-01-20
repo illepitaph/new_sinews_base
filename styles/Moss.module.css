@@ -1,47 +1,35 @@
 .title {
-  font-family:"lores-9-plus-wide-bold-alt", monospace;
-  color:#b0b0b0;
-  font-size:4.3rem;
-  text-shadow:3px 3px snow,
-              4px 4px black,
-              6px 6px snow,
-              8px 8px 12px #b0b0b0;
-  font-weight:400;
-  text-align:right;
-  text-transform:lowercase;
+  font-family: "lores-9-plus-wide-bold-alt", monospace;
+  color: #b0b0b0;
+  font-size: 4.3rem;
+  text-shadow: 3px 3px snow, 4px 4px black, 6px 6px snow, 8px 8px 12px #b0b0b0;
+  font-weight: 400;
+  text-align: right;
+  text-transform: lowercase;
   margin: 14vh 7vw 14vh 0;
 }
 
 .titleShadow {
-  text-shadow:2px 2px snow,
-              4px 4px #b0b0b0,
-              6px 6px snow,
-              8px 8px #b0b0b0;
+  text-shadow: 2px 2px snow, 4px 4px #b0b0b0, 6px 6px snow, 8px 8px #b0b0b0;
 }
 
 .inverseShadow {
-  color:black;
-  text-shadow:4px 4px snow,
-              6px 6px black,
-              10px 10px 12px #b0b0b0;
+  color: black;
+  text-shadow: 4px 4px snow, 6px 6px black, 10px 10px 12px #b0b0b0;
 }
 
 .t {
-  text-transform:uppercase;
+  text-transform: uppercase;
 }
 
-@media (max-width:429px) and (orientation:portrait) {
-
+@media (max-width: 429px) and (orientation: portrait) {
   .title {
-    font-size:3.7rem;
+    font-size: 3.7rem;
   }
-
 }
 
-@media (max-width:281px) and (orientation:portrait) {
-
+@media (max-width: 281px) and (orientation: portrait) {
   .title {
-    font-size:3rem;
+    font-size: 3rem;
   }
-
 }
