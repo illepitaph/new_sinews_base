@@ -1,260 +1,266 @@
 @keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-moz-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-webkit-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-o-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-ms-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 .container {
-  display:grid;
+  display: grid;
   place-items: center;
-  margin-top:10%;
-  background-image:url("../public/images/TheaterBackground.jpg");
-  background-position:center;
-  background-size:cover;
+  margin-top: 10%;
+  background-image: url("../public/images/TheaterBackground.jpg");
+  background-position: center;
+  background-size: cover;
 }
 
 .carousel {
-  position:relative;
-  display:flex;
-  flex-flow:row wrap;
-  justify-content:center;
-  align-items:center;
-  width:70%;
-  height:130vh;
-  margin:8vh 0 6vh 0;
+  position: relative;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  width: 70%;
+  height: 130vh;
+  margin: 8vh 0 6vh 0;
   box-shadow: 20px 56px 55px whitesmoke;
   animation: fadeIn ease-out 2s;
-
 }
 
 .carousel > .prev {
-  position:absolute;
+  position: absolute;
   z-index: 1;
-  top:20%;
-  left:-13%;
-  flex:5%;
-  height:5%;
-  display:grid;
-  place-items:center;
-  color:black;
-  font-size:4rem;
-  font-weight:700;
-  text-shadow: 2px 3px snow,
-                4px 6px dimgray;
-  letter-spacing:-0.2rem;
-  cursor:pointer;
-  opacity:0.8;
-  line-height:4rem;
+  top: 20%;
+  left: -13%;
+  flex: 5%;
+  height: 5%;
+  display: grid;
+  place-items: center;
+  color: black;
+  font-size: 4rem;
+  font-weight: 700;
+  text-shadow: 2px 3px snow, 4px 6px dimgray;
+  letter-spacing: -0.2rem;
+  cursor: pointer;
+  opacity: 0.8;
+  line-height: 4rem;
 }
 
 .carousel > .next {
-  position:absolute;
-  z-index:1;
-  top:65%;
-  right:-8%;
-  flex:5%;
-  height:20%;
-  display:grid;
-  place-items:center;
-  color:whitesmoke;
-  font-size:4rem;
-  font-weight:700;
-  text-shadow: 2px 2px gainsboro,
-                3px 3px black,
-                 4px 4px dimgray;
-  letter-spacing:-0.2rem;
-  cursor:pointer;
-  opacity:0.7;
-  line-height:4rem;
+  position: absolute;
+  z-index: 1;
+  top: 65%;
+  right: -8%;
+  flex: 5%;
+  height: 20%;
+  display: grid;
+  place-items: center;
+  color: whitesmoke;
+  font-size: 4rem;
+  font-weight: 700;
+  text-shadow: 2px 2px gainsboro, 3px 3px black, 4px 4px dimgray;
+  letter-spacing: -0.2rem;
+  cursor: pointer;
+  opacity: 0.7;
+  line-height: 4rem;
 }
 
 .img {
-  max-width:100%;
-  max-height:100%;
+  max-width: 100%;
+  max-height: 100%;
 }
 
 .prev:hover {
-  font-size:4.2rem;
-  color:white;
-  text-shadow:2px 3px snow,
-             5px 5px dimgray;
+  font-size: 4.2rem;
+  color: white;
+  text-shadow: 2px 3px snow, 5px 5px dimgray;
 }
 
 .next:hover {
-  font-size:4.2rem;
-  color:dimgray;
-  text-shadow:3px 3px black;
+  font-size: 4.2rem;
+  color: dimgray;
+  text-shadow: 3px 3px black;
 }
 
-
 .blackShadow {
-  color:black;
-  text-shadow:4px 4px snow,
-              6px 6px #b0b0b0;
+  color: black;
+  text-shadow: 4px 4px snow, 6px 6px #b0b0b0;
 }
 
 .grayShadow {
-  color:gainsboro;
-  text-shadow:2px 2px black,
-              4px 4px #b0b0b0;
+  color: gainsboro;
+  text-shadow: 2px 2px black, 4px 4px #b0b0b0;
   text-transform: uppercase;
-  letter-spacing:1.4rem;
-  line-height:5.4rem;
+  letter-spacing: 1.4rem;
+  line-height: 5.4rem;
 }
 
 .alternateShadow {
-  color:#b0b0b0;
-  text-shadow:4px 4px snow,
-
+  color: #b0b0b0;
+  text-shadow: 4px 4px snow;
 }
 
 .blueLetter {
-  color:#2cbae7;
-  text-shadow:4px 4px snow,
-              6px 6px #b0b0b0;
+  color: #2cbae7;
+  text-shadow: 4px 4px snow, 6px 6px #b0b0b0;
 }
 
-.load, .increasedSizeText {
+.load,
+.increasedSizeText {
   animation: fadeIn ease-in 0.7s;
 }
 
-@media (max-width:927px) and (orientation:landscape) {
-
-
-  .carousel > .prev, .carousel > .next {
-    font-size:3rem;
+@media (max-width: 927px) and (orientation: landscape) {
+  .carousel > .prev,
+  .carousel > .next {
+    font-size: 3rem;
   }
 
   .carousel {
-    height:170vh;
+    height: 170vh;
   }
 }
 
-@media (max-width:921px) and (orientation:portrait) {
-
-
+@media (max-width: 921px) and (orientation: portrait) {
   .container {
-  margin-top:0;
+    margin-top: 0;
   }
 
   .carousel {
-    width:90%;
-    height:70vh;
-    margin:2vh 0;
+    width: 90%;
+    height: 70vh;
+    margin: 2vh 0;
   }
 
-  .carousel > .prev, .carousel > .next {
-    font-size:3rem;
-    line-height:2.5rem;
-    letter-spacing:0;
+  .carousel > .prev,
+  .carousel > .next {
+    font-size: 3rem;
+    line-height: 2.5rem;
+    letter-spacing: 0;
   }
 
   .carousel > .prev {
-    left:1%;
-    top:11%;
+    left: 1%;
+    top: 11%;
   }
 
   .carousel > .next {
-    right:5%;
-    top:73%;
+    right: 5%;
+    top: 73%;
   }
 
   .img {
-    width:95%;
+    width: 95%;
   }
 }
 
-@media (max-width:721px) and (orientation:landscape) {
-
+@media (max-width: 721px) and (orientation: landscape) {
   .carousel {
-    width:90%;
+    width: 90%;
   }
 
-  .carousel > .prev, .carousel > .next {
-    font-size:3rem;
-    line-height:2.5rem;
+  .carousel > .prev,
+  .carousel > .next {
+    font-size: 3rem;
+    line-height: 2.5rem;
   }
 
   .carousel > .prev {
-    left:-3%;
-    top:0%;
+    left: -3%;
+    top: 0%;
   }
 
   .carousel > .next {
-    right:0%;
-    top:73%;
+    right: 0%;
+    top: 73%;
   }
-
 }
 
-@media (max-width:541px) and (orientation:portrait) {
-
-  .carousel > .prev, .carousel > .next {
-    font-size:2.4rem;
+@media (max-width: 541px) and (orientation: portrait) {
+  .carousel > .prev,
+  .carousel > .next {
+    font-size: 2.4rem;
   }
 
   .carousel > .prev {
-    top:-2%;
+    top: -2%;
   }
-
 }
 
-@media (max-width:429px) and (orientation:portrait) {
-
+@media (max-width: 429px) and (orientation: portrait) {
   .container {
-    background-position:center;
-    background-size:contain;
+    background-position: center;
+    background-size: contain;
   }
 
   .carousel {
-    width:99%;
+    width: 99%;
   }
 
-  .carousel > .prev, .carousel > .next {
-    font-size:2rem;
-    line-height:2rem;
-    letter-spacing:0;
+  .carousel > .prev,
+  .carousel > .next {
+    font-size: 2rem;
+    line-height: 2rem;
+    letter-spacing: 0;
   }
 
   .carousel > .prev {
-    left:-1%;
-    top:11%;
+    left: -1%;
+    top: 11%;
   }
 
   .carousel > .next {
-    right:3%;
-    top:73%;
+    right: 3%;
+    top: 73%;
   }
 
   .img {
-    width:100%;
-    height:60vh;
+    width: 100%;
+    height: 60vh;
   }
 }
 
-
-@media (max-width:281px) and (orientation:portrait) {
-
-  .carousel > .prev, .carousel > .next {
-    font-size:1.8rem;
+@media (max-width: 281px) and (orientation: portrait) {
+  .carousel > .prev,
+  .carousel > .next {
+    font-size: 1.8rem;
   }
 }
