@@ -1,366 +1,373 @@
 .titleShadow {
-  text-shadow:2px 2px snow,
-              4px 4px black;
+  text-shadow: 2px 2px snow, 4px 4px black;
 }
 
 .inverseShadow {
-  color:black;
-  text-shadow:4px 4px snow,
-              6px 6px #b0b0b0;
+  color: black;
+  text-shadow: 4px 4px snow, 6px 6px #b0b0b0;
 }
 
 .titleShadowUppercase {
-  text-shadow:2px 2px snow,
-              4px 4px black;
-  text-transform:uppercase;
+  text-shadow: 2px 2px snow, 4px 4px black;
+  text-transform: uppercase;
 }
 
 .inverseShadowUppercase {
-  color:black;
-  text-shadow:4px 4px snow,
-              6px 6px #b0b0b0;
-  text-transform:uppercase;
+  color: black;
+  text-shadow: 4px 4px snow, 6px 6px #b0b0b0;
+  text-transform: uppercase;
 }
 
 .bigSeparator {
-  font-size:6rem;
-  opacity:0.5;
+  font-size: 6rem;
+  opacity: 0.5;
 }
-
 
 .rightLineation {
   font-family: "base-9-sans", sans-serif;
   font-weight: 300;
   font-style: normal;
-  font-size:1.2rem;
-  text-shadow:2px 2px gainsboro;
-  text-align:right;
-  letter-spacing:-0.02rem;
-  line-height:1.7em;
-  margin-right:7vw;
+  font-size: 1.2rem;
+  text-shadow: 2px 2px gainsboro;
+  text-align: right;
+  letter-spacing: -0.02rem;
+  line-height: 1.7em;
+  margin-right: 7vw;
 }
 
 .leftLineation {
   font-family: "base-9-sans", sans-serif;
   font-weight: 300;
   font-style: normal;
-  font-size:1.2rem;
-  text-shadow:2px 2px gainsboro;
-  text-align:left;
-  letter-spacing:-0.02rem;
-  line-height:1.7em;
-  margin-left:7vw;
+  font-size: 1.2rem;
+  text-shadow: 2px 2px gainsboro;
+  text-align: left;
+  letter-spacing: -0.02rem;
+  line-height: 1.7em;
+  margin-left: 7vw;
 }
 
 .middleishLineation {
   font-family: "base-9-sans", sans-serif;
   font-weight: 300;
   font-style: normal;
-  font-size:1.2rem;
-  text-shadow:2px 2px gainsboro;
-  letter-spacing:-0.02rem;
-  line-height:1.7em;
-  margin-left:41vw;
+  font-size: 1.2rem;
+  text-shadow: 2px 2px gainsboro;
+  letter-spacing: -0.02rem;
+  line-height: 1.7em;
+  margin-left: 41vw;
 }
 
 .smallTextWall {
-  font-size:7rem;
-  letter-spacing:2.5vw;
-  text-shadow:2px 2px snow,
-              4px 4px #D10000;
+  font-size: 7rem;
+  letter-spacing: 2.5vw;
+  text-shadow: 2px 2px snow, 4px 4px #d10000;
 }
 
 .mediumTextWall {
-  font-size:8.5rem;
-  letter-spacing:2.5vw;
-  text-shadow:2px 2px snow,
-              4px 4px #D10000;
+  font-size: 8.5rem;
+  letter-spacing: 2.5vw;
+  text-shadow: 2px 2px snow, 4px 4px #d10000;
 }
 
 .largeTextWall {
-  font-size:9rem;
-  letter-spacing:2.5vw;
-  text-shadow:2px 2px snow,
-              4px 4px #D10000;
+  font-size: 9rem;
+  letter-spacing: 2.5vw;
+  text-shadow: 2px 2px snow, 4px 4px #d10000;
 }
 
 .extraLargeTextWall {
-  font-size:9.5rem;
-  letter-spacing:2.5vw;
-  text-shadow:2px 2px snow,
-              4px 4px #D10000;
+  font-size: 9.5rem;
+  letter-spacing: 2.5vw;
+  text-shadow: 2px 2px snow, 4px 4px #d10000;
 }
 
 .extraExtraLargeTextWall {
-  font-size:9.9rem;
-  letter-spacing:2.5vw;
-  text-shadow:2px 2px snow,
-              4px 4px #D10000;
+  font-size: 9.9rem;
+  letter-spacing: 2.5vw;
+  text-shadow: 2px 2px snow, 4px 4px #d10000;
 }
 
 .blackBackground {
-  background-color:black;
-  color:white;
-  text-shadow:none;
-
+  background-color: black;
+  color: white;
+  text-shadow: none;
 }
 
 .blackBackgroundSpecial {
-  display:inline-flex;
-  flex-flow:row wrap;
-  align-items:flex-end;
-  height:9.5rem;
-  font-size:1rem;
-  background-color:black;
-  color:white;
-  text-shadow:none;
-  letter-spacing:0.1rem;
-  padding-bottom:2.2rem;
-
+  display: inline-flex;
+  flex-flow: row wrap;
+  align-items: flex-end;
+  height: 9.5rem;
+  font-size: 1rem;
+  background-color: black;
+  color: white;
+  text-shadow: none;
+  letter-spacing: 0.1rem;
+  padding-bottom: 2.2rem;
 }
 
-@media (width: 1080px) and (height:810px) {
-
-    .smallTextWall, .mediumTextWall, .largeTextWall , .extraLargeTextWall, .extraExtraLargeTextWall {
-        letter-spacing:2vw;
-      }
-
+@media (width: 1080px) and (height: 810px) {
+  .smallTextWall,
+  .mediumTextWall,
+  .largeTextWall,
+  .extraLargeTextWall,
+  .extraExtraLargeTextWall {
+    letter-spacing: 2vw;
+  }
 }
 
-@media (width: 1024px) and (height:768px) {
-
-    .smallTextWall, .mediumTextWall, .largeTextWall , .extraLargeTextWall, .extraExtraLargeTextWall {
-        letter-spacing:1.8vw;
-      }
-
+@media (width: 1024px) and (height: 768px) {
+  .smallTextWall,
+  .mediumTextWall,
+  .largeTextWall,
+  .extraLargeTextWall,
+  .extraExtraLargeTextWall {
+    letter-spacing: 1.8vw;
+  }
 }
 
-@media (width: 1024px) and (height:600px) {
-
-    .smallTextWall, .mediumTextWall, .largeTextWall , .extraLargeTextWall, .extraExtraLargeTextWall {
-        letter-spacing:1.8vw;
-      }
-
+@media (width: 1024px) and (height: 600px) {
+  .smallTextWall,
+  .mediumTextWall,
+  .largeTextWall,
+  .extraLargeTextWall,
+  .extraExtraLargeTextWall {
+    letter-spacing: 1.8vw;
+  }
 }
 
-@media (max-width: 927px) and (orientation:landscape) {
-
+@media (max-width: 927px) and (orientation: landscape) {
   .rightLineation {
-    margin-right:2vw;
+    margin-right: 2vw;
   }
 
   .middleishLineation {
-    margin-left:20vw;
+    margin-left: 20vw;
   }
 
   .leftLineation {
-      margin-left:2vw;
-    }
+    margin-left: 2vw;
+  }
 
-    .smallTextWall, .mediumTextWall, .largeTextWall , .extraLargeTextWall, .extraExtraLargeTextWall {
-        letter-spacing:1.3vw;
-      }
-
+  .smallTextWall,
+  .mediumTextWall,
+  .largeTextWall,
+  .extraLargeTextWall,
+  .extraExtraLargeTextWall {
+    letter-spacing: 1.3vw;
+  }
 }
 
-@media (max-width: 913px) and (orientation:portrait) {
-
+@media (max-width: 913px) and (orientation: portrait) {
   .rightLineation {
-    margin-right:2vw;
+    margin-right: 2vw;
   }
 
   .leftLineation {
-    margin-left:2vw;
-    }
-
-    .middleishLineation {
-      margin-left:20vw;
-    }
-
-  .smallTextWall, .mediumTextWall, .largeTextWall , .extraLargeTextWall, .extraExtraLargeTextWall {
-      letter-spacing:1vw;
-    }
-
-    .smallTextWall {
-      font-size:5rem;
-    }
-
-    .mediumTextWall {
-      font-size:6.5rem;
-    }
-
-    .largeTextWall {
-      font-size:7rem;
-    }
-
-    .extraLargeTextWall {
-      font-size:7.5rem;
-    }
-
-    .extraExtraLargeTextWall {
-      font-size:7.9rem;
-    }
-
-}
-
-@media (max-width: 855px) and (orientation:landscape) {
-
-      .smallTextWall {
-        font-size:5rem;
-      }
-
-      .mediumTextWall {
-        font-size:6.5rem;
-      }
-
-      .largeTextWall {
-        font-size:7rem;
-      }
-
-      .extraLargeTextWall {
-        font-size:7.5rem;
-      }
-
-      .extraExtraLargeTextWall {
-        font-size:7.9rem;
-      }
-
-}
-
-@media (width: 720px) and (height:540px) {
-
-
-.smallTextWall {
-  font-size:4rem;
-}
-
-.mediumTextWall {
-  font-size:5.5rem;
-}
-
-.largeTextWall {
-  font-size:6rem;
-}
-
-.extraLargeTextWall {
-  font-size:6.5rem;
-}
-
-.extraExtraLargeTextWall {
-  font-size:6.9rem;
-}
-
-}
-
-@media (max-width: 667px) and (orientation:landscape) {
-
-  .rightLineation, .leftLineation {
-    white-space: pre-line;
+    margin-left: 2vw;
   }
-
-  .smallTextWall, .mediumTextWall, .largeTextWall , .extraLargeTextWall, .extraExtraLargeTextWall {
-        line-height:47vh;
-    }
-}
-
-@media (max-width: 541px) and (orientation:portrait) {
-
-  .rightLineation {
-    font-size:1rem;
-    margin-right:2vw;
-    white-space: pre-line;
-  }
-
-  .leftLineation {
-    font-size:1rem;
-    margin-left:2vw;
-    white-space: pre-line;
-    }
 
   .middleishLineation {
-      font-size:1rem;
-      white-space: pre-line;
-        margin-left:11vw;
-      }
+    margin-left: 20vw;
+  }
 
-      .smallTextWall {
-        font-size:3rem;
-      }
+  .smallTextWall,
+  .mediumTextWall,
+  .largeTextWall,
+  .extraLargeTextWall,
+  .extraExtraLargeTextWall {
+    letter-spacing: 1vw;
+  }
 
-      .mediumTextWall {
-        font-size:4.5rem;
-      }
+  .smallTextWall {
+    font-size: 5rem;
+  }
 
-      .largeTextWall {
-        font-size:5rem;
-      }
+  .mediumTextWall {
+    font-size: 6.5rem;
+  }
 
-      .extraLargeTextWall {
-        font-size:5.5rem;
-      }
+  .largeTextWall {
+    font-size: 7rem;
+  }
 
-      .extraExtraLargeTextWall {
-        font-size:5.9rem;
-      }
+  .extraLargeTextWall {
+    font-size: 7.5rem;
+  }
 
+  .extraExtraLargeTextWall {
+    font-size: 7.9rem;
+  }
 }
 
-@media (max-width: 429px) and (orientation:portrait) {
+@media (max-width: 855px) and (orientation: landscape) {
+  .smallTextWall {
+    font-size: 5rem;
+  }
 
+  .mediumTextWall {
+    font-size: 6.5rem;
+  }
+
+  .largeTextWall {
+    font-size: 7rem;
+  }
+
+  .extraLargeTextWall {
+    font-size: 7.5rem;
+  }
+
+  .extraExtraLargeTextWall {
+    font-size: 7.9rem;
+  }
+}
+
+@media (width: 720px) and (height: 540px) {
+  .smallTextWall {
+    font-size: 4rem;
+  }
+
+  .mediumTextWall {
+    font-size: 5.5rem;
+  }
+
+  .largeTextWall {
+    font-size: 6rem;
+  }
+
+  .extraLargeTextWall {
+    font-size: 6.5rem;
+  }
+
+  .extraExtraLargeTextWall {
+    font-size: 6.9rem;
+  }
+}
+
+@media (max-width: 667px) and (orientation: landscape) {
+  .rightLineation,
+  .leftLineation {
+    white-space: pre-line;
+  }
+
+  .smallTextWall,
+  .mediumTextWall,
+  .largeTextWall,
+  .extraLargeTextWall,
+  .extraExtraLargeTextWall {
+    line-height: 47vh;
+  }
+}
+
+@media (max-width: 541px) and (orientation: portrait) {
+  .rightLineation {
+    font-size: 1rem;
+    margin-right: 2vw;
+    white-space: pre-line;
+  }
+
+  .leftLineation {
+    font-size: 1rem;
+    margin-left: 2vw;
+    white-space: pre-line;
+  }
+
+  .middleishLineation {
+    font-size: 1rem;
+    white-space: pre-line;
+    margin-left: 11vw;
+  }
+
+  .smallTextWall {
+    font-size: 3rem;
+  }
+
+  .mediumTextWall {
+    font-size: 4.5rem;
+  }
+
+  .largeTextWall {
+    font-size: 5rem;
+  }
+
+  .extraLargeTextWall {
+    font-size: 5.5rem;
+  }
+
+  .extraExtraLargeTextWall {
+    font-size: 5.9rem;
+  }
+}
+
+@media (max-width: 429px) and (orientation: portrait) {
   .titleShadow {
-    font-size:2.1rem;
+    font-size: 2.1rem;
   }
 
   .rightLineation {
-    margin-right:1vw;
+    margin-right: 1vw;
   }
 
   .leftLineation {
-      margin-left:1vw;
-    }
+    margin-left: 1vw;
+  }
 
-  .smallTextWall, .mediumTextWall, .largeTextWall , .extraLargeTextWall, .extraExtraLargeTextWall {
-        line-height:12vh;
-    }
+  .smallTextWall,
+  .mediumTextWall,
+  .largeTextWall,
+  .extraLargeTextWall,
+  .extraExtraLargeTextWall {
+    line-height: 12vh;
+  }
 
-    .smallTextWall {
-          letter-spacing:0.6vw;
-      }
+  .smallTextWall {
+    letter-spacing: 0.6vw;
+  }
 
-      .mediumTextWall, .largeTextWall, .extraLargeTextWall, .extraExtraLargeTextWall {
-            letter-spacing:0.4vw;
-        }
-
+  .mediumTextWall,
+  .largeTextWall,
+  .extraLargeTextWall,
+  .extraExtraLargeTextWall {
+    letter-spacing: 0.4vw;
+  }
 }
 
-
-@media (max-width: 376px) and (orientation:portrait) {
-
+@media (max-width: 376px) and (orientation: portrait) {
   .rightLineation {
-      font-size:0.9rem;
+    font-size: 0.9rem;
   }
 
   .leftLineation {
-      font-size:0.9rem;
-    }
+    font-size: 0.9rem;
+  }
 
-    .middleishLineation {
-        font-size:0.9rem;
-        }
+  .middleishLineation {
+    font-size: 0.9rem;
+  }
 
-        .smallTextWall, .mediumTextWall, .largeTextWall , .extraLargeTextWall, .extraExtraLargeTextWall {
-              line-height:17vh;
-          }
-
+  .smallTextWall,
+  .mediumTextWall,
+  .largeTextWall,
+  .extraLargeTextWall,
+  .extraExtraLargeTextWall {
+    line-height: 17vh;
+  }
 }
 
-@media (max-width: 361px) and (orientation:portrait) {
+@media (max-width: 361px) and (orientation: portrait) {
+  .smallTextWall,
+  .mediumTextWall,
+  .largeTextWall,
+  .extraLargeTextWall,
+  .extraExtraLargeTextWall {
+    line-height: 19vh;
+  }
 
-  .smallTextWall, .mediumTextWall, .largeTextWall , .extraLargeTextWall, .extraExtraLargeTextWall {
-        line-height:19vh;
-    }
-
-    .mediumTextWall, .largeTextWall, .extraLargeTextWall, .extraExtraLargeTextWall {
-          letter-spacing:0.1vw;
-      }
+  .mediumTextWall,
+  .largeTextWall,
+  .extraLargeTextWall,
+  .extraExtraLargeTextWall {
+    letter-spacing: 0.1vw;
+  }
 }

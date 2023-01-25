@@ -1,40 +1,49 @@
-import Head from 'next/head'
-import Header from '../../components/header.js'
-import LeftGrayTitle from '../../components/leftGrayTitle.js'
-import RightGrayTitle from '../../components/rightGrayTitle.js'
-import Footer from '../../components/footer.js'
-import styles from '../../styles/Yrclimate.module.css'
-YrClimate.title = "steven_alvarez ~ yr_climate — new_sinews"
-YrClimate.pieceName = "steven_alvarez ~ yr_climate — new_sinews"
-YrClimate.description = "_Steven Alvarez_poetry_YR CLIMATE_new_sinews_issue5"
-YrClimate.image = "https://www.newnewsinews.com/images/YrClimateBackground.jpg"
+import Head from "next/head";
+import Header from "../../components/header.js";
+import LeftGrayTitle from "../../components/leftGrayTitle.js";
+import RightGrayTitle from "../../components/rightGrayTitle.js";
+import Footer from "../../components/footer.js";
+import styles from "../../styles/Yrclimate.module.css";
+YrClimate.title = "steven_alvarez ~ yr_climate — new_sinews";
+YrClimate.pieceName = "steven_alvarez ~ yr_climate — new_sinews";
+YrClimate.description = "_Steven Alvarez_poetry_YR CLIMATE_new_sinews_issue5";
+YrClimate.image = "https://www.newnewsinews.com/images/YrClimateBackground.jpg";
 
 export default function YrClimate() {
   return (
-      <>
-          <Head/>
+    <>
+      <Head />
 
-       <Header headerBackground="yrClimateBackground"/>
+      <Header headerBackground="yrClimateBackground" />
 
-        <LeftGrayTitle>_ <span className={styles.titleShadow}>s<span
-        className={styles.inverseShadowUppercase}>t </span>e<span
-        className={styles.inverseShadow}>v</span>   e   <span
-        className={styles.inverseShadow}>n</span><br/> a <span
-        className={styles.titleShadowUppercase}>l</span> <span
-        className={styles.inverseShadow}>v</span>a<span
-        className={styles.inverseShadow}>  r</span><span
-        className={styles.inverseShadowUppercase}>e </span>z _</span></LeftGrayTitle>
+      <LeftGrayTitle>
+        _{" "}
+        <span className={styles.titleShadow}>
+          s<span className={styles.inverseShadowUppercase}>t </span>e
+          <span className={styles.inverseShadow}>v</span> e{" "}
+          <span className={styles.inverseShadow}>n</span>
+          <br /> a <span className={styles.titleShadowUppercase}>l</span>{" "}
+          <span className={styles.inverseShadow}>v</span>a
+          <span className={styles.inverseShadow}> r</span>
+          <span className={styles.inverseShadowUppercase}>e </span>z _
+        </span>
+      </LeftGrayTitle>
 
-        <br/><br/>
+      <br />
+      <br />
 
-        <RightGrayTitle>_ <span className={styles.titleShadow}>y<span
-        className={styles.inverseShadow}>r</span>_ c<span
-        className={styles.inverseShadowUppercase}>l</span>   i   <span
-        className={styles.inverseShadow}>m</span> a <span
-        className={styles.inverseShadowUppercase}>t</span>e _</span></RightGrayTitle>
+      <RightGrayTitle>
+        _{" "}
+        <span className={styles.titleShadow}>
+          y<span className={styles.inverseShadow}>r</span>_ c
+          <span className={styles.inverseShadowUppercase}>l</span> i{" "}
+          <span className={styles.inverseShadow}>m</span> a{" "}
+          <span className={styles.inverseShadowUppercase}>t</span>e _
+        </span>
+      </RightGrayTitle>
 
-
-<pre className={styles.leftLineation}>{`as biodata
+      <pre className={styles.leftLineation}>
+        {`as biodata
 | scarce | more
 aggressive | protecting
 yr biodata
@@ -47,8 +56,12 @@ ongoing battle | move
 | over |
 so who’s fighting over
 biodata well data |
-make that `}<i>wall</i>{` data |
-& make that `}<i>all</i>{` data
+make that `}
+        <i>wall</i>
+        {` data |
+& make that `}
+        <i>all</i>
+        {` data
 | owned & arguably |
 most important
 transbiological resource
@@ -78,12 +91,17 @@ according to one study
 between | &
 
 
-| more than                `}<span className={styles.smallTextWall}>| | | | | | |</span>{`
+| more than                `}
+        <span className={styles.smallTextWall}>| | | | | | |</span>
+        {`
 
 
 
 
-`}<span className={styles.smallTextWall}>| | | | |</span></pre><pre className={styles.rightLineation}>{`
+`}
+        <span className={styles.smallTextWall}>| | | | |</span>
+      </pre>
+      <pre className={styles.rightLineation}>{`
 international conflicts
 over data this
 doesn’t even include
@@ -115,16 +133,22 @@ water than | over oil w.
 only onepercent of |
 world’s |
 `}</pre>
-<pre className={styles.leftLineation}>{`
+      <pre className={styles.leftLineation}>
+        {`
 
 
 
 
-fresh water available                  `}<span
-className={styles.mediumTextWall}>| | | | |<br/><br/><br/>{` `}| | | | | | |</span>
-</pre>
-<pre className={styles.leftLineation}>
-{`
+fresh water available                  `}
+        <span className={styles.mediumTextWall}>
+          | | | | |<br />
+          <br />
+          <br />
+          {` `}| | | | | | |
+        </span>
+      </pre>
+      <pre className={styles.leftLineation}>
+        {`
 
 of | global
 population
@@ -136,13 +160,18 @@ control |
 already
 volatile area
 primarily in
-question |`}<span className={styles.blackBackground}>{`
+question |`}
+        <span className={styles.blackBackground}>{`
 | borders w.
 rivers &
-ports | yes`}</span>{`
-Yr `}<span className={styles.blackBackground}>{` Polis
-restricted`}</span>{`
-X`}<span className={styles.blackBackground}>{`’s access to
+ports | yes`}</span>
+        {`
+Yr `}
+        <span className={styles.blackBackground}>{` Polis
+restricted`}</span>
+        {`
+X`}
+        <span className={styles.blackBackground}>{`’s access to
 | w. walls |
 as part |
 of | ongoing
@@ -151,7 +180,8 @@ who |
 control | can
 | to their |
 political
-advantage |`}</span>{`
+advantage |`}</span>
+        {`
 privatization
 of data rights
 | given
@@ -169,10 +199,17 @@ during
 
 
 
-which | Yr Polis dozens of denizens killed            `}<span
-className={styles.largeTextWall}>| | |<br/><br/><br/>| | | | | |<br/><br/><br/>| |</span></pre>
+which | Yr Polis dozens of denizens killed            `}
+        <span className={styles.largeTextWall}>
+          | | |<br />
+          <br />
+          <br />| | | | | |<br />
+          <br />
+          <br />| |
+        </span>
+      </pre>
 
-<pre className={styles.rightLineation}>{`
+      <pre className={styles.rightLineation}>{`
 
 
 eventually | privatization
@@ -190,7 +227,8 @@ economies
 immune
 `}</pre>
 
-<pre className={styles.leftLineation}>{`
+      <pre className={styles.leftLineation}>
+        {`
 
 
 | bc of | value of | large
@@ -202,12 +240,18 @@ abt | signs of aquifers & how they
 
 
 
-|  |  | now subscribe          `}<span
-className={styles.extraLargeTextWall}>| | | | |<br/><br/><br/>| | | | |</span>{`problem | some
+|  |  | now subscribe          `}
+        <span className={styles.extraLargeTextWall}>
+          | | | | |<br />
+          <br />
+          <br />| | | | |
+        </span>
+        {`problem | some
 
 
-places | v. little`}</pre>
-<pre className={styles.middleishLineation}>{`
+places | v. little`}
+      </pre>
+      <pre className={styles.middleishLineation}>{`
   data to go around when
   |
   no common data | no
@@ -241,20 +285,31 @@ places | v. little`}</pre>
   shortages might just tip
   | balance
 
-  `}</pre><br/><pre className={styles.leftLineation}>{`       `}<span
-className={styles.extraLargeTextWall}>| | | | | |</span>{``}</pre>
-<pre className={styles.leftLineation}>{`
+  `}</pre>
+      <br />
+      <pre className={styles.leftLineation}>
+        {`       `}
+        <span className={styles.extraLargeTextWall}>| | | | | |</span>
+        {``}
+      </pre>
+      <pre className={styles.leftLineation}>
+        {`
 mentioned in report locking horns
 over data supplies w. Yr Polis | building
 massively dependent on | same supplies | where | project
 might leave | entire population w. no data when
 
-`}<span
-className={styles.extraLargeTextWall}><span
-className={styles.blackBackgroundSpecial}>{`  comes online | three years  `}</span>{` | | | |
+`}
+        <span className={styles.extraLargeTextWall}>
+          <span
+            className={styles.blackBackgroundSpecial}
+          >{`  comes online | three years  `}</span>
+          {` | | | |
 
 
- | | | | | |`}</span>{`
+ | | | | | |`}
+        </span>
+        {`
 
 
 tension will boil over
@@ -262,8 +317,9 @@ tension will boil over
 
 
 
-`}<span
-className={styles.extraExtraLargeTextWall}>{` | | | | | |`}</span>{`
+`}
+        <span className={styles.extraExtraLargeTextWall}>{` | | | | | |`}</span>
+        {`
 
 
 rest of | corridor’s a desert dungeon |
@@ -276,8 +332,9 @@ going to the | wall w. X bc
 
 
 
-`}<span
-className={styles.extraLargeTextWall}>{` | | | | | |`}</span>{`  if
+`}
+        <span className={styles.extraLargeTextWall}>{` | | | | | |`}</span>
+        {`  if
 
 
 data’s cut | Yr Polis will be dying
@@ -289,8 +346,9 @@ there’s always data | dwindling that | grew &
 
 
 
-`}<span
-className={styles.extraLargeTextWall}>{` | | | | | |`}</span>{`
+`}
+        <span className={styles.extraLargeTextWall}>{` | | | | | |`}</span>
+        {`
 
 
 probably that wd be averted if |
@@ -309,18 +367,23 @@ v. optimistic ever
 
 
 
-`}<span
-className={styles.extraLargeTextWall}>{` |`}</span>{` p`}<span
-className={styles.extraLargeTextWall}>{` |`}</span>{` o`}<span
-className={styles.extraLargeTextWall}>{` |`}</span>{` l`}<span
-className={styles.extraLargeTextWall}>{` |`}</span>{` i`}<span
-className={styles.extraLargeTextWall}>{` |`}</span>{` s`}<span
-className={styles.extraLargeTextWall}>{` |
+`}
+        <span className={styles.extraLargeTextWall}>{` |`}</span>
+        {` p`}
+        <span className={styles.extraLargeTextWall}>{` |`}</span>
+        {` o`}
+        <span className={styles.extraLargeTextWall}>{` |`}</span>
+        {` l`}
+        <span className={styles.extraLargeTextWall}>{` |`}</span>
+        {` i`}
+        <span className={styles.extraLargeTextWall}>{` |`}</span>
+        {` s`}
+        <span className={styles.extraLargeTextWall}>{` |
 
 
 
-`}</span><span
-className={styles.extraLargeTextWall}>{` | | | | | |
+`}</span>
+        <span className={styles.extraLargeTextWall}>{` | | | | | |
 
 
 
@@ -332,17 +395,24 @@ className={styles.extraLargeTextWall}>{` | | | | | |
 
 
 
- |`}</span>{` p`}<span
- className={styles.extraLargeTextWall}>{` |`}</span>{` o`}<span
- className={styles.extraLargeTextWall}>{` |`}</span>{` l`}<span
- className={styles.extraLargeTextWall}>{` |`}</span>{` i`}<span
- className={styles.extraLargeTextWall}>{` |`}</span>{` s`}<span
- className={styles.extraLargeTextWall}>{` |
+ |`}</span>
+        {` p`}
+        <span className={styles.extraLargeTextWall}>{` |`}</span>
+        {` o`}
+        <span className={styles.extraLargeTextWall}>{` |`}</span>
+        {` l`}
+        <span className={styles.extraLargeTextWall}>{` |`}</span>
+        {` i`}
+        <span className={styles.extraLargeTextWall}>{` |`}</span>
+        {` s`}
+        <span className={styles.extraLargeTextWall}>{` |
 
- `}</span>{`| Yr `}<s> Polis | x05x </s></pre>
+ `}</span>
+        {`| Yr `}
+        <s> Polis | x05x </s>
+      </pre>
 
-                     <Footer/>
-
-                       </>
-                   )
-                 }
+      <Footer />
+    </>
+  );
+}
