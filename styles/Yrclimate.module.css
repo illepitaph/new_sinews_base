@@ -107,6 +107,16 @@
   padding-bottom: 2.2rem;
 }
 
+@media (width: 1024px) and (height: 1366px) {
+  .smallTextWall,
+  .mediumTextWall,
+  .largeTextWall,
+  .extraLargeTextWall,
+  .extraExtraLargeTextWall {
+    letter-spacing: 1.8vw;
+  }
+}
+
 @media (width: 1080px) and (height: 810px) {
   .smallTextWall,
   .mediumTextWall,
@@ -356,6 +366,20 @@
 }
 
 @media (max-width: 361px) and (orientation: portrait) {
+
+  .rightLineation {
+    font-size: 0.8rem;
+  }
+
+  .leftLineation {
+    font-size: 0.8rem;
+  }
+
+  .middleishLineation {
+    font-size: 0.8rem;
+  }
+
+
   .smallTextWall,
   .mediumTextWall,
   .largeTextWall,
