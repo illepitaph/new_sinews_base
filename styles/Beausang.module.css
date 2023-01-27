@@ -1,171 +1,147 @@
 .grayShadow {
-  font-size:2rem;
-  color:black;
-  text-shadow:2px 2px white,
-              4px 4px 4px #E8E8E8;
+  font-size: 2rem;
+  color: black;
+  text-shadow: 2px 2px white, 4px 4px 4px #e8e8e8;
 }
 
 .grayShadowUpper {
-  color:gainsboro;
-  text-shadow:2px 2px white,
-              4px 4px 4px #E8E8E8;
+  color: gainsboro;
+  text-shadow: 2px 2px white, 4px 4px 4px #e8e8e8;
   text-transform: uppercase;
 }
 
 .silverShadow {
-  color:white;
-  text-shadow:2px 2px black,
-              4px 4px 12px silver;
+  color: white;
+  text-shadow: 2px 2px black, 4px 4px 12px silver;
 }
 
 .silverShadowUpper {
-  color:white;
-  text-shadow:2px 2px black,
-              4px 4px 12px silver;
+  color: white;
+  text-shadow: 2px 2px black, 4px 4px 12px silver;
   text-transform: uppercase;
 }
 
 .inverse {
-  color:black;
-  text-shadow:4px 4px snow,
-              6px 6px 12px #b0b0b0;
+  color: black;
+  text-shadow: 4px 4px snow, 6px 6px 12px #b0b0b0;
 }
 
 .inverseUpper {
-  color:black;
-  text-shadow:4px 4px snow,
-              6px 6px 12px #b0b0b0;
+  color: black;
+  text-shadow: 4px 4px snow, 6px 6px 12px #b0b0b0;
   text-transform: uppercase;
 }
 
 .leftMarginPusher {
-  margin-left:25vw;
-  letter-spacing:0.5rem;
+  margin-left: 25vw;
+  letter-spacing: 0.5rem;
 }
 
 .leftMarginPusherTwo {
-  margin-left:5vw;
-  letter-spacing:0.75rem;
+  margin-left: 5vw;
+  letter-spacing: 0.75rem;
 }
 
 .leafletText {
-  font-size:1.5rem;
-  font-family:"lores-9-plus-wide", monospace;
-  text-shadow:1px 1px white,
-              4px 4px 6px silver;
+  font-size: 1.5rem;
+  font-family: "lores-9-plus-wide", monospace;
+  text-shadow: 1px 1px white, 4px 4px 6px silver;
 }
 
 .grayShadowProse {
-  font-size:1.8rem;
-  color:white;
-  font-family:"lores-9-plus-wide", monospace;
-  text-shadow:1px 1px silver,
-              4px 4px 16px black;
+  font-size: 1.8rem;
+  color: white;
+  font-family: "lores-9-plus-wide", monospace;
+  text-shadow: 1px 1px silver, 4px 4px 16px black;
 }
 
 .grayShadowTwo {
-  font-size:1.8rem;
-  color:white;
-  font-family:"lores-9-plus-wide", monospace;
-  text-shadow:1px 1px silver,
-              4px 4px 16px black;
+  font-size: 1.8rem;
+  color: white;
+  font-family: "lores-9-plus-wide", monospace;
+  text-shadow: 1px 1px silver, 4px 4px 16px black;
   line-height: 3rem;
 }
 
 .compactProse {
-  max-width:55vw;
-  margin-left:5vw;
-  font-size:1rem;
-  line-height:1.2rem;
+  max-width: 55vw;
+  margin-left: 5vw;
+  font-size: 1rem;
+  line-height: 1.2rem;
 }
 
-@media (max-width:927px) and (orientation:landscape) {
-
+@media (max-width: 927px) and (orientation: landscape) {
   .compactProse {
-    max-width:75vw;
-    margin-left:3vw;
+    max-width: 75vw;
+    margin-left: 3vw;
   }
-
 }
 
-@media (max-width:913px) and (orientation:portrait) {
-
+@media (max-width: 913px) and (orientation: portrait) {
   .compactProse {
-    max-width:75vw;
-    margin-left:3vw;
+    max-width: 75vw;
+    margin-left: 3vw;
   }
-
 }
 
-
-@media (max-width:721px) and (orientation:landscape) {
-
+@media (max-width: 721px) and (orientation: landscape) {
   .grayShadowTwo {
-    font-size:1.4rem;
+    font-size: 1.4rem;
   }
-
 }
 
-@media (max-width:641px) and (orientation:landscape) {
-
+@media (max-width: 641px) and (orientation: landscape) {
   .leftMarginPusher {
-    letter-spacing:0.2rem;
+    letter-spacing: 0.2rem;
   }
 
   .leftMarginPusherTwo {
-    letter-spacing:0.35rem;
+    letter-spacing: 0.35rem;
   }
-
 }
 
-@media (max-width:541px) and (orientation:portrait) {
-
+@media (max-width: 541px) and (orientation: portrait) {
   .grayShadowTwo {
-    font-size:1.3rem;
+    font-size: 1.3rem;
   }
-
 }
 
-
-@media (max-width:429px) and (orientation:portrait) {
-
+@media (max-width: 429px) and (orientation: portrait) {
   .leftMarginPusher {
-    letter-spacing:0;
+    letter-spacing: 0;
   }
 
   .leftMarginPusherTwo {
-    letter-spacing:0;
+    letter-spacing: 0;
   }
 
   .grayShadowTwo {
-    font-size:1rem;
+    font-size: 1rem;
   }
-
 }
 
-@media (max-width:391px) and (orientation:portrait) {
-
+@media (max-width: 391px) and (orientation: portrait) {
   .grayShadowTwo {
-    font-size:0.8rem;
+    font-size: 0.8rem;
   }
-
 }
 
-@media (max-width:376px) and (orientation:portrait) {
-  .grayShadowUpper, .silverShadow, .silverShadowUpper, .inverse, .inverseUpper {
-    font-size:2.5rem;
+@media (max-width: 376px) and (orientation: portrait) {
+  .grayShadowUpper,
+  .silverShadow,
+  .silverShadowUpper,
+  .inverse,
+  .inverseUpper {
+    font-size: 2.5rem;
   }
 
   .grayShadow {
-    font-size:1.2rem;
+    font-size: 1.2rem;
   }
-
 }
 
-@media (max-width:281px) and (orientation:portrait) {
-
+@media (max-width: 281px) and (orientation: portrait) {
   .grayShadowTwo {
-    font-size:0.7rem;
+    font-size: 0.7rem;
   }
-
 }
