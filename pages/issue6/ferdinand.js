@@ -1,48 +1,82 @@
-import Head from 'next/head'
-import Header from '../../components/header.js'
-import RightGrayTitle from '../../components/rightGrayTitle.js'
-import LeftBlackTitle from '../../components/leftBlackTitle.js'
-import Footer from '../../components/footer.js'
-import styles from '../../styles/Ferdinand.module.css'
-Ferdinand.title = "megan_jeanne_gette ~ ferdinand — new_sinews"
-Ferdinand.pieceName = "megan_jeanne_gette ~ ferdinand — new_sinews"
-Ferdinand.description = "_MEGAN JEANNE GETTE_poetry_FERDINAND_new_sinews_issue6_"
-Ferdinand.image = "https://www.newnewsinews.com/images/FerdinandBackground.jpg"
+import Head from "next/head";
+import Header from "../../components/header.js";
+import RightGrayTitle from "../../components/rightGrayTitle.js";
+import LeftBlackTitle from "../../components/leftBlackTitle.js";
+import Footer from "../../components/footer.js";
+import styles from "../../styles/Ferdinand.module.css";
+Ferdinand.title = "megan_jeanne_gette ~ ferdinand — new_sinews";
+Ferdinand.pieceName = "megan_jeanne_gette ~ ferdinand — new_sinews";
+Ferdinand.description =
+  "_MEGAN JEANNE GETTE_poetry_FERDINAND_new_sinews_issue6_";
+Ferdinand.image = "https://www.newnewsinews.com/images/FerdinandBackground.jpg";
 
 export default function Ferdinand() {
   return (
     <>
-    <Header headerBackground="ferdinandBackground"/>
+      <Header headerBackground="ferdinandBackground" />
 
-    <RightGrayTitle><span className={styles.titleShadow}>f<span
-    className={styles.inverseShadowUppercase}><br/><br/><span
-    className={styles.marginTwo}>e</span></span><br/><br/><span
-    className={styles.titleShadowUppercase}><i>r</i></span><span
-    className={styles.inverseShadow}><br/><br/><span
-    className={styles.marginThree}>d</span><span
-    className={styles.titleShadow}><br/><br/><i>i</i></span></span><span
-    className={styles.inverseShadowUppercase}><br/><br/>N</span><br/><br/><span
-    className={styles.marginOne}><span
-    className={styles.inverseShadow}>a</span></span><span
-    className={styles.titleShadowUppercase}><br/><br/><span
-    className={styles.marginTwo}><i>n</i></span><span
-    className={styles.inverseShadowUppercase}><br/><br/><span
-    className={styles.marginThree}>d</span></span></span></span></RightGrayTitle>
+      <RightGrayTitle>
+        <span className={styles.titleShadow}>
+          f
+          <span className={styles.inverseShadowUppercase}>
+            <br />
+            <br />
+            <span className={styles.marginTwo}>e</span>
+          </span>
+          <br />
+          <br />
+          <span className={styles.titleShadowUppercase}>
+            <i>r</i>
+          </span>
+          <span className={styles.inverseShadow}>
+            <br />
+            <br />
+            <span className={styles.marginThree}>d</span>
+            <span className={styles.titleShadow}>
+              <br />
+              <br />
+              <i>i</i>
+            </span>
+          </span>
+          <span className={styles.inverseShadowUppercase}>
+            <br />
+            <br />N
+          </span>
+          <br />
+          <br />
+          <span className={styles.marginOne}>
+            <span className={styles.inverseShadow}>a</span>
+          </span>
+          <span className={styles.titleShadowUppercase}>
+            <br />
+            <br />
+            <span className={styles.marginTwo}>
+              <i>n</i>
+            </span>
+            <span className={styles.inverseShadowUppercase}>
+              <br />
+              <br />
+              <span className={styles.marginThree}>d</span>
+            </span>
+          </span>
+        </span>
+      </RightGrayTitle>
 
-    <br/>
-    <br/>
+      <br />
+      <br />
 
-   <LeftBlackTitle>——<i>megan jeanne gette</i></LeftBlackTitle>
+      <LeftBlackTitle>
+        ——<i>megan jeanne gette</i>
+      </LeftBlackTitle>
 
-   <br/>
-   <br/>
-   <br/>
-   <br/>
-   <br/>
-   <br/>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
 
-
-   <pre className={styles.poem}>{`It’s a heatwave in Hollywood
+      <pre className={styles.poem}>{`It’s a heatwave in Hollywood
 In a 2br 2ba duplex in a cul-de-sac merry-go-rounding
 She is squalene in the infinite city, plumping her skin
 Watching a dog lick and lick
@@ -199,8 +233,7 @@ There’s no rogue bone here, don’t bother looking
 In the aftermath of a wedding someone is shedding a tear
 So sodden with it`}</pre>
 
-<Footer/>
-
+      <Footer />
     </>
   );
 }
