@@ -1,75 +1,67 @@
 .titleShadow {
-  color:white;
-  font-size:3.3rem;
-  text-shadow:1px 1px black,
-              4px 4px 16px black;
-  text-transform:uppercase;
-  opacity:0.6;
+  color: white;
+  font-size: 3.3rem;
+  text-shadow: 1px 1px black, 4px 4px 16px black;
+  text-transform: uppercase;
+  opacity: 0.6;
 }
 
 .inverseShadow {
-  font-size:4.1rem;
-  color:black;
-  text-shadow:4px 4px snow,
-              6px 6px 16px dimgray;
+  font-size: 4.1rem;
+  color: black;
+  text-shadow: 4px 4px snow, 6px 6px 16px dimgray;
 }
 
 .inverseShadowAlternate {
-  font-size:4.1rem;
-  color:black;
-  text-shadow:4px 4px snow,
-              5px 5px black,
-              6px 6px gainsboro;
-  opacity:0.8;
-  text-transform:uppercase;
+  font-size: 4.1rem;
+  color: black;
+  text-shadow: 4px 4px snow, 5px 5px black, 6px 6px gainsboro;
+  opacity: 0.8;
+  text-transform: uppercase;
 }
 
 .mintAlternate {
-  font-size:4.1rem;
-  color:#aaf0d1;
-  text-shadow:4px 4px snow,
-              5px 5px 15px black;
-  opacity:0.6;
-  text-transform:uppercase;
+  font-size: 4.1rem;
+  color: #aaf0d1;
+  text-shadow: 4px 4px snow, 5px 5px 15px black;
+  opacity: 0.6;
+  text-transform: uppercase;
 }
 
 .mintAlternateTwo {
-  font-size:4.1rem;
-  color:#aaf0d1;
-  text-shadow:4px 4px snow,
-              5px 5px 15px black;
-  opacity:0.6;
-  text-transform:lowercase;
+  font-size: 4.1rem;
+  color: #aaf0d1;
+  text-shadow: 4px 4px snow, 5px 5px 15px black;
+  opacity: 0.6;
+  text-transform: lowercase;
 }
 
 .grayShadowUpper {
-  font-family:"lores-9-plus-wide", monospace;
-  text-shadow:1px 1px snow,
-              2px 2px #b0b0b0;
+  font-family: "lores-9-plus-wide", monospace;
+  text-shadow: 1px 1px snow, 2px 2px #b0b0b0;
   text-transform: uppercase;
 }
 
 .grayShadowUpperBigger {
-  font-size:1.4rem;
-  font-family:"lores-9-plus-wide", monospace;
-  text-shadow:2px 3px snow,
-              3px 4px #b0b0b0;
+  font-size: 1.4rem;
+  font-family: "lores-9-plus-wide", monospace;
+  text-shadow: 2px 3px snow, 3px 4px #b0b0b0;
   text-transform: uppercase;
-  font-weight:600;
+  font-weight: 600;
 }
 
 .compactProse {
-  max-width:45vw;
-  margin-left:12.5vw;
-  line-height:1.6rem;
+  max-width: 45vw;
+  margin-left: 12.5vw;
+  line-height: 1.6rem;
 }
 
 .box {
-  display:flex;
+  display: flex;
   justify-content: space-between;
-  max-width:35vw;
-  margin-left:17.5vw;
-  line-height:0.2rem;
+  max-width: 35vw;
+  margin-left: 17.5vw;
+  line-height: 0.2rem;
 }
 
 .middleText {
@@ -77,108 +69,109 @@
 }
 
 .underlineThick {
-  font-size:2.5rem;
-  font-family:"bickham-script-pro-3", sans-serif;
-  text-decoration-line:underline;
-  text-decoration-thickness:5px;
+  font-size: 2.5rem;
+  font-family: "bickham-script-pro-3", sans-serif;
+  text-decoration-line: underline;
+  text-decoration-thickness: 5px;
 }
 
 .compactProseTwo {
-  max-width:45vw;
-  margin-left:12.5vw;
-  line-height:2.2rem;
+  max-width: 45vw;
+  margin-left: 12.5vw;
+  line-height: 2.2rem;
 }
 
 .sectionBreak {
-  font-family:"lores-9-plus-wide", monospace;
+  font-family: "lores-9-plus-wide", monospace;
   font-weight: 700;
-  font-size:4.2rem;
-  color:white;
-  text-shadow:1px 1px 6px #d10000;
-  text-align:center;
+  font-size: 4.2rem;
+  color: white;
+  text-shadow: 1px 1px 6px #d10000;
+  text-align: center;
 }
 
 .glossLink {
-  text-shadow:1px 2px white, 3px 3px 19px dimgray;
+  text-shadow: 1px 2px white, 3px 3px 19px dimgray;
 }
 
 .glossLink:hover {
-  color:white;
-  text-shadow:3px 3px 10px black;
+  color: white;
+  text-shadow: 3px 3px 10px black;
 }
 
-@media (max-width:927px) and (orientation:landscape) {
-
-  .compactProse, .compactProseTwo {
-    max-width:95vw;
-    margin-left:2.5vw;
+@media (max-width: 927px) and (orientation: landscape) {
+  .compactProse,
+  .compactProseTwo {
+    max-width: 95vw;
+    margin-left: 2.5vw;
   }
 
   .box {
-    max-width:55vw;
-    margin-left:15.5vw;
+    max-width: 55vw;
+    margin-left: 15.5vw;
   }
-
 }
 
-@media (max-width:913px) and (orientation:portrait) {
-
-  .compactProse, .compactProseTwo {
-    max-width:95vw;
-    margin-left:2.5vw;
+@media (max-width: 913px) and (orientation: portrait) {
+  .compactProse,
+  .compactProseTwo {
+    max-width: 95vw;
+    margin-left: 2.5vw;
   }
 
   .box {
-    max-width:95vw;
-    margin-left:1.5vw;
+    max-width: 95vw;
+    margin-left: 1.5vw;
   }
-
 }
 
-@media (max-width:897px) and (orientation:landscape) {
+@media (max-width: 897px) and (orientation: landscape) {
+  .box {
+    margin-left: 17.5vw;
+  }
+}
+
+@media (max-width: 541px) and (orientation: portrait) {
+  .titleShadow,
+  .inverseShadow,
+  .inverseShadowAlternate,
+  .mintAlternate,
+  .mintAlternateTwo {
+    font-size: 2.5rem;
+  }
+}
+
+@media (max-width: 361px) and (orientation: portrait) {
+  .titleShadow,
+  .inverseShadow,
+  .inverseShadowAlternate,
+  .mintAlternate,
+  .mintAlternateTwo {
+    font-size: 2.1rem;
+  }
+}
+
+@media (max-width: 321px) and (orientation: portrait) {
+  .titleShadow,
+  .inverseShadow,
+  .inverseShadowAlternate,
+  .mintAlternate,
+  .mintAlternateTwo {
+    font-size: 2rem;
+  }
 
   .box {
-    margin-left:17.5vw;
+    font-size: 1rem;
+    margin-left: 0.5vw;
   }
-
 }
 
-
-@media (max-width:541px) and (orientation:portrait) {
-
-  .titleShadow, .inverseShadow, .inverseShadowAlternate, .mintAlternate, .mintAlternateTwo {
-    font-size:2.5rem;
+@media (max-width: 281px) and (orientation: portrait) {
+  .titleShadow,
+  .inverseShadow,
+  .inverseShadowAlternate,
+  .mintAlternate,
+  .mintAlternateTwo {
+    font-size: 1.7rem;
   }
-
-}
-
-@media (max-width:361px) and (orientation:portrait) {
-
-  .titleShadow, .inverseShadow, .inverseShadowAlternate, .mintAlternate, .mintAlternateTwo {
-    font-size:2.1rem;
-  }
-
-
-}
-
-@media (max-width:321px) and (orientation:portrait) {
-
-  .titleShadow, .inverseShadow, .inverseShadowAlternate, .mintAlternate, .mintAlternateTwo {
-    font-size:2rem;
-  }
-
-  .box {
-    font-size:1rem;
-    margin-left:0.5vw;
-  }
-
-
-}
-
-@media (max-width:281px) and (orientation:portrait) {
-
-  .titleShadow, .inverseShadow, .inverseShadowAlternate, .mintAlternate, .mintAlternateTwo {
-    font-size:1.7rem;
-  }
-
 }
