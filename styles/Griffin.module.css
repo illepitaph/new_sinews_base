@@ -212,7 +212,7 @@
   }
 }
 
-@media (max-width: 354px) and (orientation: portrait) {
+@media (max-width: 361px) and (orientation: portrait) {
   .bareHeader {
     font-size: 1.2rem;
   }
