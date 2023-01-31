@@ -1,271 +1,294 @@
 .blackShadow {
-  color:white;
-  font-size:4rem;
-  font-style:italic;
-  text-shadow:2px 2px 12px black;
+  color: white;
+  font-size: 4rem;
+  font-style: italic;
+  text-shadow: 2px 2px 12px black;
 }
 
 .inverse {
-  color:black;
-  text-shadow:4px 4px snow,
-              6px 6px #b0b0b0;
+  color: black;
+  text-shadow: 4px 4px snow, 6px 6px #b0b0b0;
 }
 
 .redShadow {
-  font-size:4rem;
-  text-shadow:1px 1px 6px #d10000;
-  text-transform:lowercase;
+  font-size: 4rem;
+  text-shadow: 1px 1px 6px #d10000;
+  text-transform: lowercase;
 }
 
 .redShadowUppercase {
-  font-size:4rem;
-  text-shadow:1px 1px 6px #d10000;
-  text-transform:uppercase;
+  font-size: 4rem;
+  text-shadow: 1px 1px 6px #d10000;
+  text-transform: uppercase;
 }
 
 .inverseUppercase {
-  color:black;
-  text-shadow:4px 4px snow,
-              6px 6px #b0b0b0;
-  text-transform:uppercase;
+  color: black;
+  text-shadow: 4px 4px snow, 6px 6px #b0b0b0;
+  text-transform: uppercase;
 }
 
 .silverShadowUpper {
-  color:white;
-  text-shadow:2px 2px black,
-              4px 4px 12px silver;
+  color: white;
+  text-shadow: 2px 2px black, 4px 4px 12px silver;
   text-transform: uppercase;
   font-style: normal;
 }
 
 .marginOne {
-  margin-right:9vw;
+  margin-right: 9vw;
 }
 
 .marginTwo {
-  margin-right:6vw;
+  margin-right: 6vw;
 }
 
 .marginThree {
-  margin-right:3vw;
+  margin-right: 3vw;
 }
 
 .marginFour {
-  margin-right:9vw;
+  margin-right: 9vw;
 }
 
 .marginFive {
-  margin-right:25vw;
+  margin-right: 25vw;
 }
 
 .poem {
   font-family: "base-9-sans", sans-serif;
   font-weight: 300;
   font-style: normal;
-  font-size:1.2rem;
-  text-shadow:2px 2px gainsboro;
-  letter-spacing:-0.02rem;
-  line-height:1.7em;
-  margin-left:28vw;
+  font-size: 1.2rem;
+  text-shadow: 2px 2px gainsboro;
+  letter-spacing: -0.02rem;
+  line-height: 1.7em;
+  margin-left: 28vw;
   white-space: pre-line;
 }
 
 .poemSpecial {
-  display:inline;
+  display: inline;
   font-family: "base-9-sans", sans-serif;
   font-weight: 300;
   font-style: normal;
-  font-size:1.2rem;
-  text-shadow:2px 2px gainsboro;
-  letter-spacing:-0.02rem;
-  line-height:1.7em;
+  font-size: 1.2rem;
+  text-shadow: 2px 2px gainsboro;
+  letter-spacing: -0.02rem;
+  line-height: 1.7em;
 }
 
 .asteriskInverse {
   font-family: "base-9-sans", sans-serif;
   font-weight: 700;
-  font-size:3.2rem;
-  text-shadow:4px 4px snow,
-              6px 6px #b0b0b0;
-  line-height:1.7em;
-  margin-left:28vw;
+  font-size: 3.2rem;
+  text-shadow: 4px 4px snow, 6px 6px #b0b0b0;
+  line-height: 1.7em;
+  margin-left: 28vw;
 }
 
 .asteriskSilver {
   font-family: "base-9-sans", sans-serif;
   font-weight: 700;
-  font-size:3.2rem;
-  color:white;
-  text-shadow:2px 2px black,
-              4px 4px 12px silver;
-  line-height:1.7em;
-  margin-left:28vw;
+  font-size: 3.2rem;
+  color: white;
+  text-shadow: 2px 2px black, 4px 4px 12px silver;
+  line-height: 1.7em;
+  margin-left: 28vw;
 }
 
 .asteriskRed {
   font-family: "base-9-sans", sans-serif;
   font-weight: 700;
-  font-size:3.2rem;
-  color:white;
-  text-shadow:1px 1px 6px #d10000;
-  line-height:1.7em;
-  margin-left:28vw;
+  font-size: 3.2rem;
+  color: white;
+  text-shadow: 1px 1px 6px #d10000;
+  line-height: 1.7em;
+  margin-left: 28vw;
 }
 
 .specialArrow {
   font-family: "base-9-sans", sans-serif;
   font-weight: 700;
-  font-size:3.2rem;
-  text-shadow:4px 4px snow,
-              6px 6px #b0b0b0;
-  margin-left:28vw;
+  font-size: 3.2rem;
+  text-shadow: 4px 4px snow, 6px 6px #b0b0b0;
+  margin-left: 28vw;
 }
 
 .altarText {
-  font-family:"lores-9-plus-wide", monospace;
-  color:white;
-  text-shadow:1px 1px #d10000,
-  1px 1px 4px black;
-  font-size:1.5rem;
+  font-family: "lores-9-plus-wide", monospace;
+  color: white;
+  text-shadow: 1px 1px #d10000, 1px 1px 4px black;
+  font-size: 1.5rem;
   font-weight: 700;
-  letter-spacing:-0.02rem;
-  margin-left:28vw;
+  letter-spacing: -0.02rem;
+  margin-left: 28vw;
   text-decoration: underline;
-
 }
 
 .altarTextTwo {
-  font-family:"lores-9-plus-wide", monospace;
-  color:white;
-  text-shadow:1px 1px #d10000,
-  1px 1px 4px black;
-  font-size:1.5rem;
+  font-family: "lores-9-plus-wide", monospace;
+  color: white;
+  text-shadow: 1px 1px #d10000, 1px 1px 4px black;
+  font-size: 1.5rem;
   font-weight: 700;
-  letter-spacing:-0.02rem;
-  margin-left:41vw;
+  letter-spacing: -0.02rem;
+  margin-left: 41vw;
 }
 
-@media (max-width: 927px) and (orientation:landscape) {
-
-  .blackShadow, .redShadow, .inverse, .redShadowUppercase, .inverseUppercase, .silverShadowUpper {
-    font-size:3.2rem;
-  }
-
-}
-
-@media (width: 912px) and (height:1368px) {
-
-  .blackShadow, .redShadow, .inverse, .redShadowUppercase, .inverseUppercase, .silverShadowUpper {
-    font-size:3.2rem;
-  }
-
-}
-
-@media (width: 834px) and (height:1194px) {
-
-  .blackShadow, .redShadow, .inverse, .redShadowUppercase, .inverseUppercase, .silverShadowUpper {
-    font-size:3.1rem;
-  }
-
-}
-
-@media (width: 820px) and (height:1180px) {
-
-  .blackShadow, .redShadow, .inverse, .redShadowUppercase, .inverseUppercase, .silverShadowUpper {
-    font-size:3.1rem;
-  }
-
-}
-
-@media (max-width: 813px) and (orientation:landscape) {
-
-  .blackShadow, .redShadow, .inverse, .redShadowUppercase, .inverseUppercase, .silverShadowUpper {
-    font-size:3rem;
-  }
-
-}
-
-@media (width: 810px) and (height:1080px) {
-
-  .blackShadow, .redShadow, .inverse, .redShadowUppercase, .inverseUppercase, .silverShadowUpper {
-    font-size:3.1rem;
-  }
-
-}
-
-@media (width: 800px) and (height:1280px) {
-
-  .blackShadow, .redShadow, .inverse, .redShadowUppercase, .inverseUppercase, .silverShadowUpper {
-    font-size:3.1rem;
-  }
-
-}
-
-@media (width: 768px) and (height:1024px) {
-
-  .blackShadow, .redShadow, .inverse, .redShadowUppercase, .inverseUppercase, .silverShadowUpper {
-    font-size:2.9rem;
+@media (max-width: 927px) and (orientation: landscape) {
+  .blackShadow,
+  .redShadow,
+  .inverse,
+  .redShadowUppercase,
+  .inverseUppercase,
+  .silverShadowUpper {
+    font-size: 3.2rem;
   }
 }
 
-
-@media (max-width: 761px) and (orientation:landscape) {
-
-  .blackShadow, .redShadow, .inverse, .redShadowUppercase, .inverseUppercase, .silverShadowUpper {
-    font-size:2.8rem;
+@media (width: 912px) and (height: 1368px) {
+  .blackShadow,
+  .redShadow,
+  .inverse,
+  .redShadowUppercase,
+  .inverseUppercase,
+  .silverShadowUpper {
+    font-size: 3.2rem;
   }
-
 }
 
-@media (max-width: 667px) and (orientation:landscape) {
-
-  .blackShadow, .redShadow, .inverse, .redShadowUppercase, .inverseUppercase, .silverShadowUpper {
-    font-size:2.5rem;
+@media (width: 834px) and (height: 1194px) {
+  .blackShadow,
+  .redShadow,
+  .inverse,
+  .redShadowUppercase,
+  .inverseUppercase,
+  .silverShadowUpper {
+    font-size: 3.1rem;
   }
-
 }
 
-@media (max-width: 541px) and (orientation:portrait) {
+@media (width: 820px) and (height: 1180px) {
+  .blackShadow,
+  .redShadow,
+  .inverse,
+  .redShadowUppercase,
+  .inverseUppercase,
+  .silverShadowUpper {
+    font-size: 3.1rem;
+  }
+}
 
+@media (max-width: 813px) and (orientation: landscape) {
+  .blackShadow,
+  .redShadow,
+  .inverse,
+  .redShadowUppercase,
+  .inverseUppercase,
+  .silverShadowUpper {
+    font-size: 3rem;
+  }
+}
+
+@media (width: 810px) and (height: 1080px) {
+  .blackShadow,
+  .redShadow,
+  .inverse,
+  .redShadowUppercase,
+  .inverseUppercase,
+  .silverShadowUpper {
+    font-size: 3.1rem;
+  }
+}
+
+@media (width: 800px) and (height: 1280px) {
+  .blackShadow,
+  .redShadow,
+  .inverse,
+  .redShadowUppercase,
+  .inverseUppercase,
+  .silverShadowUpper {
+    font-size: 3.1rem;
+  }
+}
+
+@media (width: 768px) and (height: 1024px) {
+  .blackShadow,
+  .redShadow,
+  .inverse,
+  .redShadowUppercase,
+  .inverseUppercase,
+  .silverShadowUpper {
+    font-size: 2.9rem;
+  }
+}
+
+@media (max-width: 761px) and (orientation: landscape) {
+  .blackShadow,
+  .redShadow,
+  .inverse,
+  .redShadowUppercase,
+  .inverseUppercase,
+  .silverShadowUpper {
+    font-size: 2.8rem;
+  }
+}
+
+@media (max-width: 667px) and (orientation: landscape) {
+  .blackShadow,
+  .redShadow,
+  .inverse,
+  .redShadowUppercase,
+  .inverseUppercase,
+  .silverShadowUpper {
+    font-size: 2.5rem;
+  }
+}
+
+@media (max-width: 541px) and (orientation: portrait) {
   .poem {
-    margin-left:2vw;
+    margin-left: 2vw;
   }
 
   .altarText {
-    margin-left:2vw;
+    margin-left: 2vw;
   }
-
 }
 
-@media (max-width: 376px) and (orientation:portrait) {
-
-  .blackShadow, .redShadow, .inverse, .redShadowUppercase, .inverseUppercase, .silverShadowUpper {
-    font-size:2.6rem;
+@media (max-width: 376px) and (orientation: portrait) {
+  .blackShadow,
+  .redShadow,
+  .inverse,
+  .redShadowUppercase,
+  .inverseUppercase,
+  .silverShadowUpper {
+    font-size: 2.6rem;
   }
-
-
 }
 
-@media (max-width: 361px) and (orientation:portrait) {
-
+@media (max-width: 361px) and (orientation: portrait) {
   .poem {
-    font-size:1rem;
+    font-size: 1rem;
   }
 
-  .altarText, .altarTextTwo {
-    font-size:1.1rem;
+  .altarText,
+  .altarTextTwo {
+    font-size: 1.1rem;
   }
 
   .altarTextTwo {
-    margin-left:35vw;
+    margin-left: 35vw;
   }
-
 }
 
-@media (max-width: 281px) and (orientation:portrait) {
-
-  .blackShadow, .redShadow, .inverse, .redShadowUppercase, .inverseUppercase, .silverShadowUpper {
-    font-size:2rem;
+@media (max-width: 281px) and (orientation: portrait) {
+  .blackShadow,
+  .redShadow,
+  .inverse,
+  .redShadowUppercase,
+  .inverseUppercase,
+  .silverShadowUpper {
+    font-size: 2rem;
   }
-
 }

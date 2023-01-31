@@ -1,49 +1,80 @@
-import Head from 'next/head'
-import Header from '../../components/header.js'
-import RightGrayTitle from '../../components/rightGrayTitle.js'
-import LeftGrayTitle from '../../components/leftGrayTitle.js'
-import RightBlackTitle from '../../components/rightBlackTitle.js'
-import Footer from '../../components/footer.js'
-import styles from '../../styles/Mfnz.module.css'
-Marfa.title = "brandon_shimoda ~ marfa_new_zealand — new_sinews"
-Marfa.pieceName = "brandon_shimoda ~ marfa_new_zealand — new_sinews"
-Marfa.description = "_Brandon Shimoda_poetry_MARFA NEW ZEALAND_new_sinews_issue6_"
-Marfa.image = "https://www.newnewsinews.com/images/MarfaBackground.jpg"
+import Head from "next/head";
+import Header from "../../components/header.js";
+import RightGrayTitle from "../../components/rightGrayTitle.js";
+import LeftGrayTitle from "../../components/leftGrayTitle.js";
+import RightBlackTitle from "../../components/rightBlackTitle.js";
+import Footer from "../../components/footer.js";
+import styles from "../../styles/Mfnz.module.css";
+Marfa.title = "brandon_shimoda ~ marfa_new_zealand — new_sinews";
+Marfa.pieceName = "brandon_shimoda ~ marfa_new_zealand — new_sinews";
+Marfa.description =
+  "_Brandon Shimoda_poetry_MARFA NEW ZEALAND_new_sinews_issue6_";
+Marfa.image = "https://www.newnewsinews.com/images/MarfaBackground.jpg";
 
 export default function Marfa() {
   return (
     <>
-      <Head/>
-      <Header headerBackground="marfaBackground"/>
+      <Head />
+      <Header headerBackground="marfaBackground" />
 
-      <RightGrayTitle><span className={styles.blackShadow}>m<br/><br/><br/><span
-      className={styles.inverse}><span
-      className={styles.marginOne}>a</span></span><br/><br/><br/><span
-      className={styles.silverShadowUpper}><span
-      className={styles.marginTwo}>_ r _</span><br/><br/><br/></span><span
-      className={styles.inverseUppercase}><span
-      className={styles.marginThree}>f</span></span><br/><br/><br/><span
-      className={styles.marginFour}><span
-      className={styles.redShadowUppercase}>a</span><span
-      className={styles.inverse}> ,</span></span></span><br/><br/><br/></RightGrayTitle>
+      <RightGrayTitle>
+        <span className={styles.blackShadow}>
+          m<br />
+          <br />
+          <br />
+          <span className={styles.inverse}>
+            <span className={styles.marginOne}>a</span>
+          </span>
+          <br />
+          <br />
+          <br />
+          <span className={styles.silverShadowUpper}>
+            <span className={styles.marginTwo}>_ r _</span>
+            <br />
+            <br />
+            <br />
+          </span>
+          <span className={styles.inverseUppercase}>
+            <span className={styles.marginThree}>f</span>
+          </span>
+          <br />
+          <br />
+          <br />
+          <span className={styles.marginFour}>
+            <span className={styles.redShadowUppercase}>a</span>
+            <span className={styles.inverse}> ,</span>
+          </span>
+        </span>
+        <br />
+        <br />
+        <br />
+      </RightGrayTitle>
 
+      <LeftGrayTitle>
+        <span className={styles.blackShadow}>
+          <i>_ n</i> <span className={styles.redShadowUppercase}>e </span>
+          <span className={styles.silverShadowUpper}>w </span>
+          <span className={styles.redShadowUppercase}>_ </span>
+          <span className={styles.inverseUppercase}>z </span>
+          <span className={styles.blackShadow}>e </span>
+          <span className={styles.silverShadowUpper}>a </span>
+          <span className={styles.redShadowUppercase}>l </span>
+          <span className={styles.inverse}>a </span>
+          <span className={styles.silverShadowUpper}>n </span>
+          <span className={styles.redShadow}>d </span>
+          <span className={styles.inverse}>_</span>
+        </span>
+      </LeftGrayTitle>
 
-      <LeftGrayTitle><span className={styles.blackShadow}><i>_ n</i> <span
-      className={styles.redShadowUppercase}>e </span><span
-      className={styles.silverShadowUpper}>w </span><span
-      className={styles.redShadowUppercase}>_ </span><span
-      className={styles.inverseUppercase}>z </span><span
-      className={styles.blackShadow}>e </span><span
-      className={styles.silverShadowUpper}>a </span><span
-      className={styles.redShadowUppercase}>l </span><span
-      className={styles.inverse}>a </span><span
-      className={styles.silverShadowUpper}>n </span><span
-      className={styles.redShadow}>d </span><span
-      className={styles.inverse}>_</span></span></LeftGrayTitle>
+      <br />
+      <br />
 
-      <br/><br/>
-
-      <RightBlackTitle><span className={styles.bareHeader}>... ...  brandon<br/>... ... shimoda</span>
+      <RightBlackTitle>
+        <span className={styles.bareHeader}>
+          ... ... brandon
+          <br />
+          ... ... shimoda
+        </span>
       </RightBlackTitle>
 
       <pre className={styles.poem}>{`poems
@@ -57,23 +88,23 @@ refill us
 wit h
 ancient humor`}</pre>
 
-<p className={styles.asteriskRed}>+</p>
+      <p className={styles.asteriskRed}>+</p>
 
-<pre className={styles.poem}>{`A poem is a form of exhaustion—
+      <pre className={styles.poem}>{`A poem is a form of exhaustion—
 boundless The body
 keeps giving. The spirit
 
 —mispronounced`}</pre>
 
-<p className={styles.asteriskInverse}>+</p>
+      <p className={styles.asteriskInverse}>+</p>
 
-<pre className={styles.poem}>{`shariden   an oven
+      <pre className={styles.poem}>{`shariden   an oven
 left to cool
 for a century`}</pre>
 
-<p className={styles.asteriskSilver}>+</p>
+      <p className={styles.asteriskSilver}>+</p>
 
-<pre className={styles.poem}>{`Atrocities   distant lands
+      <pre className={styles.poem}>{`Atrocities   distant lands
 
 Then
 standing in front of skulls
@@ -91,9 +122,9 @@ the tower, the temple of idols
 
 to Mary?`}</pre>
 
-<p className={styles.asteriskRed}>+</p>
+      <p className={styles.asteriskRed}>+</p>
 
-<pre className={styles.poem}>{`There is a white square—
+      <pre className={styles.poem}>{`There is a white square—
 I do not see, but feel
 with my throat—
 
@@ -113,21 +144,21 @@ parallel to the ground,
 The sky seen from
 an open grave—`}</pre>
 
-<p className={styles.asteriskInverse}>+</p>
+      <p className={styles.asteriskInverse}>+</p>
 
-<pre className={styles.poem}>{`The skulls were parental.
+      <pre className={styles.poem}>{`The skulls were parental.
 rejected a chorus`}</pre>
 
-<p className={styles.asteriskSilver}>+</p>
+      <p className={styles.asteriskSilver}>+</p>
 
-<pre className={styles.poem}>{`Did mushrooms grow
+      <pre className={styles.poem}>{`Did mushrooms grow
 after rain? Did flowers?
 
 Yes, one mushroom              cont.`}</pre>
 
-<p className={styles.asteriskRed}>+</p>
+      <p className={styles.asteriskRed}>+</p>
 
-<pre className={styles.poem}>{`The longer I play this game
+      <pre className={styles.poem}>{`The longer I play this game
 
 with military paper
 
@@ -145,9 +176,9 @@ will resolve
 looking long across
 the high desert grasslands`}</pre>
 
-<p className={styles.asteriskInverse}>+</p>
+      <p className={styles.asteriskInverse}>+</p>
 
-<pre className={styles.poem}>{`aliens situate ama
+      <pre className={styles.poem}>{`aliens situate ama
 
 as people   human people, hungry
 
@@ -157,9 +188,9 @@ and watched a horse’s Bouncing penis
 I sketched the light fixtures in a church
 turned into a light source`}</pre>
 
-<p className={styles.asteriskSilver}>+</p>
+      <p className={styles.asteriskSilver}>+</p>
 
-<pre className={styles.poem}>{`Who dreams of burning the pagoda down.
+      <pre className={styles.poem}>{`Who dreams of burning the pagoda down.
 
 Where it touches the sky
 twin eyes   red mask
@@ -198,33 +229,35 @@ you
 don’t have a broom
 and are not an old lady`}</pre>
 
-<p className={styles.asteriskRed}>+</p>
+      <p className={styles.asteriskRed}>+</p>
 
-<pre className={styles.poem}>{`Surely there are people
+      <pre className={styles.poem}>{`Surely there are people
 you forgot—
 
 when you saw them,
 wasn’t?`}</pre>
 
-<p className={styles.asteriskInverse}>+</p>
+      <p className={styles.asteriskInverse}>+</p>
 
-<pre className={styles.poem}>{`occasionally I see the woman
+      <pre className={styles.poem}>{`occasionally I see the woman
 frozen as a horse
 
 like the guardian of her megalithic sentence—`}</pre>
 
-<p className={styles.asteriskSilver}>+</p>
+      <p className={styles.asteriskSilver}>+</p>
 
-<pre className={styles.poem}>{`corpse poem
+      <pre className={styles.poem}>{`corpse poem
 
 Google Bks
-`}</pre><span className={styles.specialArrow}>↓</span><pre className={styles.poem}>{`
+`}</pre>
+      <span className={styles.specialArrow}>↓</span>
+      <pre className={styles.poem}>{`
 
 Is it true?`}</pre>
 
-<p className={styles.asteriskRed}>+</p>
+      <p className={styles.asteriskRed}>+</p>
 
-<pre className={styles.poem}>{`Where there is an inexplicable rock
+      <pre className={styles.poem}>{`Where there is an inexplicable rock
 the earth
 rests beneath
 
@@ -239,9 +272,9 @@ to populate
 itself
 vegetation`}</pre>
 
-<p className={styles.asteriskInverse}>+</p>
+      <p className={styles.asteriskInverse}>+</p>
 
-<pre className={styles.poem}>{`The swamp hen
+      <pre className={styles.poem}>{`The swamp hen
 
 edges
 
@@ -257,9 +290,11 @@ dirty sheep
 
 the prestige`}</pre>
 
-<p className={styles.asteriskSilver}>+</p>
+      <p className={styles.asteriskSilver}>+</p>
 
-<pre className={styles.poem}>{``}</pre><span className={styles.altarText}>I approach the altar.</span><pre className={styles.poem}>{`Fathers   always clutching,
+      <pre className={styles.poem}>{``}</pre>
+      <span className={styles.altarText}>I approach the altar.</span>
+      <pre className={styles.poem}>{`Fathers   always clutching,
 
 wearing white   burying
 their face
@@ -268,7 +303,9 @@ in their father’s armed; were
 loved   deserved to be
 visited   Apparently
 
-`}</pre><span className={styles.altarText}>I approach the altar.</span><pre className={styles.poem}>{`
+`}</pre>
+      <span className={styles.altarText}>I approach the altar.</span>
+      <pre className={styles.poem}>{`
 dirt. walls
 are cool. The sun
 cannot penetrate. tails
@@ -297,7 +334,9 @@ where the dirt came from,
 
 I forget (the mountain),
 
-`}</pre><span className={styles.altarText}>I approach the altar</span><pre className={styles.poem}>{`The sun
+`}</pre>
+      <span className={styles.altarText}>I approach the altar</span>
+      <pre className={styles.poem}>{`The sun
 Shines through cracks
 in the wall
 On faces of strangers   Materializing
@@ -316,7 +355,9 @@ mice,
 strangers
 assuage their depression ...
 
-`}</pre><span className={styles.altarText}>I approach the altar</span><pre className={styles.poem}>{`The strait is behind me
+`}</pre>
+      <span className={styles.altarText}>I approach the altar</span>
+      <pre className={styles.poem}>{`The strait is behind me
 I approach the mirror
 If I can see The strait
 I am Invisible,
@@ -330,7 +371,9 @@ the rail
 
 “in solitude, asylum, or restraint”
 
-`}</pre><span className={styles.altarText}>I approach the altar</span><pre className={styles.poem}>{`The strait
+`}</pre>
+      <span className={styles.altarText}>I approach the altar</span>
+      <pre className={styles.poem}>{`The strait
 in The back of my head
 
 implores
@@ -343,8 +386,10 @@ To decide?
 The strait is a commitment
 Lunar specialties
 
-`}</pre><span className={styles.altarText}>I approach the altar</span><pre className={styles.poemSpecial}>{`   not sound`}</pre>
-<pre className={styles.poem}>{`infects the way
+`}</pre>
+      <span className={styles.altarText}>I approach the altar</span>
+      <pre className={styles.poemSpecial}>{`   not sound`}</pre>
+      <pre className={styles.poem}>{`infects the way
 I have been
 thinking?
 
@@ -360,9 +405,9 @@ to translate The mild asphyxiation –
 
 vice`}</pre>
 
-<p className={styles.asteriskRed}>+</p>
+      <p className={styles.asteriskRed}>+</p>
 
-<pre className={styles.poem}>{`Someday the earth
+      <pre className={styles.poem}>{`Someday the earth
 will be the moon
 
 beaten, abused
@@ -374,9 +419,9 @@ to some other life
 “We would sweep the desert with a telescope.”
 —Violeta Barrios`}</pre>
 
-<p className={styles.asteriskInverse}>+</p>
+      <p className={styles.asteriskInverse}>+</p>
 
-<pre className={styles.poem}>{`I thought: hell in the crevice
+      <pre className={styles.poem}>{`I thought: hell in the crevice
 
 where darkness is
 collected
@@ -392,9 +437,9 @@ but it comes out
 as the mocking
 of young people`}</pre>
 
-<p className={styles.asteriskSilver}>+</p>
+      <p className={styles.asteriskSilver}>+</p>
 
-<pre className={styles.poem}>{`The moon was the hero
+      <pre className={styles.poem}>{`The moon was the hero
 deposed
 
 and licked, and made
@@ -418,9 +463,9 @@ unadorned
 but it was—bright
 old fire`}</pre>
 
-<p className={styles.asteriskRed}>+</p>
+      <p className={styles.asteriskRed}>+</p>
 
-<pre className={styles.poem}>{`The shadow on the grass (in the yard)
+      <pre className={styles.poem}>{`The shadow on the grass (in the yard)
 consolidates all the aspects of
 the self   into one
 black mass
@@ -455,12 +500,14 @@ If there is no sun?
 Shadow   breath
 warms the grass,`}</pre>
 
-<br/><br/>
+      <br />
+      <br />
 
-<p className={styles.altarTextTwo}><i>— 2015 - 2016</i></p>
+      <p className={styles.altarTextTwo}>
+        <i>— 2015 - 2016</i>
+      </p>
 
-
-      <Footer/>
+      <Footer />
     </>
-  )
+  );
 }
