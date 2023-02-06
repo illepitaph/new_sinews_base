@@ -2,6 +2,7 @@ import Head from "next/head";
 import Header from "../../components/header.js";
 import CenterGrayTitle from "../../components/centerGrayTitle.js";
 import RightGrayTitle from "../../components/rightGrayTitle.js";
+import RightBlackTitle from "../../components/rightBlackTitle.js";
 import Footer from "../../components/footer.js";
 import styles from "../../styles/RivalGraveyards.module.css";
 RivalGraveyards.title = "gabriel palacios ~ rival graveyards — new_sinews";
@@ -68,25 +69,9 @@ export default function RivalGraveyards() {
       <br />
       <br />
 
-      <RightGrayTitle>
-        <span className={styles.inverseNameShadow}>
-          k<span className={styles.mintAlternate}>i </span>
-          <span className={styles.nameShadow}>r</span>-<br />
-          <br />s<span className={styles.mintAlternateUppercase}>t</span>
-          <i>e</i>{" "}
-          <span className={styles.nameShadow}>
-            <i>n</i>
-          </span>
-        </span>
-        <br />
-        <br />
-        <span className={styles.mintAlternate}>i </span>
-        <span className={styles.inverseNameShadow}>h </span>
-        <span className={styles.nameShadow}>
-          <i>n </i>
-        </span>
-        <span className={styles.inverseNameShadow}>s</span>
-      </RightGrayTitle>
+      <RightBlackTitle>
+      ——gabriel<br/>palacios
+      </RightBlackTitle>
 
       <br />
       <br />
