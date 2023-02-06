@@ -4,7 +4,7 @@
 
 .nameShadow {
   display:inline-block;
-  margin-left:9.5vw;
+  margin-left:13.5vw;
   color: white;
   font-size: 3.6rem;
   text-shadow: 1px 1px black, 4px 4px 16px black;
@@ -13,11 +13,33 @@
   transform: rotate(24deg);
 }
 
+.nameShadowSpecial {
+  display:inline-block;
+  margin:5vh 0 0 35.5vw;
+  color: white;
+  font-size: 3.6rem;
+  text-shadow: 1px 1px black, 4px 4px 16px black;
+  text-transform: uppercase;
+  opacity: 0.6;
+  transform: rotate(-24deg);
+}
+
 .inverseNameShadow {
+  margin-left:3.5vw;
   font-size: 4.1rem;
   color: #ffcccb;
   text-shadow: 4px 4px snow, 8px 8px black, 12px 12px snow, 6px 6px 16px black;
   text-transform: lowercase;
+}
+
+.inverseNameShadowSpecial {
+  display:inline-block;
+  margin:5vh 0 0 22.5vw;
+  font-size: 4.1rem;
+  color: #ffcccb;
+  text-shadow: 4px 4px snow, 8px 8px black, 12px 12px snow, 6px 6px 16px black;
+  text-transform: lowercase;
+  transform: rotate(18deg);
 }
 
 .blackAlternate {

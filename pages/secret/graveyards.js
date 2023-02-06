@@ -24,22 +24,44 @@ export default function RivalGraveyards() {
       <br />
 
       <CenterGrayTitle>
-        <span className={styles.nameShadow}>R</span>
+        <span className={styles.nameShadow}>r</span>
         <br />
         <br />
-        <span className={styles.inverseNameShadow}>I</span>
+        <span className={styles.inverseNameShadow}>i</span>
         <br />
         <br />
-        <span className={styles.nameShadow}>V</span>
+        <span className={styles.nameShadow}>v</span>
         <br />
         <br />
-        <span className={styles.inverseNameShadow}>A</span>
+        <span className={styles.inverseNameShadow}>a</span>
         <br />
         <br />
-        <span className={styles.blackAlternateUppercase}>L</span>
+        <span className={styles.blackAlternateUppercase}>l</span>
         <br />
         <br />
-        <br />G<br />R<br />A<br />V<br />E<br />Y<br />A<br />R<br />D<br />S
+        <br />
+        <span className={styles.inverseNameShadow}>g</span>
+        <br />
+        <br />
+        <span className={styles.blackAlternateUppercase}>r</span>
+        <br />
+        <br /> <span className={styles.nameShadow}>a</span>
+        <br />
+        <br />
+        <span className={styles.inverseNameShadow}>v</span>
+        <br />
+        <br /> <span className={styles.nameShadow}>e</span>
+        <br />
+        <br />
+        <br />
+        <span className={styles.blackAlternateUppercase}>y</span>
+        <br />
+        <span className={styles.inverseNameShadow}>a</span>
+        <br />
+        <br /> <span className={styles.nameShadow}>r</span>
+        <br />
+        <span className={styles.inverseNameShadowSpecial}>d</span>
+        <br /><span className={styles.nameShadowSpecial}>s</span>
       </CenterGrayTitle>
 
       <br />
