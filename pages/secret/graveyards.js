@@ -2,7 +2,7 @@ import Head from "next/head";
 import Header from "../../components/header.js";
 import CenterGrayTitle from "../../components/centerGrayTitle.js";
 import RightGrayTitle from "../../components/rightGrayTitle.js";
-import RightBlackTitle from "../../components/rightBlackTitle.js";
+import LeftBlackTitle from "../../components/leftBlackTitle.js";
 import Footer from "../../components/footer.js";
 import styles from "../../styles/RivalGraveyards.module.css";
 RivalGraveyards.title = "gabriel palacios ~ rival graveyards — new_sinews";
@@ -10,13 +10,13 @@ RivalGraveyards.pieceName = "gabriel palacios ~ rival graveyards — new_sinews"
 RivalGraveyards.description =
   "_Gabriel Palacios_poetry_RIVAL GRAVEYARDS_issue7_";
 RivalGraveyards.image =
-  "https://www.newnewsinews.com/images/IhnsBackground.jpg";
+  "https://www.newnewsinews.com/images/GraveyardsBackground.jpg";
 
 export default function RivalGraveyards() {
   return (
     <>
       <Head />
-      <Header headerBackground="ihnsBackground" />
+      <Header headerBackground="graveyardsBackground" />
 
       <br />
       <br />
@@ -69,9 +69,9 @@ export default function RivalGraveyards() {
       <br />
       <br />
 
-      <RightBlackTitle>
+      <LeftBlackTitle>
       ——gabriel<br/>palacios
-      </RightBlackTitle>
+      </LeftBlackTitle>
 
       <br />
       <br />

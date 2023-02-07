@@ -361,6 +361,10 @@
   background-image: url("../public/images/DesireBackground.jpg");
 }
 
+.graveyardsBackground {
+  background-image: url("../public/images/GraveyardsBackground.jpg");
+}
+
 @media (width: 1080px) and (height: 810px) {
   .siteNav > .dropDown > button,
   .home,
