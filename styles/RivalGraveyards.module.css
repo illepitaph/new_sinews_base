@@ -3,8 +3,8 @@
 }
 
 .nameShadow {
-  display:inline-block;
-  margin-left:13.5vw;
+  display: inline-block;
+  margin-left: 13.5vw;
   color: white;
   font-size: 3.6rem;
   text-shadow: 1px 1px black, 4px 4px 16px black;
@@ -14,8 +14,8 @@
 }
 
 .nameShadowSpecial {
-  display:inline-block;
-  margin:5vh 0 0 35.5vw;
+  display: inline-block;
+  margin: 5vh 0 0 35.5vw;
   color: white;
   font-size: 3.6rem;
   text-shadow: 1px 1px black, 4px 4px 16px black;
@@ -25,7 +25,7 @@
 }
 
 .inverseNameShadow {
-  margin-left:3.5vw;
+  margin-left: 3.5vw;
   font-size: 4.1rem;
   color: #ffcccb;
   text-shadow: 4px 4px snow, 8px 8px black, 12px 12px snow, 6px 6px 16px black;
@@ -33,8 +33,8 @@
 }
 
 .inverseNameShadowSpecial {
-  display:inline-block;
-  margin:5vh 0 0 22.5vw;
+  display: inline-block;
+  margin: 5vh 0 0 22.5vw;
   font-size: 4.1rem;
   color: #ffcccb;
   text-shadow: 4px 4px snow, 8px 8px black, 12px 12px snow, 6px 6px 16px black;
@@ -43,20 +43,23 @@
 }
 
 .blackAlternate {
-  
   font-size: 4.1rem;
   color: black;
   text-shadow: 4px 4px snow, 5px 5px 15px #ffcccb;
 }
 
 .blackAlternateUppercase {
-  display:inline-block;
-  margin-right:9.5vw;
+  display: inline-block;
+  margin-right: 9.5vw;
   font-size: 4.1rem;
   color: black;
   text-shadow: 4px 4px snow, 5px 5px 15px #ffcccb;
   text-transform: uppercase;
   transform: rotate(-12deg);
+}
+
+.nameSpacing {
+  letter-spacing:2.2rem;
 }
 
 .poemTitle {

@@ -62,7 +62,8 @@ export default function RivalGraveyards() {
         <br /> <span className={styles.nameShadow}>r</span>
         <br />
         <span className={styles.inverseNameShadowSpecial}>d</span>
-        <br /><span className={styles.nameShadowSpecial}>s</span>
+        <br />
+        <span className={styles.nameShadowSpecial}>s</span>
       </CenterGrayTitle>
 
       <br />
@@ -71,9 +72,8 @@ export default function RivalGraveyards() {
       <br />
       <br />
 
-
       <LeftBlackTitle>
-      ——gabriel palacios
+        <span className={styles.nameSpacing}>——gabriel palacios</span>
       </LeftBlackTitle>
 
       <br />
