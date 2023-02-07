@@ -73,7 +73,7 @@ export default function RivalGraveyards() {
       <br />
 
       <LeftBlackTitle>
-        <span className={styles.nameSpacing}>——gabriel palacios</span>
+        <span className={styles.nameSpacing}>———gabriel palacios</span>
       </LeftBlackTitle>
 
       <br />
