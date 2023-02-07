@@ -73,7 +73,7 @@ export default function RivalGraveyards() {
 
 
       <LeftBlackTitle>
-      ——gabriel<br/>palacios
+      ——gabriel palacios
       </LeftBlackTitle>
 
       <br />
