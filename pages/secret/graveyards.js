@@ -68,6 +68,9 @@ export default function RivalGraveyards() {
       <br />
       <br />
       <br />
+      <br />
+      <br />
+
 
       <LeftBlackTitle>
       ——gabriel<br/>palacios
@@ -76,8 +79,18 @@ export default function RivalGraveyards() {
       <br />
       <br />
       <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
 
-      <h3 className={styles.poemTitle}>wulv</h3>
+      <h3 className={styles.poemTitle}>phased arrival</h3>
 
       <br />
       <pre className={styles.poem}>{`EVANGEL	BLISSED ANGEL
@@ -108,7 +121,7 @@ IT’S THE WHOLE PICTURE`}</pre>
       <br />
       <br />
 
-      <h3 className={styles.poemTitle}>hickory</h3>
+      <h3 className={styles.poemTitleTwo}>golden great</h3>
 
       <br />
       <pre className={styles.poem}>{`you appear to me through the episode
