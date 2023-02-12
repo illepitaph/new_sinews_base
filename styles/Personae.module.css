@@ -1,0 +1,30 @@
+.faintShadowMain {
+    font-size: 4.3rem;
+    text-shadow: 5px 5px snow, 10px 10px gainsboro;
+    letter-spacing: 0.4rem;
+  }
+  
+  .uppercaseFaintShadow {
+    text-transform: uppercase;
+  }
+  
+  .faintShadowAncillary {
+    font-size: 3.3rem;
+    text-shadow: 4px 4px snow, 8px 8px gainsboro;
+    letter-spacing: 0.4rem;
+  }
+  
+  .alternateTitleColor {
+    font-size: 3.3rem;
+    color: black;
+    text-shadow: 4px 4px snow, 8px 8px gainsboro;
+    letter-spacing: 0.4rem;
+  }
+  
+  .uppercaseAlternateTitleColor {
+    font-size: 3.3rem;
+    color: black;
+    text-shadow: 4px 4px snow, 8px 8px gainsboro;
+    letter-spacing: 0.4rem;
+    text-transform: uppercase;
+  }
