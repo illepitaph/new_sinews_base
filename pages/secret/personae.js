@@ -249,13 +249,13 @@ export default function Personae() {
         &#8220;—screenwriter—&#8221;
         <br />
         <br />
-        &quot;Why the <i>writer</i> insists on forcing the angle of madness is beyond
+        &#8220;Why the <i>writer</i> insists on forcing the angle of madness is beyond
         me. I find it quite tedious that my supposed madness always remains the
         central focus for most of these stories. Even now, when I am to be
         portrayed as an older woman, the madness remains when the events that
         have ostensibly caused that madness would have occurred nearly forty
         years before. Is the presumption that I have not found my own peace even
-        into old age?&quot;
+        into old age?&#8221;
         <br />
         <br />
         Suiko was used to Oiwa&#8217;s pontifications by this point and knew it was
