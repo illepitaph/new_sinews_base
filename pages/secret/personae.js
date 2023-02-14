@@ -22,7 +22,7 @@ export default function Personae() {
       <LeftGrayTitle>
         <span className={styles.faintShadowMain}>
           d<span className={styles.uppercaseFaintShadow}>r</span><span className={styles.alternateTitleColor}>a</span><br />
-          <br />
+          
           <span className={styles.faintShadowMainTwo}>ma<span className={styles.uppercaseAlternateTitleColor}>t</span></span>
           <br />
           <br /> <span className={styles.faintShadowMain}>i<span className={styles.uppercaseFaintShadow}>s</span></span>
