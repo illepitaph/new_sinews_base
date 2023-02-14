@@ -4,7 +4,7 @@ import CenterGrayTitle from "../../components/centerGrayTitle.js";
 import RightGrayTitle from "../../components/rightGrayTitle.js";
 import LeftBlackTitle from "../../components/leftBlackTitle.js";
 import Footer from "../../components/footer.js";
-import styles from "../../styles/RivalGraveyards.module.css";
+import styles from "../../styles/Graveyards.module.css";
 RivalGraveyards.title = "gabriel palacios ~ rival graveyards — new_sinews";
 RivalGraveyards.pieceName = "gabriel palacios ~ rival graveyards — new_sinews";
 RivalGraveyards.description =

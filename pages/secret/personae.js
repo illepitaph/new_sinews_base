@@ -5,13 +5,13 @@ import LeftGrayTitle from "../../components/leftGrayTitle.js";
 import StandardProse from "../../components/standardProse.js";
 import Footer from "../../components/footer.js";
 import styles from "../../styles/Personae.module.css";
-Feldman.title = "jacqueline_feldman ~ passel: eight stories — new_sinews";
-Feldman.pieceName = "jacqueline_feldman ~ passel: eight stories — new_sinews";
-Feldman.description =
-  "_Jacqueline Feldman_fiction_PASSEL:8+STORIES_news_sinews_issue5_";
-Feldman.image = "https://www.newnewsinews.com/images/FeldmanBackground.jpg";
+Personae.title = "julia shiota ~ dramatis personae — new_sinews";
+Personae.pieceName = "julia shiota ~ dramatis personae — new_sinews";
+Personae.description =
+  "_Julia Shiota_fiction_DRAMATIS PERSONAE_news_sinews_issue7_";
+Personae.image = "https://www.newnewsinews.com/images/FeldmanBackground.jpg";
 
-export default function Feldman() {
+export default function Personae() {
   return (
     <>
       <Head />
@@ -21,21 +21,28 @@ export default function Feldman() {
       <br />
       <LeftGrayTitle>
         <span className={styles.faintShadowMain}>
-          d<span className={styles.uppercaseFaintShadow}>r</span>amati
-          <span className={styles.uppercaseFaintShadow}>s</span>
+          d<span className={styles.uppercaseFaintShadow}>r</span><span className={styles.alternateTitleColor}>a</span><br />
+          <br />
+          <span className={styles.faintShadowMainTwo}>ma<span className={styles.uppercaseAlternateTitleColor}>t</span></span>
+          <br />
+          <br /> <span className={styles.faintShadowMain}>i<span className={styles.uppercaseFaintShadow}>s</span></span>
           <br />
           <br />
           <br />
           <span className={styles.alternateTitleColor}>p</span>e
           <span className={styles.uppercaseAlternateTitleColor}>r</span>
-          <span className={styles.uppercaseAlternateTitleColor}>s</span>
-          o<span className={styles.uppercaseAlternateTitleColor}>n</span>ae
+          <span className={styles.uppercaseAlternateTitleColor}>s</span>o
+          <span className={styles.uppercaseAlternateTitleColor}>n</span>ae
         </span>
       </LeftGrayTitle>
-      <RightBlackTitle>
+      <br />
+      <br />
+      <br />
+      <div className={styles.authorName}>
         {" "}
-        ... julia ... <br /> ... shiota ...{" "}
-      </RightBlackTitle>
+        <span className={styles.ellipses}>...</span> julia <br />{" "}
+        <span className={styles.ellipses}>...</span>shiota{" "}
+      </div>
       <br />
       <StandardProse>
         Commitment?! She just wanted someone who’d get the joke, find it as
