@@ -381,6 +381,47 @@ export default function Personae() {
         <br />
         <br />
         <br />
+        &#8220;Your movement is still completely wrong!&#8221;
+        Oiwa&#8217;s voice and its echo buzzed in Suiko&#8217;s head, making her teeth stand on edge. 
+        <br />
+        <br />
+        She was growing weary of this haunting and of the smothering dampness that clung to the 
+        trailer whenever Oiwa paid her a visit. 
+        <br />
+        <br />
+        &#8220;The director would beg to differ,&#8221; Suiko said tensely from the couch, a heating pad 
+        warming the small of her back. The team had initially wanted to use a series of ropes 
+        and pulleys against a green screen backdrop to achieve the hallway scene. She had 
+        managed to convince them otherwise, focusing instead on how she held her body hunched 
+        and how she shuffled her feet fluidly across the polished floors to create 
+        the impression of weightlessness. 
+        <br />
+        <br />
+        The director had been thrilled with her performance, raving about the impact of practical 
+        effects. 
+        <br />
+        <br />
+        &#8220;No, no, no. Too much bulk, too much being,&#8221; Oiwa insisted, &#8220;There is 
+        still too much to be believable. No one with any self respect would see this performance
+        as anything more than a cheap sham. You must do more than rely on old kabuki stage tricks!&#8221;
+        <br />
+        <br />
+        Suiko sighed, rubbing at the tension pounding in her temples.
+        <br />
+        <br />
+        &#8220;And how exactly do I lessen my being?&#8221; She asked, &#8220;I am still very alive 
+        and corporeal, so there is not much I can do about being embodied. Besides, I&#8217;m much closer 
+        to achieving whatever perfection you are after than any other human actor would be, aren&#8217;t 
+        I? Why isn&#8217;t this good enough for you?&#8221; As she spoke, she felt her frustration 
+        mounting, &#8220;You&#8217;re lucky I&#8217;m even listening to you! What right do you have to come in 
+        here and dictate how to play this role?&#8221;
+        <br />
+        <br />
+        &#8220;You are portraying me.&#8221;
+        <br />
+        <br />
+
+
       </StandardProse>
 
       <Footer />
