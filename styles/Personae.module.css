@@ -46,12 +46,6 @@
   text-transform: uppercase;
 }
 
-.faintShadowAncillary {
-  font-size: 3.3rem;
-  text-shadow: 4px 4px snow, 8px 8px gainsboro;
-  letter-spacing: 0.4rem;
-}
-
 .alternateTitleColor {
   font-family: "bickham-script-pro-3", sans-serif;
   font-size: 14.3rem;
@@ -88,4 +82,13 @@
 
 .ellipses {
   letter-spacing: 3rem;
+}
+
+.sectionBreak {
+  font-family: "lores-9", monospace;
+  font-weight: 400;
+  font-size: 6.2rem;
+  color: white;
+  text-shadow: 1px 1px 6px #d10000;
+  text-align: center;
 }
