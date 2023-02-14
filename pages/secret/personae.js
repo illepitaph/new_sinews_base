@@ -460,7 +460,7 @@ export default function Personae() {
         this role by now.&#8221; Oiwa said snidely. Despite herself, Suiko bristled at those words.
         <br />
         <br />
-        &#8220;What's that supposed to mean?&#8221;
+        &#8220;What&#8217;s that supposed to mean?&#8221;
 
 
       </StandardProse>
