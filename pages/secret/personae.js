@@ -251,7 +251,7 @@ export default function Personae() {
         &#8220;—screenwriter—&#8221;
         <br />
         <br />
-        &#8220;Why the <i>writer</i> insists on forcing the angle of madness is
+        &#8220;Why <i>the writer</i> insists on forcing the angle of madness is
         beyond me. I find it quite tedious that my supposed madness always
         remains the central focus for most of these stories. Even now, when I am
         to be portrayed as an older woman, the madness remains when the events
@@ -391,8 +391,10 @@ export default function Personae() {
         <br />
         <br />
         <br />
-        &#8220;Your movement is still completely wrong!&#8221; Oiwa&#8217;s
-        voice and its echo buzzed in Suiko&#8217;s head, making her teeth stand
+        &#8220;Your movement is still completely wrong!&#8221; 
+        <br />
+        <br />
+        Oiwa&#8217;s voice and its echo buzzed in Suiko&#8217;s head, making her teeth stand
         on edge.
         <br />
         <br />
