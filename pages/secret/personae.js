@@ -461,6 +461,49 @@ export default function Personae() {
         <br />
         <br />
         &#8220;What&#8217;s that supposed to mean?&#8221;
+        <br />
+        <br />
+        &#8220;You say you are embodied, yes, but are you not also a being that knows what it is to 
+        be unbodied, even for just a moment? I have seen your kind transform, it is not an instant 
+        switch from one state to another, but a gradual change. What happens to your body when you 
+        are moving between forms?&#8221;
+        <br />
+        <br />
+        Her words stopped Suiko, mouth already open and ready for a retort. She had never really 
+        considered what happened when her body shifted and molded itself in the same way she never 
+        really considered how each breath went in and out of her body. Yes, there was always a 
+        conscious element to it, a choice involved. But once she made the choice and the action 
+        began, her body simply took over. 
+        <br />
+        <br />
+        She tried to picture it: her human body transforming itself back into the shape of 
+        a tanuki. First visualizing an outcome, then willing her body to bend itself, the 
+        transformation creeping along each element of her form, a cascade linking one part 
+        to another until each piece was touched by the one that came before, all holding 
+        echoes of the original but coaxed into a new shape.
+        <br />
+        <br />
+        &#8220;There would be some time, maybe less than a fraction of a second, where I would 
+        be something else. Something in the middle but not necessarily exactly half and 
+        half. &#8221; She said thoughtfully,  &#8220;I&#8217;ve never thought about it because 
+        the act of transforming always felt so natural to me, even when I was young. &#8221; 
+        <br />
+        <br />
+        Something of an approving smile glittered in Oiwa&#8217;s eye, her face gradually fading as she spoke.
+        <br />
+        <br />
+        &#8220;Tap into that in-between,&#8221; She said, &#8220;Hold that moment where the potential 
+        is balanced between one thing and another—tanuki, human, life, death—and try to move your
+        body again.&#8221; 	
+        <br />
+        <br />
+        <br />
+        <br />
+        <p className={styles.sectionBreak}>#</p>
+        <br />
+        <br />
+        <br />
+        <br />
 
 
       </StandardProse>
