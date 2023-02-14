@@ -420,6 +420,25 @@ export default function Personae() {
         &#8220;You are portraying me.&#8221;
         <br />
         <br />
+        &#8220;This is just a character, Oiwa, and unfortunately for you they aren&#8217;t interested in 
+        creating a pseudo-documentary of what happened in Yotsuya Ward three hundred years ago, even 
+        if such a thing were possible.&#8221; Suiko snapped, &#8220;I understand that your story is all 
+        you have left, but you can&#8217;t honestly believe you have any ownership over it now. None of us 
+        have any say in how we&#8217;ve been depicted. Look at what happened to my friend, the fox, look at 
+        how those like her have been demonized for centuries. She never had any say when someone would 
+        throw her out of her village simply because they had their own ideas about what a fox was. She 
+        only survived by hiding who she was for most of her lives.&#8221;
+        <br />
+        <br />
+        &#8220;Your friend still had the chance to be whoever she wanted to be, even when others 
+        tried to dictate her story for her.&#8221; Oiwa&#8217;s voice rose with her agitation, pounding
+        off the trailer walls like a churning sea, &#8220;She chose to go along with the story 
+        written for her and therefore suffered the consequences.&#8221;
+        <br />
+        <br />
+        Suiko stood up abruptly, squaring off with the ghost.
+        <br />
+        <br />
 
 
       </StandardProse>
