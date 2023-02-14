@@ -90,7 +90,7 @@ export default function Personae() {
         the kohl.
         <br />
         <br />
-        The reflection&apos;s eyes shift to her hair.
+        The reflection&#8217;s eyes shift to her hair.
         <br />
         <br />
         The kohl-stained hand now pulls a honeyed-gold teak comb through long
@@ -101,13 +101,13 @@ export default function Personae() {
         How many times did she need to run the comb through her hair?
         <br />
         <br />
-        <i>One hundred strokes</i>, her mother&apos;s voice comes to her now,{" "}
+        <i>One hundred strokes</i>, her mother&#8217;s voice comes to her now,{" "}
         <i>One hundred strokes each night</i>, <i>my daughter</i>,{" "}
         <i>and your hair will be so beautiful</i>.
         <br />
         <br />
         The comb flashes briefly in the mirror, hovering above the point of her
-        widow&apos;s peak before it bites down again, catching bright flashes of red
+        widow&#8217;s peak before it bites down again, catching bright flashes of red
         that cake each tooth for a split second before disappearing further into
         a black cascade. She long lost count of how many times she has dragged
         the comb through her hair. And still her hand keeps its mechanical
@@ -141,7 +141,7 @@ export default function Personae() {
         firmly. A thick rivulet of blood drips from the ends, pooling onto the
         tiled floor.
         <br />
-        <br />&quot;<i>And</i>, <i>cut</i>!&quot;
+        <br />&#8220;<i>And</i>, <i>cut</i>!&#8221;
         <br />
         <br />
         Suiko instantly relaxed, holding out her red-black dripping hands to the
@@ -176,12 +176,12 @@ export default function Personae() {
         studio was putting together.
         <br />
         <br />
-        &quot;The casting director told me they&apos;re making it a point to cast Japanese
-        speaking actors for all the roles and it seems like they&apos;ve managed to
-        fill out most of the cast. All they need is someone to play Oiwa.&quot; He
-        looked meaningfully here at Suiko, &quot;There&apos;s been a few influential
-        movies with older women protagonists in the U.S., so they&apos;re attempting
-        to age Oiwa up for this and they think you would be perfect.&quot;
+        &#8220;The casting director told me they&#8217;re making it a point to cast Japanese
+        speaking actors for all the roles and it seems like they&#8217;ve managed to
+        fill out most of the cast. All they need is someone to play Oiwa.&#8221; He
+        looked meaningfully here at Suiko, &#8220;There&#8217;s been a few influential
+        movies with older women protagonists in the U.S., so they&#8217;re attempting
+        to age Oiwa up for this and they think you would be perfect.&#8221;
         <br />
         <br />
         Back in her trailer, Suiko sat at her own vanity and considered her face
@@ -221,19 +221,19 @@ export default function Personae() {
         apparition.
         <br />
         <br />
-        &quot;Well?&quot; She asked, trying to keep her tone even.
+        &#8220;Well?&#8221; She asked, trying to keep her tone even.
         <br />
         <br />
         The figure adjusted itself to cast its gaze toward Suiko and let out a
         bubbling, choked laugh.
         <br />
         <br />
-        &quot;I have seen better.&quot; It said, its voice reverberating within the small
-        confines of Suiko&apos;s trailer, the sound bouncing off the walls like a
+        &#8220;I have seen better.&#8221; It said, its voice reverberating within the small
+        confines of Suiko&#8217;s trailer, the sound bouncing off the walls like a
         stone clattering to the bottom of a well.
         <br />
         <br />
-        &quot;Can you lower your voice please, Oiwa.&quot; Suiko said with a wince,
+        &#8220;Can you lower your voice please, Oiwa.&#8221; Suiko said with a wince,
         reflexively reaching up to her ears. She forgot how grating it was to
         speak with the dead.
         <br />
@@ -241,12 +241,12 @@ export default function Personae() {
         The ghost let out a gurgling sigh, but pitched her voice lower.
         <br />
         <br />
-        &quot;Your performance today was adequate.&quot; Oiwa said, &quot;Certainly there has
+        &#8220;Your performance today was adequate.&#8221; Oiwa said, &#8220;Certainly there has
         been improvement over the last several weeks. Though why the
-        playwright—&quot;
+        playwright—&#8221;
         <br />
         <br />
-        &quot;—screenwriter—&quot;
+        &#8220;—screenwriter—&#8221;
         <br />
         <br />
         &quot;Why the <i>writer</i> insists on forcing the angle of madness is beyond
@@ -258,55 +258,55 @@ export default function Personae() {
         into old age?&quot;
         <br />
         <br />
-        Suiko was used to Oiwa&apos;s pontifications by this point and knew it was
+        Suiko was used to Oiwa&#8217;s pontifications by this point and knew it was
         best to simply let things run its course. Suiko herself had been alive
         long before the murders that occurred in Yotsuya Ward, watching the
         legend morph first hand from the Yotsuya zotan, a book presented as
         something supposedly written by an official from within the ward, to the
-        plays and rakugo performances that had made Oiwa&apos;s story so famous. It
+        plays and rakugo performances that had made Oiwa&#8217;s story so famous. It
         was a far more robust canon than most of the stories she had come across
         for those of her own kind. A bulk of those stories depicted tanuki as
-        almost exclusively male with huge scrotums, for heaven&apos;s sake, and Oiwa
+        almost exclusively male with huge scrotums, for heaven&#8217;s sake, and Oiwa
         had grievances against complex character depictions in kabuki plays and
         movies? How so many of the ghosts flitting around felt so entitled to
         their stories long after they had passed was beyond her.
         <br />
         <br />
-        &quot;I don&apos;t understand why you fuss about all this,&quot; Suiko finally cut in,
-        &quot;You&apos;re one of the most well-known ghosts and you&apos;ve inspired so many
+        &#8220;I don&#8217;t understand why you fuss about all this,&#8221; Suiko finally cut in,
+        &#8220;You&#8217;re one of the most well-known ghosts and you&#8217;ve inspired so many
         other stories. There are even shrines erected in your name throughout
-        Tokyo! Surely that must count for something?&quot;
+        Tokyo! Surely that must count for something?&#8221;
         <br />
         <br />
         The ghost hung silently in the clammy air for a moment, thin tendrils of
         mist coalescing faintly around her.
         <br />
         <br />
-        &quot;These stories do not feel quite right,&quot; Oiwa said, her voice now the
-        gentler trickle of a creek, &quot;I believe it is because of the humans
+        &#8220;These stories do not feel quite right,&#8221; Oiwa said, her voice now the
+        gentler trickle of a creek, &#8220;I believe it is because of the humans
         themselves who were trying to portray me—how could they possibly get it
         right? I had hope that a tanuki actress would be able to do something
-        different.&quot;
+        different.&#8221;
         <br />
         <br />
-        &quot;And I am, aren&apos;t I? You have to admit the bit with the kohl on the face
-        and the fight against the dissolution of being was pretty good.&quot;
+        &#8220;And I am, aren&#8217;t I? You have to admit the bit with the kohl on the face
+        and the fight against the dissolution of being was pretty good.&#8221;
         <br />
         <br />
         The ghost offered a spasming grimace that Suiko decided to interpret as
         a smile.
         <br />
         <br />
-        &quot;Yes, you do manage to capture something of what I imagine, even if it
-        appears to be accidental at times.&quot;
+        &#8220;Yes, you do manage to capture something of what I imagine, even if it
+        appears to be accidental at times.&#8221;
         <br />
         <br />
-        &quot;Well, maybe we could achieve your artistic vision more quickly if you
-        haunted the director, or any member of the crew, rather than me.&quot; Suiko
+        &#8220;Well, maybe we could achieve your artistic vision more quickly if you
+        haunted the director, or any member of the crew, rather than me.&#8221; Suiko
         said with some irritation.
         <br />
         <br />
-        Oiwa&apos;s laugh bubbled up one last time as she dissolved fully back into
+        Oiwa&#8217;s laugh bubbled up one last time as she dissolved fully back into
         the air.
         <br />
         <br />
@@ -352,11 +352,11 @@ export default function Personae() {
         <br />
         <br />
         From within the room she hears a shout, sees the rush of movement as a man swiftly 
-        opens the door. It is Kaiho, one of her husband&apos;s friends. His eyes rove the hall 
+        opens the door. It is Kaiho, one of her husband&#8217;s friends. His eyes rove the hall 
         before he pushes the door open fully to step out. 
         <br />
         <br />
-        &quot;Did you hear that, Iemon?&quot; He asks nervously, eyes drifting to the jagged pile of 
+        &#8220;Did you hear that, Iemon?&#8221; He asks nervously, eyes drifting to the jagged pile of 
         panelling and fine scraps of paper that lie in a heap on the floor before moving up 
         to the gouged marks in the wall, then up to the ceiling to look her in the face. His 
         eyes meet hers and he screams, tumbling backwards in his haste to get away. Before 
