@@ -1,3 +1,11 @@
+.margin {
+    margin:-25vh 0 0 0;
+}
+
+.marginTwo {
+    margin:-22vh 0 0 0;
+}
+
 .faintShadowMain {
     display:inline-block;
     margin-left:4.6vw;
@@ -9,7 +17,7 @@
   
   .faintShadowMainTwo {
     display:inline-block;
-    margin-left:15vw;
+    margin-left:5vw;
     font-size: 4.3rem;
     text-shadow: 5px 5px snow, 10px 10px gainsboro;
     letter-spacing: 3.4rem;
@@ -17,13 +25,12 @@
   }
 
   .faintShadowMainThree {
-    font-family: "bickham-script-pro-3", sans-serif;
     display:inline-block;
-    margin-left:15vw;
+    margin-left:7vw;
     font-size: 4.3rem;
     text-shadow: 5px 5px snow, 10px 10px gainsboro;
-    letter-spacing: 3.4rem;
-    transform: skew(-12deg, 1.4deg);
+    letter-spacing: 7.4rem;
+    transform: skew(-12deg, 7.4deg);
   }
 
   .uppercaseFaintShadow {
@@ -35,15 +42,23 @@
     text-shadow: 4px 4px snow, 8px 8px gainsboro;
     letter-spacing: 0.4rem;
   }
+
   
   .alternateTitleColor {
     font-family: "bickham-script-pro-3", sans-serif;
-    font-size: 11.3rem;
+    font-size: 14.3rem;
     color: black;
     text-shadow: 4px 4px snow, 8px 8px gainsboro;
-    letter-spacing: 0.4rem;
   }
-  
+
+  .alternateTitleColorGray {
+    display:inline-block;
+    margin-left:4vw;
+    font-family: "bickham-script-pro-3", sans-serif;
+    font-size: 14.3rem;
+    text-shadow: 4px 4px snow, 8px 8px gainsboro;
+  }
+
   .uppercaseAlternateTitleColor {
     font-size: 3.3rem;
     color: black;
@@ -60,7 +75,7 @@
     text-transform:capitalize;
     letter-spacing:-0.02rem;
     line-height:0.8em;
-    margin:14vh 7vw 7vh 0;
+    margin:1vh 7vw 7vh 0;
   }
 
   .ellipses {

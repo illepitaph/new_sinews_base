@@ -17,23 +17,35 @@ export default function Personae() {
       <Head />
 
       <Header headerBackground="feldmanBackground" />
-      <br />
-      <br />
       <LeftGrayTitle>
+        <div className={styles.margin}>
+          <span className={styles.faintShadowMain}>
+            d<span className={styles.uppercaseFaintShadow}>r</span>
+            <span className={styles.alternateTitleColor}>a</span>
+            <span className={styles.faintShadowMainTwo}>
+              <span className={styles.uppercaseFaintShadow}>m</span>a
+              <span className={styles.alternateTitleColor}>t</span>
+            </span>
+            <span className={styles.faintShadowMainThree}>
+              i
+              <span className={styles.uppercaseFaintShadow}>
+                <span className={styles.uppercaseAlternateTitleColor}>s</span>
+              </span>
+            </span>
+          </span>
+        </div>
+      </LeftGrayTitle>
+      <LeftGrayTitle>
+      <div className={styles.marginTwo}>
         <span className={styles.faintShadowMain}>
-          d<span className={styles.uppercaseFaintShadow}>r</span><span className={styles.alternateTitleColor}>a</span><br />
-          
-          <span className={styles.faintShadowMainTwo}>ma<span className={styles.uppercaseAlternateTitleColor}>t</span></span>
-          <br />
-          <br /> <span className={styles.faintShadowMain}>i<span className={styles.uppercaseFaintShadow}>s</span></span>
-          <br />
-          <br />
-          <br />
-          <span className={styles.alternateTitleColor}>p</span>e
-          <span className={styles.uppercaseAlternateTitleColor}>r</span>
+          <span className={styles.uppercaseAlternateTitleColor}>p</span>
+          <span className={styles.alternateTitleColorGray}>e</span>
+          <span className={styles.uppercaseFaintShadow}>r</span>
           <span className={styles.uppercaseAlternateTitleColor}>s</span>o
-          <span className={styles.uppercaseAlternateTitleColor}>n</span>ae
+          <span className={styles.alternateTitleColor}>n</span>a
+          <span className={styles.alternateTitleColor}>e</span>
         </span>
+        </div>
       </LeftGrayTitle>
       <br />
       <br />
