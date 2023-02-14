@@ -439,6 +439,28 @@ export default function Personae() {
         Suiko stood up abruptly, squaring off with the ghost.
         <br />
         <br />
+        &#8220;You and I both know it&#8217;s more complicated than that.&#8221; She hissed, &#8220;You 
+        have no idea what those like her, like me, have gone through.&#8221;
+        <br />
+        <br />
+        &#8220;Forgive me if I feel little sympathy for you long-lived beings. If you do not enjoy the 
+        life you live, you are able to begin anew. If you do not like the body you have, you create 
+        something anew. If you end up loving someone who does not love you in return, you can find 
+        love anew. On and on you can begin again unless you are foolish enough to get yourself 
+        killed. How many lives have you lived until you became Morinaka Suiko, star of the stage 
+        and screen? Hundreds? And yet you criticize me for wishing for some control over the one 
+        story of my life that has circulated centuries after I died.&#8221;
+        <br />
+        <br />
+        The ghost fixed its single watery eye at her, the rush of rage that swirled to its milky 
+        surface dissolving just as quickly back into an impenetrable black.
+        <br />
+        <br />
+        &#8220;I admit, though, I had imagined a tanuki, of all creatures, would be able to perfect 
+        this role by now.&#8221; Oiwa said snidely. Despite herself, Suiko bristled at those words.
+        <br />
+        <br />
+        &#8220;What's that supposed to mean?&#8221;
 
 
       </StandardProse>
