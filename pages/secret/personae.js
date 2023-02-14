@@ -90,7 +90,7 @@ export default function Personae() {
         the kohl.
         <br />
         <br />
-        The reflection's eyes shift to her hair.
+        The reflection&apos;s eyes shift to her hair.
         <br />
         <br />
         The kohl-stained hand now pulls a honeyed-gold teak comb through long
@@ -101,13 +101,13 @@ export default function Personae() {
         How many times did she need to run the comb through her hair?
         <br />
         <br />
-        <i>One hundred strokes</i>, her mother's voice comes to her now,{" "}
+        <i>One hundred strokes</i>, her mother&apos;s voice comes to her now,{" "}
         <i>One hundred strokes each night</i>, <i>my daughter</i>,{" "}
         <i>and your hair will be so beautiful</i>.
         <br />
         <br />
         The comb flashes briefly in the mirror, hovering above the point of her
-        widow's peak before it bites down again, catching bright flashes of red
+        widow&apos;s peak before it bites down again, catching bright flashes of red
         that cake each tooth for a split second before disappearing further into
         a black cascade. She long lost count of how many times she has dragged
         the comb through her hair. And still her hand keeps its mechanical
@@ -141,7 +141,7 @@ export default function Personae() {
         firmly. A thick rivulet of blood drips from the ends, pooling onto the
         tiled floor.
         <br />
-        <br />"<i>And</i>, <i>cut</i>!"
+        <br />&quot;<i>And</i>, <i>cut</i>!&quot;
         <br />
         <br />
         Suiko instantly relaxed, holding out her red-black dripping hands to the
@@ -176,12 +176,12 @@ export default function Personae() {
         studio was putting together.
         <br />
         <br />
-        "The casting director told me they're making it a point to cast Japanese
-        speaking actors for all the roles and it seems like they've managed to
-        fill out most of the cast. All they need is someone to play Oiwa." He
-        looked meaningfully here at Suiko, "There's been a few influential
-        movies with older women protagonists in the U.S., so they're attempting
-        to age Oiwa up for this and they think you would be perfect."
+        &quot;The casting director told me they&apos;re making it a point to cast Japanese
+        speaking actors for all the roles and it seems like they&apos;ve managed to
+        fill out most of the cast. All they need is someone to play Oiwa.&quot; He
+        looked meaningfully here at Suiko, &quot;There&apos;s been a few influential
+        movies with older women protagonists in the U.S., so they&apos;re attempting
+        to age Oiwa up for this and they think you would be perfect.&quot;
         <br />
         <br />
         Back in her trailer, Suiko sat at her own vanity and considered her face
@@ -221,19 +221,19 @@ export default function Personae() {
         apparition.
         <br />
         <br />
-        "Well?" She asked, trying to keep her tone even.
+        &quot;Well?&quot; She asked, trying to keep her tone even.
         <br />
         <br />
         The figure adjusted itself to cast its gaze toward Suiko and let out a
         bubbling, choked laugh.
         <br />
         <br />
-        "I have seen better." It said, its voice reverberating within the small
-        confines of Suiko's trailer, the sound bouncing off the walls like a
+        &quot;I have seen better.&quot; It said, its voice reverberating within the small
+        confines of Suiko&apos;s trailer, the sound bouncing off the walls like a
         stone clattering to the bottom of a well.
         <br />
         <br />
-        "Can you lower your voice please, Oiwa." Suiko said with a wince,
+        &quot;Can you lower your voice please, Oiwa.&quot; Suiko said with a wince,
         reflexively reaching up to her ears. She forgot how grating it was to
         speak with the dead.
         <br />
@@ -241,73 +241,137 @@ export default function Personae() {
         The ghost let out a gurgling sigh, but pitched her voice lower.
         <br />
         <br />
-        "Your performance today was adequate." Oiwa said, "Certainly there has
+        &quot;Your performance today was adequate.&quot; Oiwa said, &quot;Certainly there has
         been improvement over the last several weeks. Though why the
-        playwright—"
+        playwright—&quot;
         <br />
         <br />
-        "—screenwriter—"
+        &quot;—screenwriter—&quot;
         <br />
         <br />
-        "Why the <i>writer</i> insists on forcing the angle of madness is beyond
+        &quot;Why the <i>writer</i> insists on forcing the angle of madness is beyond
         me. I find it quite tedious that my supposed madness always remains the
         central focus for most of these stories. Even now, when I am to be
         portrayed as an older woman, the madness remains when the events that
         have ostensibly caused that madness would have occurred nearly forty
         years before. Is the presumption that I have not found my own peace even
-        into old age?"
+        into old age?&quot;
         <br />
         <br />
-        Suiko was used to Oiwa's pontifications by this point and knew it was
+        Suiko was used to Oiwa&apos;s pontifications by this point and knew it was
         best to simply let things run its course. Suiko herself had been alive
         long before the murders that occurred in Yotsuya Ward, watching the
         legend morph first hand from the Yotsuya zotan, a book presented as
         something supposedly written by an official from within the ward, to the
-        plays and rakugo performances that had made Oiwa's story so famous. It
+        plays and rakugo performances that had made Oiwa&apos;s story so famous. It
         was a far more robust canon than most of the stories she had come across
         for those of her own kind. A bulk of those stories depicted tanuki as
-        almost exclusively male with huge scrotums, for heaven's sake, and Oiwa
+        almost exclusively male with huge scrotums, for heaven&apos;s sake, and Oiwa
         had grievances against complex character depictions in kabuki plays and
         movies? How so many of the ghosts flitting around felt so entitled to
         their stories long after they had passed was beyond her.
         <br />
         <br />
-        "I don't understand why you fuss about all this," Suiko finally cut in,
-        "You're one of the most well-known ghosts and you've inspired so many
+        &quot;I don&apos;t understand why you fuss about all this,&quot; Suiko finally cut in,
+        &quot;You&apos;re one of the most well-known ghosts and you&apos;ve inspired so many
         other stories. There are even shrines erected in your name throughout
-        Tokyo! Surely that must count for something?"
+        Tokyo! Surely that must count for something?&quot;
         <br />
         <br />
         The ghost hung silently in the clammy air for a moment, thin tendrils of
         mist coalescing faintly around her.
         <br />
         <br />
-        "These stories do not feel quite right," Oiwa said, her voice now the
-        gentler trickle of a creek, "I believe it is because of the humans
+        &quot;These stories do not feel quite right,&quot; Oiwa said, her voice now the
+        gentler trickle of a creek, &quot;I believe it is because of the humans
         themselves who were trying to portray me—how could they possibly get it
         right? I had hope that a tanuki actress would be able to do something
-        different."
+        different.&quot;
         <br />
         <br />
-        "And I am, aren't I? You have to admit the bit with the kohl on the face
-        and the fight against the dissolution of being was pretty good."
+        &quot;And I am, aren&apos;t I? You have to admit the bit with the kohl on the face
+        and the fight against the dissolution of being was pretty good.&quot;
         <br />
         <br />
         The ghost offered a spasming grimace that Suiko decided to interpret as
         a smile.
         <br />
         <br />
-        "Yes, you do manage to capture something of what I imagine, even if it
-        appears to be accidental at times."
+        &quot;Yes, you do manage to capture something of what I imagine, even if it
+        appears to be accidental at times.&quot;
         <br />
         <br />
-        "Well, maybe we could achieve your artistic vision more quickly if you
-        haunted the director, or any member of the crew, rather than me." Suiko
+        &quot;Well, maybe we could achieve your artistic vision more quickly if you
+        haunted the director, or any member of the crew, rather than me.&quot; Suiko
         said with some irritation.
         <br />
         <br />
-        Oiwa's laugh bubbled up one last time as she dissolved fully back into
+        Oiwa&apos;s laugh bubbled up one last time as she dissolved fully back into
         the air.
+        <br />
+        <br />
+        <br />
+        <br />
+        <p className={styles.sectionBreak}>#</p>
+        <br />
+        <br />
+        <br />
+        <br />
+        There are no mirrors here nor any gleaming surface at all to catch her shape as she 
+        moves down the hallway. There are no lights to cast her form in sharp relief against 
+        the oak-paneled walls, just a faint glow that seems to follow her wherever she glides. She
+        cannot even feel the smooth tile beneath her feet. Was it simply too cold to feel her feet 
+        her hands her body? Surely there was something of her here, something that moves, something 
+        that perceives the space around her. 
+        <br />
+        <br />
+        In the distance she hears the soft, intermittent beating of a drum, its rhythm weaving 
+        through the eerie piping strains of a flute. 
+        <br />
+        <br />
+        Something propels her forward, an impulse that drags her down the long hall to peer in 
+        each open door. What, or who, calls to her? 
+        <br />
+        <br />
+        One of the doors is nearly closed and from behind it are the sound of voices, hushed and 
+        hurried. She pauses, listening. The voices muddle together before eventually pulling apart 
+        and while she cannot tell what they say, she recognizes some of them now: it is her 
+        husband, two of his close friends, and the neighbor.
+        <br />
+        <br />
+        Why would her husband invite company without telling her? 
+        <br />
+        <br />
+        She tries to push through the doorway to get a better look, but she is now suddenly 
+        immobile, her back pressing up near the ceiling opposite the door. Around her is that 
+        soft halo of warm light and she can see the faint shadows of what must be her body 
+        struggling to be free of the wall, of the corridor, of whatever is pinning her 
+        aloft. In desperation she reaches out a hand, clawing at the wall around her, and 
+        tears out thick chunks of panelling that clatter to the floor. She screams with her 
+        mouth wide open and it is the dry sound of tearing paper. 
+        <br />
+        <br />
+        From within the room she hears a shout, sees the rush of movement as a man swiftly 
+        opens the door. It is Kaiho, one of her husband&apos;s friends. His eyes rove the hall 
+        before he pushes the door open fully to step out. 
+        <br />
+        <br />
+        &quot;Did you hear that, Iemon?&quot; He asks nervously, eyes drifting to the jagged pile of 
+        panelling and fine scraps of paper that lie in a heap on the floor before moving up 
+        to the gouged marks in the wall, then up to the ceiling to look her in the face. His 
+        eyes meet hers and he screams, tumbling backwards in his haste to get away. Before 
+        she can speak he convulses violently, clutching desperately at his chest. He lets 
+        out one final cry and he is dead.
+        <br />
+        <br />
+        She feels her rasping breath catch in her chest, the round cavity created by the bamboo 
+        ribbing feels far too tight. As she struggles her mouth tears open wider, a ragged 
+        horizontal cut that allows the light to pour out and illuminate the corridor more brightly.
+        <br />
+        <br />
+        Her husband rushes to the doorway, peering wide-eyed at the corpse of his friend lying 
+        contorted in the hall. When his eyes finally look upon where her torn paper crepe form 
+        hangs, he looks straight through her.
         <br />
         <br />
         <br />
