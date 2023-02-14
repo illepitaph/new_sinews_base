@@ -424,7 +424,7 @@ export default function Personae() {
         Suiko sighed, rubbing at the tension pounding in her temples.
         <br />
         <br />
-        &#8220;And how exactly do I lessen my being?&#8221; She asked, &#8220;I
+        &#8220;And how exactly do I <i>lessen my being</i>?&#8221; She asked, &#8220;I
         am still very alive and corporeal, so there is not much I can do about
         being embodied. Besides, I&#8217;m much closer to achieving whatever
         perfection you are after than any other human actor would be,
