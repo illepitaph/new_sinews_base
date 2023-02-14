@@ -36,15 +36,15 @@ export default function Personae() {
         </div>
       </LeftGrayTitle>
       <LeftGrayTitle>
-      <div className={styles.marginTwo}>
-        <span className={styles.faintShadowMainFour}>
-          <span className={styles.uppercaseAlternateTitleColor}>p</span>
-          <span className={styles.alternateTitleColorGray}>e</span>
-          <span className={styles.uppercaseFaintShadow}>r</span>
-          <span className={styles.uppercaseAlternateTitleColor}>s</span>o
-          <span className={styles.alternateTitleColor}>n</span>a
-          <span className={styles.alternateTitleColor}>e</span>
-        </span>
+        <div className={styles.marginTwo}>
+          <span className={styles.faintShadowMainFour}>
+            <span className={styles.uppercaseAlternateTitleColor}>p</span>
+            <span className={styles.alternateTitleColorGray}>e</span>
+            <span className={styles.uppercaseFaintShadow}>r</span>
+            <span className={styles.uppercaseAlternateTitleColor}>s</span>o
+            <span className={styles.alternateTitleColor}>n</span>a
+            <span className={styles.alternateTitleColor}>e</span>
+          </span>
         </div>
       </LeftGrayTitle>
       <br />

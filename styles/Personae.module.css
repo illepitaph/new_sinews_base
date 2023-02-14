@@ -1,92 +1,91 @@
 .margin {
-    margin:-25vh 0 0 0;
+  margin: -25vh 0 0 0;
 }
 
 .marginTwo {
-    margin:-22vh 0 -10vh 0;
+  margin: -22vh 0 -10vh 0;
 }
 
 .faintShadowMain {
-    display:inline-block;
-    margin-left:4.6vw;
-    font-size: 4.9rem;
-    text-shadow: 5px 5px snow, 10px 10px gainsboro;
-    letter-spacing: 3.4rem;
-    transform: skew(12deg, 1.4deg);
-  }
-  
-  .faintShadowMainTwo {
-    display:inline-block;
-    margin-left:5vw;
-    font-size: 4.3rem;
-    text-shadow: 5px 5px snow, 10px 10px gainsboro;
-    letter-spacing: 3.4rem;
-    transform: skew(-12deg, 1.4deg);
-  }
+  display: inline-block;
+  margin-left: 4.6vw;
+  font-size: 4.9rem;
+  text-shadow: 5px 5px snow, 10px 10px gainsboro;
+  letter-spacing: 3.4rem;
+  transform: skew(12deg, 1.4deg);
+}
 
-  .faintShadowMainThree {
-    display:inline-block;
-    margin-left:7vw;
-    font-size: 4.3rem;
-    text-shadow: 5px 5px snow, 10px 10px gainsboro;
-    letter-spacing: 7.4rem;
-    transform: skew(-12deg, 7.4deg);
-  }
+.faintShadowMainTwo {
+  display: inline-block;
+  margin-left: 5vw;
+  font-size: 4.3rem;
+  text-shadow: 5px 5px snow, 10px 10px gainsboro;
+  letter-spacing: 3.4rem;
+  transform: skew(-12deg, 1.4deg);
+}
 
-  .faintShadowMainFour {
-    display:inline-block;
-    margin-left:5.6vw;
-    font-size: 4.9rem;
-    text-shadow: 5px 5px snow, 10px 10px gainsboro;
-    letter-spacing: 5.4rem;
-    transform: skew(12deg, 1.4deg);
-  }
+.faintShadowMainThree {
+  display: inline-block;
+  margin-left: 7vw;
+  font-size: 4.3rem;
+  text-shadow: 5px 5px snow, 10px 10px gainsboro;
+  letter-spacing: 7.4rem;
+  transform: skew(-12deg, 7.4deg);
+}
 
-  .uppercaseFaintShadow {
-    text-transform: uppercase;
-  }
-  
-  .faintShadowAncillary {
-    font-size: 3.3rem;
-    text-shadow: 4px 4px snow, 8px 8px gainsboro;
-    letter-spacing: 0.4rem;
-  }
+.faintShadowMainFour {
+  display: inline-block;
+  margin-left: 5.6vw;
+  font-size: 4.9rem;
+  text-shadow: 5px 5px snow, 10px 10px gainsboro;
+  letter-spacing: 5.4rem;
+  transform: skew(12deg, 1.4deg);
+}
 
-  
-  .alternateTitleColor {
-    font-family: "bickham-script-pro-3", sans-serif;
-    font-size: 14.3rem;
-    color: black;
-    text-shadow: 4px 4px snow, 8px 8px gainsboro;
-  }
+.uppercaseFaintShadow {
+  text-transform: uppercase;
+}
 
-  .alternateTitleColorGray {
-    display:inline-block;
-    margin-left:4vw;
-    font-family: "bickham-script-pro-3", sans-serif;
-    font-size: 14.3rem;
-    text-shadow: 4px 4px snow, 8px 8px gainsboro;
-  }
+.faintShadowAncillary {
+  font-size: 3.3rem;
+  text-shadow: 4px 4px snow, 8px 8px gainsboro;
+  letter-spacing: 0.4rem;
+}
 
-  .uppercaseAlternateTitleColor {
-    font-size: 3.3rem;
-    color: black;
-    text-shadow: 4px 4px snow, 8px 8px gainsboro;
-    letter-spacing: 0.4rem;
-    text-transform: uppercase;
-  }
+.alternateTitleColor {
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-size: 14.3rem;
+  color: black;
+  text-shadow: 4px 4px snow, 8px 8px gainsboro;
+}
 
-  .authorName {
-    font-size: 5.5rem;
-    font-family: "bickham-script-pro-3", sans-serif;
-    font-weight:500;
-    text-align:right;
-    text-transform:capitalize;
-    letter-spacing:-0.02rem;
-    line-height:0.8em;
-    margin:1vh 7vw 7vh 0;
-  }
+.alternateTitleColorGray {
+  display: inline-block;
+  margin-left: 4vw;
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-size: 14.3rem;
+  text-shadow: 4px 4px snow, 8px 8px gainsboro;
+}
 
-  .ellipses {
-    letter-spacing:3rem;
-  }
+.uppercaseAlternateTitleColor {
+  font-size: 3.3rem;
+  color: black;
+  text-shadow: 4px 4px snow, 8px 8px gainsboro;
+  letter-spacing: 0.4rem;
+  text-transform: uppercase;
+}
+
+.authorName {
+  font-size: 5.5rem;
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-weight: 500;
+  text-align: right;
+  text-transform: capitalize;
+  letter-spacing: -0.02rem;
+  line-height: 0.8em;
+  margin: 1vh 7vw 7vh 0;
+}
+
+.ellipses {
+  letter-spacing: 3rem;
+}
