@@ -37,7 +37,7 @@ export default function Personae() {
       </LeftGrayTitle>
       <LeftGrayTitle>
       <div className={styles.marginTwo}>
-        <span className={styles.faintShadowMain}>
+        <span className={styles.faintShadowMainFour}>
           <span className={styles.uppercaseAlternateTitleColor}>p</span>
           <span className={styles.alternateTitleColorGray}>e</span>
           <span className={styles.uppercaseFaintShadow}>r</span>

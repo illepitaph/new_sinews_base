@@ -3,7 +3,7 @@
 }
 
 .marginTwo {
-    margin:-22vh 0 0 0;
+    margin:-22vh 0 -10vh 0;
 }
 
 .faintShadowMain {
@@ -31,6 +31,15 @@
     text-shadow: 5px 5px snow, 10px 10px gainsboro;
     letter-spacing: 7.4rem;
     transform: skew(-12deg, 7.4deg);
+  }
+
+  .faintShadowMainFour {
+    display:inline-block;
+    margin-left:5.6vw;
+    font-size: 4.9rem;
+    text-shadow: 5px 5px snow, 10px 10px gainsboro;
+    letter-spacing: 5.4rem;
+    transform: skew(12deg, 1.4deg);
   }
 
   .uppercaseFaintShadow {
