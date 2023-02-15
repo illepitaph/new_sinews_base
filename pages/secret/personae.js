@@ -16,7 +16,7 @@ export default function Personae() {
     <>
       <Head />
 
-      <Header headerBackground="feldmanBackground" />
+      <Header headerBackground="personaeBackground" />
       <LeftGrayTitle>
         <div className={styles.margin}>
           <span className={styles.faintShadowMain}>

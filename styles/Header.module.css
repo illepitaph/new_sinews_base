@@ -365,6 +365,10 @@
   background-image: url("../public/images/GraveyardsBackground.jpg");
 }
 
+.personaeBackground {
+  background-image: url("../public/images/PersonaeBackground.jpg");
+}
+
 @media (width: 1080px) and (height: 810px) {
   .siteNav > .dropDown > button,
   .home,
