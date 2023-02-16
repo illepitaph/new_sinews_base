@@ -1,7 +1,3 @@
-.titleShadow {
-  text-shadow: 5px 5px snow, 10px 10px silver, 14px 14px gainsboro;
-}
-
 .nameShadow {
   display: inline-block;
   margin-left: 13.5vw;
@@ -40,12 +36,6 @@
   text-shadow: 4px 4px snow, 8px 8px black, 12px 12px snow, 6px 6px 16px black;
   text-transform: lowercase;
   transform: rotate(18deg);
-}
-
-.blackAlternate {
-  font-size: 4.1rem;
-  color: black;
-  text-shadow: 4px 4px snow, 5px 5px 15px #ffcccb;
 }
 
 .blackAlternateUppercase {
@@ -108,24 +98,53 @@
   .poem {
     margin-left: 12vw;
   }
+
+  .nameSpacing {
+    letter-spacing:0.8rem;
+  }
+
+}
+
+@media (max-width: 896px) and (orientation: landscape) {
+
+  .nameSpacing {
+    letter-spacing:0.6rem;
+  }
+
 }
 
 @media (max-width: 835px) and (orientation: portrait) {
   .poem {
     margin-left: 6vw;
   }
+
+  .nameSpacing {
+    letter-spacing:0.5rem;
+  }
 }
+
+@media (max-width: 812px) and (orientation: landscape) {
+  .poem {
+    margin-left: 6vw;
+  }
+
+  .nameSpacing {
+    letter-spacing:0.4rem;
+  }
+}
+
+@media (max-width: 769px) and (orientation: portrait) {
+
+  .nameSpacing {
+    letter-spacing:0.4rem;
+  }
+}
+
 
 @media (max-width: 745px) and (orientation: landscape) {
   .poem {
     font-size: 1rem;
     margin-left: 2vw;
-  }
-}
-
-@media (max-width: 801px) and (orientation: landscape) {
-  .poem {
-    margin-left: 6vw;
   }
 }
 
@@ -147,8 +166,13 @@
 }
 
 @media (max-width: 429px) and (orientation: portrait) {
+
   .titleShadow {
     font-size: 2.2rem;
+  }
+
+  .nameSpacing {
+    letter-spacing:0.1rem;
   }
 
   .poemTitle {
@@ -167,6 +191,11 @@
 
   .poemTitle {
     font-size: 1.4rem;
+  }
+
+  .nameSpacing {
+    font-size:1.2rem;
+    letter-spacing:0.1rem;
   }
 
   .poem {
