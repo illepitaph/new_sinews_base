@@ -49,7 +49,7 @@
   margin:16vh 0 0 1vw;
   background: linear-gradient(
       to right,
-      silver 1%,
+      black 1%,
       white 2%,
       silver 3%,
       white 6%,
@@ -59,14 +59,14 @@
       snow 20%,
       whitesmoke 31%,
       white 41%,
-      whitesmoke 51%,
+      black 51%,
       whitesmoke 71%,
       snow 75%,
       #e2e2e2 88%,
       snow 94%,
-      silver 96%,
+      black 96%,
       whitesmoke 97%,
-      silver 98%,
+      dimgray 98%,
       white 99%
     );
   box-shadow: 20px 12px 15px gray;
@@ -86,7 +86,7 @@
     margin-bottom: 6%;
     width:97.5%;
     height:95%;
-    box-shadow: 20px 12px 5px #e2e2e2;
+    box-shadow: 20px 12px 5px gainsboro;
     border-radius:2rem;
   }
 
@@ -98,7 +98,7 @@
       to bottom,
       silver 1%,
       white 2%,
-      silver 3%,
+      black 3%,
       white 6%,
       gainsboro 10%,
       #e8e8e8 12%,
@@ -109,14 +109,14 @@
       whitesmoke 51%,
       whitesmoke 71%,
       snow 75%,
-      #e2e2e2 88%,
+      silver 88%,
       snow 94%,
-      silver 96%,
+      black 96%,
       whitesmoke 97%,
-      silver 98%,
+      dimgray 98%,
       white 99%
     );
-    box-shadow: 20px 12px 5px gray;
+    box-shadow: 20px 12px 5px dimgray;
     border-radius:2rem;
   }
 
@@ -126,30 +126,29 @@
       height: 80%;
       margin: 6% 0 6% 0;
       background: linear-gradient(
-      to left,
+      to bottom right,
       snow 1%,
       white 2%,
-      gainsboro 3%,
-      white 6%,
+      #2cbae7 3%,
+      white 4%,
       gainsboro 10%,
       #e8e8e8 12%,
       whitesmoke 17%,
       snow 20%,
       whitesmoke 31%,
-      white 41%,
+      gray 41%,
       whitesmoke 51%,
       whitesmoke 71%,
       snow 75%,
-      whitesmoke 88%,
+      black 88%,
       snow 94%,
-      whitesmoke 96%,
+      #2cbae7 96%,
       snow 97%,
       #e8e8e8 98%,
       white 99%
     );
       box-shadow: inset 20px 12px 5px #e2e2e2;
       border-radius:2rem;
-      opacity:0.8;
   }
 
   .textContainer {
@@ -187,7 +186,6 @@
     box-shadow: 20px 12px 5px #e2e2e2;
     cursor:pointer;
     border-radius:2rem;
-    opacity:0.8;
   }
   
   .blackShadow {
