@@ -42,24 +42,13 @@
       opacity: 1;
     }
   }
-  
-  .container {
-    display: grid;
-    place-items: center;
-    margin-bottom: 6%;
-  }
-  
-  .carousel {
-    position: relative;
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: center;
-    align-items: center;
-    width: 90%;
-    height: 80vh;
-    margin: 6% 0 6% 0;
-    background: linear-gradient(
-      to top right,
+
+.containerContainer {
+  width:97vw;
+  height:130vh;
+  margin:16vh 0 0 1vw;
+  background: linear-gradient(
+      to right,
       silver 1%,
       white 2%,
       silver 3%,
@@ -80,67 +69,131 @@
       silver 98%,
       white 99%
     );
-    border-radius: 15rem;
+  box-shadow: 20px 12px 15px gray;
+  border-radius:2rem;
+}
+
+.containerContainerContainer {
+  width:98.5%;
+  height:97.5%;
+  box-shadow: inset 20px 12px 5px #e2e2e2;
+  border-radius:2rem;
+}
+  
+  .container {
+    display: grid;
+    place-items: center;
+    margin-bottom: 6%;
+    width:97.5%;
+    height:95%;
     box-shadow: 20px 12px 5px #e2e2e2;
-    animation: fadeIn ease-out 2s;
+    border-radius:2rem;
   }
-  
-  .carousel > .prev {
+
+  .textContainerContainer {
+    position: relative;
+    width: 90%;
+    height: 90%;
+    background: linear-gradient(
+      to bottom,
+      silver 1%,
+      white 2%,
+      silver 3%,
+      white 6%,
+      gainsboro 10%,
+      #e8e8e8 12%,
+      whitesmoke 17%,
+      snow 20%,
+      whitesmoke 31%,
+      white 41%,
+      whitesmoke 51%,
+      whitesmoke 71%,
+      snow 75%,
+      #e2e2e2 88%,
+      snow 94%,
+      silver 96%,
+      whitesmoke 97%,
+      silver 98%,
+      white 99%
+    );
+    box-shadow: 20px 12px 5px gray;
+    border-radius:2rem;
+  }
+
+  .box {
+      position: absolute;
+      width: 103%;
+      height: 80%;
+      margin: 6% 0 6% 0;
+      background: linear-gradient(
+      to left,
+      snow 1%,
+      white 2%,
+      gainsboro 3%,
+      white 6%,
+      gainsboro 10%,
+      #e8e8e8 12%,
+      whitesmoke 17%,
+      snow 20%,
+      whitesmoke 31%,
+      white 41%,
+      whitesmoke 51%,
+      whitesmoke 71%,
+      snow 75%,
+      whitesmoke 88%,
+      snow 94%,
+      whitesmoke 96%,
+      snow 97%,
+      #e8e8e8 98%,
+      white 99%
+    );
+      box-shadow: inset 20px 12px 5px #e2e2e2;
+      border-radius:2rem;
+      opacity:0.8;
+  }
+
+  .textContainer {
     position: absolute;
-    z-index: 1;
-    top: 60%;
-    left: -3%;
-    flex: 5%;
-    height: 5%;
-    display: grid;
-    place-items: center;
-    color: snow;
-    font-size: 4rem;
-    font-weight: 700;
-    text-shadow: 2px 3px black, 4px 6px #2cbae7;
-    letter-spacing: 0.2rem;
-    cursor: pointer;
-    opacity: 0.3;
-  }
-  
-  .carousel > .next {
-    position: absolute;
-    z-index: 1;
-    top: 5%;
-    right: -3%;
-    flex: 5%;
-    height: 20%;
-    display: grid;
-    place-items: center;
-    color: #2cbae7;
-    font-size: 4rem;
-    font-weight: 700;
-    text-shadow: 2px 2px #b0b0b0, 4px 4px black;
-    letter-spacing: 0.2rem;
-    cursor: pointer;
-    opacity: 0.2;
-  }
-  
-  .prev:hover {
-    font-size: 4.2rem;
-    color: black;
-    text-shadow: 2px 3px snow, 5px 5px #2cbae7;
-  }
-  
-  .next:hover {
-    font-size: 4.2rem;
-    color: #b0b0b0;
-    text-shadow: 3px 3px black;
-  }
-  
-  .increasedSizeText {
-    font-size: 4.3rem;
-    animation: fadeIn ease-out 1.3s;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    width: 106%;
+    height: 70%;
+    right:10px;
+    margin: 6% 0 6% 0;
+    background: linear-gradient(
+    to bottom,
+    snow 1%,
+    white 2%,
+    gainsboro 3%,
+    white 6%,
+    gainsboro 10%,
+    #e8e8e8 12%,
+    whitesmoke 17%,
+    snow 20%,
+    whitesmoke 31%,
+    white 41%,
+    whitesmoke 51%,
+    whitesmoke 71%,
+    snow 75%,
+    whitesmoke 88%,
+    snow 94%,
+    whitesmoke 96%,
+    snow 97%,
+    #e8e8e8 98%,
+    white 99%
+  );
+    box-shadow: 20px 12px 5px #e2e2e2;
+    cursor:pointer;
+    border-radius:2rem;
+    opacity:0.8;
   }
   
   .blackShadow {
     color: black;
     text-shadow: 4px 4px snow, 6px 6px #b0b0b0;
+    letter-spacing:0.7rem;
   }
   
   .grayShadow {
@@ -160,24 +213,18 @@
     color: #2cbae7;
     text-shadow: 4px 4px snow, 6px 6px #b0b0b0;
   }
-  
-  .diagramText {
-    font-family: "base-9-sans", sans-serif;
-    font-weight: 500;
-    font-style: normal;
-    font-size: 1.2rem;
-    margin: 0 auto;
-    text-shadow: 2px 2px gainsboro;
-    letter-spacing: 0.04rem;
-    line-height: 1.5em;
-    animation: fadeIn ease-out 1.3s;
+
+  .proofText {
+    font-family:"lores-9-plus-wide";
+    font-size: 1.5rem;
+    font-weight: 700;
+    letter-spacing: 0.085rem;
+    color:white;
+    text-shadow: 2px 3px black, 3px 4px #2cbae7, 4px 7px gainsboro, 4px 8px 16px black;
   }
-  
-  .roughAltText {
-    font-family: "lores-9-wide", monospace;
-    font-size: 1.6rem;
-    color: #b0b0b0;
-    text-shadow: 1px 1px white, 4px 4px gainsboro;
+
+  .extraLetterSpace {
+    letter-spacing: 0.2rem;
   }
   
   @media (max-width: 927px) and (orientation: landscape) {
