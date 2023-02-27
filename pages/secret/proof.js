@@ -50,13 +50,13 @@ export default function Proof() {
       <div className={styles.containerContainer}>
         <div className={styles.containerContainerContainer}>
           <div className={styles.container}>
-          <div className={styles.textContainerContainer}>
-          <div className={styles.box}>
-          <div className={styles.boxTwo}>
-            <div className={styles.textContainer} onClick={nextText}>
-              <RawText />
-              </div>
-              </div>
+            <div className={styles.textContainerContainer}>
+              <div className={styles.box}>
+                <div className={styles.boxTwo}>
+                  <div className={styles.textContainer} onClick={nextText}>
+                    <RawText />
+                  </div>
+                </div>
               </div>
             </div>
           </div>

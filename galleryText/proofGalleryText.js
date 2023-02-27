@@ -6,7 +6,16 @@ import styles from "../styles/Proof.module.css";
 export function ProofRawText1() {
   return (
     <>
-      <CenterGrayTitle>proof</CenterGrayTitle>
+      <CenterGrayTitle>
+        <span className={styles.titleShadowOne}>
+          p<br/>
+          <span className={styles.inverseShadowUppercase}>
+            <i>r</i>
+          </span><br/>
+          o <span className={styles.inverseShadowUppercase}>o </span><br/>
+          <span className={styles.titleShadowUppercase}><i>f</i></span>
+        </span>
+      </CenterGrayTitle>
     </>
   );
 }
@@ -15,14 +24,14 @@ export function ProofRawText2() {
   return (
     <>
       <CenterGrayTitle>
-        <span className={styles.blackShadow}>
+        <span className={styles.titleShadowTwo}>
           <i>
-            k <span className={styles.alternateShadow}> e</span> l
-            <span className={styles.alternateShadow}> l</span> y
-          </i>{" "}
-          k <span className={styles.alternateShadow}> r</span> u
-          <span className={styles.alternateShadow}> m</span> r
-          <span className={styles.alternateShadow}> i</span> e
+            k <span className={styles.inverseShadowUppercase}> e</span> l
+            <span className={styles.titleShadowUppercase}> l</span> <span className={styles.inverseShadowAlternate}>y</span>
+          {" "}
+          <span className={styles.inverseShadow}> k </span></i><span className={styles.inverseShadowUppercase}> r</span> u
+          <span className={styles.titleShadowUppercase}> m r</span>
+          <span className={styles.inverseShadow}> i</span> e
         </span>
       </CenterGrayTitle>
     </>
