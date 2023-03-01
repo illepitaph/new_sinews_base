@@ -159,7 +159,7 @@
     align-items: center;
     width: 106%;
     height: 90%;
-    right:10px;
+    left:10px;
     margin: 6% 0 6% 0;
     background: linear-gradient(
     to bottom,
@@ -227,183 +227,54 @@
 
   .proofText {
     font-family:"lores-9-plus-wide";
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     font-weight: 700;
-    letter-spacing: 0.085rem;
+    letter-spacing: -0.035rem;
     color:white;
     text-shadow: 2px 4px black, 3px 5px #aaf0d1, 4px 7px gainsboro, 4px 8px 16px black;
   }
 
-  .extraLetterSpace {
-    letter-spacing: 0.2rem;
+  .proofTextHalfReduced {
+    font-family:"lores-9-plus-wide";
+    font-size: 1.64rem;
+    font-weight: 700;
+    letter-spacing: -0.035rem;
+    color:white;
+    text-shadow: 2px 4px black, 3px 5px #aaf0d1, 4px 7px gainsboro, 4px 8px 16px black;
   }
-  
-  @media (max-width: 927px) and (orientation: landscape) {
-    .carousel {
-      height: 105vh;
-    }
-  
-    .carousel > .prev {
-      top: 78%;
-    }
-  
-    .carousel > .next {
-      top: -12%;
-    }
-  
-    .diagramText {
-      font-size: 1.1rem;
-    }
+
+  .proofTextReduced {
+    font-family:"lores-9-plus-wide";
+    font-size: 1.45rem;
+    font-weight: 700;
+    letter-spacing: -0.035rem;
+    color:white;
+    text-shadow: 2px 4px black, 3px 5px #aaf0d1, 4px 7px gainsboro, 4px 8px 16px black;
   }
-  
-  @media (width: 834px) and (height:1194px) {
-  
-    .diagramText {
-      font-size: 1rem;
-    }
+
+  .specialProofText {
+    font-family:"lores-9-plus-wide";
+    font-size: 1.7rem;
+    font-weight: 700;
+    letter-spacing: -0.035rem;
+    color:black;
+    text-shadow: 2px 4px white, 3px 5px #aaf0d1, 4px 7px gainsboro, 4px 8px 16px black;
   }
-  
-  @media (max-width: 821px) and (orientation: portrait) {
-    .carousel {
-      height: 45vh;
-    }
-  
-    .carousel > .prev {
-      top: 83%;
-    }
-  
-    .carousel > .next {
-      top: 1%;
-    }
-  
-    .diagramText {
-      font-size: 1.1rem;
-    }
+
+  .specialProofTextTwo {
+    font-family:"lores-9-plus-wide";
+    font-size: 1.9rem;
+    font-weight: 700;
+    letter-spacing: -0.035rem;
+    color:black;
+    text-shadow: 2px 4px white, 3px 5px #aaf0d1, 4px 7px gainsboro, 4px 8px 16px black;
   }
-  
-  @media (max-width: 813px) and (orientation: landscape) {
-    .carousel > .next {
-      top: -11%;
-    }
-  
-    .diagramText {
-      font-size: 1rem;
-    }
+
+  .specialProofTextReduced {
+    font-family:"lores-9-plus-wide";
+    font-size: 1.48rem;
+    font-weight: 700;
+    letter-spacing: -0.035rem;
+    color:black;
+    text-shadow: 2px 4px white, 3px 5px #aaf0d1, 4px 7px gainsboro, 4px 8px 16px black;
   }
-  
-  @media (max-width: 788px) and (orientation: portrait) {
-    .diagramText {
-      font-size: 1rem;
-    }
-  }
-  
-  @media (max-width: 761px) and (orientation: landscape) {
-    .carousel {
-      height: 125vh;
-    }
-  
-    .carousel > .prev {
-      top: 66%;
-    }
-  }
-  
-  @media (max-width: 667px) and (orientation: landscape) {
-    .carousel > .prev {
-      top: 80%;
-    }
-  
-    .increasedSizeText {
-      font-size: 3.6rem;
-    }
-  
-    .diagramText {
-      font-size: 0.8rem;
-    }
-  }
-  
-  @media (width: 540px) and (height: 720px) and (orientation: portrait) {
-    .carousel {
-      height: 75vh;
-    }
-  
-    .increasedSizeText {
-      font-size: 3.2rem;
-    }
-  
-    .diagramText {
-      font-size: 0.7rem;
-    }
-  }
-  
-  @media (max-width: 429px) and (orientation: portrait) {
-    .carousel {
-      width: 95%;
-      height: 55vh;
-    }
-  
-    .carousel > .prev {
-      left:0;
-      font-size: 3rem;
-      top: 85%;
-    }
-  
-    .carousel > .next {
-      right:0;
-      font-size: 3rem;
-      top: -7%;
-    }
-  
-    .roughAltText {
-      font-size: 1.4rem;
-    }
-  
-    .increasedSizeText {
-      font-size: 2.5rem;
-    }
-  
-    .diagramText {
-      font-size: 0.51rem;
-    }
-  }
-  
-  @media (max-width: 385px) and (orientation: portrait) {
-    .carousel {
-      height: 79vh;
-    }
-  
-    .increasedSizeText {
-      font-size: 2.3rem;
-    }
-  
-    .diagramText {
-      font-size: 0.45rem;
-    }
-  }
-  
-  @media (max-width: 321px) and (orientation: portrait) {
-  
-    .diagramText {
-      font-size: 0.37rem;
-    }
-  }
-  
-  @media (max-width: 281px) and (orientation: portrait) {
-    .carousel {
-      height: 120vh;
-    }
-  
-    .increasedSizeText {
-      font-size: 1.7rem;
-    }
-  
-    .diagramText {
-      font-size: 0.3rem;
-    }
-  }
-  
-  @media (max-height: 281px) and (orientation: landscape) {
-    .carousel {
-      height: 180vh;
-    }
-  }
-  

@@ -26,9 +26,9 @@ export default function Proof() {
         setTextArrayIndex(textArrayIndex - 1);
       } else if (e.keyCode === 37 && textArrayIndex === 0) {
         setTextArrayIndex(proofText.length - 1);
-      } else if (e.keyCode === 39 && textArrayIndex < 7) {
+      } else if (e.keyCode === 39 && textArrayIndex < 12) {
         setTextArrayIndex(textArrayIndex + 1);
-      } else if (e.keyCode === 39 && textArrayIndex === 7) {
+      } else if (e.keyCode === 39 && textArrayIndex === 12) {
         setTextArrayIndex(0);
       }
     }
