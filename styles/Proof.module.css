@@ -221,7 +221,7 @@
     font-size: 4.3rem;
     color: black;
     text-shadow: 2px 2px snow, 3px 4px white, 12px 12px #aaf0d1;
-    letter-spacing: 4.2rem;
+    letter-spacing: 4rem;
     line-height:26vh;
   }
 
@@ -229,7 +229,7 @@
     font-family:"lores-9-plus-wide";
     font-size: 1.7rem;
     font-weight: 700;
-    letter-spacing: -0.035rem;
+    letter-spacing: -0.1rem;
     color:white;
     text-shadow: 2px 4px black, 3px 5px #aaf0d1, 4px 7px gainsboro, 4px 8px 16px black;
   }
