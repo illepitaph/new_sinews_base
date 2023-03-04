@@ -369,6 +369,10 @@
   background-image: url("../public/images/PersonaeBackground.jpg");
 }
 
+.proofBackground {
+  background-image: url("../public/images/ProofBackground.jpg");
+}
+
 @media (width: 1080px) and (height: 810px) {
   .siteNav > .dropDown > button,
   .home,

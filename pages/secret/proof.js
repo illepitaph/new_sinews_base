@@ -7,7 +7,7 @@ import { proofText } from "../../GalleryData/ProofCarouselData.js";
 Proof.title = "kelly_krumrie ~ proof — new_sinews";
 Proof.pieceName = "kelly_krumrie ~ proof — new_sinews";
 Proof.description = "_Kelly Krumrie_poetry_PROOF_new_sinews_issue7_";
-Proof.image = "https://www.newnewsinews.com/images/OvidBackground.jpg";
+Proof.image = "https://www.newnewsinews.com/images/ProofBackground.jpg";
 
 export default function Proof() {
   const [textArrayIndex, setTextArrayIndex] = useState(0);
@@ -46,7 +46,7 @@ export default function Proof() {
     <>
       <Head />
 
-      <Header headerBackground="ovidBackground" />
+      <Header headerBackground="proofBackground" />
       <div className={styles.containerContainer}>
         <div className={styles.containerContainerContainer}>
           <div className={styles.container}>
