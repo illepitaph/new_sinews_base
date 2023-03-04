@@ -133,7 +133,7 @@ export function ProofRawText10() {
   return (
     <>
       <GalleryLineation>
-      <span className={styles.proofTextDoubleReduced}>
+      <span className={styles.specialProofTextReduced}>
         {`The compass’s point pierces the paper. Later, the pencil catches on the cavity.`}
         </span>
       </GalleryLineation>
@@ -145,7 +145,7 @@ export function ProofRawText11() {
   return (
     <>
       <GalleryLineation>
-      <span className={styles.specialProofTextTwo}>
+      <span className={styles.specialProofTextThree}>
         {`Smudge out stray marks with your thumb.`}
         </span>
       </GalleryLineation>
