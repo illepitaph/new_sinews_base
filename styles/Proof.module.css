@@ -73,6 +73,36 @@
   border-radius:2rem;
 }
 
+.containerContainerTwo {
+  width:97vw;
+  height:130vh;
+  margin:16vh 0 0 1vw;
+  background: linear-gradient(
+      to top,
+      black 1%,
+      white 2%,
+      silver 3%,
+      white 6%,
+      gainsboro 10%,
+      #e8e8e8 12%,
+      whitesmoke 17%,
+      snow 20%,
+      #aaf0d1 31%,
+      white 41%,
+      #aaf0d1 51%,
+      whitesmoke 71%,
+      snow 75%,
+      #e2e2e2 88%,
+      #aaf0d1 94%,
+      black 96%,
+      whitesmoke 97%,
+      dimgray 98%,
+      white 99%
+    );
+  box-shadow: 20px 12px 15px gray;
+  border-radius:2rem;
+}
+
 .containerContainerContainer {
   width:98.5%;
   height:97.5%;
@@ -307,4 +337,9 @@
     color:white;
     text-shadow: 2px 4px black, 3px 5px #aaf0d1, 4px 7px gainsboro, 4px 8px 16px black;
     text-align: right;
+  }
+
+  .euclidBox {
+    display:inline-block;
+    margin-top:30vh;
   }

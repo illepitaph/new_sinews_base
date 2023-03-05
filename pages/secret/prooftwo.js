@@ -1,7 +1,6 @@
 import Head from "next/head";
 import Header from "../../components/header.js";
 import Footer from "../../components/footer.js";
-import StandardProse from "../../components/standardProse.js";
 import styles from "../../styles/Proof.module.css";
 ProofTwo.title = "kelly_krumrie ~ proof — new_sinews";
 ProofTwo.pieceName = "kelly_krumrie ~ proof — new_sinews";
@@ -35,7 +34,7 @@ export default function ProofTwo() {
                     <br />
                     <br />
                     <br />
-                    construction or machinery
+                    construction or <span className={styles.specialProofText}>machinery</span>
                     <br />
                     <br />
                     <br />
