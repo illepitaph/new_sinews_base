@@ -1,6 +1,7 @@
 import Head from "next/head";
 import Header from "../../components/header.js";
 import Footer from "../../components/footer.js";
+import Link from "next/link";
 import styles from "../../styles/Proof.module.css";
 ProofTwo.title = "kelly_krumrie ~ proof — new_sinews";
 ProofTwo.pieceName = "kelly_krumrie ~ proof — new_sinews";
@@ -34,7 +35,12 @@ export default function ProofTwo() {
                     <br />
                     <br />
                     <br />
-                    construction or <span className={styles.specialProofText}>machinery</span>
+                    construction or{" "}
+                    <a href="http://localhost:3000/secret/proofthree" target="_blank">
+                      <span className={styles.specialProofTextFour}>
+                        &#10230; machinery &#10232;
+                      </span>
+                    </a>
                     <br />
                     <br />
                     <br />

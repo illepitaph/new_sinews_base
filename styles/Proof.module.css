@@ -318,6 +318,23 @@
     text-shadow: 2px 4px black, 3px 5px #aaf0d1, 4px 7px gainsboro, 4px 8px 16px black;
   }
 
+  .specialProofTextFour {
+    font-family:"lores-9-plus-wide";
+    font-size: 1.7rem;
+    font-weight: 700;
+    letter-spacing: -0.035rem;
+    color:black;
+    text-shadow: 2px 4px white, 3px 5px #aaf0d1, 4px 7px gainsboro, 4px 8px 16px black;
+    cursor:pointer;
+  }
+
+  .specialProofTextFour:hover {
+    letter-spacing: 0.4rem;
+    color:black;
+    text-shadow: 2px 4px white, 3px 5px #aaf0d1, 4px 7px gainsboro, 4px 8px 16px black;
+    cursor:pointer;
+  }
+
   .specialProofTextReduced {
     font-family:"lores-9-plus-wide";
     font-size: 1.33rem;
@@ -329,7 +346,7 @@
 
   .proofTwoProofText {
     display:inline-block;
-    margin-left:33vw;
+    margin-left:25vw;
     font-family:"lores-9-plus-wide";
     font-size: 1.65rem;
     font-weight: 700;

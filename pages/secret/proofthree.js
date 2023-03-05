@@ -18,7 +18,9 @@ export default function ProofThree() {
         <div className={styles.containerContainerContainer}>
           <StandardProse>
             <span className={styles.euclidBox}>
+            <span className={styles.proofText}>
               Proclus:
+              </span>
               <br />
               <br />
               <br />
@@ -40,7 +42,7 @@ export default function ProofThree() {
               <br />
               <br />
               <br />
-              qtd. in Euclid’s Elements, trans. Thomas L. Heath, ed. Dana
+              qtd. in <span className={styles.proofText}>Euclid’s Elements</span> translated by Thomas L. Heath, ed. Dana
               Densmore. Green Lion Press, 2013.
             </span>
           </StandardProse>
