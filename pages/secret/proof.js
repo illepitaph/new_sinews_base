@@ -13,7 +13,7 @@ export default function Proof() {
   const [textArrayIndex, setTextArrayIndex] = useState(0);
 
   function nextText() {
-    if (textArrayIndex < 12) {
+    if (textArrayIndex < 13) {
       setTextArrayIndex(textArrayIndex + 1);
     } else {
       setTextArrayIndex(0);
@@ -26,9 +26,9 @@ export default function Proof() {
         setTextArrayIndex(textArrayIndex - 1);
       } else if (e.keyCode === 37 && textArrayIndex === 0) {
         setTextArrayIndex(proofText.length - 1);
-      } else if (e.keyCode === 39 && textArrayIndex < 12) {
+      } else if (e.keyCode === 39 && textArrayIndex < 13) {
         setTextArrayIndex(textArrayIndex + 1);
-      } else if (e.keyCode === 39 && textArrayIndex === 12) {
+      } else if (e.keyCode === 39 && textArrayIndex === 13) {
         setTextArrayIndex(0);
       }
     }

@@ -11,6 +11,7 @@ import { ProofRawText10 } from "../galleryText/proofGalleryText.js";
 import { ProofRawText11 } from "../galleryText/proofGalleryText.js";
 import { ProofRawText12 } from "../galleryText/proofGalleryText.js";
 import { ProofRawText13 } from "../galleryText/proofGalleryText.js";
+import { ProofRawText14 } from "../galleryText/proofGalleryText.js";
 
 export const proofText = [
   { title: "Proof 1", textName: ProofRawText1 },
@@ -26,4 +27,5 @@ export const proofText = [
   { title: "Proof 11", textName: ProofRawText11 },
   { title: "Proof 12", textName: ProofRawText12 },
   { title: "Proof 13", textName: ProofRawText13 },
+  { title: "Proof 14", textName: ProofRawText14 },
 ];

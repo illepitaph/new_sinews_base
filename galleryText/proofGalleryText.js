@@ -46,6 +46,20 @@ export function ProofRawText2() {
 export function ProofRawText3() {
   return (
     <>
+      <CenterGrayTitle>
+        <span className={styles.titleShadowTwo}>
+          <span className={styles.inverseShadowUppercase}> f</span> o
+          <span className={styles.titleShadowUppercase}> r</span>
+          <br /> <span className={styles.inverseShadowAlternate}>C</span>{" "}
+        </span>
+      </CenterGrayTitle>
+    </>
+  );
+}
+
+export function ProofRawText4() {
+  return (
+    <>
       <GalleryLineation>
         <span className={styles.proofText}>
           {`The sound sounds far off. Gong in my body like the wrong bell rung.`}
@@ -55,7 +69,7 @@ export function ProofRawText3() {
   );
 }
 
-export function ProofRawText4() {
+export function ProofRawText5() {
   return (
     <>
       <GalleryLineation>
@@ -67,7 +81,7 @@ export function ProofRawText4() {
   );
 }
 
-export function ProofRawText5() {
+export function ProofRawText6() {
   return (
     <>
       <GalleryLineation>
@@ -79,24 +93,12 @@ export function ProofRawText5() {
   );
 }
 
-export function ProofRawText6() {
-  return (
-    <>
-      <GalleryLineation>
-      <span className={styles.proofText}>
-        {`From eye to hip, exactitude, hand on paper, up it.`}
-        </span>
-      </GalleryLineation>
-    </>
-  );
-}
-
 export function ProofRawText7() {
   return (
     <>
       <GalleryLineation>
-      <span className={styles.proofTextHalfReduced}>
-        {`Watch the construction unfold, straightedge steady before the line.`}
+        <span className={styles.proofText}>
+          {`From eye to hip, exactitude, hand on paper, up it.`}
         </span>
       </GalleryLineation>
     </>
@@ -107,10 +109,8 @@ export function ProofRawText8() {
   return (
     <>
       <GalleryLineation>
-      <span className={styles.specialProofTextTwo}>
-        <i>{`Very good`}</i>
-        {`, `} <i>{`Kelly`}</i>
-        {`.`}
+        <span className={styles.proofTextHalfReduced}>
+          {`Watch the construction unfold, straightedge steady before the line.`}
         </span>
       </GalleryLineation>
     </>
@@ -121,8 +121,10 @@ export function ProofRawText9() {
   return (
     <>
       <GalleryLineation>
-      <span className={styles.proofText}>
-        {`The compass presses into the paper, turns on its own point.`}
+        <span className={styles.specialProofTextTwo}>
+          <i>{`Very good`}</i>
+          {`, `} <i>{`Kelly`}</i>
+          {`.`}
         </span>
       </GalleryLineation>
     </>
@@ -133,8 +135,8 @@ export function ProofRawText10() {
   return (
     <>
       <GalleryLineation>
-      <span className={styles.specialProofTextReduced}>
-        {`The compass’s point pierces the paper. Later, the pencil catches on the cavity.`}
+        <span className={styles.proofText}>
+          {`The compass presses into the paper, turns on its own point.`}
         </span>
       </GalleryLineation>
     </>
@@ -145,8 +147,8 @@ export function ProofRawText11() {
   return (
     <>
       <GalleryLineation>
-      <span className={styles.specialProofTextThree}>
-        {`Smudge out stray marks with your thumb.`}
+        <span className={styles.specialProofTextReduced}>
+          {`The compass’s point pierces the paper. Later, the pencil catches on the cavity.`}
         </span>
       </GalleryLineation>
     </>
@@ -157,8 +159,8 @@ export function ProofRawText12() {
   return (
     <>
       <GalleryLineation>
-      <span className={styles.proofText}>
-        {`Expectant but not listening, proof tends to be tended to wrongly.`}
+        <span className={styles.specialProofTextThree}>
+          {`Smudge out stray marks with your thumb.`}
         </span>
       </GalleryLineation>
     </>
@@ -169,9 +171,21 @@ export function ProofRawText13() {
   return (
     <>
       <GalleryLineation>
-      <span className={styles.specialProofTextReduced}>
-        {`Brevity is not necessarily precision. An abbreviation may not accurately name.`}
-      </span>
+        <span className={styles.proofText}>
+          {`Expectant but not listening, proof tends to be tended to wrongly.`}
+        </span>
+      </GalleryLineation>
+    </>
+  );
+}
+
+export function ProofRawText14() {
+  return (
+    <>
+      <GalleryLineation>
+        <span className={styles.specialProofTextReduced}>
+          {`Brevity is not necessarily precision. An abbreviation may not accurately name.`}
+        </span>
       </GalleryLineation>
     </>
   );
