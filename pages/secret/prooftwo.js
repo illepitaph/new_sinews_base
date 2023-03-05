@@ -36,7 +36,7 @@ export default function ProofTwo() {
                     <br />
                     <br />
                     construction or{" "}
-                    <a href="http://localhost:3000/secret/proofthree" target="_blank">
+                    <a href="http://localhost:3000/secret/proofthree" target="_blank" rel="noreferrer">
                       <span className={styles.specialProofTextFour}>
                         &#10230; machinery &#10232;
                       </span>
