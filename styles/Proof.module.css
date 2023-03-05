@@ -296,3 +296,15 @@
     color:black;
     text-shadow: 2px 4px white, 3px 5px #aaf0d1, 4px 7px gainsboro, 4px 8px 16px black;
   }
+
+  .proofTwoProofText {
+    display:inline-block;
+    margin-left:33vw;
+    font-family:"lores-9-plus-wide";
+    font-size: 1.65rem;
+    font-weight: 700;
+    letter-spacing: 0.6rem;
+    color:white;
+    text-shadow: 2px 4px black, 3px 5px #aaf0d1, 4px 7px gainsboro, 4px 8px 16px black;
+    text-align: right;
+  }

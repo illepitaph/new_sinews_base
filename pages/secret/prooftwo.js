@@ -20,18 +20,31 @@ export default function ProofTwo() {
             <div className={styles.textContainerContainer}>
               <div className={styles.box}>
                 <div className={styles.boxTwo}>
-                enunciation
-
-setting-out
-
-definition or specification
-
-construction or machinery 
-
-proof
-
-conclusion
-
+                  <span className={styles.proofTwoProofText}>
+                    <br />
+                    <br /> <br />
+                    enunciation
+                    <br />
+                    <br />
+                    <br />
+                    setting-out
+                    <br />
+                    <br />
+                    <br />
+                    definition or specification
+                    <br />
+                    <br />
+                    <br />
+                    construction or machinery
+                    <br />
+                    <br />
+                    <br />
+                    proof
+                    <br />
+                    <br />
+                    <br />
+                    conclusion
+                  </span>
                 </div>
               </div>
             </div>
