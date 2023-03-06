@@ -47,7 +47,7 @@ export default function ProofFive() {
               <br />
               Coolidge, Clark.
               <br />
-              <span className={styles.proofText}>The Crystal Text</span>. <br />
+              <span className={styles.proofText}><i>The Crystal Text</i></span>. <br />
               Sun & Moon Press, 1995.
             </StandardProse>
           </div>

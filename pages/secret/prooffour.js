@@ -32,7 +32,7 @@ export default function ProofFour() {
               <br />
               Netz, Reviel.{" "}
               <span className={styles.proofText}>
-                The Shaping of Deduction in Greek Mathematics
+                <i>The Shaping of Deduction in Greek Mathematics</i>
               </span>
               . Cambridge UP, 2003.
             </StandardProse>

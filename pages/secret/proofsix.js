@@ -21,10 +21,14 @@ export default function ProofSix() {
             <StandardProse>
               Should it worry me that thought, in my sentences, seems never
               wholly present at any one moment? Let alone love, in my life?{" "}
-              <a href="http://localhost:3000/secret/prooffour" target="_blank" rel="noreferrer">
-              <span className={styles.specialProofTextFour}>
-                Even my skin has no precise shape, that is unless touched.
-              </span>{" "}
+              <a
+                href="http://localhost:3000/secret/prooffour"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <span className={styles.specialProofTextFour}>
+                  Even my skin has no precise shape, that is unless touched.
+                </span>{" "}
               </a>
               By clothes?
               <br />
@@ -35,8 +39,9 @@ export default function ProofSix() {
               “Enhanced Density.”
               <br />
               <span className={styles.proofText}>
-                Love, Like Pronouns
-              </span>. <br />
+                <i>Love, Like Pronouns</i>
+              </span>
+              . <br />
               Omnidawn, 2003.
             </StandardProse>
           </div>

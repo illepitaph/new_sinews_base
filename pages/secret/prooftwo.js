@@ -1,7 +1,6 @@
 import Head from "next/head";
 import Header from "../../components/header.js";
 import Footer from "../../components/footer.js";
-import Link from "next/link";
 import styles from "../../styles/Proof.module.css";
 ProofTwo.title = "kelly_krumrie ~ proof — new_sinews";
 ProofTwo.pieceName = "kelly_krumrie ~ proof — new_sinews";

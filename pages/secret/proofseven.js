@@ -31,7 +31,7 @@ export default function ProofSeven() {
               <br />
               Wittgenstein, Ludwig. 
               <span className={styles.proofText}>
-              Zettel
+              <i>Zettel </i>
               </span>, trans. G.E.M. Anscombe, ed. G.E.M. Anscombe & G.H. von Wright. University of California Press, 1967.
 
             </StandardProse>
