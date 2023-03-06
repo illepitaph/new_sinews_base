@@ -18,9 +18,7 @@ export default function ProofThree() {
         <div className={styles.containerContainerContainer}>
           <StandardProse>
             <span className={styles.euclidBox}>
-            <span className={styles.proofText}>
-              Proclus:
-              </span>
+              <span className={styles.proofText}>Proclus:</span>
               <br />
               <br />
               <br />
@@ -29,8 +27,18 @@ export default function ProofThree() {
               parts. The setting-out marks off what is given, by itself, and
               adapts it beforehand for use in the investigation. The definition…
               states separately and makes clear what the particular thing is
-              which is sought. The construction or machinery <span className={styles.specialProofTextFour}>adds what is
-              wanting to the datum for the purpose of finding what is sought.</span>
+              which is sought. The construction or machinery{" "}
+              <a
+                href="http://localhost:3000/secret/proofsix"
+                target="_blank"
+                rel="noreferrer"
+              >
+                {" "}
+                <span className={styles.specialProofTextFour}>
+                  adds what is wanting to the datum for the purpose of finding
+                  what is sought.
+                </span>
+              </a>
               The proof draws the required inference by reasoning scientifically
               from acknowledged facts. The conclusion reverts again to the
               enunciation, confirming what has been demonstrated… For it is
@@ -42,8 +50,10 @@ export default function ProofThree() {
               <br />
               <br />
               <br />
-              qtd. in <span className={styles.proofText}>Euclid’s Elements</span> translated by Thomas L. Heath, ed. Dana
-              Densmore. Green Lion Press, 2013.
+              qtd. in{" "}
+              <span className={styles.proofText}>Euclid’s Elements</span>{" "}
+              translated by Thomas L. Heath, ed. Dana Densmore. Green Lion
+              Press, 2013.
             </span>
           </StandardProse>
         </div>
