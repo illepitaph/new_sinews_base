@@ -53,8 +53,9 @@ export default function Proof() {
             <div className={styles.textContainerContainer}>
               <div className={styles.box}>
                 <div className={styles.boxTwo}>
-                  <div className={styles.textContainer} onClick={nextText}>
-                    <RawText />
+                  
+                    <div className={styles.textContainer} onClick={nextText}>
+                      <RawText />
                   </div>
                 </div>
               </div>
@@ -63,6 +64,9 @@ export default function Proof() {
         </div>
       </div>
 
+<a className={styles.diskBox} href="http://localhost:3000/secret/prooftwo" target="_blank" rel="noreferrer"></a>
+<a className={styles.diskBoxTwo}></a>
+<a className={styles.diskBoxThree}></a>
       <Footer />
     </>
   );

@@ -49,7 +49,7 @@ export function ProofRawText3() {
       <CenterGrayTitle>
         <span className={styles.titleShadowTwo}>
           <span className={styles.inverseShadowUppercase}> f</span> o
-          <span className={styles.titleShadowUppercase}> r</span>
+          <span className={styles.inverseShadowUppercase}> r</span>
           <br /> <span className={styles.inverseShadowAlternate}>C</span>{" "}
         </span>
       </CenterGrayTitle>

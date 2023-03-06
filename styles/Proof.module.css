@@ -217,6 +217,63 @@
     cursor:pointer;
     border-radius:2rem;
   }
+
+  .diskBox {
+    background-image: url("../public/images/ProofDisk.jpg");
+    background-position: top;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: absolute;
+    width:45vw;
+    height:25vh;
+    border-radius:1rem;
+    top:70vh;
+    z-index:100;
+    opacity:0.2;
+    cursor:pointer;
+    transition: 1.2s opacity; 
+  }
+
+  .diskBoxTwo {
+    background-image: url("../public/images/ProofDisk.jpg");
+    background-position: top;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: absolute;
+    width:35vw;
+    height:25vh;
+    border-radius:1rem;
+    top:88vh;
+    left:40vw;
+    z-index:100;
+    opacity:0.2;
+    cursor:pointer;
+    transition: 1.2s opacity; 
+  }
+
+  .diskBoxThree {
+    background-image: url("../public/images/ProofDisk.jpg");
+    background-position: top;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: local;
+    position: absolute;
+    width:35vw;
+    height:37vh;
+    border-radius:1.3rem;
+    top:175vh;
+    right:10vw;
+    z-index:100;
+    opacity:0.4;
+    cursor:pointer;
+    transition: 1.2s opacity; 
+  }
+
+  .diskBox:hover, .diskBoxTwo:hover, .diskBoxThree:hover {
+    opacity:0.9;    
+  }
   
   .titleShadowOne {
     font-size: 4.3rem;
