@@ -29,8 +29,8 @@ export default function ProofThree() {
               parts. The setting-out marks off what is given, by itself, and
               adapts it beforehand for use in the investigation. The definition…
               states separately and makes clear what the particular thing is
-              which is sought. The construction or machinery adds what is
-              wanting to the datum for the purpose of finding what is sought.
+              which is sought. The construction or machinery <span className={styles.specialProofTextFour}>adds what is
+              wanting to the datum for the purpose of finding what is sought.</span>
               The proof draws the required inference by reasoning scientifically
               from acknowledged facts. The conclusion reverts again to the
               enunciation, confirming what has been demonstrated… For it is

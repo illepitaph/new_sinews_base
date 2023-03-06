@@ -2,7 +2,6 @@ import Head from "next/head";
 import Header from "../../components/header.js";
 import Footer from "../../components/footer.js";
 import StandardProse from "../../components/standardProse.js";
-
 import styles from "../../styles/Proof.module.css";
 import ProofDeduction from "../../public/images/ProofDeduction.jpg";
 ProofFive.title = "kelly_krumrie ~ proof — new_sinews";
