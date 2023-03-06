@@ -411,6 +411,16 @@
     cursor:pointer;
   }
 
+  .specialProofTextFive {
+    font-family:"lores-9-plus-wide";
+    font-size: 1.7rem;
+    font-weight: 700;
+    letter-spacing: -0.035rem;
+    color:#c0a5a5;
+    text-shadow: 2px 4px black, 3px 5px white;
+    cursor:pointer;
+  }
+
   .specialProofTextReduced {
     font-family:"lores-9-plus-wide";
     font-size: 1.33rem;
@@ -430,6 +440,16 @@
     color:white;
     text-shadow: 2px 4px black, 3px 5px #aaf0d1, 4px 7px gainsboro, 4px 8px 16px black;
     text-align: right;
+  }
+
+  .proofFiveProofText {
+    display:inline-block;
+    font-family:"lores-9-plus-wide";
+    font-size: 1.4rem;
+    font-weight: 700;
+    letter-spacing: 0.1rem;
+    color:white;
+    text-shadow: 2px 4px black, 3px 5px #aaf0d1, 4px 7px gainsboro, 4px 8px 16px black;
   }
 
   .euclidBox {
