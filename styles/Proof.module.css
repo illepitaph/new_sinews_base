@@ -221,14 +221,15 @@
   .diskBox {
     background-image: url("../public/images/ProofDisk.jpg");
     background-position: top;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
     position: absolute;
-    width:45vw;
+    width:40vw;
     height:25vh;
     border-radius:1rem;
     top:70vh;
+    left:5vw;
     z-index:100;
     opacity:0.2;
     cursor:pointer;
@@ -271,7 +272,25 @@
     transition: 1.2s opacity; 
   }
 
-  .diskBox:hover, .diskBoxTwo:hover, .diskBoxThree:hover {
+  .diskBoxFour {
+    background-image: url("../public/images/ProofDisk.jpg");
+    background-position: top;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: absolute;
+    width:35vw;
+    height:25vh;
+    border-radius:1rem;
+    top:98vh;
+    left:10vw;
+    z-index:100;
+    opacity:0.2;
+    cursor:pointer;
+    transition: 1.2s opacity; 
+  }
+  
+  .diskBox:hover, .diskBoxTwo:hover, .diskBoxThree:hover, .diskBoxFour:hover {
     opacity:0.9;    
   }
   

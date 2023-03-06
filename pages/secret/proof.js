@@ -65,8 +65,9 @@ export default function Proof() {
       </div>
 
 <a className={styles.diskBox} href="http://localhost:3000/secret/prooftwo" target="_blank" rel="noreferrer"></a>
-<a className={styles.diskBoxTwo}></a>
+<a className={styles.diskBoxTwo} href="http://localhost:3000/secret/prooftwo" target="_blank" rel="noreferrer"></a>
 <a className={styles.diskBoxThree}></a>
+<a className={styles.diskBoxFour}></a>
       <Footer />
     </>
   );
