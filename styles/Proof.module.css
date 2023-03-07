@@ -462,3 +462,50 @@
     display:inline-block;
     margin-top:30vh;
   }
+
+  @media (max-width: 429px) and (orientation: portrait) {
+
+    .diskBox, .diskBoxTwo, .diskBoxFour {
+      height:40vh;
+    }
+    
+    .diskBox {
+      top:40vh;
+      width:37vw;
+
+    }
+
+    .diskBoxTwo {
+      top:50vh;
+    }
+
+    .diskBoxThree {
+      width:80vw;
+      top:160vh;
+      background-size:contain;
+    }
+
+    .diskBoxFour {
+      top:70vh;
+      left:60vw;
+    }
+
+    .titleShadowOne {
+      line-height:11vh;
+    }
+
+    .titleShadowTwo {
+      font-size: 1rem;
+      color: black;
+      text-shadow: 2px 2px snow, 3px 4px white, 12px 12px #aaf0d1;
+      letter-spacing: 0.3rem;
+      line-height:1vh;
+      white-space: pre-line;
+    }
+
+    .proofText {
+      font-size: 1rem;
+      white-space: pre-line;
+    }
+
+  }
