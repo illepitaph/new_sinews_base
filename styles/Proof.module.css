@@ -508,6 +508,22 @@
   }
 }
 
+@media (width: 1280px) and (height: 800px) {
+  .proofText,
+  .proofTextHalfReduced,
+  .proofTextReduced,
+  .proofTextDoubleReduced,
+  .specialProofText,
+  .specialProofTextTwo,
+  .specialProofTextThree,
+  .specialProofTextFour,
+  .specialProofTextReduced {
+    white-space: pre-line;
+    line-height: 10vh;
+  }
+}
+
+
 @media (width: 1180px) and (height: 820px) {
   .proofText,
   .proofTextHalfReduced,
@@ -568,6 +584,21 @@
   }
 }
 
+@media (width: 1024px) and (height: 600px) {
+  .proofText,
+  .proofTextHalfReduced,
+  .proofTextReduced,
+  .proofTextDoubleReduced,
+  .specialProofText,
+  .specialProofTextTwo,
+  .specialProofTextThree,
+  .specialProofTextFour,
+  .specialProofTextReduced {
+    white-space: pre-line;
+    line-height: 10vh;
+  }
+}
+
 
 @media (max-width: 927px) and (orientation: landscape) {
   
@@ -597,9 +628,13 @@
     line-height: 10vh;
     white-space: pre-line;
   }
+
+  .proofTwoProofText {
+    line-height:1.2rem;
+  }
 }
 
-@media (max-width: 835px) and (orientation: portrait) {
+@media (max-width: 913px) and (orientation: portrait) {
 
   .titleShadowOne {
     line-height: 14vh;
@@ -629,6 +664,16 @@
   }
 }
 
+@media (max-width: 654px) and (orientation: landscape) {
+  
+  .textContainer {
+    height: 100%;
+  }
+
+  .proofTwoProofText {
+    line-height:0.9rem;
+  }
+}
 
 @media (max-width: 429px) and (orientation: portrait) {
   .diskBox,
@@ -678,8 +723,13 @@
   .specialProofTextTwo,
   .specialProofTextThree,
   .specialProofTextFour,
-  .specialProofTextReduced {
+  .specialProofTextReduced, {
     font-size: 1.7rem;
     line-height: 5vh;
+  }
+
+  .proofTwoProofText {
+    font-size: 1.2rem;
+    letter-spacing:0.2rem;
   }
 }
