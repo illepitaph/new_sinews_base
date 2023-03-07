@@ -1,197 +1,197 @@
 @keyframes fadeIn {
-    0% {
-      opacity: 0;
-    }
-    100% {
-      opacity: 1;
-    }
+  0% {
+    opacity: 0;
   }
-  
-  @-moz-keyframes fadeIn {
-    0% {
-      opacity: 0;
-    }
-    100% {
-      opacity: 1;
-    }
+  100% {
+    opacity: 1;
   }
-  
-  @-webkit-keyframes fadeIn {
-    0% {
-      opacity: 0;
-    }
-    100% {
-      opacity: 1;
-    }
+}
+
+@-moz-keyframes fadeIn {
+  0% {
+    opacity: 0;
   }
-  
-  @-o-keyframes fadeIn {
-    0% {
-      opacity: 0;
-    }
-    100% {
-      opacity: 1;
-    }
+  100% {
+    opacity: 1;
   }
-  
-  @-ms-keyframes fadeIn {
-    0% {
-      opacity: 0;
-    }
-    100% {
-      opacity: 1;
-    }
+}
+
+@-webkit-keyframes fadeIn {
+  0% {
+    opacity: 0;
   }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-o-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-ms-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
 
 .containerContainer {
-  width:97vw;
-  height:130vh;
-  margin:16vh 0 0 1vw;
+  width: 97vw;
+  height: 130vh;
+  margin: 16vh 0 0 1vw;
   background: linear-gradient(
-      to right,
-      black 1%,
-      white 2%,
-      silver 3%,
-      white 6%,
-      gainsboro 10%,
-      #e8e8e8 12%,
-      whitesmoke 17%,
-      snow 20%,
-      #aaf0d1 31%,
-      white 41%,
-      black 51%,
-      whitesmoke 71%,
-      snow 75%,
-      #e2e2e2 88%,
-      #aaf0d1 94%,
-      black 96%,
-      whitesmoke 97%,
-      dimgray 98%,
-      white 99%
-    );
+    to right,
+    black 1%,
+    white 2%,
+    silver 3%,
+    white 6%,
+    gainsboro 10%,
+    #e8e8e8 12%,
+    whitesmoke 17%,
+    snow 20%,
+    #aaf0d1 31%,
+    white 41%,
+    black 51%,
+    whitesmoke 71%,
+    snow 75%,
+    #e2e2e2 88%,
+    #aaf0d1 94%,
+    black 96%,
+    whitesmoke 97%,
+    dimgray 98%,
+    white 99%
+  );
   box-shadow: 20px 12px 15px gray;
-  border-radius:2rem;
+  border-radius: 2rem;
 }
 
 .containerContainerTwo {
-  width:97vw;
-  height:130vh;
-  margin:16vh 0 0 1vw;
+  width: 97vw;
+  height: 130vh;
+  margin: 16vh 0 0 1vw;
   background: linear-gradient(
-      to top,
-      black 1%,
-      white 2%,
-      silver 3%,
-      white 6%,
-      gainsboro 10%,
-      #e8e8e8 12%,
-      whitesmoke 17%,
-      snow 20%,
-      #aaf0d1 31%,
-      white 41%,
-      #aaf0d1 51%,
-      whitesmoke 71%,
-      snow 75%,
-      #e2e2e2 88%,
-      #aaf0d1 94%,
-      black 96%,
-      whitesmoke 97%,
-      dimgray 98%,
-      white 99%
-    );
+    to top,
+    black 1%,
+    white 2%,
+    silver 3%,
+    white 6%,
+    gainsboro 10%,
+    #e8e8e8 12%,
+    whitesmoke 17%,
+    snow 20%,
+    #aaf0d1 31%,
+    white 41%,
+    #aaf0d1 51%,
+    whitesmoke 71%,
+    snow 75%,
+    #e2e2e2 88%,
+    #aaf0d1 94%,
+    black 96%,
+    whitesmoke 97%,
+    dimgray 98%,
+    white 99%
+  );
   box-shadow: 20px 12px 15px gray;
-  border-radius:2rem;
+  border-radius: 2rem;
 }
 
 .containerContainerContainer {
-  width:98.5%;
-  height:97.5%;
+  width: 98.5%;
+  height: 97.5%;
   box-shadow: inset 20px 12px 5px #e2e2e2;
-  border-radius:2rem;
+  border-radius: 2rem;
 }
-  
-  .container {
-    display: grid;
-    place-items: center;
-    margin-bottom: 6%;
-    width:97.5%;
-    height:95%;
-    box-shadow: 20px 12px 5px #aaf0d1;
-    border-radius:2rem;
-  }
 
-  .textContainerContainer {
-    position: relative;
-    width: 90%;
-    height: 90%;
-    background: linear-gradient(
-      to bottom,
-      silver 1%,
-      white 2%,
-      black 3%,
-      #aaf0d1 6%,
-      gainsboro 10%,
-      #e8e8e8 12%,
-      whitesmoke 17%,
-      snow 20%,
-      whitesmoke 31%,
-      white 41%,
-      whitesmoke 51%,
-      whitesmoke 71%,
-      snow 75%,
-      silver 88%,
-      snow 94%,
-      black 96%,
-      whitesmoke 97%,
-      dimgray 98%,
-      white 99%
-    );
-    box-shadow: 20px 12px 5px dimgray;
-    border-radius:2rem;
-  }
+.container {
+  display: grid;
+  place-items: center;
+  margin-bottom: 6%;
+  width: 97.5%;
+  height: 95%;
+  box-shadow: 20px 12px 5px #aaf0d1;
+  border-radius: 2rem;
+}
 
-  .box {
-      position: absolute;
-      width: 103%;
-      height: 80%;
-      margin: 6% 0 6% 0;
-      background: linear-gradient(
-      to bottom right,
-      snow 1%,
-      white 2%,
-      #aaf0d1 3%,
-      white 4%,
-      gainsboro 10%,
-      #e8e8e8 12%,
-      whitesmoke 17%,
-      snow 20%,
-      whitesmoke 31%,
-      gray 41%,
-      whitesmoke 51%,
-      whitesmoke 71%,
-      snow 75%,
-      black 88%,
-      snow 94%,
-      #aaf0d1 96%,
-      snow 97%,
-      #e8e8e8 98%,
-      white 99%
-    );
-      box-shadow: inset 20px 12px 5px #e2e2e2;
-      border-radius:2rem;
-  }
+.textContainerContainer {
+  position: relative;
+  width: 90%;
+  height: 90%;
+  background: linear-gradient(
+    to bottom,
+    silver 1%,
+    white 2%,
+    black 3%,
+    #aaf0d1 6%,
+    gainsboro 10%,
+    #e8e8e8 12%,
+    whitesmoke 17%,
+    snow 20%,
+    whitesmoke 31%,
+    white 41%,
+    whitesmoke 51%,
+    whitesmoke 71%,
+    snow 75%,
+    silver 88%,
+    snow 94%,
+    black 96%,
+    whitesmoke 97%,
+    dimgray 98%,
+    white 99%
+  );
+  box-shadow: 20px 12px 5px dimgray;
+  border-radius: 2rem;
+}
 
-  .textContainer {
-    position: absolute;
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: center;
-    align-items: center;
-    width: 106%;
-    height: 90%;
-    left:10px;
-    margin: 6% 0 6% 0;
-    background: linear-gradient(
+.box {
+  position: absolute;
+  width: 103%;
+  height: 80%;
+  margin: 6% 0 6% 0;
+  background: linear-gradient(
+    to bottom right,
+    snow 1%,
+    white 2%,
+    #aaf0d1 3%,
+    white 4%,
+    gainsboro 10%,
+    #e8e8e8 12%,
+    whitesmoke 17%,
+    snow 20%,
+    whitesmoke 31%,
+    gray 41%,
+    whitesmoke 51%,
+    whitesmoke 71%,
+    snow 75%,
+    black 88%,
+    snow 94%,
+    #aaf0d1 96%,
+    snow 97%,
+    #e8e8e8 98%,
+    white 99%
+  );
+  box-shadow: inset 20px 12px 5px #e2e2e2;
+  border-radius: 2rem;
+}
+
+.textContainer {
+  position: absolute;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  width: 106%;
+  height: 90%;
+  left: 10px;
+  margin: 6% 0 6% 0;
+  background: linear-gradient(
     to bottom,
     snow 1%,
     white 2%,
@@ -213,299 +213,473 @@
     #e8e8e8 98%,
     white 99%
   );
-    box-shadow: 20px 12px 5px #e2e2e2;
-    cursor:pointer;
-    border-radius:2rem;
+  box-shadow: 20px 12px 5px #e2e2e2;
+  cursor: pointer;
+  border-radius: 2rem;
+}
+
+.diskBox {
+  background-image: url("../public/images/ProofDisk.jpg");
+  background-position: top;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  position: absolute;
+  width: 40vw;
+  height: 25vh;
+  border-radius: 1rem;
+  top: 70vh;
+  left: 5vw;
+  z-index: 100;
+  opacity: 0.2;
+  cursor: pointer;
+  transition: 1.2s opacity;
+}
+
+.diskBoxTwo {
+  background-image: url("../public/images/ProofDisk.jpg");
+  background-position: top;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  position: absolute;
+  width: 35vw;
+  height: 25vh;
+  border-radius: 1rem;
+  top: 88vh;
+  left: 40vw;
+  z-index: 100;
+  opacity: 0.2;
+  cursor: pointer;
+  transition: 1.2s opacity;
+}
+
+.diskBoxThree {
+  background-image: url("../public/images/ProofDisk.jpg");
+  background-position: top;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: local;
+  position: absolute;
+  width: 35vw;
+  height: 37vh;
+  border-radius: 1.3rem;
+  top: 175vh;
+  right: 10vw;
+  z-index: 100;
+  opacity: 0.4;
+  cursor: pointer;
+  transition: 1.2s opacity;
+}
+
+.diskBoxFour {
+  background-image: url("../public/images/ProofDisk.jpg");
+  background-position: top;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  position: absolute;
+  width: 35vw;
+  height: 25vh;
+  border-radius: 1rem;
+  top: 98vh;
+  left: 10vw;
+  z-index: 100;
+  opacity: 0.2;
+  cursor: pointer;
+  transition: 1.2s opacity;
+}
+
+.diskBox:hover,
+.diskBoxTwo:hover,
+.diskBoxThree:hover,
+.diskBoxFour:hover {
+  opacity: 0.9;
+}
+
+.titleShadowOne {
+  font-size: 4.3rem;
+  color: black;
+  text-shadow: 2px 2px snow, 4px 4px #b0b0b0;
+  letter-spacing: 6.2rem;
+  line-height: 14vh;
+}
+
+.inverseShadow {
+  color: #aaf0d1;
+  text-shadow: 2px 3px white, 3px 4px black, 3px 4px white, 6px 12px 12px black;
+}
+
+.inverseShadowAlternate {
+  color: #aaf0d1;
+  text-shadow: 2px 2px snow, 4px 5px black;
+}
+
+.titleShadowUppercase {
+  color: black;
+  text-shadow: 1px 2px snow, 4px 6px #aaf0d1, 5px 7px white, 6px 8px black;
+  text-transform: uppercase;
+}
+
+.inverseShadowUppercase {
+  color: #aaf0d1;
+  text-shadow: 2px 2px snow, 4px 5px black;
+  text-transform: uppercase;
+}
+
+.titleShadowTwo {
+  font-size: 4.3rem;
+  color: black;
+  text-shadow: 2px 2px snow, 3px 4px white, 12px 12px #aaf0d1;
+  letter-spacing: 4rem;
+  line-height: 26vh;
+}
+
+.proofText {
+  font-family: "lores-9-plus-wide";
+  font-size: 1.65rem;
+  font-weight: 700;
+  letter-spacing: -0.1rem;
+  color: white;
+  text-shadow: 2px 4px black, 3px 5px #aaf0d1, 4px 7px gainsboro,
+    4px 8px 16px black;
+}
+
+.proofTextHalfReduced {
+  font-family: "lores-9-plus-wide";
+  font-size: 1.5rem;
+  font-weight: 700;
+  letter-spacing: -0.035rem;
+  color: white;
+  text-shadow: 2px 4px black, 3px 5px #aaf0d1, 4px 7px gainsboro,
+    4px 8px 16px black;
+}
+
+.proofTextReduced {
+  font-family: "lores-9-plus-wide";
+  font-size: 1.37rem;
+  font-weight: 700;
+  letter-spacing: -0.035rem;
+  color: white;
+  text-shadow: 2px 4px black, 3px 5px #aaf0d1, 4px 7px gainsboro,
+    4px 8px 16px black;
+}
+
+.proofTextDoubleReduced {
+  font-family: "lores-9-plus-wide";
+  font-size: 1.32rem;
+  font-weight: 700;
+  letter-spacing: -0.035rem;
+  color: white;
+  text-shadow: 2px 4px black, 3px 5px #aaf0d1, 4px 7px gainsboro,
+    4px 8px 16px black;
+}
+
+.specialProofText {
+  font-family: "lores-9-plus-wide";
+  font-size: 1.7rem;
+  font-weight: 700;
+  letter-spacing: -0.035rem;
+  color: black;
+  text-shadow: 2px 4px white, 3px 5px #aaf0d1, 4px 7px gainsboro,
+    4px 8px 16px black;
+}
+
+.specialProofTextTwo {
+  font-family: "lores-9-plus-wide";
+  font-size: 3.7rem;
+  font-weight: 700;
+  letter-spacing: -0.035rem;
+  color: black;
+  text-shadow: 2px 4px white, 3px 5px #aaf0d1, 4px 7px gainsboro,
+    4px 8px 16px black;
+}
+
+.specialProofTextThree {
+  font-family: "lores-9-plus-wide";
+  font-size: 2.05rem;
+  font-weight: 700;
+  letter-spacing: 0.2rem;
+  color: white;
+  text-shadow: 2px 4px black, 3px 5px #aaf0d1, 4px 7px gainsboro,
+    4px 8px 16px black;
+}
+
+.specialProofTextFour {
+  font-family: "lores-9-plus-wide";
+  font-size: 1.7rem;
+  font-weight: 700;
+  letter-spacing: -0.035rem;
+  color: black;
+  text-shadow: 2px 4px white, 3px 5px #aaf0d1, 4px 7px gainsboro,
+    4px 8px 16px black;
+  cursor: pointer;
+}
+
+.specialProofTextFour:hover {
+  letter-spacing: 0.4rem;
+  color: black;
+  text-shadow: 2px 4px white, 3px 5px #aaf0d1, 4px 7px gainsboro,
+    4px 8px 16px black;
+  text-transform: uppercase;
+}
+
+.specialProofTextFive:hover {
+  letter-spacing: 0.4rem;
+  text-transform: uppercase;
+}
+
+.specialProofTextFive {
+  font-family: "lores-9-plus-wide";
+  font-size: 1.7rem;
+  font-weight: 700;
+  letter-spacing: -0.035rem;
+  color: #c0a5a5;
+  text-shadow: 2px 4px black, 3px 5px white;
+  cursor: pointer;
+}
+
+.specialProofTextReduced {
+  font-family: "lores-9-plus-wide";
+  font-size: 1.33rem;
+  font-weight: 700;
+  letter-spacing: -0.035rem;
+  color: black;
+  text-shadow: 2px 4px white, 3px 5px #aaf0d1, 4px 7px gainsboro,
+    4px 8px 16px black;
+}
+
+.proofTwoProofText {
+  display: inline-block;
+  margin-left: 25vw;
+  font-family: "lores-9-plus-wide";
+  font-size: 1.65rem;
+  font-weight: 700;
+  letter-spacing: 0.6rem;
+  color: white;
+  text-shadow: 2px 4px black, 3px 5px #aaf0d1, 4px 7px gainsboro,
+    4px 8px 16px black;
+  text-align: right;
+}
+
+.proofFiveProofText {
+  display: inline-block;
+  font-family: "lores-9-plus-wide";
+  font-size: 1.4rem;
+  font-weight: 700;
+  letter-spacing: 0.1rem;
+  color: white;
+  text-shadow: 2px 4px black, 3px 5px #aaf0d1, 4px 7px gainsboro,
+    4px 8px 16px black;
+}
+
+.euclidBox {
+  display: inline-block;
+  margin-top: 30vh;
+}
+
+@media (width: 1366px) and (height: 1024px) {
+  .proofText,
+  .proofTextHalfReduced,
+  .proofTextReduced,
+  .proofTextDoubleReduced,
+  .specialProofText,
+  .specialProofTextTwo,
+  .specialProofTextThree,
+  .specialProofTextFour,
+  .specialProofTextReduced {
+    white-space: pre-line;
+    line-height: 10vh;
+  }
+}
+
+@media (width: 1194px) and (height: 834px) {
+  .proofText,
+  .proofTextHalfReduced,
+  .proofTextReduced,
+  .proofTextDoubleReduced,
+  .specialProofText,
+  .specialProofTextTwo,
+  .specialProofTextThree,
+  .specialProofTextFour,
+  .specialProofTextReduced {
+    white-space: pre-line;
+    line-height: 10vh;
+  }
+}
+
+@media (width: 1180px) and (height: 820px) {
+  .proofText,
+  .proofTextHalfReduced,
+  .proofTextReduced,
+  .proofTextDoubleReduced,
+  .specialProofText,
+  .specialProofTextTwo,
+  .specialProofTextThree,
+  .specialProofTextFour,
+  .specialProofTextReduced {
+    white-space: pre-line;
+    line-height: 10vh;
+  }
+}
+
+@media (width: 1080px) and (height: 810px) {
+  .proofText,
+  .proofTextHalfReduced,
+  .proofTextReduced,
+  .proofTextDoubleReduced,
+  .specialProofText,
+  .specialProofTextTwo,
+  .specialProofTextThree,
+  .specialProofTextFour,
+  .specialProofTextReduced {
+    white-space: pre-line;
+    line-height: 10vh;
+  }
+}
+
+@media (width: 1024px) and (height: 1366px) {
+  .proofText,
+  .proofTextHalfReduced,
+  .proofTextReduced,
+  .proofTextDoubleReduced,
+  .specialProofText,
+  .specialProofTextTwo,
+  .specialProofTextThree,
+  .specialProofTextFour,
+  .specialProofTextReduced {
+    white-space: pre-line;
+    line-height: 6vh;
+  }
+}
+
+@media (width: 1024px) and (height: 768px) {
+  .proofText,
+  .proofTextHalfReduced,
+  .proofTextReduced,
+  .proofTextDoubleReduced,
+  .specialProofText,
+  .specialProofTextTwo,
+  .specialProofTextThree,
+  .specialProofTextFour,
+  .specialProofTextReduced {
+    white-space: pre-line;
+    line-height: 10vh;
+  }
+}
+
+
+@media (max-width: 927px) and (orientation: landscape) {
+  
+  .diskBoxThree {
+    right:30vw;
+  }
+
+  .titleShadowTwo {
+    font-size: 2.9rem;
+    color: black;
+    text-shadow: 2px 2px snow, 3px 4px white, 12px 12px #aaf0d1;
+    letter-spacing: 0.1rem;
+    line-height: 9vh;
+    white-space: pre-line;
+  }
+
+  .proofText,
+  .proofTextHalfReduced,
+  .proofTextReduced,
+  .proofTextDoubleReduced,
+  .specialProofText,
+  .specialProofTextTwo,
+  .specialProofTextThree,
+  .specialProofTextFour,
+  .specialProofTextReduced {
+    font-size: 2.3rem;
+    line-height: 10vh;
+    white-space: pre-line;
+  }
+}
+
+@media (max-width: 835px) and (orientation: portrait) {
+
+  .titleShadowOne {
+    line-height: 14vh;
+  }
+
+  .titleShadowTwo {
+    font-size: 3.9rem;
+    color: black;
+    text-shadow: 2px 2px snow, 3px 4px white, 12px 12px #aaf0d1;
+    letter-spacing: 0.1rem;
+    line-height: 9vh;
+    white-space: pre-line;
+  }
+
+  .proofText,
+  .proofTextHalfReduced,
+  .proofTextReduced,
+  .proofTextDoubleReduced,
+  .specialProofText,
+  .specialProofTextTwo,
+  .specialProofTextThree,
+  .specialProofTextFour,
+  .specialProofTextReduced {
+    white-space: pre-line;
+    line-height: 6vh;
+
+  }
+}
+
+
+@media (max-width: 429px) and (orientation: portrait) {
+  .diskBox,
+  .diskBoxTwo,
+  .diskBoxFour {
+    height: 40vh;
   }
 
   .diskBox {
-    background-image: url("../public/images/ProofDisk.jpg");
-    background-position: top;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    position: absolute;
-    width:40vw;
-    height:25vh;
-    border-radius:1rem;
-    top:70vh;
-    left:5vw;
-    z-index:100;
-    opacity:0.2;
-    cursor:pointer;
-    transition: 1.2s opacity; 
+    top: 40vh;
+    width: 37vw;
   }
 
   .diskBoxTwo {
-    background-image: url("../public/images/ProofDisk.jpg");
-    background-position: top;
-    background-size:cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    position: absolute;
-    width:35vw;
-    height:25vh;
-    border-radius:1rem;
-    top:88vh;
-    left:40vw;
-    z-index:100;
-    opacity:0.2;
-    cursor:pointer;
-    transition: 1.2s opacity; 
+    top: 50vh;
   }
 
   .diskBoxThree {
-    background-image: url("../public/images/ProofDisk.jpg");
-    background-position: top;
-    background-size:cover;
-    background-repeat: no-repeat;
-    background-attachment: local;
-    position: absolute;
-    width:35vw;
-    height:37vh;
-    border-radius:1.3rem;
-    top:175vh;
-    right:10vw;
-    z-index:100;
-    opacity:0.4;
-    cursor:pointer;
-    transition: 1.2s opacity; 
+    width: 80vw;
+    top: 160vh;
+    background-size: contain;
   }
 
   .diskBoxFour {
-    background-image: url("../public/images/ProofDisk.jpg");
-    background-position: top;
-    background-size:cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    position: absolute;
-    width:35vw;
-    height:25vh;
-    border-radius:1rem;
-    top:98vh;
-    left:10vw;
-    z-index:100;
-    opacity:0.2;
-    cursor:pointer;
-    transition: 1.2s opacity; 
+    top: 70vh;
+    left: 60vw;
   }
-  
-  .diskBox:hover, .diskBoxTwo:hover, .diskBoxThree:hover, .diskBoxFour:hover {
-    opacity:0.9;    
-  }
-  
+
   .titleShadowOne {
-    font-size: 4.3rem;
-    color: black;
-    text-shadow: 2px 2px snow, 4px 4px #b0b0b0;
-    letter-spacing: 6.2rem;
-    line-height:14vh;
+    line-height: 11vh;
   }
 
-  .inverseShadow {
-    color: #aaf0d1;
-    text-shadow: 2px 3px white, 3px 4px black, 3px 4px white, 6px 12px 12px black;
-  }
-
-  .inverseShadowAlternate {
-    color: #aaf0d1;
-    text-shadow: 2px 2px snow, 4px 5px black;  }
-
-  .titleShadowUppercase {
-    color: black;
-    text-shadow: 1px 2px snow, 4px 6px #aaf0d1, 5px 7px white, 6px 8px black;
-    text-transform: uppercase;
-  }
-
-  .inverseShadowUppercase {
-    color: #aaf0d1;
-    text-shadow: 2px 2px snow, 4px 5px black;
-    text-transform: uppercase;
-  }
-  
   .titleShadowTwo {
-    font-size: 4.3rem;
+    font-size: 2.9rem;
     color: black;
     text-shadow: 2px 2px snow, 3px 4px white, 12px 12px #aaf0d1;
-    letter-spacing: 4rem;
-    line-height:26vh;
-  }
-
-  .proofText {
-    font-family:"lores-9-plus-wide";
-    font-size: 1.65rem;
-    font-weight: 700;
-    letter-spacing: -0.1rem;
-    color:white;
-    text-shadow: 2px 4px black, 3px 5px #aaf0d1, 4px 7px gainsboro, 4px 8px 16px black;
-  }
-
-  .proofTextHalfReduced {
-    font-family:"lores-9-plus-wide";
-    font-size: 1.50rem;
-    font-weight: 700;
-    letter-spacing: -0.035rem;
-    color:white;
-    text-shadow: 2px 4px black, 3px 5px #aaf0d1, 4px 7px gainsboro, 4px 8px 16px black;
-  }
-
-  .proofTextReduced {
-    font-family:"lores-9-plus-wide";
-    font-size: 1.37rem;
-    font-weight: 700;
-    letter-spacing: -0.035rem;
-    color:white;
-    text-shadow: 2px 4px black, 3px 5px #aaf0d1, 4px 7px gainsboro, 4px 8px 16px black;
-  }
-
-  .proofTextDoubleReduced {
-    font-family:"lores-9-plus-wide";
-    font-size: 1.32rem;
-    font-weight: 700;
-    letter-spacing: -0.035rem;
-    color:white;
-    text-shadow: 2px 4px black, 3px 5px #aaf0d1, 4px 7px gainsboro, 4px 8px 16px black;
-  }
-
-  .specialProofText {
-    font-family:"lores-9-plus-wide";
-    font-size: 1.7rem;
-    font-weight: 700;
-    letter-spacing: -0.035rem;
-    color:black;
-    text-shadow: 2px 4px white, 3px 5px #aaf0d1, 4px 7px gainsboro, 4px 8px 16px black;
-  }
-
-  .specialProofTextTwo {
-    font-family:"lores-9-plus-wide";
-    font-size: 3.7rem;
-    font-weight: 700;
-    letter-spacing: -0.035rem;
-    color:black;
-    text-shadow: 2px 4px white, 3px 5px #aaf0d1, 4px 7px gainsboro, 4px 8px 16px black;
-  }
-
-  .specialProofTextThree {
-    font-family:"lores-9-plus-wide";
-    font-size: 2.05rem;
-    font-weight: 700;
-    letter-spacing: 0.2rem;
-    color:white;
-    text-shadow: 2px 4px black, 3px 5px #aaf0d1, 4px 7px gainsboro, 4px 8px 16px black;
-  }
-
-  .specialProofTextFour {
-    font-family:"lores-9-plus-wide";
-    font-size: 1.7rem;
-    font-weight: 700;
-    letter-spacing: -0.035rem;
-    color:black;
-    text-shadow: 2px 4px white, 3px 5px #aaf0d1, 4px 7px gainsboro, 4px 8px 16px black;
-    cursor:pointer;
-  }
-
-  .specialProofTextFour:hover {
-    letter-spacing: 0.4rem;
-    color:black;
-    text-shadow: 2px 4px white, 3px 5px #aaf0d1, 4px 7px gainsboro, 4px 8px 16px black;
-    text-transform:uppercase;
-  }
-
-  .specialProofTextFive:hover {
-    letter-spacing: 0.4rem;
-    text-transform:uppercase;
-  }
-
-
-  .specialProofTextFive {
-    font-family:"lores-9-plus-wide";
-    font-size: 1.7rem;
-    font-weight: 700;
-    letter-spacing: -0.035rem;
-    color:#c0a5a5;
-    text-shadow: 2px 4px black, 3px 5px white;
-    cursor:pointer;
-  }
-
-  .specialProofTextReduced {
-    font-family:"lores-9-plus-wide";
-    font-size: 1.33rem;
-    font-weight: 700;
-    letter-spacing: -0.035rem;
-    color:black;
-    text-shadow: 2px 4px white, 3px 5px #aaf0d1, 4px 7px gainsboro, 4px 8px 16px black;
-  }
-
-  .proofTwoProofText {
-    display:inline-block;
-    margin-left:25vw;
-    font-family:"lores-9-plus-wide";
-    font-size: 1.65rem;
-    font-weight: 700;
-    letter-spacing: 0.6rem;
-    color:white;
-    text-shadow: 2px 4px black, 3px 5px #aaf0d1, 4px 7px gainsboro, 4px 8px 16px black;
-    text-align: right;
-  }
-
-  .proofFiveProofText {
-    display:inline-block;
-    font-family:"lores-9-plus-wide";
-    font-size: 1.4rem;
-    font-weight: 700;
     letter-spacing: 0.1rem;
-    color:white;
-    text-shadow: 2px 4px black, 3px 5px #aaf0d1, 4px 7px gainsboro, 4px 8px 16px black;
+    line-height: 9vh;
+    white-space: pre-line;
   }
 
-  .euclidBox {
-    display:inline-block;
-    margin-top:30vh;
+  .proofText,
+  .proofTextHalfReduced,
+  .proofTextReduced,
+  .proofTextDoubleReduced,
+  .specialProofText,
+  .specialProofTextTwo,
+  .specialProofTextThree,
+  .specialProofTextFour,
+  .specialProofTextReduced {
+    font-size: 1.7rem;
+    line-height: 5vh;
   }
-
-  @media (max-width: 429px) and (orientation: portrait) {
-
-    .diskBox, .diskBoxTwo, .diskBoxFour {
-      height:40vh;
-    }
-    
-    .diskBox {
-      top:40vh;
-      width:37vw;
-
-    }
-
-    .diskBoxTwo {
-      top:50vh;
-    }
-
-    .diskBoxThree {
-      width:80vw;
-      top:160vh;
-      background-size:contain;
-    }
-
-    .diskBoxFour {
-      top:70vh;
-      left:60vw;
-    }
-
-    .titleShadowOne {
-      line-height:11vh;
-    }
-
-    .titleShadowTwo {
-      font-size: 1rem;
-      color: black;
-      text-shadow: 2px 2px snow, 3px 4px white, 12px 12px #aaf0d1;
-      letter-spacing: 0.3rem;
-      line-height:1vh;
-      white-space: pre-line;
-    }
-
-    .proofText {
-      font-size: 1rem;
-      white-space: pre-line;
-    }
-
-  }
+}
