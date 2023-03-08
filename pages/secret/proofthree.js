@@ -51,8 +51,10 @@ export default function ProofThree() {
               <br />
               <br />
               qtd. in{" "}
-              <span className={styles.proofText}><i>Euclid’s Elements </i></span>{" "}
-               translated by Thomas L. Heath, ed. Dana Densmore. Green Lion
+              <span className={styles.proofText}>
+                <i>Euclid’s Elements </i>
+              </span>{" "}
+              translated by Thomas L. Heath, ed. Dana Densmore. Green Lion
               Press, 2013.
             </span>
           </StandardProse>

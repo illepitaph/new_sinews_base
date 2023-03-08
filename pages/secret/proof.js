@@ -53,9 +53,8 @@ export default function Proof() {
             <div className={styles.textContainerContainer}>
               <div className={styles.box}>
                 <div className={styles.boxTwo}>
-                  
-                    <div className={styles.textContainer} onClick={nextText}>
-                      <RawText />
+                  <div className={styles.textContainer} onClick={nextText}>
+                    <RawText />
                   </div>
                 </div>
               </div>
@@ -64,10 +63,30 @@ export default function Proof() {
         </div>
       </div>
 
-<a className={styles.diskBox} href="http://localhost:3000/secret/prooftwo" target="_blank" rel="noreferrer"></a>
-<a className={styles.diskBoxTwo} href="http://localhost:3000/secret/prooffour" target="_blank" rel="noreferrer"></a>
-<a className={styles.diskBoxThree} href="http://localhost:3000/secret/proofeight" target="_blank" rel="noreferrer"></a>
-<a className={styles.diskBoxFour} href="http://localhost:3000/secret/prooffive" target="_blank" rel="noreferrer"></a>
+      <a
+        className={styles.diskBox}
+        href="http://localhost:3000/secret/prooftwo"
+        target="_blank"
+        rel="noreferrer"
+      ></a>
+      <a
+        className={styles.diskBoxTwo}
+        href="http://localhost:3000/secret/prooffour"
+        target="_blank"
+        rel="noreferrer"
+      ></a>
+      <a
+        className={styles.diskBoxThree}
+        href="http://localhost:3000/secret/proofeight"
+        target="_blank"
+        rel="noreferrer"
+      ></a>
+      <a
+        className={styles.diskBoxFour}
+        href="http://localhost:3000/secret/prooffive"
+        target="_blank"
+        rel="noreferrer"
+      ></a>
       <Footer />
     </>
   );

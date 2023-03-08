@@ -493,22 +493,11 @@
   }
 }
 
-@media (width: 1194px) and (height: 834px) {
-  .proofText,
-  .proofTextHalfReduced,
-  .proofTextReduced,
-  .proofTextDoubleReduced,
-  .specialProofText,
-  .specialProofTextTwo,
-  .specialProofTextThree,
-  .specialProofTextFour,
-  .specialProofTextReduced {
-    white-space: pre-line;
-    line-height: 10vh;
-  }
-}
-
 @media (width: 1280px) and (height: 800px) {
+  .containerContainerTwo {
+    height: 150vh;
+  }
+
   .proofText,
   .proofTextHalfReduced,
   .proofTextReduced,
@@ -523,8 +512,30 @@
   }
 }
 
+@media (width: 1194px) and (height: 834px) {
+  .containerContainerTwo {
+    height: 150vh;
+  }
+
+  .proofText,
+  .proofTextHalfReduced,
+  .proofTextReduced,
+  .proofTextDoubleReduced,
+  .specialProofText,
+  .specialProofTextTwo,
+  .specialProofTextThree,
+  .specialProofTextFour,
+  .specialProofTextReduced {
+    white-space: pre-line;
+    line-height: 10vh;
+  }
+}
 
 @media (width: 1180px) and (height: 820px) {
+  .containerContainerTwo {
+    height: 150vh;
+  }
+
   .proofText,
   .proofTextHalfReduced,
   .proofTextReduced,
@@ -540,6 +551,10 @@
 }
 
 @media (width: 1080px) and (height: 810px) {
+  .containerContainerTwo {
+    height: 150vh;
+  }
+
   .proofText,
   .proofTextHalfReduced,
   .proofTextReduced,
@@ -570,6 +585,10 @@
 }
 
 @media (width: 1024px) and (height: 768px) {
+  .containerContainerTwo {
+    height: 170vh;
+  }
+
   .proofText,
   .proofTextHalfReduced,
   .proofTextReduced,
@@ -585,6 +604,10 @@
 }
 
 @media (width: 1024px) and (height: 600px) {
+  .containerContainerTwo {
+    height: 200vh;
+  }
+
   .proofText,
   .proofTextHalfReduced,
   .proofTextReduced,
@@ -599,11 +622,13 @@
   }
 }
 
-
 @media (max-width: 927px) and (orientation: landscape) {
-  
+  .containerContainerTwo {
+    height: 240vh;
+  }
+
   .diskBoxThree {
-    right:30vw;
+    right: 30vw;
   }
 
   .titleShadowTwo {
@@ -630,12 +655,11 @@
   }
 
   .proofTwoProofText {
-    line-height:1.2rem;
+    line-height: 1.2rem;
   }
 }
 
 @media (max-width: 913px) and (orientation: portrait) {
-
   .titleShadowOne {
     line-height: 14vh;
   }
@@ -660,22 +684,58 @@
   .specialProofTextReduced {
     white-space: pre-line;
     line-height: 6vh;
+  }
+}
 
+@media (max-width: 813px) and (orientation: landscape) {
+  .containerContainerTwo {
+    height: 260vh;
+  }
+}
+
+@media (max-width: 801px) and (orientation: landscape) {
+  .containerContainerTwo {
+    height: 280vh;
+  }
+}
+
+@media (max-width: 667px) and (orientation: landscape) {
+  .containerContainerTwo {
+    height: 290vh;
+  }
+}
+
+@media (max-width: 658px) and (orientation: landscape) {
+  .containerContainerTwo {
+    height: 330vh;
   }
 }
 
 @media (max-width: 654px) and (orientation: landscape) {
-  
+  .containerContainerTwo {
+    height: 370vh;
+  }
+
   .textContainer {
     height: 100%;
   }
 
   .proofTwoProofText {
-    line-height:0.9rem;
+    line-height: 0.9rem;
+  }
+}
+
+@media (width: 540px) and (height: 720px) {
+  .containerContainerTwo {
+    height: 190vh;
   }
 }
 
 @media (max-width: 429px) and (orientation: portrait) {
+  .containerContainerTwo {
+    height: 200vh;
+  }
+
   .diskBox,
   .diskBoxTwo,
   .diskBoxFour {
@@ -723,22 +783,43 @@
   .specialProofTextTwo,
   .specialProofTextThree,
   .specialProofTextFour,
-  .specialProofTextReduced, {
+  .specialProofTextReduced {
     font-size: 1.7rem;
     line-height: 5vh;
   }
 
   .proofTwoProofText {
     font-size: 1.2rem;
-    letter-spacing:0.2rem;
+    letter-spacing: 0.2rem;
+  }
+}
+
+@media (max-width: 394px) and (orientation: portrait) {
+  .containerContainerTwo {
+    height: 250vh;
+  }
+}
+
+@media (max-width: 375px) and (orientation: portrait) {
+  .containerContainerTwo {
+    height: 270vh;
   }
 }
 
 @media (max-width: 361px) and (orientation: portrait) {
-  
-  
   .specialProofTextTwo {
     line-height: 15vh;
   }
+}
 
+@media (max-width: 321px) and (orientation: portrait) {
+  .containerContainerTwo {
+    height: 310vh;
+  }
+}
+
+@media (max-width: 281px) and (orientation: portrait) {
+  .containerContainerTwo {
+    height: 330vh;
+  }
 }
