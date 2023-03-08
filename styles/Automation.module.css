@@ -1,0 +1,36 @@
+.duskShadow {
+    display:inline-block;
+    font-size: 5rem;
+    font-style: italic;
+    text-shadow: 10px 10px #e8e8e8;
+    transform: skew(6deg, 7.4deg);
+    letter-spacing: 2rem;
+  }
+  
+  .inverse {
+    color: black;
+    text-shadow: 4px 4px snow, 6px 6px #b0b0b0;
+  }
+  
+  .duskShadowUppercase {
+    font-size: 4rem;
+    font-style: italic;
+    text-shadow: 3px 3px gainsboro;
+    text-transform: uppercase;
+  }
+  
+  .inverseUppercase {
+    color: black;
+    text-shadow: 4px 4px snow, 6px 6px #b0b0b0;
+    text-transform: uppercase;
+  }
+
+  .duskShadowSpecial {
+    font-family: "bickham-script-pro-3", sans-serif;
+    font-style: italic;
+    font-size: 14.3rem;
+    text-shadow: 10px 10px #e8e8e8;
+    transform: skew(6deg, 7.4deg);
+    letter-spacing: 2rem;
+  }
+  
