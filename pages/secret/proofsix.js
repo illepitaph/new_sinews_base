@@ -15,7 +15,7 @@ export default function ProofSix() {
       <Head />
 
       <Header headerBackground="proofBackground" />
-      <div className={styles.containerContainerTwo}>
+      <div className={styles.containerContainerThree}>
         <div className={styles.containerContainerContainer}>
           <div className={styles.container}>
             <StandardProse>
