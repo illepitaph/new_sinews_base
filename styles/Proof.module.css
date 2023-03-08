@@ -341,7 +341,7 @@
   background-attachment: fixed;
   position: absolute;
   width: 35vw;
-  height: 25vh;
+  height: 15vh;
   border-radius: 1rem;
   top: 98vh;
   left: 10vw;
@@ -690,6 +690,7 @@
 
   .diskBoxThree {
     right: 30vw;
+    top: 210vh;
   }
 
   .boxTwo {
@@ -782,11 +783,19 @@
   .boxTwo {
     height:180vh;
   }
+
+  .diskBoxThree {
+    top: 250vh;
+  }
 }
 
 @media (max-width: 658px) and (orientation: landscape) {
   .containerContainerTwo {
     height: 330vh;
+  }
+
+  .textContainer {
+    margin-top:-20vh;;
   }
 }
 
@@ -806,6 +815,7 @@
   .boxTwo {
     height:200vh;
   }
+  
 }
 
 @media (width: 540px) and (height: 720px) {
@@ -820,8 +830,7 @@
   }
 
   .diskBox,
-  .diskBoxTwo,
-  .diskBoxFour {
+  .diskBoxTwo {
     height: 40vh;
   }
 
@@ -891,12 +900,17 @@
   .boxTwo {
     height:140vh;
   }
+
+  .diskBoxThree {
+    top: 200vh;
+  }
 }
 
 @media (max-width: 361px) and (orientation: portrait) {
   .specialProofTextTwo {
     line-height: 15vh;
   }
+
 }
 
 @media (max-width: 321px) and (orientation: portrait) {
