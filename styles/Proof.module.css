@@ -856,4 +856,8 @@
   .containerContainerTwo {
     height: 330vh;
   }
+
+  .containerContainerThree {
+    height: 160vh;
+  }
 }

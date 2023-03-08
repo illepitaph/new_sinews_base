@@ -15,25 +15,31 @@ export default function ProofSeven() {
       <Head />
 
       <Header headerBackground="proofBackground" />
-      <div className={styles.containerContainerTwo}>
+      <div className={styles.containerContainerThree}>
         <div className={styles.containerContainerContainer}>
           <div className={styles.container}>
             <StandardProse>
-            It somehow worries us that the thought in a sentence is not wholly present at any one moment. We regard it as an object which{" "}
-              <a href="http://localhost:3000/secret/prooffour" target="_blank" rel="noreferrer">
-              <span className={styles.specialProofTextFour}>
-              we are making and have never got all there
-              </span>{" "}
+              It somehow worries us that the thought in a sentence is not wholly
+              present at any one moment. We regard it as an object which{" "}
+              <a
+                href="http://localhost:3000/secret/prooffour"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <span className={styles.specialProofTextFour}>
+                  we are making and have never got all there
+                </span>{" "}
               </a>
-              , for no sooner does one part appear than another vanishes. 
+              , for no sooner does one part appear than another vanishes.
               <br />
               <br />
               <br />
-              Wittgenstein, Ludwig. 
+              Wittgenstein, Ludwig.
               <span className={styles.proofText}>
-              <i>Zettel </i>
-              </span>, trans. G.E.M. Anscombe, ed. G.E.M. Anscombe & G.H. von Wright. University of California Press, 1967.
-
+                <i>Zettel </i>
+              </span>
+              , trans. G.E.M. Anscombe, ed. G.E.M. Anscombe & G.H. von Wright.
+              University of California Press, 1967.
             </StandardProse>
           </div>
         </div>
