@@ -22,6 +22,7 @@ export default function ProofThree() {
               <br />
               <br />
               <br />
+              <br />
               Now of these the enunciation states what is given and what is that
               which is sought, the perfect enunciation consisting of both these
               parts. The setting-out marks off what is given, by itself, and
@@ -38,7 +39,7 @@ export default function ProofThree() {
                   adds what is wanting to the datum for the purpose of finding
                   what is sought.
                 </span>
-              </a>
+              </a>{" "}
               The proof draws the required inference by reasoning scientifically
               from acknowledged facts. The conclusion reverts again to the
               enunciation, confirming what has been demonstrated… For it is

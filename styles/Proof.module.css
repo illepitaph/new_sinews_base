@@ -472,8 +472,8 @@
   font-weight: 700;
   letter-spacing: -0.035rem;
   color: white;
-  text-shadow: 1px 2px black, 2px 3px white, 3px 5px #aaf0d1, 5px 7px black, 6px 8px gainsboro, 7px 9px 12px black,
-    4px 8px 16px black;
+  text-shadow: 1px 2px black, 2px 3px white, 3px 5px #aaf0d1, 5px 7px black,
+    6px 8px gainsboro, 7px 9px 12px black, 4px 8px 16px black;
   cursor: pointer;
 }
 
@@ -536,7 +536,7 @@
 
 .euclidBox {
   display: inline-block;
-  margin-top: 30vh;
+  margin-top: 22vh;
 }
 
 @media (width: 1366px) and (height: 1024px) {
@@ -694,7 +694,7 @@
   }
 
   .boxTwo {
-    height:120vh;
+    height: 120vh;
   }
 
   .titleShadowTwo {
@@ -763,16 +763,14 @@
   }
 
   .boxTwo {
-    height:140vh;
+    height: 140vh;
   }
-
 }
 
 @media (max-width: 801px) and (orientation: landscape) {
   .containerContainerTwo {
     height: 280vh;
   }
-
 }
 
 @media (max-width: 667px) and (orientation: landscape) {
@@ -781,7 +779,7 @@
   }
 
   .boxTwo {
-    height:180vh;
+    height: 180vh;
   }
 
   .diskBoxThree {
@@ -795,7 +793,7 @@
   }
 
   .textContainer {
-    margin-top:-20vh;;
+    margin-top: -20vh;
   }
 }
 
@@ -813,9 +811,8 @@
   }
 
   .boxTwo {
-    height:200vh;
+    height: 200vh;
   }
-  
 }
 
 @media (width: 540px) and (height: 720px) {
@@ -898,7 +895,7 @@
   }
 
   .boxTwo {
-    height:140vh;
+    height: 140vh;
   }
 
   .diskBoxThree {
@@ -910,7 +907,6 @@
   .specialProofTextTwo {
     line-height: 15vh;
   }
-
 }
 
 @media (max-width: 321px) and (orientation: portrait) {
