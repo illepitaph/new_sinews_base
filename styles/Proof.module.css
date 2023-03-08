@@ -248,9 +248,9 @@
   flex-flow: row wrap;
   justify-content: center;
   align-items: center;
-  width: 104%;
+  width: 98%;
   height: 90%;
-  left: 10px;
+  left: 5px;
   margin: 6% 0 6% 0;
   background: linear-gradient(
     to bottom,
