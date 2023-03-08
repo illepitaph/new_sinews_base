@@ -91,7 +91,7 @@ export default function Automation() {
         &#8220;Get to...your workshop?&#8221;
         <br />
         <br />
-        &#8220;Sure, my workshop, &#8221; I responded. His fingers, mostly
+        &#8220;Sure, my workshop,&#8221; I responded. His fingers, mostly
         bandaged, scraping against each other, tearing at the remaining
         cuticles.
         <br />
