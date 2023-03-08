@@ -88,7 +88,7 @@ export default function Automation() {
         mine, trying to read my face. &#8220;How did I get here?&#8221;
         <br />
         <br />
-        &#8220;Get to...your workshop?&#8220;
+        &#8220;Get to...your workshop?&#8221;
         <br />
         <br />
         &#8220;Sure, my workshop, &#8221; I responded. His fingers, mostly
