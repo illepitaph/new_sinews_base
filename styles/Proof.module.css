@@ -471,8 +471,8 @@
   font-size: 1.7rem;
   font-weight: 700;
   letter-spacing: -0.035rem;
-  color: black;
-  text-shadow: 2px 4px white, 3px 5px #aaf0d1, 4px 7px gainsboro,
+  color: white;
+  text-shadow: 1px 2px black, 2px 3px white, 3px 5px #aaf0d1, 5px 7px black, 6px 8px gainsboro, 7px 9px 12px black,
     4px 8px 16px black;
   cursor: pointer;
 }
