@@ -19,25 +19,25 @@ export default function ProofEight() {
           <div className={styles.container}>
             <div className={styles.textContainerContainer}>
               <div className={styles.boxTwo}>
-                  <StandardProse>
-                    <br />
-                    <br />
-                    <br /> <br />
-                    <br />
-                    <br />
-                    The diagram is not a representation of something else; it is
-                    the thing itself. It is not like a representation of a
-                    building, it is like a building acted upon and constructed.
-                    Greek geometry is the study of spatial action, not of visual
-                    representation.
-                    <br />
-                    <br />
-                    Netz, Reviel.{" "}
-                    <span className={styles.proofText}>
-                      <i>The Shaping of Deduction in Greek Mathematics</i>
-                    </span>
-                    . Cambridge UP, 2003.
-                  </StandardProse>
+                <StandardProse>
+                  <br />
+                  <br />
+                  <br /> <br />
+                  <br />
+                  <br />
+                  The diagram is not a representation of something else; it is
+                  the thing itself. It is not like a representation of a
+                  building, it is like a building acted upon and constructed.
+                  Greek geometry is the study of spatial action, not of visual
+                  representation.
+                  <br />
+                  <br />
+                  Netz, Reviel.{" "}
+                  <span className={styles.proofText}>
+                    <i>The Shaping of Deduction in Greek Mathematics</i>
+                  </span>
+                  . Cambridge UP, 2003.
+                </StandardProse>
               </div>
             </div>
           </div>
