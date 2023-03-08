@@ -211,6 +211,37 @@
   border-radius: 2rem;
 }
 
+.boxTwo {
+  position: absolute;
+  width: 103%;
+  height: 80%;
+  margin: 6% 0 6% 0;
+  background: linear-gradient(
+    to bottom right,
+    snow 1%,
+    white 2%,
+    #aaf0d1 3%,
+    white 4%,
+    gainsboro 10%,
+    #e8e8e8 12%,
+    whitesmoke 17%,
+    snow 20%,
+    whitesmoke 31%,
+    gray 41%,
+    whitesmoke 51%,
+    whitesmoke 71%,
+    snow 75%,
+    black 88%,
+    snow 94%,
+    #aaf0d1 96%,
+    snow 97%,
+    #e8e8e8 98%,
+    white 99%
+  );
+  box-shadow: inset 20px 12px 5px #e2e2e2;
+  border-radius: 2rem;
+}
+
 .textContainer {
   position: absolute;
   display: flex;
@@ -661,6 +692,10 @@
     right: 30vw;
   }
 
+  .boxTwo {
+    height:120vh;
+  }
+
   .titleShadowTwo {
     font-size: 2.9rem;
     color: black;
@@ -725,17 +760,27 @@
   .containerContainerThree {
     height: 170vh;
   }
+
+  .boxTwo {
+    height:140vh;
+  }
+
 }
 
 @media (max-width: 801px) and (orientation: landscape) {
   .containerContainerTwo {
     height: 280vh;
   }
+
 }
 
 @media (max-width: 667px) and (orientation: landscape) {
   .containerContainerTwo {
     height: 290vh;
+  }
+
+  .boxTwo {
+    height:180vh;
   }
 }
 
@@ -756,6 +801,10 @@
 
   .proofTwoProofText {
     line-height: 0.9rem;
+  }
+
+  .boxTwo {
+    height:200vh;
   }
 }
 
@@ -837,6 +886,10 @@
 @media (max-width: 375px) and (orientation: portrait) {
   .containerContainerTwo {
     height: 270vh;
+  }
+
+  .boxTwo {
+    height:140vh;
   }
 }
 

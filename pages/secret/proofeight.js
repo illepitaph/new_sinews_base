@@ -18,8 +18,7 @@ export default function ProofEight() {
         <div className={styles.containerContainerContainer}>
           <div className={styles.container}>
             <div className={styles.textContainerContainer}>
-              <div className={styles.box}>
-                <div className={styles.boxTwo}>
+              <div className={styles.boxTwo}>
                   <StandardProse>
                     <br />
                     <br />
@@ -33,17 +32,12 @@ export default function ProofEight() {
                     representation.
                     <br />
                     <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
                     Netz, Reviel.{" "}
                     <span className={styles.proofText}>
                       <i>The Shaping of Deduction in Greek Mathematics</i>
                     </span>
                     . Cambridge UP, 2003.
                   </StandardProse>
-                </div>
               </div>
             </div>
           </div>
