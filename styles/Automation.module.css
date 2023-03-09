@@ -53,6 +53,42 @@
   
   }
 
+  @media (max-width: 835px) and (orientation: portrait) {
+
+    .duskShadow {
+        font-size: 4.5rem;
+        letter-spacing: 1.7rem;
+      }
+      
+      .duskShadowUppercase {
+        font-size: 3.7rem;
+      }
+    
+      .duskShadowSpecial {
+        font-size: 9.3rem;
+        letter-spacing: 1.2rem;
+      }
+  
+  }
+
+  @media (max-width: 541px) and (orientation: portrait) {
+
+    .duskShadow {
+        font-size: 3.4rem;
+        letter-spacing: 1.4rem;
+      }
+      
+      .duskShadowUppercase {
+        font-size: 3rem;
+      }
+    
+      .duskShadowSpecial {
+        font-size: 8.3rem;
+        letter-spacing: 1rem;
+      }
+  
+  }
+
   @media (max-width: 429px) and (orientation: portrait) {
 
     .duskShadow {
@@ -71,4 +107,28 @@
       }
   
   }
+
+  @media (max-width: 321px) and (orientation: portrait) {
+
+    .duskShadow {
+        letter-spacing: 0.5rem;
+      }
+
+      .duskShadowSpecial {
+        font-size: 5rem;
+        letter-spacing: 0.2rem;
+      }
   
+  }
+  
+  @media (max-width: 281px) and (orientation: portrait) {
+
+    .duskShadow {
+        letter-spacing: 0.3rem;
+      }
+
+      .duskShadowSpecial {
+        font-size: 4rem;
+      }
+  
+  }
