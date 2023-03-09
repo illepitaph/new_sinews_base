@@ -133,6 +133,36 @@
   border-radius: 2rem;
 }
 
+.containerContainerFour {
+  width: 95vw;
+  height: 130vh;
+  margin: 6vh 0 0 1vw;
+  background: linear-gradient(
+    to right,
+    black 1%,
+    white 2%,
+    silver 3%,
+    white 6%,
+    gainsboro 10%,
+    #e8e8e8 12%,
+    whitesmoke 17%,
+    snow 20%,
+    whitesmoke 31%,
+    white 41%,
+    gainsboro 51%,
+    whitesmoke 71%,
+    snow 75%,
+    #e2e2e2 88%,
+    whitesmoke 94%,
+    black 96%,
+    whitesmoke 97%,
+    gainsboro 98%,
+    white 99%
+  );
+  box-shadow: 20px 12px 15px gray;
+  border-radius: 2rem;
+}
+
 .containerContainerContainer {
   width: 98.5%;
   height: 97.5%;
@@ -688,6 +718,10 @@
     height: 240vh;
   }
 
+  .containerContainerFour {
+    height: 200vh;
+  }
+
   .diskBoxThree {
     right: 30vw;
     top: 210vh;
@@ -802,6 +836,10 @@
     height: 370vh;
   }
 
+  .containerContainerFour {
+    height: 240vh;
+  }
+
   .textContainer {
     height: 100%;
   }
@@ -824,6 +862,10 @@
 @media (max-width: 429px) and (orientation: portrait) {
   .containerContainerTwo {
     height: 200vh;
+  }
+
+  .containerContainerFour {
+    height: 80vh;
   }
 
   .diskBox,
@@ -904,6 +946,11 @@
 }
 
 @media (max-width: 361px) and (orientation: portrait) {
+
+  .containerContainerFour {
+    height: 120vh;
+  }
+
   .specialProofTextTwo {
     line-height: 15vh;
   }

@@ -16,14 +16,14 @@ export default function ProofFour() {
       <Head />
 
       <Header headerBackground="proofBackground" />
-      <div className={styles.containerContainer}>
+      <div className={styles.containerContainerFour}>
         <div className={styles.containerContainerContainer}>
           <div className={styles.container}>
             <StandardProse>
               <Image
                 src={ProofDeduction}
-                width={70}
-                height={40}
+                width={75}
+                height={45}
                 layout={`responsive`}
                 alt="Still from THE SHAPING OF DEDUCTION IN GREEK MATHEMATICS"
               />
