@@ -25,7 +25,7 @@ export default function ProofFive() {
                 <br />
                 one’s thoughts proceeded{" "}
                 <a
-                  href="http://localhost:3000/secret/proofthree"
+                  href="http://localhost:3000/secret/proofseven"
                   target="_blank"
                   rel="noreferrer"
                 >

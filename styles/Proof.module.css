@@ -586,9 +586,9 @@
 .proofFiveProofText {
   display: inline-block;
   font-family: "lores-9-plus-wide";
-  font-size: 1.4rem;
+  font-size: 1.83rem;
   font-weight: 700;
-  letter-spacing: 0.1rem;
+  letter-spacing: -0.1rem;
   color: white;
   text-shadow: 2px 4px black, 3px 5px #aaf0d1, 4px 7px gainsboro,
     4px 8px 16px black;
@@ -787,6 +787,11 @@
   .proofTwoProofText {
     line-height: 1.2rem;
   }
+
+  .proofFiveProofText {
+    margin-top:3vh;
+    font-size: 1.5rem;
+  }
 }
 
 @media (max-width: 913px) and (orientation: portrait) {
@@ -820,7 +825,7 @@
 @media (max-width: 854px) and (orientation: landscape) {
 
   .proofFiveProofText {
-    font-size: 1.2rem;
+    font-size: 1.4rem;
   }
 }
 
@@ -838,7 +843,7 @@
   }
 
   .proofFiveProofText {
-    font-size: 1.1rem;
+    font-size: 1.3rem;
   }
 }
 
@@ -848,7 +853,8 @@
   }
 
   .proofFiveProofText {
-    font-size: 1rem;
+    margin-top:5vh;
+    font-size: 1.2rem;
   }
 }
 
@@ -866,7 +872,7 @@
   }
 
   .proofFiveProofText {
-    font-size: 0.8rem;
+    font-size: 1.1rem;
   }
 }
 
@@ -899,6 +905,11 @@
 
   .boxTwo {
     height: 200vh;
+  }
+
+  .proofFiveProofText {
+    margin-top:0;
+    font-size: 0.8rem;
   }
 }
 
@@ -1002,6 +1013,10 @@
 
   .specialProofTextTwo {
     line-height: 15vh;
+  }
+
+  .proofFiveProofText {
+    margin-top:5vh;
   }
 }
 
