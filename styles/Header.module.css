@@ -373,6 +373,10 @@
   background-image: url("../public/images/ProofBackground.jpg");
 }
 
+.automationBackground {
+  background-image: url("../public/images/AutomationBackground.jpg");
+}
+
 @media (width: 1080px) and (height: 810px) {
   .siteNav > .dropDown > button,
   .home,

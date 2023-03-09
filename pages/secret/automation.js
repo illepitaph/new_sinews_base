@@ -16,7 +16,7 @@ export default function Automation() {
     <>
       <Head />
 
-      <Header headerBackground="luBackground" />
+      <Header headerBackground="automationBackground" />
 
       <RightGrayTitle>
         <br />
