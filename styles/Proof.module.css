@@ -792,6 +792,11 @@
     margin-top: 3vh;
     font-size: 1.5rem;
   }
+
+  .specialMargin {
+    display: inline-block;
+    margin-top:-35vh;
+  }
 }
 
 @media (max-width: 913px) and (orientation: portrait) {
@@ -1016,6 +1021,11 @@
   .proofFiveProofText {
     margin-top: 5vh;
   }
+
+  .specialMargin {
+    display: inline-block;
+    margin-top:-20vh;
+  }
 }
 
 @media (max-width: 321px) and (orientation: portrait) {
@@ -1035,5 +1045,10 @@
 
   .proofFiveProofText {
     font-size: 1rem;
+  }
+
+  .specialMargin {
+    display: inline-block;
+    margin-top:-25vh;
   }
 }

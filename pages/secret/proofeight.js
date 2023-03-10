@@ -20,6 +20,7 @@ export default function ProofEight() {
             <div className={styles.textContainerContainer}>
               <div className={styles.boxTwo}>
                 <StandardProse>
+                <span className={styles.specialMargin}>
                   <br />
                   <br />
                   <br /> <br />
@@ -32,11 +33,14 @@ export default function ProofEight() {
                   representation.
                   <br />
                   <br />
+                  <br />
+                  <br />
                   Netz, Reviel.{" "}
                   <span className={styles.proofText}>
                     <i>The Shaping of Deduction in Greek Mathematics</i>
                   </span>
                   . Cambridge UP, 2003.
+                  </span>
                 </StandardProse>
               </div>
             </div>
