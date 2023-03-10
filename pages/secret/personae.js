@@ -9,7 +9,7 @@ Personae.title = "julia shiota ~ dramatis personae — new_sinews";
 Personae.pieceName = "julia shiota ~ dramatis personae — new_sinews";
 Personae.description =
   "_Julia Shiota_fiction_DRAMATIS PERSONAE_news_sinews_issue7_";
-Personae.image = "https://www.newnewsinews.com/images/FeldmanBackground.jpg";
+Personae.image = "https://www.newnewsinews.com/images/PersonaeBackground.jpg";
 
 export default function Personae() {
   return (

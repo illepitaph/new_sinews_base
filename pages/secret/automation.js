@@ -9,7 +9,7 @@ Automation.title = "nora_wall ~ automation — new_sinews";
 Automation.pieceName = "nora_wall ~ automation — new_sinews";
 Automation.description = "_Nora Wall_fiction_AUTOMATION_new_sinews_issue5_";
 Automation.image =
-  "https://www.newnewsinews.com/images/StripMallBackground.jpg";
+  "https://www.newnewsinews.com/images/AutomationBackground.jpg";
 
 export default function Automation() {
   return (
