@@ -26,19 +26,10 @@ export default function ProofEight() {
                   <br />
                   <br />
                   The diagram is not a representation of something else; it is
-                  the thing itself. It is not like a{" "}
-                  <a
-                    href="http://localhost:3000/secret/proofthree"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    <span className={styles.specialProofText}>
-                      representation
-                    </span>
-                  </a>{" "}
-                  of a building, it is like a building acted upon and
-                  constructed. Greek geometry is the study of spatial action,
-                  not of visual representation.
+                  the thing itself. It is not like a representation of a
+                  building, it is like a building acted upon and constructed.
+                  Greek geometry is the study of spatial action, not of visual
+                  representation.
                   <br />
                   <br />
                   Netz, Reviel.{" "}

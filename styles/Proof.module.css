@@ -789,7 +789,7 @@
   }
 
   .proofFiveProofText {
-    margin-top:3vh;
+    margin-top: 3vh;
     font-size: 1.5rem;
   }
 }
@@ -823,7 +823,6 @@
 }
 
 @media (max-width: 854px) and (orientation: landscape) {
-
   .proofFiveProofText {
     font-size: 1.4rem;
   }
@@ -853,7 +852,7 @@
   }
 
   .proofFiveProofText {
-    margin-top:5vh;
+    margin-top: 5vh;
     font-size: 1.2rem;
   }
 }
@@ -908,7 +907,7 @@
   }
 
   .proofFiveProofText {
-    margin-top:0;
+    margin-top: 0;
     font-size: 0.8rem;
   }
 }
@@ -1006,7 +1005,6 @@
 }
 
 @media (max-width: 361px) and (orientation: portrait) {
-
   .containerContainerFour {
     height: 120vh;
   }
@@ -1016,7 +1014,7 @@
   }
 
   .proofFiveProofText {
-    margin-top:5vh;
+    margin-top: 5vh;
   }
 }
 
