@@ -236,11 +236,33 @@ posing’s why that is.`}</pre>
 
       <br />
       <br />
-      <pre className={styles.poem}>{`We want to eat teacher
-He gets on the ground
-When we make the child trap
-He looks even more
-Edible on the ground`}</pre>
+      <pre className={styles.poem}>{`You have to say `}<i>I can&#8217;t</i><br/>
+      {`as you plead `}<i>mercy</i><br/>
+      {`to a dollar
+strung off sightlines. 
+
+
+
+Blood you’re nothing
+if not 40 in LA;
+the solace of your all-time number one 
+
+
+
+most cinematic sandwich;  
+breath-knocked fix on stairs upside 
+the movie house fucked blank. 
+
+
+
+Most won’t sit for face tattoos yet
+take on scribbles
+I can’t, myself, see past.`}</pre>
+       <br />
+      <br />
+      <br />
+      <br />
+      <br />
       <br />
       <br />
       <br />
@@ -251,33 +273,65 @@ Edible on the ground`}</pre>
       <br />
 
       <h3 className={styles.poemTitle}>
-        survival of the smile of the cheshire cat
+      The Country-Music Lovers of the Spaceship
       </h3>
 
       <br />
-      <pre className={styles.poem}>{`half whose mind is gearing in a wheel
+      <br />
+      <pre className={styles.poem}><i>Your employment is terminated as of today, <br/>
+as is your medical insurance. <br/>
+You have the option of continuing <br/>
+your coverage under <br/>
+the COBRA act,</i><br/>
+        {`I could hear myself recite. 
+He signed and peeled out 
+of our office park, 
+colliding moments later 
+half a mile down the road 
+full speed into a median 
+then another car. I could hear it. 
+Then he was on life support but then 
+they took him off it. 
 
-“I have turned a cake into something else” (Pierre Hermé)
 
-so a smile was there on her
 
-dry white face
+I would recognize that slurred cumbia bassline
+drinking liquor in the post office parking lot 
+on Christmas Eve at closing 
+I would recognize it 
+underwater 
+I don’t 
+understand a word.
 
-the slow air in an
 
-air roll
 
-slowly something was there obtaining permission
+The country music lovers of 
+the spaceship
+mow down 
+revelers jammed up 
+on the crosswalks
 
-what was the permission?
 
-it was obtained
 
-feel through it like a sour stone
+and the perseverance of their 
+weekend news 
+is my faith
+any showered bible-college 
+smile might trepan 
+our siloed and deadbolted-down little scenarios.
+Their cloud drift map screen’s 
+dreamful two-step
 
-fell
 
-the facts are constantly about me`}</pre>
+
+undoes thunderbirdlike 
+clawgrips on myself.
+
+
+
+In one such sigh I thought I’d make it seem
+I get a kick 
+at living next to you is all it ever was.`}</pre>
       <br />
       <br />
       <br />
@@ -287,7 +341,7 @@ the facts are constantly about me`}</pre>
       <br />
       <br />
 
-      <h3 className={styles.poemTitle}>the simplest case of participation</h3>
+      <h3 className={styles.poemTitleTwo}>desire</h3>
 
       <br />
       <pre
