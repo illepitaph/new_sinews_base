@@ -179,7 +179,7 @@ coming close to kiss,
 the unstaffed seasons. 
 The reaching sea foam green hand 
 from its weekend coins and snow.`}</pre>
-         <br />
+      <br />
       <br />
       <br />
       <br />
@@ -218,7 +218,7 @@ forges something psychic with a wolf—
 the toy of that slack-jointed
 from compulsive
 posing’s why that is.`}</pre>
-        <br />
+      <br />
       <br />
       <br />
       <br />
@@ -236,9 +236,14 @@ posing’s why that is.`}</pre>
 
       <br />
       <br />
-      <pre className={styles.poem}>{`You have to say `}<i>I can&#8217;t</i><br/>
-      {`as you plead `}<i>mercy</i><br/>
-      {`to a dollar
+      <pre className={styles.poem}>
+        {`You have to say `}
+        <i>I can&#8217;t</i>
+        <br />
+        {`as you plead `}
+        <i>mercy</i>
+        <br />
+        {`to a dollar
 strung off sightlines. 
 
 
@@ -257,8 +262,9 @@ the movie house fucked blank.
 
 Most won’t sit for face tattoos yet
 take on scribbles
-I can’t, myself, see past.`}</pre>
-       <br />
+I can’t, myself, see past.`}
+      </pre>
+      <br />
       <br />
       <br />
       <br />
@@ -273,16 +279,20 @@ I can’t, myself, see past.`}</pre>
       <br />
 
       <h3 className={styles.poemTitle}>
-      The Country-Music Lovers of the Spaceship
+        The Country-Music Lovers of the Spaceship
       </h3>
 
       <br />
       <br />
-      <pre className={styles.poem}><i>Your employment is terminated as of today, <br/>
-as is your medical insurance. <br/>
-You have the option of continuing <br/>
-your coverage under <br/>
-the COBRA act,</i><br/>
+      <pre className={styles.poem}>
+        <i>
+          Your employment is terminated as of today, <br />
+          as is your medical insurance. <br />
+          You have the option of continuing <br />
+          your coverage under <br />
+          the COBRA act,
+        </i>
+        <br />
         {`I could hear myself recite. 
 He signed and peeled out 
 of our office park, 
@@ -331,7 +341,8 @@ clawgrips on myself.
 
 In one such sigh I thought I’d make it seem
 I get a kick 
-at living next to you is all it ever was.`}</pre>
+at living next to you is all it ever was.`}
+      </pre>
       <br />
       <br />
       <br />
