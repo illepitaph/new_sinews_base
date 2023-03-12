@@ -96,63 +96,45 @@
 
 @media (max-width: 927px) and (orientation: landscape) {
   .poem {
-    margin-left: 12vw;
-  }
-
-  .nameSpacing {
-    letter-spacing: 0.8rem;
+    margin-left: 6vw;
   }
 }
 
-@media (max-width: 896px) and (orientation: landscape) {
-  .nameSpacing {
-    letter-spacing: 0.6rem;
+@media (max-width: 855px) and (orientation: landscape) {
+  .poem {
+    margin-left: 1vw;
   }
+
 }
 
 @media (max-width: 835px) and (orientation: portrait) {
   .poem {
-    margin-left: 6vw;
-  }
-
-  .nameSpacing {
-    letter-spacing: 0.5rem;
+    font-size:1.1rem;
+    margin-left:4vw;
   }
 }
 
 @media (max-width: 812px) and (orientation: landscape) {
+
   .poem {
-    margin-left: 6vw;
-  }
-
-  .nameSpacing {
-    letter-spacing: 0.4rem;
-  }
-}
-
-@media (max-width: 769px) and (orientation: portrait) {
-  .nameSpacing {
-    letter-spacing: 0.4rem;
+    font-size: 1.1rem;
   }
 }
 
 @media (max-width: 745px) and (orientation: landscape) {
   .poem {
     font-size: 1rem;
-    margin-left: 2vw;
+  }
+}
+
+@media (max-width: 667px) and (orientation: landscape) {
+
+  .poem {
+    font-size: 0.9rem;
   }
 }
 
 @media (max-width: 541px) and (orientation: portrait) {
-  .nameShadow {
-    font-size: 2.7rem;
-  }
-
-  .inverseNameShadow,
-  .mintAlternate,
-  .mintAlternateUppercase {
-    font-size: 3.1rem;
-  }
 
   .poem {
     margin-left: 2vw;
@@ -166,30 +148,23 @@
   }
 
   .nameSpacing {
-    letter-spacing: 0.1rem;
+    letter-spacing: 0.7rem;
   }
 
-  .poemTitle {
+  .poemTitle, .poemTitleTwo {
     font-size: 1.6rem;
   }
 
   .poem {
-    font-size: 0.69rem;
+    font-size: 0.79rem;
+    white-space: pre-wrap;
   }
 }
 
 @media (max-width: 405px) and (orientation: portrait) {
-  .titleShadow {
-    font-size: 1.8rem;
-  }
 
-  .poemTitle {
+  .poemTitle, .poemTitleTwo {
     font-size: 1.4rem;
-  }
-
-  .nameSpacing {
-    font-size: 1.2rem;
-    letter-spacing: 0.1rem;
   }
 
   .poem {
@@ -199,11 +174,20 @@
 }
 
 @media (max-width: 354px) and (orientation: portrait) {
-  .titleShadow {
-    font-size: 1.6rem;
+
+  .poemTitle, .poemTitleTwo {
+    font-size: 1.2rem;
   }
 
-  .poemTitle {
+  .poem {
+    font-size: 0.55rem;
+    margin-left: 1vw;
+  }
+}
+
+@media (max-width: 354px) and (orientation: portrait) {
+
+  .poemTitle, .poemTitleTwo {
     font-size: 1.2rem;
   }
 
