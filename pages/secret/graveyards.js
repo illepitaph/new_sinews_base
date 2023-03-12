@@ -93,25 +93,57 @@ export default function RivalGraveyards() {
       <h3 className={styles.poemTitle}>phased arrival</h3>
 
       <br />
-      <pre className={styles.poem}>{`EVANGEL	BLISSED ANGEL
-CRY ON SLEEP
-WET PEP
-VAULT OF TRUCKS
-& FERM
+      <br />
+      <pre className={styles.poem}>{`On the fireroads flying 
+from the stadium concavity of dust consumption 
+faces in Ferrari-crimson velvet Christmas 
+postcard gowns we lick like 
+beasts softfurred ensnared 
+to manumit the remnant electricity of God loose from us
 
-SITTER ANGEL	RIVET DIVOT
-MR SNEAKERS
-ROYAL OF NOISES
-THESE PEOPLE ARE SCHOLARS I AM NO ONE
 
-SAD CAT SCREAMING WHO! THE MOOD IS ON ME!
 
-GORGEOUSNESS OF MERE IMAGE DRAWN DOWN DARKNESS
-IT BLEEDS IT FALLS IT RECOVERS
-SHE TELLS ME MY BODY IS A SPIRITUAL LESSON
-INNER IS A DIMENSION HE SAYS LOOKING DOWN
-IT IS LEFT TO NO ONE
-IT’S THE WHOLE PICTURE`}</pre>
+Tell my mother I forgot 
+I was and shall remain 
+a medical receptionist lady 
+in the interstice of actual and toy 
+nanotech exits come to pass
+
+
+
+I tithed into the member rolls of rival 
+province-folk with service alley thirsts
+their prepaid legal service wealth summits 
+orphanage supply drive prayer waffle breakfasts
+tier one MVD customer service 
+positions one must splay for 
+the stay
+
+
+
+Until waiting’s much the same but soft and mediated 
+murder in pure darkness of a dome where they 
+control the rain
+
+
+
+Not to obfuscate my code I now 
+could have magazines 
+delivered is what I’m saying
+back issues one could tell as
+knife ads hewed slavishly to verdant landscape
+laser grids and thus one could appreciate 
+the magazine peoples’ savagely accelerating fate
+in those homogenized fangs of their white smilers
+though most of what my brain sticks on is language 
+language language
+until language one must leave it smells more shit than bleach 
+outside being mobbed up and famous feels how shopping in a clothes bank does`}</pre>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
       <br />
       <br />
       <br />
@@ -124,11 +156,34 @@ IT’S THE WHOLE PICTURE`}</pre>
       <h3 className={styles.poemTitleTwo}>golden great</h3>
 
       <br />
-      <pre className={styles.poem}>{`you appear to me through the episode
-           in which you are appearing as its shape
-           when i am seeing it the tree has two faces
-           the last one is contact
-           what is that of`}</pre>
+      <br />
+      <pre
+        className={styles.poem}
+      >{`All things as they tumble into being break in forceps 
+of a love: the timbres of our suffering—  what’s transmitted,
+winced at laughing— split new tongues;
+radio borrowed from a house whose master rots unfound
+shellacs the spraypainted 
+body I am miming from 
+in mockingly, incongruously gold
+antique electro on the shore.
+
+
+
+The cranes and excavators 
+whistle like two jet planes
+coming close to kiss,
+
+
+
+the unstaffed seasons. 
+The reaching sea foam green hand 
+from its weekend coins and snow.`}</pre>
+         <br />
+      <br />
+      <br />
+      <br />
+      <br />
       <br />
       <br />
       <br />
@@ -138,47 +193,36 @@ IT’S THE WHOLE PICTURE`}</pre>
       <br />
       <br />
 
-      <h3 className={styles.poemTitle}>the heaven of knitwear</h3>
+      <h3 className={styles.poemTitle}>wishbook</h3>
 
       <br />
-      <pre className={styles.poem}>{`a perfect, stupid tulip, dewdrop yellow
-                       hello my friend i do not confuse you
-
-           you come shaking the light from somewhere else
-  off
-       it’s a shower
-                                redemptive, misgrained, without hesitation
-                       visitor to the plasma vault, always again, not the thing
-
-           (1)
-
-                                  how do we align the incredible mirror
-                      simply bearing that it is read
-              here is the house, burning
-
-                               all properties of the house burning, the
-                      water flowing out of it, the firemen…
-
-            well, what is the thing that can bear?
-
-            bear things like “red”
+      <br />
+      <pre className={styles.poem}>{`What year it was: I’m dressed in 
+a western snap-buttoned 
+shirt a teacher who’s not
+mine has tucked into my corduroys. 
+I couldn’t stop crying: I sense
+that’s why I’m there in that glaringly 
+unoccupied and broken 
+slat-lighted page.
 
 
-                                  the form is the house being what it is as a house
-                       what makes it an eye is seeing
-           the nothing of a specific content
-the sanctuary is there by itself so on hand
-                      it was nice it
 
-                      red round solid day
-                      red gram fella thing
+A balaclavad-out, disfeatured 
+sad commando vowed by bayonet 
+to speechlessness monastic
+forges something psychic with a wolf—
 
-          a gel
 
-                                 at all times you decide what belongs together
-                      have to go back in myself and require something in there
-          the future of knitwear
-          the heaven`}</pre>
+
+the toy of that slack-jointed
+from compulsive
+posing’s why that is.`}</pre>
+        <br />
+      <br />
+      <br />
+      <br />
+      <br />
       <br />
       <br />
       <br />
@@ -188,8 +232,9 @@ the sanctuary is there by itself so on hand
       <br />
       <br />
 
-      <h3 className={styles.poemTitle}>art class</h3>
+      <h3 className={styles.poemTitleTwo}>Hollywood Stranger, Can I Live?</h3>
 
+      <br />
       <br />
       <pre className={styles.poem}>{`We want to eat teacher
 He gets on the ground
