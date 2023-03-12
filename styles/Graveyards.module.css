@@ -104,18 +104,16 @@
   .poem {
     margin-left: 1vw;
   }
-
 }
 
 @media (max-width: 835px) and (orientation: portrait) {
   .poem {
-    font-size:1.1rem;
-    margin-left:4vw;
+    font-size: 1.1rem;
+    margin-left: 4vw;
   }
 }
 
 @media (max-width: 812px) and (orientation: landscape) {
-
   .poem {
     font-size: 1.1rem;
   }
@@ -128,14 +126,12 @@
 }
 
 @media (max-width: 667px) and (orientation: landscape) {
-
   .poem {
     font-size: 0.9rem;
   }
 }
 
 @media (max-width: 541px) and (orientation: portrait) {
-
   .poem {
     margin-left: 2vw;
     font-size: 0.8rem;
@@ -151,7 +147,8 @@
     letter-spacing: 0.7rem;
   }
 
-  .poemTitle, .poemTitleTwo {
+  .poemTitle,
+  .poemTitleTwo {
     font-size: 1.6rem;
   }
 
@@ -162,8 +159,8 @@
 }
 
 @media (max-width: 405px) and (orientation: portrait) {
-
-  .poemTitle, .poemTitleTwo {
+  .poemTitle,
+  .poemTitleTwo {
     font-size: 1.4rem;
   }
 
@@ -174,8 +171,8 @@
 }
 
 @media (max-width: 354px) and (orientation: portrait) {
-
-  .poemTitle, .poemTitleTwo {
+  .poemTitle,
+  .poemTitleTwo {
     font-size: 1.2rem;
   }
 
@@ -186,8 +183,8 @@
 }
 
 @media (max-width: 354px) and (orientation: portrait) {
-
-  .poemTitle, .poemTitleTwo {
+  .poemTitle,
+  .poemTitleTwo {
     font-size: 1.2rem;
   }
 
