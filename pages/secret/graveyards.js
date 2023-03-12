@@ -443,8 +443,118 @@ Potluck funeral
 The lied to and abused 
 white mountain pickups
 park haphazardly on ice 
-in perpetually turned over California
+in perpetually turned over California`}
+      </pre>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+
+      <h3 className={styles.poemTitleTwo}>Intestasy</h3>
+
+      <br />
+      <br />
+      <pre className={styles.poem}>
+        <i>I</i>&#8217;<i>m retired</i>
+        {`, I maintain,  
+joke-surrendering my hands up,
+put in towncar
+by two suited, twenty-something relatives,
+two garage doors of cursed ice. 
+
+
+
+A distance from the skylights;
+waterflowerettes; crystal; brass; 
+attachments and the call 
+to echolocate
+where the crying’s coming from…
+
+
+
+This entire fucking
+Sunday-school-offered-warmth-
+in-the-viscera-of-an-imprisoned- 
+chiropractor’s-office’s
+country.
+
+
+
+What glitch usury?
+By whose exploit returneth overdrawn 
+the infant son?`}
+      </pre>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+
+      <h3 className={styles.poemTitle}>Lost Pilot</h3>
+
+      <br />
+      <br />
+      <pre className={styles.poem}>
+        {`The phonebook of my people is a dubbed
+Where’s Waldo orgy triptych tape of cabalistic sign code, 
+rival graveyards,
+Protestant and Catholic (who cares?)
+
+
+
+Pilgrims squire batteries and brides up trampled passes 
+in the chainlink that secures the border ditch 
+
+
+
+It doesn’t matter where you start
+
+
+
+They burgle the ingredients for soup out of your trunk,
+jumper cables, 
+a Polaroid too faded 
+to be damning now
+You’re buckling your battery
+in the car seat, 
+
+
+
+as it happens
+
+
+
+Trust me
+`}{" "}
+        <i>
+          I could swear he already died <br />
+          at least five years ago
+        </i>
+        {`? 
+is what you want 
+whispered of you. 
+
+
+
 `}
+        <i>Now he’s gone forever lol</i>
       </pre>
 
       <Footer />
