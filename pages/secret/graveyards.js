@@ -238,7 +238,7 @@ posing’s why that is.`}</pre>
       <br />
       <pre className={styles.poem}>
         {`You have to say `}
-        <i>I can&#8217;t</i>
+        <i>I can</i>&#8217;<i>t</i>
         <br />
         {`as you plead `}
         <i>mercy</i>
@@ -285,13 +285,14 @@ I can’t, myself, see past.`}
       <br />
       <br />
       <pre className={styles.poem}>
+        <i>Your employment is terminated as of today</i>, <br />
+        <i>as is your medical insurance</i>. <br />
         <i>
-          Your employment is terminated as of today, <br />
-          as is your medical insurance. <br />
           You have the option of continuing <br />
           your coverage under <br />
-          the COBRA act,
+          the COBRA act
         </i>
+        ,
         <br />
         {`I could hear myself recite. 
 He signed and peeled out 
@@ -351,25 +352,100 @@ at living next to you is all it ever was.`}
       <br />
       <br />
       <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
 
       <h3 className={styles.poemTitleTwo}>desire</h3>
+      <br />
+      <br />
+      <pre className={styles.poem}>
+        {`Late when I can’t sleep 
+I desire to give you these compliments.
+My eyes come morning won’t pass
+
+
+
+Face ID inspection but they’ll still be
+human’s eyes, 
+await in the dressed body
+
+
+of an animal.
+A subscription to these human’s eyes, await
+in the dressed bodies 
+
+
+of meat animals 
+that you can’t even keep up with. `}
+        <i>Why</i>
+        {`,
+you ask me as you ask
+
+
+
+yourself, `}{" "}
+        <i>
+          what cartel execution 
+          <br />
+          news ad did you click
+        </i>
+        ? If I&#8217;d been 
+        <br />
+        <i>childless</i>
+        {`: no trace
+
+
+
+on any cyborg shrieking down 
+the Martian tarmac of us;
+If I could choose a second stint 
+more abandoned to you`}
+      </pre>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+
+      <h3 className={styles.poemTitle}>Polaroid Handed to a Widow</h3>
 
       <br />
-      <pre
-        className={styles.poem}
-      >{`Karma, the huge dog, takes a shit in the grass
-Karma is in fact like a big sheep
-I had my eye right on her
-Karma come, come on, hey, hey miss, go play
-She jogs in a line toward the light pole`}</pre>
       <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
+      <pre className={styles.poem}>
+        {`Headshot smile at some festered
+blue arcanum
+splayed,
+and hair matted 
+to slab 
+
+
+
+High Street Bridge Self Storage
+
+
+
+Wind chime shimmer
+Potluck funeral
+
+
+
+The lied to and abused 
+white mountain pickups
+park haphazardly on ice 
+in perpetually turned over California
+`}
+      </pre>
 
       <Footer />
     </>
