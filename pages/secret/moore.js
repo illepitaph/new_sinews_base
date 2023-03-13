@@ -66,6 +66,7 @@ export default function Moore() {
       <br />
 
       <LeftBlackTitle>
+      <span className={styles.nameHeight}>
         <span className={styles.inverseNameShadow}>m</span> a
         <span className={styles.nameShadowUppercase}> t </span>
         <span className={styles.inverseNameShadow}>t</span>{" "}
@@ -87,6 +88,7 @@ export default function Moore() {
         <br />
         <span className={styles.specialCursive}>e</span>
         <br />
+        </span>
       </LeftBlackTitle>
 
       <br />
@@ -343,11 +345,73 @@ Blood’s Midas cannot ressurect breath.`}</pre>
       <br />
       <pre
         className={styles.poem}
-      >{`Karma, the huge dog, takes a shit in the grass
-Karma is in fact like a big sheep
-I had my eye right on her
-Karma come, come on, hey, hey miss, go play
-She jogs in a line toward the light pole`}</pre>
+      >{`i.
+      
+Portage, being the gross of all marches.
+The reverse military pageant detaches.
+Security sees the cowed parties off to sea.
+That sift over the waves to civilian death.
+
+
+The light, being the water’s excrement:
+Exile’s unction. Nowhere: agapē’s kiss;
+A cool breeze. Bora act. Then, a wind’s
+Marbled blue, and bone. No act. Zone.
+
+
+Wordlessly the sea keeps the occupation,
+Shores open, the prison gates stand agape.
+Impregnable, the Word hold. Portation
+Marches. Sufferings of movement are air.
+
+
+
+ii.
+
+The light, being the water’s excrement: 
+Shores open, the prison gates stand agape.
+Wordlessly the sea keeps the occupation,
+That sift, over the waves, to civilian death.
+
+
+Security sees the cowed parties off to sea.
+Marbled blue, and bone. No act. Zone.
+Impregnable, the Word hold. Portation:
+Exile’s unction. Nowhere: agapē’s kiss;
+
+
+A cool breeze. Bora act. Then, a wind’s
+Levantine. The forward military pageant
+Attaches. Portage being the gross of all
+Marches. Sufferings of movement are air.
+
+
+
+iii.
+
+I keep and you keep, without
+World through
+Revelations, without
+World through
+Reconciliation,
+The violations untouched.`}</pre>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+
+      <h3 className={styles.poemTitle}>sore</h3>
+      <br />
+      <br />
+      <pre className={styles.poem}>{`Old wound’s isinglass brightens to dying.
+Life’s memories’ squat.
+Justification would-struck. Could’s mask
+Forecastles, (and mars)
+A counting-out-game. Old can of Christ.`}</pre>
       <br />
       <br />
       <br />
