@@ -1,7 +1,7 @@
 .titleShadow {
     font-size:2.6rem;
     color:white;
-    text-shadow: 2px 5px 8px black, 4px 4px 14px #fcd667;
+    text-shadow: 2px 5px 8px black, 4px 4px 14px #d10000;
     letter-spacing:1rem;
   }
 
@@ -11,13 +11,13 @@
 
   .nameShadow {
     font-size: 3.7rem;
-    text-shadow: 1px 2px white, 3px 3px #fcd667, 4px 6px white, 7px 8px black, 9px 12px white, 11px 13px 16px gray;
+    text-shadow: 1px 2px white, 3px 3px #d10000, 4px 6px white, 7px 8px black, 9px 12px white, 11px 13px 16px gray;
     letter-spacing: 3rem;
   }
 
   .nameShadowUppercase {
     font-size: 3.7rem;
-    text-shadow: 1px 2px white, 3px 3px #fcd667, 4px 6px white, 7px 8px black, 9px 12px white, 11px 13px 16px gray;
+    text-shadow: 1px 2px white, 3px 3px #d10000, 4px 6px white, 7px 8px black, 9px 12px white, 11px 13px 16px gray;
     letter-spacing: 3rem;
     text-transform: uppercase;
   }
