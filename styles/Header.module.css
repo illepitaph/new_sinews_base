@@ -377,6 +377,10 @@
   background-image: url("../public/images/AutomationBackground.jpg");
 }
 
+.mooreBackground {
+  background-image: url("../public/images/MooreBackground.jpg");
+}
+
 @media (width: 1080px) and (height: 810px) {
   .siteNav > .dropDown > button,
   .home,

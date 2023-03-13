@@ -9,13 +9,13 @@ Moore.title =
 Moore.pieceName =
   "matthew moore ~ the once-hot-starred skies ++ the once-winkling irises ++ — new_sinews";
 Moore.description = "_Matthew Moore_poetry_7 POEMS_issue7_";
-Moore.image = "https://www.newnewsinews.com/images/GraveyardsBackground.jpg";
+Moore.image = "https://www.newnewsinews.com/images/MooreBackground.jpg";
 
 export default function Moore() {
   return (
     <>
       <Head />
-      <Header headerBackground="graveyardsBackground" />
+      <Header headerBackground="mooreBackground" />
 
       <br />
       <br />
