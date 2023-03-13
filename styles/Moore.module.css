@@ -1,7 +1,7 @@
 .titleShadow {
   font-size: 2.6rem;
   color: white;
-  text-shadow: 2px 5px 8px black, 4px 4px 14px #EE4B2B;
+  text-shadow: 2px 5px 8px black, 4px 4px 14px #ee4b2b;
   letter-spacing: 1rem;
 }
 
@@ -11,14 +11,14 @@
 
 .nameShadow {
   font-size: 3.7rem;
-  text-shadow: 1px 2px white, 3px 3px #EE4B2B, 4px 6px white, 7px 8px black,
+  text-shadow: 1px 2px white, 3px 3px #ee4b2b, 4px 6px white, 7px 8px black,
     9px 12px white, 11px 13px 16px gray;
   letter-spacing: 3rem;
 }
 
 .nameShadowUppercase {
   font-size: 3.7rem;
-  text-shadow: 1px 2px white, 3px 3px #EE4B2B, 4px 6px white, 7px 8px black,
+  text-shadow: 1px 2px white, 3px 3px #ee4b2b, 4px 6px white, 7px 8px black,
     9px 12px white, 11px 13px 16px gray;
   letter-spacing: 3rem;
   text-transform: uppercase;
@@ -39,12 +39,14 @@
 
 .poemTitle {
   max-width: 70vw;
-  font-family:"lores-21-serif", monospace;
+  font-family: "lores-9-plus-wide", monospace;
   font-weight: 600;
   font-style: normal;
   font-size: 4.2rem;
-  color: snow;
-  text-shadow: 4px 5px black, 6px 7px white, 8px 9px 12px #EE4B2B;
+  font-size: 3.7rem;
+  color: white;
+  text-shadow: 1px 2px black, 3px 3px #ee4b2b, 4px 6px white, 7px 8px black,
+    9px 12px white, 11px 13px 16px gray;
   letter-spacing: 1rem;
   line-height: 1.4em;
   margin-left: 18vw;
@@ -54,12 +56,14 @@
 
 .poemTitleTwo {
   max-width: 70vw;
-  font-family:"lores-21-serif", monospace;
+  font-family: "lores-9-plus-wide", monospace;
   font-weight: 600;
   font-style: normal;
   font-size: 4.2rem;
-  color: snow;
-  text-shadow: 4px 5px black, 6px 7px white, 8px 9px 12px #EE4B2B;
+  font-size: 3.7rem;
+  color: white;
+  text-shadow: 1px 2px black, 3px 3px #ee4b2b, 4px 6px white, 7px 8px black,
+    9px 12px white, 11px 13px 16px gray;
   letter-spacing: 1rem;
   line-height: 1.4em;
   margin-left: 18vw;
@@ -78,4 +82,3 @@
   line-height: 2.7em;
   margin-left: 23vw;
 }
-
