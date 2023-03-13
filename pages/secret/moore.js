@@ -74,11 +74,11 @@ export default function Moore() {
         <span className={styles.inverseNameShadow}> e </span>
         <i>w</i> <br />
         <br />
-        <span className={styles.mintAlternate}>m </span>
-        <span className={styles.inverseNameShadow}>o</span>
-        <span className={styles.nameShadowUppercase}>o</span>
-        <span className={styles.inverseNameShadow}>_</span> <i>r</i>{" "}
-        <span className={styles.nameShadow}>e</span>
+        <span className={styles.mintAlternate}>m </span><br/><br/>
+        <span className={styles.inverseNameShadow}>o</span><br/><br/>
+        <span className={styles.nameShadowUppercase}>o</span><br/><br/>
+        <span className={styles.inverseNameShadow}>_</span> <i>r</i>{" "}<br/><br/>
+        <span className={styles.nameShadow}>e</span><br/>
       </LeftBlackTitle>
 
       <br />
@@ -95,28 +95,26 @@ export default function Moore() {
       <br />
       <br />
 
-      <h3 className={styles.poemTitle}>phased arrival</h3>
+      <h3 className={styles.poemTitle}>unction</h3>
 
       <br />
-      <pre className={styles.poem}>{`EVANGEL	BLISSED ANGEL
-CRY ON SLEEP
-WET PEP
-VAULT OF TRUCKS
-& FERM
-
-SITTER ANGEL	RIVET DIVOT
-MR SNEAKERS
-ROYAL OF NOISES
-THESE PEOPLE ARE SCHOLARS I AM NO ONE
-
-SAD CAT SCREAMING WHO! THE MOOD IS ON ME!
-
-GORGEOUSNESS OF MERE IMAGE DRAWN DOWN DARKNESS
-IT BLEEDS IT FALLS IT RECOVERS
-SHE TELLS ME MY BODY IS A SPIRITUAL LESSON
-INNER IS A DIMENSION HE SAYS LOOKING DOWN
-IT IS LEFT TO NO ONE
-IT’S THE WHOLE PICTURE`}</pre>
+      <pre className={styles.poem}>{`Today could be last 
+Night.
+Spoke-dawn,
+Just so.
+Adige’s glass docks, for show,
+Arrive.
+Understandings
+Retreat.
+Little maiden bits and pieces.
+Against
+Dawn, mountains to
+House, beneath cool
+Noon, by the seaside.
+Chapter
+Of a sphere. Spatial enough to
+Hand you and I
+Longing. The hut. Earth’s lien.`}</pre>
       <br />
       <br />
       <br />
@@ -126,14 +124,113 @@ IT’S THE WHOLE PICTURE`}</pre>
       <br />
       <br />
 
-      <h3 className={styles.poemTitleTwo}>golden great</h3>
+      <h3 className={styles.poemTitleTwo}>naxalite flight</h3>
 
       <br />
-      <pre className={styles.poem}>{`you appear to me through the episode
-           in which you are appearing as its shape
-           when i am seeing it the tree has two faces
-           the last one is contact
-           what is that of`}</pre>
+      <pre className={styles.poem}>{`Were
+The
+Heart
+Not
+R
+U
+N
+On
+Sprung
+R
+H
+Y
+T
+H
+M
+Would
+The
+Heart
+Be
+R
+E
+D
+?
+
+
+Were
+The
+Forest
+Not
+F
+U
+G
+I
+T
+I
+V
+E
+Not
+A
+Verge,
+Would
+The
+Forest
+Hold
+Against
+The
+Police
+?
+The
+State
+?
+Were
+Food
+Not
+Gotten,
+S
+A
+T
+And
+H
+A
+D
+Together
+As
+G
+I
+V
+E
+N
+Would
+F
+O
+O
+D
+Be
+Food
+?
+
+
+The
+Ice
+F
+L
+O
+W
+E
+R
+S
+Burn,
+Is
+Their
+O
+R
+A
+N
+G
+E
+Color
+What
+Burns
+R
+E
+D
+?`}</pre>
       <br />
       <br />
       <br />
@@ -143,47 +240,26 @@ IT’S THE WHOLE PICTURE`}</pre>
       <br />
       <br />
 
-      <h3 className={styles.poemTitle}>the heaven of knitwear</h3>
+      <h3 className={styles.poemTitle}>dead friends</h3>
 
       <br />
-      <pre className={styles.poem}>{`a perfect, stupid tulip, dewdrop yellow
-                       hello my friend i do not confuse you
-
-           you come shaking the light from somewhere else
-  off
-       it’s a shower
-                                redemptive, misgrained, without hesitation
-                       visitor to the plasma vault, always again, not the thing
-
-           (1)
-
-                                  how do we align the incredible mirror
-                      simply bearing that it is read
-              here is the house, burning
-
-                               all properties of the house burning, the
-                      water flowing out of it, the firemen…
-
-            well, what is the thing that can bear?
-
-            bear things like “red”
-
-
-                                  the form is the house being what it is as a house
-                       what makes it an eye is seeing
-           the nothing of a specific content
-the sanctuary is there by itself so on hand
-                      it was nice it
-
-                      red round solid day
-                      red gram fella thing
-
-          a gel
-
-                                 at all times you decide what belongs together
-                      have to go back in myself and require something in there
-          the future of knitwear
-          the heaven`}</pre>
+      <pre className={styles.poem}>{`Rome’s alleys are washed in the blood of Fascist and anti-Fascist graffiti.
+Sentenced names. Fateful names. Helpless, the hands scrawl out fate.
+It is fate the perpetrators run guns for. Dead echoes. Carnate remnants.
+Heaven’s contingencies. Observation cannot allay breath’s prejudice.
+Thrush hides low in the heart’s bush, still, and beating, between thorns
+And dust, under the needle of the moon against the dungeon’s shaft,
+The four shafts, cut into the four walls, so narrow, each admits a thread
+Of moonlight, four needles weaving four threads for starlight’s dress,
+Dunning the floor of the dungeon for cloth-light, air clotted with vision.
+The dungeons are washed in the blood of anti-Fascists, and partisans,
+Of noms de guerre who La Decima tortured and killed, score after score.
+Fascism’s operatives are beholden to its targets and all its brigandries,
+Including love and torture, form its grammar, the lines its tongue trawls,
+On wanton ropes of blood, if sea snails and brass shells hug, noosing,
+By arms, and legs, and necks, asemic populations of breath, and hoisted up
+Corpses, enfleshed in every room by fires and knives mutilations hide,
+In every room no vacancy keeps, to parody, thus unite, a residence on earth.`}</pre>
       <br />
       <br />
       <br />
@@ -193,7 +269,7 @@ the sanctuary is there by itself so on hand
       <br />
       <br />
 
-      <h3 className={styles.poemTitle}>art class</h3>
+      <h3 className={styles.poemTitleTwo}>zone</h3>
 
       <br />
       <pre className={styles.poem}>{`We want to eat teacher
