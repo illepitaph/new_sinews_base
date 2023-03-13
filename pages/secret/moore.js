@@ -74,11 +74,19 @@ export default function Moore() {
         <span className={styles.inverseNameShadow}> e </span>
         <i>w</i> <br />
         <br />
-        <span className={styles.mintAlternate}>m </span><br/><br/>
-        <span className={styles.inverseNameShadow}>o</span><br/><br/>
-        <span className={styles.nameShadowUppercase}>o</span><br/><br/>
-        <span className={styles.inverseNameShadow}>_</span> <i>r</i>{" "}<br/><br/>
-        <span className={styles.specialCursive}>e</span><br/>
+        <span className={styles.mintAlternate}>m </span>
+        <br />
+        <br />
+        <span className={styles.inverseNameShadow}>o</span>
+        <br />
+        <br />
+        <span className={styles.nameShadowUppercase}>o</span>
+        <br />
+        <br />
+        <span className={styles.inverseNameShadow}>_</span> <i>r</i> <br />
+        <br />
+        <span className={styles.specialCursive}>e</span>
+        <br />
       </LeftBlackTitle>
 
       <br />
@@ -96,7 +104,7 @@ export default function Moore() {
       <br />
 
       <h3 className={styles.poemTitle}>unction</h3>
-
+      <br />
       <br />
       <pre className={styles.poem}>{`Today could be last 
 Night.
@@ -125,7 +133,7 @@ Longing. The hut. Earth’s lien.`}</pre>
       <br />
 
       <h3 className={styles.poemTitleTwo}>naxalite flight</h3>
-
+      <br />
       <br />
       <pre className={styles.poem}>{`Were
 The
@@ -241,9 +249,11 @@ D
       <br />
 
       <h3 className={styles.poemTitle}>dead friends</h3>
-
       <br />
-      <pre className={styles.poem}>{`Rome’s alleys are washed in the blood of Fascist and anti-Fascist graffiti.
+      <br />
+      <pre
+        className={styles.poem}
+      >{`Rome’s alleys are washed in the blood of Fascist and anti-Fascist graffiti.
 Sentenced names. Fateful names. Helpless, the hands scrawl out fate.
 It is fate the perpetrators run guns for. Dead echoes. Carnate remnants.
 Heaven’s contingencies. Observation cannot allay breath’s prejudice.
@@ -270,50 +280,32 @@ In every room no vacancy keeps, to parody, thus unite, a residence on earth.`}</
       <br />
 
       <h3 className={styles.poemTitleTwo}>zone</h3>
-
-      <br />
-      <pre className={styles.poem}>{`We want to eat teacher
-He gets on the ground
-When we make the child trap
-He looks even more
-Edible on the ground`}</pre>
       <br />
       <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-
-      <h3 className={styles.poemTitle}>
-        survival of the smile of the cheshire cat
-      </h3>
-
-      <br />
-      <pre className={styles.poem}>{`half whose mind is gearing in a wheel
-
-“I have turned a cake into something else” (Pierre Hermé)
-
-so a smile was there on her
-
-dry white face
-
-the slow air in an
-
-air roll
-
-slowly something was there obtaining permission
-
-what was the permission?
-
-it was obtained
-
-feel through it like a sour stone
-
-fell
-
-the facts are constantly about me`}</pre>
+      <pre className={styles.poem}>{`Words
+increase,
+they
+cannot
+be
+increased,
+they
+incarnate
+now
+to
+warrant
+due,
+as
+smoke-clouds
+on
+the
+mountain
+ash,
+beleaguer,
+in
+qualities
+as
+if
+snow.`}</pre>
       <br />
       <br />
       <br />
@@ -323,8 +315,31 @@ the facts are constantly about me`}</pre>
       <br />
       <br />
 
-      <h3 className={styles.poemTitle}>the simplest case of participation</h3>
+      <h3 className={styles.poemTitle}>apsidal</h3>
+      <br />
+      <br />
+      <pre className={styles.poem}>{`Winter, the fire of clarity
+The once-hot-starred skies draw closer.
+      
+      
+Winter, the feudal desire
+The once-winkling irises fix, their steel.
+      
+      
+Winter, the hot and cold
+Blood’s Midas cannot ressurect breath.`}</pre>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
 
+      <h3 className={styles.poemTitleTwo}>poem for walter benjamin</h3>
+
+      <br />
       <br />
       <pre
         className={styles.poem}
