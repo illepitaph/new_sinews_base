@@ -1,36 +1,38 @@
 .titleShadow {
-    font-size:2.6rem;
-    color:white;
-    text-shadow: 2px 5px 8px black, 4px 4px 14px #d10000;
-    letter-spacing:1rem;
-  }
+  font-size: 2.6rem;
+  color: white;
+  text-shadow: 2px 5px 8px black, 4px 4px 14px #d10000;
+  letter-spacing: 1rem;
+}
 
-  .uppercase {
-    text-transform: uppercase;
-  }
+.uppercase {
+  text-transform: uppercase;
+}
 
-  .nameShadow {
-    font-size: 3.7rem;
-    text-shadow: 1px 2px white, 3px 3px #d10000, 4px 6px white, 7px 8px black, 9px 12px white, 11px 13px 16px gray;
-    letter-spacing: 3rem;
-  }
+.nameShadow {
+  font-size: 3.7rem;
+  text-shadow: 1px 2px white, 3px 3px #d10000, 4px 6px white, 7px 8px black,
+    9px 12px white, 11px 13px 16px gray;
+  letter-spacing: 3rem;
+}
 
-  .nameShadowUppercase {
-    font-size: 3.7rem;
-    text-shadow: 1px 2px white, 3px 3px #d10000, 4px 6px white, 7px 8px black, 9px 12px white, 11px 13px 16px gray;
-    letter-spacing: 3rem;
-    text-transform: uppercase;
-  }
+.nameShadowUppercase {
+  font-size: 3.7rem;
+  text-shadow: 1px 2px white, 3px 3px #d10000, 4px 6px white, 7px 8px black,
+    9px 12px white, 11px 13px 16px gray;
+  letter-spacing: 3rem;
+  text-transform: uppercase;
+}
 
-  .inverseNameShadow {
-    font-size: 4.1rem;
-    color: white;
-    text-shadow: 4px 4px black, 6px 6px 16px dimgray;
-    text-transform: uppercase;
-  }
+.inverseNameShadow {
+  font-size: 4.1rem;
+  color: white;
+  text-shadow: 4px 4px black, 6px 6px 16px dimgray;
+  text-transform: uppercase;
+}
 
-  .specialCursive {
-    font-size: 5.5rem;
-    font-family: "bickham-script-pro-3", sans-serif;
-    font-weight: 400;
-  }
+.specialCursive {
+  font-size: 5.5rem;
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-weight: 400;
+}

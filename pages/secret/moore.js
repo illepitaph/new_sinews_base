@@ -69,7 +69,8 @@ export default function Moore() {
         <span className={styles.inverseNameShadow}>m</span> a
         <span className={styles.nameShadowUppercase}> t </span>
         <span className={styles.inverseNameShadow}>t</span>{" "}
-        <span className={styles.nameShadow}>_ </span><span className={styles.specialCursive}>h</span>
+        <span className={styles.nameShadow}>_ </span>
+        <span className={styles.specialCursive}>h</span>
         <span className={styles.inverseNameShadow}> e </span>
         <i>w</i> <br />
         <br />
