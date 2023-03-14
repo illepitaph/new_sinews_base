@@ -1,0 +1,29 @@
+.titleShadow {
+    display: inline-block;
+    font-size: 4.3rem;
+    color: black;
+    text-shadow: 2px 2px snow, 6px 6px #aaf0d1;
+    letter-spacing: 1.7rem;
+    transform: skew(19deg, 1.4deg);
+  }
+  
+  .inverseShadow {
+    color: #aaf0d1;
+    text-shadow: 3px 5px black;
+  }
+  
+  .titleShadowUppercase {
+    color: black;
+    text-shadow: 2px 2px snow, 4px 4px #b0b0b0;
+    text-transform: uppercase;
+  }
+  
+  .inverseShadowUppercase {
+    color: #aaf0d1;
+    text-shadow: 2px 2px snow, 4px 5px black;
+    text-transform: uppercase;
+  }
+
+  .extraMargin {
+    margin-left:7vw;
+  }

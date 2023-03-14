@@ -1,10 +1,9 @@
 import Head from "next/head";
 import Header from "../../components/header.js";
-import RightBlackTitle from "../../components/rightBlackTitle.js";
 import LeftGrayTitle from "../../components/leftGrayTitle.js";
 import StandardProse from "../../components/standardProse.js";
 import Footer from "../../components/footer.js";
-import styles from "../../styles/Guanyin.module.css";
+import styles from "../../styles/Needle.module.css";
 Needle.title = "atsushi ikeda ~ needle stalked — new_sinews";
 Needle.pieceName = "atsushi ikeda ~ needle stalked — new_sinews";
 Needle.description = "_Atsushi Ikeda_fiction_NEEDLE STALKED_new_sinews_issue7_";
@@ -19,21 +18,46 @@ export default function Needle() {
       <br />
       <br />
       <LeftGrayTitle>
-        <span className={styles.title}>needle stalked</span>
+        <span className={styles.titleShadow}>
+          —<span className={styles.inverseShadowUppercase}>—</span>a
+          <span className={styles.inverseShadowUppercase}>t</span>s
+          <span className={styles.inverseShadowUppercase}>u</span>s
+          <span className={styles.titleShadowUppercase}>h</span>
+          <span className={styles.inverseShadow}>i</span> i
+          <span className={styles.inverseShadow}>k</span>
+          <span className={styles.titleShadowUppercase}>e</span>
+          <span className={styles.inverseShadow}>d</span>a
+        </span>
       </LeftGrayTitle>
-      <br/>
-      <br/>
-      <br/>
-      <RightBlackTitle>
-        <span className={styles.title}>——atsushi ikeda</span>
-      </RightBlackTitle>
       <br />
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
+      <br />
+      <br />
+      <br />
+      <LeftGrayTitle>
+        <span className={styles.title}>
+          <span className={styles.titleShadow}>
+            <span className={styles.inverseShadow}>n</span>
+            <span className={styles.titleShadowUppercase}>e</span>
+            <span className={styles.inverseShadowUppercase}>e</span>d
+            <span className={styles.inverseShadowUppercase}>l</span>
+            <span className={styles.titleShadowUppercase}>e</span>{" "}
+            <span className={styles.extraMargin}>
+              <span className={styles.inverseShadow}>s</span>
+              <span className={styles.titleShadowUppercase}>t</span>
+              <span className={styles.inverseShadow}>a</span>
+              <span className={styles.inverseShadowUppercase}>l</span>k
+              <span className={styles.titleShadowUppercase}>e</span>
+              <span className={styles.inverseShadow}>d</span>
+            </span>
+          </span>
+        </span>
+      </LeftGrayTitle>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
       <StandardProse>
         hurry, tense to steel before the pen touches, tense, tense. constant
         nude, hurry, there’s anything and anyone there, in the wardrobe of your
