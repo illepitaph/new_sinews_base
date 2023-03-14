@@ -107,7 +107,7 @@
   }
 }
 
-@media (max-width: 667px) and (orientation: landscape) {
+@media (max-width: 721px) and (orientation: landscape) {
 
   .poem {
     font-size: 0.96rem;
