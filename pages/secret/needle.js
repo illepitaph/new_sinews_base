@@ -15,15 +15,16 @@ export default function Needle() {
       <Head />
 
       <Header headerBackground="guanyinBackground" />
-      <br />
-      <br />
       <LeftGrayTitle>
         <span className={styles.titleShadow}>
-          —<span className={styles.inverseShadowUppercase}>—</span>a
+          <span className={styles.inverseShadowUppercase}>—</span>—
+          <span className={styles.inverseShadowUppercase}>—</span>a
           <span className={styles.inverseShadowUppercase}>t</span>s
           <span className={styles.inverseShadowUppercase}>u</span>s
           <span className={styles.titleShadowUppercase}>h</span>
-          <span className={styles.inverseShadow}>i</span> i
+          <span className={styles.inverseShadow}>i</span>
+          <br />
+          &gt; <span className={styles.inverseShadow}>&gt;</span> &gt; i
           <span className={styles.inverseShadow}>k</span>
           <span className={styles.titleShadowUppercase}>e</span>
           <span className={styles.inverseShadow}>d</span>a
@@ -40,7 +41,11 @@ export default function Needle() {
             <span className={styles.titleShadowUppercase}>e</span>
             <span className={styles.inverseShadowUppercase}>e</span>d
             <span className={styles.inverseShadowUppercase}>l</span>
-            <span className={styles.titleShadowUppercase}>e</span>{" "}
+            <span className={styles.titleShadowUppercase}>e</span>
+            <br />
+            <span className={styles.inverseShadow}>&gt;</span>&gt;
+            <span className={styles.inverseShadow}>&gt;</span> &gt;
+            <span className={styles.inverseShadow}>&gt;</span>&gt;
             <span className={styles.extraMargin}>
               <span className={styles.inverseShadow}>s</span>
               <span className={styles.titleShadowUppercase}>t</span>
