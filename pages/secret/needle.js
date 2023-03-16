@@ -20,7 +20,6 @@ export default function Needle() {
       <br />
       <br />
       <br />
-      <br />
       <LeftGrayTitle>
         <span className={styles.titleShadow}>
           <span className={styles.inverseShadowUppercase}>—</span>—

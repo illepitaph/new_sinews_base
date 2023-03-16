@@ -8,8 +8,8 @@
   }
   
   .inverseShadow {
-    color: #aaf0d1;
-    text-shadow: 3px 5px black;
+    color: snow;
+    text-shadow: 1px 1px black, 5px 5px #aaf0d1, 7px 9px black;
   }
   
   .titleShadowUppercase {
@@ -19,8 +19,8 @@
   }
   
   .inverseShadowUppercase {
-    color: #aaf0d1;
-    text-shadow: 2px 2px snow, 4px 5px black;
+    color: snow;
+    text-shadow: 1px 1px black, 3px 5px #aaf0d1, 7px 9px black;
     text-transform: uppercase;
   }
 
