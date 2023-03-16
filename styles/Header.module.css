@@ -381,6 +381,11 @@
   background-image: url("../public/images/MooreBackground.jpg");
 }
 
+.needleBackground {
+  background-image: url("../public/images/NeedleBackground.jpg");
+}
+
+
 @media (width: 1080px) and (height: 810px) {
   .siteNav > .dropDown > button,
   .home,

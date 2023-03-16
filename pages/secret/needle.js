@@ -7,14 +7,20 @@ import styles from "../../styles/Needle.module.css";
 Needle.title = "atsushi ikeda ~ needle stalked — new_sinews";
 Needle.pieceName = "atsushi ikeda ~ needle stalked — new_sinews";
 Needle.description = "_Atsushi Ikeda_fiction_NEEDLE STALKED_new_sinews_issue7_";
-Needle.image = "https://www.newnewsinews.com/images/GuanyinBackground.jpg";
+Needle.image = "https://www.newnewsinews.com/images/NeedleBackground.jpg";
 
 export default function Needle() {
   return (
     <>
       <Head />
 
-      <Header headerBackground="guanyinBackground" />
+      <Header headerBackground="needleBackground" />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
       <LeftGrayTitle>
         <span className={styles.titleShadow}>
           <span className={styles.inverseShadowUppercase}>—</span>—
@@ -58,16 +64,52 @@ export default function Needle() {
         </span>
       </LeftGrayTitle>
       <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
       <StandardProse>
         hurry, tense to steel before the pen touches, tense, tense. constant
         nude, hurry, there’s anything and anyone there, in the wardrobe of your
         eyes. my camera is saying go out with dignity. yes there’s armor no
         won’t sink you don’t be petty about it. you gonna, you gonna?
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
         <br />
         <br />
         <br />
@@ -85,8 +127,42 @@ export default function Needle() {
         <br />
         <br />
         <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
         imitation gold. lapis, brine, the glowing map. a ball of rubber bands
         which was which was the sweet suffering of all hands.
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
         <br />
         <br />
         <br />
@@ -96,11 +172,41 @@ export default function Needle() {
         <br />
         <br />
         <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
         that particle, that beat of silence, pinched laugh, a likeness to
         everything else. did you live up to it? did it leave you too alone? i
         don’t know either but now now you’ve landed here, damaged goods. so you
         gonna do it in the right order, strong thing, open bag, you still gonna
         run?
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
       </StandardProse>
 
       <Footer />
