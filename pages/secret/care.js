@@ -4,48 +4,37 @@ import RightBlackTitle from "../../components/rightBlackTitle.js";
 import LeftGrayTitle from "../../components/leftGrayTitle.js";
 import StandardProse from "../../components/standardProse.js";
 import Footer from "../../components/footer.js";
-import styles from "../../styles/Personae.module.css";
-Personae.title = "julia shiota ~ dramatis personae — new_sinews";
-Personae.pieceName = "julia shiota ~ dramatis personae — new_sinews";
-Personae.description =
-  "_Julia Shiota_fiction_DRAMATIS PERSONAE_news_sinews_issue7_";
-Personae.image = "https://www.newnewsinews.com/images/PersonaeBackground.jpg";
+import styles from "../../styles/Care.module.css";
+Care.title = "genta nishku ~ personal care — new_sinews";
+Care.pieceName = "genta nishku ~ personal care — new_sinews";
+Care.description = "_Genta Nishku_fiction_PERSONAL CARE_news_sinews_issue7_";
+Care.image = "https://www.newnewsinews.com/images/PersonaeBackground.jpg";
 
-export default function Personae() {
+export default function Care() {
   return (
     <>
       <Head />
 
       <Header headerBackground="personaeBackground" />
       <LeftGrayTitle>
-        <div className={styles.margin}>
-          <span className={styles.faintShadowMain}>
-            d<span className={styles.uppercaseFaintShadow}>r</span>
-            <span className={styles.alternateTitleColor}>a</span>
-            <span className={styles.faintShadowMainTwo}>
-              <span className={styles.uppercaseFaintShadow}>m</span>a
-              <span className={styles.alternateTitleColor}>t</span>
-            </span>
-            <span className={styles.faintShadowMainThree}>
-              i
-              <span className={styles.uppercaseFaintShadow}>
-                <span className={styles.uppercaseAlternateTitleColor}>s</span>
-              </span>
-            </span>
-          </span>
-        </div>
-      </LeftGrayTitle>
-      <LeftGrayTitle>
-        <div className={styles.marginTwo}>
-          <span className={styles.faintShadowMainFour}>
-            <span className={styles.uppercaseAlternateTitleColor}>p</span>
-            <span className={styles.alternateTitleColorGray}>e</span>
-            <span className={styles.uppercaseFaintShadow}>r</span>
-            <span className={styles.uppercaseAlternateTitleColor}>s</span>o
-            <span className={styles.alternateTitleColor}>n</span>a
-            <span className={styles.alternateTitleColor}>e</span>
-          </span>
-        </div>
+        <br />
+        <span className={styles.titleShadow}>
+          <span className={styles.inverseShadowUppercase}>&gt;</span>&gt;
+          <span className={styles.inverseShadowUppercase}>&gt;</span>
+          <span className={styles.inverseShadow}>p </span>
+          <span className={styles.titleShadowUppercase}>e </span>
+          <span className={styles.inverseShadowUppercase}>r </span>p
+          <span className={styles.inverseShadowUppercase}>e </span>
+          <span className={styles.titleShadowUppercase}>t </span>
+          <span className={styles.inverseShadow}>u </span>a 
+          <span className={styles.inverseShadowUppercase}>l</span>
+          <br />
+          <br />
+          <br />
+          &lt; <span className={styles.inverseShadow}>&lt;</span> &lt; c 
+          <span className={styles.inverseShadowUppercase}> A </span>r 
+          <span className={styles.inverseShadowUppercase}>E </span>
+        </span>
       </LeftGrayTitle>
       <br />
       <br />
@@ -391,11 +380,11 @@ export default function Personae() {
         <br />
         <br />
         <br />
-        &#8220;Your movement is still completely wrong!&#8221; 
+        &#8220;Your movement is still completely wrong!&#8221;
         <br />
         <br />
-        Oiwa&#8217;s voice and its echo buzzed in Suiko&#8217;s head, making her teeth stand
-        on edge.
+        Oiwa&#8217;s voice and its echo buzzed in Suiko&#8217;s head, making her
+        teeth stand on edge.
         <br />
         <br />
         She was growing weary of this haunting and of the smothering dampness
@@ -424,10 +413,10 @@ export default function Personae() {
         Suiko sighed, rubbing at the tension pounding in her temples.
         <br />
         <br />
-        &#8220;And how exactly do I <i>lessen my being</i>?&#8221; She asked, &#8220;I
-        am still very alive and corporeal, so there is not much I can do about
-        being embodied. Besides, I&#8217;m much closer to achieving whatever
-        perfection you are after than any other human actor would be,
+        &#8220;And how exactly do I <i>lessen my being</i>?&#8221; She asked,
+        &#8220;I am still very alive and corporeal, so there is not much I can
+        do about being embodied. Besides, I&#8217;m much closer to achieving
+        whatever perfection you are after than any other human actor would be,
         aren&#8217;t I? Why isn&#8217;t this good enough for you?&#8221; As she
         spoke, she felt her frustration mounting, &#8220;You&#8217;re lucky
         I&#8217;m even listening to you! What right do you have to come in here
