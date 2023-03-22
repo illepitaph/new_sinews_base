@@ -24,6 +24,20 @@
     text-transform: uppercase;
   }
 
+  .alternateTitleColor {
+    font-family: "bickham-script-pro-3", sans-serif;
+    font-size: 6.3rem;
+    color: black;
+    text-shadow: 4px 4px snow, 8px 8px gainsboro;
+  }
+
+  .alternateTitleColorBigger {
+    font-family: "bickham-script-pro-3", sans-serif;
+    font-size: 10.3rem;
+    color: black;
+    text-shadow: 4px 4px snow, 8px 8px gainsboro;
+  }
+
   .authorName {
     font-size: 5.5rem;
     font-family: "bickham-script-pro-3", sans-serif;
