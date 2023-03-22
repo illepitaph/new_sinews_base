@@ -1,29 +1,39 @@
 .titleShadow {
-    display: inline-block;
-    font-size: 4.3rem;
-    color: black;
-    text-shadow: 2px 2px snow, 6px 6px #aaf0d1;
-    letter-spacing: 1.7rem;
-    transform: skew(19deg, 1.4deg);
-  }
-  
-  .inverseShadow {
-    color: snow;
-    text-shadow: 1px 1px black, 5px 5px #aaf0d1, 7px 9px black;
-  }
-  
-  .titleShadowUppercase {
-    color: black;
-    text-shadow: 2px 2px snow, 4px 4px #b0b0b0;
-    text-transform: uppercase;
-  }
-  
-  .inverseShadowUppercase {
-    color: snow;
-    text-shadow: 1px 1px black, 3px 5px #aaf0d1, 7px 9px black;
-    text-transform: uppercase;
-  }
+  display: inline-block;
+  font-size: 4.3rem;
+  color: black;
+  text-shadow: 2px 2px snow, 6px 6px #aaf0d1;
+  letter-spacing: 1.7rem;
+  transform: skew(19deg, 1.4deg);
+}
 
-  .extraMargin {
-    margin-left:7vw;
-  }
+.inverseShadow {
+  color: snow;
+  text-shadow: 1px 1px black, 5px 5px #aaf0d1, 7px 9px black;
+}
+
+.titleShadowUppercase {
+  color: black;
+  text-shadow: 2px 2px snow, 4px 4px #b0b0b0;
+  text-transform: uppercase;
+}
+
+.inverseShadowUppercase {
+  color: snow;
+  text-shadow: 1px 1px black, 3px 5px #aaf0d1, 7px 9px black;
+  text-transform: uppercase;
+}
+
+.extraMargin {
+  margin-left: 7vw;
+}
+
+.shadowOne {
+  font-size: 1.9rem;
+  font-family: "lores-9-plus-wide", monospace;
+  font-weight: 700;
+  color: black;
+  text-shadow: 2px 2px white, 3px 3px black, 4px 4px white, 5px 5px black;
+  letter-spacing: 0.1rem;
+  text-transform: uppercase;
+}
