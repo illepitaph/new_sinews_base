@@ -1,6 +1,5 @@
 import Head from "next/head";
 import Header from "../../components/header.js";
-import RightBlackTitle from "../../components/rightBlackTitle.js";
 import LeftGrayTitle from "../../components/leftGrayTitle.js";
 import StandardProse from "../../components/standardProse.js";
 import Footer from "../../components/footer.js";
@@ -8,14 +7,14 @@ import styles from "../../styles/Care.module.css";
 Care.title = "genta nishku ~ personal care — new_sinews";
 Care.pieceName = "genta nishku ~ personal care — new_sinews";
 Care.description = "_Genta Nishku_fiction_PERSONAL CARE_news_sinews_issue7_";
-Care.image = "https://www.newnewsinews.com/images/PersonaeBackground.jpg";
+Care.image = "https://www.newnewsinews.com/images/CareBackground.jpg";
 
 export default function Care() {
   return (
     <>
       <Head />
 
-      <Header headerBackground="personaeBackground" />
+      <Header headerBackground="careBackground" />
       <LeftGrayTitle>
         <br />
         <span className={styles.titleShadow}>
@@ -40,10 +39,13 @@ export default function Care() {
       <br />
       <br />
       <br />
+      <br />
+      <br />
+      <br />
       <div className={styles.authorName}>
         {" "}
-        <span className={styles.ellipses}>...</span> julia <br />{" "}
-        <span className={styles.ellipses}>...</span>shiota{" "}
+        <span className={styles.ellipses}>...</span> genta <br />{" "}
+        <span className={styles.ellipses}>...</span>nishku{" "}
       </div>
       <br />
       <br />

@@ -385,6 +385,10 @@
   background-image: url("../public/images/NeedleBackground.jpg");
 }
 
+.careBackground {
+  background-image: url("../public/images/CareBackground.jpg");
+}
+
 
 @media (width: 1080px) and (height: 810px) {
   .siteNav > .dropDown > button,

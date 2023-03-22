@@ -23,3 +23,18 @@
     text-shadow: 1px 1px black, 3px 5px #aaf0d1, 7px 9px black;
     text-transform: uppercase;
   }
+
+  .authorName {
+    font-size: 5.5rem;
+    font-family: "bickham-script-pro-3", sans-serif;
+    font-weight: 400;
+    text-align: right;
+    text-transform: lowercase;
+    letter-spacing: -0.02rem;
+    line-height: 0.8em;
+    margin: 1vh 7vw 7vh 0;
+  }
+  
+  .ellipses {
+    letter-spacing: 3rem;
+  }
