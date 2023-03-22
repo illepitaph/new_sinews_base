@@ -24,7 +24,7 @@ export default function Care() {
           <span className={styles.inverseShadow}>p</span>
           <span className={styles.titleShadowUppercase}>e </span>
           <span className={styles.inverseShadowUppercase}>r</span>p
-          <span className={styles.inverseShadowUppercase}>e </span>
+          <span className={styles.inverseShadowUppercase}>e</span>
           <span className={styles.titleShadowUppercase}>t </span>
           <span className={styles.inverseShadow}>u </span>a 
           <span className={styles.inverseShadowUppercase}>l</span>
