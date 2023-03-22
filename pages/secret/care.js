@@ -91,10 +91,10 @@ export default function Care() {
         if dictated by the rule of thirds, there was an unsealed envelope with a
         piece of yellow paper sticking out. The letter was sent in 1963 by a
         Cemetery in Long Island, and had been addressed to a certain{" "}
-        <span className={styles.grayShadow}>------- ------</span> of
-        Brooklyn. Inside, I found two receipts for the perpetual care
-        <span className={styles.grayShadow}>------- ------</span>,
-        husband and wife.
+        <span className={styles.grayShadow}>------- ------</span> of Brooklyn.
+        Inside, I found two receipts for the perpetual care of cemetery plots,
+        ones of <span className={styles.grayShadow}>------- ------</span> and
+        <span className={styles.grayShadow}>------- ------</span>, husband and wife.
         <br />
         <br />
         <br />
