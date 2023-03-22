@@ -53,3 +53,12 @@
   .ellipses {
     letter-spacing: 3rem;
   }
+
+  .grayShadow {
+    display:inline-block;
+    margin:0 0.2vw;
+    font-size:2.2rem;
+    color:silver;
+    font-family: "lores-9-plus-wide", monospace;
+    text-shadow: 1px 1px white, 3px 3px #aaf0d1, 5px 5px black;
+  }
