@@ -10,7 +10,7 @@
   
   .inverse {
     color: black;
-    text-shadow: 4px 4px snow, 6px 6px #b0b0b0;
+    text-shadow: 4px 4px snow, 6px 6px #b0b0b0, 8px 8px snow, 16px 16px #b0b0b0;
   }
   
   .duskShadowUppercase {
@@ -21,7 +21,7 @@
   
   .inverseUppercase {
     color: black;
-    text-shadow: 4px 4px snow, 6px 6px #b0b0b0;
+    text-shadow: 4px 4px snow, 6px 6px #b0b0b0, 8px 8px snow, 12px 12px #b0b0b0;
     text-transform: uppercase;
   }
 
