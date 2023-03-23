@@ -313,6 +313,74 @@ export default function Care() {
         way to Coney Island.
         <br />
         <br />
+        Mermaid Avenue is a long street. Every block contains the same
+        combination of businesses: a deli advertising their sandwiches, a small
+        market with crates of fruit outside, an empty restaurant, a bank, a
+        dentist’s office. In the two or three floors above these storefronts,
+        lives unfolded unbeknownst to one other. How could I think I’d ever know
+        anything about them, when I couldn’t uncover even the most basic clue
+        about<span className={styles.grayShadow}> ------ </span>in the
+        neighborhoods where they lived for so many years.
+        <br />
+        <br />
+        It began to feel hopeless.
+        <br />
+        <br />
+        In my search the previous day, I had come across a long interview with
+        one of the couple’s children. “Our family was very normal,” he had said,
+        “we did what was expected of us: hard and honest work every day, and
+        dinner at home each evening.” Then, he added: “But there was always
+        music. My mother sang constantly, while ironing or cooking, and my
+        father played all sorts of melodies on our piano or his harmonica. And
+        us kids, too, would hum and practice instruments, so there was always
+        some kind of sound at home. Often, it would be the combination of
+        multiple people singing, an unplanned and directionless chorus, where
+        you could never make out what was being sung or by whom.”
+        <br />
+        <br />
+        Maybe that was it, I thought. Maybe I was fascinated by how simply and
+        seriously these strangers had made beauty into a way of life, how they
+        had resisted the tyranny of the formula. It seemed that, underneath the
+        veneer of the conventional conveyed by the documents I had found in the
+        archives, there was something undefinable about this family, something
+        that endured even the scrutiny of time and the demands of the story.
+        <br />
+        <br />
+        I was getting tired.
+        <br />
+        <br />
+        I entered the first bakery I noticed on that block, its windows crowded
+        with loaves of bread, rows of Italian cookies, and the morning’s stale
+        bagels. I needed something to eat, ordered a sandwich at the counter,
+        and paced back and forth while waiting for the food to be ready. The
+        interior smelled of yeast, sugar, warm cinnamon, orange and chocolate. I
+        thought of the perfume stores on my street and wondered if perfumers
+        came to nondescript bakeries like this one, in order to scope out
+        inviting aromas before replicating them for mass consumption.
+        <br />
+        <br />
+        On one of the bakery’s walls, there were photographs from key moments in
+        the story of the business. In one of them, two men stood smiling, their
+        arms crossed. Under the photo, a caption identified them as the original
+        owner of the bakery, and his employee
+        <span className={styles.grayShadow}> ------ </span>, one of the sons of
+        the family I had been looking for all day. He had worked there, and so,
+        they had lived nearby, this much was certain. Was this the permission I
+        needed to speculate, freely, about their lives?
+        <br />
+        <br />
+        The woman at the counter wore topaz earrings, they sparkled in whatever
+        afternoon sun managed to penetrate the crammed windows. I wondered if I
+        should ask her something about the photograph, and if so, what could I
+        ask to make my mission clear? The man in front of me was laughing with
+        her as she handed him some change. “Every morning I say ‘praise him’!”
+        he told her, “I woke up alive!” Her earrings sparkled, and as she
+        smiled, I became afraid of what I would say.
+        <br />
+        <br />
+        I was up next. I couldn’t help it: I told them everything.
+        <br />
+        <br />
         <br />
         <br />
         <br />
