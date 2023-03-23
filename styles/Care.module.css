@@ -1,64 +1,64 @@
 .titleShadow {
-    display: inline-block;
-    margin-left:4vw;
-    font-size: 4.3rem;
-    color: black;
-    text-shadow: 2px 2px snow, 6px 6px #aaf0d1;
-    letter-spacing: 1.3rem;
-    transform: skew(19deg, 1.4deg);
-  }
-  
-  .inverseShadow {
-    color: snow;
-    text-shadow: 1px 1px black, 5px 5px #aaf0d1, 7px 9px black;
-  }
-  
-  .titleShadowUppercase {
-    color: black;
-    text-shadow: 2px 2px snow, 4px 4px #b0b0b0;
-    text-transform: uppercase;
-  }
-  
-  .inverseShadowUppercase {
-    color: snow;
-    text-shadow: 1px 1px black, 3px 5px #aaf0d1, 7px 9px black;
-    text-transform: uppercase;
-  }
+  display: inline-block;
+  margin-left: 4vw;
+  font-size: 4.3rem;
+  color: black;
+  text-shadow: 2px 2px snow, 6px 6px #aaf0d1;
+  letter-spacing: 1.3rem;
+  transform: skew(19deg, 1.4deg);
+}
 
-  .alternateTitleColor {
-    font-family: "bickham-script-pro-3", sans-serif;
-    font-size: 6.3rem;
-    color: black;
-    text-shadow: 4px 4px snow, 8px 8px gainsboro;
-  }
+.inverseShadow {
+  color: snow;
+  text-shadow: 1px 1px black, 5px 5px #aaf0d1, 7px 9px black;
+}
 
-  .alternateTitleColorBigger {
-    font-family: "bickham-script-pro-3", sans-serif;
-    font-size: 10.3rem;
-    color: black;
-    text-shadow: 4px 4px snow, 8px 8px gainsboro;
-  }
+.titleShadowUppercase {
+  color: black;
+  text-shadow: 2px 2px snow, 4px 4px #b0b0b0;
+  text-transform: uppercase;
+}
 
-  .authorName {
-    font-size: 5.5rem;
-    font-family: "bickham-script-pro-3", sans-serif;
-    font-weight: 400;
-    text-align: right;
-    text-transform: lowercase;
-    letter-spacing: -0.02rem;
-    line-height: 0.8em;
-    margin: 1vh 7vw 7vh 0;
-  }
-  
-  .ellipses {
-    letter-spacing: 3rem;
-  }
+.inverseShadowUppercase {
+  color: snow;
+  text-shadow: 1px 1px black, 3px 5px #aaf0d1, 7px 9px black;
+  text-transform: uppercase;
+}
 
-  .grayShadow {
-    display:inline-block;
-    margin:0 0.2vw;
-    font-size:2.2rem;
-    color:silver;
-    font-family: "lores-9-plus-wide", monospace;
-    text-shadow: 1px 1px white, 3px 3px #aaf0d1, 5px 5px black;
-  }
+.alternateTitleColor {
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-size: 6.3rem;
+  color: black;
+  text-shadow: 4px 4px snow, 8px 8px gainsboro;
+}
+
+.alternateTitleColorBigger {
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-size: 10.3rem;
+  color: black;
+  text-shadow: 4px 4px snow, 8px 8px gainsboro;
+}
+
+.authorName {
+  font-size: 5.5rem;
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-weight: 400;
+  text-align: right;
+  text-transform: lowercase;
+  letter-spacing: -0.02rem;
+  line-height: 0.8em;
+  margin: 1vh 7vw 7vh 0;
+}
+
+.ellipses {
+  letter-spacing: 3rem;
+}
+
+.grayShadow {
+  display: inline-block;
+  margin: 0 0.2vw;
+  font-size: 2.2rem;
+  color: silver;
+  font-family: "lores-9-plus-wide", monospace;
+  text-shadow: 1px 1px white, 3px 3px #aaf0d1, 5px 5px black;
+}

@@ -380,6 +380,41 @@ export default function Care() {
         <br />
         I was up next. I couldn’t help it: I told them everything.
         <br />
+        <br />I told them about the seventeenth floor, told them about the
+        abandoned filing cabinets, the abandoned envelopes, the perpetual care,
+        my empty apartment, the long hours of searching, the archives filled
+        with indecipherable cursive, the Lower East Side, the synagogues, the
+        music, the singing, the protest, and my reasons, which I still didn’t
+        understand, but I was trying to discover, there, in that bakery, where a
+        photograph of one of the{" "}
+        <span className={styles.grayShadow}> ------ </span>couple’s sons was
+        hanging, taunting me with its proximity to the truth, the kernel of the
+        story, and the immensity of its simultaneous distance from the past,
+        which held the only solution to this mess.
+        <br />
+        <br />
+        I don’t know what I was expecting, but the only response I received was
+        the man’s dismissive “perpetual care?”, which he spoke after a long
+        pause. “That’s just how those cemeteries make their money. You ever see
+        a poor funeral director?” he said with a conviction you could only find
+        in the peripheries of this borough, adding, “Me, I told my family to
+        cremate me when I die, and just sprinkle my ashes over the Atlantic over
+        there, let me float back home, that’s what I said.”
+        <br />
+        <br />
+        They both waited for me to answer, to explain myself, or at least ask
+        them a simpler question, but I was embarrassed, spent and silent. I
+        placed some bills in the tip jar, closed the door behind me, and walked
+        to the boardwalk. I climbed the stairs and faced the ocean, couldn’t
+        help imagining the man from the bakery, whose essence would one day get
+        lost in the waves. And what more could we want? It was a nice afternoon.
+        Soon, the golden hour would give a sweeter smell to the salty sea air. I
+        took a seat on one of the few empty benches on the boardwalk. A
+        dedication plaque on it read: <i>In the Memory of </i>
+        <span className={styles.grayShadow}> ------ </span>,{" "}
+        <i>who loved to sit by the water</i>. Predictable. Despite my
+        dissatisfaction, the story wanted to come full circle, and so it did.
+        <br />
         <br />
         <br />
         <br />
