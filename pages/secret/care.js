@@ -130,6 +130,58 @@ export default function Care() {
         greet me when I returned home.
         <br />
         <br />
+        And while the only thing I could be grateful for in my life was this
+        temporary and accidental tenderness—offered by the inanimate, anonymous
+        bottles waiting to be purchased as gifts for birthdays, engagements and
+        Christmas, and as I had to admit, was most likely exaggerated by my
+        imagination—someone decades ago had taken the effort to make official
+        the love they felt for those closest to them. Ashamed by the immediacy
+        with which such thoughts full of indulgent self-pity entered my mind, I
+        concentrated on the receipts again. I stared at three names: the two in
+        their graves, and the one who had labored for their care, but they said
+        nothing to me. They were empty signifiers that I needed to make real
+        because of my loneliness, because of my street that smelled like vanilla
+        and Sicilian lemons, because of waiting on the seventeenth floor.
+        <br />
+        <br />
+        When I returned to the office, I hardly spoke to anyone. I handed them 
+        their checks—which I had finally received, but with little satisfaction—and 
+        sat in front of the computer. I wanted to believe there was a reason why 
+        it was me, precisely, who found the envelope and letters. Why had no one
+        else had any curiosity about the filing cabinet, and why, if they had 
+        been curious indeed, did they not bother to open its drawers and find 
+        what was left there? And if they did find the envelope before me, did 
+        they not think it was important? And if they didn’t, what had pushed
+        me to think otherwise?
+        <br />
+        <br />
+        I settled into searching.
+        <br />
+        <br />
+        At first glance, the three names were too common. The first two pages of 
+        the search engine results provided little information. Every new website 
+        led nowhere. Buried somewhere in the third page, however, was a clue in 
+        a news article stored in some archive. 1974. A protest against school 
+        segregation, and one of our protagonists, the man who purchased the perpetual
+        care, who was identified as a city employee fighting for desegregation, describing
+        the threats and damage caused to his house by those in disagreement. In 
+        between the lines, a summary of his life: a Brooklyn home address, his 
+        profession, the names of his children and wife, and then, mentions
+        of the Holocaust, comparisons being drawn, a strong resolve. “They were 
+        defeated in Germany, and so they will be here,” was his concluding remark.
+        <br />
+        <br />
+        I thought of my perfumed street, of Gabrielle Chanel fucking Nazis and then 
+        living to the ripe old age of 87, leaving behind the world’s most famous 
+        perfume and a nearly spotless reputation. I thought of François Coty, whose
+        innovations in the selling of perfume were deemed important enough to obscure 
+        his antisemitism and disdain for the working class. And didn’t it always come
+        down to that? The absurd luck enjoyed by the worst people, the unfair rolling 
+        of the dice, fate’s kindness toward the few. Here was someone who had tried 
+        to do what was just, only for his efforts to be forgotten, discovered 
+        accidentally by a lowly municipal worker on an ordinary Friday.
+        <br />
+        <br />
         <br />
         <br />
         <br />
