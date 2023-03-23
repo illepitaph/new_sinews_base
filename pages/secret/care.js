@@ -94,7 +94,40 @@ export default function Care() {
         <span className={styles.grayShadow}>------- ------</span> of Brooklyn.
         Inside, I found two receipts for the perpetual care of cemetery plots,
         ones of <span className={styles.grayShadow}>------- ------</span> and
-        <span className={styles.grayShadow}>------- ------</span>, husband and wife.
+        <span className={styles.grayShadow}>------- ------</span>, husband and
+        wife.
+        <br />
+        <br />
+        Knowing nothing of them, I wondered about these three people. I imagined
+        the shape of their love, which, I thought, even if disguised under the
+        name of duty, must have taken on the shape of an unbroken, connective
+        thread, like a circle that touched both past and present, and in doing
+        so, kept the self forever tethered to the other.
+        <br />
+        <br />
+        I knew it then: it would never happen to me.
+        <br />
+        <br />
+        Those days, I lived alone on the perfumed block. Every store on my
+        street sold perfume and nothing other than perfume. Each night, on my
+        way back home, I walked past colorful, shiny boxes, from the most
+        luxurious and coveted, to the cheapest and most ordinary. They seemed to
+        mock me with the certainty of their pleasure, as if they knew I led an
+        ascetic life and had no skill in joy. And yet, long after the last
+        customer had been dismissed, when the store doors and gates were locked
+        for the night by the clerks, and the only sound on that street came from
+        an occasional car or truck, the cacophony of scents from the stores
+        below would permeate my old wooden floors, rise up to invade my
+        second-floor apartment and keep me up for hours.
+        <br />
+        <br />
+        In my aloneness, I welcomed it. Warm gourmands, sharp citrus, elegant
+        florals—I loved them all equally, and together most of all. Others might
+        have complained about the smells, or suffered from allergic reactions
+        and migraines, but to me, the scents were a needed escape from the
+        mundaneness of my day to day life. At work, I would dream of their
+        useless luxury, their ephemeral beauty, and the small comfort that would
+        greet me when I returned home.
         <br />
         <br />
         <br />
