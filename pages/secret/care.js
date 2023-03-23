@@ -387,7 +387,7 @@ export default function Care() {
         music, the singing, the protest, and my reasons, which I still didn’t
         understand, but I was trying to discover, there, in that bakery, where a
         photograph of one of the{" "}
-        <span className={styles.grayShadow}> ------ </span>couple’s sons was
+        <span className={styles.grayShadow}> ------ </span> couple’s sons was
         hanging, taunting me with its proximity to the truth, the kernel of the
         story, and the immensity of its simultaneous distance from the past,
         which held the only solution to this mess.
