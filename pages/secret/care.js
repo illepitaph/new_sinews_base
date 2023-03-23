@@ -144,42 +144,173 @@ export default function Care() {
         and Sicilian lemons, because of waiting on the seventeenth floor.
         <br />
         <br />
-        When I returned to the office, I hardly spoke to anyone. I handed them 
-        their checks—which I had finally received, but with little satisfaction—and 
-        sat in front of the computer. I wanted to believe there was a reason why 
-        it was me, precisely, who found the envelope and letters. Why had no one
-        else had any curiosity about the filing cabinet, and why, if they had 
-        been curious indeed, did they not bother to open its drawers and find 
-        what was left there? And if they did find the envelope before me, did 
-        they not think it was important? And if they didn’t, what had pushed
-        me to think otherwise?
+        When I returned to the office, I hardly spoke to anyone. I handed them
+        their checks—which I had finally received, but with little
+        satisfaction—and sat in front of the computer. I wanted to believe there
+        was a reason why it was me, precisely, who found the envelope and
+        letters. Why had no one else had any curiosity about the filing cabinet,
+        and why, if they had been curious indeed, did they not bother to open
+        its drawers and find what was left there? And if they did find the
+        envelope before me, did they not think it was important? And if they
+        didn’t, what had pushed me to think otherwise?
         <br />
         <br />
         I settled into searching.
         <br />
         <br />
-        At first glance, the three names were too common. The first two pages of 
-        the search engine results provided little information. Every new website 
-        led nowhere. Buried somewhere in the third page, however, was a clue in 
-        a news article stored in some archive. 1974. A protest against school 
-        segregation, and one of our protagonists, the man who purchased the perpetual
-        care, who was identified as a city employee fighting for desegregation, describing
-        the threats and damage caused to his house by those in disagreement. In 
-        between the lines, a summary of his life: a Brooklyn home address, his 
-        profession, the names of his children and wife, and then, mentions
-        of the Holocaust, comparisons being drawn, a strong resolve. “They were 
-        defeated in Germany, and so they will be here,” was his concluding remark.
+        At first glance, the three names were too common. The first two pages of
+        the search engine results provided little information. Every new website
+        led nowhere. Buried somewhere in the third page, however, was a clue in
+        a news article stored in some archive. 1974. A protest against school
+        segregation, and one of our protagonists, the man who purchased the
+        perpetual care, who was identified as a city employee fighting for
+        desegregation, describing the threats and damage caused to his house by
+        those in disagreement. In between the lines, a summary of his life: a
+        Brooklyn home address, his profession, the names of his children and
+        wife, and then, mentions of the Holocaust, comparisons being drawn, a
+        strong resolve. “They were defeated in Germany, and so they will be
+        here,” was his concluding remark.
         <br />
         <br />
-        I thought of my perfumed street, of Gabrielle Chanel fucking Nazis and then 
-        living to the ripe old age of 87, leaving behind the world’s most famous 
-        perfume and a nearly spotless reputation. I thought of François Coty, whose
-        innovations in the selling of perfume were deemed important enough to obscure 
-        his antisemitism and disdain for the working class. And didn’t it always come
-        down to that? The absurd luck enjoyed by the worst people, the unfair rolling 
-        of the dice, fate’s kindness toward the few. Here was someone who had tried 
-        to do what was just, only for his efforts to be forgotten, discovered 
-        accidentally by a lowly municipal worker on an ordinary Friday.
+        I thought of my perfumed street, of Gabrielle Chanel fucking Nazis and
+        then living to the ripe old age of 87, leaving behind the world’s most
+        famous perfume and a nearly spotless reputation. I thought of François
+        Coty, whose innovations in the selling of perfume were deemed important
+        enough to obscure his antisemitism and disdain for the working class.
+        And didn’t it always come down to that? The absurd luck enjoyed by the
+        worst people, the unfair rolling of the dice, fate’s kindness toward the
+        few. Here was someone who had tried to do what was just, only for his
+        efforts to be forgotten, discovered accidentally by a lowly municipal
+        worker on an ordinary Friday.
+        <br />
+        <br />
+        Shouldn’t there have been some greater commotion?
+        <br />
+        <br />
+        Suddenly, I remembered the genealogy archive I had used to find my
+        family’s immigration records, tried my luck with the names of the
+        parents, the son, and the address I found, and soon, there they were
+        before me. Bitola. Immigration records. Certificates of naturalization.
+        Chicago, then New York. Seven children. A tenement at Eldridge Street,
+        then at Forsyth Street. Membership records for synagogues of the Lower
+        East Side. Employment as tailors, shop clerks. Registrations in the
+        army. The move to Brooklyn. Settling in Coney Island. The children’s
+        careers: enviable artistic pursuits, talent, success. Steady jobs,
+        pension plans, white collar. Sometime in-between, the perpetual care and
+        the protest. Whole lives reduced to bureaucratic records.
+        <br />
+        <br />
+        The evidence of their existence started to spread out in front of me, as
+        specific as it was sparse, so that I could only think of their lives as
+        an amalgamation of facts, not as a narrative.
+        <br />
+        <br />
+        The years that separated me from all these events, these dates, and
+        these names, weighted on my shoulders and pushed me down on my seat.
+        That immensity of time felt like, all of the sudden, finding myself on a
+        raft boat in the middle of the open ocean. In those depths, away from
+        all land, unreachable to other vessels, the stillness of the water would
+        not be the calming sight observed from the shore, but a promise that the
+        unknown was preparing its revenge.
+        <br />
+        <br />
+        No, I thought, I can’t continue.
+        <br />
+        <br />
+        Yet, on the way home that evening, I stopped at the drugstore intent on
+        continuing my investigation. I placed a few boxes of steel wool in my
+        basket and went to pay. The line was long, and I was stuck behind a
+        woman arguing with the cashier: there was something wrong with her
+        coupons. “Come back tomorrow,” the cashier told her. But the woman
+        responded, loudly enough for all of us to hear, that tomorrow she was
+        burying her brother, and she could not deal with this problem then. No
+        one acknowledged this breach in the social contract, we carried on with
+        waiting. I muttered the names I had discovered, counting the years that
+        had separated us, calculating the possibility for me to have walked the
+        same street at the same time as one of them, and so I passed the time,
+        the minutes and seconds, in the imaginary world where{" "}
+        <span className={styles.grayShadow}>------</span> and I existed briefly
+        together.
+        <br />
+        <br />
+        But when my waiting was done, and with it, my imagining, I paid for my
+        stuff and stepped out in the cold air. It was dark already, so I didn’t
+        linger on the street. I passed the perfume stores quickly, barely
+        glancing at the customers still inside, the clerks wrapping boxes in
+        shiny purple and silver plastic. When I entered my apartment, I turned
+        on all the lights. I took the steel wool and unraveled it, then cut it
+        in small pieces that I stuffed in every opening of my hardwood floors. I
+        found some old sealing tape in a drawer and used it to secure the steel
+        wool tightly against the floors. When I was finally done with the holes
+        in the floors, which once I started, seemed to multiply every few
+        minutes, I opened, very methodically, every single window in the
+        apartment. The cold, fresh air filled each room.
+        <br />
+        <br />
+        Tomorrow, I would go to Eldridge Street. I would walk up and down its
+        length, and then move over to Forsyth, before taking the train down to
+        Mermaid Avenue. I would see where the family had lived and then I would
+        understand everything. So, tonight, I couldn’t let anything get in the
+        way of the sensations I would feel tomorrow, and the air needed to be
+        cleansed: no fragrance could enter the apartment and linger in the air.
+        <br />
+        <br />I would find something somewhere, I thought. If not at the first
+        location, then at the second. And if not there, the third would have to
+        have something for me. Because if I came home empty handed, it would be
+        up to me to give this story meaning. It would be my duty to struggle and
+        find some significance for these events, which I would have to recover
+        from the ordinary meaning one could ascribe to the discovery of some old
+        receipts in an old envelope inside a filing cabinet destined for the
+        trash, forgotten on the seventeenth floor of the biggest bureaucratic
+        building in the city. I wasn’t up for <i>that</i> task, this much I
+        knew.
+        <br />
+        <br />
+        In the morning, I put on my nice gloves and hat and called out of work.
+        <br />
+        <br />
+        When I stepped out of my building, it was so early that the
+        superintendent was still standing by the main door and having his coffee
+        like he did every dawn. I remembered the awkward night a few months
+        earlier, when I had found him drunk in the lobby, his body slumped over
+        a couch in the waiting area. I had helped him to his apartment down in
+        the basement, all while he muttered something about his children. If he
+        had been depressed about his unhappy wife, then I could have helped
+        somewhat. But children? It was out of my element completely.
+        <br />
+        <br />
+        I must have done something right because he thanked me so profusely the
+        next day, making me so sick with his exaggerated gratitude that only
+        reminded me of his pathetic state the night before, that I took every
+        effort to avoid him in the weeks that followed. And now, there he was,
+        in his old thermal pajamas, the color of boiled cherries, holding a mug
+        of coffee and eager to give me an earnest greeting. I yelled “good
+        morning!” to him first, and before he had the chance to vomit his
+        well-wishes at me, I turned the corner.
+        <br />
+        <br />
+        The subway car was nearly empty and reeked of musk and smoke. It felt
+        good to have a goal for the day. I looked forward to returning home in
+        the evening, my feet aching from the day’s walk. Even if my mission was
+        as undefined as the vague imperative to face the past, I was determined
+        to carry it out. But doubt negged at me: What was I expecting to find on
+        my journey? And if I found something, whatever that was, what would I do
+        with that knowledge? Who would I tell?
+        <br />
+        <br />
+        Eldridge and Forsyth provided few answers.
+        <br />
+        <br />
+        Busy sidewalks, groups of people going their own way, no neighbors to
+        ask any questions, renovated buildings flanking those left in disrepair,
+        sterile storefronts, an attack of white tile and pale mint walls. A
+        feeling overwhelmed me: could anyone, at any time, have made a life
+        here? And was I projecting the disappointments of my own life to the
+        lives of strangers who had once walked these streets? The anxiety I had
+        begun to feel when I had stepped out of the station—and which increased
+        with every new building I decided could not have housed this family,
+        after all, because it was missing <i>something</i>—followed me all the
+        way to Coney Island.
         <br />
         <br />
         <br />
