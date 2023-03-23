@@ -206,7 +206,7 @@ export default function Care() {
         <br />
         <br />
         The years that separated me from all these events, these dates, and
-        these names, weighted on my shoulders and pushed me down on my seat.
+        these names, weighed on my shoulders and pushed me down on my seat.
         That immensity of time felt like, all of the sudden, finding myself on a
         raft boat in the middle of the open ocean. In those depths, away from
         all land, unreachable to other vessels, the stillness of the water would
