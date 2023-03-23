@@ -319,7 +319,7 @@ export default function Care() {
         dentist’s office. In the two or three floors above these storefronts,
         lives unfolded unbeknownst to one other. How could I think I’d ever know
         anything about them, when I couldn’t uncover even the most basic clue
-        about<span className={styles.grayShadow}> ------ </span>in the
+        about<span className={styles.grayShadow}> ------ </span> in the
         neighborhoods where they lived for so many years.
         <br />
         <br />
