@@ -25,7 +25,7 @@ export default function Moore() {
 
       <CenterBlackTitle>
         <span className={styles.titleShadow}>
-          unctio<span className={styles.uppercase}>n</span> ++ n{" "}
+          unctio<span className={styles.uppercase}>n</span> ++ n
           <span className={styles.uppercase}>a</span>x
           <span className={styles.uppercase}>a</span>lite f
           <span className={styles.uppercase}>l</span>ight // de
@@ -66,28 +66,28 @@ export default function Moore() {
       <br />
 
       <LeftBlackTitle>
-      <span className={styles.nameHeight}>
-        <span className={styles.inverseNameShadow}>m</span> a
-        <span className={styles.nameShadowUppercase}> t </span>
-        <span className={styles.inverseNameShadow}>t</span>{" "}
-        <span className={styles.nameShadow}>_ </span>
-        <span className={styles.specialCursive}>h</span>
-        <span className={styles.inverseNameShadow}> e </span>
-        <i>w</i> <br />
-        <br />
-        <span className={styles.mintAlternate}>m </span>
-        <br />
-        <br />
-        <span className={styles.inverseNameShadow}>o</span>
-        <br />
-        <br />
-        <span className={styles.nameShadowUppercase}>o</span>
-        <br />
-        <br />
-        <span className={styles.inverseNameShadow}>_</span> <i>r</i> <br />
-        <br />
-        <span className={styles.specialCursive}>e</span>
-        <br />
+        <span className={styles.nameHeight}>
+          <span className={styles.inverseNameShadow}>m</span> a
+          <span className={styles.nameShadowUppercase}> t </span>
+          <span className={styles.inverseNameShadow}>t</span>{" "}
+          <span className={styles.nameShadow}>_ </span>
+          <span className={styles.specialCursive}>h</span>
+          <span className={styles.inverseNameShadow}> e </span>
+          <i>w</i> <br />
+          <br />
+          <span className={styles.mintAlternate}>m </span>
+          <br />
+          <br />
+          <span className={styles.inverseNameShadow}>o</span>
+          <br />
+          <br />
+          <span className={styles.nameShadowUppercase}>o</span>
+          <br />
+          <br />
+          <span className={styles.inverseNameShadow}>_</span> <i>r</i> <br />
+          <br />
+          <span className={styles.specialCursive}>e</span>
+          <br />
         </span>
       </LeftBlackTitle>
 
@@ -343,9 +343,7 @@ Blood’s Midas cannot ressurect breath.`}</pre>
 
       <br />
       <br />
-      <pre
-        className={styles.poem}
-      >{`i.
+      <pre className={styles.poem}>{`i.
       
 Portage, being the gross of all marches.
 The reverse military pageant detaches.
