@@ -389,6 +389,9 @@
   background-image: url("../public/images/CareBackground.jpg");
 }
 
+.kaputBackground {
+  background-image: url("../public/images/KaputBackground.jpg");
+}
 
 @media (width: 1080px) and (height: 810px) {
   .siteNav > .dropDown > button,
