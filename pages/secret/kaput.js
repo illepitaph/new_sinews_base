@@ -3,7 +3,7 @@ import Head from "next/head";
 import Header from "../../components/header.js";
 import Footer from "../../components/footer.js";
 import styles from "../../styles/Kaput.module.css";
-import { theaterText } from "../../GalleryData/TheaterCarouselData.js";
+import { theaterText } from "../../GalleryData/KaputCarouselData.js";
 Kaput.title = "mike_corrao ~ psalmist_kaput_[entrance] — new_sinews";
 Kaput.pieceName = "mike_corrao ~ psalmist_kaput_[entrance] — new_sinews";
 Kaput.description =
