@@ -95,6 +95,11 @@
 }
 
 @media (max-width: 927px) and (orientation: landscape) {
+
+  .nameShadow {
+    margin-left: 7.5vw;
+  }
+
   .poem {
     margin-left: 6vw;
   }
@@ -107,6 +112,11 @@
 }
 
 @media (max-width: 835px) and (orientation: portrait) {
+
+  .nameShadow {
+    margin-left: 7.5vw;
+  }
+
   .poem {
     font-size: 1.1rem;
     margin-left: 4vw;

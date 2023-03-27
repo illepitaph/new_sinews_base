@@ -368,7 +368,7 @@ that you can’t even keep up with. `}
 you ask me as you ask
 
 
-yourself, `}{" "}
+yourself, `}
         <i>
           what cartel execution 
           <br />
