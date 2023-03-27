@@ -20,8 +20,8 @@ export function KaputRawText2() {
       <span className={styles.load}>
         <img
           className={styles.img}
-          src="../images/Theaterofmaterials2.jpg"
-          alt="Theater of Materials by Mike Corrao ~ Image 2"
+          src="../images/Kaput2.jpg"
+          alt="Psalmist Kaput [entrance] by Mike Corrao ~ Image 2"
         ></img>
       </span>
     </>
@@ -34,8 +34,8 @@ export function KaputRawText3() {
       <span className={styles.load}>
         <img
           className={styles.img}
-          src="../images/Theaterofmaterials3.jpg"
-          alt="Theater of Materials by Mike Corrao ~ Image 3"
+          src="../images/Kaput3.jpg"
+          alt="Psalmist Kaput [entrance] by Mike Corrao ~ Image 3"
         ></img>
       </span>
     </>
@@ -48,8 +48,8 @@ export function KaputRawText4() {
       <span className={styles.load}>
         <img
           className={styles.img}
-          src="../images/Theaterofmaterials4.jpg"
-          alt="Theater of Materials by Mike Corrao ~ Image 4"
+          src="../images/Kaput4.jpg"
+          alt="Psalmist Kaput [entrance] by Mike Corrao ~ Image 4"
         ></img>
       </span>
     </>
@@ -62,8 +62,8 @@ export function KaputRawText5() {
       <span className={styles.load}>
         <img
           className={styles.img}
-          src="../images/Theaterofmaterials5.jpg"
-          alt="Theater of Materials by Mike Corrao ~ Image 5"
+          src="../images/Kaput5.jpg"
+          alt="Psalmist Kaput [entrance] by Mike Corrao ~ Image 5"
         ></img>
       </span>
     </>
@@ -76,8 +76,8 @@ export function KaputRawText6() {
       <span className={styles.load}>
         <img
           className={styles.img}
-          src="../images/Theaterofmaterials6.jpg"
-          alt="Theater of Materials by Mike Corrao ~ Image 6"
+          src="../images/Kaput6.jpg"
+          alt="Psalmist Kaput [entrance] by Mike Corrao ~ Image 6"
         ></img>
       </span>
     </>

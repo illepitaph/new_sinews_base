@@ -102,13 +102,11 @@ beasts softfurred ensnared
 to manumit the remnant electricity of God loose from us
 
 
-
 Tell my mother I forgot 
 I was and shall remain 
 a medical receptionist lady 
 in the interstice of actual and toy 
 nanotech exits come to pass
-
 
 
 I tithed into the member rolls of rival 
@@ -120,11 +118,9 @@ positions one must splay for
 the stay
 
 
-
 Until waiting’s much the same but soft and mediated 
 murder in pure darkness of a dome where they 
 control the rain
-
 
 
 Not to obfuscate my code I now 
@@ -169,11 +165,9 @@ in mockingly, incongruously gold
 antique electro on the shore.
 
 
-
 The cranes and excavators 
 whistle like two jet planes
 coming close to kiss,
-
 
 
 the unstaffed seasons. 
@@ -207,12 +201,10 @@ unoccupied and broken
 slat-lighted page.
 
 
-
 A balaclavad-out, disfeatured 
 sad commando vowed by bayonet 
 to speechlessness monastic
 forges something psychic with a wolf—
-
 
 
 the toy of that slack-jointed
@@ -247,17 +239,14 @@ posing’s why that is.`}</pre>
 strung off sightlines. 
 
 
-
 Blood you’re nothing
 if not 40 in LA;
 the solace of your all-time number one 
 
 
-
 most cinematic sandwich;  
 breath-knocked fix on stairs upside 
 the movie house fucked blank. 
-
 
 
 Most won’t sit for face tattoos yet
@@ -305,7 +294,6 @@ Then he was on life support but then
 they took him off it. 
 
 
-
 I would recognize that slurred cumbia bassline
 drinking liquor in the post office parking lot 
 on Christmas Eve at closing 
@@ -315,13 +303,11 @@ I don’t
 understand a word.
 
 
-
 The country music lovers of 
 the spaceship
 mow down 
 revelers jammed up 
 on the crosswalks
-
 
 
 and the perseverance of their 
@@ -334,10 +320,8 @@ Their cloud drift map screen’s
 dreamful two-step
 
 
-
 undoes thunderbirdlike 
 clawgrips on myself.
-
 
 
 In one such sigh I thought I’d make it seem
@@ -367,7 +351,6 @@ I desire to give you these compliments.
 My eyes come morning won’t pass
 
 
-
 Face ID inspection but they’ll still be
 human’s eyes, 
 await in the dressed body
@@ -385,7 +368,6 @@ that you can’t even keep up with. `}
 you ask me as you ask
 
 
-
 yourself, `}{" "}
         <i>
           what cartel execution 
@@ -396,7 +378,6 @@ yourself, `}{" "}
         <br />
         <i>childless</i>
         {`: no trace
-
 
 
 on any cyborg shrieking down 
@@ -430,14 +411,11 @@ and hair matted
 to slab 
 
 
-
 High Street Bridge Self Storage
-
 
 
 Wind chime shimmer
 Potluck funeral
-
 
 
 The lied to and abused 
@@ -472,7 +450,6 @@ by two suited, twenty-something relatives,
 two garage doors of cursed ice. 
 
 
-
 A distance from the skylights;
 waterflowerettes; crystal; brass; 
 attachments and the call 
@@ -480,13 +457,11 @@ to echolocate
 where the crying’s coming from…
 
 
-
 This entire fucking
 Sunday-school-offered-warmth-
 in-the-viscera-of-an-imprisoned- 
 chiropractor’s-office’s
 country.
-
 
 
 What glitch usury?
@@ -518,14 +493,11 @@ rival graveyards,
 Protestant and Catholic (who cares?)
 
 
-
 Pilgrims squire batteries and brides up trampled passes 
 in the chainlink that secures the border ditch 
 
 
-
 It doesn’t matter where you start
-
 
 
 They burgle the ingredients for soup out of your trunk,
@@ -536,9 +508,7 @@ You’re buckling your battery
 in the car seat, 
 
 
-
 as it happens
-
 
 
 Trust me
@@ -550,7 +520,6 @@ Trust me
         {`? 
 is what you want 
 whispered of you. 
-
 
 
 `}
