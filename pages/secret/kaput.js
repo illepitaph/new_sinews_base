@@ -3,7 +3,7 @@ import Head from "next/head";
 import Header from "../../components/header.js";
 import Footer from "../../components/footer.js";
 import styles from "../../styles/Kaput.module.css";
-import { theaterText } from "../../GalleryData/KaputCarouselData.js";
+import { kaputText } from "../../GalleryData/KaputCarouselData.js";
 Kaput.title = "mike_corrao ~ psalmist_kaput_[entrance] — new_sinews";
 Kaput.pieceName = "mike_corrao ~ psalmist_kaput_[entrance] — new_sinews";
 Kaput.description =
@@ -16,7 +16,7 @@ export default function Kaput() {
     if (textArrayIndex > 0) {
       setTextArrayIndex(textArrayIndex - 1);
     } else {
-      setTextArrayIndex(theaterText.length - 1);
+      setTextArrayIndex(kaputText.length - 1);
     }
   }
 
@@ -33,7 +33,7 @@ export default function Kaput() {
       if (e.keyCode === 37 && textArrayIndex > 0) {
         setTextArrayIndex(textArrayIndex - 1);
       } else if (e.keyCode === 37 && textArrayIndex === 0) {
-        setTextArrayIndex(theaterText.length - 1);
+        setTextArrayIndex(kaputText.length - 1);
       } else if (e.keyCode === 39 && textArrayIndex < 12) {
         setTextArrayIndex(textArrayIndex + 1);
       } else if (e.keyCode === 39 && textArrayIndex === 12) {
@@ -48,7 +48,7 @@ export default function Kaput() {
     };
   }, [textArrayIndex]);
 
-  const RawText = theaterText[textArrayIndex]["textName"];
+  const RawText = kaputText[textArrayIndex]["textName"];
 
   return (
     <>

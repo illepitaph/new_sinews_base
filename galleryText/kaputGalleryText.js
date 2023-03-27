@@ -1,20 +1,20 @@
-import styles from "../styles/Theater.module.css";
+import styles from "../styles/Kaput.module.css";
 
-export function TheaterRawText1() {
+export function KaputRawText1() {
   return (
     <>
       <span className={styles.load}>
         <img
           className={styles.img}
-          src="../images/Theaterofmaterials1.jpg"
-          alt="Theater of Materials by Mike Corrao ~ Image 1"
+          src="../images/Kaput1.jpg"
+          alt="Psalmist Kaput [entrance] by Mike Corrao ~ Image 1"
         ></img>
       </span>
     </>
   );
 }
 
-export function TheaterRawText2() {
+export function KaputRawText2() {
   return (
     <>
       <span className={styles.load}>
@@ -28,7 +28,7 @@ export function TheaterRawText2() {
   );
 }
 
-export function TheaterRawText3() {
+export function KaputRawText3() {
   return (
     <>
       <span className={styles.load}>
@@ -42,7 +42,7 @@ export function TheaterRawText3() {
   );
 }
 
-export function TheaterRawText4() {
+export function KaputRawText4() {
   return (
     <>
       <span className={styles.load}>
@@ -56,7 +56,7 @@ export function TheaterRawText4() {
   );
 }
 
-export function TheaterRawText5() {
+export function KaputRawText5() {
   return (
     <>
       <span className={styles.load}>
@@ -70,7 +70,7 @@ export function TheaterRawText5() {
   );
 }
 
-export function TheaterRawText6() {
+export function KaputRawText6() {
   return (
     <>
       <span className={styles.load}>
@@ -84,7 +84,7 @@ export function TheaterRawText6() {
   );
 }
 
-export function TheaterRawText7() {
+export function KaputRawText7() {
   return (
     <>
       <span className={styles.load}>
@@ -98,7 +98,7 @@ export function TheaterRawText7() {
   );
 }
 
-export function TheaterRawText8() {
+export function KaputRawText8() {
   return (
     <>
       <span className={styles.load}>
@@ -112,7 +112,7 @@ export function TheaterRawText8() {
   );
 }
 
-export function TheaterRawText9() {
+export function KaputRawText9() {
   return (
     <>
       <span className={styles.load}>
@@ -126,7 +126,7 @@ export function TheaterRawText9() {
   );
 }
 
-export function TheaterRawText10() {
+export function KaputRawText10() {
   return (
     <>
       <span className={styles.load}>
@@ -140,7 +140,7 @@ export function TheaterRawText10() {
   );
 }
 
-export function TheaterRawText11() {
+export function KaputRawText11() {
   return (
     <>
       <span className={styles.load}>
@@ -154,7 +154,7 @@ export function TheaterRawText11() {
   );
 }
 
-export function TheaterRawText12() {
+export function KaputRawText12() {
   return (
     <>
       <span className={styles.load}>
@@ -168,7 +168,7 @@ export function TheaterRawText12() {
   );
 }
 
-export function TheaterRawText13() {
+export function KaputRawText13() {
   return (
     <>
       <span className={styles.load}>

@@ -1,29 +1,29 @@
-import { TheaterRawText1 } from "../galleryText/theaterGalleryText.js";
-import { TheaterRawText2 } from "../galleryText/theaterGalleryText.js";
-import { TheaterRawText3 } from "../galleryText/theaterGalleryText.js";
-import { TheaterRawText4 } from "../galleryText/theaterGalleryText.js";
-import { TheaterRawText5 } from "../galleryText/theaterGalleryText.js";
-import { TheaterRawText6 } from "../galleryText/theaterGalleryText.js";
-import { TheaterRawText7 } from "../galleryText/theaterGalleryText.js";
-import { TheaterRawText8 } from "../galleryText/theaterGalleryText.js";
-import { TheaterRawText9 } from "../galleryText/theaterGalleryText.js";
-import { TheaterRawText10 } from "../galleryText/theaterGalleryText.js";
-import { TheaterRawText11 } from "../galleryText/theaterGalleryText.js";
-import { TheaterRawText12 } from "../galleryText/theaterGalleryText.js";
-import { TheaterRawText13 } from "../galleryText/theaterGalleryText.js";
+import { KaputRawText1 } from "../galleryText/kaputGalleryText.js";
+import { KaputRawText2 } from "../galleryText/kaputGalleryText.js";
+import { KaputRawText3 } from "../galleryText/kaputGalleryText.js";
+import { KaputRawText4 } from "../galleryText/kaputGalleryText.js";
+import { KaputRawText5 } from "../galleryText/kaputGalleryText.js";
+import { KaputRawText6 } from "../galleryText/kaputGalleryText.js";
+import { KaputRawText7 } from "../galleryText/kaputGalleryText.js";
+import { KaputRawText8 } from "../galleryText/kaputGalleryText.js";
+import { KaputRawText9 } from "../galleryText/kaputGalleryText.js";
+import { KaputRawText10 } from "../galleryText/kaputGalleryText.js";
+import { KaputRawText11 } from "../galleryText/kaputGalleryText.js";
+import { KaputRawText12 } from "../galleryText/kaputGalleryText.js";
+import { KaputRawText13 } from "../galleryText/kaputGalleryText.js";
 
-export const theaterText = [
-  { title: "Theater 1", textName: TheaterRawText1 },
-  { title: "Theater 2", textName: TheaterRawText2 },
-  { title: "Theater 3", textName: TheaterRawText3 },
-  { title: "Theater 4", textName: TheaterRawText4 },
-  { title: "Theater 5", textName: TheaterRawText5 },
-  { title: "Theater 6", textName: TheaterRawText6 },
-  { title: "Theater 7", textName: TheaterRawText7 },
-  { title: "Theater 8", textName: TheaterRawText8 },
-  { title: "Theater 9", textName: TheaterRawText9 },
-  { title: "Theater 10", textName: TheaterRawText10 },
-  { title: "Theater 11", textName: TheaterRawText11 },
-  { title: "Theater 12", textName: TheaterRawText12 },
-  { title: "Theater 13", textName: TheaterRawText13 },
+export const kaputText = [
+  { title: "Kaput 1", textName: KaputRawText1 },
+  { title: "Kaput 2", textName: KaputRawText2 },
+  { title: "Kaput 3", textName: KaputRawText3 },
+  { title: "Kaput 4", textName: KaputRawText4 },
+  { title: "Kaput 5", textName: KaputRawText5 },
+  { title: "Kaput 6", textName: KaputRawText6 },
+  { title: "Kaput 7", textName: KaputRawText7 },
+  { title: "Kaput 8", textName: KaputRawText8 },
+  { title: "Kaput 9", textName: KaputRawText9 },
+  { title: "Kaput 10", textName: KaputRawText10 },
+  { title: "Kaput 11", textName: KaputRawText11 },
+  { title: "Kaput 12", textName: KaputRawText12 },
+  { title: "Kaput 13", textName: KaputRawText13 },
 ];
