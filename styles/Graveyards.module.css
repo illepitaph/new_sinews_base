@@ -101,17 +101,17 @@
   }
 }
 
-@media (max-width: 855px) and (orientation: landscape) {
-  .poem {
-    margin-left: 1vw;
-  }
-}
-
-@media (max-width: 835px) and (orientation: portrait) {
+@media (max-width: 913px) and (orientation: portrait) {
   .poem {
     font-size: 1.1rem;
     margin-left: 4vw;
     white-space: pre-wrap;
+  }
+}
+
+@media (max-width: 855px) and (orientation: landscape) {
+  .poem {
+    margin-left: 1vw;
   }
 }
 
