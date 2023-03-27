@@ -97,7 +97,7 @@
 @media (max-width: 927px) and (orientation: landscape) {
   .poem {
     margin-left: 6vw;
-    white-space:pre-wrap;
+    white-space: pre-wrap;
   }
 }
 
@@ -111,7 +111,7 @@
   .poem {
     font-size: 1.1rem;
     margin-left: 4vw;
-    white-space:pre-wrap;
+    white-space: pre-wrap;
   }
 }
 
