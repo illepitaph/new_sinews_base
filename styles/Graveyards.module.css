@@ -95,14 +95,9 @@
 }
 
 @media (max-width: 927px) and (orientation: landscape) {
-
-  .nameShadow {
-    margin-left: 7.5vw;
-  }
-
   .poem {
-    font-size:1.1rem;
     margin-left: 6vw;
+    white-space:pre-wrap;
   }
 }
 
@@ -113,20 +108,16 @@
 }
 
 @media (max-width: 835px) and (orientation: portrait) {
-
-  .nameShadow {
-    margin-left: 7.5vw;
-  }
-
   .poem {
-    font-size: 1rem;
-    margin-left: 3vw;
+    font-size: 1.1rem;
+    margin-left: 4vw;
+    white-space:pre-wrap;
   }
 }
 
 @media (max-width: 812px) and (orientation: landscape) {
   .poem {
-    font-size: 1rem;
+    font-size: 1.1rem;
   }
 }
 
