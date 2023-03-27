@@ -101,6 +101,7 @@
   }
 
   .poem {
+    font-size:1.1rem;
     margin-left: 6vw;
   }
 }
@@ -118,14 +119,14 @@
   }
 
   .poem {
-    font-size: 1.1rem;
-    margin-left: 4vw;
+    font-size: 1rem;
+    margin-left: 3vw;
   }
 }
 
 @media (max-width: 812px) and (orientation: landscape) {
   .poem {
-    font-size: 1.1rem;
+    font-size: 1rem;
   }
 }
 
