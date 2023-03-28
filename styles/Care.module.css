@@ -106,10 +106,9 @@
 @media (max-width: 927px) and (orientation: landscape) {
 
   .titleShadow {
-    margin-left:2vw;
-    font-size: 1.8rem;
+    font-size: 2.2rem;
     letter-spacing: 0.1rem;
-    white-space:pre-wrap;
+    transform: skew(19deg, 0.4deg);
   }
   
 }
@@ -130,7 +129,7 @@
 @media (max-width: 855px) and (orientation: landscape) {
 
   .titleShadow {
-    font-size: 1.7rem;
+    font-size: 2rem;
   }
 
   .alternateTitleColor, .alternateTitleColorBigger {
@@ -142,7 +141,7 @@
 @media (max-width: 801px) and (orientation: landscape) {
 
   .titleShadow {
-    font-size: 1.6rem;
+    font-size: 1.7rem;
     letter-spacing: 0;
   }
 
@@ -164,7 +163,7 @@
 @media (max-width: 667px) and (orientation: landscape) {
 
   .titleShadow {
-    font-size: 1.5rem;
+    font-size: 1.6rem;
   }
 
   .alternateTitleColor, .alternateTitleColorBigger {
