@@ -20,14 +20,14 @@ export default function Care() {
           <span className={styles.inverseShadowUppercase}>&gt;</span>&gt;
           <span className={styles.inverseShadowUppercase}>&gt;</span>
           <span className={styles.inverseShadow}>p</span>
-          <span className={styles.alternateTitleColor}>e </span>
+          <span className={styles.alternateTitleColor}>e</span>
           <span className={styles.inverseShadowUppercase}>r</span>p
           <span className={styles.inverseShadowUppercase}>e</span>
-          <span className={styles.alternateTitleColor}>t </span>
-          <span className={styles.inverseShadow}>u </span>a
+          <span className={styles.alternateTitleColor}>t</span>
+          <span className={styles.inverseShadow}>u</span>a
           <span className={styles.inverseShadowUppercase}>l</span>
           <br />
-          &lt; <span className={styles.inverseShadow}>&lt;</span> &lt;{" "}
+          &lt; <span className={styles.inverseShadow}>&lt;</span> &lt;
           <span className={styles.alternateTitleColorBigger}>c</span>
           <span className={styles.inverseShadowUppercase}> A</span>
           <span className={styles.titleShadowUppercase}>r </span>
