@@ -21,7 +21,7 @@ export default function Kaput() {
   }
 
   function nextText() {
-    if (textArrayIndex < 12) {
+    if (textArrayIndex < 14) {
       setTextArrayIndex(textArrayIndex + 1);
     } else {
       setTextArrayIndex(0);
@@ -34,9 +34,9 @@ export default function Kaput() {
         setTextArrayIndex(textArrayIndex - 1);
       } else if (e.keyCode === 37 && textArrayIndex === 0) {
         setTextArrayIndex(kaputText.length - 1);
-      } else if (e.keyCode === 39 && textArrayIndex < 12) {
+      } else if (e.keyCode === 39 && textArrayIndex < 14) {
         setTextArrayIndex(textArrayIndex + 1);
-      } else if (e.keyCode === 39 && textArrayIndex === 12) {
+      } else if (e.keyCode === 39 && textArrayIndex === 14) {
         setTextArrayIndex(0);
       }
     }

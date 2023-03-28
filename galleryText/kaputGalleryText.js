@@ -181,3 +181,31 @@ export function KaputRawText13() {
     </>
   );
 }
+
+export function KaputRawText14() {
+  return (
+    <>
+      <span className={styles.load}>
+        <img
+          className={styles.img}
+          src="../images/Kaput14.jpg"
+          alt="Psalmist Kaput [entrance] by Mike Corrao ~ Image 14"
+        ></img>
+      </span>
+    </>
+  );
+}
+
+export function KaputRawText15() {
+  return (
+    <>
+      <span className={styles.load}>
+        <img
+          className={styles.img}
+          src="../images/Kaput15.jpg"
+          alt="Psalmist Kaput [entrance] by Mike Corrao ~ Image 15"
+        ></img>
+      </span>
+    </>
+  );
+}
