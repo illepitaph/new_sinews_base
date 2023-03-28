@@ -52,9 +52,10 @@ export default function Needle() {
             <span className={styles.inverseShadow}>&gt;</span> &gt;
             <span className={styles.inverseShadow}>&gt;</span>&gt;
             <span className={styles.extraMargin}>
+              <br />
               <span className={styles.inverseShadow}>s</span>
               <span className={styles.titleShadowUppercase}>t</span>
-              <span className={styles.inverseShadow}>a</span>
+              <span className={styles.inverseShadow}>a </span>
               <span className={styles.inverseShadowUppercase}>l</span>k
               <span className={styles.titleShadowUppercase}>e</span>
               <span className={styles.inverseShadow}>d</span>
@@ -62,6 +63,57 @@ export default function Needle() {
           </span>
         </span>
       </LeftGrayTitle>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
       <br />
       <br />
       <br />
@@ -147,8 +199,10 @@ export default function Needle() {
         <br />
         <br />
         <br />
-        imitation gold. lapis, brine, the glowing map. a ball of rubber bands
-        which was which was the sweet suffering of all hands.
+        <span className={styles.shadowOne}>
+          imitation gold. lapis, brine, the glowing map. a ball of rubber bands
+          which was which was the sweet suffering of all hands.
+        </span>
         <br />
         <br />
         <br />
@@ -169,9 +223,11 @@ export default function Needle() {
         <br />
         <br />
         <br />
-        breathless fast, you had a particle of angel in you running, hardly knew
-        its own scale against anything, but it ran before you and cast your time
-        receding like a silhouette, amazed by how far behind.
+        <span className={styles.shadowOne}>
+          breathless fast, you had a particle of angel in you running, hardly
+          knew its own scale against anything, but it ran before you and cast
+          your time receding like a silhouette, amazed by how far behind.
+        </span>
         <br />
         <br />
         <br />
@@ -216,11 +272,13 @@ export default function Needle() {
         <br />
         <br />
         <br />
-        that particle, that beat of silence, pinched laugh, a likeness to
-        everything else. did you live up to it? did it leave you too alone? i
-        don’t know either but now now you’ve landed here, damaged goods. so you
-        gonna do it in the right order, strong thing, open bag, you still gonna
-        run?
+        <span className={styles.shadowOne}>
+          that particle, that beat of silence, pinched laugh, a likeness to
+          everything else. did you live up to it? did it leave you too alone? i
+          don’t know either but now now you’ve landed here, damaged goods. so
+          you gonna do it in the right order, strong thing, open bag, you still
+          gonna run?
+        </span>
         <br />
         <br />
         <br />
