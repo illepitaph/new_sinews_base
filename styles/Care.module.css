@@ -106,6 +106,7 @@
 @media (max-width: 927px) and (orientation: landscape) {
 
   .titleShadow {
+    margin-left:2vw;
     font-size: 1.8rem;
     letter-spacing: 0.1rem;
   }
