@@ -1,135 +1,123 @@
 .duskShadow {
-    display:inline-block;
-    font-size: 5rem;
-    font-style: italic;
-    color: snow;
+  display: inline-block;
+  font-size: 5rem;
+  font-style: italic;
+  color: snow;
   text-shadow: 1px 1px black, 5px 5px #aaf0d1, 7px 9px black;
-    transform: skew(6deg, 7.4deg);
-    letter-spacing: 2rem;
+  transform: skew(6deg, 7.4deg);
+  letter-spacing: 1.2rem;
+}
+
+.inverse {
+  color: black;
+  text-shadow: 4px 4px snow, 6px 6px #b0b0b0, 8px 8px snow, 16px 16px #b0b0b0;
+}
+
+.duskShadowUppercase {
+  font-size: 4rem;
+  font-style: italic;
+  text-transform: uppercase;
+}
+
+.inverseUppercase {
+  color: black;
+  text-shadow: 4px 4px snow, 6px 6px #b0b0b0, 8px 8px snow, 12px 12px #b0b0b0;
+  text-transform: uppercase;
+}
+
+.duskShadowSpecial {
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-style: italic;
+  font-size: 12.3rem;
+  color: white;
+  text-shadow: 10px 10px 20px black;
+  transform: skew(6deg, 7.4deg);
+  letter-spacing: 1.2rem;
+}
+
+@media (max-width: 927px) and (orientation: landscape) {
+  .duskShadow {
+    font-size: 4.4rem;
+    letter-spacing: 1.1rem;
+    transform: skew(3deg, 3.4deg);
   }
-  
-  .inverse {
-    color: black;
-    text-shadow: 4px 4px snow, 6px 6px #b0b0b0, 8px 8px snow, 16px 16px #b0b0b0;
-  }
-  
+
   .duskShadowUppercase {
-    font-size: 4rem;
-    font-style: italic;
-    text-transform: uppercase;
-  }
-  
-  .inverseUppercase {
-    color: black;
-    text-shadow: 4px 4px snow, 6px 6px #b0b0b0, 8px 8px snow, 12px 12px #b0b0b0;
-    text-transform: uppercase;
+    font-size: 3.6rem;
   }
 
   .duskShadowSpecial {
-    font-family: "bickham-script-pro-3", sans-serif;
-    font-style: italic;
-    font-size: 14.3rem;
-    color:white;
-    text-shadow: 10px 10px 20px black;
-    transform: skew(6deg, 7.4deg);
-    letter-spacing: 2rem;
+    font-size: 9.3rem;
+    letter-spacing: 0.8rem;
+  }
+}
+
+@media (max-width: 835px) and (orientation: portrait) {
+  .duskShadow {
+    font-size: 4.5rem;
+    letter-spacing: 1.7rem;
   }
 
-  @media (max-width: 927px) and (orientation: landscape) {
-
-    .duskShadow {
-        font-size: 4.4rem;
-        letter-spacing: 1.1rem;
-        transform: skew(3deg, 3.4deg);
-      }
-
-      .duskShadowUppercase {
-        font-size: 3.6rem;
-      }
-
-      .duskShadowSpecial {
-        font-size: 9.3rem;
-        letter-spacing: 0.8rem;
-      }
-  
+  .duskShadowUppercase {
+    font-size: 3.7rem;
   }
 
-  @media (max-width: 835px) and (orientation: portrait) {
+  .duskShadowSpecial {
+    font-size: 9.3rem;
+    letter-spacing: 1.2rem;
+  }
+}
 
-    .duskShadow {
-        font-size: 4.5rem;
-        letter-spacing: 1.7rem;
-      }
-      
-      .duskShadowUppercase {
-        font-size: 3.7rem;
-      }
-    
-      .duskShadowSpecial {
-        font-size: 9.3rem;
-        letter-spacing: 1.2rem;
-      }
-  
+@media (max-width: 541px) and (orientation: portrait) {
+  .duskShadow {
+    font-size: 3.4rem;
+    letter-spacing: 1.4rem;
   }
 
-  @media (max-width: 541px) and (orientation: portrait) {
-
-    .duskShadow {
-        font-size: 3.4rem;
-        letter-spacing: 1.4rem;
-      }
-      
-      .duskShadowUppercase {
-        font-size: 3rem;
-      }
-    
-      .duskShadowSpecial {
-        font-size: 8.3rem;
-        letter-spacing: 1rem;
-      }
-  
+  .duskShadowUppercase {
+    font-size: 3rem;
   }
 
-  @media (max-width: 429px) and (orientation: portrait) {
+  .duskShadowSpecial {
+    font-size: 8.3rem;
+    letter-spacing: 1rem;
+  }
+}
 
-    .duskShadow {
-        font-size: 2.4rem;
-        letter-spacing: 0.8rem;
-        transform: skew(3deg, 3.4deg);
-      }
-
-      .duskShadowUppercase {
-        font-size: 2.6rem;
-      }
-
-      .duskShadowSpecial {
-        font-size: 5.3rem;
-        letter-spacing: 0.8rem;
-      }
-  
+@media (max-width: 429px) and (orientation: portrait) {
+  .duskShadow {
+    font-size: 2.4rem;
+    letter-spacing: 0.8rem;
+    transform: skew(3deg, 3.4deg);
   }
 
-  @media (max-width: 321px) and (orientation: portrait) {
-
-    .duskShadow {
-        letter-spacing: 0.5rem;
-      }
-
-      .duskShadowSpecial {
-        font-size: 5rem;
-        letter-spacing: 0.2rem;
-      }
-  
+  .duskShadowUppercase {
+    font-size: 2.6rem;
   }
-  
-  @media (max-width: 281px) and (orientation: portrait) {
 
-    .duskShadow {
-        letter-spacing: 0.3rem;
-      }
-
-      .duskShadowSpecial {
-        font-size: 4rem;
-      }
-  
+  .duskShadowSpecial {
+    font-size: 5.3rem;
+    letter-spacing: 0.8rem;
   }
+}
+
+@media (max-width: 321px) and (orientation: portrait) {
+  .duskShadow {
+    letter-spacing: 0.5rem;
+  }
+
+  .duskShadowSpecial {
+    font-size: 5rem;
+    letter-spacing: 0.2rem;
+  }
+}
+
+@media (max-width: 281px) and (orientation: portrait) {
+  .duskShadow {
+    letter-spacing: 0.3rem;
+  }
+
+  .duskShadowSpecial {
+    font-size: 4rem;
+  }
+}

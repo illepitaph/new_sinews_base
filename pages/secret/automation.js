@@ -134,182 +134,196 @@ export default function Automation() {
         softly, then left.
         <br />
         <br />
-        I stared at the machine. It stared back in agony, shame for its 
-        condition. Gutted, with entrails of colored cables and displaced cogs 
+        I stared at the machine. It stared back in agony, shame for its
+        condition. Gutted, with entrails of colored cables and displaced cogs
         dripping with oil.
         <br />
         <br />
-        My memory was erratic—mostly sharp, causeless emotions—and I couldn&#8217;t recall 
-        anything since the night before. Couldn&#8217;t find an answer regarding my work 
-        through the vast void of the past closing in on all sides tighter and 
-        tighter. Wanted to know how and why I&#8217;d propped it up like that torn it 
-        apart without remembering?
+        My memory was erratic—mostly sharp, causeless emotions—and I
+        couldn&#8217;t recall anything since the night before. Couldn&#8217;t
+        find an answer regarding my work through the vast void of the past
+        closing in on all sides tighter and tighter. Wanted to know how and why
+        I&#8217;d propped it up like that torn it apart without remembering?
         <br />
         <br />
         Certainly hadn&#8217;t been fixing it.
         <br />
         <br />
-        Hooks impaled it on the wall, reinforced with hasty plastic restraints. Table 
-        to the side displayed small parts I&#8217;d salvaged, arranged in three clean, neat 
-        rows. Framed by four limbs torn from sockets. Above the table my single 
-        decoration: a false license enclosed in glass vaguely declaring me a machinist.
+        Hooks impaled it on the wall, reinforced with hasty plastic restraints.
+        Table to the side displayed small parts I&#8217;d salvaged, arranged in
+        three clean, neat rows. Framed by four limbs torn from sockets. Above
+        the table my single decoration: a false license enclosed in glass
+        vaguely declaring me a machinist.
         <br />
         <br />
-        &#8220;Can you fix machines?&#8221; Bennet had asked during my interview six
-        years ago. He&#8217;d shown me through a dim hallway overlooking an automated 
-        assembly line, with gridded ceilings and tan walls punctuated by panes of 
-        glass. Led me past dusty rooms with patterned carpets dulled by time, sliced 
-        by long empty desks. Black swivel chairs in the dark facing an invisible
-        authority, awaiting instruction.
+        &#8220;Can you fix machines?&#8221; Bennet had asked during my interview
+        six years ago. He&#8217;d shown me through a dim hallway overlooking an
+        automated assembly line, with gridded ceilings and tan walls punctuated
+        by panes of glass. Led me past dusty rooms with patterned carpets dulled
+        by time, sliced by long empty desks. Black swivel chairs in the dark
+        facing an invisible authority, awaiting instruction.
         <br />
         <br />
-        &#8220;Yes, sir.&#8221; I&#8217;d replied, following his red, bare scalp, the flesh
-        of his neck like a sandbag with insides shifting to all the wrong places.
+        &#8220;Yes, sir.&#8221; I&#8217;d replied, following his red, bare
+        scalp, the flesh of his neck like a sandbag with insides shifting to all
+        the wrong places.
         <br />
         <br />
         &#8220;Can you fix computers?&#8221;
         <br />
         <br />
-        &#8220;Yes, sir.&#8221; Looking over his shoulder, I noticed him scrutinizing 
-        my documents. He finally turned into a cold immaculate office where Tom had 
-        been working, cast in a grey shaft of light from the window. Bennet flipped 
-        a switch, flooding the room with brightness and etching red lines deeper into 
-        his assistant&#8217;s eyes.
+        &#8220;Yes, sir.&#8221; Looking over his shoulder, I noticed him
+        scrutinizing my documents. He finally turned into a cold immaculate
+        office where Tom had been working, cast in a grey shaft of light from
+        the window. Bennet flipped a switch, flooding the room with brightness
+        and etching red lines deeper into his assistant&#8217;s eyes.
         <br />
         <br />
-        &#8220;You&#8217;re hired,&#8221; Bennet said, slamming the folder on the desk and
-        disrupting a perfect stack of papers. &#8220;Tom, show him around. Give him a 
-        keycard and brief him and everything.&#8221; The young man nodded and stood, gaze 
-        flitting furtively between the folder and myself, standing calm in the doorway.
+        &#8220;You&#8217;re hired,&#8221; Bennet said, slamming the folder on
+        the desk and disrupting a perfect stack of papers. &#8220;Tom, show him
+        around. Give him a keycard and brief him and everything.&#8221; The
+        young man nodded and stood, gaze flitting furtively between the folder
+        and myself, standing calm in the doorway.
         <br />
         <br />
-        They can&#8217;t fire me for ruining the machine. Can&#8217;t replace me.
+        They can&#8217;t fire me for ruining the machine. Can&#8217;t replace
+        me.
         <br />
         <br />
-        It was stranger to feel sympathy for the butchered robot hanging beside my 
-        lie. The machine wouldn&#8217;t run again as it had, looked as if I&#8217;d frantically 
-        ripped out parts, leaving gaping holes with edges jagged and bleeding, reaching 
-        out in vain trying to close, heal. I imagined snapped sinews, tendons, bones, the 
-        insides of something I&#8217;d at least understood completely, if not cared for.
+        It was stranger to feel sympathy for the butchered robot hanging beside
+        my lie. The machine wouldn&#8217;t run again as it had, looked as if
+        I&#8217;d frantically ripped out parts, leaving gaping holes with edges
+        jagged and bleeding, reaching out in vain trying to close, heal. I
+        imagined snapped sinews, tendons, bones, the insides of something
+        I&#8217;d at least understood completely, if not cared for.
         <br />
         <br />
-        The rest of the room was in place, humming with the power of the building, the 
-        power of the secret to which it was a witness. Louder, louder, as I crossed 
-        the room to my computer disoriented noticing my clean unscathed hands car 
-        keys in my pocket how the fuck did this happen?
+        The rest of the room was in place, humming with the power of the
+        building, the power of the secret to which it was a witness. Louder,
+        louder, as I crossed the room to my computer disoriented noticing my
+        clean unscathed hands car keys in my pocket how the fuck did this
+        happen?
         <br />
         <br />
-        Edge of the desktop. Stark and threatening, an untitled repair log from this 
-        morning: 7:38 am. Clicking it quickly, anticipating my own hesitation, unwillingness 
-        to know, which instead mounted with every grainy second of the video.
+        Edge of the desktop. Stark and threatening, an untitled repair log from
+        this morning: 7:38 am. Clicking it quickly, anticipating my own
+        hesitation, unwillingness to know, which instead mounted with every
+        grainy second of the video.
         <br />
         <br />
-        Watching myself uninhibited with a vacant, open-casket face. Seated calmly 
-        before the computer, then moving to the strung, speared machine. Tearing 
-        the limbs away gouging out small parts with my hands gashing the flesh spewing 
-        dark liquid sparking violently over and over with my face unchanging with nothing 
-        inside. Nothing.
+        Watching myself uninhibited with a vacant, open-casket face. Seated
+        calmly before the computer, then moving to the strung, speared machine.
+        Tearing the limbs away gouging out small parts with my hands gashing the
+        flesh spewing dark liquid sparking violently over and over with my face
+        unchanging with nothing inside. Nothing.
         <br />
         <br />
         Slow then, cleaning the pieces, arranging them tenderly.
         <br />
         <br />
-        Turning back to the camera–something different–a body warring with itself. I 
-        watched myself struggle back to the camera on shaking steps. Phantom fingers 
-        playing phantom, painful melodies into the air, thin bones of the hand piano 
-        hammers rising and falling, shifting, desperately pressing against the skin.
+        Turning back to the camera–something different–a body warring with
+        itself. I watched myself struggle back to the camera on shaking steps.
+        Phantom fingers playing phantom, painful melodies into the air, thin
+        bones of the hand piano hammers rising and falling, shifting,
+        desperately pressing against the skin.
         <br />
         <br />
-        Stumbling, grabbing the sides of the chair, head hanging for a moment, then 
-        wrenching upward with difficulty. Face crumpled in defeat. Hurt. Finally, reaching
-         forward, twitching, tortured, eyes dipping in and out of focus. Ending the log.
-         <br />
-        <br />
-        I stood and backed away, heart in a vise. Paranoid, scanning the workbench, tables, tools
-        on the wall outlined like bodies at a crime scene, but in place at 
-        least. Perfect, thoughtless observers to the machine&#8217;s murder. No different from me.
+        Stumbling, grabbing the sides of the chair, head hanging for a moment,
+        then wrenching upward with difficulty. Face crumpled in defeat. Hurt.
+        Finally, reaching forward, twitching, tortured, eyes dipping in and out
+        of focus. Ending the log.
         <br />
         <br />
-        Lost in my mind, trying to find anything wrong about yesterday, trying to salvage any
-        second from today. I could swear I felt it–though I doubted my own judgment–creeping 
-        through my mind, present and controlling yet undefined. Scrubbed from every 
-        frame of memory. My imagination abstracted the more I tried to reason, understand 
-        how my routine had been disrupted, how the video could exist.
+        I stood and backed away, heart in a vise. Paranoid, scanning the
+        workbench, tables, tools on the wall outlined like bodies at a crime
+        scene, but in place at least. Perfect, thoughtless observers to the
+        machine&#8217;s murder. No different from me.
         <br />
         <br />
-        Didn&#8217;t know if it was worse to think I&#8217;d lapsed on my own or been a victim of something
-        impossible.
+        Lost in my mind, trying to find anything wrong about yesterday, trying
+        to salvage any second from today. I could swear I felt it–though I
+        doubted my own judgment–creeping through my mind, present and
+        controlling yet undefined. Scrubbed from every frame of memory. My
+        imagination abstracted the more I tried to reason, understand how my
+        routine had been disrupted, how the video could exist.
+        <br />
+        <br />
+        Didn&#8217;t know if it was worse to think I&#8217;d lapsed on my own or
+        been a victim of something impossible.
         <br />
         <br />
         I left.
         <br />
         <br />
-        I left, angry, unresolved, winding through the basement, white lights 
-        switching on slowly, obediently, startled by my movement in the dark. Upstairs 
-        then, through a door, into the warehouse.
+        I left, angry, unresolved, winding through the basement, white lights
+        switching on slowly, obediently, startled by my movement in the dark.
+        Upstairs then, through a door, into the warehouse.
         <br />
         <br />
-        The robots on the line had retreated into themselves for the night, metal 
-        arms wrapped in smooth embrace around polished, plated torsos. Every 
-        graphite-colored appendage fitting together in stoic solidarity, waiting 
-        patiently for morning, for work. Charging pods displaying numbered lives.
+        The robots on the line had retreated into themselves for the night,
+        metal arms wrapped in smooth embrace around polished, plated torsos.
+        Every graphite-colored appendage fitting together in stoic solidarity,
+        waiting patiently for morning, for work. Charging pods displaying
+        numbered lives.
         <br />
         <br />
-        Walking past the serpentine conveyor belt, I became distracted by scrape 
-        marks on the floor. Black veins from where the old machines had been dragged 
-        away and lined up against the wall. They were still there, dead and cold and 
-        obsolete.
+        Walking past the serpentine conveyor belt, I became distracted by scrape
+        marks on the floor. Black veins from where the old machines had been
+        dragged away and lined up against the wall. They were still there, dead
+        and cold and obsolete.
         <br />
         <br />
-        I wondered what it had been like, coming to final screeching halts with 
-        fingers freezing stiffening becoming claws in a mess of flaking fading 
-        yellow paint limbs locked forward forever begging to be useful again. To be 
-        of service.
+        I wondered what it had been like, coming to final screeching halts with
+        fingers freezing stiffening becoming claws in a mess of flaking fading
+        yellow paint limbs locked forward forever begging to be useful again. To
+        be of service.
         <br />
         <br />
-        My footsteps thundered through the gray expanse as I crossed the room and 
-        exited the factory.
+        My footsteps thundered through the gray expanse as I crossed the room
+        and exited the factory.
         <br />
         <br />
-        Cold winter sun dragging itself across the sky, crows swaying like black 
-        silk then scattering into skeleton trees. Fields sharpened with frost and 
-        farmhouses collapsing into the horizon. Abandoned grid of warehouses like 
-        ancient metal jaws gaping to swallow the emptiness.
+        Cold winter sun dragging itself across the sky, crows swaying like black
+        silk then scattering into skeleton trees. Fields sharpened with frost
+        and farmhouses collapsing into the horizon. Abandoned grid of warehouses
+        like ancient metal jaws gaping to swallow the emptiness.
         <br />
         <br />
-        Car parked as usual, huddled lonely in the corner of the lot, ice climbing
-        the sides and spiraling across the windshield. I unlocked it, switched on 
-        the defroster, then reached into the backseat to retrieve my scraper.
+        Car parked as usual, huddled lonely in the corner of the lot, ice
+        climbing the sides and spiraling across the windshield. I unlocked it,
+        switched on the defroster, then reached into the backseat to retrieve my
+        scraper.
         <br />
         <br />
-        Slamming the door, I noticed the trunk was ajar and halfheartedly pushed 
-        down on it from the side. Met resistance. Tried again, harder, without 
-        success, then again, in exasperation from the day, hearing this time 
-        a crunch immediately sucked into the silence of the land.
+        Slamming the door, I noticed the trunk was ajar and halfheartedly pushed
+        down on it from the side. Met resistance. Tried again, harder, without
+        success, then again, in exasperation from the day, hearing this time a
+        crunch immediately sucked into the silence of the land.
         <br />
         <br />
-        Rounding the edge of the vehicle, I saw four human fingers stinging 
-        red, blackening, snapped just below their middle joints. Corpse of 
-        a woman inside, with clouded eyes staring out, following the line of 
-        her arm, which she must have used in defense. When I pushed the arm back
-        inside the car, her upper body untwisted and flattened to the floor and I saw it.
+        Rounding the edge of the vehicle, I saw four human fingers stinging red,
+        blackening, snapped just below their middle joints. Corpse of a woman
+        inside, with clouded eyes staring out, following the line of her arm,
+        which she must have used in defense. When I pushed the arm back inside
+        the car, her upper body untwisted and flattened to the floor and I saw
+        it.
         <br />
         <br />
-        Her neck was crushed. Falling separate to her head in a pile of ragged, red
-        rope. Side of her head caving into frozen blackness and blood, spilled 
-        and sticking the skin to the carpet with cold.
+        Her neck was crushed. Falling separate to her head in a pile of ragged,
+        red rope. Side of her head caving into frozen blackness and blood,
+        spilled and sticking the skin to the carpet with cold.
         <br />
         <br />
-        Serene, staring at her. Strange, wondering about the force at which her 
-        neck must have been wrenched. The force at which she’d been bashed 
-        against something, or with something. Whether that had come first, or 
-        if someone instead held her neck between their hands–her life
-        between their hands–and kept squeezing long after her joints burst and 
-        her blood spewed from frayed vessels and her breath staggered and
-        died and her eyes became stones.
+        Serene, staring at her. Strange, wondering about the force at which her
+        neck must have been wrenched. The force at which she’d been bashed
+        against something, or with something. Whether that had come first, or if
+        someone instead held her neck between their hands–her life between their
+        hands–and kept squeezing long after her joints burst and her blood
+        spewed from frayed vessels and her breath staggered and died and her
+        eyes became stones.
         <br />
-        <br />
-        I didn’t know if I’d killed her, but I knew I’d missed something extraordinary.
+        <br />I didn’t know if I’d killed her, but I knew I’d missed something
+        extraordinary.
       </StandardProse>
 
       <Footer />
