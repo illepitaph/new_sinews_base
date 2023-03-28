@@ -106,7 +106,7 @@
 @media (max-width: 927px) and (orientation: landscape) {
 
   .titleShadow {
-    font-size: 2.5rem;
+    font-size: 2.2rem;
     letter-spacing: 0.5rem;
   }
   
@@ -115,7 +115,7 @@
 @media (max-width: 913px) and (orientation: portrait) {
 
   .titleShadow {
-    font-size: 2.6rem;
+    font-size: 2.4rem;
     letter-spacing: 0.6rem;
   }
 
@@ -128,7 +128,7 @@
 @media (max-width: 855px) and (orientation: landscape) {
 
   .titleShadow {
-    font-size: 2.35rem;
+    font-size: 2rem;
     letter-spacing: 0.4rem;
   }
 
@@ -138,33 +138,10 @@
   
 }
 
-
 @media (max-width: 801px) and (orientation: landscape) {
 
   .titleShadow {
-    font-size: 2.15rem;
-    letter-spacing: 0.3rem;
-  }
-
-  .alternateTitleColor, .alternateTitleColorBigger {
-    font-size: 5.3rem;
-  }
-  
-}
-
-@media (max-width: 769px) and (orientation: portrait) {
-
-  .titleShadow {
-    font-size: 2.45rem;
-    letter-spacing: 0.4rem;
-  }
-
-}
-
-@media (max-width: 801px) and (orientation: landscape) {
-
-  .titleShadow {
-    font-size: 2rem;
+    font-size: 1.7rem;
     letter-spacing: 0.2rem;
   }
 
@@ -172,12 +149,21 @@
     font-size: 5.1rem;
   }
 }
+
+@media (max-width: 769px) and (orientation: portrait) {
+
+  .titleShadow {
+    font-size: 2.2rem;
+    letter-spacing: 0.4rem;
+  }
+
+}
   
 
 @media (max-width: 667px) and (orientation: landscape) {
 
   .titleShadow {
-    font-size: 1.8rem;
+    font-size: 1.6rem;
     letter-spacing: 0.1rem;
   }
 
