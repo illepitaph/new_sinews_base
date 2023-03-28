@@ -76,14 +76,16 @@
   }
 }
 
+@media (max-width: 429px) and (orientation: portrait) {
+  .shadowOne {
+    font-size: 1.3rem;
+  }
+}
+
 @media (max-width: 394px) and (orientation: portrait) {
   .titleShadow {
     font-size: 2rem;
     letter-spacing: 0.3rem;
-  }
-
-  .shadowOne {
-    font-size: 1.3rem;
   }
 }
 
