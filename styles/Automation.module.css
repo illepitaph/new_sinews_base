@@ -6,7 +6,7 @@
   color: snow;
   text-shadow: 1px 1px black, 5px 5px #aaf0d1, 7px 9px black;
   transform: skew(6deg, 7.4deg);
-  letter-spacing: 1.5rem;
+  letter-spacing: 3rem;
 }
 
 .inverse {
