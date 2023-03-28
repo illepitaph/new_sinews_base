@@ -51,11 +51,13 @@ export default function Needle() {
             <span className={styles.inverseShadow}>&gt;</span>&gt;
             <span className={styles.inverseShadow}>&gt;</span> &gt;
             <span className={styles.inverseShadow}>&gt;</span>&gt;
-            <span className={styles.extraMargin}>
+            <span className={styles.extraMarginOne}>
               <br />
-              <span className={styles.inverseShadow}>s</span>
+              <span className={styles.inverseShadow}> s</span>
               <span className={styles.titleShadowUppercase}>t</span>
-              <span className={styles.inverseShadow}>a </span>
+              <span className={styles.inverseShadow}>a </span></span>
+              <br />
+              <span className={styles.extraMarginTwo}>
               <span className={styles.inverseShadowUppercase}>l</span>k
               <span className={styles.titleShadowUppercase}>e</span>
               <span className={styles.inverseShadow}>d</span>
