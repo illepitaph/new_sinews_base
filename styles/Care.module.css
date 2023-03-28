@@ -82,24 +82,24 @@
 @media (width: 1024px) and (height: 1366px) {
 
   .titleShadow {
-    font-size: 3.8rem;
-    letter-spacing: 0.9rem;
+    font-size: 3.3rem;
+    letter-spacing: 0.3rem;
   }
 }
 
 @media (width: 1024px) and (height: 768px) {
 
   .titleShadow {
-    font-size: 3.8rem;
-    letter-spacing: 0.9rem;
+    font-size: 3.3rem;
+    letter-spacing: 0.3rem;
   }
 }
 
 @media (width: 1024px) and (height: 600px) {
 
   .titleShadow {
-    font-size: 3.8rem;
-    letter-spacing: 0.9rem;
+    font-size: 3.3rem;
+    letter-spacing: 0.3rem;
   }
 }
 
