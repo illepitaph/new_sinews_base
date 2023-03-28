@@ -31,7 +31,7 @@ export default function Automation() {
           <span className={styles.duskShadow}>
             <span className={styles.duskShadowSpecial}>m</span> a
             <span className={styles.inverseUppercase}>t</span>
-            <span className={styles.duskShadowSpecial}>i</span>o
+            <span className={styles.duskShadowSpecial}>i</span>o<br />
             <span className={styles.inverseUppercase}> n</span>
           </span>
         </span>
