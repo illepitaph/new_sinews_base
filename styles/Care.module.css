@@ -40,7 +40,7 @@
 
 .marginLeft {
   display: inline-block;
-  margin-left:23vw;
+  margin-left: 23vw;
 }
 
 .authorName {
@@ -68,7 +68,6 @@
 }
 
 @media (width: 1180px) and (height: 820px) {
-
   .titleShadow {
     font-size: 3.8rem;
     letter-spacing: 0.8rem;
@@ -76,7 +75,6 @@
 }
 
 @media (width: 1080px) and (height: 810px) {
-
   .titleShadow {
     font-size: 3.5rem;
     letter-spacing: 0.8rem;
@@ -84,7 +82,6 @@
 }
 
 @media (width: 1024px) and (height: 1366px) {
-
   .titleShadow {
     font-size: 3.3rem;
     letter-spacing: 0.3rem;
@@ -92,7 +89,6 @@
 }
 
 @media (width: 1024px) and (height: 768px) {
-
   .titleShadow {
     font-size: 3.3rem;
     letter-spacing: 0.3rem;
@@ -100,7 +96,6 @@
 }
 
 @media (width: 1024px) and (height: 600px) {
-
   .titleShadow {
     font-size: 3.3rem;
     letter-spacing: 0.3rem;
@@ -108,140 +103,126 @@
 }
 
 @media (max-width: 927px) and (orientation: landscape) {
-
   .titleShadow {
     font-size: 3.4rem;
     letter-spacing: 0.7rem;
   }
-  
 }
 
 @media (max-width: 913px) and (orientation: portrait) {
-
   .titleShadow {
     font-size: 2.9rem;
     letter-spacing: 0.6rem;
   }
 
-  .alternateTitleColor, .alternateTitleColorBigger {
+  .alternateTitleColor,
+  .alternateTitleColorBigger {
     font-size: 4rem;
   }
-
 }
 
 @media (max-width: 855px) and (orientation: landscape) {
-
   .titleShadow {
     font-size: 3.1rem;
     letter-spacing: 0.5rem;
   }
 
-  .alternateTitleColor, .alternateTitleColorBigger {
+  .alternateTitleColor,
+  .alternateTitleColorBigger {
     font-size: 5.8rem;
   }
-  
 }
 
-
 @media (max-width: 801px) and (orientation: landscape) {
-
   .titleShadow {
     font-size: 2.8rem;
     letter-spacing: 0.3rem;
   }
 
-  .alternateTitleColor, .alternateTitleColorBigger {
+  .alternateTitleColor,
+  .alternateTitleColorBigger {
     font-size: 5.3rem;
   }
-  
 }
 
 @media (max-width: 769px) and (orientation: portrait) {
-
   .titleShadow {
     font-size: 2.6rem;
     letter-spacing: 0.4rem;
   }
-
 }
 
 @media (max-width: 801px) and (orientation: landscape) {
-
   .titleShadow {
     font-size: 2.6rem;
     letter-spacing: 0.2rem;
   }
 
-  .alternateTitleColor, .alternateTitleColorBigger {
+  .alternateTitleColor,
+  .alternateTitleColorBigger {
     font-size: 5.1rem;
   }
 }
-  
 
 @media (max-width: 667px) and (orientation: landscape) {
-
   .titleShadow {
     font-size: 2rem;
   }
 
-  .alternateTitleColor, .alternateTitleColorBigger {
+  .alternateTitleColor,
+  .alternateTitleColorBigger {
     font-size: 5rem;
   }
-  
 }
 
 @media (max-width: 541px) and (orientation: portrait) {
-
   .titleShadow {
     margin-left: 1vw;
     font-size: 1.9rem;
     letter-spacing: 0.3rem;
   }
 
-  .inverseShadow, .inverseShadowUppercase {
+  .inverseShadow,
+  .inverseShadowUppercase {
     text-shadow: 1px 1px black, 3px 3px #aaf0d1, 5px 5px black;
   }
 
-  .alternateTitleColor, .alternateTitleColorBigger {
+  .alternateTitleColor,
+  .alternateTitleColorBigger {
     font-size: 3.3rem;
   }
 
   .authorName {
     font-size: 2.5rem;
   }
-
 }
 
 @media (max-width: 394px) and (orientation: portrait) {
-
   .titleShadow {
     margin-left: 1vw;
     font-size: 1.5rem;
   }
 
-  .alternateTitleColor, .alternateTitleColorBigger {
+  .alternateTitleColor,
+  .alternateTitleColorBigger {
     font-size: 3rem;
   }
-
 }
 
 @media (max-width: 321px) and (orientation: portrait) {
-
   .titleShadow {
     margin-left: 1vw;
     font-size: 1.3rem;
   }
 
-  .alternateTitleColor, .alternateTitleColorBigger {
+  .alternateTitleColor,
+  .alternateTitleColorBigger {
     font-size: 2.5rem;
   }
-
 }
 
 @media (max-width: 321px) and (orientation: portrait) {
-
   .titleShadow {
     font-size: 0.9rem;
   }
-
 }
