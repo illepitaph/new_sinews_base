@@ -26,7 +26,7 @@
 
 .extraMarginOne {
   margin-left: 7vw;
-  line-height:4rem;
+  line-height: 4rem;
 }
 
 .extraMarginTwo {
@@ -74,13 +74,16 @@
   .inverseShadowUppercase {
     text-shadow: 1px 1px black, 3px 3px #aaf0d1, 5px 5px black;
   }
-
 }
 
 @media (max-width: 394px) and (orientation: portrait) {
   .titleShadow {
     font-size: 2rem;
     letter-spacing: 0.3rem;
+  }
+
+  .shadowOne {
+    font-size: 1.3rem;
   }
 }
 
@@ -91,12 +94,7 @@
 }
 
 @media (max-width: 281px) and (orientation: portrait) {
-
   .titleShadow {
     font-size: 1.3rem;
   }
-
-  .shadowOne {
-    font-size: 1.3rem;
-}
 }
