@@ -31,7 +31,7 @@
   font-style: italic;
   font-size: 14.3rem;
   color: white;
-  text-shadow: 10px 10px 20px black;
+  text-shadow: 3px 3px 20px black;
   transform: skew(6deg, 7.4deg);
   letter-spacing: 2rem;
 }
