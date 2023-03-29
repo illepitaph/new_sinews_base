@@ -13,6 +13,9 @@ import { KaputRawText12 } from "../galleryText/kaputGalleryText.js";
 import { KaputRawText13 } from "../galleryText/kaputGalleryText.js";
 import { KaputRawText14 } from "../galleryText/kaputGalleryText.js";
 import { KaputRawText15 } from "../galleryText/kaputGalleryText.js";
+import { KaputRawText16 } from "../galleryText/kaputGalleryText.js";
+import { KaputRawText17 } from "../galleryText/kaputGalleryText.js";
+import { KaputRawText18 } from "../galleryText/kaputGalleryText.js";
 
 export const kaputText = [
   { title: "Kaput 1", textName: KaputRawText1 },
@@ -30,4 +33,7 @@ export const kaputText = [
   { title: "Kaput 13", textName: KaputRawText13 },
   { title: "Kaput 14", textName: KaputRawText14 },
   { title: "Kaput 15", textName: KaputRawText15 },
+  { title: "Kaput 16", textName: KaputRawText16 },
+  { title: "Kaput 17", textName: KaputRawText17 },
+  { title: "Kaput 18", textName: KaputRawText18 },
 ];

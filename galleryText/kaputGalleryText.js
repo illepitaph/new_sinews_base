@@ -209,3 +209,45 @@ export function KaputRawText15() {
     </>
   );
 }
+
+export function KaputRawText16() {
+  return (
+    <>
+      <span className={styles.load}>
+        <img
+          className={styles.img}
+          src="../images/Kaput16.jpg"
+          alt="Psalmist Kaput [entrance] by Mike Corrao ~ Image 16"
+        ></img>
+      </span>
+    </>
+  );
+}
+
+export function KaputRawText17() {
+  return (
+    <>
+      <span className={styles.load}>
+        <img
+          className={styles.img}
+          src="../images/Kaput17.jpg"
+          alt="Psalmist Kaput [entrance] by Mike Corrao ~ Image 17"
+        ></img>
+      </span>
+    </>
+  );
+}
+
+export function KaputRawText18() {
+  return (
+    <>
+      <span className={styles.load}>
+        <img
+          className={styles.img}
+          src="../images/Kaput18.jpg"
+          alt="Psalmist Kaput [entrance] by Mike Corrao ~ Image 18"
+        ></img>
+      </span>
+    </>
+  );
+}
