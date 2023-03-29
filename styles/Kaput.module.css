@@ -230,12 +230,12 @@
 
   .carousel > .prev {
     left: -1%;
-    top: 11%;
+    top: -5%;
   }
 
   .carousel > .next {
     right: 3%;
-    top: 73%;
+    top: 83%;
   }
 
   .img {
