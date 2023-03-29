@@ -82,7 +82,7 @@
     text-transform: uppercase;
     letter-spacing: 0;
     cursor: pointer;
-    opacity: 0.6;
+    opacity: 0.7;
     line-height: 5rem;
   }
   
@@ -122,29 +122,7 @@
     color: lightgray;
     text-shadow: 1px 2px white, 2px 3px black, 3px 4px white, 4px 5px black, 5px 6px white, 6px 7px 15px black;
     text-transform: uppercase;
-  }
-  
-  .blackShadow {
-    color: black;
-    text-shadow: 4px 4px snow, 6px 6px #b0b0b0;
-  }
-  
-  .grayShadow {
-    color: gainsboro;
-    text-shadow: 2px 2px black, 4px 4px #b0b0b0;
-    text-transform: uppercase;
-    letter-spacing: 1.4rem;
-    line-height: 5.4rem;
-  }
-  
-  .alternateShadow {
-    color: #b0b0b0;
-    text-shadow: 4px 4px snow;
-  }
-  
-  .blueLetter {
-    color: #2cbae7;
-    text-shadow: 4px 4px snow, 6px 6px #b0b0b0;
+    opacity:0.9;
   }
   
   .load,
