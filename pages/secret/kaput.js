@@ -59,11 +59,11 @@ export default function Kaput() {
       <div className={styles.container}>
         <div className={styles.carousel}>
           <div className={styles.prev} onClick={prevText}>
-            &#8678; back <br /> &#8604; &#10710; &#8604;
-            <br /> back &#8678;
+          &#8604; space <br />  &#128356; &#9980; &#128338;
+            <br />  space &#8604;
           </div>
           <div className={styles.next} onClick={nextText}>
-            &#8680; forth <br /> &#10547; &#10710; &#10547; <br /> forth &#8680;
+          &#10547; time <br /> &#128338; &#9980; &#128356; <br /> time &#10547;
           </div>
           <div>
             <RawText />
