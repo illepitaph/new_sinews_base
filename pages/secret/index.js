@@ -32,40 +32,32 @@ export default function Issue7() {
           </Link>
         </div>
         <div className={styles.workColumn}>
-        <span className={styles.specialAlign}>
           <Link href="/issue6/castingoff" passHref>
             <div className={styles.workLink}>
               gabriel palacios &lt;&lt;&lt;&lt; rival graveyards
             </div>
           </Link>
-          </span>
         </div>
         <div className={styles.workColumn}>
-        <span className={styles.specialAlignTwo}>
           <Link href="/issue6/mfnz" passHref>
             <div className={styles.workLink}>
             kelly krumrie &gt;&gt;&gt;&gt; proof
             </div>
           </Link>
-          </span>
         </div>
         <div className={styles.workColumn}>
-        <span className={styles.specialAlignTwo}>
           <Link href="/issue6/harrier" passHref>
             <div className={styles.workLink}>
             nora wall &lt;&lt;&lt;&lt; automation
             </div>
           </Link>
-          </span>
         </div>
         <div className={styles.workColumn}>
-        <span className={styles.specialAlignTwo}>
           <Link href="/issue6/griffin" passHref>
             <div className={styles.workLink}>
             atsushi ikeda &gt;&gt;&gt;&gt; needle stalked
             </div>
           </Link>
-          </span>
         </div>
         <div className={styles.workColumn}>
           <Link href="/issue6/griffin" passHref>
@@ -75,22 +67,18 @@ export default function Issue7() {
           </Link>
         </div>
         <div className={styles.workColumn}>
-        <span className={styles.specialAlign}>
           <Link href="/issue6/griffin" passHref>
             <div className={styles.workLink}>
             julia shiota &gt;&gt;&gt;&gt; dramatis personae
             </div>
           </Link>
-          </span>
         </div>
         <div className={styles.workColumn}>
-        <span className={styles.specialAlignTwo}>
           <Link href="/issue6/griffin" passHref>
             <div className={styles.workLink}>
             matthew moore &lt;&lt;&lt;&lt; from <i>lord chandos</i>
             </div>
           </Link>
-          </span>
         </div>
         <div className={styles.workColumn}>
             <span className={styles.specialAlign}>
