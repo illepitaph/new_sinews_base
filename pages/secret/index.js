@@ -26,8 +26,7 @@ export default function Issue7() {
         <div className={styles.workColumn}>
           <Link href="/issue6/ihns" passHref>
             <div className={styles.workLink}>
-              genta_nishku &gt;&gt;&gt;&gt;
-              perpetual care 
+              genta_nishku &gt;&gt;&gt;&gt; perpetual care
             </div>
           </Link>
         </div>
@@ -41,51 +40,69 @@ export default function Issue7() {
         <div className={styles.workColumn}>
           <Link href="/issue6/mfnz" passHref>
             <div className={styles.workLink}>
-            kelly krumrie &gt;&gt;&gt;&gt; proof
+              kelly krumrie &gt;&gt;&gt;&gt; proof
             </div>
           </Link>
         </div>
         <div className={styles.workColumn}>
           <Link href="/issue6/harrier" passHref>
             <div className={styles.workLink}>
-            nora wall &lt;&lt;&lt;&lt; automation
+              nora wall &lt;&lt;&lt;&lt; automation
             </div>
           </Link>
         </div>
         <div className={styles.workColumn}>
           <Link href="/issue6/griffin" passHref>
             <div className={styles.workLink}>
-            atsushi ikeda &gt;&gt;&gt;&gt; needle stalked
+              atsushi ikeda &gt;&gt;&gt;&gt; needle stalked
             </div>
           </Link>
         </div>
         <div className={styles.workColumn}>
           <Link href="/issue6/griffin" passHref>
             <div className={styles.workLink}>
-            mike corrao &lt;&lt;&lt;&lt; psalmist kaput [entrance]
+              mike corrao &lt;&lt;&lt;&lt; psalmist kaput [entrance]
             </div>
           </Link>
         </div>
         <div className={styles.workColumn}>
           <Link href="/issue6/griffin" passHref>
             <div className={styles.workLink}>
-            julia shiota &gt;&gt;&gt;&gt; dramatis personae
+              julia shiota &gt;&gt;&gt;&gt; dramatis personae
             </div>
           </Link>
         </div>
         <div className={styles.workColumn}>
           <Link href="/issue6/griffin" passHref>
             <div className={styles.workLink}>
-            matthew moore &lt;&lt;&lt;&lt; from <i>lord chandos</i>
+              matthew moore &lt;&lt;&lt;&lt; from <i>lord chandos</i>
             </div>
           </Link>
         </div>
         <div className={styles.workColumn}>
-            <span className={styles.specialAlign}>
-        <Link href="/issue6/bios" passHref>
-            <div className={styles.workLink}>... b i o s ...</div>
-          </Link>
+          <span className={styles.specialAlign}>
+            <Link href="/issue6/bios" passHref>
+              <div className={styles.workLink}>... b i o s ...</div>
+            </Link>
           </span>
+        </div>
+        <div className={styles.siteShortcuts}>
+          <Link href="/" passHref>
+            <button className={styles.linkButton}>&gt;new sinews&gt;</button>
+          </Link>
+          <Link href="/about" passHref>
+            <button className={styles.linkButton}>&lt;about&gt;</button>
+          </Link>
+          <button className={styles.linkButton}>
+            <a
+              className={styles.twitterLinkTag}
+              href="https://twitter.com/new_sinews"
+              target="_blank"
+              rel="noreferrer"
+            >
+              &lt;tweeter&lt;
+            </a>
+          </button>
         </div>
       </div>
     </>
