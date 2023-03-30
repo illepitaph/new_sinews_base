@@ -127,6 +127,7 @@
   text-decoration: none;
   color: white;
   transition: 0.4s ease-in-out opacity;
+  cursor:pointer;
 }
 
 .siteShortcuts > .linkButton:hover {
