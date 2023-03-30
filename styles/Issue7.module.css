@@ -99,10 +99,7 @@
 
 .specialAlign {
   text-align: right;
-}
-
-.specialAlignTwo {
-  text-align: center;
+  text-transform: lowercase;
 }
 
 .siteShortcuts {

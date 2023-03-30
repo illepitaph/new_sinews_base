@@ -82,7 +82,7 @@ export default function Issue7() {
         <div className={styles.workColumn}>
           <span className={styles.specialAlign}>
             <Link href="/issue6/bios" passHref>
-              <div className={styles.workLink}>... b i o s ...</div>
+              <div className={styles.workLink}>... ... b i o s ... ...</div>
             </Link>
           </span>
         </div>
