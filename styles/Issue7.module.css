@@ -72,10 +72,9 @@
   position: absolute;
   display: flex;
   flex-flow: column wrap;
-  column-gap: 3vw;
-  row-gap: 1.9vw;
+  row-gap: 1.78vw;
   max-width: 85vw;
-  top: 40px;
+  top:30px;
   left: 3vw;
   font-family: "lores-22-bold-oakland", monospace;
 }
@@ -111,7 +110,7 @@
   flex-flow: row;
   row-gap: 3vw;
   justify-content: space-between;
-  margin: 6vw 1.5vw 0 0;
+  margin: 7vw 1.5vw 0 0;
 }
 
 .siteShortcuts > .linkButton {
