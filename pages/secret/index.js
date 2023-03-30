@@ -4,8 +4,8 @@ import styles from "../../styles/Issue7.module.css";
 Issue7.title = "new_sinews issue7";
 Issue7.pieceName = "new_sinews issue7";
 Issue7.description =
-  "_newsinews issue6_Kirsten Ihns+Jacqueline Feldman+Brandon Shimoda+Julian Mithra+Brandan Griffin+Chris Beausang+Vi Khi Nao+Cary Stough+Megan Jeanne Gette+Xiao Yue Shan";
-Issue7.image = "https://www.newnewsinews.com/images/Issue6CoverMeta.jpg";
+  "_newsinews issue7_Genta Nishku+Gabriel Palacios+Kelly Krumrie+Nora Wall+Atsushi Ikeda+Mike Corrao+Julia Shiota+Matthew Moore";
+Issue7.image = "https://www.newnewsinews.com/images/Issue7Cover.jpg";
 
 export default function Issue7() {
   return (
@@ -24,56 +24,56 @@ export default function Issue7() {
 
       <div className={styles.issueContents}>
         <div className={styles.workColumn}>
-          <Link href="/issue6/ihns" passHref>
+          <Link href="/secret/care" passHref>
             <div className={styles.workLink}>
               genta_nishku &gt;&gt;&gt;&gt; perpetual care
             </div>
           </Link>
         </div>
         <div className={styles.workColumn}>
-          <Link href="/issue6/castingoff" passHref>
+          <Link href="/secret/graveyards" passHref>
             <div className={styles.workLink}>
               gabriel palacios &lt;&lt;&lt;&lt; rival graveyards
             </div>
           </Link>
         </div>
         <div className={styles.workColumn}>
-          <Link href="/issue6/mfnz" passHref>
+          <Link href="/secret/proof" passHref>
             <div className={styles.workLink}>
               kelly krumrie &gt;&gt;&gt;&gt; proof
             </div>
           </Link>
         </div>
         <div className={styles.workColumn}>
-          <Link href="/issue6/harrier" passHref>
+          <Link href="/secret/automation" passHref>
             <div className={styles.workLink}>
               nora wall &lt;&lt;&lt;&lt; automation
             </div>
           </Link>
         </div>
         <div className={styles.workColumn}>
-          <Link href="/issue6/griffin" passHref>
+          <Link href="/secret/needle" passHref>
             <div className={styles.workLink}>
               atsushi ikeda &gt;&gt;&gt;&gt; needle stalked
             </div>
           </Link>
         </div>
         <div className={styles.workColumn}>
-          <Link href="/issue6/griffin" passHref>
+          <Link href="/secret/kaput" passHref>
             <div className={styles.workLink}>
               mike corrao &lt;&lt;&lt;&lt; psalmist kaput [entrance]
             </div>
           </Link>
         </div>
         <div className={styles.workColumn}>
-          <Link href="/issue6/griffin" passHref>
+          <Link href="/secret/personae" passHref>
             <div className={styles.workLink}>
               julia shiota &gt;&gt;&gt;&gt; dramatis personae
             </div>
           </Link>
         </div>
         <div className={styles.workColumn}>
-          <Link href="/issue6/griffin" passHref>
+          <Link href="/secret/moore" passHref>
             <div className={styles.workLink}>
               matthew moore &lt;&lt;&lt;&lt; from <i>lord chandos</i>
             </div>
