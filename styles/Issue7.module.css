@@ -111,7 +111,7 @@
   font-size: 4.3rem;
   text-align: right;
   margin: 2vh 2vw 0 0;
-  animation: fadeOut ease-out 3.9s infinite reverse;
+  animation: fadeOut ease-out 3.9s infinite alternate;
 }
 
 .issueContents {
