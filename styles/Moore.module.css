@@ -86,6 +86,27 @@
   white-space: pre-wrap;
 }
 
+@media (width: 1024px) and (height: 1366px) {
+  .poem {
+    max-width:90vw;
+    margin-left:9vw;
+  }
+}
+
+@media (width: 1024px) and (height: 768px) {
+  .poem {
+    max-width:90vw;
+    margin-left:9vw;
+  }
+}
+
+@media (width: 1024px) and (height: 600px) {
+  .poem {
+    max-width:90vw;
+    margin-left:9vw;
+  }
+}
+
 @media (max-width: 927px) and (orientation: landscape) {
   .poem {
     max-width: 94vw;
