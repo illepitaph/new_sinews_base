@@ -114,11 +114,12 @@
   }
 }
 
-@media (max-width: 541px) and (orientation: portrait) {
+@media (max-width: 601px) and (orientation: portrait) {
 
   .poem {
     font-size: 0.79rem;
     margin-left:2vw;
+    white-space:pre-wrap;
   }
 
   .poemTitle,
@@ -149,10 +150,6 @@
   .poemTitleTwo {
     margin-left:4vw;
     font-size: 2.2rem;
-  }
-
-  .poem {
-    white-space: pre-wrap;
   }
 }
 
