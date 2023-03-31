@@ -253,9 +253,9 @@ D
       <h3 className={styles.poemTitle}>dead friends</h3>
       <br />
       <br />
-      <pre
-        className={styles.poem}
-      >{`Rome’s alleys are washed in the blood of Fascist and anti-Fascist graffiti.
+      <pre className={styles.poem}>
+        <span className={styles.specialWrap}>
+          {`Rome’s alleys are washed in the blood of Fascist and anti-Fascist graffiti.
 Sentenced names. Fateful names. Helpless, the hands scrawl out fate.
 It is fate the perpetrators run guns for. Dead echoes. Carnate remnants.
 Heaven’s contingencies. Observation cannot allay breath’s prejudice.
@@ -271,7 +271,9 @@ Including love and torture, form its grammar, the lines its tongue trawls,
 On wanton ropes of blood, if sea snails and brass shells hug, noosing,
 By arms, and legs, and necks, asemic populations of breath, and hoisted up
 Corpses, enfleshed in every room by fires and knives mutilations hide,
-In every room no vacancy keeps, to parody, thus unite, a residence on earth.`}</pre>
+In every room no vacancy keeps, to parody, thus unite, a residence on earth.`}
+        </span>
+      </pre>
       <br />
       <br />
       <br />

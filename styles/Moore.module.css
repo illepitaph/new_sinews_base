@@ -1,7 +1,8 @@
 .titleShadow {
   font-size: 2.6rem;
   color: #e8e8e8;
-  text-shadow: 1px 1px white, 3px 3px black, 4px 4px white, 5px 5px #e8e8e8, 6px 6px black, 7px 7px white, 8px 8px 16px black;
+  text-shadow: 1px 1px white, 3px 3px black, 4px 4px white, 5px 5px #e8e8e8,
+    6px 6px black, 7px 7px white, 8px 8px 16px black;
   letter-spacing: 1rem;
 }
 
@@ -81,6 +82,10 @@
   margin-left: 23vw;
 }
 
+.specialWrap {
+  white-space:pre-wrap;
+}
+
 @media (max-width: 927px) and (orientation: landscape) {
   .poem {
     margin-left: 5vw;
@@ -88,15 +93,13 @@
 }
 
 @media (max-width: 913px) and (orientation: portrait) {
-
   .poem {
     font-size: 1.03rem;
-    margin-left:9vw;
+    margin-left: 9vw;
   }
 }
 
 @media (max-width: 813px) and (orientation: landscape) {
-
   .nameShadow {
     letter-spacing: 0.4rem;
   }
@@ -108,18 +111,15 @@
 }
 
 @media (max-width: 721px) and (orientation: landscape) {
-
   .poem {
     font-size: 0.96rem;
   }
 }
 
-@media (max-width: 601px) and (orientation: portrait) {
-
+@media (max-width: 541px) and (orientation: portrait) {
   .poem {
     font-size: 0.79rem;
-    margin-left:2vw;
-    white-space:pre-wrap;
+    margin-left: 2vw;
   }
 
   .poemTitle,
@@ -134,22 +134,27 @@
   }
 
   .nameShadow {
-    font-size:2.6rem;
+    font-size: 2.6rem;
     letter-spacing: 0.1rem;
   }
 
-  .titleShadow, .nameShadowUppercase {
+  .titleShadow,
+  .nameShadowUppercase {
     letter-spacing: 0.1rem;
   }
 
   .nameHeight {
-    line-height:8vh;
+    line-height: 8vh;
   }
 
   .poemTitle,
   .poemTitleTwo {
-    margin-left:4vw;
+    margin-left: 4vw;
     font-size: 2.2rem;
+  }
+
+  .poem {
+    white-space: pre-wrap;
   }
 }
 
@@ -188,4 +193,3 @@
     margin-left: 1vw;
   }
 }
-
