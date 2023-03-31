@@ -43,6 +43,51 @@
   }
 }
 
+@keyframes fadeOut {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+@-moz-keyframes fadeOut {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+@-webkit-keyframes fadeOut {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+@-o-keyframes fadeOut {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+@-ms-keyframes fadeOut {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
 .bodyContainer {
   position: fixed;
   background: url("../public/images/Issue7Cover.jpg") repeat right fixed;
@@ -66,6 +111,7 @@
   font-size: 4.3rem;
   text-align: right;
   margin: 2vh 2vw 0 0;
+  animation: fadeOut ease-out 3.9s infinite reverse;
 }
 
 .issueContents {
