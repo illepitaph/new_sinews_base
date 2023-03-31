@@ -11,7 +11,7 @@
   margin-left: 4.6vw;
   font-size: 4.9rem;
   text-shadow: 5px 5px snow, 10px 10px gainsboro;
-  letter-spacing: 3.4rem;
+  letter-spacing: 1.4rem;
   transform: skew(12deg, 1.4deg);
 }
 
@@ -20,7 +20,7 @@
   margin-left: 5vw;
   font-size: 4.3rem;
   text-shadow: 5px 5px snow, 10px 10px gainsboro;
-  letter-spacing: 3.4rem;
+  letter-spacing: 1.4rem;
   transform: skew(-12deg, 1.4deg);
 }
 
@@ -29,7 +29,7 @@
   margin-left: 7vw;
   font-size: 4.3rem;
   text-shadow: 5px 5px snow, 10px 10px gainsboro;
-  letter-spacing: 7.4rem;
+  letter-spacing: 1.4rem;
   transform: skew(-12deg, 7.4deg);
 }
 
@@ -38,7 +38,7 @@
   margin-left: 5.6vw;
   font-size: 4.9rem;
   text-shadow: 5px 5px snow, 10px 10px gainsboro;
-  letter-spacing: 5.4rem;
+  letter-spacing: 2.4rem;
   transform: skew(12deg, 1.4deg);
 }
 
@@ -93,163 +93,6 @@
   text-align: center;
 }
 
-@media (width: 1280px) and (height: 800px) {
-
-  .margin {
-    margin: -40vh 0 0 7vw;
-  }
-
-  .faintShadowMain, .faintShadowMainTwo, .faintShadowMainThree, .faintShadowMainFour {
-    font-size:3.4rem;
-    letter-spacing: 1.2rem;
-  }
-
-  .uppercaseFaintShadow,
-  .uppercaseAlternateTitleColor,
-  .faintShadowAncillary,
-  .alternateTitleColorGray {
-    font-size: 3.9rem;
-    letter-spacing: 1.2rem;
-  }
-}
-
-@media (width: 1194px) and (height: 834px) {
-
-  .margin {
-    margin: -40vh 0 0 7vw;
-  }
-
-  .faintShadowMain, .faintShadowMainTwo, .faintShadowMainThree, .faintShadowMainFour {
-    font-size:3.4rem;
-    letter-spacing: 1.2rem;
-  }
-
-  .uppercaseFaintShadow,
-  .uppercaseAlternateTitleColor,
-  .faintShadowAncillary,
-  .alternateTitleColorGray {
-    font-size: 3.9rem;
-    letter-spacing: 1.2rem;
-  }
-}
-
-@media (width: 1180px) and (height: 820px) {
-
-  .margin {
-    margin: -30vh 0 0 7vw;
-  }
-
-  .faintShadowMain, .faintShadowMainTwo, .faintShadowMainThree, .faintShadowMainFour {
-    font-size:3.4rem;
-    letter-spacing: 1.2rem;
-  }
-
-  .uppercaseFaintShadow,
-  .uppercaseAlternateTitleColor,
-  .faintShadowAncillary,
-  .alternateTitleColorGray {
-    font-size: 3.9rem;
-    letter-spacing: 1.2rem;
-  }
-}
-
-@media (width: 1080px) and (height: 810px) {
-
-  .margin {
-    margin: -30vh 0 0 7vw;
-  }
-
-  .faintShadowMain, .faintShadowMainTwo, .faintShadowMainThree, .faintShadowMainFour {
-    font-size:3.4rem;
-    letter-spacing: 1.2rem;
-  }
-
-  .uppercaseFaintShadow,
-  .uppercaseAlternateTitleColor,
-  .faintShadowAncillary,
-  .alternateTitleColorGray {
-    font-size: 3.9rem;
-    letter-spacing: 1.2rem;
-  }
-
-  .alternateTitleColor, .alternateTitleColorGray {
-    font-size:8.9rem;
-  }
-}
-
-
-@media (width: 1024px) and (height: 1366px) {
-
-  .margin {
-    margin: -30vh 0 0 7vw;
-  }
-
-  .faintShadowMain, .faintShadowMainTwo, .faintShadowMainThree, .faintShadowMainFour {
-    font-size:3.4rem;
-    letter-spacing: 1.2rem;
-  }
-
-  .uppercaseFaintShadow,
-  .uppercaseAlternateTitleColor,
-  .faintShadowAncillary,
-  .alternateTitleColorGray {
-    font-size: 3.9rem;
-    letter-spacing: 1.2rem;
-  }
-
-  .alternateTitleColor, .alternateTitleColorGray {
-    font-size:8.9rem;
-  }
-}
-
-@media (width: 1024px) and (height: 768px) {
-
-  .margin {
-    margin: -30vh 0 0 7vw;
-  }
-
-  .faintShadowMain, .faintShadowMainTwo, .faintShadowMainThree, .faintShadowMainFour {
-    font-size:3.4rem;
-    letter-spacing: 1.2rem;
-  }
-
-  .uppercaseFaintShadow,
-  .uppercaseAlternateTitleColor,
-  .faintShadowAncillary,
-  .alternateTitleColorGray {
-    font-size: 3.9rem;
-    letter-spacing: 1.2rem;
-  }
-
-  .alternateTitleColor, .alternateTitleColorGray {
-    font-size:8.9rem;
-  }
-}
-
-@media (width: 1024px) and (height: 600px) {
-
-  .margin {
-    margin: -30vh 0 0 7vw;
-  }
-
-  .faintShadowMain, .faintShadowMainTwo, .faintShadowMainThree, .faintShadowMainFour {
-    font-size:3.4rem;
-    letter-spacing: 1.2rem;
-  }
-
-  .uppercaseFaintShadow,
-  .uppercaseAlternateTitleColor,
-  .faintShadowAncillary,
-  .alternateTitleColorGray {
-    font-size: 3.9rem;
-    letter-spacing: 1.2rem;
-  }
-
-  .alternateTitleColor, .alternateTitleColorGray {
-    font-size:8.9rem;
-  }
-}
-
 @media (max-width: 927px) and (orientation: landscape) {
 
   .margin {
@@ -276,6 +119,10 @@
 
   .alternateTitleColor, .alternateTitleColorGray {
     font-size:8.9rem;
+  }
+
+  .authorName {
+    font-size: 4.5rem;
   }
 }
 
