@@ -114,14 +114,14 @@
   align-self: flex-end;
   width: 13vw;
   border: 0;
-  background-color: silver;
+  background-color: #f70d1a;
   padding: 0.7vh 0.1vw;
   font-size: 1.2rem;
   border-radius: 44px;
   letter-spacing: 0.1rem;
-  opacity: 0.48;
+  opacity: 0.38;
   font-family: "lores-9-plus-narrow", monospace;
-  color:#282828;
+  color:white;
   text-decoration: none;
   transition: 0.6s ease-in-out opacity;
   cursor:pointer;
