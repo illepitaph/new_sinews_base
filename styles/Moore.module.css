@@ -83,7 +83,7 @@
 }
 
 .specialWrap {
-  white-space:pre-wrap;
+  white-space: pre-wrap;
 }
 
 @media (max-width: 927px) and (orientation: landscape) {
