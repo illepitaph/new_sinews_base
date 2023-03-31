@@ -684,6 +684,27 @@
   }
 }
 
+@media (width: 600px) and (height: 1024px) {
+  .siteNav {
+    margin-right: 18vw;
+  }
+
+  .siteNav > .dropDown > button,
+  .home,
+  .about {
+    width: 8rem;
+    font-size: 0.8rem;
+    margin-bottom: 1.7vh;
+    padding: 9px 16px;
+    opacity: 0.9;
+  }
+
+  .home {
+    font-size: 0.8rem;
+    margin-top: 0.2vh;
+  }
+}
+
 @media (width: 540px) and (height: 720px) {
   .siteNav {
     margin-right: 13vw;

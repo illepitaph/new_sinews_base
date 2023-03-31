@@ -142,19 +142,13 @@
     font-size: 2.4rem;
   }
 
-  .issueContentsOne {
+  .issueContents {
     column-gap: 3vw;
     row-gap: 1.9vw;
     height: 35vh;
     max-width: 92vw;
     top: 0.5vh;
     left: 1vw;
-  }
-
-  .issueContentsTwo {
-    row-gap: 1vw;
-    left: 1.2vw;
-    bottom: 7vh;
   }
 
   .workLink {
@@ -172,7 +166,7 @@
     font-size: 2.2rem;
   }
 
-  .issueContentsOne {
+  .issueContents {
     max-width: 99vw;
     column-gap: 4vw;
   }
@@ -187,20 +181,16 @@
     font-size: 2rem;
   }
 
-  .issueContentsOne {
+  .issueContents {
     column-gap: 3vw;
   }
 }
 
 @media (max-width: 811px) and (orientation: portrait) {
-  .issueContentsOne {
+  .issueContents {
     column-gap: 7vw;
     row-gap: 3.9vw;
     top: 5vh;
-  }
-
-  .issueContentsTwo {
-    bottom: 10vh;
   }
 
   .workLink {
@@ -222,10 +212,6 @@
     font-size: 1.8rem;
   }
 
-  .issueContentsTwo {
-    bottom: 10vh;
-  }
-
   .workLink {
     font-size: 1.1rem;
   }
@@ -235,17 +221,6 @@
   .pageTitle {
     font-size: 1.7rem;
   }
-
-  .issueContentsTwo {
-    bottom: 15vh;
-  }
-}
-
-@media (max-width: 541px) and (orientation: portrait) {
-  .issueContentsTwo {
-    max-height: 5vh;
-    bottom: 0;
-  }
 }
 
 @media (max-width: 429px) and (orientation: portrait) {
@@ -253,20 +228,13 @@
     font-size: 3.4rem;
   }
 
-  .issueContentsOne {
+  .issueContents {
     column-gap: 3vw;
     row-gap: 1.9vw;
     height: 35vh;
     max-width: 92vw;
     top: 2vh;
     left: 1vw;
-  }
-
-  .issueContentsTwo {
-    max-height: 28vh;
-    row-gap: 5vw;
-    left: 1.2vw;
-    bottom: 5vh;
   }
 
   .workLink {
@@ -299,14 +267,8 @@
     font-size: 1.1rem;
   }
 
-  .issueContentsOne {
+  .issueContents {
     column-gap: 4vw;
     row-gap: 5vw;
-  }
-}
-
-@media (max-width: 281px) and (orientation: portrait) {
-  .issueContentsTwo {
-    bottom: 0;
   }
 }
