@@ -95,6 +95,7 @@
 
 @media (max-width: 913px) and (orientation: portrait) {
   .poem {
+    max-width: 90vw;
     font-size: 1.03rem;
     margin-left: 9vw;
   }
@@ -119,6 +120,7 @@
 
 @media (max-width: 541px) and (orientation: portrait) {
   .poem {
+    max-width: 94vw;
     font-size: 0.79rem;
     margin-left: 5vw;
   }
@@ -162,6 +164,7 @@
   }
 
   .poem {
+    max-width: 96vw;
     font-size: 0.61rem;
     margin-left: 3vw;
   }
