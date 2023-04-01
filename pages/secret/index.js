@@ -11,7 +11,6 @@ export default function Issue7() {
   return (
     <>
       <Head />
-
       <div className={styles.bodyContainer}>
         <div className={styles.pageTitle}>
           n<br />
@@ -21,7 +20,29 @@ export default function Issue7() {
           <br />w<br />s
         </div>
       </div>
-
+      <br />
+      <br /> 
+      <br />
+      <br /> 
+      <br />
+      <br /> 
+      <br />
+      <br /> 
+      <br />
+      <br /> 
+      <br />
+      <br />
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <div className={styles.pageTitle}>
+        n<br />
+        <i>e</i>
+        <br />w<br />s<br />i<br />n<br />
+        <i>e</i>
+        <br />w<br />s
+      </div>
       <div className={styles.issueContents}>
         <div className={styles.workColumn}>
           <Link href="/secret/care" passHref>
