@@ -109,7 +109,7 @@
   color: #f70d1a;
   text-shadow: 2px 2px white, 4px 4px black, 6px 6px white, 8px 8px black,
     10px 10px white, 12px 12px black, 14px 14px 20px silver;
-  font-size: 4.3rem;
+  font-size: 4.1rem;
   text-align: right;
   margin: 2vh 2vw 0 0;
   animation: fadeOut ease-out 3.9s infinite alternate;
@@ -155,7 +155,7 @@
   row-gap: 3vw;
   justify-content: space-between;
   align-items: flex-end;
-  height:16vh;
+  height:14vh;
 }
 
 .siteShortcuts > .linkButton {
