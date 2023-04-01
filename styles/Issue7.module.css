@@ -101,6 +101,7 @@
   left: 0px;
   overflow: hidden;
   animation: fadeIn ease-out 0.9s;
+  overflow:hidden;
 }
 
 .pageTitle {
