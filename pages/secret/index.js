@@ -20,40 +20,10 @@ export default function Issue7() {
           <br />w<br />s
         </div>
       </div>
-      <br />
-      <br /> 
-      <br />
-      <br /> 
-      <br />
-      <br /> 
-      <br />
-      <br /> 
-      <br />
-      <br /> 
-      <br />
-      <br />
-      <br/>
-      <br/>
-      <br/>
-      <br/>
       <div className={styles.pageTitleTwo}>
         n<br />
         <i>e</i>
         <br />w<br />s<br />i<br />n<br />
-        <i>e</i>
-        <br />w<br />s
-      </div>
-      <div className={styles.pageTitleThree}>
-      n<br />
-        <i>e</i>
-        <br />w<br />s<br />i<br />n<br />
-        <i>e</i>
-        <br />w<br />s
-      </div>
-      <div className={styles.pageTitleFour}>
-        n<br />
-        <i>e</i>
-        <br />w<br />n<br />i<br />e<br />
         <i>e</i>
         <br />w<br />s
       </div>
