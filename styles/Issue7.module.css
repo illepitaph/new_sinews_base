@@ -158,10 +158,10 @@
 .siteShortcuts {
   display: flex;
   flex-flow: column;
-  row-gap: 1vw;
+  row-gap: 1.6vw;
   justify-content: space-between;
   align-items: flex-start;
-  height:22vh;
+  height:18vh;
 }
 
 .siteShortcuts > .linkButton {
