@@ -119,7 +119,7 @@
   position: absolute;
   display: flex;
   flex-flow: column wrap;
-  row-gap: 1.61vw;
+  row-gap: 1.21vw;
   max-width: 85vw;
   top: 30px;
   left: 3vw;
@@ -155,7 +155,7 @@
   row-gap: 3vw;
   justify-content: space-between;
   align-items: flex-end;
-  height:14vh;
+  height:22vh;
 }
 
 .siteShortcuts > .linkButton {
