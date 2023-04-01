@@ -157,18 +157,18 @@
 
 .siteShortcuts {
   display: flex;
-  flex-flow: row;
-  row-gap: 3vw;
+  flex-flow: column;
+  row-gap: 1vw;
   justify-content: space-between;
-  align-items: flex-end;
-  height:24vh;
+  align-items: flex-start;
+  height:22vh;
 }
 
 .siteShortcuts > .linkButton {
   width: 13vw;
   border: 0;
   background-color: #f70d1a;
-  padding: 0.7vh 0.1vw;
+  padding: 0.7vh 0.9vw;
   font-size: 1.2rem;
   border-radius: 44px;
   letter-spacing: 0.1rem;
