@@ -153,11 +153,11 @@
   flex-flow: row;
   row-gap: 3vw;
   justify-content: space-between;
-  margin: 4.5vw 1.5vw 0 0;
+  align-items: flex-end;
+  height:20vh;
 }
 
 .siteShortcuts > .linkButton {
-  align-self: flex-end;
   width: 13vw;
   border: 0;
   background-color: #f70d1a;
