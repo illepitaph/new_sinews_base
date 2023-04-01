@@ -104,16 +104,20 @@
   overflow:hidden;
 }
 
-.pageTitle {
+.pageTitle, .pageTitleTwo {
   font-family: "lores-9-plus-wide-bold-alt", monospace;
   color: #f70d1a;
   text-shadow: 2px 2px white, 4px 4px black, 6px 6px white, 8px 8px black,
     10px 10px white, 12px 12px black, 14px 14px 20px silver;
-  font-size: 4rem;
+  font-size: 3rem;
   line-height:2.7rem;
   text-align: right;
   margin: 2vh 2vw 0 0;
   animation: fadeOut ease-out 3.9s infinite alternate;
+}
+
+.pageTitleTwo {
+  animation: fadeOut ease-out 3.9s infinite alternate 3.9s;
 }
 
 .issueContents {

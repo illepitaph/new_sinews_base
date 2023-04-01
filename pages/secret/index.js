@@ -36,7 +36,7 @@ export default function Issue7() {
       <br/>
       <br/>
       <br/>
-      <div className={styles.pageTitle}>
+      <div className={styles.pageTitleTwo}>
         n<br />
         <i>e</i>
         <br />w<br />s<br />i<br />n<br />
