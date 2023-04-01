@@ -43,6 +43,20 @@ export default function Issue7() {
         <i>e</i>
         <br />w<br />s
       </div>
+      <div className={styles.pageTitleThree}>
+      n<br />
+        <i>e</i>
+        <br />w<br />s<br />i<br />n<br />
+        <i>e</i>
+        <br />w<br />s
+      </div>
+      <div className={styles.pageTitleFour}>
+        n<br />
+        <i>e</i>
+        <br />w<br />n<br />i<br />e<br />
+        <i>e</i>
+        <br />w<br />s
+      </div>
       <div className={styles.issueContents}>
         <div className={styles.workColumn}>
           <Link href="/secret/care" passHref>
