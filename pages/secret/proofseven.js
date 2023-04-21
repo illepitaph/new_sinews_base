@@ -22,7 +22,7 @@ export default function ProofSeven() {
               It somehow worries us that the thought in a sentence is not wholly
               present at any one moment. We regard it as an object which{" "}
               <a
-                href="http://localhost:3000/secret/prooffour"
+                href="https://www.newnewsinews.com/secret/prooffour"
                 target="_blank"
                 rel="noreferrer"
               >

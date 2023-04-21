@@ -36,7 +36,7 @@ export default function ProofTwo() {
                     <br />
                     construction or{" "}
                     <a
-                      href="http://localhost:3000/secret/proofthree"
+                      href="https://www.newnewsinews.com/secret/proofthree"
                       target="_blank"
                       rel="noreferrer"
                     >
