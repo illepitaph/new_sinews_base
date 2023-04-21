@@ -283,6 +283,11 @@
   }
 }
 
+@media (max-width: 998px) {
+  .workLink:hover {
+    opacity: 1;
+  }
+}
 
 @media (max-width: 927px) and (orientation: landscape) {
   .pageTitle, .pageTitleTwo {
