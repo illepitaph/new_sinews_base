@@ -101,23 +101,24 @@
   left: 0px;
   overflow: hidden;
   animation: fadeIn ease-out 0.9s;
-  overflow:hidden;
+  overflow: hidden;
 }
 
-.pageTitle, .pageTitleTwo {
+.pageTitle,
+.pageTitleTwo {
   font-family: "lores-9-plus-wide-bold-alt", monospace;
   color: #f70d1a;
   text-shadow: 2px 2px white, 4px 4px black, 6px 6px white, 8px 8px black,
     10px 10px white, 12px 12px black, 14px 14px 20px silver;
   font-size: 2.6rem;
-  line-height:2.7rem;
+  line-height: 2.7rem;
   text-align: right;
   margin: 0 2vw 0 0;
   animation: fadeOut ease-out 3.9s infinite alternate;
 }
 
 .pageTitleTwo {
-  margin-top:40vh;
+  margin-top: 40vh;
   animation: fadeOut ease-out 3.9s infinite alternate 3.9s;
 }
 
@@ -161,7 +162,7 @@
   row-gap: 1.2vw;
   justify-content: space-around;
   align-items: flex-start;
-  height:18vh;
+  height: 18vh;
 }
 
 .siteShortcuts > .linkButton {
@@ -174,14 +175,14 @@
   letter-spacing: 0.1rem;
   opacity: 0.38;
   font-family: "lores-9-plus-narrow", monospace;
-  color:white;
+  color: white;
   text-decoration: none;
   transition: 0.6s ease-in-out opacity;
-  cursor:pointer;
+  cursor: pointer;
 }
 
 .siteShortcuts > .linkButton:hover {
- opacity:1;
+  opacity: 1;
 }
 
 @media (width: 1368px) and (height: 912px) {
@@ -190,7 +191,7 @@
   }
 
   .siteShortcuts > .linkButton {
-    width:20vw;
+    width: 20vw;
     font-size: 1rem;
   }
 }
@@ -201,7 +202,7 @@
   }
 
   .siteShortcuts > .linkButton {
-    width:20vw;
+    width: 20vw;
     font-size: 1rem;
   }
 }
@@ -212,7 +213,7 @@
   }
 
   .siteShortcuts > .linkButton {
-    width:20vw;
+    width: 20vw;
     font-size: 1rem;
   }
 }
@@ -223,7 +224,7 @@
   }
 
   .siteShortcuts > .linkButton {
-    width:20vw;
+    width: 20vw;
     font-size: 1rem;
   }
 }
@@ -234,7 +235,7 @@
   }
 
   .siteShortcuts > .linkButton {
-    width:20vw;
+    width: 20vw;
     font-size: 1rem;
   }
 }
@@ -245,7 +246,7 @@
   }
 
   .siteShortcuts > .linkButton {
-    width:20vw;
+    width: 20vw;
     font-size: 1rem;
   }
 }
@@ -256,7 +257,7 @@
   }
 
   .siteShortcuts > .linkButton {
-    width:20vw;
+    width: 20vw;
     font-size: 1rem;
   }
 }
@@ -267,7 +268,7 @@
   }
 
   .siteShortcuts > .linkButton {
-    width:20vw;
+    width: 20vw;
     font-size: 1rem;
   }
 }
@@ -278,7 +279,7 @@
   }
 
   .siteShortcuts > .linkButton {
-    width:20vw;
+    width: 20vw;
     font-size: 1rem;
   }
 }
@@ -290,17 +291,18 @@
 }
 
 @media (max-width: 927px) and (orientation: landscape) {
-  .pageTitle, .pageTitleTwo {
+  .pageTitle,
+  .pageTitleTwo {
     font-size: 1.7rem;
   }
 
   .pageTitleTwo {
-    margin-top:1vh;
+    margin-top: 1vh;
   }
 
   .workLink {
     font-size: 1.1rem;
-    letter-spacing:0.7rem;
+    letter-spacing: 0.7rem;
     text-shadow: 2px 2px black, 3px 3px #f70d1a;
   }
 
@@ -309,7 +311,7 @@
   }
 
   .siteShortcuts > .linkButton {
-    width:20vw;
+    width: 20vw;
     font-size: 1rem;
   }
 }
@@ -320,45 +322,40 @@
   }
 
   .siteShortcuts > .linkButton {
-    width:20vw;
+    width: 20vw;
     font-size: 1rem;
   }
 }
 
 @media (max-width: 855px) and (orientation: landscape) {
-
-  .pageTitle, .pageTitleTwo {
-    line-height:2.3rem;
+  .pageTitle,
+  .pageTitleTwo {
+    line-height: 2.3rem;
   }
 
   .workLink {
-    letter-spacing:0.5rem;
+    letter-spacing: 0.5rem;
   }
-  
 }
 
-
-
 @media (max-width: 801px) and (orientation: landscape) {
-
-  .pageTitle, .pageTitleTwo {
-    line-height:2.1rem;
+  .pageTitle,
+  .pageTitleTwo {
+    line-height: 2.1rem;
   }
 
   .pageTitleTwo {
-    margin-top:9vh;
+    margin-top: 9vh;
   }
 
   .workLink {
-    letter-spacing:0.4rem;
+    letter-spacing: 0.4rem;
   }
-
 }
 
 @media (max-width: 835px) and (orientation: portrait) {
-
   .pageTitleTwo {
-    margin-top:15vh;
+    margin-top: 15vh;
   }
 
   .workLink {
@@ -368,85 +365,83 @@
 
   .siteShortcuts {
     flex-flow: row;
-    margin-top:7.5vh;
+    margin-top: 7.5vh;
   }
 
   .siteShortcuts > .linkButton {
-    width:20vw;
+    width: 20vw;
   }
 }
 
 @media (max-width: 668px) and (orientation: landscape) {
-
-  .pageTitle, .pageTitleTwo {
-    line-height:1.8rem;
+  .pageTitle,
+  .pageTitleTwo {
+    line-height: 1.8rem;
   }
 
   .workLink {
-    letter-spacing:0.2rem;
+    letter-spacing: 0.2rem;
   }
 
   .siteShortcuts > .linkButton {
-    width:23vw;
+    width: 23vw;
   }
-
 }
 
 @media (max-width: 653px) and (orientation: landscape) {
-
-  .pageTitle, .pageTitleTwo {
-    line-height:1.6rem;
+  .pageTitle,
+  .pageTitleTwo {
+    line-height: 1.6rem;
   }
 
   .issueContents {
     top: 10px;
   }
 
-
   .workLink {
     font-size: 1rem;
-    letter-spacing:0.02rem;
+    letter-spacing: 0.02rem;
   }
-
 }
 
 @media (max-width: 541px) and (orientation: portrait) {
   .workLink {
-    letter-spacing:0.5rem;
+    letter-spacing: 0.5rem;
   }
 
   .siteShortcuts > .linkButton {
-    width:25vw;
+    width: 25vw;
     font-size: 0.88rem;
     padding: 1vh 1.1vw;
   }
 }
 
 @media (max-width: 429px) and (orientation: portrait) {
-  .pageTitle, .pageTitleTwo {
+  .pageTitle,
+  .pageTitleTwo {
     font-size: 2rem;
   }
 
   .pageTitleTwo {
-    margin-top:25vh;
+    margin-top: 25vh;
   }
 
   .issueContents {
-   line-height:2.7vh;
+    line-height: 2.7vh;
   }
 
   .workLink {
     font-size: 1rem;
-    letter-spacing:0.2rem;
+    letter-spacing: 0.2rem;
   }
 
   .siteShortcuts {
     flex-flow: row;
-    margin-top:7.5vh;
+    margin-top: 7.5vh;
   }
 
   .siteShortcuts > .linkButton {
-    width:30vw;
+    width: 30vw;
     font-size: 0.7rem;
     padding: 1vh 1.1vw;
   }
@@ -454,12 +449,12 @@
 
 @media (max-width: 361px) and (orientation: portrait) {
   .siteShortcuts > .linkButton {
-    width:32vw;
+    width: 32vw;
   }
 }
 
 @media (max-width: 321px) and (orientation: portrait) {
   .issueContents {
-    line-height:3.7vh;
-   }
+    line-height: 3.7vh;
+  }
 }
