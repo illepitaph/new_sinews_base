@@ -184,144 +184,277 @@
  opacity:1;
 }
 
-@media (max-width: 998px) {
-  .workLink:hover {
-    opacity: 1;
-  }
-}
-
-@media (max-width: 927px) and (orientation: landscape) {
-  .pageTitle {
-    font-size: 2.4rem;
-  }
-
-  .issueContents {
-    column-gap: 3vw;
-    row-gap: 1.9vw;
-    height: 35vh;
-    max-width: 92vw;
-    top: 0.5vh;
-    left: 1vw;
-  }
-
-  .workLink {
-    font-size: 1.4rem;
+@media (width: 1368px) and (height: 912px) {
+  .siteShortcuts {
+    flex-flow: row;
   }
 
   .siteShortcuts > .linkButton {
-    width: 15vw;
-    font-size: 0.8rem;
+    width:20vw;
+    font-size: 1rem;
+  }
+}
+
+@media (width: 1366px) and (height: 1024px) {
+  .siteShortcuts {
+    flex-flow: row;
+  }
+
+  .siteShortcuts > .linkButton {
+    width:20vw;
+    font-size: 1rem;
+  }
+}
+
+@media (width: 1280px) and (height: 800px) {
+  .siteShortcuts {
+    flex-flow: row;
+  }
+
+  .siteShortcuts > .linkButton {
+    width:20vw;
+    font-size: 1rem;
+  }
+}
+
+@media (width: 1194px) and (height: 834px) {
+  .siteShortcuts {
+    flex-flow: row;
+  }
+
+  .siteShortcuts > .linkButton {
+    width:20vw;
+    font-size: 1rem;
+  }
+}
+
+@media (width: 1180px) and (height: 820px) {
+  .siteShortcuts {
+    flex-flow: row;
+  }
+
+  .siteShortcuts > .linkButton {
+    width:20vw;
+    font-size: 1rem;
+  }
+}
+
+@media (width: 1080px) and (height: 810px) {
+  .siteShortcuts {
+    flex-flow: row;
+  }
+
+  .siteShortcuts > .linkButton {
+    width:20vw;
+    font-size: 1rem;
+  }
+}
+
+@media (width: 1024px) and (height: 1366px) {
+  .siteShortcuts {
+    flex-flow: row;
+  }
+
+  .siteShortcuts > .linkButton {
+    width:20vw;
+    font-size: 1rem;
+  }
+}
+
+@media (width: 1024px) and (height: 768px) {
+  .siteShortcuts {
+    flex-flow: row;
+  }
+
+  .siteShortcuts > .linkButton {
+    width:20vw;
+    font-size: 1rem;
+  }
+}
+
+@media (width: 1024px) and (height: 600px) {
+  .siteShortcuts {
+    flex-flow: row;
+  }
+
+  .siteShortcuts > .linkButton {
+    width:20vw;
+    font-size: 1rem;
+  }
+}
+
+
+@media (max-width: 927px) and (orientation: landscape) {
+  .pageTitle, .pageTitleTwo {
+    font-size: 1.7rem;
+  }
+
+  .pageTitleTwo {
+    margin-top:1vh;
+  }
+
+  .workLink {
+    font-size: 1.1rem;
+    letter-spacing:0.7rem;
+    text-shadow: 2px 2px black, 3px 3px #f70d1a;
+  }
+
+  .siteShortcuts {
+    flex-flow: row;
+  }
+
+  .siteShortcuts > .linkButton {
+    width:20vw;
+    font-size: 1rem;
+  }
+}
+
+@media (width: 912px) and (height: 1368px) {
+  .siteShortcuts {
+    flex-flow: row;
+  }
+
+  .siteShortcuts > .linkButton {
+    width:20vw;
+    font-size: 1rem;
   }
 }
 
 @media (max-width: 855px) and (orientation: landscape) {
-  .pageTitle {
-    font-size: 2.2rem;
-  }
 
-  .issueContents {
-    max-width: 99vw;
-    column-gap: 4vw;
+  .pageTitle, .pageTitleTwo {
+    line-height:2.3rem;
   }
 
   .workLink {
-    font-size: 1.2rem;
+    letter-spacing:0.5rem;
   }
+  
 }
+
+
 
 @media (max-width: 801px) and (orientation: landscape) {
-  .pageTitle {
-    font-size: 2rem;
+
+  .pageTitle, .pageTitleTwo {
+    line-height:2.1rem;
   }
 
-  .issueContents {
-    column-gap: 3vw;
-  }
-}
-
-@media (max-width: 811px) and (orientation: portrait) {
-  .issueContents {
-    column-gap: 7vw;
-    row-gap: 3.9vw;
-    top: 5vh;
+  .pageTitleTwo {
+    margin-top:9vh;
   }
 
   .workLink {
-    font-size: 1.7rem;
+    letter-spacing:0.4rem;
+  }
+
+}
+
+@media (max-width: 835px) and (orientation: portrait) {
+
+  .pageTitleTwo {
+    margin-top:15vh;
+  }
+
+  .workLink {
+    font-size: 1.5rem;
+    text-shadow: 2px 2px black, 3px 3px #f70d1a;
   }
 
   .siteShortcuts {
-    margin-right: 5vw;
+    flex-flow: row;
+    margin-top:7.5vh;
   }
 
   .siteShortcuts > .linkButton {
-    width: 15vw;
-    font-size: 0.8rem;
+    width:20vw;
   }
 }
 
-@media (max-width: 658px) and (orientation: landscape) {
-  .pageTitle {
-    font-size: 1.8rem;
+@media (max-width: 668px) and (orientation: landscape) {
+
+  .pageTitle, .pageTitleTwo {
+    line-height:1.8rem;
   }
 
   .workLink {
-    font-size: 1.1rem;
+    letter-spacing:0.2rem;
   }
+
+  .siteShortcuts > .linkButton {
+    width:23vw;
+  }
+
 }
 
-@media (max-width: 654px) and (orientation: landscape) {
-  .pageTitle {
-    font-size: 1.7rem;
+@media (max-width: 653px) and (orientation: landscape) {
+
+  .pageTitle, .pageTitleTwo {
+    line-height:1.6rem;
+  }
+
+  .issueContents {
+    top: 10px;
+  }
+
+
+  .workLink {
+    font-size: 1rem;
+    letter-spacing:0.02rem;
+  }
+
+}
+
+@media (max-width: 541px) and (orientation: portrait) {
+  .workLink {
+    letter-spacing:0.5rem;
+  }
+
+  .siteShortcuts > .linkButton {
+    width:25vw;
+    font-size: 0.88rem;
+    padding: 1vh 1.1vw;
   }
 }
 
 @media (max-width: 429px) and (orientation: portrait) {
-  .pageTitle {
-    font-size: 3.4rem;
+  .pageTitle, .pageTitleTwo {
+    font-size: 2rem;
+  }
+
+  .pageTitleTwo {
+    margin-top:25vh;
   }
 
   .issueContents {
-    column-gap: 3vw;
-    row-gap: 1.9vw;
-    height: 35vh;
-    max-width: 92vw;
-    top: 2vh;
-    left: 1vw;
+   line-height:2.7vh;
   }
 
   .workLink {
-    font-size: 1.25rem;
+    font-size: 1rem;
+    letter-spacing:0.2rem;
   }
 
   .siteShortcuts {
-    margin-right: 4vw;
-    margin-top: 9vh;
+    flex-flow: row;
+    margin-top:7.5vh;
   }
 
   .siteShortcuts > .linkButton {
-    width: 15vw;
-    font-size: 0.8rem;
+    width:30vw;
+    font-size: 0.7rem;
+    padding: 1vh 1.1vw;
   }
 }
 
-@media (max-width: 391px) and (orientation: portrait) {
-  .workLink {
-    font-size: 1.18rem;
+@media (max-width: 361px) and (orientation: portrait) {
+  .siteShortcuts > .linkButton {
+    width:32vw;
   }
 }
 
-@media (max-width: 375px) and (orientation: portrait) {
-  .pageTitle {
-    font-size: 3.1rem;
-  }
-
-  .workLink {
-    font-size: 1.1rem;
-  }
-
+@media (max-width: 321px) and (orientation: portrait) {
   .issueContents {
-    column-gap: 4vw;
-    row-gap: 5vw;
-  }
+    line-height:3.7vh;
+   }
 }
