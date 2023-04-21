@@ -440,20 +440,14 @@
   }
 
   .siteShortcuts {
-    flex-flow: row;
-    margin-top: 7.5vh;
+    flex-flow: column;
+    margin-top: 1.5vh;
   }
 
   .siteShortcuts > .linkButton {
-    width: 30vw;
-    font-size: 0.7rem;
+    width: 45vw;
+    font-size: 0.9rem;
     padding: 1vh 1.1vw;
-  }
-}
-
-@media (max-width: 361px) and (orientation: portrait) {
-  .siteShortcuts > .linkButton {
-    width: 32vw;
   }
 }
 
