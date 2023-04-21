@@ -300,6 +300,10 @@
     margin-top: 1vh;
   }
 
+  .issueContents {
+    top: 10px;
+  }
+
   .workLink {
     font-size: 1.1rem;
     letter-spacing: 0.4rem;
