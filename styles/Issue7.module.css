@@ -302,7 +302,7 @@
 
   .workLink {
     font-size: 1.1rem;
-    letter-spacing: 0.7rem;
+    letter-spacing: 0.4rem;
     text-shadow: 2px 2px black, 3px 3px #f70d1a;
   }
 
@@ -334,7 +334,7 @@
   }
 
   .workLink {
-    letter-spacing: 0.5rem;
+    letter-spacing: 0.3rem;
   }
 }
 
@@ -349,7 +349,7 @@
   }
 
   .workLink {
-    letter-spacing: 0.4rem;
+    letter-spacing: 0.2rem;
   }
 }
 
@@ -380,7 +380,7 @@
   }
 
   .workLink {
-    letter-spacing: 0.2rem;
+    letter-spacing: 0.1rem;
   }
 
   .siteShortcuts > .linkButton {
