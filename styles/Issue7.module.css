@@ -452,12 +452,6 @@
 }
 
 @media (max-width: 361px) and (orientation: portrait) {
-
-  .workLink {
-    font-size: 1.4rem;
-    letter-spacing: 0.1rem;
-  }
-
   .siteShortcuts > .linkButton {
     width: 32vw;
   }
