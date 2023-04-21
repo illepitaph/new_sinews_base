@@ -452,6 +452,12 @@
 }
 
 @media (max-width: 361px) and (orientation: portrait) {
+
+  .workLink {
+    font-size: 1.4rem;
+    letter-spacing: 0.1rem;
+  }
+
   .siteShortcuts > .linkButton {
     width: 32vw;
   }
@@ -460,5 +466,11 @@
 @media (max-width: 321px) and (orientation: portrait) {
   .issueContents {
     line-height: 3.7vh;
+  }
+}
+
+@media (max-width: 2811px) and (orientation: portrait) {
+  .workLink {
+    font-size:1.3rem;
   }
 }
