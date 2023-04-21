@@ -8,7 +8,7 @@ Kaput.title = "mike_corrao ~ psalmist_kaput_[entrance] — new_sinews";
 Kaput.pieceName = "mike_corrao ~ psalmist_kaput_[entrance] — new_sinews";
 Kaput.description =
   "_Mike_Corrao_fiction_PSALMIST KAPUT [entrance]_new_sinews_issue7_";
-Kaput.image = "https://www.newnewsinews.com/images/KaputHeader.jpg";
+Kaput.image = "https://www.newnewsinews.com/images/KaputBackground.jpg";
 
 export default function Kaput() {
   const [textArrayIndex, setTextArrayIndex] = useState(0);
