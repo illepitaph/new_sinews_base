@@ -391,11 +391,11 @@ export default function Personae() {
         <br />
         <br />
         <br />
-        &#8220;Your movement is still completely wrong!&#8221; 
+        &#8220;Your movement is still completely wrong!&#8221;
         <br />
         <br />
-        Oiwa&#8217;s voice and its echo buzzed in Suiko&#8217;s head, making her teeth stand
-        on edge.
+        Oiwa&#8217;s voice and its echo buzzed in Suiko&#8217;s head, making her
+        teeth stand on edge.
         <br />
         <br />
         She was growing weary of this haunting and of the smothering dampness
@@ -424,10 +424,10 @@ export default function Personae() {
         Suiko sighed, rubbing at the tension pounding in her temples.
         <br />
         <br />
-        &#8220;And how exactly do I <i>lessen my being</i>?&#8221; She asked, &#8220;I
-        am still very alive and corporeal, so there is not much I can do about
-        being embodied. Besides, I&#8217;m much closer to achieving whatever
-        perfection you are after than any other human actor would be,
+        &#8220;And how exactly do I <i>lessen my being</i>?&#8221; She asked,
+        &#8220;I am still very alive and corporeal, so there is not much I can
+        do about being embodied. Besides, I&#8217;m much closer to achieving
+        whatever perfection you are after than any other human actor would be,
         aren&#8217;t I? Why isn&#8217;t this good enough for you?&#8221; As she
         spoke, she felt her frustration mounting, &#8220;You&#8217;re lucky
         I&#8217;m even listening to you! What right do you have to come in here
@@ -542,10 +542,9 @@ export default function Personae() {
         <br />
         Unrestrained by the weight of atoms knit together, she moves through the
         trees that line the path through the forest. Under the cover of night
-        she has already found the other others, her ghastly pale wretched torn
-        face the last thing seen before the end. The ones who conspired, the
-        ones who stole all that she was are now no more. All that remains is her
-        husband.
+        she has already found the others, her ghastly pale wretched torn face
+        the last thing seen before the end. The ones who conspired, the ones who
+        stole all that she was are now no more. All that remains is her husband.
         <br />
         <br />
         <i>Iemon has run</i>, <i>but Iemon will not be able to hide</i>.
@@ -608,7 +607,7 @@ export default function Personae() {
         <br />
         <br />
         Before her eyes the slit slowly widens, tearing bit by bit, as the
-        lantern smiles.
+        lantern smiles its approval.
         <br />
         <br />
         <br />
