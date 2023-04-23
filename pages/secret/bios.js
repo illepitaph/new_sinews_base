@@ -22,6 +22,24 @@ export default function Issue7Bios() {
         <span className={styles.magicMint}>issue_seven</span>
       </CenterGrayTitle>
       <CenterBlackTitle>contributors</CenterBlackTitle>
+      <StandardProse>
+        <br />
+        <br />
+        <span className={styles.grayInverse}>KELLY KRUMRIE</span> is the author of <a
+          className={styles.biosExternalLink}
+          target="_blank"
+          rel="noreferrer"
+          href="https://calamaripress.com/Math_Class.htm"
+        >
+          {" "}
+          <cite>
+            <strong>Math Class</strong>
+          </cite>
+        </a>.
+        <br />
+        <br />
+        <br />
+      </StandardProse>
       <Footer />
     </>
   );
