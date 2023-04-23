@@ -86,7 +86,7 @@ export default function Issue7Bios() {
         <br />
         <br />
         <br />
-        <span className={styles.grayInverse}>MIKE CORRAO</span> Mike Corrao is
+        <span className={styles.grayInverse}>MIKE CORRAO</span> is
         the author of numerous works including{" "}
         <cite>
           <strong>Gut Text</strong>
