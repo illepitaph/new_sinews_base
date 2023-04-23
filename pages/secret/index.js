@@ -5,7 +5,7 @@ Issue7.title = "new_sinews issue7";
 Issue7.pieceName = "new_sinews issue7";
 Issue7.description =
   "_newsinews issue7_Genta Nishku+Gabriel Palacios+Kelly Krumrie+Nora Wall+Atsushi Ikeda+Mike Corrao+Julia Shiota+Matthew Moore";
-Issue7.image = "https://www.newnewsinews.com/images/Issue6CoverMeta.jpg";
+Issue7.image = "https://www.newnewsinews.com/images/Issue7CoverMeta.jpg";
 
 export default function Issue7() {
   return (
