@@ -162,7 +162,7 @@ export default function Issue7Bios() {
         <span className={styles.grayInverse}>MATTHEW MOORE</span> is the author
         of{" "}
         <cite>
-          <strong>The Reckoning of Jeanne d'Antietam</strong>
+          <strong>The Reckoning of Jeanne d&#8217;Antietam</strong>
         </cite>{" "}
         (University of Nevada Press, 2023).
       </StandardProse>
