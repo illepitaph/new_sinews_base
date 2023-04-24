@@ -25,6 +25,22 @@ export default function Issue7Bios() {
       <StandardProse>
         <br />
         <br />
+        <span className={styles.grayInverse}>GENTA NISHKU</span> is a writer,
+        translator, and literary scholar from Tirana. Her work has been
+        published in various journals and can be found at{" "}
+        <a
+          className={styles.biosExternalLink}
+          target="_blank"
+          rel="noreferrer"
+          href="https://www.gentanishku.com/"
+        >
+          {" "}
+          gentanishku.com
+        </a>
+        . She lives in New York City.
+        <br />
+        <br />
+        <br />
         <span className={styles.grayInverse}>GABRIEL PALACIOS</span> is a poet.
         His debut collection,{" "}
         <strong>
@@ -86,8 +102,8 @@ export default function Issue7Bios() {
         <br />
         <br />
         <br />
-        <span className={styles.grayInverse}>MIKE CORRAO</span> is
-        the author of numerous works including{" "}
+        <span className={styles.grayInverse}>MIKE CORRAO</span> is the author of
+        numerous works including{" "}
         <cite>
           <strong>Gut Text</strong>
         </cite>{" "}
@@ -143,6 +159,12 @@ export default function Issue7Bios() {
         <br />
         <br />
         <br />
+        <span className={styles.grayInverse}>MATTHEW MOORE</span> is the author
+        of{" "}
+        <cite>
+          <strong>The Reckoning of Jeanne d'Antietam</strong>
+        </cite>{" "}
+        (University of Nevada Press, 2023).
       </StandardProse>
       <Footer />
     </>
