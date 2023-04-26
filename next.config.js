@@ -369,6 +369,41 @@ module.exports = {
       },
 
       {
+        source: '/prooftwo',
+        destination: '/issue7/prooftwo',
+      },
+
+      {
+        source: '/proofthree',
+        destination: '/issue7/proofthree',
+      },
+
+      {
+        source: '/prooffour',
+        destination: '/issue7/prooffour',
+      },
+
+      {
+        source: '/prooffive',
+        destination: '/issue7/prooffive',
+      },
+
+      {
+        source: '/proofsix',
+        destination: '/issue7/proofsix',
+      },
+
+      {
+        source: '/proofseven',
+        destination: '/issue7/proofseven',
+      },
+
+      {
+        source: '/proofeight',
+        destination: '/issue7/proofeight',
+      },
+
+      {
         source: '/automation',
         destination: '/issue7/automation',
       },
