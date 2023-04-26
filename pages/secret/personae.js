@@ -172,18 +172,18 @@ export default function Personae() {
         <br />
         <br />
         <br />
-        Suiko had been skeptical about taking the role when her agent approached
-        her about a reimagining of the Yotsuya kaidan some boutique American
-        studio was putting together.
+        Suiko had been skeptical about taking the role when her agent first
+        approached her about a reimagining of the Yotsuya kaidan some boutique
+        American studio was putting together.
         <br />
         <br />
         &#8220;The casting director told me they&#8217;re making it a point to
-        cast Japanese speaking actors for all the roles and it seems like
+        cast Japanese speaking actors for all the roles and it seems
         they&#8217;ve managed to fill out most of the cast. All they need is
         someone to play Oiwa.&#8221; He looked meaningfully here at Suiko,
         &#8220;There&#8217;s been a few influential movies with older women
         protagonists in the U.S., so they&#8217;re attempting to age Oiwa up for
-        this and they think you would be perfect.&#8221;
+        this. They think you would be perfect.&#8221;
         <br />
         <br />
         Back in her trailer, Suiko sat at her own vanity and considered her face
@@ -192,11 +192,11 @@ export default function Personae() {
         <br />
         <br />
         It had been several decades since Suiko had decided to try her hand at
-        aging mortally. She had known that it would be risky for a being like
-        her to be in the public eye for so long, even if she kept her true
-        nature hidden. Yet, Suiko found the prospect of such a dedicated
-        performance utterly irresistible—a tanuki living as a naturally aging
-        human pretending to be other humans on film and stage.
+        aging mortally. She had known it would be risky for a being like her to
+        be in the public eye for so long, even if she kept her true nature
+        hidden. Yet, Suiko found the prospect of such a dedicated performance
+        utterly irresistible—a tanuki living as a naturally aging human
+        pretending to be other humans on film and stage.
         <br />
         <br />
         <i>Method acting taken to an entirely new level</i>, she had thought
@@ -254,10 +254,7 @@ export default function Personae() {
         &#8220;Why <i>the writer</i> insists on forcing the angle of madness is
         beyond me. I find it quite tedious that my supposed madness always
         remains the central focus for most of these stories. Even now, when I am
-        to be portrayed as an older woman, the madness remains when the events
-        that have ostensibly caused that madness would have occurred nearly
-        forty years before. Is the presumption that I have not found my own
-        peace even into old age?&#8221;
+        to be portrayed as an older woman, the madness remains.&#8221;
         <br />
         <br />
         Suiko was used to Oiwa&#8217;s pontifications by this point and knew it
@@ -269,9 +266,7 @@ export default function Personae() {
         famous. It was a far more robust canon than most of the stories she had
         come across for those of her own kind. A bulk of those stories depicted
         tanuki as almost exclusively male with huge scrotums, for heaven&#8217;s
-        sake, and Oiwa had grievances against complex character depictions in
-        kabuki plays and movies? How so many of the ghosts flitting around felt
-        so entitled to their stories long after they had passed was beyond her.
+        sake.
         <br />
         <br />
         &#8220;I don&#8217;t understand why you fuss about all this,&#8221;
@@ -461,8 +456,7 @@ export default function Personae() {
         <br />
         <br />
         &#8220;You and I both know it&#8217;s more complicated than that.&#8221;
-        She hissed, &#8220;You have no idea what those like her, like me, have
-        gone through.&#8221;
+        She hissed.
         <br />
         <br />
         &#8220;Forgive me if I feel little sympathy for you long-lived beings.

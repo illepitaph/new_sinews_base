@@ -396,41 +396,35 @@ export default function Home() {
             <span className={styles.snowTypeface}>late empire new writing</span>
             <br />
             <br />
-            <span className={styles.lightTypeface}>_issue_six_</span>
+            <span className={styles.lightTypeface}>_issue_seven_</span>
             <br />
             <br />
             <span className={styles.snowTypeface}>featuring</span>
             <br />
             <br />
             <span className={styles.lightTypeface}>
-              kirsten ihns
+              genta nishku
               <br />
               <br />
-              jacqueline feldman
+              gabriel palacios
               <br />
               <br />
-              brandon shimoda
+              kelly krumrie
               <br />
               <br />
-              julian mithra
+              nora wall
               <br />
               <br />
-              brandan griffin
+              atsushi ikeda
               <br />
               <br />
-              chris beausang
+              mike corrao
               <br />
               <br />
-              vi khi nao
+              julia shiota
               <br />
               <br />
-              megan jeanne gette
-              <br />
-              <br />
-              cary stough
-              <br />
-              <br />
-              xiao yue shan
+              matthew moore
               <br />
               <br />
             </span>
