@@ -29,56 +29,56 @@ export default function Issue7() {
       </div>
       <div className={styles.issueContents}>
         <div className={styles.workColumn}>
-          <Link href="/secret/care" passHref>
+          <Link href="/issue7/care" passHref>
             <div className={styles.workLink}>
               genta_nishku &gt;&gt;&gt;&gt; perpetual care
             </div>
           </Link>
         </div>
         <div className={styles.workColumn}>
-          <Link href="/secret/graveyards" passHref>
+          <Link href="/issue7/graveyards" passHref>
             <div className={styles.workLink}>
               gabriel palacios &lt;&lt;&lt;&lt; rival graveyards
             </div>
           </Link>
         </div>
         <div className={styles.workColumn}>
-          <Link href="/secret/proof" passHref>
+          <Link href="/issue7/proof" passHref>
             <div className={styles.workLink}>
               kelly krumrie &gt;&gt;&gt;&gt; proof
             </div>
           </Link>
         </div>
         <div className={styles.workColumn}>
-          <Link href="/secret/automation" passHref>
+          <Link href="/issue7/automation" passHref>
             <div className={styles.workLink}>
               nora wall &lt;&lt;&lt;&lt; automation
             </div>
           </Link>
         </div>
         <div className={styles.workColumn}>
-          <Link href="/secret/needle" passHref>
+          <Link href="/issue7/needle" passHref>
             <div className={styles.workLink}>
               atsushi ikeda &gt;&gt;&gt;&gt; needle stalked
             </div>
           </Link>
         </div>
         <div className={styles.workColumn}>
-          <Link href="/secret/kaput" passHref>
+          <Link href="/issue7/kaput" passHref>
             <div className={styles.workLink}>
               mike corrao &lt;&lt;&lt;&lt; psalmist kaput [entrance]
             </div>
           </Link>
         </div>
         <div className={styles.workColumn}>
-          <Link href="/secret/personae" passHref>
+          <Link href="/issue7/personae" passHref>
             <div className={styles.workLink}>
               julia shiota &gt;&gt;&gt;&gt; dramatis personae
             </div>
           </Link>
         </div>
         <div className={styles.workColumn}>
-          <Link href="/secret/moore" passHref>
+          <Link href="/issue7/moore" passHref>
             <div className={styles.workLink}>
               matthew moore &lt;&lt;&lt;&lt; from <i>lord chandos</i>
             </div>
@@ -86,7 +86,7 @@ export default function Issue7() {
         </div>
         <div className={styles.workColumn}>
           <span className={styles.specialAlign}>
-            <Link href="/secret/bios" passHref>
+            <Link href="/issue7/bios" passHref>
               <div className={styles.workLink}>... ... b i o s ... ...</div>
             </Link>
           </span>

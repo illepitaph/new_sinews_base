@@ -343,10 +343,60 @@ module.exports = {
         destination: '/issue6/desire',
       },
 
-
       {
         source: '/issue6bios',
         destination: '/issue6/bios',
+      },
+
+      {
+        source: '/issue7',
+        destination: '/issue7/index',
+      },
+
+      {
+        source: '/care',
+        destination: '/issue7/care',
+      },
+
+      {
+        source: '/graveyards',
+        destination: '/issue7/graveyards',
+      },
+
+      {
+        source: '/proof',
+        destination: '/issue7/proof',
+      },
+
+      {
+        source: '/automation',
+        destination: '/issue7/automation',
+      },
+
+      {
+        source: '/needle',
+        destination: '/issue7/needle',
+      },
+
+      {
+        source: '/kaput',
+        destination: '/issue7/kaput',
+      },
+
+      {
+        source: '/personae',
+        destination: '/issue7/personae',
+      },
+
+      {
+        source: '/moore',
+        destination: '/issue7/moore',
+      },
+
+
+      {
+        source: '/issue7bios',
+        destination: '/issue7/bios',
       },
 
       {
