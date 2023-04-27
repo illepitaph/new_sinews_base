@@ -393,6 +393,45 @@
   background-image: url("../public/images/KaputBackground.jpg");
 }
 
+@media (width: 1280px) and (height: 800px) {
+  .siteNav > .dropDown > button,
+  .home,
+  .about {
+    padding: 12px 13px;
+  }
+
+  .siteNav > .dropDown > button,
+  .home {
+    margin-right: 8px;
+  }
+}
+
+@media (width: 1194px) and (height: 834px) {
+  .siteNav > .dropDown > button,
+  .home,
+  .about {
+    padding: 12px 12px;
+  }
+
+  .siteNav > .dropDown > button,
+  .home {
+    margin-right: 8px;
+  }
+}
+
+@media (width: 1180px) and (height: 820px) {
+  .siteNav > .dropDown > button,
+  .home,
+  .about {
+    padding: 12px 10px;
+  }
+
+  .siteNav > .dropDown > button,
+  .home {
+    margin-right: 8px;
+  }
+}
+
 @media (width: 1080px) and (height: 810px) {
   .siteNav > .dropDown > button,
   .home,
@@ -420,7 +459,7 @@
   .siteNav > .dropDown > button,
   .home,
   .about {
-    font-size: 0.8rem;
+    font-size: 0.72rem;
     padding: 6px 11px;
   }
 }
@@ -439,7 +478,7 @@
   .siteNav > .dropDown > button,
   .home,
   .about {
-    font-size: 0.8rem;
+    font-size: 0.7rem;
     padding: 6px 11px;
   }
 }
@@ -458,7 +497,7 @@
   .siteNav > .dropDown > button,
   .home,
   .about {
-    font-size: 0.8rem;
+    font-size: 0.7rem;
     padding: 6px 11px;
   }
 }

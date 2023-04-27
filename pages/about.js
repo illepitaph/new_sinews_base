@@ -11,6 +11,8 @@ About.description =
 About.image = "https://www.newnewsinews.com/images/ArchNewSinew.jpg";
 
 export default function About() {
+  const [issueSevenDropdownClass, setIssueSevenDropdownClass] =
+    useState("issueContentClosed");
   const [issueSixDropdownClass, setIssueSixDropdownClass] =
     useState("issueContentClosed");
   const [issueFiveDropdownClass, setIssueFiveDropdownClass] =
@@ -53,6 +55,51 @@ export default function About() {
             <div className={styles.iconImage}></div>
           </Link>
           <nav className={styles.siteNav}>
+            <div
+              className={styles.dropDown}
+              onMouseEnter={() => {
+                setIssueSevenDropdownClass("issueContentOpen");
+              }}
+              onMouseLeave={() => {
+                setIssueSevenDropdownClass("issueContentClosed");
+              }}
+            >
+              <Link href="/issue7" passHref>
+                <button>issue_7</button>
+              </Link>
+              <div className={styles[issueSevenDropdownClass]}>
+                <Link href="/issue7" passHref>
+                  <button>new_sinews_issue7</button>
+                </Link>
+                <Link href="/issue7/care" passHref>
+                  <button>genta nishku_perpetual care</button>
+                </Link>
+                <Link href="/issue7/graveyards" passHref>
+                  <button>gabriel palacios_rival graveyards</button>
+                </Link>
+                <Link href="/issue7/proof" passHref>
+                  <button>kelly krumrie_proof</button>
+                </Link>
+                <Link href="/issue7/automation" passHref>
+                  <button>nora wall_automation</button>
+                </Link>
+                <Link href="/issue7/needle" passHref>
+                  <button>atsushi ikeda_needle stalked</button>
+                </Link>
+                <Link href="/issue7/kaput" passHref>
+                  <button>mike corrao_psalmist kaput &#91;entrance&#93;</button>
+                </Link>
+                <Link href="/issue7/personae" passHref>
+                  <button>julia shiota_dramatis personae</button>
+                </Link>
+                <Link href="/issue7/moore" passHref>
+                  <button>matthew moore_from LORD CHANDOS</button>
+                </Link>
+                <Link href="/issue7/bios" passHref>
+                  <button>issue7_bios</button>
+                </Link>
+              </div>
+            </div>
             <div
               className={styles.dropDown}
               onMouseEnter={() => {
