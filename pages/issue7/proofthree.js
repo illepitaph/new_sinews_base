@@ -30,7 +30,7 @@ export default function ProofThree() {
               states separately and makes clear what the particular thing is
               which is sought. The construction or machinery{" "}
               <a
-                href="https://www.newnewsinews.com//issue7/proofsix"
+                href="https://www.newnewsinews.com/issue7/proofsix"
                 target="_blank"
                 rel="noreferrer"
               >

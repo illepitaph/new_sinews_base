@@ -25,7 +25,7 @@ export default function ProofFive() {
                 <br />
                 one’s thoughts proceeded{" "}
                 <a
-                  href="https://www.newnewsinews.com//issue7/proofseven"
+                  href="https://www.newnewsinews.com/issue7/proofseven"
                   target="_blank"
                   rel="noreferrer"
                 >

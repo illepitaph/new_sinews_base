@@ -65,25 +65,25 @@ export default function Proof() {
 
       <a
         className={styles.diskBox}
-        href="https://www.newnewsinews.com//issue7/prooftwo"
+        href="https://www.newnewsinews.com/issue7/prooftwo"
         target="_blank"
         rel="noreferrer"
       ></a>
       <a
         className={styles.diskBoxTwo}
-        href="https://www.newnewsinews.com//issue7/prooffour"
+        href="https://www.newnewsinews.com/issue7/prooffour"
         target="_blank"
         rel="noreferrer"
       ></a>
       <a
         className={styles.diskBoxThree}
-        href="https://www.newnewsinews.com//issue7/proofeight"
+        href="https://www.newnewsinews.com/issue7/proofeight"
         target="_blank"
         rel="noreferrer"
       ></a>
       <a
         className={styles.diskBoxFour}
-        href="https://www.newnewsinews.com//issue7/prooffive"
+        href="https://www.newnewsinews.com/issue7/prooffive"
         target="_blank"
         rel="noreferrer"
       ></a>

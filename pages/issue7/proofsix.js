@@ -22,7 +22,7 @@ export default function ProofSix() {
               Should it worry me that thought, in my sentences, seems never
               wholly present at any one moment? Let alone love, in my life?{" "}
               <a
-                href="https://www.newnewsinews.com//issue7/prooffour"
+                href="https://www.newnewsinews.com/issue7/prooffour"
                 target="_blank"
                 rel="noreferrer"
               >
