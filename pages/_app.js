@@ -11,6 +11,9 @@ function MyApp({ Component, pageProps }) {
           <meta charSet="utf-8" />
           <meta name="author" content="Steve Barbaro" />
           <link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+          <meta property="og:title" content={Component.pieceName} />
+          <meta property="og:description" content={Component.description} />
+          <meta name="og:image" content={Component.image} />
           <meta
             name="description"
             content="new sinews ~ late empire new writing ~ digital hub of poems & fiction"
