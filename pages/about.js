@@ -449,7 +449,62 @@ export default function About() {
         </div>
 
         <p>
-          send poems & fiction (very much open to speculative/fantasy) or even
+          so ... <i>new_sinews</i> is now both a magazine and a book
+          imprint 
+          <br />
+          <br />
+          <br />
+          and wouldn&#8217;t you know it but book submissions are ... voila ... OPEN
+          <br/><br/>
+          <span className={styles.darkTypeface}>book guidelines</span> :
+          <br />
+          <br />
+          <i>new_sinews</i> aims to generate sumptuously brainy books of an uncommon scale + proportion
+          <br />
+          <br />
+          <br />
+          <i>new_sinews</i> books shall be as deliberately designed + edited as its eponymous magazine itself
+          <br />
+          <br />
+          <br />
+          there are no real genre limitations—novels + short story collections + books of poems + fits of hybridity are all apposite
+          <br />
+          <br />
+          <br />
+          manuscripts cultivating new correspondences between text + image are especially appropriate... plus: nonfiction manuscripts are welcome too ... but if the prospective book is in fact a nonfiction manuscript it would have to be
+          uniquely intellectually substantive and or imaginative
+          <br />
+          <br />
+          <br />
+          and there are no specific page or word count expectations beyond the expectation that the submitted documents are full-length (ie NOT chapbook) manuscripts 
+          <br />
+          <br />
+          <br />
+          of course: should a would-be book-submitter need familiarization with the myriad types of work <i>new_sinews</i> publishes, well ... such a would-be new_sinews-eee need only peruse the issue-links looming eminently clickably atop this web application
+          <br />
+          <br />
+          <br />
+         
+          so ... there you go ... if these seem like meetable objectives please send your concomitant <i>full</i> completed manuscript in a <code>word DOC</code> along with a cover letter describing the project to be considered to:
+        </p>
+
+        <p>
+          <a href="mailto:newsinewsmag@gmail.com">newsinewsmag@gmail.com</a>
+        </p>
+
+        <p>
+
+        <span className={styles.darkTypeface}>magazine guidelines</span> :
+
+        </p>
+        
+        <p>
+        meantime ... as for the magazine ... submissions remain open although please be warned: the genesis of issue8 is taking a backseat to the expansion of <i>new_sinews</i> into the realms of book publication
+        </p>
+
+        <p>
+
+          with that in mind ... per usual ... please send poems & fiction (very much open to speculative/fantasy) or even
           aggressively creative nonfiction in a <code>word DOC</code> to be
           considered to:
         </p>
@@ -458,7 +513,7 @@ export default function About() {
           <a href="mailto:newsinewsmag@gmail.com">newsinewsmag@gmail.com</a>
         </p>
 
-        <p>looking for diverse voices & dynamic styles</p>
+        <p>as always—looking for diverse voices & dynamic styles</p>
 
         <p>generally: striving to make unexpected juxtapositions</p>
 

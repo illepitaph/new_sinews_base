@@ -190,7 +190,7 @@
   font-family: "lores-9-plus-wide", monospace;
   font-size: 1.8rem;
   font-weight: 700;
-  text-shadow: 1px 1px red;
+  text-shadow: 1px 1px white, 2px 2px red, 3px 3px white, 4px 4px red, 5px 5px white, 6px 6px 4px red;
   text-transform: lowercase;
   line-height: 6.4rem;
   letter-spacing: -0.02rem;
@@ -399,6 +399,18 @@
   }
 }
 
+@media (max-width: 391px) and (orientation: portrait) {
+  .darkTypeface {
+    font-size: 1.35rem;
+  }
+}
+
+@media (max-width: 321px) and (orientation: portrait) {
+  .darkTypeface {
+    font-size: 1.25rem;
+  }
+}
+
 @media (max-width: 290px) and (orientation: portrait) {
   .siteNav > .dropDown > button,
   .home {
@@ -409,6 +421,10 @@
   }
 
   .middle {
+    font-size: 1rem;
+  }
+
+  .darkTypeface {
     font-size: 1rem;
   }
 }
