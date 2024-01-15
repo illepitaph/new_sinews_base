@@ -393,6 +393,10 @@
   background-image: url("../public/images/KaputBackground.jpg");
 }
 
+.fatherFigureBackground {
+  background-image: url("../public/images/FatherFigureBackground.jpg");
+}
+
 @media (width: 1280px) and (height: 800px) {
   .siteNav > .dropDown > button,
   .home,

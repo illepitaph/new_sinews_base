@@ -1,0 +1,74 @@
+.titleShadow {
+    display: block;
+    font-size: 4.1rem;
+    color: black;
+    text-shadow: 2px 2px #00FFFF, 4px 4px black, 6px 6px #00FFFF;
+    letter-spacing: 1rem;
+    text-align:right;
+    margin-right:20vw;
+  }
+  
+  .inverseShadow {
+    color: snow;
+    text-shadow: 1px 1px black, 7px 7px #00FFFF, 11px 12px 22px black;
+  }
+  
+  .titleShadowUppercase {
+    color: black;
+    text-shadow: 2px 2px snow, 4px 4px #b0b0b0;
+    text-transform: uppercase;
+  }
+  
+  .inverseShadowUppercase {
+    color: snow;
+    text-shadow: 1px 1px black, 7px 7px #00FFFF, 11px 12px 22px black;
+    text-transform: uppercase;
+  }
+  
+  .alternateTitleColor {
+    font-family: "bickham-script-pro-3", sans-serif;
+    font-size: 6.3rem;
+    color: black;
+    text-shadow: 4px 4px snow, 8px 8px gainsboro;
+  }
+  
+  .alternateTitleColorBigger {
+    font-family: "bickham-script-pro-3", sans-serif;
+    font-size: 10.3rem;
+    color: black;
+    text-shadow: 4px 4px snow, 8px 8px gainsboro;
+  }
+
+  .alternateTitleColorUppercase {
+    font-family: "bickham-script-pro-3", sans-serif;
+    font-size: 6.3rem;
+    color: black;
+    text-transform: uppercase;
+    text-shadow: 4px 4px snow, 8px 8px gainsboro;
+  }
+
+  .specialUnderscoreColor {
+    color: #00FFFF;
+    text-shadow: 1px 2px white, 11px 12px 22px gray;
+  }
+  
+  .skewRight {
+    display:inline-block;
+    transform: skew(-39deg, 4.4deg);
+  }
+
+  .authorName {
+    font-size: 5.5rem;
+    font-family: "bickham-script-pro-3", sans-serif;
+    font-weight: 400;
+    text-align: right;
+    text-transform: lowercase;
+    letter-spacing: -0.02rem;
+    line-height: 0.8em;
+    margin: 1vh 7vw 7vh 0;
+  }
+  
+  .ellipses {
+    letter-spacing: 3rem;
+  }
+  
