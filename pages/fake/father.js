@@ -39,6 +39,7 @@ export default function Father() {
           <span className={styles.inverseShadowUppercase}>_u </span>
           <span className={styles.titleShadowUppercase}>r </span>
           <span className={styles.specialUnderscoreColor}>_</span>
+          <br/>
           <span className={styles.alternateTitleColorUppercase}>E</span>
         </span>
       </LeftGrayTitle>
