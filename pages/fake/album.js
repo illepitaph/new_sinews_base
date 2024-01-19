@@ -2,13 +2,11 @@ import Head from "next/head";
 import Header from "../../components/header.js";
 import StandardProse from "../../components/standardProse.js";
 import Footer from "../../components/footer.js";
-import styles from "../../styles/CastingOff.module.css";
+import styles from "../../styles/Album.module.css";
 Album.title = "alvin_lu ~ the white album — new_sinews";
 Album.pieceName = "alvin_lu ~ the white album — new_sinews";
-Album.description =
-  "_Alvin Lu_fiction_THE WHITE ALBUM_news_sinews_issue8_";
-Album.image =
-  "https://www.newnewsinews.com/images/CastingOffBackground.jpg";
+Album.description = "_Alvin Lu_fiction_THE WHITE ALBUM_news_sinews_issue8_";
+Album.image = "https://www.newnewsinews.com/images/CastingOffBackground.jpg";
 
 export default function Album() {
   return (
@@ -25,1464 +23,1274 @@ export default function Album() {
       <br />
       <pre className={styles.title}>
         {" "}
-        ... <b> ...</b> ... <b> casting </b> <b> ... </b> ...{" "}
+        <b> ...</b> ... <b> ...</b> ... <b>... </b> ... <b>the </b> <b> ... </b>{" "}
+        ... white <b> ...</b> ... ...{" "}
         <b>
           {" "}
-          ... <i>o f f</i>{" "}
+          ... <i>a l b u m</i>
         </b>{" "}
         ... <b> ... </b> ...{" "}
       </pre>
       <br />
       <pre className={styles.title}>
         {" "}
-        <b> ... </b> ... <b> ... jacqueline </b> ... <b> ... </b> ...{" "}
-        <b>
-          <i> f e l d m a n </i> ...{" "}
-        </b>{" "}
-        ... <b> ... </b>
+        <b> ... </b> ... <b> ... a l v i n </b> ... <b> ... </b> ... <i> lu </i>{" "}
+        <b>... </b> ... <b> ... </b>
       </pre>
       <br />
       <br />
       <br />
       <br />
       <StandardProse>
-        More than could fit on a postcard, it was indelicate qualitatively, as I
-        tried to express it over an American-sized glass of red wine that night
-        at Amherst Coffee—the yield of my trip. It would be fair enough to call
-        that trip a pilgrimage, which would be to put it differently. I put my
-        discovery to you, David, as several discoveries, one of which I termed
-        “futurity” just to add that, against appearances, I didn’t think the
-        term appropriative there, not where my woman’s use of reproductive years
-        to write, their perverse use, was the thing at issue. For me, anyway,
-        and anyway regarding that particular discovery. I’d put to her, to
-        Nathalie Quintane herself, that there was this one line in{" "}
-        <span className={styles.grayShadow}>Tomates</span> that a critic of
-        hers, building the feminist case, had latched on to with a strong grip
-        throughout the resulting article. Where you say you’re minoritarian, or
-        that your position is minoritarian, because you’re a woman, and so this
-        critic latches on to that disclosure, that admission, but if you look at
-        the text you’re not actually saying you’re minoritarian because you’re a
-        woman, you’re saying you’re minoritarian because you’re a woman with big
-        feet.
-        <br />
-        <br />
-        I wanted to impress you, and we’d come from that reading. You and I can
-        be honest, between us, about the demands readings can make on the
-        affective capacities. The good cheer. The decision, inexhaustible in its
-        rigor, of when to leave, the lingering … Personally I always stay too
-        long, and I hadn’t eaten; none of us had eaten. I had arrived with
-        friends, with Rabia. I’d worked to persuade Rabia to join us despite all
-        she had to do that week—“Come on,” I’d said, “this is a special time in
-        our lives, graduate school”—and then, it turned out, had urgently to
-        stop for gas, but the gas stations in Amherst were closed, and so we had
-        to go fifteen minutes out of our way; I kept apologizing. We arrived at
-        Amherst Coffee eating from a big bag of almonds found in a pocket of my
-        car. My mom gave me a big bag of almonds every time I saw her though
-        many times I’d told her that my teeth, worn down from grinding them at
-        night, weren’t strong enough for me to enjoy this kind of nut
-        comfortably; I think she did this because she had been so worried when,
-        at 18, I went through my vegan phase. Minoritarian because I was a woman
-        with eroded teeth whose mother brought her, always, bags of almonds …
-        <br />
-        <br />I had been dozing, waking occasionally to a disturbing feeling of
-        delinquency in duty, dozing on the bus in the hour before I was to meet
-        Quintane. My friend Emma had made her observation gleefully the previous
-        night, in Paris where I’d moved away from, leaving her, the previous
-        year. You’re so busy this week that it’s great, there’s absolutely no
-        opening for nostalgia to enter in, you’ll suffer from your trip back not
-        at all … Unknown to Emma I had then stayed up very late, crouching at
-        one edge of a mountainously tall air mattress that another friend, Zoey,
-        had blown up for me; on the phone, I was trying to keep my voice down as
-        Zoey and her boyfriend lay asleep, presumably, in the next room. I was
-        negotiating with Malte, the German boyfriend I think I told you about,
-        during the <span className={styles.grayShadow}>Malina</span> reading
-        group. During the pandemic, it was free to rebook. Rebooking could be
-        done at the click of a button. Nothing could be easier. But if I was
-        going to do that, a possibility that had originated as Malte’s idea, and
-        move the classes I was teaching online, I wanted obviously to stay in
-        Berlin, a city I had never visited, for more than a couple of days. He
-        was getting cold feet. Just as I’d secured his agreement—I’d fly out of
-        Berlin a week from then, we’d figure out what to do in between, he’d
-        come to Paris, I&#8217;d go there, if we hated each other I&#8217;d go
-        to a hotel—my phone, which I don&#8217;t know if you’ve ever noticed is
-        shitty and broken, died. I had been laughing, it was funny, he’d been
-        funny, made proof of good humor in capitulating after a long resistance.
-        Or it was nerves, my nerves. I don&#8217;t know how I sounded. I got the
-        phone working just to get the texts, in tenor somewhat frantic, walking
-        his position back. He would meet me, we’d spend two days in Paris
-        maximum. It was clear he’d inferred I’d hung up victoriously to change
-        my booking before he could change his mind again. He thought me capable.
-        I was interested to feel the spreading tingle of my mortification; it
-        was 1 a.m. I may have felt resentful, also, that that card, of my
-        extremity, had been played for me. There are times when it can really
-        work.
-        <br />
-        <br />I had been sensitized previously to ways in which my, let’s say,
-        positionality contributed in France, and possibly all over Europe, to
-        the impression that I made. I think it was in pitching you this project,
-        David, that I evoked universal human themes, displacement, leaving home,
-        that would be dealt with in (even better) a comic register, because the
-        case of these themes’ application, their instantiation, would be that of
-        an American woman in Paris. In reading Lisa Robertson’s{" "}
-        <span className={styles.grayShadow}>The Baudelaire Fractal</span> I had
-        my brainstorm about the radical potential of this category of identity
-        (as if every identity category must have one). In this novel about a
-        woman who wakes to the knowledge she has written all the works of
-        Baudelaire, which brings to mind for her a youth spent as a girl in
-        Paris, promiscuity is an expansive, dandyish style with benefits beyond
-        the release from bourgeois domesticity, though it helps with that.
-        Robertson is Canadian, I should say. But experimentation of this nature
-        is also central to Carole Maso’s{" "}
-        <span className={styles.grayShadow}>
-          The American Woman in the Chinese Hat
-        </span>{" "}
-        (as that title perhaps suggests, by the objectifying definite article)
-        though the setting is the South of France, not Paris. Men can make for
-        interesting writers, too, and Harry Mathews’s{" "}
-        <span className={styles.grayShadow}>My Life in CIA</span>, which late in
-        my Paris life was recommended to me pointedly, tells the story of a
-        caper of this friend of Perec’s in which Mathews decides to address by
-        siding with some rumors flying about him, an American who has been
-        hanging around Paris for so long that it’s suspicious. This is a canon
-        of outstanding negativity, of seediness even. It restores to the
-        American abroad, to certain Americans, some of the complexity, some of
-        the negative power of which their situation has been stripped in the
-        popular imagination—which is not to mention the imagination of Nathalie
-        Quintane. Her novel <span className={styles.grayShadow}>Cavale</span>{" "}
-        opens on the narrator’s fantasy of serving a perfectly cooked fish as a
-        fine British lady, a fantasy abandoned as early as the second page (at
-        the top of the page) in favor of that of being <i>american girl</i>{" "}
-        (“proud and sporting, between thighs in the shape of an S”). That pair
-        of English words is used, the lowercase Quintane’s.
-        <br />
-        <br />
-        It would have been unsporting, I may have felt, let’s say I felt, to put
-        to bed that life without the full achievement of a plumbing of its
-        depths, and in my own way, two years ago … Moving away from Paris is
-        only in some cases a failure of imagination. In French, a Master’s
-        thesis is an example of a <i>mémoire de fin d’études</i>—<i>mémoire</i>{" "}
-        like “memory,” that cognate (except that the other gender is used for
-        the thesis), which has always made me think of the game Concentration, a
-        recitation or regurgitation “of the end of studies.” What I ended up
-        with was something more like a <i>mémoire de fin de vie en France</i>, a
-        phrase that in its clumsiness bears the imprint of my foreignness, my
-        foreigner’s humor, and yet here I am, at my desk in the United States,
-        working on my project just a little longer. But its black-hole aspect
-        wasn’t the only way in which this project came to resemble an extension
-        of projects like those of Robertson, Maso, Mathews in its exploration of
-        some negative potential; this wasn’t even up to me, the exploration. It
-        was chosen barely. There was that aggressive number of footnotes that I
-        wrote, obviously.
-        <br />
-        <br />
-        But even this was only natural, the amplification of an oppositionality
-        already latent in the gesture of translation—what the scholar of
-        literature, writer, and of course translator Tiphaine Samoyault calls
-        translation’s “violence”; her book{" "}
-        <span className={styles.grayShadow}>Traduction et violence</span>, which
-        came out as I was drafting, was valuable to me (and notice, David, the
-        shared root with “traduce,” visible in the French version of the word).
-        It reassesses, argues for the reassessment of, and even advocates for
-        this violence, a reality that writing must be de-written before
-        rewriting it can be achieved. This reality is well documented. Artaud,
-        quoted I forget where, puts apt words to the feeling of fiery,
-        transgressive glee (something Artaud was good at feeling; I don’t know
-        if you’ve ever seen, David, video of him acting), “a malicious flame”
-        that &#8220;leapt up on&#8221; him, on translating out of English,
-        claiming the words as his own (and that impersonation, translation, is,
-        like all the others, mine). But Samoyault situates this aggression, as
-        well as the need for its recall, in a highly contemporary and actually
-        quite dire context. At stake in the rise of machine translation is the
-        technologically mediated disappearance of disfavored languages.
-        Samoyault is clear on what she’s up against—steamrolling,
-        ethnocentric—in wresting an imaginary out of the hands of state and
-        European governmental actors all too happy to hold up, to brandish
-        translation, to praise it, as a strategy of pacification, of reducing
-        difference to something decorative, something in need of fixing (and, in
-        the day of Google Translate, something fixed easily), when difference is
-        right to be political. It “breaks the reproduction of roles” (she quotes
-        Barthes) in opening relationships to renegotiation, renewal. Samoyault
-        is anti-defanging.
-        <br />
-        <br />
-        What I am getting at, or what I would like now to claim to be getting
-        at, is that out of the findings of Project Quintane, one of the most
-        important, not the most interesting but the most, perhaps, destructive,
-        the discovery that risks invalidating every other, a real oppressor of a
-        discovery that has to be risen up against, is that the arrangement of
-        the life of this great author—a working-class author who, since passing
-        the state’s exam, works as a schoolteacher less than full time, and can
-        count on that state’s pension, on healthcare—just isn’t possible in the
-        US. Not in our century, not now.
-        <br />
-        <br />
-        I don’t know if I’d come out and say it like that if Quintane weren’t
-        the first to, immediately, attribute her capacity for literary industry
-        to this situation. She was quick to do so. This attribution,
-        characteristically humble, as if the outpouring of her production were a
-        matter of situational luck, would be made as soon as she had me in her
-        car; the nine-hour workweek, or whatever, was her secret, she would say,
-        warning a young seeker against the lure of getting rich. A golden light
-        was settling on the foothills of the Alps, brown mountains all around.
-        This shift in Quintane’s life, the settling down to work that she
-        managed, may have coincided with the lightening of her duties as a
-        functionary but, I knew from my study, it began with her arrival in
-        Digne-les-Bains, a city of sixteen thousand in southeastern France where
-        Quintane moved when she was just about my age.
-        <br />
-        <br />
-        The pivotal age of early maturity, it was well adapted, I apparently
-        thought, to a sounding of the “creepy side of translation,” as Zoey had
-        said the night before, getting it right away.
-        <br />
-        <br />
-        Off I went.
-        <br />
-        <br />
-        <br />
-        <br />
-        <p className={styles.sectionBreak}>*</p>
-        <br />
-        <br />
-        <br />
-        <br />I shouldn’t have been dozing because I had to think, prepare. And
-        I had been cramming. For days I had been cramming; I had stayed up, my
-        first night in Paris, reading{" "}
-        <span className={styles.grayShadow}>La Cavalière</span>, the most recent
-        of some three books by Nathalie Quintane to have been published since
-        I’d left the country a little over a year before. From time to time I’d
-        pause in my reading to make a note in the back of that book of a line, a
-        phrase, something that occurred to me as worthy of inclusion in the
-        email correspondence that I’d entered into with Quintane, fishing for
-        this invitation.{" "}
-        <i>Chère Nathalie, c’est depuis Paris cette fois que je vous écris</i> …
-        My mind kept drifting there.
-        <br />
-        <br />
-        <span className={styles.grayShadow}>La Cavalière</span>—ostensibly about
-        an incident in the 1970s in which a Digne schoolteacher, Nelly
-        Cavallero, was fired for indecency (long story; she would leave her
-        house unlocked), really a pretext for Quintane’s oral history tracing
-        back a lineage of revolutionary thinking—was, I couldn’t help noticing,
-        very sweet in tone. Too sweet, maybe. The narrator had some aversion to
-        writing the story, and while this aversion was referred to often, I
-        didn&#8217;t get it viscerally. Cavallero&#8217;s firing wasn’t
-        investigated in its details, and the book seemed in other ways to lack
-        the vigor I associate with independence of investigation. Subjects step
-        in to qualify accounts they’ve given, at times correcting this
-        investigator’s understanding: “It’s a shame … two or three years out I
-        still remembered everything … now it’s distant.” There are some lovely
-        descriptions of landscapes. Even the back-cover notice (which, for
-        Quintane’s publisher P. O. L, authors are in charge of composing) was
-        lengthy, sincere; these notices are a specialty of Quintane’s, who more
-        typically uses them to carry off a salty, even hostile salvo, normally
-        an acid joke, in four or fewer sentences. My reading deepened until, at
-        last, I wrote in a margin my note, a kind of outburst, registering my
-        sense of betrayal in response to the assertion, from this major poet of
-        an art engaged with life, of a uniquely combative political art as
-        Quintane’s has been characterized, that, “Writer or teacher, it was so I
-        could be left alone.” Left <i>the hell</i> alone might be apter, as the
-        idiom is somewhat impolite (<i>foutre la paix</i>). “She feels less free
-        on the page in this one,” I said helplessly to the bookseller at the MK2
-        on the Bassin de La Villette, and I stumbled out to see a line of
-        streetlamps that to me always resembles, reflected in that wide segment
-        of the blue-green canal, a string of pearls.
-        <br />
-        <br />
-        Here I should confess I’ve been trying for ten years to fit that simile
-        into some piece or other of my writing about Paris, and it has never
-        worked. The streetlamps always seemed, as pearls, especially resistant
-        to being pinned down on the page, and yet they seemed to want that,
-        also. There is a jealousy that art has for life, something I’d always
-        read into Quintane’s writing, which is generous in positing many options
-        for the relationship between life and art, for a working relationship
-        between these. For a page or so of{" "}
-        <span className={styles.grayShadow}>La Cavalière</span>, they are
-        described as matching up exactly. It’s 1976, and Nelly has linked up
-        with a traveling band of theater artists on the road from Avignon to
-        Strasbourg. They’re radicals, every rule up for debate, down to the
-        interdiction on smoking cigarettes for members of the audience.
-        Occasionally a play would call for an actor to light up, and there
-        seemed no good reason to apply the rule unfairly. “The troupe is a
-        community. The theater is communal life. No difference,” Quintane writes
-        in conclusion, “between art and life.” It was time, anyway, similarly,
-        relatedly, for me to leave my books behind, or rather to make the
-        selection of which ones to bring in a dedicated tote bag, and for my own
-        project to get up onto its feet—for some fourth wall to be broken.
-        <br />
-        <br />I would have described the voyage to you, David, as I did to other
-        Americans. From Paris, I had to take the high-speed train to
-        Aix-en-Provence, a journey south of nearly three hours, and catch a bus
-        headed back up north to stay on it for nearly as long. Through
-        light-blue curtains of a hospital-type synthetic I saw that landscape,
-        Mediterranean with low, sparse trees, give way. Off to the right we’d
-        passed the factory for L’Occitane en Provence. There was a green field
-        full of tiny white flowers of which only those heads, as if floating,
-        could be seen. Spray-painted onto the embankment of a river the road
-        followed was the phrase <i>MACRON TRAITRE</i> as those mountains, as{" "}
-        <i>the Alps</i>, came into view. As the bus made its stops I gave myself
-        over to taking in the sounds of the cash register, to observing the smug
-        and mild interest that I felt, something like pity, that onboard you
-        feel for the people who come up to ask the driver questions about where
-        the bus is headed, a problem you have solved. I noted down the
-        pronunciations they made of the name that had become important to me:{" "}
-        <i>Dee-ña</i>. <i>DEEN</i>. Quintane’s oeuvre is full of allusions to
-        this place. And so it was a special feeling of dislocation to see that
-        word printed not on a page but, for the first time, on a sign, and then
-        on many signs, having seen it flash above the windshield of that bus to
-        indicate a terminus.
-        <br />
-        <br />
-        I’d bought the notepad from another Nathalie, a kind of false Nathalie
-        or a Nathalie differently rendered. At the chain stationer’s in the
-        Aix-en-Provence station I’d overheard another worker, a man, call out to
-        the cashier in passing as I was transacting with her and neglecting,
-        obviously, to note down what he said, <i>How’s it going</i>,{" "}
-        <i>Nathalie</i>, or, <i>Catch you later</i>, <i>Nathalie</i>, or,{" "}
-        <i>Keep up the good work</i> … Evidently I’d been nervous, in front of
-        the wrong Nathalie. I’d asked a lot of questions, for example about the
-        phone charger I was buying to be sure it was the right one, and had
-        stopped back in to buy, just in case, a second notepad identical to the
-        first (the only kind they had). Of course I was nervous. If I look back
-        at my notes from the days before the trip, they are more consistent,
-        however, with a kind of mesmerized appreciation, wonder: <i>5:15 PM</i>—
-        <i>
-          this person whose books I’ve spent 50€ on this weekend has just warned
-          me via email that she has 2 cats
-        </i>{" "}
-        + <i>hopes I’m not allergic</i>.
-        <br />
-        <br />
-        And there she was, the poet. With a sweeter appearance than I had
-        imagined, perhaps. I thought of the French adjective <i>doux</i>, which
-        is more like “gentle,” in between “sweet” and “gentle.” Slimmer, her
-        hair redder. I guessed she’d dyed it. I was wearing my best sweater,
-        which I’d known was a mistake, too fussy and loud, over-the-top, and, in
-        the full blush of this knowledge, I had pulled it on, unwilling to wear
-        anything other than my best for the occasion, that of meeting Nathalie
-        Quintane. I had also foregone makeup in some hope of appearing serious.
-        But Quintane was wearing makeup. Spread over her face was a powder that
-        would give it, in the southerly light of that city where she’d settled,
-        a passing shimmer.
-        <br />
-        <br />
-        <br />
-        <br />
-        <p className={styles.sectionBreak}>*</p>
-        <br />
-        <br />
-        <br />
-        <br />
-        The line in question, from 2010’s{" "}
-        <span className={styles.grayShadow}>Tomates</span>, a meandering,
-        anecdote-rich treatise—and I’m afraid I’ll have to reproduce the whole
-        sentence, a very long one, as well as the sentence that comes before it;
-        sorry David—is: “Being forty-five, or fifty-five or sixty-five isn’t any
-        reason for us not to want, any longer, intense lives, or to lose the
-        desire to write intense texts. Or to read them; I bought, especially in
-        2008-2009, a considerable number of historical political books,
-        attempting perhaps to make up for my numerical minority in gorging it on
-        these books, literature’s books having failed to suffice, the fleeting
-        fad for <span className={styles.grayShadow}>Princesse de Clèves</span>{" "}
-        having changed nothing of the spectral, dwindling, disappearing nature
-        of all novels and of literary efficaciousness in general, minoritarian
-        on all fronts, minoritarian because I read books, minoritarian because
-        they’re literature, minoritarian because, reading books and writing
-        them, I remain the child of salarymen, born themselves of workers,
-        minoritarian because, granting that I’ve reached the height of 1.8
-        meters, I am a woman, and because I have big feet, minoritarian because
-        I live in the countryside, and because the countryside is a strange
-        thing, as Benjamin of Tarnac suggested so strongly in describing cops of
-        the forensics team bounding joyfully over the fields and visiting the
-        chicken coop and saying the countryside wasn’t so bad as all that and
-        deciding maybe, on their return, to plant tomatoes.”
-        <br />
-        <br />
-        There are a half-dozen things to unpack here before I can move on, but
-        by the time they’re out there you’ll have a solid understanding, David,
-        of some of Quintane’s major themes, saving you the trouble maybe of
-        poking through the sections I present in French with your Duolingo and
-        your dictionary. Even in the original (a cognate that can’t, in French,
-        be used in that way as a noun but is only an adjective, a reminder so
-        ingrained in me by now as to issue automatically) the passage is dense
-        enough to warrant a footnote of its own, and what Quintane chooses, out
-        of all that, to gloss is the reference to <i>La Princesse de Clèves</i>,
-        a seventeenth-century novel that had become by 2010 oddly popular in
-        France. The odd way in which it became popular—getting into Quintane’s
-        notion of literary efficaciousness—was Sarkozy’s singling it out, twice,
-        to name it, with vitriol that would have to be considered excessive, as
-        a horror of irrelevance to civil servants whose exams contained the
-        reference. Subsequently it was celebrated by many. Striking students put
-        on readings.
-        <br />
-        <br />
-        Utility such as they found in{" "}
-        <span className={styles.grayShadow}>Clèves</span> is not, for Quintane,
-        extra-literary, as I hazard in the more theoretical French part of all
-        this. I give examples such as that of a page of verse in{" "}
-        <span className={styles.grayShadow}>Chaussure</span> that, while
-        unlabeled, resembles a drinking song for workers clearly. You could tear
-        it out, I thought, in which it reminded me of kits for making paper
-        dolls. <span className={styles.grayShadow}>Un œil en moins</span>, about
-        participating in activism at the time of Nuit Debout, is a fat,
-        diaristic book demanding, like the strike, a period of abstention from
-        paid labor. It bears other formal resemblances to activism, but this
-        thickness, unusual for Quintane, is also the object of her pun on the
-        back cover; she calls it a <i>pavé</i>, colloquial for “tome” as well
-        as, literally, “paving stone” like those that have been torn up and used
-        as barricades in urban uprisings such as those of the Commune and May
-        1968. Or thrown—“Less One Eye” is a fair translation of that title; a
-        cat of Quintane’s, in the course of the year being chronicled, loses an
-        eye to infection. If you are on her level it’s not merely the personal
-        that’s political but the personal life of your cat; something
-        interesting about my thesis <i>de fin de vie en France</i>, or a glaring
-        omission, is that, despite the plethora of examples given for a
-        use-value of literature, its own highly political purpose, “to get me a
-        visa” as I used to say, is not discussed.
-        <br />
-        <br />
-        My reading of these aspects of Quintane’s works hinges on a line from{" "}
-        <span className={styles.grayShadow}>Un œil en moins</span>, a
-        provocation, about a portion of the Invisible Committee’s readers making
-        “practical use” rather than “literary use” of the books. Speaking of
-        things being thrown, of the projectiles of insurrectionists,{" "}
-        <span className={styles.grayShadow}>Tomates</span> is the book of
-        Quintane’s with that committee at its center, which brings me back to my
-        project of glossing, to “Benjamin de Tarnac.” Tarnac, a village of about
-        three hundred in the middle of that country, on the wonderfully named
-        Plateau de Millevaches, names that location but also—I’ll treat you like
-        the dictionary the translator makes recourse to—a scandal. In the{" "}
-        <i>Affaire Tarnac</i>, young people living on a commune there—the
-        “Tarnac Nine”—were arrested on charges of terrorism, accused of
-        sabotaging the railway by placing a hook of reinforcing steel on its
-        lines. Julien Coupat, their supposed leader, was a literary man, having
-        famously attended the EHESS (where my own thesis,{" "}
-        <i>the present work</i>, was undertaken) and founded the journal{" "}
-        <i>Tiqqun</i>. He was also suspected of having participated in this
-        Invisible Committee, an anonymous collective whose{" "}
-        <span className={styles.grayShadow}>L’insurrection qui vient</span>{" "}
-        (2007, published by Semiotexte in 2009 as{" "}
-        <span className={styles.grayShadow}>The Coming Insurrection</span>) was
-        entered in as evidence wholesale. Literature itself was on trial, as
-        Quintane writes in <span className={styles.grayShadow}>Oeil</span>. In{" "}
-        <span className={styles.grayShadow}>Tomates</span>, which is centered on
-        this episode, she manages an analysis of the aesthetic, the affective
-        implications of all this, not only the terror of realpolitik, but
-        another, subtler uncanny—the freshly bared and glinting contiguity of
-        life and literary art. Coupat, interviewed for <i>Le Monde</i> from
-        prison in May 2009, was discovered reading Foucault (
-        <span className={styles.grayShadow}>Surveillance and Punishment</span>—
-        <i>bien sûr</i>). In <span className={styles.grayShadow}>Tomates</span>,
-        Quintane has herself, her speaker, claiming to be the Invisible
-        Committee—echoing petitions of that time with many signatures.
-        <br />
-        <br />
-        <span className={styles.grayShadow}>Tomates</span> is paradoxical,
-        however, in this ostensible focus on <i>events</i>. It is more properly
-        a book of continuity, taking continuity as its subject. Looking around,
-        for example at a literature festival on the island of Majorca, the
-        narrator finds she is observing, in a police line for example, a
-        tightening of the apparatus of the security state. Out of her “flash” of
-        fascism a bigger picture is, in the book’s course, developed. It turns
-        out to be, in the course of her reframing, of the reframing she
-        performs, a denial of the feasibility of revolution in Quintane’s day so
-        widespread, so potent it amounts to mass hysteria.{" "}
-        <span className={styles.grayShadow}>The Coming Insurrection</span>{" "}
-        followed on from, was inspired by, the 2005 riots in French suburbs,
-        uprisings Quintane considers the chattering classes have been hasty in
-        discounting. I remember where we were standing as she told me{" "}
-        <span className={styles.grayShadow}>Tomates</span> was about the problem
-        of transmission of knowledge; I raced to make a note of this. Quintane’s
-        own generation and Marine Le Pen’s has been, as she puts forth in{" "}
-        <span className={styles.grayShadow}>Tomates</span> and &#8220;Stand
-        up,&#8221; the missing link, since 1968. But this is no excuse for
-        inaction, poor timing isn’t; “intense” seems to be a lowkey reference (
-        <i>tumulte</i>, in &#8220;Stand up,&#8221; being more obvious) to
-        Georges Bataille’s morbidly serious claim of having lived through a
-        surpassingly tumultuous epoch. She pokes fun at him and, for the moment
-        being, was showing me the school where she taught. I think that we had
-        had to cross a bridge. The light was getting low and orange. In a
-        traffic circle the monument was decorated for Armistice Day, decked out
-        in patriotic bunting. Because I can remember vaguely in this way as well
-        as tracking where I was in town as each note was taken down, this
-        notepad has a psycho-geographic function. Sprinkled in among my notes,
-        as if to avoid drawing notice, are the <i>ad hominem</i> observations I
-        couldn’t resist surreptitiously making—“long delicate fingers,”
-        “extremely slow walk”—tucked between the lines of pages peppered all
-        across with the abbreviation of my own devising, “Q.”
-        <br />
-        <br />
-        We had come, in that place, to a standstill. I had tripped her up, eager
-        as I was to demonstrate that I had done the reading. In the changing
-        light I thought, below the delicately layered makeup that had caught it,
-        she was, actually, blushing. Out of consternation; we’d stopped moving.
-        Quintane, leading us, had stopped short on that sidewalk in
-        accommodating, suddenly, heated discussion I’d begun about some
-        connection between <span className={styles.grayShadow}>
-          Tomates
-        </span>{" "}
-        and <span className={styles.grayShadow}>La Cavalière</span>, a tonal
-        similarity. Both deal with history, each a work of history or almost;
-        they use footnotes. <span className={styles.grayShadow}>Tomates</span>{" "}
-        self-identifies as a “mute book”—prosy, cultivated, not disruptive in
-        its language. “So I write a mute book; I take that risk. I can’t write
-        my revolt in any other prose if I wish to be heard.” Elegiac, even. I
-        may have said that; it’s a perfect cognate, <i>élégiaque</i>, but
-        different enough from the French <i>éloge</i> that I can never get it.{" "}
-        <span className={styles.grayShadow}>Tomates</span> had been a turning
-        point in her reception by the public.{" "}
-        <span className={styles.grayShadow}>La Cavalière</span> was darker, I
-        offered, more troubling, because the problem of transmission both books
-        consider becomes, in that book, shaky <i>epistemologically</i>; it might
-        not be possible. The <i>soixante-huitards</i> being interviewed are
-        dying off; there’s a lot they have forgotten. Saying this, I was,
-        however, thinking something different, that it was a strangely
-        satisfying feeling, new and negative, to see a favorite author frozen to
-        the spot because of something I was doing (her reader, who had spent so
-        many hours transfixed). That was a cheap thrill, and, like approval can
-        be, I may have found it cheapening. In my French conclusion, I make much
-        of an idea about a <i>reste</i>, a remainder of the translator’s
-        operation, that for Derrida is the untranslatable; here was another.
-        Does it matter if the author agrees with your reading? What difference
-        can that make?
-        <br />
-        <br />
-        All over town, the revenge of the real continued. Digne was, even now
-        (from the briefest of glances at my camera roll), blue skies. Fluffy
-        clouds. By each chestnut tree were piled golden leaves, still dry and
-        fresh. I had proposed to Quintane from the comfort of my home, United
-        States, this <i>voyage sur les traces de MLP</i>. But the Greek
-        restaurant was, it ensued, way over there. The angle of ten degrees was
-        nowhere to be seen. The thesis that I’d printed off was flopping in my
-        hands as I made reference to the text. Distinctly I remember the
-        exercise of restraint, refraining, or so I thought, from taking notes so
-        frequently I’d seem insane. Quintane caught on anyway and, in a hostly
-        way, pointed out a bench, asking if I might want, before we moved on, to
-        note “two-three” things. And before long we were seated, my notepad
-        between us. I’d gotten coffee while Quintane ordered warm milk, like a
-        cat. I reached for my copy of{" "}
-        <span className={styles.grayShadow}>Les années 10</span>, which wasn’t
-        there. It was in, of course, her car. Did I want her to get it? This
-        offer of Nathalie Quintane’s was more grounds for panicking, directions
-        have always been my worst subject, and it was adrenaline, I think, that
-        let me find my way back to her car where it was parked—where Nathalie
-        Quintane had parked it. There it was.{" "}
-        <span className={styles.grayShadow}>Les années 10</span>, the object, is
-        a brightly colored book. Orange, it is deeply dyed. Mine is well loved,
-        and use has turned the edges of the spine white, rubbing off the color.
-        <br />
-        <br />
-        You were the one who said, at Amherst Coffee, said I’d have to capture
-        in my writing what I told you there about the big car of Nathalie
-        Quintane being one of the dirtiest I’d ever been in. No way, I said in
-        answer. Which is how I end up in such positions of regret for all the
-        questions that I never manage asking. Simple questions, like: Why is
-        your car so big? Is it for hauling stuff, what stuff? Why is it so
-        dirty, what is your relationship to cleaning out your car? What is the
-        proper relationship of the writer to cleaning out a car?
-        <br />
-        <br />
-        And relatedly: is anything sacred? There was, back at that café, an
-        unease, a flickering disappointment I felt only intermittently but
-        accessed, felt at the alacrity with which other questions, about which
-        parts of &#8220;Stand up&#8221; were true—questions I’d puzzled over,
-        left to conjecture; puzzling that had seemed to open doors on hidden
-        meanings—were cleared up by the author. The Barrière family, Jewish, had
-        existed, for example; she wouldn’t have made that up. Regarding{" "}
-        <span className={styles.grayShadow}>La Cavalière</span> also, she was
-        open in discussing deontology, and even as certain lines of my
-        questioning began to seem small, mere, wasted, huge and messy ones were
-        being opened up. There were questions that Nathalie Quintane found
-        herself wanting to ask of those who came places to do
-        fieldwork—questions like what right they had. To ask their questions,
-        air publicly the details of people’s lives. Anyway, because she lived
-        among them, all their lives made in the one place, Digne, she would not
-        have offended her interviewees. This was a question that seemed to her
-        “moral.”
-        <br />
-        <br />
-        Difficult territory, for me in that setting anyway, which makes me
-        remember the last thing I meant to gloss from that{" "}
-        <span className={styles.grayShadow}>Tomates</span>{" "}
-        quotation—“minoritarian” (which I’ve translated aslant; “minority” is,
-        except for the connotation in American English about race, here
-        inappropriate, a cognate). For a long time a highlight of Quintane’s
-        author bio on the P. O. L website has been the showstopping sentence{" "}
-        <i>Je suis peu nombreuse</i>, <i>mais je suis décidée</i>. Placing the
-        author in a society of one as part of a “biography [that] reduces itself
-        to a few malicious lines,” as the critic Anne Malaprade has termed
-        another of that author&#8217;s of comparable length, this is as if
-        designed to scare off those who would search the life for clues to the
-        art, as cops search—you&#8217;ll remember that{" "}
-        <span className={styles.grayShadow}>Tomates</span>, her breakthrough, is{" "}
-        <i>about</i> the juridical usage of literature and, perhaps, identity to
-        persecute supposed authors—and even so, with my notepad, I’d shown up.
-        <br />
-        <br />
-        She had a schoolteacher’s sense for which directions to give, the
-        necessary ones. So this had been, evidently, because I kept forgetting,
-        in my negligence disregarding the rule she had set to close the door to
-        the room where I was sleeping, and would find myself in consequence
-        discreetly giving chase to the cats of Nathalie Quintane (how well she
-        knew them), chasing cats to capture and remove them, activity the poet
-        politely ignored. The room was taken up by a grand piano at the center.
-        I chased those cats around the grand piano. There were plants, one a
-        spindly plant, atop that grand piano. The handle of the door was offset
-        slightly, I don’t know how to name what made it wrong. It had been set
-        askew somehow. Repeatedly I had trouble getting it open, an instant of
-        trouble. But it was figurative, my term when, failing to sleep, I wrote
-        in my notes about feeling “trapped.” Quintane had given me plenty to
-        worry about, but what I really feared by now was that the whole
-        enterprise of a text I’d promised, David, you, would be weighted down,
-        go flat. With me constrained, doomed from then to write another mute
-        text, not only elegiac but, worse, loyal to the record. The burden of
-        the real, history’s burden, would prove a lethal weight. You and I had a
-        plan, laid in Massachusetts, for me to write something funny; it would
-        be totally wrecked. And maybe there had been always but unacknowledged a
-        sinking melancholy to the project, drowning it in this tsunami of
-        nostalgia, attempt, pathetic, to make something of my life in France,
-        get something useful out … <i>Les bons profs savent jouer de ça</i> :
-        Quintane’s line was running through my head as I tried sleeping; it’s
-        from <span className={styles.grayShadow}>Ultra-Proust</span>. And
-        connecting to Nathalie Quintane’s WiFi network, I saw, then, a message
-        from Malte, afraid that he had COVID.
-        <br />
-        <br />
-        <br />
-        <br />
-        <p className={styles.sectionBreak}>*</p>
-        <br />
-        <br />
-        <br />
-        <br />
-        So what did I hope to get out of life that I hadn’t gotten out of art?
-        This time, I mean. In the French you may still be struggling, David, to
-        read, some demonstration is made of my understanding of the theory of
-        Gérard Genette, whose contributions include a taxonomy of possible
-        relationships between texts (e.g., intertextuality, paratextuality,
-        architextuality, metatextuality, hypotextuality, hypertextuality);
-        analogously I offer, as part of my conclusion, a breakdown of the
-        operations on display in my own footnotes. Meanwhile in that French
-        introduction, I say something about the stakes of an assertion of the
-        scholar Alice Kaplan’s being unclear; the stakes of learning French as a
-        foreign language having given her, as a young person, “a place to hide,”
-        remain, in the telling of her memoir, unclear. As I suggest. But if I
-        were to follow Kaplan, there are any number of claims like that that it
-        would be possible to advance about this project and its relationship to
-        yours truly, David, I mean me. About my writing in French being, for
-        example, a translation of the self. About my journey to Digne being a
-        translation of art into life. These raise, again, questions without
-        answers; that French section begins on a helpful quote from George
-        Steiner about there being, of translation, no theory properly speaking,
-        only narratives of praxis. So this time—you know, starting off—I really
-        did try, out of the gate, to help you out, David, by translating into
-        English all I’d written in the French, but what I came to find was
-        lacking, for me personally, was that sense of transgression—of fun—that
-        enlivens translation, making something exciting out of an eye-crossing
-        task. Where you get to put your mouth around the words of someone else,
-        speak them as yours.
-        <br />
-        <br />I have exaggerated, maybe. It was no disaster I was dozing, for I
-        had at hand, I could refer to, a hard-copy version of myself that I’d
-        prepared in Aix, waiting for the bus. The questions I’d assembled
-        completely covered, in their groupings—
-        <i>Understanding/verification traduction fideleté</i>,{" "}
-        <i>Interpretations de ce texte</i>, <i>Thèmes de l’œuvre quintanien</i>,{" "}
-        <i>Questions plus larges</i>—four sheets of paper (the questions with
-        their brackets, headers, arrows, page references). Torn from their pad,
-        they had come away cleanly. I warned Quintane that my questions for her
-        would spread over four progressive levels, and I’d followed her home by
-        the time we’d reached the last out of the lists,{" "}
-        <i>Questions plus larges</i>, with its prying, personal, salacious
-        flavor. Quintane’s friend, a filmmaker, had offered us the use of some
-        equipment. And this presented an improvement over the digital recorder I
-        had brought. It sat with us still and fluffy like an extra cat.
-        <br />
-        <br />
-        Congruous with her slow walk was—as I may well find myself considering
-        anew, replaying that recording—the schoolteacher’s way she had of
-        talking. As her great height had educated her gait, so too in an
-        analogous operation had her conversation taken on its character in years
-        spent leading classes. Nothing much was dropped, or so it seemed to me.
-        Our discussion unfolded in a synthesizing manner. It was easy, around
-        Nathalie Quintane, to think. Impressionability is a part of life, and
-        yet it wasn’t until my late twenties, or thereabouts, that I realized I
-        was going to imitate others no matter what and so, rather than
-        attempting to stem off that impulse, would do best by it in making a
-        careful selection. But even when I did, some of these people I
-        ultimately chose to glom on to turned out to be modeling examples of,
-        primarily, selflessness, tolerance—as if referring the problem, sending
-        it someplace beyond (<i>plus loin</i>). And there I was, in any case,
-        availing myself of Quintane. Coaxing out of her some maxims I might use
-        to broaden the horizon of my thought, make myself a little larger.
-        Autobiography leaks into Quintane’s work in a way that makes of her life
-        a resource, epitomized maybe by the use she makes, throughout her
-        oeuvre, of Digne itself. A typically, even prototypically mid-sized
-        French city, she finds it representative, investigates it accordingly.
-        For a book of hers about another city in the South of France she’d taken
-        photos out her window as she told me, giving this as an example of the
-        use she makes of Digne—we were walking, then, its Boulevard
-        Gassendi—using it, in that case, for her book{" "}
-        <span className={styles.grayShadow}>Saint-Tropez</span> … She trailed
-        off. But I knew, because I knew by heart her every title, that she was
-        just being polite, and, perversely, I supplied it, the full title,
-        self-identifying:{" "}
-        <span className={styles.grayShadow}>Saint-Tropez – Une Américaine</span>
-        , “an American woman.” (When on our arrival at her house a cat appeared,
-        I blurted out “Chemoule,” a name known to me from{" "}
-        <span className={styles.grayShadow}>Un œil en moins</span>.)
-        <br />
-        <br />
-        There’s imitation, study, and then there’s “diabolical possession,” you
-        know on the other hand, a phrase offered up by Quintane in responding to
-        one of my lower-level questions about &#8220;Stand up.&#8221; As I was
-        embarking on my project in its original, academic framework, I had found
-        it challenging to get the attention of the critic who was serving as the
-        director of this Master’s thesis, which was no surprise, she had in
-        point of fact warned me, but a side effect was that what she, the
-        eminent critic, said by way of advice took on, for its rarity, a
-        glittering preciousness. She had said something, I could have sworn
-        she’d said something, about attending to the moments of this text where
-        an ambiguity, or overlap, was present between the voices of the narrator
-        and MLP, or the narrator’s fantasy of MLP, and while I hadn’t so much
-        noticed those moments at the outset, I began to see them everywhere.
-        Glossing them, performing a detangling, ascribing words to one or the
-        other of these characters <i>or to both</i>, became a motif of my French
-        footnotes, David. And then, during the defense, the critic said with
-        finality that the division between the voices was, on second thought,{" "}
-        <i>assez nette</i>. I was left to wonder if all that activity, all that
-        glossing, had been undertaken in my, as they say, right mind, or if I
-        had been, well … But then with me Quintane, in characterizing her
-        relationship to MLP in writing &#8220;Stand up&#8221; as one of
-        possession, of her being possessed, not only allowed this reading but
-        went so far as to make reference to the film{" "}
-        <span className={styles.grayShadow}>The Exorcist</span>. (French people
-        tend to think me knowledgeable about the films of Hollywood.) And
-        because there would never be any way of furnishing an answer to the
-        question of if my thesis director had possessed me diabolically, this
-        confirmation of Quintane’s was especially satisfying.{" "}
-        <i>Je me laisse posséder</i>, she had said—although, on reflection,
-        because after all her agreement didn’t matter, I had and have no way of
-        knowing if Quintane was just agreeing with my reading in the way a
-        teacher does, to be supportive of my inquiry.{" "}
-        <i>Et quand je dis je c’est le texte</i>.
-        <br />
-        <br />I can say more, with your patience, about what I mean by “life”
-        and what I mean by “art”—a little vague, I know—which will probably
-        bring me back to the woman thing, too, if I’m not careful. Out of my{" "}
-        <i>Questions plus larges</i>, the one that I kept harping on has to do
-        with another line of resonance from{" "}
-        <span className={styles.grayShadow}>Ultra-Proust</span>. It deals with a
-        conversion to literature that Marcel Proust is calculated to have
-        undertaken. Such <i>conversion à la littérature</i> is defined, in{" "}
-        <span className={styles.grayShadow}>Ultra-Proust</span>, in terms of
-        lifestyle. The speaker here is thinking on their feet, ellipses theirs:{" "}
-        <i>l’entrée dans une autre forme de vie</i>,{" "}
-        <i>comme on dit aujourd’hui</i>, <i>c’est-à-dire une conversion</i>…{" "}
-        <i>
-          On ne peut écrire ce qu’il a écrit dans le temps qui lui était imparti
-        </i>
-        , <i>qu’il savait lui être imparti</i>, <i>sans conversion</i> …{" "}
-        <i>une conversion à la littérature</i> … Impossible to have written what
-        he did, in the time that he knew left to him, without conversion,
-        conversion, “the entry into another form of life.” So, Nathalie
-        Quintane, <i>des astuces</i>, any tips? <i>Comment faire</i> ? In a
-        preliminary way however I had suggested that there were at least two
-        very fair objections to the line of questioning I’d be pursuing, first
-        of course that <span className={styles.grayShadow}>Tomates</span>,
-        surveillance-state-y one, and second that it’d be, just, inappropriate,
-        the personal, and yet again I didn’t think so but sometimes thought it
-        central, even, to an understanding of the politics of literature, to
-        approach the question of how to write by a question of how to organize
-        one’s life. Which is maybe why a paper on the politics of literature
-        will devolve into, find its level with, bottom out on, lifestyle
-        journalism, as I am discovering—did you know that Nathalie Quintane
-        enjoys a yogurt after meals? Quintane’s response to this, anyway, was
-        gratifying, immediate; she said knowingly that Christophe Tarkos was the
-        poet of that—even though I personally had actually considered Nathalie
-        Quintane to be the poet of that, a strong candidate. In{" "}
-        <span className={styles.grayShadow}>La Cavalière</span>, for example,
-        she posits three options—the remaking of institutions, leaving cities to
-        live on communes, doing both—saying she tends, herself, to favor Number
-        One in the morning, Two by evening, Three at noon.
-        <br />
-        <br />
-        Yogurt, yogurt, yogurt—and later, it occurred to me inescapably without
-        my knowing what it meant, occurred to me as important without my knowing
-        why, that two of the poets we’d most spoken about—Tarkos, and Jack
-        Spicer—were men who died at forty. All around us, I mean all around you
-        and me in Amherst, are female poets making reproaches of male poets for
-        expecting to be cleaned up after, but I don’t, sometimes, think that
-        that’s what’s happening. The man our professor called me just last week
-        a “good student” and an “overachiever,” but the lesson of Quintane, who
-        is open about what she considers her quality of obedience as well as the
-        overarching one of being a good student, is that these crosses can be
-        borne with style; it is its own reward to live. Meanwhile a lady
-        professor said, and I wrote this down because it seemed so revelatory,
-        “It’s good for me, so it must be good for my writing,” about some living
-        arrangement of hers. Quintane dates the burgeoning of her practice to
-        her implantation in Digne, where—after a visit, I can confirm—she
-        considers herself to lead a <i>vie agréable</i>. That’s the secret. For
-        my part I recorded Quintane’s gestures. Removing a cat from her lap,
-        welcoming it back, all the while saying something apposite.
-        <br />
-        <br />
-        That line I’ve evoked has been, for me, so memorable for the reason of
-        its setting in a conversation, I would say. It takes its special
-        dynamism—more than tonal ambiguity, a tonal polyvalence—from this
-        setting. (Even the title,{" "}
-        <span className={styles.grayShadow}>Ultra-Proust</span>, is sonically
-        apt for a book about French literature and its kitsch, for the comic
-        duplication of that vowel that is, for a foreign speaker like myself,
-        really killer.) <i>Conversion à la littérature</i>—and the perfection of
-        those cognates may have also helped the phrase stand out to this
-        Anglophone with vividness—is not the only irresistible phrase of
-        Quintane’s to occur in dialogue. Indeed, the depiction of disembodied
-        speakers getting into a pitched and, from the outside, humorous argument
-        about some aspect of the politics <i>or philosophy</i> of literature is
-        something of a specialty of hers. One of the marvels of{" "}
-        <span className={styles.grayShadow}>Tomates</span> is the speaker’s
-        doing that with Auguste Blanqui, who had a brother, Adolphe. Actually,
-        Adolphe and Auguste, who disagreed on whether violence was an
-        appropriate means to revolution, are the ones fighting, but they seem to
-        be fighting about Quintane’s approach to the book that contains them.
-        “What cowardice”! All this talk, ranging “from Franco to” her festivals,
-        why not “roll up a couple of tracts&#8221; and stuff them under
-        &#8220;your bike seat&#8221; … and your &#8220;
-        <i>Eternité par les astres</i>, that&#8221; would be, perhaps, a “
-        ‘practical guide’ ”? … Ooh there it is! “But the real truth is that you
-        don’t know how to read!” … You “want me to think, Auguste,” that “you
-        slipped the plan of attack for the Winter Palace into your description
-        of the Milky Way?!” … “You think I’d have” stirred myself “from my low
-        and humid cave” in jail, “at a distance of two fingers from death
-        itself, just to write a poem” …
-        <br />
-        <br />
-        They are fighting about taking things literally as well as about
-        political utility, that use value, or not, of literature. At issue in
-        this is how to live a life, which Quintane introduces with a phrase she
-        says would be paralyzing if offered, offering it, and I, taking the
-        bait, take it up, incorporating it in that French section as an
-        ingredient of my inquiry, this phrase about the difference between a
-        “mediocre” existence, “floating, eyeballing it in navigating between
-        possibilities” and a “determined” one. You can really fall on your face
-        as well as getting paralyzed and eating crow in reading literally, and
-        at Quintane’s I brought up with her, looking around the room, something
-        I’d read of Jean-Marie Gleize’s about her, about her sticking up poems
-        all across her walls, something that she didn’t, however, visibly, seem
-        to … No, she said, she had never been one for … particularly … Well, I
-        said finally, finishing somewhat weakly, perhaps, Quintane was quick to
-        agree, that was only a way of speaking (He was writing) that Gleize had.
-        <br />
-        <br />
-        <i>Conversion</i> was, anyway, Gleize’s word, Quintane said, and when
-        she said that I sensed she was throwing me off the scent of something,
-        of some trail. A relationship that art can bear to life is one of
-        righting it, of making right, not only redirecting but apologizing, and
-        I’m about to find myself returning, again, to what I perceived as,
-        fleeting and possibly my own projection, a moment of discomfort for
-        Madame. I had too much insisted, returned us one too many times to this
-        question, as I felt. Because my <i>mémoire de fin de vie en France</i>{" "}
-        had been, on the other hand, a preparation for the beginning of some
-        other life; indeed after finishing it, a little over a year before, I
-        had made my entry into another form of life, to use the definition from{" "}
-        <span className={styles.grayShadow}>Ultra-Proust</span>, gone through a{" "}
-        <i>conversion</i>. Which of her three options had I chosen, if any? Was
-        that what I’d come to tell her? In a demonstration of the multiplication
-        of tactics, I had left an urban center to install myself in Northampton,
-        Massachusetts, a city of thirty thousand (on the scale of Digne’s
-        sixteen) where, supporting myself as a part-time teacher, I would give
-        my days and nights to writing. In my culture this is called an MFA
-        program; in <span className={styles.grayShadow}>La Cavalière</span> we
-        learn there is no such thing as the nation, only a progressive conquest
-        of the countryside. So there I was. It had been done. Was that what she
-        had meant for me to do? No, but hadn’t she given me the language? The
-        claim is still too great, but if it weren’t, if the shoe fit, putting
-        yourself in the author’s: to see your text, composed by a past self,
-        come in its way (mine) to life must be like seeing a ghost. So what did
-        you mean by that, Nathalie Quintane, your phrase about <i>conversion</i>
-        ? Was that a call to action, did you mean it to be active? Did you put
-        it there for me, did my response suffice? It’s only fair for me to put
-        you on the spot. <i>Parce que moi</i>,{" "}
-        <i>j’ai changé de vie à base de cela</i>.
-        <br />
-        <br />
-        <br />
-        <br />
-        <p className={styles.sectionBreak}>*</p>
-        <br />
-        <br />
-        <br />
-        <br />
-        This said, obviously you can change who you are, maybe even in the
-        direction of buttressing your contribution to whatever revolution,
-        without moving across an ocean, and so too can you change who you are
-        just by changing an aspect of your writing, certainly by changing the
-        language of your writing, as I will now argue. In the conclusion, in
-        French, acknowledgment is made of the implication of a kind of
-        character, the translator or annotator, by all that paratext. (In
-        French, I call this character the “lady translator” or “lady
-        annotator.”) But there’s also that of the writer in French as, at the
-        remove of this subsequent pass, I can consider her. Writing in French, I
-        found it possible to bury in there, not only a few targeted readings,
-        you could call them pugnacious, of contemporary writers in the
-        Anglosphere, but other stuff I might not have shared in English, like
-        musings on my past (too self-indulgent), hopes for the future like that
-        of moving to Massachusetts as part of my own conversion to literature
-        (embarrassing). It’s not just a matter of hiding all that out of view
-        or, more literally, beyond the comprehension of the Anglophone
-        acquaintance of my life; writing in French I feel, more deeply, not me,
-        estranged or rather played, hazarded. There is, for me, a pleasurable
-        frisson of distance that effects as when I write narratively about
-        myself, narrating, from some other vantage, my own experience—“deciding”
-        it for one side or the other in that way that always is to lie a little.
-        We change so much over time.
-        <br />
-        <br />
-        Language changes, too; accordingly a leitmotif of those French footnotes
-        is my turning up headline items of that time in connection with a word
-        or phrase from &#8220;Stand up,&#8221; making sensational claims about
-        the amazing power poetry had to anticipate and even predict politics,
-        political life, by being out at the vanguard of language, generating it.
-        The Nice lemon festival, an object of fixation for &#8220;Stand
-        up&#8221;’s MLP, had been, as I was translating, closed to Italians, who
-        in other years would cross the border to attend, Italy being where early
-        cases had been happening. The xenophobia of an MLP always will be{" "}
-        <i>contextual</i>. If I were translating today I might have saved my
-        footnote for “slug,” my translation of <i>limace</i>, not a hard call,
-        but there is an incredible resonance of <i>limace</i> in the French
-        language ever since, in February of 2022, Marine Le Pen, following the
-        departure of Nicolas Bay, her spokesman who went over to Eric Zemmour,
-        used the word to malign practitioners of what she called “slug
-        strategy,” saboteurs (<i>la stratégie de la limace</i>): “Not only
-        because the slug is slow but because it is sticky,” as she, no poet,
-        said, quoted in <i>Le Monde</i>. Mine was not only a technical matter of
-        being precise about usage in making a selection of words for the
-        translation so, ideally, they’d carry all the meaning they had to (for
-        “Objects, words must be led across time not preserved against it,” as
-        Spicer writes in <span className={styles.grayShadow}>After Lorca</span>
-        ). It was also, something suspect, a justification made in retrospect,
-        my case for the decision, at a moment in history, to translate one story
-        in particular. As Benjamin says, a translation that is more than simple
-        transcription can occur when, in the course of its reception, a work has
-        attained the age of its glory. Were we there? Despite the musings I’ve
-        identified on past and future, the French sections say little about this
-        present, lacking information about the time of writing—much of it
-        implied, to be fair; she is just sitting at the keyboard—though there
-        are clues, chiefly allusions to the writer’s own, too modest library, to
-        which recourse must, all the same, be made, all the while quoting
-        Benjamin,{" "}
-        <span className={styles.grayShadow}>Je déballe ma bibliothèque</span>,
-        and, perhaps, the domination of this library, so like a time capsule in
-        its frozenness, by works of Anglophone literature that had peaked in
-        popularity shortly before the pandemic set in as such, books she has on
-        hand by Rachel Cusk, Ben Lerner.
-        <br />
-        <br />
-        Who was she, this writer in French? All around were clues. Some were red
-        herrings, however; I was subletting this studio from another woman. I
-        was making my life temporarily in her space and among her personal
-        effects, a situation not unlike translating’s of writing another’s text,
-        and in fact that woman’s handwriting was all over the walls. An artist,
-        she worked as a designer, and those works on paper, her calligraphy, had
-        tendencies to fall and droop from where she’d hung them up with putty. I
-        remedied this, finding extra putty by her desk, where I did my writing.
-        And my reading; in Brice Matthieussent’s{" "}
-        <span className={styles.grayShadow}>Vengeance du traducteur</span>,{" "}
-        <span className={styles.grayShadow}>Revenge of the Translator</span>,
-        that page space below the bar for footnotes where a translator can add
-        their notes, can at last “play at elbows” as is said in French, is
-        figured as a lair out of Dostoevsky—you know, underground. The sudden
-        lockdown, with police stationed everywhere to check your papers, makes
-        me think of, pair this with, the French word <i>contrôle</i>, used for
-        border control but also for an exam, for being tested. What I had down
-        there would have to be enough to get me through.
-        <br />
-        <br />
-        There was a Kallax that separated living room, such as it was, from
-        kitchen and supported stacks of plates, where they collected dust; I
-        have invented the cabinet, I thought. There was, besides her artwork, a
-        pair of mugs for which my host’s instructions had been to break anything
-        but them; whenever I held either I could feel it straining floor-ward,
-        it was all I could do not to hurry it along in its flight by dashing it
-        to shatter on the planks of plastic made to look like wood. There were,
-        besides my books, jars of pickles and packets of <i>sous vide</i> beets
-        acquired at the recommendation of a French friend I had asked, in a
-        friendly way, for advice on how to last; they weren’t foods I usually
-        ate, but she had said to get them, and it was, it turned out, comforting
-        to have these foods, preserves, on hand. My host suffered from a chronic
-        illness and had gone to take a cure, as it might be phrased in an old
-        novel, in India—I don’t know that she said where. “I have cats here,”
-        she’d written in English, sending a picture. News came of a boyfriend,
-        followed by images of a sunset backing palm trees and of beaches. A joke
-        was easy. I was going to stay forever; she was never coming back.
-        <br />
-        <br />
-        And your domicile determined, throughout France, the area your life
-        ranged over; you were forbidden to venture farther than a kilometer from
-        home. This was being enforced seriously. Early in that lockdown, which
-        it would be fair to call a forever in miniature, I was stopped by a
-        policeman who let me off without a ticket and gave me to appreciate
-        exception had been made. Out jogging, I might have thought it proof
-        enough I’d stayed in my own neighborhood that I was wearing yoga pants,
-        as American women can. With their sheer panels. Not so. From then on I
-        followed everything scrupulously, limiting my grocery runs to once a
-        week and masking up, though I didn’t know personally any babies or old
-        people in all of France.
-        <br />
-        <br />
-        One neighbor I met because of the shit of her cat. In this way I got to
-        know the neighbor with the balcony that gave onto my big, railed
-        window—we shared an interior corner of the building. She had become, as
-        I observed, depressed, too depressed, too something, enough of whatever
-        it was not to clean out the box that she put, instead, out on this
-        balcony. Well before my opportunity presented itself, I planned out how
-        I’d make my ask. That apartment complex was large, contemporary with
-        compost, gardens, children, washing on the line; I heard pandemonium and
-        sounds of something rolling that turned out, when I saw it, to be a
-        life-sized plastic car, sized to a child. Sun entered in the morning on
-        the wrong side; the side on which my host lived was not favored. Below
-        us the families spoke to each other with what seemed greater ease than I
-        would have on finding words, on exchanging them with my neighbor.
-        Willingly or not my host had adopted a certain posture in maintaining,
-        as a single woman of a certain age, a studio in that building. A few
-        months away from turning thirty, that was how I saw it, and I watched
-        those families out my window, leaning on the railing and clutching
-        occasionally, as if for respectability’s sake, a mug, any mug, of
-        coffee. I was carrying on a kind of dry, boring romance over WhatsApp
-        with a college classmate who had become a businessman, but it was easy,
-        under the circumstances, to keep in my mind an earlier version of this
-        person, lanky, vulnerable, bad at handling disappointment. He had
-        directed a play, on opening night some mistake was made, and I had a
-        strong memory of him actually running off into the night, crying. My
-        boyfriend had gone after. I had tried to follow and been stopped. “He
-        won’t want you there,” that boyfriend had said gravely, leaving me alone
-        to ponder why that was.
-        <br />
-        <br />
-        One day like this, as spring was coming, I got it in me to use a bleach
-        solution and clean out a vent that I had noticed was disgusting even as
-        it was, I had a look around, quite alone in piping in my air, the air
-        that filled that room where I was living. Time passed quickly in this
-        way, too quickly. My black socks were spotted, my green T-shirt altered
-        by the stains. It occurred to me at, perhaps, the advent of the
-        headache, likely after, I had done myself some harm. I called, not any
-        French service, but Poison Control, I knew to call them. The American
-        English of the woman who answered was companionable, so soothing as I
-        made my way over to my window with its railing. She was sympathetic, I
-        found her so and told her everything as, in the sun-drenched courtyard I
-        was looking down on, children picked up with their games, giving out
-        their shrieks. She cut me off, the lady on the phone. Her tone was
-        sharp, even frightening. Ma’am, is there a child? I had had kids, I had
-        forgotten about them, they were coming to take them away.
-        <br />
-        <br />
-        The lockdown coincided with the period of year when it gets warmer; an
-        excitement always builds, and with the effective deprivation of other
-        social senses that one came on strong. Everywhere around my neighborhood
-        was a sense of motion and of heating up, of movement; music carried. To
-        my host I sent photos of flowers she had planted on their ways up in the
-        window box. I photographed the gardens of her neighbors, gardens of
-        those larger units sprawling at my feet. The most important texts to me
-        during this period were, it could be argued, a ream or almost of
-        originals and photocopies taken along by necessity on my every outing,
-        fitted with precision into a poppy-red shoulder bag I’d bought while on
-        vacation with my mom, the right size for my last visa, lapsed, for other
-        proofs of my presence there in France as legitimate, a slip for my
-        appointment with the prefecture, a document attesting to my
-        scholarization at a French institution, statements of domiciliation with
-        utility bills, identity cards and passport … The most important texts to
-        me during this period were, more seriously, the works of Nathalie
-        Quintane.
-        <br />
-        <br />
-        The most important text was, at that time to me, a podcast; I sent it
-        piping in my headphones to hear another author claiming he had found it
-        helpful, for his book, to access some abyss. I heard this walking in my
-        circles of one kilometer in radius, summer coming on, laughing at the
-        joke I had no one to tell. Sirens I’d associate with a nearby hospital,
-        Robert Debré, feeling my incapacity to judge if they were much more
-        numerous than usual. Parties gathered, illicit I thought, in an
-        apartment across the courtyard. I watched them gather until, at last, I
-        was seen watching. I was seen by a man in silhouette. I was sleeping
-        with the window open by that time, getting bitten, summer almost there.
-        The man was standing on another neighbor’s balcony, silhouetted against
-        a lit window where the loud party was happening, shouting back at me.
-        Seeing me this ghostly figure, shouting, asked if they were being loud.
-        I signaled, somehow, my assent. He was unperturbed, looking back:{" "}
-        <i>Vous n’avez qu’à nous rejoindre</i>.
-        <br />
-        <br />
-        <br />
-        <br />
-        <p className={styles.sectionBreak}>*</p>
-        <br />
-        <br />
-        <br />
-        <br />
-        Nathalie Quintane’s is the last house in the last town before the Alps.
-        This happens to be true. I struggled, in the morning, to get up—behind
-        country-style shutters, the room was dark and very calm—and when I did,
-        she wasn’t there. She had gone off to school. But there was Nathalie
-        Quintane’s computer, an old desktop that, had I wanted to be certain of
-        leaving an impact of some kind on literary history with my life, I might
-        have spilled something on. There’s an admonition familiar from the
-        creative-writing classroom, I’ve heard it someplace anyway, to “leave
-        space for the reader”—leaving space for the reader being a mark of the
-        text’s achievement, sophistication. Evidently Quintane had managed this,
-        for there I was. With everything unpacked. With, now, something to add
-        to the project, the present project that had already contained, in the
-        French sections, a rendering of my imagined visit to Digne, as well as
-        containing Quintane’s descriptions, via MLP, of Digne—leaving my visit,
-        my real visit, as another <i>reste</i>, remainder. As Quintane herself
-        remains, in my telling of this visit, elusive, maybe.
-        <br />
-        <br />
-        We had arrived there by night, after spending the early part of the
-        evening in the town center, and it was a real shock for me to see the
-        mountain out her kitchen window. Her friend the filmmaker was there to
-        say gently, even apologetically that, for several months out of the
-        year, they went without light, though I’d meant only to express my
-        wonder at the mountain’s beauty. To orient me, he drew sketches in
-        pencil, a pair of diagrams that showed the mountains, how the valleys
-        worked, their meeting and the shadow. Finding these beautiful, too,
-        admiring their spidery lines, I tucked them away in my notepad. I didn’t
-        consult them on the walk that I went out for subsequently, but one of
-        the great pleasures of being a foreigner is receiving the hospitality of
-        having something explained to you carefully and in such detail as is
-        rarely given between adults, for fear of insulting the other’s
-        intelligence—a shame (I tend to think). With that filmmaker I ventured
-        shyly, before setting out, that I was concerned the method I’d default
-        to, that of <i>épuisement</i> (a Perec reference), was just overdoing, a
-        thing of being a good student (<i>ex-bon élève</i>, as Quintane
-        characterizes teachers in{" "}
-        <span className={styles.grayShadow}>La Cavalière</span>, bringing to
-        mind for readers the portrait drawn so vividly in{" "}
-        <span className={styles.grayShadow}>Un hamster à l’école</span>, her
-        previous book; <i>hamster</i> is a perfect cognate). He reassured me the
-        approach was good. Because, he said, finally you don&#8217;t exhaust it,
-        it exhausts you.
-        <br />
-        <br />
-        This visit would have filled me with, obviously, inspiration, by the
-        time that I got back to Amherst, David. I had, among others, the bright
-        idea of inviting my students, my freshmen, on our last day to take five
-        minutes and commit to paper some question they’d been left with about
-        writing. I gathered up these questions to answer them, sight unseen, and
-        was confronted by:
-        <br />
-        <br />
-        <br />
-        <p className={styles.compactProse}>
-          Before this semester comes to a close, I want to know, what makes new
-          authors so well-liked or enjoyable, because surely their style of
-          writing has been done before. It can be argued that you will never
-          have an original thought: someone has already had it and someone is
-          bound to have it after you. That being said, how can new authors even
-          make names for themselves if what they are presenting is not truly
-          profound? This can go for fiction and nonfiction writers. I feel as
-          though you can only go so far with writing.
-        </p>
-        <br />
-        <br />
-        <br />
-        You know how suspicious they’ve been made of even the concept of
-        knowledge being produced in the humanities, and, doing my best, I tried
-        to say it was like science, a group effort. Originality was arrived at
-        by recombination; even the overwhelming mass of middling-profound
-        authors contributed to a culture in which greatness might one day
-        obtain. Placing pieces of writing in this way between two (or more)
-        people, or between other pieces of writing, letting your pieces of
-        writing hang in suspension, would seem to better your chances of
-        originality immensely, more precisely by a magnitude of, at least, two
-        (a figure I just arrived at thanks to laws of probability from math). If
-        translation is one mechanism of this, the intersection of a work with
-        politics, or with reality, is perhaps another. Translation relieves
-        literature of its solitude, makes it &#8216;transitive&#8217; as
-        Samoyault argues, a theory that brings to mind for me Quintane&#8217;s
-        distaste, expressed in a couple of places, for the verb “to write” when
-        used in the intransitive (<i>écrire</i>). A third leg, like the object,
-        or the form, can stabilize. Original, translation, and reality; writer,
-        reader, and how it really was. Seriously, then, I can come clean and say
-        my curiosity for writing between French and English originated in the
-        jokes I loved to share, in France, with bilingual friends and
-        foreigners—puns of a certain type, feigned misunderstandings about which
-        I hoped to overturn my original hypothesis they could occur only out
-        loud, between two people, one of them a friend of mine, in speaking.
-        <br />
-        <br />A very old, dun-colored dog, apparently a stray, walking in the
-        middle of the road eyed me with a little, not too much hope as I passed
-        him by. To my right were gravestones, was the church of Digne’s medieval
-        section. I was headed into town where, alone now, I was ready to
-        encounter history, my fact check. “When Jeanne Duval lived in this
-        neighbourhood,” Robertson writes, using her Canadian spellings, of
-        another French city, “in the late 1830s, it was home to several popular
-        theatres frequented by students, and it was already ancient.” This had
-        been attractive to me too as a young woman, the notion of a place so old
-        you couldn’t break it. Jeanne Duval’s in the Parisian imaginary, for her
-        partnership with “Monsieur Baudelaire,” as she was “always,” Robertson
-        says, “ironically,” to call him, Baudelaire who “exoticized her hair,
-        and skin, and scent … the mixture and distance she was constrained to
-        express … with a grossly inevitable racism,” is Robertson’s next
-        subject. Dionne Brand has her blue clerk, who is in the business of
-        literary-historical accounting, search, in her diligent way, search and
-        search “<span className={styles.grayShadow}>Les Fleurs du mal</span> for
-        Baudelaire’s tropical soul,” something Benjamin, in the papers collected
-        as his <span className={styles.grayShadow}>Arcades Project</span>, makes
-        report of, coming up with only, <i>hélas</i>, “a European aesthetic
-        category.” Exoticized, objectified, the first American girl in Paris
-        arguably was a Black woman. This, in addition to decentering whiteness,
-        also decenters the United States; considering Duval’s provenance in
-        probably Haiti, like Brand’s and Robertson’s in Trinidad and Tobago and
-        Canada, may help relieve that “American” of its heavy focus on the US,
-        something I found that I could do in writing in French as I can’t in
-        writing in English by referring to myself as, not American,{" "}
-        <i>étatsunienne</i>—an adjective that, in the spirit of historical
-        accuracy, I think we need. I had only ever been a Unitedstatesish girl
-        in Paris.
-        <br />
-        <br />
-        All the more so as this figure, if it is to be contextualized in
-        history, can’t, exactly, be de-whitewashed, as it can’t be extricated
-        from the matrix of another property relation—from the entrance, made by
-        ladies of the upper classes, into marriage. It was “Alexis de
-        Tocqueville” who “wrote of American women in the 19th century” that
-        their freedom, “that lone, unique freedom” in letting them marry for
-        love “damned them to unhappy marriages” as Lynne Tillman has her
-        apparently eponymous character, an unmarried white woman, reflecting
-        rather dryly in the novel{" "}
-        <span className={styles.grayShadow}>American Genius, A Comedy</span>. In
-        this archly stenographic rendering of the nobleman’s <i>pensée</i> one
-        feels those cases, in their individuality, receding and receding
-        fast—hearing, even, the whoosh of air attending their displacement—for
-        lack of point of attachment, of identification, in the woman’s own
-        imagination. “I think she never bothered to bite any apple at all”
-        writes Angela Carter, by contrast, of the Jeanne Duval of her story
-        “Black Venus” who, rather than becoming pregnant by the sex she sells,
-        is shown to impregnate her clients (“the most privileged of the colonial
-        administration”) with death, with “the veritable, the authentic, the
-        true Baudelairean syphilis.” “Oh, I do hope they’ll make a revolution!”
-        in the words of Isabel Archer, characteristically a pretty outburst. “In
-        a revolution—after it was well begun—I think I should be a high, proud
-        loyalist,” she adds—but the effect of that is, so mysteriously it is
-        almost automatic, unmistakably, irreverent. She is still a kind of
-        problem. And, because there is no evidence in the surrounding text to
-        explain the inclusion of that clause of hers, her note on timing, I feel
-        like pointing out that she suggests it is the revolutionaries who should
-        be given the advantage.
-        <br />
-        <br />
-        Upon reaching, again, the Place du Général de Gaulle I saw it was under
-        construction, fenced off like a joke about the unreachability of truths
-        such as how things were exactly. I prefer to flee the sound of the
-        drills, but I made my way over to the storefront that had been the
-        National Front headquarters, inaugurated on the day of Le Pen’s real
-        visit. Since election season this had been converted into, happily
-        enough, a pottery studio and showroom, as if nature had taken it back. I
-        jotted down some notes, joining a school group as it made a visit of its
-        own, hanging around with clipboards taking in the framed display. “The
-        principle of the artisanal is that each piece is unique,” I heard the
-        teacher say. Nearby, though again not quite where a careful reader of
-        &#8220;Stand up&#8221; would have placed it, was the bookstore. High on
-        a wall were promo photos, publishers’, of literary lions—in black and
-        white, Pasolini’s stare, Francis Ponge in shirtsleeves, the
-        over-processed hair of Annie Ernaux—from which I tore myself away to
-        look around for titles mentioned by Quintane as important in her
-        development as a writer, unsuccessfully. Amusing myself, then, with the
-        thought that Quintane herself had bought up every copy. Just outside was
-        Digne’s bronze statue of Pierre Gassendi, the astronomer from there; the
-        region is good for star-gazing, a detail that sticks in my mind for,
-        surely, the connotation in my native language about hunting down
-        celebrities.
-        <br />
-        <br />
-        There are two chocolate shops on the Boulevard Gassendi, three if you
-        count one that’s primarily a bakery, and yet, according to the author,
-        the store that was the inspiration for the chocolate shop in
-        &#8220;Stand up&#8221; is, although the author referred to it a “deco”
-        store, not even that; it is a florist. My cover was a question if they
-        had any lavender sachets. Amazingly, David, they did <i>not</i>. What I
-        call, in my translation, Madison’s Locker (&#8220;Stand up&#8221;’s{" "}
-        <i>Maison de Madison</i>) has an almost perfect analogue, however; I
-        spent stunned minutes in among asynchronously ticking clocks, the
-        glassware, candles, aprons printed with depictions of our fellow
-        animals, companion animals, and, prominent, as if it might be reached by
-        breaking glass in case of some emergency of fuss, a statue of the placid
-        Buddha, presumably for sale too. Another faithful representation
-        &#8220;Stand up&#8221; makes is of, as I discovered just nearby, the
-        nationalistic café, in reality as in the literature crowned by a crest
-        in (faded) gold on red—its awning. “You’re welcome, and still water,”
-        the server said, obnoxiously since I had spoken French to him.
-        Beautiful, haiku-like phrase, I could think, but only after taking a
-        warming sip of coffee. I was, after all, far from home, far enough that
-        David, at the post office, I had to borrow a stranger’s phone to look up
-        your Zip code. And while MLP practically falls into each of the
-        restaurants and shops, without even trying, my efforts on my own to find
-        my way back to that Greek restaurant led only to dead ends, led me
-        finally to byways of an infectious tranquility, where birds could be
-        heard singing.
-        <br />
-        <br />
-        &#8220;Stand up&#8221; is not the only work of Quintane’s to feature, as
-        a key setting, the Place du Général de Gaulle—with its long, rectangular
-        bed for a fountain; with, right there, its kiosk, which turns out to be
-        what in English we call a gazebo, the sound system of which Quintane
-        herself had pointed out to me so proudly. They all gather, during the
-        period of protests in{" "}
-        <span className={styles.grayShadow}>Un œil en moins</span>, on this
-        plaza; there is a moving passage that became important to my
-        understanding of, and to my argument about, what, in Quintane, is so
-        politically activated. I’ll give it a try and translate, but for me it
-        all relies on just two words of argot that, in their affective valence,
-        a casualness so great it implies not only solidarity but affection, are
-        typical not only of this slang at its strongest but also, incidentally,
-        of the way Quintane uses it. There’s no English equivalent of such a
-        flavor for <i>tchoul</i>, a homeless person or bum—less derogatory than{" "}
-        <i>cassos</i> (for <i>cas social</i>)—or <i>parlote</i>, talk, chatter,
-        gab:
-        <br />
-        <br />
-        <br />
-        <p className={styles.compactProse}>
-          He has a big smile on, is a little twisted, he speaks in a sped-up
-          fashion with brusque stops. His right hand in an aerial suspension. We
-          talk. He wants to know what we’re carrying on about and, in contrast
-          to the others, the non-charity cases, doesn’t leave again immediately.
-          He stays awhile. He’s come to chat, for the gift of gab, to warm
-          himself by it. He warms up a little and then at last, saluting us, he
-          goes.
-        </p>
-        <br />
-        <br />
-        <br />I think I interviewed this very <i>tchoul</i>; it’s possible.
-        Happy as he and his lady were to talk, when I found out they’d arrived
-        in town just recently, I had to find some means to extricate myself. “I
-        was in middle school,” a young woman, approached after they were, said.
-        Flanked by an older couple, the man oddly edgy.{" "}
-        <i>On jetait des pierres dessus</i>. <i>C’était pas rigolo</i>.{" "}
-        <i>Elle n’était pas très bien accueillie</i>.{" "}
-        <i>J’ai pas vu mais j’ai entendu</i> … <i>mais j’étais petite</i>. Not
-        an eyewitness, her testimony is included for the atmosphere and left in
-        French. <i>Merci pour ce beau souvenir</i>, a reporter told her, and,
-        catching up with another <i>Dignois</i> by speed-walking at his side,
-        learned he’d been in attendance. He could confirm projectiles had been
-        thrown. “You’re doing an investigation? Who for? Marine Le Pen?”
-        Reassured by an answer in the negative, he added that he certainly hoped
-        not. “Marine Le Pen isn’t welcome here,” the man, petit, gray, neatly
-        dressed, then said, allowing a smile he kept to himself, looking
-        straight ahead in the direction he’d been headed. While memory might
-        have faded, that punch line remained, I realized, cracking the secret of
-        some relationship between literature and life. But by that time I had to
-        catch a bus, I had to run.
-        <br />
-        <br />
-        <span className={styles.grayShadow}>La Cavalière</span> hadn’t been an
-        investigation, as Quintane herself could clarify to me. Not even a{" "}
-        <i>mise au jour</i>, it had been a <i>mise à jour</i>—teasing out
-        connections of those events in Digne to Nathalie Quintane’s present. And
-        here I am, essaying my own contribution to the genre. As a matter of
-        personal history, I had, back in the time of that original composition,
-        come across a quotation from Umberto Eco about how the Master’s thesis
-        should be <i>useful</i>—<i>useful to others</i>, unless I am remembering
-        another thing—and the literature of Nathalie Quintane is useful, too. In
-        a recent English-language dissertation, the researcher Eric Lynch
-        explores Quintane’s use of a style in narration, that of <i>idiotie</i>,
-        her idiot operating maybe much like my construct of the American girl in
-        Paris, ingenuous in just her way perhaps, opening up in some way or
-        other anyway a space on the page where thinking happens visibly, is as
-        if mechanically stimulated, inducted in the reader; this has political
-        stakes. Out of the many errors I’m sure remain in my own thesis, one
-        that leaps off the page, out of that French conclusion, is, arguably, an
-        over-reading where I make claims about the role of therapy in Quintane’s
-        oeuvre. Looking back, I may have just meant something like talking,
-        discussion—but been lead astray by the seductive association of what we
-        call a mother tongue via its other idiom of “talking cure.” For
-        Quintane, going fast, making mistakes, showing yourself making and then
-        correcting them, had been revelations of her study of the avant-gardes.
-        They mean you’re working; it’s good to show your work. “It’s very good
-        to show that you’re at work.” Here’s something I learned years ago,
-        studying journalism: one thing you can do with a mistake, or an
-        unverifiability, is fix it, another is put it in quotes.
-        <br />
-        <br />I felt sleepy and happy, staring out the window of that filling
-        bus as if someone might appear to wave me off. I knew now why I’d had
-        such a strong reaction to that line in{" "}
-        <span className={styles.grayShadow}>La Cavalière</span>, you know about
-        Quintane’s wanting to be left the hell alone, but I had had nothing to
-        fear. And maybe I <i>had</i> been seeking reassurance; as you know, I
-        had been writing this and that, having trouble putting out a book, and
-        had perhaps figured that if my first book were by Nathalie Quintane then
-        it couldn’t miss. Far be it from her to prevent anyone at all from
-        sticking their nose in her work, as she has written, doing with it as
-        they like, she’s written this, somewhere or other. And indeed, she’d
-        been more lenient with me than her interview subjects for{" "}
-        <span className={styles.grayShadow}>La Cavalière</span> had been with
-        her. She’d shared they were against her recording. Had sent interviews
-        back to them for corrections. All this due, as she had said, to the
-        intermingling of their experiences of living in a town where she
-        wouldn’t be able, otherwise, to face them. So it was possible I was
-        presenting a contrast in high-tailing it out of there, with consequences
-        for my soul, but I preferred to think in terms, a term, of Gertrude
-        Stein’s that appealed to me in writing my thesis. Writers must have a
-        “second” country, as if literature were it. And even if I did have to go
-        back to the US rather than stay on in France or, I don’t know, Germany,
-        this framing gave me the option of thinking of Quintane as a compatriot,
-        with all that entailed about trying to resist betrayal.
-        <br />
-        <br />
-        But she was so transparent anyway. I don’t know how to say it. She
-        would, like, step through a door I hadn’t noticed to return holding a
-        stack of books for me, that kind of thing. At the bottom was an
-        anthology,{" "}
-        <span className={styles.grayShadow}>Lettres aux jeunes poétesses</span>.
-        She made, then, a perfect quip about her feminism, about concerns of
-        mine that might be laid to rest. I had the strangest intuition that it
-        was her only copy. In fact I refer, throughout my thesis, to the{" "}
-        <i>poétesse</i>, not the <i>poète</i>; in French, different from in
-        English, the feminine form of this is considered, actually, more
-        feminist, more progressive, and I had received coaching from my friend
-        Karim whose sense for everything, not just political correctness, is
-        exquisite. But rereading{" "}
-        <span className={styles.grayShadow}>Tomates</span> I’d seen her call
-        herself <i>poète</i>. I don’t know that her essay in this volume is her
-        best effort; it seems a little hasty (<i>Mais tu n’es pas Milena</i>,{" "}
-        <i>et je ne suis pas Kafka</i>). Though it does deal with a change in
-        the form of one’s life, with moving house somewhere, with an
-        implantation, marked by a kind of radical, absurd self-sufficiency, in
-        the Lozère … I was scandalized however to find, in black and white, an
-        error of Quintane’s, unless the error was the English language’s:{" "}
-        <i>Mummy</i>, <i>en anglais</i>, <i>se prononce momie</i>. “Mummy, in
-        English, is pronounced <i>momie</i>.” It’s in service of a pun about
-        mummification—<i>momie</i> is “mummy” in French—but I don’t know who
-        told her this.
-        <br />
-        <br />
-        <span className={styles.grayShadow}>Lettres aux jeunes poétesses</span>,
-        a few others but, <i>Attention</i>, no lavender sachet, I arrived back
-        in Paris with—What was this?—my extra notepad. I gave it to Zoey. She
-        made a big fuss over it, said she’d bring it one day to her favorite
-        café for a writing session while wearing a pair of shoes I had given her
-        the previous year—another story. I had been persuaded during the winter
-        sales by some unscrupulous boutiquier that they’d stretch out, a pair of
-        Converse, canvas. And it was in the course of my very last days—the
-        organization of the going-away party, so like a living funeral, under
-        green trees; the trip to the Monoprix for cardboard boxes I would use to
-        pack and ship my books; the leaving, at that Monoprix, of my driver’s
-        license (American!), collateral against a shopping cart then used to
-        haul those books to the post office—that, meeting this friend Zoey at a
-        picnic table in the sun, I offered them. I just had a hunch; she’s so
-        petite. I told her the story, how I’d ended up with them. “Oh my god,”
-        she said, on seeing them. “Why are they so small?” They fit her
-        perfectly, of course.
-        <br />
-        <br />
-        Now in stocking feet, at my desk in Massachusetts, I keep looking back
-        at Quintane’s castoff. <i>À la jeune poétesse</i>, her letter. It’s
-        interesting, David, but this is how it begins: “Of course, if you know
-        me, you already know that I can’t write a letter.”
-        <br />
-        <br />
-        Well, there you go; that’s all for now.
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <p className={styles.sectionBreak}>春</p>
+        <br />
+        <br />
+        The commute was subtly unpleasant, although there was no basis for
+        complaint. The passengers more than behaved themselves, refraining from
+        talking into their cell phones or, for that matter, to each other.
+        Queuing and boarding was a thing of beauty. For all the emphasis on
+        surfaces here, the vulnerability left for everyone to see in public
+        spaces, sleeping on trains, on doorsteps, or in a cafe, could be viewed
+        not as embarrassments of defeat, but celebrations of trust. Still, there
+        was a weariness. One time he found himself sitting across from a young
+        couple who were leaning into each other and giggling. Clearly they had
+        been at it all morning. It was nothing outrageous, just a reminder that
+        hardly anybody ever even smiled on the train.
+        <br />
+        <br />
+        He learned to keep his feelings to himself as well. Sometimes he had his
+        head buried in a book, using a jacket cover so as not to alert his
+        fellow riders as to what he was reading, since it was not in Japanese
+        and might draw attention and disturb them, but later on he learned the
+        utility of just closing his eyes. So long as he did not open his mouth
+        to speak, particularly when he was wearing a suit, he was one of them.
+        This ability, if that was what it was, came into play here with more
+        complex rules of engagement than he encountered back home. People even
+        pegged him for Japanese in Taiwan, where he thought they should have
+        seen through him without hearing his accent. Was he, somehow, Japanese?
+        The atmosphere soaked into you. It became a part of you.
+        <br />
+        <br />
+        It was not a long ride. He could make it door-to-door in fifty minutes.
+        The precision of the trains made it possible to calculate his arrival
+        time exactly. It took seven minutes to walk from the subway platform to
+        his “mansion.” Coming home, it was up a gradual slope.
+        <br />
+        <br />
+        The kanji on the sign, which he could understand but not at first
+        pronounce, read, “fishing basket hill.” There was no river evident
+        nearby, but in premodern times, before Tokyo Bay was filled, the waves
+        of Shinagawa might have reached this far. Across from the subway station
+        were a ramen shop, a French bakery, and a mom-and-pop home electronics
+        store. It was a gray, quiet neighborhood with a profusion of temples.
+        One of them had its gate guarded by a trio of red-bibbed jizo statues.
+        Behind him, as he walked up the hill, was the very different,
+        science-fictional spectacle of Mori Tower. The Japanese seemed to refer
+        to it simply as “Roppongi Hills.” And although he could not perceive it
+        directly, if he looked into the upper story windows of certain apartment
+        buildings when the sun was shining, he saw the reflection of Tokyo
+        Tower.
+        <br />
+        <br />
+        Only seven minutes. But it felt long going uphill, encumbered by his
+        dress shoes and handbag. It was the same, deliberate march of the other
+        men he saw making their way up and down the slope.
+        <br />
+        <br />
+        The lobby, which had a spiral staircase descending into the middle of
+        it, was too dark and unadorned to convey the luxury that, he imagined,
+        was intended. It was immaculate. At the security desk was one of a staff
+        of senior men, who had a broad and open range of responsibilities. The
+        old man recognized Horace by now and activated the automatic doors by
+        pressing a button. He went by the spiral stairs up a level, crossed the
+        outdoor courtyard, with its raked stones and plum trees in full blossom,
+        and took the tower elevator to the fifth floor. The blossoms, hence the
+        entire courtyard, smelled of—he tried to think of it—Kool-Aid.
+        <br />
+        <br />
+        The apartment was on a dimly lit landing shared with only one other
+        unit. The door required a bit of a shove. The sound of the television.
+        Cartoon voices. He dropped his bag on the ground, took off his shoes,
+        and loosened his tie. The apartment was spacious for Tokyo. One of the
+        rooms had a tatami floor. The rest of the apartment was Western in
+        style. Still, it was smaller than their two-bedroom in Los Angeles. It
+        had taken a while for his kids to get used to it here.
+        <br />
+        <br />
+        From the living room, through a sliding glass door, was a balcony where
+        they hung the laundry, looking out toward the high rises of Shinagawa
+        and the bay. Phoebe was in the kitchen. A little more than a year ago,
+        she was on maternity leave. After the baby was born, she went back to
+        work for three months, then got laid off, that most American of
+        experiences. That presented the opportunity for them to go. In less than
+        six months, she had gone from being a career woman, to pregnant, to laid
+        off, to being a housewife in Japan.
+        <br />
+        <br />
+        The two boys were in front of the television set. They were excited to
+        see him, as always. The excitement seemed to be waning lately, though,
+        as it was sinking in they were going to be here for a while. And the
+        oldest boy, for good reason, was anxious. Horace took off his tie and
+        jacket and went into the kitchen.
+        <br />
+        <br />
+        Phoebe pointed to three opened liter milk cartons on the counter. They
+        were long and thin in shape, the biggest carton size they could find.
+        Given the amounts the boys drank, it was not unusual for them to go
+        through two cartons a day.
+        <br />
+        <br />
+        The kitchen was narrow too, where they felt the biggest squeeze. Back
+        home, there was plenty of counter space. But here, there was barely
+        enough to put down the cutting board, and the two of them, not large,
+        could not pass each other without one of them backing up. But at least
+        everything was in arm’s reach.
+        <br />
+        <br />
+        He picked up a pair of scissors and started cutting. The sensation of
+        pressing through the spongy cardboard with the dull scissors, and the
+        cramp he felt in his hand, would become one of his most vivid memories
+        of Japan. Maybe because he did it every fucking day. When Phoebe found
+        out it was apartment regulations to rinse used milk cartons, cut them
+        apart, and lay them flat before discarding them, she said, “You do it.
+        There’s no way I’m cutting up milk cartons every day.”
+        <br />
+        <br />
+        He took the elevator down. There were a lot of waste recycling and
+        disposal rules. When he had first looked at the manual, piecing it
+        together from his limited Japanese, the kanji and the katakana, he did
+        not believe people really peeled the labels off water bottles, washed
+        them, and separately disposed of the label, plastic cap, and PET bottle.
+        When he first walked into the tidy recycling area, arranged in eight
+        bins, he felt he had arrived at Tokyo’s heart of darkness. But of course
+        it was only a gateway.
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        It would be their first time to Kamakura. He had read{" "}
+        <i>Thousand Cranes</i>. They were going to catch the end of the cherry
+        blossoms. Every weekend they went somewhere new, and Tokyo in its
+        infinity was big enough to allow for that. It was as if they were on an
+        overseas vacation, if only on weekends. In between was the tedium, for
+        him, of work, and for her, staying at home with the baby. As for big
+        brother, it was waiting out the hours and the minutes at the school
+        where he did not understand a word being said.
+        <br />
+        <br />
+        Coming after central Tokyo for two months, Kita Kamakura was a shock. It
+        resembled those rural train stops in Taiwan between Taipei and Keelung
+        or in Nan-tou. Maybe a little neater. You exited onto a little platform,
+        came down, and crossed the track. A mass of people came out of the train
+        too, but soon dissolved into the hills. There were a lot of leaves on
+        the trees. He was afraid they had missed the blossoms. The air was
+        gentle. There was a hint of California and he was reminded they were
+        just on the other side of the same sea.
+        <br />
+        <br />
+        He could not remember where he had heard it before, the idea of one side
+        of the Pacific as dream, the other reality. But which was reality and
+        which dream? Or were you always the butterfly in the dream, dreaming of
+        reality? Nothing applied here. All of that had been expected, though.
+        What had not was that they were, the four of them, in it together. Apart
+        from one another, but somehow together. Although who knew what baby was
+        thinking. His next meal, probably. It would have been one thing if he
+        had come alone. It probably would not have been much different from the
+        two years he had spent in Taipei after college, when, now that he
+        thought about it, he had met Phoebe. It made it many times harder to go
+        through this with her and the kids. You observed your own reactions. You
+        observed your wife and children go through the same.
+        <br />
+        <br />
+        She was having a hard time. They did not have a clothes dryer. It was a
+        culture of watching the weather and hanging your laundry out on the
+        balcony.
+        <br />
+        <br />
+        They walked on the path to central Kamakura. They popped into some of
+        the larger, famous temples. Engakuji was the one in the Kawabata novel,
+        right? It was a really long trek, through winding hills and some pretty
+        narrow sidewalks that barely accommodated the American-sized stroller.
+        <br />
+        <br />
+        The trees around Hachimangu were shedding their blossoms. It was fubuki,
+        the snowstorm. The path was lined with pink petals, as if they had been
+        arranged.
+        <br />
+        <br />
+        They got unagi for lunch then headed over to the shrine. Baby got
+        excited and ran wild on the open grounds. He and his brother chased the
+        falling blossoms, grabbing piles of them and throwing them into the air.
+        They were so happy they looked like they were other people. People
+        watched them out of the corner of their eyes. A deep tiredness seemed to
+        come over his wife, under the eaves.
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <p className={styles.sectionBreak}>梅 雨</p>
+        <br />
+        <br />
+        There was a woman, Uehara, whom the reorganization had transferred off
+        the team. No one knew where she had been placed. Was she working as an
+        assistant for the department chief? One rumor had it she was moving to
+        Atlanta, where her husband was studying.
+        <br />
+        <br />
+        Whatever, that night, the team took her out to dinner as a sendoff.
+        Horace joined, although he did not know her well. The eight of them took
+        her to an izakaya, where everyone got pretty sauced over beer and
+        shochu. From there, the night went on, over a deep selection of awamori.
+        Ookawa, who was built like a lightweight sumo wrestler, seemed
+        completely unfazed as the night went on.
+        <br />
+        <br />
+        For weekday team bonding, it was a tame evening and ended early. Still,
+        the awamori came down like a hammer. Uehara was draped over Horace by
+        night’s end. The others elected him to carry her into a cab. Nakahira
+        went with her to make sure she got home in one piece.
+        <br />
+        <br />
+        Ookawa bought everybody little bottles of ukon from the 7-11. It was an
+        herbal hangover cure you drank before you went to sleep. Horace doubted
+        anything could be done about it, he did not put much stock into folk
+        remedies, but he thanked his boss and got an explanation on how to use
+        it.
+        <br />
+        <br />
+        The group dispersed on the street corner in the abrupt Tokyo manner.
+        They figured out who was going where, and those heading in the same
+        direction cleaved off by bowing and melting into the city. Horace was
+        left on his own. Through the closing window of his drunkenness, he tried
+        to figure out what part of town he was in and which train line to take.
+        <br />
+        <br />
+        He had been through worse. There was the night, coming back from
+        Shinjuku from his “initiation,” when he had somehow made it home via
+        multiple transfers without remembering any of it.
+        <br />
+        <br />
+        The long, pristine, and evacuated midtown blocks. One aspect of Tokyo’s
+        beauty was the celerity of its population’s movements. Suddenly you were
+        in a teeming mass of humanity, crowds unlike anywhere else in the world.
+        Then the same would be as deserted and as sterile as a suburban office
+        park, with everyone gone off to fill the interiors of those charmless
+        high rises. Life, in its unpredictability, took place inside those
+        structures. In vertical space. The streets, the train stops, the trains
+        themselves were nothing but theatrical stages.
+        <br />
+        <br />
+        On the train the woman sitting next to him attempted to take off her
+        jacket, probably responding to the humidity in the car, made worse by
+        the dripping umbrellas, shoes, and coats. Because the jacket was also
+        slick with rain, she tried not to get him wet with any sudden activity,
+        which painfully drew out her movements. She withdrew her arm from its
+        sleeve. He could only see suggestions in the corner of his peripheral
+        vision. He felt more coherently her motion, erotic in that homely way
+        that struck him as a distinct Japanese taste.
+        <br />
+        <br />
+        At home, having fought his way up the slope in the strengthening rain,
+        he was met at his front door with a note, probably from the concierge,
+        in language that went beyond polite, requesting the next time he bring
+        his wet umbrella indoors to dry off, instead of leaving it on the
+        landing.
+        <br />
+        <br />
+        Phoebe was still up, waiting for the laundry to dry. For some reason, it
+        had been hard to sleep since they arrived in Japan. In California they
+        went to bed early as couples with young children do, but here they
+        stayed up all hours. Was it the crowds and pollution? The otherwise
+        unheard hum of the city? Magnetic fields or the position on the earth?
+        <br />
+        <br />
+        The rain fell, unceasingly, against the window. Most of the high rises
+        around them had their lights off. She kicked her feet up on the chair.
+        Horace came in, at the opposite end of the long corridor, steps heavy
+        against spongy hardwood. The kids were asleep. It was the quietest time
+        of day.
+        <br />
+        <br />
+        He took off his rain-spattered jacket and loosened his tie and sat at
+        the adjacent corner of the dining table, where they always had their
+        conversations now.
+        <br />
+        <br />
+        “I thought today it’d be a good idea to pack him a carton of milk with
+        his lunch. But when lunch started, the teacher took the milk away,
+        didn’t give it back, and said he should drink tea like the other kids.
+        Tea! He told the teacher he didn’t drink tea, so she gave him warm water
+        instead.”
+        <br />
+        <br />
+        “It’s probably one of those Japanese conformity things. If someone
+        starts drinking milk, then someone else might want to bring milk to
+        school too, then what’s the world coming to?”
+        <br />
+        <br />
+        “Another thing. I’ve been packing him sandwiches but today he said he
+        wants bento boxes for lunch. I know he likes sandwiches. But he said the
+        other kids think it’s funny he’s eating sandwiches instead of from a
+        bento box. We don’t want him any more singled out than he already feels.
+        Maybe I should start making him a bento box. But it’s easier to make a
+        sandwich than a bento box. And I’m not even talking about the whole
+        ‘competitive bento box’ thing.”
+        <br />
+        <br />
+        Look, these kids need to open their eyes and learn a little about
+        diversity. We come from a foreign culture. What if he gets used to
+        eating bento boxes? Then he’s going to go back to America and not want
+        to eat sandwiches anymore and eat bento boxes. He’ll be a laughingstock.
+        I’ve already made up my mind.”
+        <br />
+        <br />
+        “We can try again tomorrow, but if he’s still uncomfortable with it, I
+        think we should switch.”
+        <br />
+        <br />
+        “It’ll be a good experience for him to assert his will against the
+        herd.”
+        <br />
+        <br />
+        She looked up out the wet glass. A sock was floating in a pool of water.
+        She got up and came back with their laptop computer.
+        <br />
+        <br />
+        “Before you forget, show me how to check the weather. It’s impossible to
+        do laundry in this country without a good weather forecast. I need one
+        that goes by the hour. The English sites are useless.”
+        <br />
+        <br />
+        “You’re right. The Japanese sites are a hundred percent. I don’t know
+        how they do it.”
+        <br />
+        <br />
+        “This fucking season. I put a load of laundry out this afternoon and
+        everything got drenched. It’s depressing. Doesn’t anyone use a dryer in
+        this country? Is it because every woman’s expected to hang laundry? When
+        I was bringing in the wet clothes, there was a woman over at the
+        building next door looking at me like I was an idiot. Show me how to use
+        the site.”
+        <br />
+        <br />
+        “Can this wait? Japanese sites are hard to navigate. They have a
+        different design aesthetic. Everything’s a brain teaser. I’ll show you
+        tomorrow.”
+        <br />
+        <br />
+        “I’ve got laundry to do every day. I need to know the few hours it
+        clears out tomorrow, otherwise we’re going to have soaked clothes piling
+        up around the house for days.”
+        <br />
+        <br />
+        “Where’s the laundry now?”
+        <br />
+        <br />
+        “In the bathroom. It’s so damp in there, it doesn’t help.”
+        <br />
+        <br />
+        “I need to take a shower.”
+        <br />
+        <br />
+        “Take the clothes out and put them back when you’re done.” She peered
+        outside. The moonlight was refracted through hundreds of gemlike
+        raindrops. “No point hanging them outside now.”
+        <br />
+        <br />
+        “Look, I just need to sleep a little at least. I’ve got a three a.m. and
+        another ten a.m. call.”
+        <br />
+        <br />
+        “You can’t tell them to leave you alone? What’s the point of sending you
+        out here if you’re on the phone with them every night?”
+        <br />
+        <br />
+        “Look, it can’t be helped.”
+        <br />
+        <br />
+        “I know. They think we’re here on some kind of sabbatical. A family
+        vacation. It’s anything but. If this keeps up … I don’t know how much
+        longer I can hold out. Every day I remember why I wanted to get out of
+        Asia.”
+        <br />
+        <br />
+        “I’m on assignment. It’s not like I can roll it back on my own, after
+        all the trouble the company took getting us here.”
+        <br />
+        <br />
+        “Tell them I’m fed up. We’re making sacrifices here to make things work,
+        so you can experience working in Japan. It’s not just me. Your children!
+        They don’t see you anymore at night. You’re always coming home late …
+        They hate you. Just like a salaryman. Tell them that’s okay. That’s what
+        we signed up for. But these phone calls ... It’s got to stop. You’ve got
+        to sleep at least. And if they can’t cut it out, then I’m going to tell
+        them myself we’re going home.”
+        <br />
+        <br />
+        Phoebe was right, of course. It would be a relief to get the troubles in
+        Los Angeles off his mind, even if it meant abandoning his colleagues to
+        their fate. What was his obligation to them? They were just his
+        co-workers.
+        <br />
+        <br />
+        “I’ve already said I’d take this call tonight, but this will be the last
+        one. I’ll send Ryo an email first thing in the morning.”
+        <br />
+        <br />
+        “Good. Now show me how to use this weather site.”
+        <br />
+        <br />
+        In the end, Phoebe decided not to make their son a sandwich. She did not
+        have time to prepare a bento box, though. She told Horace to stop by the
+        onigiri shop, which was advantageously positioned at the end of the
+        alley, at the intersection with the main road facing the school. It was
+        barely a window, run by an old couple. The wife, wearing an apron and
+        rag on her head, took the order while her husband made rice balls by
+        hand. It was the last resort employed by other parents. The onigiri was
+        discreetly packaged in unmarked wrapping, so it did not look like you
+        had bought it at a convenience store.
+        <br />
+        <br />
+        He asked his kid if he knew how to eat one.
+        <br />
+        <br />
+        Yes, he said, he traded his sandwich for one yesterday.
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <p className={styles.sectionBreak}>夏</p>
+        <br />
+        <br />
+        Every day he either ate at his desk or went out with his co-workers for
+        lunch. The conversations kept coming back to the same questions, about
+        was he getting used to Japan yet. Now that the rain had finally stopped,
+        though, he wanted to take a look outside, alone. It had suddenly turned
+        hot. The rain turned into steam. He kept to the back alleys because they
+        were in the shade and also because it was easy to get lost in there. Not
+        that he could not find his way back, although he figured the mazes were
+        deep enough it would take him weeks, with these short breaks, to really
+        get to know them. But he wanted to get lost in the other sense, of
+        himself being the thing lost, of becoming anonymous, which was different
+        than being invisible. Invisibility was something imposed upon you.
+        Anonymity had to be worked at.
+        <br />
+        <br />
+        Each shop contained no more than two aisles. The shelves ran out along
+        exterior walls, so people were browsing on the sidewalk and in the
+        alleys. The goal did not seem so much to sell, since the appeal was
+        limited to only a few obsessives anyway, as to organize with nostalgia
+        in mind: with space so limited, each shelf was impeccably curated. The
+        importance of the books lay not so much in what was in them as in what
+        had happened around them, in the lives of their former owners. He came
+        across a collection of Katue Kitasono’s, Pound’s old buddy. So
+        apparently he actually existed. Shiro no arubumu. Is that where the
+        White Album came from? Did Yoko know about it? He found Malevich and
+        Picabia monographs next to maps of old Edo. He made his way up the
+        wooden stairs, posters on either side of him, to what was more of a
+        gallery than a bookstore, with framed prints for sale. In one corner, in
+        a glass case that was like looking into a diorama, he saw some black and
+        white photos that seemed to be film stills. Next to them was a letter,
+        in English, on ruled paper written in pretty cursive like a young
+        girl’s. To the recipient, who lived in Colorado, it said, “I have also
+        enclosed some photographs of an authentic harakiri ceremony, which I
+        hope you find interesting.” Signed, Yukio Mishima.
+        <br />
+        <br />
+        Now he was in a café with high-end speakers on either side of the bar.
+        Behind the counter were shelves lined with spine-out LPs and bottles of
+        gin and whiskey. The bass line hit like blocks of concrete. Too loud to
+        talk, but that was not the point. He had come in for iced coffee, but
+        everyone else, all of them lone men in their fifties, was sitting facing
+        the speakers. What was the tune? He was not a head, like them. The LP
+        was thoughtfully displayed face out: Stanley Turrentine’s{" "}
+        <i>Up at ‘Minton’s’</i>. He was now some four months into this
+        experiment. Words to explain were hard to find. Anxieties clustered in
+        the start-and-stop of tightening and release. Why did even he feel the
+        tentacles of Tokyo society? He had to be careful not to let the
+        seemingly unresolvable frustrations of the job (the one in California,
+        not the one here) color his perception of Japan or the Japanese, or let
+        that bleed over to his co-workers. Otherwise you stopped seeing them as
+        human beings, as in a war. Which would be unprofessional.
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        Once they heard he had never been to a matsuri, his co-workers were
+        determined to take him.
+        <br />
+        <br />
+        There would be some “ero-grotesque” surprises in store, they promised.
+        At Yasukuni Shrine, as it turned out. He knew what was there, just did
+        not know it was so close by. So were they talking about the kamikaze
+        stuff? No. His co-workers did not seem to think anything about that. To
+        them there was nothing to the place other than that it was where to go
+        this time of year for Mitama. The only hint of controversy, as they
+        ascended the mild grade past Budokan, was a lone protestor squatting at
+        the base of a tree, decrying former Taiwanese president Lee Teng-hui’s
+        brother for being inside, which, as Horace thought of it, was less of a
+        shot at Japanese militarism than an attempt to discredit Taiwanese
+        autonomy.
+        <br />
+        <br />
+        The long walking path past the first torii gate had been lined with
+        thousands of yellow lanterns, bobbing in the pleasant summer night. The
+        lanterns and booths, whose gaudiness contrasted with the gray politeness
+        of the office, created a disorienting effect and obscured almost
+        completely the shrine itself. It came through in hints, looming behind
+        the festival glow in the shadows of eaves and old pines. The sound of
+        the crowd, interwoven with the stylized patter of the booth hawkers,
+        felt as if it were emanating from the grounds themselves. He ate
+        skewered ayu and yakisoba from a flimsy paper plate. Somewhat against
+        his will, he played the game with the paper scooper where you got a
+        goldfish in a plastic bag. He walked around with the fish the rest of
+        the night. Past the second gate and the Shinmon, the festival turned
+        into a cloud of colors and smoke. In front of the main hall, as somewhat
+        of a prank put on him by his co-workers, he joined the bon odori in the
+        plaza, clapping his hands and moving in a halting rhythm with other
+        dancers, welcoming back the dead to the world of the living.
+        <br />
+        <br />
+        They went to the freak tent. A scruffy-looking girl (or child-sized
+        woman) in a yukata stood on a box jabbering musically at the hypnotized
+        crowd while her colleagues extracted bills from them. From the painted
+        images, it was obvious the Snake Woman was the main attraction, although
+        several other curiosities were advertised. At one point, from a balcony
+        above the entrance, the Snake Woman, in white robe, hair long and
+        straight, face pale and lips blood red, made a teasing appearance with
+        one of her pets held outstretched between her fingers. Then she
+        vanished.
+        <br />
+        <br />
+        They waited for the room to clear out the exit on the other side before
+        being let into the tent. He could not pick a spot. The crowd simply
+        pushed him around until it stopped. The ground was sloped, so he could
+        see above the heads in front of him. It was hard to breathe. At some
+        point, when the room was sufficiently packed, the doors closed, and the
+        stage became a tumbling series of skits involving fire and off-color
+        jokes before the Snake Woman, waiting until the situation had just about
+        become intolerable, emerged. Her snakes, black and rubbery, moved in and
+        out of her fingers, and mouth, before, with somewhat less ritual than he
+        had been expecting, she bit into one, ripping it in half and spraying
+        blood into the crowd. She swallowed its parts. The closing image of the
+        night, as they were shuffled out to make way for the next group, was the
+        lower portion of her face, drenched in blood.
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        There were expat markets in Hiroo and Azabu. They told themselves it was
+        for the kids, having even made it out to Disneyland twice just for the
+        buffet, when in fact the boys were taking to a Japanese diet faster than
+        they did. By midsummer they had stopped going to family restaurants.
+        Instead: fish, rice, tea, the muted palette from which the entire
+        Japanese world was born. No surprise the traditional seasonal
+        ingredients, squid and eggplant in summer, were the best bets to add
+        some variation. That purity was elementary once you grasped it, but
+        seemed like a great revelation; the diet rooted you to the soil.
+        <br />
+        <br />
+        She ventured further out. It was hot, but a relief to be able to explore
+        with no rain. She was still pushing the stroller, but now she did not
+        have to put that awkward plastic covering on to keep baby dry. He could
+        breathe. One of the tricks she learned was taking the side alleys
+        through which she could maneuver the bulky stroller. Along the larger
+        avenues, although they were easier to navigate, she was always dodging,
+        or running into, pedestrians and bicycles on the narrow sidewalks, and
+        she had to stay wary of the car traffic speeding by only a few inches
+        off the curb. But the side alleys were quiet, especially by midmorning.
+        She could walk in the middle of the street and her mind could wander.
+        <br />
+        <br />
+        She had been taking Meiji-dori under the expressway to Hiroo, which took
+        about an hour one-way. But now she had found another route, deep off the
+        main intersection, through a street of old shops, one of those hidden
+        behind layers of development, layers that did not sprawl outward, but,
+        like much of Tokyo, spiraled inward. In doing so she stumbled across a
+        lost continent. There seemed to be only locals, meaning the immediate
+        neighborhood, who frequented it. Someone had come up with the idea of
+        playing oldies from loudspeakers strung up on street lamps. The effect
+        was to lend the old shops even more melancholy than they already had.
+        <br />
+        <br />
+        Hiroo by contrast was stylish. It was popular with expats and Japanese
+        used to life abroad, which, even in Tokyo, connoted something luxurious.
+        In other words, it was the neighborhood where you could buy bread,
+        cheese, steak, and wine. Even though looking around there was not much
+        that looked especially “Western,” it went beyond wealth. The more
+        traditionally well off neighborhoods she had been to. You felt a deep
+        reserve there. Here were convertibles. She had taken to coming here the
+        first few months when she was feeling homesick, or just needed some
+        relief from the confinement of the apartment, but lately she had been
+        going less.
+        <br />
+        <br />
+        Instead of north and west toward Hiroo and Roppongi, she began to check
+        out the neighborhood at the bottom of the grade that headed northeast.
+        Eventually it merged with Sakurada-dori. Over this wide thoroughfare,
+        due north, stood Tokyo Tower. Because the street ended at its base, it
+        was the most unobstructed view of the tower in the city. She never
+        walked that far, though. The furthest she got with the baby was the
+        entrance to Keio University and the alleys populated by students around
+        it. Most of the time she browsed the drugstore, teaching herself
+        Japanese cosmetics.
+        <br />
+        <br />
+        Baby and stroller became a voyager, pulling her instead of the other way
+        around. The spongy grip on the handle, training muscles in the wrists
+        and hands. The wheels hugging Tokyo’s uneven pavement. The stilling of
+        momentum when she threw on the brake. Keeping her ears out for baby’s
+        gurgling messages. Once she started taking the subway, worlds awaited,
+        although she was still limited to lines and stations that provided
+        convenient enough elevator access. That was because she was not allowed
+        by regulation to take the stroller on the escalator, and there was no
+        way she was going to carry it up and down stairs.
+        <br />
+        <br />
+        July provided the excuse to go to Harajuku, for the semiannual clearance
+        sales. Getting there required two transfers, but the stations were
+        relatively easy to get around in, and there was a new and spacious
+        elevator at Omotesando. She never bought much clothes in America, but
+        here they were made for her body. She knew fabrics. Part of her mother’s
+        side of the family was in the textile business, and she had spent a few
+        summers working for them. Now in the sale racks she developed an
+        appreciation for the typically fine Japanese attention to line and cut
+        in even the cheapest clothes. She had been losing weight since arriving
+        in Japan, a combination of diet and lack of sleep.
+        <br />
+        <br />
+        Charcoal cleansers, collagen masks, and BB whiteners brightened the tone
+        and sheen of her face. Her hair blackened from eating black sesame
+        seeds. Her clothes began to fit. For the first time since college, she
+        wore dresses. She blossomed. With her newfound feminine air, she finally
+        began to blend in with the women around her.
+        <br />
+        <br />
+        By two she made it back to pick up her other son from school. It had not
+        occurred to her before, for some reason, but she thought she had better
+        take some pictures of her children. They posed in the schoolyard, in the
+        small dirt-lot playground on the walk home, in front of one of the
+        temple gates, and in their own apartment, where they were most free. She
+        dressed them up in summer yukata. When she took them out, the other
+        parents thought it was so charming, maybe because they would not send
+        out their own kids in public that way.
+        <br />
+        <br />
+        Her oldest son had gone silent for the first month or so after going to
+        school. She knew, because the teacher had told Horace. He did not talk
+        in class. Well, how could he? But he did not talk much when he came
+        home, either. Just shrugged when she asked him how was his day. He had
+        always been an outgoing kid, so she was afraid she was traumatizing him.
+        But around the beginning of summer, he changed. Not just talking, but
+        streams of Japanese. At first it was to his friends only, with whom he
+        had been speaking until then in that universal kids’ language. But then
+        it was to adults too, and he spoke it naturally with no accent. At home
+        he even started watching NHK and sentai shows. He put on puppet shows in
+        Japanese for his brother.
+        <br />
+        <br />
+        So she was the only one still having a tough time, even though she was,
+        she thought, making the best of it. She continued to keep her distance
+        from the other mothers. You could guess what kind of scene that was.
+        There was a woman who had spent some years in Australia and a Filipino
+        woman who could speak English. She avoided them.
+        <br />
+        <br />
+        It was more important, somehow, first to understand the messages being
+        sent to her in shops, on websites, in advertising in subway cars and
+        stations, and on television. That is, to be a consumer. This included
+        not only what was being said but what was behind it. Somehow it made her
+        feel more human. Of course it helped she could read kanji. Although she
+        could not speak, they did not regard her as a total foreigner for this.
+        <br />
+        <br />
+        What would happen to them when they returned? Neither she nor Horace
+        thought about it. In his case, it was a little clearer. In hers, the
+        entire trajectory of her working life over the past ten years had been
+        truncated. She was still collecting unemployment.
+        <br />
+        <br />
+        Everything she did not like about Taiwan was somehow worse here. There
+        was the smallness of minds, the pretension, the insufferableness of the
+        men, the pettiness of the women. Being the mother of a small child and a
+        housewife was a peculiar and devious kind of death sentence here. Her
+        health was probably suffering. Just as she had growing up, she had odd
+        pains here and there, and she never got a good night’s sleep. It may
+        have also been ghosts, the kind that belonged to East Asia, especially
+        during the summer.
+        <br />
+        <br />
+        Yet she could not say she disliked it. She found herself thinking of her
+        father and the time he spent as a college student in Japan. She stalked
+        his spirit and sentimentally felt closer to him for it. She was reminded
+        she should visit her sister in Osaka. It was assumed she would, when the
+        timing worked out, but she realized now it was no small matter to get to
+        Kansai. Somehow in Tokyo you never thought of it. It was only on the
+        subway, where the travel agencies and local tourism boards beckoned with
+        this or that escape. Mount Takao. Kawagoe. Nikko. Miura. Matsumoto.
+        Kumamoto. Okinawa. In her darker moods, especially those first few
+        months, she had thought of bringing the kids with her to live with her
+        mother in Taiwan, or with her sister in Kansai. At least now she could
+        say she did not think about that anymore.
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <p className={styles.sectionBreak}>秋</p>
+        <br />
+        <br />
+        One morning, with the decorum and alacrity with which everything was
+        done here, it was autumn. Beyond the sudden snap to the air, the store
+        displays, as if pulling a curtain, moved on to themes of colored leaves
+        and seasonal produce and fish. For Horace, there was an element of
+        nostalgia, in the underlying smoke in the air that reminded him of New
+        England.
+        <br />
+        <br />
+        For the first time he could remember, they were battling neither cold
+        nor rain nor heat on the morning walks to school. Maybe because of that,
+        the boy walked with more bounce, chatting about his friends and
+        teachers, whom he never talked about before. Maybe it was just because
+        he was getting better at Japanese, and they were treating him like one
+        of them finally.
+        <br />
+        They took shortcuts now, instead of going along the main street. They
+        cut into a side alley, by a post office, and through an old shrine gate
+        from Edo. The remains of a greater gate, painted vermillion, with a
+        tiled roof, rested in a field amid the modern mansions and narrow family
+        houses.
+        <br />
+        <br />
+        He let the boy walk at his own pace, while he stayed behind. What struck
+        him, but of course this would be the case, was that the boy did not
+        march off to school in a straight line, but wound around, taking his
+        sweet time. He would get distracted by a weed or a bug or a song.
+        <br />
+        <br />
+        They were brought up to the school entrance foyer to the step where the
+        boy took off his shoes and changed into his white sneakers. He had
+        traded in his summer straw boater for a felt bowler. It was getting just
+        cold enough in the mornings that Horace thought about putting a coat
+        over the boy’s uniform jacket. Now the boy did not hang around anymore.
+        He ran straight off to class without saying goodbye.
+        <br />
+        <br />
+        The principal caught him. He gave a deep bow. As far as he could tell,
+        he was the only adult man around. He took off his shoes and left them at
+        the step, pointed toward the door, and put on a pair of slippers. She
+        went to her desk. His son had been given a role in the school play. A
+        prominent role, some kind of animal, which meant he did not have
+        speaking lines. But she meant the boy was coming along well. She also
+        said in a couple of weeks there was going to be a Sunday family event, a
+        curry cookoff, and both mothers and fathers should come. She placed some
+        emphasis on this last point. Then she handed him a flier.
+        <br />
+        <br />
+        In the hall he could hear the teacher playing a stirring piano tune and
+        singing along with the children with real gusto. It struck him what they
+        asked these kindergarten teachers to do. They were all young women,
+        every one with a certain something to them. Big-sisterly was the best he
+        could put it. Piano and carrying a tune on a long list of requirements,
+        in addition to arts and crafts and keeping order among the children,
+        which they seemed preternaturally adept at doing.
+        <br />
+        <br />
+        Maybe because he no longer felt as if he were leaving the boy to a
+        potentially cruel fate, he went off to work more lighthearted too,
+        moving through the residential back alleys that saw the least traffic.
+        <br />
+        <br />
+        Baby was getting longer. At first he thought it was just he was getting
+        thinner. Unlike the older boy, he had not taken to the diet of fish and
+        rice. He ate—just enough. Nonetheless, clearly he was growing. There
+        were the clothes, hand-me-downs, that were just right for him now. His
+        arms and legs were getting firmer. Horace told Phoebe to stop taking the
+        stroller. Make him walk.
+        <br />
+        <br />
+        Without the stroller, their habits touring the city changed. No longer
+        confined only to those places that afforded them a wide berth, parks or
+        malls or places otherwise underpopulated, they could go more or less
+        where other people went. Certain train lines became newly accessible. It
+        was a revelation, for instance, how close Ginza was. They had taken a
+        roundabout path before, because they could not use stations that only
+        had stairs. But now baby was not only navigating steps pretty well, but
+        hills too. Where they would have only gone to Ginza on Sunday, when they
+        closed Chuo-dori to traffic, now they could have an early dinner on a
+        weekday, if he got home early enough, something he was doing more
+        frequently, and take off for an evening stroll among Tokyo’s most
+        storied shopping blocks and still make it back in time for bath and
+        bedtime. It seemed like a great luxury, and they suddenly felt like
+        civilized people, living in this, the world’s most civilized city.
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        Even where the leaves had not changed were signs of the season, such as
+        the sugidama, cedar balls, hanging outside saké shops; bound and tied
+        (plastic) Shanghai crab in the windows of Chinese restaurants; plastic
+        leaves tied to streetlights; and people wearing fall fashions still too
+        warm for the weather. There were natural signs too, such as the one the
+        older boy found so exciting, the dried husk of a cicada on the sidewalk.
+        This is what they looked like? Like robot armor? And its negative
+        complement: the silence in the trees. All conspired in a way that did
+        not feel so much like coercion, towards purchases or production, as
+        instruction. For the behavior asked for was strangely useless. It was an
+        awareness of the breaking of the rhythm of everyday pursuits, that is,
+        of time passing. Remembrances of what one was doing this time last year.
+        Allowing a breath to be taken. In this sense it was even more insidious
+        than mere advertising, not so much about control than propriety, not one{" "}
+        <i>must</i>, but one <i>should</i>. “In order to gain a better
+        appreciation …”
+        <br />
+        <br />
+        They were in Yoyogi Park on the weekend. Horace had brought the boys
+        here, with Phoebe taking her time at Harajuku Crossing. She joined them
+        later, not long after they found their way past the rockabilly greasers.
+        The boys zigzagged on the grass. The dull thud of a trance festival came
+        over the row of trees to their left. It was almost dusk. It had been
+        mild, a perfect day, days which only came in the short window of this
+        time of year, but with the sun going down, the air took on a chill, and
+        he was afraid they were not dressed for it.
+        <br />
+        <br />
+        Sunlight cut through the trees. A desert glow. Cold. Crows hopped out of
+        the trees in ominously larger and larger congregations. Then he began to
+        notice people laying blankets on the grass as they put on scarves and
+        warmer clothes. Some of them broke out bottles of beer. Was the festival
+        moving here for the night? But the people on the grass were older men
+        and women, some with children.
+        <br />
+        <br />
+        A crow was going through somebody’s backpack.
+        <br />
+        <br />
+        “Look up.”
+        <br />
+        <br />
+        The full moon was bright and clear.
+        <br />
+        <br />
+        He had forgotten it was the Mid-Autumn Festival. He did not know they
+        celebrated it in Japan too, or how.
+        <br />
+        <br />
+        “Too bad we don’t have any moon cakes,” Phoebe said. The Chinese custom
+        was to sit out on a clear autumn night and take in the moonlight. Eat
+        cakes and recite poetry.
+        <br />
+        <br />
+        “We could go to Yokohama. They sell them there year round.” It was a
+        kind of joke between them they did that.
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <p className={styles.sectionBreak}>酉 の 市</p>
+        <br />
+        <br />
+        “Shinjuku 3-chome, in front of Isetan.”
+        <br />
+        <br />
+        It was Ryo. Horace did not know he was in town.
+        <br />
+        <br />
+        No further explanation, so Horace told Phoebe his boss was calling to
+        meet him on a street corner in Shinjuku at ten o’clock on a weeknight.
+        At least the kids were already put to bed.
+        <br />
+        <br />
+        When he got there, by subway, Ryo was already on the corner, alone. The
+        department store’s doors were closed, although its Gothic lamps were
+        still on. The older man was wearing a scarf and overcoat. Instead of
+        motioning Horace to follow him somewhere, he stood his ground. He
+        explained they would wait here for a few more people to show up.
+        <br />
+        <br />
+        A minute later, a tall and very pretty woman, wearing a leather jacket
+        and boots, walked up to their spot on the corner. She had had her hair
+        waved and was wearing it loose. Dark complexion. Looked maybe to be in
+        her twenties. Ryo only introduced her by name, Misa. They seemed to
+        regard each other coldly and kept their distance from each other while
+        both of them smoked.
+        <br />
+        <br />
+        Apparently Ryo was somewhat buzzed and slurred, “When the others get
+        here and ask you who she is, just tell them she’s my cousin, from
+        Nagoya.”
+        <br />
+        <br />
+        No need for outright deception, Horace thought. Everyone would see right
+        through it anyway, so maybe it was more of a case of politeness? Who
+        knew about these things?
+        <br />
+        <br />
+        Ryo placed a call on his cell. About five minutes later, three men
+        arrived, one older, two younger. The older one, with metal glasses and a
+        few strands of hair on top of his head, was Shimamura. He was already
+        fairly blasted. Red in the face, stumbling over his steps. The younger
+        men, in suits like him, had to hold him up. They were junior financial
+        directors who reported to him. Horace had been told Shimamura was the
+        only one who had a full picture, and for that matter, any concrete
+        understanding, of the situation of the overseas branch. For that reason,
+        he was the only one in the organization who had any real authority to
+        decide on their standing. It was a vital relationship for Ryo. On the
+        other hand, it was just one of several he juggled and, to some likely
+        extent, played against one another.
+        <br />
+        <br />
+        Shimamura, who seemed to recognize Horace in his daze, came right at
+        him, ignoring Ryo and his guest, and almost fell on top of him.
+        Long-limbed, built like a basketball player, he put all his weight onto
+        Horace’s right shoulder. Then a stream of gibberish filled one ear,
+        which Horace, despite his improving language, could only guess was
+        Japanese.
+        <br />
+        <br />
+        The group moved north. Nobody asked about Misa. Yasukuni-dori was lit
+        up. The finance executive attached himself to Horace and kept on
+        babbling.
+        <br />
+        <br />
+        They crossed at the intersection with Meiji-dori. It was crowded with
+        matsuri booths and pushcarts. Tucked half a block down Meiji-dori was
+        the entrance to Hanazono Shrine, mobbed by people both trying to leave
+        and enter under a massive gate of paper lanterns. Squads of taxis parked
+        out front waited to cart off drunks.
+        <br />
+        <br />
+        They made their way past the tightly arranged booths with men and women
+        in yukata selling traditional crafts. Ryo told Horace he would explain
+        later what they were. There were also ones featuring games like the
+        goldfish one he had played in the summer. They moved to the cordoned
+        food area and found a table that would seat all six of them. It was a
+        cold night, so that meant oden. Shimamura ordered three bottles of saké.
+        Horace tried making some conversation with Misa.
+        <br />
+        <br />
+        “You’re from Nagoya?”
+        <br />
+        <br />
+        “Yeah.”
+        <br />
+        <br />
+        “You live in Tokyo now?”
+        <br />
+        <br />
+        “Yeah. I just moved here, for school. My first year in school, though, I
+        lived in Nagoya.”
+        <br />
+        <br />
+        “You took the train every day?”
+        <br />
+        <br />
+        “Once a week. It was a pain.”
+        <br />
+        <br />
+        “How do you like Tokyo?”
+        <br />
+        <br />
+        “Compared to Nagoya?”
+        <br />
+        <br />
+        “Yeah.”
+        <br />
+        <br />
+        “A lot better.”
+        <br />
+        <br />
+        The oden and the saké warmed them up thoroughly. Then they all went off
+        to see the freak show. It was the same show Horace had seen in the
+        summer, culminating with the Snake Woman. Same woman. Horace had to
+        admit the effect was largely lost the second time around. Ryo and the
+        others seemed to feel the same way, as it was probably old hat to them.
+        There was no expression or comment from any of them as they shuffled out
+        of the tent.
+        <br />
+        <br />
+        Shimamura took his team for another round of drinks, while Ryo pulled
+        Horace and Misa aside. He led them down one of the wide aisles selling
+        what appeared to be gaudily decorated bouquets or wreaths, wrapped in
+        clear plastic. Ryo stared contemplatively at each booth’s offerings.
+        Misa kept her head down, hands in pockets. On closer look, it seemed to
+        Horace they were not wreaths but decorated rakes.
+        <br />
+        <br />
+        In fact that was what they were. Kumade, or “bear claws,” for clawing,
+        or raking, in money. Most of the people buying them were businessmen,
+        like themselves. Every year you bought one for success. More than that,
+        if your sales were going to grow at all that year, you bought one bigger
+        than the year before. That was why they came in all sizes. If it was
+        your first time, you started small, so you did not end up buying too big
+        of one too soon and maxing out. Ryo had gotten one every year except
+        last year, because he could not make it back to Japan in time. It was
+        this, more than anything, to which he attributed the disastrous
+        financial results they had just posted.
+        <br />
+        <br />
+        That was why, Ryo explained, Horace was being recalled to the States.
+        <br />
+        <br />
+        Once he settled on something he liked, Misa became a lot more animated,
+        chatting and laughing with the vendor, using a completely different way
+        of speaking and looking suddenly a lot more at ease. Probably a dialect
+        she used with a fellow Nagoyite. The kumade was massive. Its pieces,
+        which included rice stalks and an otafuku mask, were stapled and glued
+        to a thick bamboo culm. It stood as tall as Horace’s shoulders. Ryo
+        explained he was going to have the vendor deliver it to Horace’s office.
+        From here, it was Horace’s task to figure out how to get it back to Los
+        Angeles.
+        <br />
+        <br />
+        “That’s your job now. It’s a very important one.”
+        <br />
+        <br />
+        Horace could not think of a solution for the moment, except to buy an
+        airplane seat for the thing.
+        <br />
+        <br />
+        The four of them, including the vendor, stood in a circle in front of
+        the booth, made a rapid chant, wishing for good business next year, and
+        clapped in time between chants. They all bowed.
+        <br />
+        <br />
+        Just as all three of them turned around, Shimamura and his two cronies
+        came shambling back up to them. Shimamura tripped over a rock and one of
+        the junior directors reached out to grab him before he crashed to the
+        ground.
+        <br />
+        <br />
+        Ryo gave the junior director a look, as if to ask, “Is he all right?”
+        The younger man returned the look and shook his head.
+        <br />
+        <br />
+        “Here.” Ryo pointed at Horace’s back.
+        <br />
+        <br />
+        They dragged the executive over. Horace slung him over his shoulders
+        like a jacket. “Put him in a taxi. Gogami-san will tell the driver where
+        to go. See you next time.” With that, he walked off with Misa, into the
+        lights and noise of the festival.
+        <br />
+        <br />
+        Horace dragged Shimamura to the gate, which was twice as mobbed as it
+        had been when they arrived. Nobody gave them a second glance. They
+        managed to hail a taxi, and he dropped Shimamura inside, who was still
+        gone to the world. Horace adjusted the glasses on his face, but could
+        not quite get them right. Gogami shouted some directions at the driver.
+        The door shut of its own accord. Gogami gave a curt goodbye, leaving
+        Horace alone in the night. It was too late to catch a train.
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <p className={styles.sectionBreak}>新 年</p>
+        <br />
+        <br />
+        Phoebe had been sick since new year’s day, but she seemed to get over
+        her illness after they boarded the bullet train at Shinagawa. She
+        stopped coughing as soon as they got past Mount Fuji. It was the first
+        time any of them had ever seen it. It is little understood how hard it
+        is to get a glimpse of Mount Fuji from central Tokyo if not spending a
+        lot of time in the upper floors of skyscrapers. It probably should not
+        have come as a surprise that she recovered instantly. Whatever had been
+        plaguing her in Tokyo had not followed her out of it. While they were
+        concerned when they headed back, she did not suffer a relapse. The
+        spirit did not return.
+        <br />
+        <br />
+        Back in Tokyo, temple roofs were white with snow. Tokyo Tower was half
+        obscured in freezing rain.
+        <br />
+        <br />
+        Plum blossoms were starting to break. In Chinese aesthetics, they were
+        the more prized flower over cherry blossoms, for blooming in the wastes
+        of early spring. There was a stark beauty to them, in the courtyard, the
+        parks, buds on branches reaching over compound walls. The best place to
+        see them near their mansion was a public playground two blocks away. It
+        was interesting to Horace for its bizarre displays explaining the
+        prehistory of the district. There was even a lifesize diorama of a
+        neolithic hut, with mannequins. The plum garden was in bloom, very
+        precisely, as if by design. Each blossom the same proportion. After the
+        rain, their sugary-sweet smell drifted out the park into the street.
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        Last night.
+        <br />
+        <br />
+        They had shipped off everything that could be shipped and moved out of
+        their apartment.
+        <br />
+        <br />
+        They had to stay in a hotel. The plan was to get brunch in the morning
+        and head out from the station for Narita by noon.
+        <br />
+        <br />
+        They opened a bottle of pink champagne. It seemed a very Tokyo drink,
+        somehow. The kids were watching, and to some degree comprehending, a
+        food show on TV.
+        <br />
+        <br />
+        It was warm enough to stand out on the balcony. Earlier that day they
+        had taken a stroll through the hotel gardens. Camellias were in bloom,
+        and there was the very first hint of cherry buds.
+        <br />
+        <br />
+        From the balcony, Tokyo stretched before them. Red warning beacons
+        marked off the heights of that incomparable skyline. The moving lights
+        of trains and planes. To their left were the towers of Shinjuku. Right
+        in front of them, the core. Mori Tower. Tokyo Tower in orange hues. A
+        dark sea in the middle that was the Imperial Palace. On their right, the
+        Rainbow Bridge and the lights of Shiodome, Odaiba and, closer in,
+        Shinagawa.
+        <br />
+        <br />
+        Of all things, it was the ending of <i>Père Goriot</i> that came to him.
+        Maybe it was the champagne. Rastignac standing on that hill in
+        Père-Lachaise, looking over Paris. It occurred to him, he did not know
+        what lay ahead, but probably he would be back before long. But that
+        would be for meetings and presentations, as a business traveler. It
+        would not be anything like this.
         <br />
         <br />
         <br />
