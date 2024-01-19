@@ -7,7 +7,7 @@ Album.title = "alvin_lu ~ the white album — new_sinews";
 Album.pieceName = "alvin_lu ~ the white album — new_sinews";
 Album.description =
   "_Alvin Lu_fiction_THE WHITE ALBUM_news_sinews_issue8_";
-CastingOff.image =
+Album.image =
   "https://www.newnewsinews.com/images/CastingOffBackground.jpg";
 
 export default function Album() {
