@@ -7,7 +7,7 @@ import styles from "../../styles/FatherFigure.module.css";
 Father.title = "andrea harper ~ father figure — new_sinews";
 Father.pieceName = "andrea harper ~ father figure — new_sinews";
 Father.description = "_Andrea Harper_fiction_FATHER FIGURE_news_sinews_issue8_";
-Father.image = "https://www.newnewsinews.com/images/CareBackground.jpg";
+Father.image = "https://www.newnewsinews.com/images/FatherFigureBackground.jpg";
 
 export default function Father() {
   return (
