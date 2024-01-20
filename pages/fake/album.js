@@ -379,7 +379,7 @@ export default function Album() {
         ‘competitive bento box’ thing.”
         <br />
         <br />
-        Look, these kids need to open their eyes and learn a little about
+        “Look, these kids need to open their eyes and learn a little about
         diversity. We come from a foreign culture. What if he gets used to
         eating bento boxes? Then he’s going to go back to America and not want
         to eat sandwiches anymore and eat bento boxes. He’ll be a laughingstock.
@@ -560,7 +560,7 @@ export default function Album() {
         everyone else, all of them lone men in their fifties, was sitting facing
         the speakers. What was the tune? He was not a head, like them. The LP
         was thoughtfully displayed face out: Stanley Turrentine’s{" "}
-        <i>Up at ‘Minton’s’</i>. He was now some four months into this
+        <i>Up at </i>‘<i>Minton</i>’<i>s</i>’. He was now some four months into this
         experiment. Words to explain were hard to find. Anxieties clustered in
         the start-and-stop of tightening and release. Why did even he feel the
         tentacles of Tokyo society? He had to be careful not to let the
