@@ -397,6 +397,10 @@
   background-image: url("../public/images/FatherFigureBackground.jpg");
 }
 
+.albumBackground {
+  background-image: url("../public/images/AlbumBackground.jpg");
+}
+
 @media (width: 1280px) and (height: 800px) {
   .siteNav > .dropDown > button,
   .home,

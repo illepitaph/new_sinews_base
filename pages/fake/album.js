@@ -6,14 +6,14 @@ import styles from "../../styles/Album.module.css";
 Album.title = "alvin_lu ~ the white album — new_sinews";
 Album.pieceName = "alvin_lu ~ the white album — new_sinews";
 Album.description = "_Alvin Lu_fiction_THE WHITE ALBUM_news_sinews_issue8_";
-Album.image = "https://www.newnewsinews.com/images/CastingOffBackground.jpg";
+Album.image = "https://www.newnewsinews.com/images/AlbumBackground.jpg";
 
 export default function Album() {
   return (
     <>
       <Head />
 
-      <Header headerBackground="castingOffBackground" />
+      <Header headerBackground="albumBackground" />
       <br />
       <br />
       <br />
