@@ -23,7 +23,7 @@ export default function Album() {
       <br />
       <pre className={styles.title}>
         {" "}
-        <b> ...</b> ... <b> ...</b> ... <b>... </b> ... <b>the ... </b> ...{" "}
+        <b> ...</b> ... <b> ...</b> ... <b>... </b> ... <b>t h e ... </b> ...{" "}
         <b> ...</b> ... <b>... </b> ... <br />{" "}
       </pre>
       <br />
@@ -41,7 +41,7 @@ export default function Album() {
       <br />
       <br />
       <pre className={styles.titleTwo}>
-        ... ... ... ... ... ... white ... ... ... ... ... ... <br />
+        ... ... ... ... ... ... w h i t e ... ... ... ... ... ... <br />
       </pre>
       <br />
       <br />
@@ -59,11 +59,11 @@ export default function Album() {
       <br />
       <pre className={styles.titleThree}>
         {" "}
-        .. ... ... ... ... ...{" "}
+        ... ... ... ... ... ...{" "}
         <b>
-          <i>a l b u m</i>
+          <i>a l b u m </i>
         </b>
-        .. ... ... ... ... ...
+        ... ... ... ... ... ...
       </pre>
       <br />
       <br />
