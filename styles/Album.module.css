@@ -1,49 +1,87 @@
 .title {
-    font-family: "ubuntu", monospace;
-    font-size: 1.2rem;
-    font-weight: 400;
-    text-align: center;
-    text-transform: lowercase;
-    white-space: pre-line;
+  font-family: "ubuntu", monospace;
+  font-size: 1.2rem;
+  font-weight: 400;
+  text-align: center;
+  text-transform: lowercase;
+  white-space: pre-line;
+}
+
+.titleTwo {
+  font-family: "ubuntu", monospace;
+  font-size: 1.8rem;
+  font-weight: 500;
+  text-align: center;
+  color:white;
+  text-shadow: 1px 1px black, 2px 2px white, 3px 3px black;
+  text-transform: lowercase;
+  white-space: pre-line;
+}
+
+.titleThree {
+  font-family: "ubuntu", monospace;
+  font-size: 2.6rem;
+  font-weight: 600;
+  text-align: center;
+  text-shadow: 1px 1px white, 2px 2px black, 3px 3px white, 4px 4px black;
+  text-transform: lowercase;
+  white-space: pre-line;
+}
+
+.titleFour {
+  font-family: "ubuntu", monospace;
+  font-size: 3.4rem;
+  font-weight:700;
+  text-align: center;
+  color:white;
+  text-shadow: 2px 2px black, 4px 4px white, 6px 6px black;
+  text-transform: lowercase;
+  white-space: pre-line;
+}
+
+.uppercaseL {
+  text-transform: uppercase;
+  color:black;
+  text-shadow: 2px 2px white, 4px 4px black, 6px 6px white, 8px 8px black;
+}
+
+.grayShadow {
+  font-family: "lores-9-plus-wide", monospace;
+  text-shadow: 1px 1px snow, 2px 2px #b0b0b0;
+  font-style: italic;
+}
+
+.sectionBreak {
+  font-family: "lores-9-plus-wide", monospace;
+  font-weight: 700;
+  font-size: 4.2rem;
+  color: white;
+  text-shadow: 3px 4px black, 6px 7px #00ffff, 9px 10px black, 12px 13px #00ffff,
+    15px 16px black, 19px 20px 9px #00ffff;
+  text-align: center;
+}
+
+.compactProse {
+  max-width: 45vw;
+  margin-left: 12.5vw;
+  font-size: 1rem;
+  line-height: 1.2rem;
+}
+
+@media (max-width: 429px) and (orientation: portrait) {
+  .title {
+    font-size: 1.1rem;
   }
-  
-  .grayShadow {
-    font-family: "lores-9-plus-wide", monospace;
-    text-shadow: 1px 1px snow, 2px 2px #b0b0b0;
-    font-style: italic;
-  }
-  
-  .sectionBreak {
-    font-family: "lores-9-plus-wide", monospace;
-    font-weight: 700;
-    font-size: 4.2rem;
-    color: white;
-    text-shadow: 3px 4px black, 6px 7px #00ffff, 9px 10px black, 12px 13px #00ffff, 15px 16px black, 19px 20px 9px #00ffff;
-    text-align: center;
-  }
-  
-  .compactProse {
-    max-width: 45vw;
-    margin-left: 12.5vw;
+}
+
+@media (max-width: 385px) and (orientation: portrait) {
+  .title {
     font-size: 1rem;
-    line-height: 1.2rem;
   }
-  
-  @media (max-width: 429px) and (orientation: portrait) {
-    .title {
-      font-size: 1.1rem;
-    }
+}
+
+@media (max-width: 281px) and (orientation: portrait) {
+  .title {
+    font-size: 0.78rem;
   }
-  
-  @media (max-width: 385px) and (orientation: portrait) {
-    .title {
-      font-size: 1rem;
-    }
-  }
-  
-  @media (max-width: 281px) and (orientation: portrait) {
-    .title {
-      font-size: 0.78rem;
-    }
-  }
-  
+}

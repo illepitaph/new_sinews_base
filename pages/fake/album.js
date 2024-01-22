@@ -23,18 +23,88 @@ export default function Album() {
       <br />
       <pre className={styles.title}>
         {" "}
-        <b> ...</b> ... <b> ...</b> ... <b>... </b> ... <b>the </b> <b> ... </b>{" "}
-        ... white <b> ...</b> ... ...{" "}
-        <b>
-          {" "}
-          ... <i>a l b u m</i>
-        </b>{" "}
-        ... <b> ... </b> ...{" "}
+        <b> ...</b> ... <b> ...</b> ... <b>... </b> ... <b>the ... </b> ...{" "}
+        <b> ...</b> ... <b>... </b> ... <br />{" "}
       </pre>
       <br />
-      <pre className={styles.title}>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <pre className={styles.titleTwo}>
+        ... ... ... ... ... ... white ... ... ... ... ... ... <br />
+      </pre>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <pre className={styles.titleThree}>
         {" "}
-        <b> ... </b> ... <b> ... a l v i n </b> ... <b> ... </b> ... <i> lu </i>{" "}
+        .. ... ... ... ... ...{" "}
+        <b>
+          <i>a l b u m</i>
+        </b>
+        .. ... ... ... ... ...
+      </pre>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <pre className={styles.titleFour}>
+        {" "}
+        <b> ... </b> ...{" "}
+        <b>
+          {" "}
+          ... a <span className={styles.uppercaseL}>l</span> v i n{" "}
+        </b>{" "}
+        ... <b> ... </b> ...{" "}
+        <i>
+          {" "}
+          <span className={styles.uppercaseL}>l </span>u{" "}
+        </i>{" "}
         <b>... </b> ... <b> ... </b>
       </pre>
       <br />
@@ -559,8 +629,8 @@ export default function Album() {
         talk, but that was not the point. He had come in for iced coffee, but
         everyone else, all of them lone men in their fifties, was sitting facing
         the speakers. What was the tune? He was not a head, like them. The LP
-        was thoughtfully displayed face out: Stanley Turrentine’s{" "}
-        <i>Up at </i>‘<i>Minton</i>’<i>s</i>’. He was now some four months into this
+        was thoughtfully displayed face out: Stanley Turrentine’s <i>Up at </i>‘
+        <i>Minton</i>’<i>s</i>’. He was now some four months into this
         experiment. Words to explain were hard to find. Anxieties clustered in
         the start-and-stop of tightening and release. Why did even he feel the
         tentacles of Tokyo society? He had to be careful not to let the
