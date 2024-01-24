@@ -127,7 +127,7 @@ export default function Fry() {
 
         <span className={styles.leftMarginTwo}>
           {" "}
-          <span className={styles.nameShadowUppercase}> _</span>y
+          <span className={styles.nameShadowUppercase}> _</span> y
         <span className={styles.inverseNameShadow}> _</span>
         <span className={styles.nameShadowUppercase}> _</span>
         <br/><br/>
