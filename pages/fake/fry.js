@@ -9,13 +9,13 @@ Fry.title =
 Fry.pieceName =
   "logan fry ~ the once-hot-starred skies ++ the once-winkling irises ++ — new_sinews";
 Fry.description = "_Logan Fry_poetry_6 POEMS_issue8_";
-Fry.image = "https://www.newnewsinews.com/images/MooreBackground.jpg";
+Fry.image = "https://www.newnewsinews.com/images/FryBackground.jpg";
 
 export default function Fry() {
   return (
     <>
       <Head />
-      <Header headerBackground="mooreBackground" />
+      <Header headerBackground="fryBackground" />
 
       <br />
       <br />

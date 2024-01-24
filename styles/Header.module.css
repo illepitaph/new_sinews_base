@@ -401,6 +401,10 @@
   background-image: url("../public/images/AlbumBackground.jpg");
 }
 
+.fryBackground {
+  background-image: url("../public/images/FryBackground.jpg");
+}
+
 @media (width: 1280px) and (height: 800px) {
   .siteNav > .dropDown > button,
   .home,
