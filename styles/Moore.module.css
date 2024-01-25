@@ -107,7 +107,7 @@
   }
 }
 
-@media (max-width: 927px) and (orientation: landscape) {
+@media (max-width: 931px) and (orientation: landscape) {
   .poem {
     max-width: 94vw;
     margin-left: 5vw;
