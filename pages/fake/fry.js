@@ -49,7 +49,7 @@ export default function Fry() {
             <i>ll</i>
           </span>{" "}
           <br/> ++ b<span className={styles.uppercase}>ea</span>t
-          <span className={styles.uppercase}>i</span>tude // <br />
+          <span className={styles.uppercase}>i</span>tud<br/>e // <br />
           <br /> n<span className={styles.uppercase}>e</span>t of <br />
           <i>thus</i>
         </span>
