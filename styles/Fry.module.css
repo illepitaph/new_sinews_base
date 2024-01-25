@@ -103,3 +103,13 @@
   .specialWrap {
     white-space: pre-wrap;
   }
+
+  @media (max-width: 431px) and (orientation: portrait) {
+    
+    .specialWrap {
+      max-width: 96vw;
+      margin-left: 3vw;
+    }
+
+  }
+  
