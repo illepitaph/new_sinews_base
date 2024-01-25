@@ -71,6 +71,10 @@
     margin-left: 8vw;
     text-transform: lowercase;
   }
+
+  .poemTitleInverse {
+    color: #00ffff;  
+  }
   
   .poem {
     max-width: 70vw;

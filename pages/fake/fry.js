@@ -5,9 +5,9 @@ import LeftBlackTitle from "../../components/leftBlackTitle.js";
 import Footer from "../../components/footer.js";
 import styles from "../../styles/Fry.module.css";
 Fry.title =
-  "logan fry ~ the once-hot-starred skies ++ the once-winkling irises ++ — new_sinews";
+  "logan fry ~ an If unfixed ++ all kinetic in rectitude ++ — new_sinews";
 Fry.pieceName =
-  "logan fry ~ the once-hot-starred skies ++ the once-winkling irises ++ — new_sinews";
+  "logan fry ~ an If unfixed ++ all kinetic in rectitude ++ — new_sinews";
 Fry.description = "_Logan Fry_poetry_6 POEMS_issue8_";
 Fry.image = "https://www.newnewsinews.com/images/FryBackground.jpg";
 
@@ -160,16 +160,20 @@ export default function Fry() {
       <h3 className={styles.poemTitle}>
         f<br />o<br />{" "}
         <span className={styles.uppercase}>
-          <i>n</i>
+          <span className={styles.poemTitleInverse}>
+            <i>n</i>
+          </span>
         </span>
         <br />d <br />
-        <br />w <span className={styles.uppercase}>i </span>t <i>h</i> <br />
+        <br />w <span className={styles.uppercase}>i </span>
+        <span className={styles.poemTitleInverse}>t</span> <i>h</i> <br />
         <br />p<br />
         <span className={styles.uppercase}>r</span>
         <br />o<br />p<br />
         <i>e</i>
         <br /> <span className={styles.uppercase}>r</span>
-        <br />t<br />y
+        <br />t<br />
+        <span className={styles.poemTitleInverse}>y</span>
       </h3>
       <br />
       <br />
@@ -226,7 +230,7 @@ This embodied disembodied body’s pain.
       <br />
       <h3 className={styles.poemTitle}>
         n<i>u</i> <span className={styles.uppercase}>t</span>
-        <br />s h{" "}
+        <br />s <span className={styles.poemTitleInverse}>h</span>{" "}
         <span className={styles.uppercase}>
           e <i>l</i> l
         </span>
@@ -302,11 +306,15 @@ of’s fruit—, if plucked and absently and under what totalises this so, just 
         <br />
         <i>t</i>
         <br />
-        <span className={styles.uppercase}>i</span>
+        <span className={styles.uppercase}>
+          <span className={styles.poemTitleInverse}>i</span>
+        </span>
         <br />t<br />u<br />
         <i>d</i>
         <br />
-        <span className={styles.uppercase}>e</span>
+        <span className={styles.uppercase}>
+          <span className={styles.poemTitleInverse}>e</span>
+        </span>
       </h3>
       <br />
       <br />
@@ -362,10 +370,11 @@ for apathetic fortune’s low horn tune.`}
 
       <h3 className={styles.poemTitle}>
         net
+        <br />o<span className={styles.poemTitleInverse}>f</span>
         <br />
-        of
-        <br />
-        <i>t h u s</i>
+        <i>
+          t <span className={styles.poemTitleInverse}>h</span> u s
+        </i>
       </h3>
       <br />
       <br />
@@ -406,82 +415,66 @@ That none know of.`}</pre>
       <br />
       <br />
 
-      <h3 className={styles.poemTitle}>apsidal</h3>
+      <h3 className={styles.poemTitle}>
+        va<span className={styles.uppercase}>R</span>
+        <i>i</i>e
+        <span className={styles.uppercase}>
+          <span className={styles.poemTitleInverse}>t</span>
+        </span>
+        y wit
+        <span className={styles.uppercase}>h</span>
+        <span className={styles.poemTitleInverse}>o</span>u
+        <i>
+          <span className={styles.uppercase}>t</span>
+        </i>
+        <br />
+        <br />
+        <span className={styles.poemTitleInverse}>q</span> u{" "}
+        <span className={styles.uppercase}>al</span> i t i{" "}
+        <span className={styles.uppercase}>
+          <i>e</i>
+        </span>{" "}
+        <span className={styles.poemTitleInverse}>s</span>
+      </h3>
       <br />
       <br />
-      <pre className={styles.poem}>{`Winter, the fire of clarity
-The once-hot-starred skies draw closer.
-      
-      
-Winter, the feudal desire
-The once-winkling irises fix, their steel.
-      
-      
-Winter, the hot and cold
-Blood’s Midas cannot ressurect breath.`}</pre>
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-
-      <h3 className={styles.poemTitleTwo}>poem for walter benjamin</h3>
-
-      <br />
-      <br />
-      <pre className={styles.poem}>{`i.
-      
-Portage, being the gross of all marches.
-The reverse military pageant detaches.
-Security sees the cowed parties off to sea.
-That sift over the waves to civilian death.
-
-
-The light, being the water’s excrement:
-Exile’s unction. Nowhere: agapē’s kiss;
-A cool breeze. Bora act. Then, a wind’s
-Marbled blue, and bone. No act. Zone.
-
-
-Wordlessly the sea keeps the occupation,
-Shores open, the prison gates stand agape.
-Impregnable, the Word hold. Portation
-Marches. Sufferings of movement are air.
-
-
-
-ii.
-
-The light, being the water’s excrement: 
-Shores open, the prison gates stand agape.
-Wordlessly the sea keeps the occupation,
-That sift, over the waves, to civilian death.
-
-
-Security sees the cowed parties off to sea.
-Marbled blue, and bone. No act. Zone.
-Impregnable, the Word hold. Portation:
-Exile’s unction. Nowhere: agapē’s kiss;
-
-
-A cool breeze. Bora act. Then, a wind’s
-Levantine. The forward military pageant
-Attaches. Portage being the gross of all
-Marches. Sufferings of movement are air.
-
-
-
-iii.
-
-I keep and you keep, without
-World through
-Revelations, without
-World through
-Reconciliation,
-The violations untouched.`}</pre>
+      <pre className={styles.poem}>{`This perilous venture of wanting
+   Differentiation,
+Coating the labyrinth in blubber
+   Then heating it
+To boiling, the water lifts bodies
+   Unrenderable,
+Gassed and heedless, any rope big enough is an anchor, and long, and the thing is that
+   So too is your foot the rope’s tied to,
+So too are you
+   The place’s anchor, and so too are you, is, your body, the rope,
+The curses
+   Gathering about you like hand
+Over hand
+   Purely mechanical, all kinetic in rectitude, how the slow meat nature bakes will halt
+Itself
+   Even when a choice is made,
+Will flinch at the moment where, the thin air moved, the last cusp
+   Thickens tense for impact
+Because immobile, the hands on a human can
+   Either sense this or else have, in infinitesimal flinching, made it so
+And so don’t sear their force full through
+   And out and onward with interruption but for the met resistance
+On the blade redoubling
+   Its steady force input when free of it,
+No,
+   The human
+Is not sensing
+   Better somehow than the machine,
+It’s not
+   Sensing
+That accounts this difference but
+   A different
+Dimension than sense is,
+   An innate
+Recognition of the self
+   Reflected in the swing of the axe and in the path
+And in the aim.`}</pre>
       <br />
       <br />
       <br />
@@ -490,15 +483,49 @@ The violations untouched.`}</pre>
       <br />
       <br />
       <br />
-
-      <h3 className={styles.poemTitle}>sore</h3>
+      <h3 className={styles.poemTitle}>
+        u<br />{" "}
+        <span className={styles.uppercase}>t
+          <span className={styles.poemTitleInverse}>
+            <br />t
+          </span>
+        </span>
+        <br />e<br />
+        <span className={styles.uppercase}>r</span>
+      </h3>
       <br />
       <br />
-      <pre className={styles.poem}>{`Old wound’s isinglass brightens to dying.
-Life’s memories’ squat.
-Justification would-struck. Could’s mask
-Forecastles, (and mars)
-A counting-out-game. Old can of Christ.`}</pre>
+      <pre className={styles.poem}>{`If the deed is the thought,
+If doing is not then thinking
+If a thought is done or if
+An act is done unthought
+If done to completion of
+A thought, having not Had a thought
+Is having done.
+     If rendering the fat from
+A body is not a thought or
+If the fat is got as the grease
+Of a thought of having done
+The rendering of if into was,
+Then muscle tightening
+By heat or by the intent
+Of flex is
+Of no difference, each is
+An emptiness of act, each
+An a flex,
+An if tipped over.
+     The grease that pulls from
+Edge to edge
+Is the, the written totem,
+Is writing’s totem written
+In the heat
+Of what is not itself
+To be eaten,
+Of what
+makes
+Digestible the think of eating,
+The deed 
+The eating of the thought.`}</pre>
       <br />
       <br />
       <br />
