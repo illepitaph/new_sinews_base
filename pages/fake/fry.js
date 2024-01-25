@@ -271,7 +271,7 @@ of compensation. But between these rank periods of, generally minute, adjustment
 distance that limiting becomes all too knowable a limn for, even if it had not been tallied up as such just yet.
 
 My finest hook has in it a relatively fixed amount of barbs and also at any given moment, number of admirers,
-but if these properties don’t hover in the cognition den I let thoughts int0, they’re done. Not because I won’t
+but if these properties don’t hover in the cognition den I let thoughts into, they’re done. Not because I won’t
 allow them, it’s just I bar from entrance the unknown. You get it. I could tell fast you liked my thumb’s
 bend, but that’s just not enough, see. Who else may have been in
 it, while attending to this so. That’s it. You see
@@ -485,7 +485,8 @@ And in the aim.`}</pre>
       <br />
       <h3 className={styles.poemTitle}>
         u<br />{" "}
-        <span className={styles.uppercase}>t
+        <span className={styles.uppercase}>
+          t
           <span className={styles.poemTitleInverse}>
             <br />t
           </span>
@@ -500,7 +501,8 @@ If doing is not then thinking
 If a thought is done or if
 An act is done unthought
 If done to completion of
-A thought, having not Had a thought
+A thought, having not 
+Had a thought
 Is having done.
      If rendering the fat from
 A body is not a thought or
