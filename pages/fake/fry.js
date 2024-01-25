@@ -48,7 +48,7 @@ export default function Fry() {
           <span className={styles.uppercase}>
             <i>ll</i>
           </span>{" "}
-          ++ b<span className={styles.uppercase}>ea</span>t
+          <br/> ++ b<span className={styles.uppercase}>ea</span>t
           <span className={styles.uppercase}>i</span>tude // <br />
           <br /> n<span className={styles.uppercase}>e</span>t of <br />
           <i>thus</i>
@@ -232,7 +232,7 @@ This embodied disembodied body’s pain.
         n<i>u</i> <span className={styles.uppercase}>t</span>
         <br />s <span className={styles.poemTitleInverse}>h</span>{" "}
         <span className={styles.uppercase}>
-          e <i>l</i> l
+          e <i>l</i><br/> l
         </span>
       </h3>
       <br />
