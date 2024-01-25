@@ -101,6 +101,7 @@
   }
 
   .specialWrap {
+    display:inline-block;
     white-space: pre-wrap;
   }
 
