@@ -34,7 +34,7 @@ export default function Fry() {
           <span className={styles.uppercase}>
             {" "}
             <i>r</i>
-          </span>{" "}
+          </span>{" "}<br/>
           t y
           <br />
           <br />
@@ -66,7 +66,7 @@ export default function Fry() {
           out
           <br />
           qua<span className={styles.uppercase}>L</span>i
-          <span className={styles.uppercase}>t</span> <i>i</i> e s
+          <span className={styles.uppercase}>t</span> <i>i</i> <br/>e s
           <br />
           <br />
           <br />
