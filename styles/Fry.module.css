@@ -99,6 +99,10 @@
     line-height: 2.7em;
     margin-left: 8vw;
   }
+
+  .specialWrap {
+    white-space: pre-wrap;
+  }
   
   @media (width: 1024px) and (height: 1366px) {
     .poem {

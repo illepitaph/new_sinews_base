@@ -237,9 +237,10 @@ This embodied disembodied body’s pain.
       </h3>
       <br />
       <br />
-      <pre
-        className={styles.poemSpecial}
-      >{`I would begin demands to things, illegibly, before facing up to it, a total thrust of life
+      <pre className={styles.poemSpecial}>
+        <span
+          className={styles.specialWrap}
+        >{`I would begin demands to things, illegibly, before facing up to it, a total thrust of life
 as sensible, a front for warding off. The screw that turns time’s thumb is sheared off.
 And I’m fiddling with the lucite’s lock, on a hinge, a deictic If
 that listens for the dimness of a proof’s blood folded up in the crux of a limb.
@@ -290,7 +291,8 @@ air that are so neatly piled as to feel and to jot down as so minor a result as 
 imagine it! so subtly, by the dint
 of texture’s surfacing that 1 is 1, that one over there, that one I briefly saw far off over there, and my palm will
 shade the that of what I saw, its dust upon your palm, that what it is is smiling there—
-of’s fruit—, if plucked and absently and under what totalises this so, just being here.`}</pre>
+of’s fruit—, if plucked and absently and under what totalises this so, just being here.`}</span>
+      </pre>
       <br />
       <br />
       <br />
