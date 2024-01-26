@@ -550,7 +550,7 @@
   }
 }
 
-@media (max-width: 927px) and (orientation: landscape) {
+@media (max-width: 932px) and (orientation: landscape) {
   .iconImage {
     width: 55vw;
     height: 55vh;
