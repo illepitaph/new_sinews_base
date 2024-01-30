@@ -40,11 +40,6 @@
   font-weight: 300;
 }
 
-.nameHeight {
-  display: inline-block;
-  line-height: 7vh;
-}
-
 .rightMargin {
   display: inline-block;
   margin-right: 3vw;
