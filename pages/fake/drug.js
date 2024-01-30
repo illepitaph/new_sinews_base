@@ -15,7 +15,7 @@ export default function Drug() {
   return (
     <>
       <Head />
-      <Header headerBackground="fryBackground" />
+      <Header headerBackground="drugBackground" />
 
       <br />
       <br />
@@ -52,6 +52,7 @@ export default function Drug() {
           <br />
           <span className={styles.specialCursive}>i</span> <br />
           <span className={styles.rightMargin}>
+          <span className={styles.nameShadowUppercase}> _ </span>
             <span className={styles.inverseNameShadow}> u </span>
           </span>
           <br />n<br />
@@ -254,7 +255,7 @@ begin the new germ`}</pre>
       <br />
      
 
-     
+
       <br />
       <br />
       <br />

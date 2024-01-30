@@ -405,6 +405,10 @@
   background-image: url("../public/images/FryBackground.jpg");
 }
 
+.drugBackground {
+  background-image: url("../public/images/DrugBackground.jpg");
+}
+
 @media (width: 1280px) and (height: 800px) {
   .siteNav > .dropDown > button,
   .home,
