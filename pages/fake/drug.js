@@ -5,9 +5,9 @@ import LeftBlackTitle from "../../components/leftBlackTitle.js";
 import Footer from "../../components/footer.js";
 import styles from "../../styles/Drug.module.css";
 Drug.title =
-  "valerie hsiung ~ an If unfixed ++ all kinetic in rectitude ++ — new_sinews";
+  "valerie hsiung ~ my search there is a room around you ++ to make a concertina the shape of a gasket ++ — new_sinews";
 Drug.pieceName =
-  "valerie hsiung ~ an If unfixed ++ all kinetic in rectitude ++ — new_sinews";
+  "valerie hsiung ~ my search there is a room around you ++ to make a concertina the shape of a gasket ++ — new_sinews";
 Drug.description = "_Valerie Hsiung_poetry_9 POEMS_issue8_";
 Drug.image = "https://www.newnewsinews.com/images/FryBackground.jpg";
 
@@ -554,6 +554,56 @@ with or without the only t-shirt`}</pre>
       <br />
       <br />
       <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
       <pre className={styles.poemFour}>{`all I ever wanted was to wake up
 be perfect
 be mean
@@ -635,6 +685,56 @@ will fell another before long
 I bleed onto the stairs
 and then trays rush`}
       </pre>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
       <br />
       <br />
       <br />
