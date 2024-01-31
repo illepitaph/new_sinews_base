@@ -250,7 +250,7 @@ the child
 cannot be mistaken
 for beginner’s luck
 they will have their breath mints
-they will breath onto the window
+they will breathe onto the window
 begin the new germ`}</pre>
       <br />
       <br />
