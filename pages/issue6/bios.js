@@ -26,7 +26,7 @@ export default function Issue6Bios() {
       <StandardProse>
         <br />
         <br />
-        <span className={styles.grayInverse}>KIRSTEN IHNS</span> is a poet and
+        <span className={styles.grayInverse}>KAI IHNS</span> is a poet and
         filmmaker finishing up her PhD at the University of Chicago, where she
         studies film and contemporary experimental poetics. She also works as an
         editor, and as half of the video collective dunt project. She lives in
