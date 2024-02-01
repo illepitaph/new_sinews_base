@@ -4,10 +4,10 @@ import RightGrayTitle from "../../components/rightGrayTitle.js";
 import CenterBlackTitle from "../../components/centerBlackTitle.js";
 import Footer from "../../components/footer.js";
 import styles from "../../styles/Ihns.module.css";
-Ihns.title = "kirsten_ihns ~ 6_poems — new_sinews";
+Ihns.title = "kai_ihns ~ 6_poems — new_sinews";
 Ihns.pieceName =
-  "kirsten_ihns ~ all_properties_of_the_house_burning ++ in_which_you_are_appearing_as_its_shape ++ — new_sinews";
-Ihns.description = "_Kirsten Ihns_poetry_6 POEMS_issue6_";
+  "kai_ihns ~ all_properties_of_the_house_burning ++ in_which_you_are_appearing_as_its_shape ++ — new_sinews";
+Ihns.description = "_Kai Ihns_poetry_6 POEMS_issue6_";
 Ihns.image = "https://www.newnewsinews.com/images/IhnsBackground.jpg";
 
 export default function Ihns() {
@@ -43,13 +43,9 @@ export default function Ihns() {
 
       <RightGrayTitle>
         <span className={styles.inverseNameShadow}>
-          k<span className={styles.mintAlternate}>i </span>
-          <span className={styles.nameShadow}>r</span>-<br />
-          <br />s<span className={styles.mintAlternateUppercase}>t</span>
-          <i>e</i>{" "}
-          <span className={styles.nameShadow}>
-            <i>n</i>
-          </span>
+          k <span className={styles.nameShadow}>a </span>
+          <span className={styles.mintAlternate}>i </span>
+          <br />
         </span>
         <br />
         <br />
