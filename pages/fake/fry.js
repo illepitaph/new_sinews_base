@@ -65,7 +65,7 @@ export default function Fry() {
           <br />
           out
           <br />
-          qua<span className={styles.uppercase}>L</span>i
+          qu<span className={styles.uppercase}>a L</span>i
           <span className={styles.uppercase}>t</span> <i>i</i> <br/>e s
           <br />
           <br />
