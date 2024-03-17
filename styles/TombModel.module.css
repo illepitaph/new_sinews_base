@@ -269,6 +269,14 @@
   }
 }
 
+@media (max-width: 659px) and (orientation: landscape) {
+
+  .carousel {
+    margin-top:20vh;
+  }
+
+}
+
 @media (width: 540px) and (height: 720px) and (orientation: portrait) {
   .carousel {
     height: 190vh;
