@@ -206,7 +206,7 @@
   }
 }
 
-@media (max-width: 927px) and (orientation: landscape) {
+@media (max-width: 933px) and (orientation: landscape) {
   .carousel {
     height: 220vh;
   }
@@ -288,7 +288,7 @@
   }
 }
 
-@media (max-width: 429px) and (orientation: portrait) {
+@media (max-width: 431px) and (orientation: portrait) {
   .link {
     font-size: 2rem;
   }
@@ -361,6 +361,12 @@
   }
 }
 
+@media (max-width: 321px) and (orientation: portrait) {
+  .specialDateCitation {
+    font-size: 0.45rem;
+  }
+}
+
 @media (max-width: 281px) and (orientation: portrait) {
   .carousel {
     height: 250vh;
@@ -377,10 +383,6 @@
   .roughAltText,
   .roughAltTextTwo {
     font-size: 1.3rem;
-  }
-
-  .specialDateCitation {
-    font-size: 0.45rem;
   }
 }
 
