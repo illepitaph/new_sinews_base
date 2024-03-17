@@ -230,6 +230,11 @@
 }
 
 @media (max-width: 813px) and (orientation: landscape) {
+
+  .carousel {
+    margin-top:15vh;
+  }
+
   .carousel > .prev {
     top: 4%;
   }
@@ -252,15 +257,15 @@
   }
 }
 
-@media (max-width: 769px) and (orientation: portrait) {
-  .roughAltTextTwo {
-    font-size: 3.2rem;
-  }
-}
-
 @media (max-width: 801px) and (orientation: landscape) {
   .carousel {
     height: 270vh;
+  }
+}
+
+@media (max-width: 769px) and (orientation: portrait) {
+  .roughAltTextTwo {
+    font-size: 3.2rem;
   }
 }
 
