@@ -6,11 +6,11 @@ import Header from "../../components/header.js";
 import Footer from "../../components/footer.js";
 import styles from "../../styles/TombModel.module.css";
 TombModelCover.title =
-  "brandon_shimoda ~ excerpts_from_TOMB_MODEL_OF_A_NOBEL'S_HOUSE — new_sinews";
+  "brandon_shimoda ~ excerpts_from_TOMB_MODEL_OF_A_NOBLE'S_HOUSE — new_sinews";
 TombModelCover.pieceName =
-  "brandon_shimoda ~ excerpts_from_TOMB_MODEL_OF_A_NOBEL'S_HOUSE — new_sinews";
+  "brandon_shimoda ~ excerpts_from_TOMB_MODEL_OF_A_NOBLE'S_HOUSE — new_sinews";
 TombModelCover.description =
-  "_Brandon Shimoda_excerpts from ‘tomb model of a nobel’s house’_new sinews_issue2_";
+  "_Brandon Shimoda_excerpts from ‘tomb model of a noble’s house’_new sinews_issue2_";
 TombModelCover.image = "https://www.newnewsinews.com/images/TombBackground.jpg";
 
 export default function TombModelCover() {
