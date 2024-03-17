@@ -8,10 +8,10 @@ import Footer from "../../components/footer.js";
 import styles from "../../styles/Plane.module.css";
 import PlaneCover from "../../public/images/PlaneCover.jpg";
 import PlaneCoverTwo from "../../public/images/PlaneCoverTwo.jpg";
-import SortaOne from "../../public/images/SortaOne.jpg";
-import SortaTwo from "../../public/images/SortaTwo.jpg";
-import NeptuneOne from "../../public/images/NeptuneOne.jpg";
-import NeptuneTwo from "../../public/images/NeptuneTwo.jpg";
+import WeeOne from "../../public/images/WeeOne.jpg";
+import WeeTwo from "../../public/images/WeeTwo.jpg";
+import QuadraticOne from "../../public/images/QuadraticOne.jpg";
+import QuadraticTwo from "../../public/images/QuadraticTwo.jpg";
 import PresentOne from "../../public/images/PresentOne.jpg";
 import PresentTwo from "../../public/images/PresentTwo.jpg";
 Plane.title = "steve barbaro — plane of consummate finitude — new_sinews";
@@ -77,16 +77,16 @@ export default function Plane() {
         <br />
         <div className={styles.bookInnerContainerTwo}>
           <Image
-            src={SortaOne}
+            src={WeeOne}
             width={600}
             height={450}
-            alt="Picture of the poem SORTA from the book PLANE OF CONSUMMATE FINITUDE by Steve Barbaro"
+            alt="Picture of the poem WEE from the book PLANE OF CONSUMMATE FINITUDE by Steve Barbaro"
           />
           <Image
-            src={SortaTwo}
+            src={WeeTwo}
             width={600}
             height={450}
-            alt="Picture of the poem SORTA from the book PLANE OF CONSUMMATE FINITUDE by Steve Barbaro"
+            alt="Picture of the poem WEE from the book PLANE OF CONSUMMATE FINITUDE by Steve Barbaro"
           />
         </div>
         <br />
@@ -132,16 +132,16 @@ export default function Plane() {
       <br />
       <div className={styles.bookInnerContainerThree}>
         <Image
-          src={NeptuneOne}
+          src={QuadraticOne}
           width={600}
           height={450}
-          alt="Picture of the poem THE BODY ACCORDING TO NEPTUNE from the book PLANE OF CONSUMMATE FINITUDE by Steve Barbaro"
+          alt="Picture of the poem QUADRATIC from the book PLANE OF CONSUMMATE FINITUDE by Steve Barbaro"
         />
         <Image
-          src={NeptuneTwo}
+          src={QuadraticTwo}
           width={600}
           height={450}
-          alt="Picture of the poem THE BODY ACCORDING TO NEPTUNE from the book PLANE OF CONSUMMATE FINITUDE by Steve Barbaro"
+          alt="Picture of the poem QUADRATIC from the book PLANE OF CONSUMMATE FINITUDE by Steve Barbaro"
         />
       </div>
       <br />
