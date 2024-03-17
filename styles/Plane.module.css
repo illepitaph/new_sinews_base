@@ -1,0 +1,356 @@
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-moz-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-o-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-ms-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.titleShadow {
+  display: inline-block;
+  margin-top: -14vh;
+  font-size: 2.6rem;
+  color: snow;
+  text-shadow: 2px 2px black, 4px 4px #c0a5a5, 6px 6px black, 8px 8px white,
+    10px 10px black, 12px 12px 26px black;
+  letter-spacing: 0.7rem;
+}
+
+.cursive {
+  font-size: 8rem;
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-weight: 300;
+  color: #c0a5a5;
+  text-shadow: 1px 2px black, 3px 4px white, 4px 4px black;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.uppercaseCursive {
+  font-size: 5.5rem;
+  text-transform: uppercase;
+}
+
+.bookInnerContainer {
+  transform: rotate(-2deg);
+}
+
+.bookInnerContainerTwo {
+  transform: rotate(2deg);
+}
+
+.bookInnerContainerThree {
+  max-width: 90vw;
+  margin-left: 7vw;
+  transform: rotate(-2deg);
+}
+
+.bookInnerContainerFour {
+  max-width: 90vw;
+  margin-left: 7vw;
+  transform: rotate(2deg);
+}
+
+.bookInnerContainerFive {
+  max-width: 99vw;
+  margin-left: 7vw;
+}
+
+.bookName {
+  text-shadow: 2px 3px white, 3px 4px black;
+  text-transform: uppercase;
+  font-style: italic;
+  letter-spacing: 0.9rem;
+}
+
+.authorName,
+.bookClassification {
+  display: inline-block;
+  color: white;
+  text-shadow: 1px 1px black, 4px 4px 16px black;
+  letter-spacing: 0.1rem;
+  transform: rotate(-2deg);
+}
+
+.orderNow {
+  display: inline-block;
+  font-size: 3rem;
+  color: white;
+  text-shadow: 1px 1px black, 2px 2px white, 3px 3px black, 4px 4px white,
+    5px 5px black, 6px 6px white, 7px 7px 16px black;
+  letter-spacing: 0.1rem;
+  transform: rotate(2deg);
+}
+
+.authorName,
+.orderNow {
+  transition: 1s letter-spacing;
+  cursor: pointer;
+}
+
+.authorName:hover,
+.orderNow:hover {
+  letter-spacing: 0.7rem;
+}
+
+.bookClassification {
+  letter-spacing: -0.2rem;
+}
+
+.bookDescription {
+  max-width: 40vw;
+  margin-left: 50vw;
+  font-family: "base-9-sans", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+  font-size: 1.2rem;
+  text-shadow: 2px 2px gainsboro;
+  letter-spacing: -0.02rem;
+  line-height: 1.7em;
+}
+
+.bookCredits {
+  max-width: 40vw;
+  margin-left: 7vw;
+  font-family: "base-9-sans", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+  font-size: 1.2rem;
+  text-shadow: 2px 2px gainsboro;
+  letter-spacing: -0.02rem;
+  line-height: 1.7em;
+}
+
+.publicationLink {
+  color: white;
+  text-shadow: 1px 1px black, 2px 2px white, 3px 3px 12px black;
+  cursor: pointer;
+}
+
+.publicationLink:hover {
+  color: gainsboro;
+}
+
+.planeName {
+  color: white;
+  text-shadow: 1px 1px 16px black;
+  text-transform: uppercase;
+}
+
+@media (width: 1280px) and (height: 853px) {
+  .bookInnerContainer {
+    margin-left: 4vw;
+  }
+
+  .bookInnerContainerTwo,
+  .bookInnerContainerThree,
+  .bookInnerContainerFour,
+  .bookInnerContainerFive {
+    margin: 0 auto;
+  }
+}
+
+@media (width: 1280px) and (height: 800px) {
+  .bookInnerContainer {
+    margin-left: 4vw;
+  }
+
+  .bookInnerContainerTwo,
+  .bookInnerContainerThree,
+  .bookInnerContainerFour,
+  .bookInnerContainerFive {
+    margin: 0 auto;
+  }
+}
+
+@media (width: 1194px) and (height: 834px) {
+  .bookInnerContainer {
+    margin-left: 4vw;
+  }
+
+  .bookInnerContainerTwo,
+  .bookInnerContainerThree,
+  .bookInnerContainerFour,
+  .bookInnerContainerFive {
+    margin: 0 auto;
+  }
+}
+
+@media (width: 1180px) and (height: 820px) {
+  .bookInnerContainer {
+    margin-left: 4vw;
+  }
+
+  .bookInnerContainerTwo,
+  .bookInnerContainerThree,
+  .bookInnerContainerFour,
+  .bookInnerContainerFive {
+    margin: 0 auto;
+  }
+}
+
+@media (width: 1080px) and (height: 810px) {
+  .bookInnerContainer {
+    margin-left: 4vw;
+  }
+
+  .bookInnerContainerTwo,
+  .bookInnerContainerThree,
+  .bookInnerContainerFour,
+  .bookInnerContainerFive {
+    margin: 0 auto;
+  }
+}
+
+@media (width: 1024px) and (height: 1366px) {
+  .bookInnerContainer {
+    margin-left: 4vw;
+  }
+
+  .bookInnerContainerTwo,
+  .bookInnerContainerThree,
+  .bookInnerContainerFour,
+  .bookInnerContainerFive {
+    margin: 0 auto;
+  }
+}
+
+@media (width: 1024px) and (height: 768px) {
+  .bookInnerContainer {
+    margin-left: 4vw;
+  }
+
+  .bookInnerContainerTwo,
+  .bookInnerContainerThree,
+  .bookInnerContainerFour,
+  .bookInnerContainerFive {
+    margin: 0 auto;
+  }
+}
+
+@media (width: 1024px) and (height: 600px) {
+  .bookInnerContainer {
+    margin-left: 4vw;
+  }
+
+  .bookInnerContainerTwo,
+  .bookInnerContainerThree,
+  .bookInnerContainerFour,
+  .bookInnerContainerFive {
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 933px) and (orientation: landscape) {
+  .titleShadow {
+    margin-top: 11vh;
+  }
+
+  .bookInnerContainer {
+    margin-left: 4vw;
+  }
+
+  .bookInnerContainerTwo,
+  .bookInnerContainerThree,
+  .bookInnerContainerFour,
+  .bookInnerContainerFive {
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 913px) and (orientation: portrait) {
+  .bookDescription,
+  .bookCredits {
+    max-width: 60vw;
+  }
+
+  .bookDescription {
+    margin-left: 25vw;
+  }
+
+  .bookInnerContainer {
+    margin-left: 4vw;
+  }
+
+  .bookInnerContainerTwo,
+  .bookInnerContainerThree,
+  .bookInnerContainerFour,
+  .bookInnerContainerFive {
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 933px) and (orientation: landscape) {
+  .titleShadow {
+    margin-top: 18vh;
+  }
+}
+
+@media (max-width: 431px) and (orientation: portrait) {
+  .titleShadow {
+    font-size: 1.9rem;
+  }
+
+  .orderNow {
+    line-height: 4rem;
+  }
+}
+
+@media (max-width: 391px) and (orientation: portrait) {
+  .titleShadow {
+    letter-spacing: 1rem;
+    line-height: 3.6rem;
+  }
+}
+
+@media (max-width: 321px) and (orientation: portrait) {
+  .titleShadow {
+    letter-spacing: 0.7rem;
+  }
+}
+
+@media (max-width: 281px) and (orientation: portrait) {
+  .titleShadow {
+    letter-spacing: 0.4rem;
+    line-height: 4.2rem;
+  }
+}

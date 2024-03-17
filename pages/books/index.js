@@ -1,16 +1,17 @@
 import Head from "next/head";
 import Link from "next/link";
+import Image from "next/image";
 import React, { useState } from "react";
-import Footer from "../components/footer.js";
-import styles from "../styles/About.module.css";
-import { imageText } from "../GalleryData/ImageBoxCarouselData.js";
-About.title = "about — new_sinews";
-About.pieceName = "new_sinews about page";
-About.description =
-  "new_sinews ~ late empire new writing ~ submissions info + imagistic mosaistry";
-About.image = "https://www.newnewsinews.com/images/ArchNewSinew.jpg";
+import RightBlackTitle from "../../components/rightBlackTitle.js";
+import Footer from "../../components/footer.js";
+import styles from "../../styles/Books.module.css";
+import PlaneCover from "../../public/images/PlaneCover.jpg";
+Books.title = "books — new_sinews";
+Books.pieceName = "new_sinews books page";
+Books.description = "new_sinews ~ late empire new writing ~ books";
+Books.image = "https://www.newnewsinews.com/images/Books.jpg";
 
-export default function About() {
+export default function Books() {
   const [issueSevenDropdownClass, setIssueSevenDropdownClass] =
     useState("issueContentClosed");
   const [issueSixDropdownClass, setIssueSixDropdownClass] =
@@ -25,25 +26,6 @@ export default function About() {
     useState("issueContentClosed");
   const [issueOneDropdownClass, setIssueOneDropdownClass] =
     useState("issueContentClosed");
-
-  const [textArrayIndex, setTextArrayIndex] = useState(0);
-  function prevText() {
-    if (textArrayIndex > 0) {
-      setTextArrayIndex(textArrayIndex - 1);
-    } else {
-      setTextArrayIndex(imageText.length - 1);
-    }
-  }
-
-  function nextText() {
-    if (textArrayIndex < 5) {
-      setTextArrayIndex(textArrayIndex + 1);
-    } else {
-      setTextArrayIndex(0);
-    }
-  }
-
-  const RawText = imageText[textArrayIndex]["textName"];
 
   return (
     <>
@@ -118,8 +100,8 @@ export default function About() {
                 </Link>
                 <Link href="/issue6/ihns" passHref>
                   <button>
-                    kai ihns_all properties of the house burning ++ in which
-                    you are appearing as its shape ++
+                    kai ihns_all properties of the house burning ++ in which you
+                    are appearing as its shape ++
                   </button>
                 </Link>
                 <Link href="/issue6/castingoff" passHref>
@@ -434,97 +416,75 @@ export default function About() {
             <Link href="/" passHref>
               <button className={styles.home}>new sinews</button>
             </Link>
+            <Link href="/about" passHref>
+              <button className={styles.about}>about</button>
+            </Link>
           </nav>
         </div>
       </section>
-      <section className={styles.middle}>
-        <p>
-          <span className={styles.darkTypeface}>
-            edited +++ programmed +++ designed by :: steve barbaro
+
+      <RightBlackTitle>
+        <span className={styles.titleShadow}>
+          n
+          <span className={styles.uppercase}>
+            <i>e</i>
           </span>
-        </p>
-
-        <div onClick={nextText}>
-          <RawText />
-        </div>
-
-        <p>
-          so ... <i>new_sinews</i> is now both a magazine and a book
-          imprint 
-          <br />
-          <br />
-          <br />
-          and wouldn&#8217;t you know it but book submissions are ... voila ... OPEN
-          <br/><br/>
-          <span className={styles.darkTypeface}>book guidelines</span> :
-          <br />
-          <br />
-          <i>new_sinews</i> aims to generate sumptuously brainy books of an uncommon scale + proportion
-          <br />
-          <br />
-          <br />
-          <i>new_sinews</i> books shall be as deliberately designed + edited as its eponymous magazine itself
-          <br />
-          <br />
-          <br />
-          there are no real genre limitations—novels + short story collections + books of poems + fits of hybridity are all apposite
-          <br />
-          <br />
-          <br />
-          manuscripts cultivating new correspondences between text + image are especially appropriate... plus: nonfiction manuscripts are welcome too ... but if the prospective book is in fact a nonfiction manuscript it would have to be
-          uniquely intellectually substantive and or imaginative
-          <br />
-          <br />
-          <br />
-          and there are no specific page or word count expectations beyond the expectation that the submitted documents are full-length (ie NOT chapbook) manuscripts 
-          <br />
-          <br />
-          <br />
-          of course: should a would-be book-submitter need familiarization with the myriad types of work <i>new_sinews</i> publishes, well ... such a would-be new_sinews-eee need only peruse the issue-links looming eminently clickably atop this web application
-          <br />
-          <br />
-          <br />
-         
-          so ... there you go ... if these seem like meetable objectives please send your concomitant <i>full</i> completed manuscript in a <code>word DOC</code> along with a cover letter describing the project to be considered to:
-        </p>
-
-        <p>
-          <a href="mailto:newsinewsmag@gmail.com">newsinewsmag@gmail.com</a>
-        </p>
-
-        <p>
-
-        <span className={styles.darkTypeface}>magazine guidelines</span> :
-
-        </p>
-        
-        <p>
-        meantime ... as for the magazine ... submissions remain open although please be warned: the genesis of issue8 is taking a backseat to the expansion of <i>new_sinews</i> into the realms of book publication
-        </p>
-
-        <p>
-
-          with that in mind ... per usual ... please send poems & fiction (very much open to speculative/fantasy) or even
-          aggressively creative nonfiction in a <code>word DOC</code> to be
-          considered to:
-        </p>
-
-        <p>
-          <a href="mailto:newsinewsmag@gmail.com">newsinewsmag@gmail.com</a>
-        </p>
-
-        <p>as always—looking for diverse voices & dynamic styles</p>
-
-        <p>generally: striving to make unexpected juxtapositions</p>
-
-        <p>especially: seeking writing that is historically keen</p>
-      </section>
-
-      <div onClick={prevText}>
-        <RawText />
-        <div className={styles.separator} />
-        <RawText />
-      </div>
+          w_ s<span className={styles.cursive}>i</span>
+          <span className={styles.uppercase}>n</span>
+          <span className={styles.cursive}>e</span>w<i>s</i>
+          <br /> e<span className={styles.cursive}> d</span>i
+          <span className={styles.uppercase}>t</span>
+          <span className={styles.cursive}>i</span>o
+          <span className={styles.uppercase}>
+            <i>n</i>
+          </span>
+          <span className={styles.cursive}>
+            <span className={styles.uppercaseCursive}> s</span>
+          </span>
+        </span>
+      </RightBlackTitle>
+      <RightBlackTitle>
+        <br />
+        <br />
+        <Link href="/books/plane" passHref>
+          <div className={styles.bookInnerContainer}>
+            <Image
+              src={PlaneCover}
+              width={1200}
+              height={850}
+              alt="Cover of the book of poems titled PLANE OF CONSUMMATE FINITUDE by Steve Barbaro"
+            />
+          </div>
+        </Link>
+        <br />
+        <br />
+        <span className={styles.authorName}>
+          S<span className={styles.uppercase}>t</span>e
+          <span className={styles.uppercase}>v</span>e B
+          <span className={styles.uppercase}>a</span>rb
+          <span className={styles.uppercase}>a</span>ro
+        </span>
+        <br />
+        <br />
+        <span className={styles.bookName}>Plane of Consummate Finitude</span>
+        <br />
+        <br />
+        <span className={styles.bookClassification}>
+          ( Po<span className={styles.uppercase}>e</span>m
+          <span className={styles.uppercase}>s</span> +++ P
+          <span className={styles.uppercase}>h</span>o
+          <span className={styles.uppercase}>t</span>omo
+          <span className={styles.uppercase}>nta</span>ge )
+        </span>
+      </RightBlackTitle>
+      <p className={styles.bookDescription}>
+        <span className={styles.planeName}>Plane of Consummate Finitude</span>{" "}
+        traffics categorically in the very defiance of categories. A collection
+        of poems backdropped by a series of photomontage refrains, Steve
+        Barbaro&rsquo;s debut wanders from origins all the way back up to
+        eternities in the midst of pitting eloquence against eloquence&rsquo;s
+        own worst enemies.
+      </p>
 
       <Footer />
     </>

@@ -91,7 +91,7 @@ export default function Header(props) {
               </Link>
               <Link href="/issue6/ihns" passHref>
                 <button>
-                  kirsten ihns_all properties of the house burning ++ in which
+                  kai ihns_all properties of the house burning ++ in which
                   you are appearing as its shape ++
                 </button>
               </Link>

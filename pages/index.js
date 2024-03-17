@@ -101,7 +101,7 @@ export default function Home() {
                   </Link>
                   <Link href="/issue6/ihns" passHref>
                     <button>
-                      kirsten ihns_all properties of the house burning ++ in
+                      kai ihns_all properties of the house burning ++ in
                       which you are appearing as its shape ++
                     </button>
                   </Link>
