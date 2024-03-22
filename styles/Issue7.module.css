@@ -290,7 +290,7 @@
   }
 }
 
-@media (max-width: 927px) and (orientation: landscape) {
+@media (max-width: 933px) and (orientation: landscape) {
   .pageTitle,
   .pageTitleTwo {
     font-size: 1.7rem;
