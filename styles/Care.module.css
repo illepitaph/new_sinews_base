@@ -97,7 +97,7 @@
   }
 }
 
-@media (max-width: 927px) and (orientation: landscape) {
+@media (max-width: 933px) and (orientation: landscape) {
   .titleShadow {
     font-size: 3.4rem;
     letter-spacing: 0.7rem;
