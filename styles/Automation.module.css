@@ -36,7 +36,7 @@
   letter-spacing: 2rem;
 }
 
-@media (max-width: 927px) and (orientation: landscape) {
+@media (max-width: 933px) and (orientation: landscape) {
   .duskShadow {
     font-size: 4.4rem;
     letter-spacing: 1.1rem;
@@ -84,7 +84,7 @@
   }
 }
 
-@media (max-width: 429px) and (orientation: portrait) {
+@media (max-width: 431px) and (orientation: portrait) {
   .duskShadow {
     font-size: 2.4rem;
     letter-spacing: 0.8rem;
