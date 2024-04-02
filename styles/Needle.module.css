@@ -43,7 +43,7 @@
   text-transform: uppercase;
 }
 
-@media (max-width: 927px) and (orientation: landscape) {
+@media (max-width: 933px) and (orientation: landscape) {
   .titleShadow {
     font-size: 3.8rem;
   }
@@ -75,7 +75,7 @@
   }
 }
 
-@media (max-width: 429px) and (orientation: portrait) {
+@media (max-width: 431px) and (orientation: portrait) {
   .shadowOne {
     font-size: 1.3rem;
   }
@@ -88,7 +88,7 @@
   }
 }
 
-@media (max-width: 321px) and (orientation: portrait) {
+@media (max-width: 354px) and (orientation: portrait) {
   .titleShadow {
     font-size: 1.6rem;
   }
