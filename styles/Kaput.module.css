@@ -132,7 +132,7 @@
   animation: fadeIn ease-in 0.7s;
 }
 
-@media (max-width: 927px) and (orientation: landscape) {
+@media (max-width: 933px) and (orientation: landscape) {
   .carousel > .prev,
   .carousel > .next {
     font-size: 3rem;
@@ -211,7 +211,7 @@
   }
 }
 
-@media (max-width: 429px) and (orientation: portrait) {
+@media (max-width: 431px) and (orientation: portrait) {
   .container {
     background-position: center;
     background-size: contain;
