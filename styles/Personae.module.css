@@ -93,7 +93,7 @@
   text-align: center;
 }
 
-@media (max-width: 927px) and (orientation: landscape) {
+@media (max-width: 933px) and (orientation: landscape) {
 
   .margin {
     margin: -10vh 0 0 7vw;
@@ -244,27 +244,15 @@
 
 }
 
-@media (max-width: 321px) and (orientation: portrait) {
+@media (max-width: 376px) and (orientation: portrait) {
   
-
-  .faintShadowMain, .faintShadowMainTwo, .faintShadowMainThree, .faintShadowMainFour {
-    font-size: 2rem;
+  .margin {
+    margin-top:-5vh;
   }
-
-  .uppercaseFaintShadow,
-  .uppercaseAlternateTitleColor,
-  .faintShadowAncillary,
-  .alternateTitleColorGray {
-    font-size: 2.3rem;
-  }
-
-  .authorName {
-    font-size: 3.2rem;
-  }
-
+  
 }
 
-@media (max-width: 281px) and (orientation: portrait) {
+@media (max-width: 321px) and (orientation: portrait) {
   
 
   .faintShadowMain, .faintShadowMainTwo, .faintShadowMainThree, .faintShadowMainFour {
@@ -283,4 +271,26 @@
   }
 
 }
+
+@media (max-width: 281px) and (orientation: portrait) {
+  
+
+  .faintShadowMain, .faintShadowMainTwo, .faintShadowMainThree, .faintShadowMainFour {
+    font-size: 1.6rem;
+  }
+
+  .uppercaseFaintShadow,
+  .uppercaseAlternateTitleColor,
+  .faintShadowAncillary,
+  .alternateTitleColorGray {
+    font-size: 1.8rem;
+  }
+
+  .authorName {
+    font-size: 2.6rem;
+  }
+
+}
+
+
 
