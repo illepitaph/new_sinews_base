@@ -63,7 +63,7 @@
   }
 }
 
-@media (max-width: 835px) and (orientation: portrait) {
+@media (max-width: 854px) and (orientation: portrait) {
   .poem {
     margin-left: 6vw;
   }
