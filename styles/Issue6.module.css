@@ -140,7 +140,7 @@
   }
 }
 
-@media (max-width: 932px) and (orientation: landscape) {
+@media (max-width: 933px) and (orientation: landscape) {
   .pageTitle {
     font-size: 2.4rem;
   }
@@ -306,6 +306,17 @@
     column-gap: 4vw;
     row-gap: 5vw;
   }
+}
+
+@media (max-width: 375px) and (orientation: portrait) {
+  .pageTitle {
+    font-size: 2.9rem;
+  }
+
+  .workLink {
+    font-size: 1rem;
+  }
+
 }
 
 @media (max-width: 281px) and (orientation: portrait) {
