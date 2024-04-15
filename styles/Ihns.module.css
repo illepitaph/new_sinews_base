@@ -142,3 +142,9 @@
     margin-left: 1vw;
   }
 }
+
+@media (max-width: 281px) and (orientation: portrait) {
+  .poem {
+    font-size: 0.44rem;
+  }
+}
