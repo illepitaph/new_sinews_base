@@ -45,4 +45,9 @@
   .title {
     font-size: 0.78rem;
   }
+
+  .compactProse {
+    max-width: 35vw;
+    margin-left: 3.5vw;
+  }
 }

@@ -323,4 +323,9 @@
   .issueContentsTwo {
     bottom: 0;
   }
+
+  .workLink {
+    font-size: 0.78rem;
+  }
+
 }
