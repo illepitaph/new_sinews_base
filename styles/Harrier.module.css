@@ -99,7 +99,7 @@
   text-shadow: 3px 3px 10px black;
 }
 
-@media (max-width: 927px) and (orientation: landscape) {
+@media (max-width: 932px) and (orientation: landscape) {
   .compactProse,
   .compactProseTwo {
     max-width: 95vw;
