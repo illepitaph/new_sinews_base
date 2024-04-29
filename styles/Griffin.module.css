@@ -125,7 +125,7 @@
   }
 }
 
-@media (max-width: 834px) and (orientation: portrait) {
+@media (max-width: 854px) and (orientation: portrait) {
   .poem {
     font-size: 0.65rem;
   }
