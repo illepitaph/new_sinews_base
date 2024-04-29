@@ -101,7 +101,7 @@
   }
 }
 
-@media (max-width: 927px) and (orientation: landscape) {
+@media (max-width: 932px) and (orientation: landscape) {
   .poem {
     font-size: 0.77rem;
   }
@@ -196,7 +196,7 @@
   }
 }
 
-@media (max-width: 429px) and (orientation: portrait) {
+@media (max-width: 431px) and (orientation: portrait) {
   .poem {
     font-size: 0.37rem;
   }
