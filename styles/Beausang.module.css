@@ -70,7 +70,7 @@
   line-height: 1.2rem;
 }
 
-@media (max-width: 927px) and (orientation: landscape) {
+@media (max-width: 932px) and (orientation: landscape) {
   .compactProse {
     max-width: 75vw;
     margin-left: 3vw;
@@ -106,7 +106,7 @@
   }
 }
 
-@media (max-width: 429px) and (orientation: portrait) {
+@media (max-width: 431px) and (orientation: portrait) {
   .leftMarginPusher {
     letter-spacing: 0;
   }
