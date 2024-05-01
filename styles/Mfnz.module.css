@@ -136,7 +136,7 @@
   margin-left: 41vw;
 }
 
-@media (max-width: 927px) and (orientation: landscape) {
+@media (max-width: 932px) and (orientation: landscape) {
   .blackShadow,
   .redShadow,
   .inverse,
