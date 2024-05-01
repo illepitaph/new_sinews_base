@@ -108,7 +108,7 @@
   }
 }
 
-@media (max-width: 927px) and (orientation: landscape) {
+@media (max-width: 932px) and (orientation: landscape) {
   .faintShadow,
   .alternateTitleColor {
     font-size: 3.5rem;
