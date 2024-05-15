@@ -61,7 +61,7 @@ export default function Plane() {
         <br />
         <br />
         <a
-          href="https://www.stevebarbaro.com/"
+          href="https://newsinews.bigcartel.com/product/plane-of-consummate-finitude"
           target="_blank"
           rel="noreferrer"
         >
