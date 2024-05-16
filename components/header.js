@@ -411,7 +411,7 @@ export default function Header(props) {
             }}
           >
             <Link href="/books" passHref>
-              <button>books</button>
+              <button><span className={styles.uppercase}>books</span></button>
             </Link>
             <div className={styles[booksDropdownClass]}>
               <Link href="/books/plane" passHref>

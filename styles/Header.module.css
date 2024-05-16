@@ -130,6 +130,12 @@
   text-shadow: 1px 1px gray;
 }
 
+.uppercase {
+  color:white;
+  text-transform: uppercase;
+  text-shadow: 2px 1px gray;
+}
+
 .issueContentOpen {
   display: flex;
   flex-flow: column wrap;
