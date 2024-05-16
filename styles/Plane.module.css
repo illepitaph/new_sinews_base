@@ -340,6 +340,10 @@
     letter-spacing: 1rem;
     line-height: 3.6rem;
   }
+
+  .titleShadow {
+    margin-top: 10vh;
+  }
 }
 
 @media (max-width: 321px) and (orientation: portrait) {
