@@ -96,7 +96,9 @@
   background-color: #c0a5a5;
   color: white;
   text-shadow: 1px 2px black, 2px 3px white;
-  padding: 12px 13px;
+  padding: 9px 6px;
+  opacity:0.9;
+  border:2px groove white;
   border-radius: 45px;
   text-transform: uppercase;
   letter-spacing: 1.5px;
@@ -240,7 +242,18 @@
   .siteNav > .dropDown > button,
   .home,
   .about {
-    font-size: 0.67rem;
+    font-size: 0.97rem;
+    padding:6px 5px;
+  }
+}
+
+@media (width: 1280px) and (height: 853px) {
+
+  .siteNav > .dropDown > button,
+  .home,
+  .about {
+    font-size: 0.97rem;
+    padding:6px 5px;
   }
 }
 
@@ -248,7 +261,8 @@
   .siteNav > .dropDown > button,
   .home,
   .about {
-    font-size: 0.75rem;
+    font-size: 0.97rem;
+    padding:6px 5px;
   }
 }
 
@@ -256,7 +270,8 @@
   .siteNav > .dropDown > button,
   .home,
   .about {
-    font-size: 0.67rem;
+    font-size: 0.87rem;
+    padding:6px 2px;
   }
 }
 
@@ -264,12 +279,12 @@
   .siteNav > .dropDown > button,
   .home,
   .about {
-    padding: 11px 6px;
-    opacity: 0.9;
+    font-size: 0.77rem;
+    padding:6px 5px;
   }
 
   .siteNav > .dropDown > button {
-    margin-right: 15px;
+    margin-right: 2px;
   }
 }
 
@@ -277,13 +292,12 @@
   .siteNav > .dropDown > button,
   .home,
   .about {
-    padding: 16px 9px;
-    font-size: 0.67rem;
-    opacity: 0.9;
+    font-size: 0.77rem;
+    padding:6px 2px;
   }
 
   .siteNav > .dropDown > button {
-    margin-right: 15px;
+    margin-right: 6px;
   }
 }
 
@@ -306,7 +320,8 @@
   .siteNav > .dropDown > button,
   .home,
   .about {
-    font-size: 0.6rem;
+    font-size: 0.7rem;
+    padding: 7px 1px;
   }
 }
 
@@ -314,9 +329,13 @@
   .siteNav > .dropDown > button,
   .home,
   .about {
-    font-size: 0.84rem;
-    padding: 9px 5px;
+    font-size:0.7rem;
+    padding: 7px 3px;
     opacity: 0.9;
+  }
+
+  .siteNav > .dropDown > button {
+    margin-right: 1px;
   }
 }
 
@@ -324,8 +343,8 @@
   .siteNav > .dropDown > button,
   .home,
   .about {
-    font-size: 0.79rem;
-    padding: 9px 5px;
+    font-size: 0.7rem;
+    padding: 7px 3px;
     opacity: 0.9;
   }
 }
@@ -365,54 +384,6 @@
   }
 }
 
-@media (width: 1280px) and (height: 853px) {
-  .bookInnerContainer {
-    margin-left: 5vw;
-  }
-}
-
-@media (width: 1280px) and (height: 800px) {
-  .bookInnerContainer {
-    margin-left: 5vw;
-  }
-}
-
-@media (width: 1194px) and (height: 834px) {
-  .bookInnerContainer {
-    margin-left: 5vw;
-  }
-}
-
-@media (width: 1180px) and (height: 820px) {
-  .bookInnerContainer {
-    margin-left: 5vw;
-  }
-}
-
-@media (width: 1080px) and (height: 810px) {
-  .bookInnerContainer {
-    margin-left: 5vw;
-  }
-}
-
-@media (width: 1024px) and (height: 1366px) {
-  .bookInnerContainer {
-    margin-left: 5vw;
-  }
-}
-
-@media (width: 1024px) and (height: 768px) {
-  .bookInnerContainer {
-    margin-left: 5vw;
-  }
-}
-
-@media (width: 1024px) and (height: 600px) {
-  .bookInnerContainer {
-    margin-left: 5vw;
-  }
-}
-
 @media (max-width: 933px) and (orientation: landscape) {
   .iconPlusSitebar > div {
     width: 25vw;
@@ -425,10 +396,14 @@
   .siteNav > .dropDown > button,
   .home,
   .about {
-    padding: 6px 11px;
+    padding: 2px 6px;
     width: 6.9rem;
-    font-size: 0.7rem;
+    font-size: 0.8em;
     opacity: 0.93;
+  }
+
+  .home {
+    padding:2px 2px;
   }
 
   .bookInnerContainer {
@@ -440,26 +415,29 @@
   .bookInnerContainer {
     margin-left: 5vw;
   }
+
+  .siteNav > .dropDown > button,
+  .home,
+  .about {
+    padding: 5px 6px;
+  }
+
+  .home {
+    font-size:0.6rem;
+  }
 }
 
-@media (max-width: 855px) and (orientation: landscape) {
+@media (max-width: 883px) and (orientation: landscape) {
   .siteNav > .dropDown > button,
   .home,
   .about {
     width: 7rem;
-    font-size: 0.6rem;
-  }
-}
-
-@media (max-width: 801px) and (orientation: landscape) {
-  .siteNav > .dropDown > button,
-  .home,
-  .about {
-    font-size: 0.6rem;
+    padding: 3px 3px;
+    font-size: 0.8rem;
   }
 
   .titleShadow {
-    margin-top: -7vh;
+    margin-top: 12vh;
   }
 }
 
@@ -468,16 +446,6 @@
   .home,
   .about {
     padding: 5px 3px;
-  }
-
-  .titleShadow {
-    margin-top: -10vh;
-  }
-}
-
-@media (max-width: 654px) and (orientation: landscape) {
-  .titleShadow {
-    margin-top: 12vh;
   }
 }
 
@@ -490,6 +458,11 @@
   .bookDescription {
     max-width: 70vw;
     margin-left: 30vw;
+  }
+
+  .home {
+    font-size:0.65rem;
+    padding:7px 2px;
   }
 }
 
