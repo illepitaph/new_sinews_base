@@ -427,12 +427,12 @@
   .siteNav > .dropDown > button,
   .home,
   .about {
-    padding: 12px 13px;
+    padding: 7px 8px;
   }
 
   .siteNav > .dropDown > button,
   .home {
-    margin-right: 8px;
+    margin-right: 3px;
   }
 }
 
