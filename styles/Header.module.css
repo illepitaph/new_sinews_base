@@ -96,10 +96,10 @@
   background-color: black;
   color: #c0a5a5;
   opacity: 0.75;
-  padding: 12px 15px;
+  padding: 12px 12px;
   border-radius: 45px;
   text-transform: lowercase;
-  letter-spacing: 0.5px;
+  letter-spacing: 0.2px;
   cursor: pointer;
   transition: 1.2s background-color;
 }
