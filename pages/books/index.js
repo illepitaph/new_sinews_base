@@ -445,8 +445,6 @@ export default function Books() {
       </RightBlackTitle>
       <br />
       <br />
-      <br />
-      <div className={styles.arrows}>&#8675; &#8681; &#8675; &#8681;</div>
       <RightBlackTitle>
         <Link href="/books/plane" passHref>
           <div className={styles.bookInnerContainer}>
