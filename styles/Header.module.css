@@ -912,9 +912,6 @@
   .iconImage {
     margin: 11vh 0 0 12vw;
   }
-}
-
-@media (max-width: 385px) and (orientation: portrait) {
   .siteNav {
     margin-top:3vh;
   }
