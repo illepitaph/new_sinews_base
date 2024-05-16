@@ -134,6 +134,7 @@
   color:white;
   text-transform: uppercase;
   text-shadow: 2px 1px gray;
+  letter-spacing:0.3;
 }
 
 .issueContentOpen {
