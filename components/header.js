@@ -18,6 +18,9 @@ export default function Header(props) {
     useState("issueContentClosed");
   const [issueOneDropdownClass, setIssueOneDropdownClass] =
     useState("issueContentClosed");
+  const [booksDropdownClass, setBooksDropdownClass] =
+    useState("issueContentClosed");
+
 
   return (
     <header
@@ -395,6 +398,24 @@ export default function Header(props) {
               </Link>
               <Link href="/issue1/bios" passHref>
                 <button>issue1_bios</button>
+              </Link>
+            </div>
+          </div>
+          <div
+            className={styles.dropDown}
+            onMouseEnter={() => {
+              setBooksDropdownClass("issueContentOpen");
+            }}
+            onMouseLeave={() => {
+              setBooksDropdownClass("issueContentClosed");
+            }}
+          >
+            <Link href="/books" passHref>
+              <button>books</button>
+            </Link>
+            <div className={styles[booksDropdownClass]}>
+              <Link href="/books/plane" passHref>
+                <button>_steve_barbaro_<br/>_plane_of_consummate_finitude_</button>
               </Link>
             </div>
           </div>
