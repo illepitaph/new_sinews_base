@@ -292,16 +292,6 @@ export default function Plane() {
           </a>
         </i>
         ,{" "}
-        <i>
-          <a
-            target="_blank"
-            rel="noreferrer"
-            href="http://thecollagist.com/the-collagist/2018/1/20/in-the-omnibus-1891.html"
-            className={styles.publicationLink}
-          >
-            The Collagist
-          </a>
-        </i>
         , <i>Prelude</i> (
         <a
           target="_blank"

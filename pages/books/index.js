@@ -443,9 +443,11 @@ export default function Books() {
           </span>
         </span>
       </RightBlackTitle>
+      <br />
+      <br />
+      <br />
+      <div className={styles.arrows}>&#8675; &#8681; &#8675; &#8681;</div>
       <RightBlackTitle>
-        <br />
-        <br />
         <Link href="/books/plane" passHref>
           <div className={styles.bookInnerContainer}>
             <Image
@@ -485,6 +487,18 @@ export default function Books() {
         eternities in the midst of pitting eloquence against eloquence&rsquo;s
         own worst enemies.
       </p>
+      <RightBlackTitle>
+        <Link href="/books/plane" passHref>
+          <span className={styles.learnMore}>
+            <span className={styles.uppercase}>
+              &#10132; &#10132; &#10132; learn
+              <br />
+              <br />
+              more &#8678; &#8678; &#8678;{" "}
+            </span>
+          </span>
+        </Link>
+      </RightBlackTitle>
 
       <Footer />
     </>
