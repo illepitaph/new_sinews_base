@@ -704,6 +704,13 @@
   .siteNav {
     margin-top: 1vw;
   }
+
+  .siteNav > .dropDown > button,
+  .home,
+  .about {
+    font-size: 0.6rem;
+    padding: 1px 2px;
+  }
 }
 
 @media (width: 853px) and (height: 1280px) {
