@@ -92,11 +92,11 @@
 .about {
   border: none;
   font-family: "lores-9-plus-narrow", monospace;
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   background-color: black;
   color: #c0a5a5;
-  opacity: 0.89;
-  padding: 5px 13px;
+  opacity: 0.8;
+  padding: 9px 13px;
   border-radius: 45px;
   text-transform: lowercase;
   letter-spacing: 0.2px;
