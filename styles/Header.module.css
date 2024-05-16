@@ -692,6 +692,12 @@
   }
 }
 
+@media (width: 882px) and (height: 344px) {
+  .siteNav {
+    margin-top: 1vw;
+  }
+}
+
 @media (width: 853px) and (height: 1280px) {
   .siteNav {
     margin-right: 14vw;
@@ -713,6 +719,12 @@
     text-shadow: 1px 1px gray;
     padding: 15px 19px;
     margin-top: 0.1vh;
+  }
+}
+
+@media (max-width: 845px) and (orientation: landscape) {
+  .siteNav {
+    margin-top:4vh;
   }
 }
 
@@ -748,14 +760,14 @@
   .home,
   .about {
     width: 8rem;
-    font-size: 0.8rem;
+    font-size: 1rem;
     margin-bottom: 1.7vh;
     padding: 9px 16px;
     opacity: 0.9;
   }
 
   .home {
-    font-size: 0.8rem;
+    font-size: 1rem;
     color: white;
     text-shadow: 1px 1px gray;
     margin-top: 0.1vh;
@@ -766,9 +778,13 @@
   .siteNav > .dropDown > button,
   .home,
   .about {
-    font-size:0.51rem;
+    font-size:0.75rem;
     padding: 2px 1px;
     opacity:0.8;
+  }
+
+  .siteNav {
+    margin-top:2vh;
   }
 }
 
@@ -781,14 +797,14 @@
   .home,
   .about {
     width: 8rem;
-    font-size: 0.8rem;
+    font-size: 1rem;
     margin-bottom: 1.7vh;
     padding: 9px 16px;
     opacity: 0.9;
   }
 
   .home {
-    font-size: 0.8rem;
+    font-size: 1rem;
     color: white;
     text-shadow: 1px 1px gray;
     margin-top: 0.2vh;
@@ -804,20 +820,21 @@
   .home,
   .about {
     width: 8rem;
-    font-size: 0.8rem;
+    font-size: 1rem;
     margin-bottom: 1.7vh;
     padding: 9px 16px;
     opacity: 0.9;
   }
 
   .home {
-    font-size: 0.8rem;
+    font-size: 1rem;
     margin-top: 0.1vh;
   }
 }
 
 @media (width: 768px) and (height: 1024px) {
   .siteNav {
+    margin-top:4vh;
     margin-right: 18vw;
   }
 
@@ -825,14 +842,14 @@
   .home,
   .about {
     width: 8rem;
-    font-size: 0.8rem;
+    font-size: 1rem;
     margin-bottom: 1.7vh;
     padding: 9px 16px;
     opacity: 0.9;
   }
 
   .home {
-    font-size: 0.8rem;
+    font-size: 1rem;
     margin-top: 0.2vh;
     padding: 11px 18px;
   }
@@ -853,7 +870,7 @@
   .home,
   .about {
     width: 8rem;
-    font-size: 0.8rem;
+    font-size: 1rem;
     margin-bottom: 1.7vh;
     padding: 2px 5px;
     opacity: 0.9;
@@ -889,6 +906,12 @@
 @media (max-width: 391px) and (orientation: portrait) {
   .iconImage {
     margin: 11vh 0 0 12vw;
+  }
+}
+
+@media (max-width: 375px) and (orientation: portrait) {
+  .siteNav {
+    margin-top:3vh;
   }
 }
 
