@@ -346,7 +346,7 @@
   }
 }
 
-@media (max-width: 321px) and (orientation: portrait) {
+@media (max-width: 345px) and (orientation: portrait) {
   .titleShadow {
     letter-spacing: 0.7rem;
   }
