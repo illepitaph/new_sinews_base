@@ -3,6 +3,7 @@ import Link from "next/link";
 import Image from "next/image";
 import React, { useState } from "react";
 import RightBlackTitle from "../../components/rightBlackTitle.js";
+import LeftBlackTitle from "../../components/leftBlackTitle.js";
 import Footer from "../../components/footer.js";
 import styles from "../../styles/Books.module.css";
 import PlaneCover from "../../public/images/PlaneCover.jpg";
@@ -445,19 +446,40 @@ export default function Books() {
       </RightBlackTitle>
       <br />
       <br />
+      <div className={styles.bookInnerContainerZero}>
+        <br />
+        <Image
+          src={PlaneCover}
+          width={400}
+          height={300}
+          alt="Cover of the book of poems titled PLANE OF CONSUMMATE FINITUDE by Steve Barbaro"
+        />
+        <Image
+          src={PlaneCover}
+          width={200}
+          height={300}
+          alt="Cover of the book of poems titled PLANE OF CONSUMMATE FINITUDE by Steve Barbaro"
+        />
+        <Image
+          src={PlaneCover}
+          width={100}
+          height={300}
+          alt="Cover of the book of poems titled PLANE OF CONSUMMATE FINITUDE by Steve Barbaro"
+        />
+        <Image
+          src={PlaneCover}
+          width={200}
+          height={300}
+          alt="Cover of the book of poems titled PLANE OF CONSUMMATE FINITUDE by Steve Barbaro"
+        />
+        <Image
+          src={PlaneCover}
+          width={400}
+          height={300}
+          alt="Cover of the book of poems titled PLANE OF CONSUMMATE FINITUDE by Steve Barbaro"
+        />
+      </div>
       <RightBlackTitle>
-        <Link href="/books/plane" passHref>
-          <div className={styles.bookInnerContainer}>
-            <Image
-              src={PlaneCover}
-              width={1200}
-              height={850}
-              alt="Cover of the book of poems titled PLANE OF CONSUMMATE FINITUDE by Steve Barbaro"
-            />
-          </div>
-        </Link>
-        <br />
-        <br />
         <span className={styles.authorName}>
           S<span className={styles.uppercase}>t</span>e
           <span className={styles.uppercase}>v</span>e B
@@ -485,19 +507,31 @@ export default function Books() {
         eternities in the midst of pitting eloquence against eloquence&rsquo;s
         own worst enemies.
       </p>
-      <RightBlackTitle>
+      <LeftBlackTitle>
         <Link href="/books/plane" passHref>
-          <span className={styles.learnMore}>
-            <span className={styles.uppercase}>
-              &#10132; &#10132; &#10132; learn
-              <br />
-              <br />
-              more &#8678; &#8678; &#8678;{" "}
+          <div className={styles.bookInnerContainer}>
+            <span className={styles.learnMore}>
+              <span className={styles.uppercase}>
+                <span className={styles.learnMoreSecondShadow}>
+                  {" "}
+                  &#8681; &#8681; &#8681; 
+                </span>
+                 click to learn more + order{" "}
+                <span className={styles.learnMoreSecondShadow}>
+                  &#8681; &#8681; &#8681;
+                </span>{" "}
+              </span>
             </span>
-          </span>
+            <br />
+            <Image
+              src={PlaneCover}
+              width={1200}
+              height={850}
+              alt="Cover of the book of poems titled PLANE OF CONSUMMATE FINITUDE by Steve Barbaro"
+            />
+          </div>
         </Link>
-      </RightBlackTitle>
-
+      </LeftBlackTitle>
       <Footer />
     </>
   );
