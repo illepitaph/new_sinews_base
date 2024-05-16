@@ -902,6 +902,10 @@
     font-size:0.65rem;
     padding:7px 7px;
   }
+
+  .siteNav {
+    margin-top:4vh;
+  }
 }
 
 @media (max-width: 391px) and (orientation: portrait) {
