@@ -92,14 +92,14 @@
 .about {
   border: none;
   font-family: "lores-9-plus-narrow", monospace;
-  font-size: 0.61rem;
+  font-size: 0.7rem;
   background-color: black;
   color: #c0a5a5;
   opacity: 0.75;
-  padding: 12px 17px;
+  padding: 12px 19px;
   border-radius: 45px;
   text-transform: lowercase;
-  letter-spacing: 1.3px;
+  letter-spacing: 1.5px;
   cursor: pointer;
   transition: 1.2s background-color;
 }
