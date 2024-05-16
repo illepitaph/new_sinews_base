@@ -372,6 +372,13 @@
 }
 
 @media (max-width: 991.98px) {
+
+  @media (max-width: 998px) {
+    .learnMore:hover, .bookInnerContainer:hover {
+      opacity: 1;
+    }
+  }
+
   .top {
     background-position: center;
   }
