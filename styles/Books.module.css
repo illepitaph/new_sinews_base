@@ -189,7 +189,7 @@
 .bookInnerContainer {
   transition: 2s opacity;
   cursor: pointer;
-  text-align:center;
+  text-align: center;
 }
 
 .bookInnerContainer:hover {
