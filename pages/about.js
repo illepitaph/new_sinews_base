@@ -25,6 +25,8 @@ export default function About() {
     useState("issueContentClosed");
   const [issueOneDropdownClass, setIssueOneDropdownClass] =
     useState("issueContentClosed");
+  const [booksDropdownClass, setBooksDropdownClass] =
+    useState("issueContentClosed");
 
   const [textArrayIndex, setTextArrayIndex] = useState(0);
   function prevText() {
@@ -118,8 +120,8 @@ export default function About() {
                 </Link>
                 <Link href="/issue6/ihns" passHref>
                   <button>
-                    kai ihns_all properties of the house burning ++ in which
-                    you are appearing as its shape ++
+                    kai ihns_all properties of the house burning ++ in which you
+                    are appearing as its shape ++
                   </button>
                 </Link>
                 <Link href="/issue6/castingoff" passHref>
@@ -431,6 +433,30 @@ export default function About() {
                 </Link>
               </div>
             </div>
+            <div
+              className={styles.dropDown}
+              onMouseEnter={() => {
+                setBooksDropdownClass("issueContentOpen");
+              }}
+              onMouseLeave={() => {
+                setBooksDropdownClass("issueContentClosed");
+              }}
+            >
+              <Link href="/books" passHref>
+                <button>
+                  <span className={styles.uppercase}>books</span>
+                </button>
+              </Link>
+              <div className={styles[booksDropdownClass]}>
+                <Link href="/books/plane" passHref>
+                  <button>
+                    _steve_barbaro_
+                    <br />
+                    _plane_of_consummate_finitude_
+                  </button>
+                </Link>
+              </div>
+            </div>
             <Link href="/" passHref>
               <button className={styles.home}>new sinews</button>
             </Link>
@@ -449,43 +475,57 @@ export default function About() {
         </div>
 
         <p>
-          so ... <i>new_sinews</i> is now both a magazine and a book
-          imprint 
+          so ... <i>new_sinews</i> is now both a magazine and a book imprint
           <br />
           <br />
           <br />
-          and wouldn&#8217;t you know it but book submissions are ... voila ... OPEN
-          <br/><br/>
+          and wouldn&#8217;t you know it but book submissions are ... voila ...
+          OPEN
+          <br />
+          <br />
           <span className={styles.darkTypeface}>book guidelines</span> :
           <br />
           <br />
-          <i>new_sinews</i> aims to generate sumptuously brainy books of an uncommon scale + proportion
+          <i>new_sinews</i> aims to generate sumptuously brainy books of an
+          uncommon scale + proportion
           <br />
           <br />
           <br />
-          <i>new_sinews</i> books shall be as deliberately designed + edited as its eponymous magazine itself
+          <i>new_sinews</i> books shall be as deliberately designed + edited as
+          its eponymous magazine itself
           <br />
           <br />
           <br />
-          there are no real genre limitations—novels + short story collections + books of poems + fits of hybridity are all apposite
+          there are no real genre limitations—novels + short story collections +
+          books of poems + fits of hybridity are all apposite
           <br />
           <br />
           <br />
-          manuscripts cultivating new correspondences between text + image are especially appropriate... plus: nonfiction manuscripts are welcome too ... but if the prospective book is in fact a nonfiction manuscript it would have to be
-          uniquely intellectually substantive and or imaginative
+          manuscripts cultivating new correspondences between text + image are
+          especially appropriate... plus: nonfiction manuscripts are welcome too
+          ... but if the prospective book is in fact a nonfiction manuscript it
+          would have to be uniquely intellectually substantive and or
+          imaginative
           <br />
           <br />
           <br />
-          and there are no specific page or word count expectations beyond the expectation that the submitted documents are full-length (ie NOT chapbook) manuscripts 
+          and there are no specific page or word count expectations beyond the
+          expectation that the submitted documents are full-length (ie NOT
+          chapbook) manuscripts
           <br />
           <br />
           <br />
-          of course: should a would-be book-submitter need familiarization with the myriad types of work <i>new_sinews</i> publishes, well ... such a would-be new_sinews-eee need only peruse the issue-links looming eminently clickably atop this web application
+          of course: should a would-be book-submitter need familiarization with
+          the myriad types of work <i>new_sinews</i> publishes, well ... such a
+          would-be new_sinews-eee need only peruse the issue-links looming
+          eminently clickably atop this web application
           <br />
           <br />
           <br />
-         
-          so ... there you go ... if these seem like meetable objectives please send your concomitant <i>full</i> completed manuscript in a <code>word DOC</code> along with a cover letter describing the project to be considered to:
+          so ... there you go ... if these seem like meetable objectives please
+          send your concomitant <i>full</i> completed manuscript in a{" "}
+          <code>word DOC</code> along with a cover letter describing the project
+          to be considered to:
         </p>
 
         <p>
@@ -493,20 +533,19 @@ export default function About() {
         </p>
 
         <p>
-
-        <span className={styles.darkTypeface}>magazine guidelines</span> :
-
-        </p>
-        
-        <p>
-        meantime ... as for the magazine ... submissions remain open although please be warned: the genesis of issue8 is taking a backseat to the expansion of <i>new_sinews</i> into the realms of book publication
+          <span className={styles.darkTypeface}>magazine guidelines</span> :
         </p>
 
         <p>
+          meantime ... as for the magazine ... submissions remain open although
+          please be warned: the genesis of issue8 is taking a backseat to the
+          expansion of <i>new_sinews</i> into the realms of book publication
+        </p>
 
-          with that in mind ... per usual ... please send poems & fiction (very much open to speculative/fantasy) or even
-          aggressively creative nonfiction in a <code>word DOC</code> to be
-          considered to:
+        <p>
+          with that in mind ... per usual ... please send poems & fiction (very
+          much open to speculative/fantasy) or even aggressively creative
+          nonfiction in a <code>word DOC</code> to be considered to:
         </p>
 
         <p>

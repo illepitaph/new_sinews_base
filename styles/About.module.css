@@ -87,25 +87,25 @@
 }
 
 .siteNav > .dropDown > button,
-.home,
-.about {
+.home {
   border: none;
   font-family: "lores-9-plus-narrow", monospace;
   font-size: 0.9rem;
   background-color: #b0b0b0;
   color: snow;
   opacity: 0.8;
-  padding: 12px 13px;
+  padding: 7px 7px;
+  border: 4px double white;
   border-radius: 45px;
   text-transform: lowercase;
-  letter-spacing: 1.5px;
+  letter-spacing: 0.2px;
   cursor: pointer;
   transition: 1.2s background-color;
 }
 
 .siteNav > .dropDown > button,
 .home {
-  margin-right: 5px;
+  margin-right: 2px;
 }
 
 .issueContentClosed {
@@ -151,6 +151,13 @@
   text-transform: uppercase;
 }
 
+.uppercase {
+  text-transform:uppercase;
+  color:black;
+  text-shadow:1px 1px white;
+  letter-spacing:0.5px;
+}
+
 .middle {
   width: 95vw;
   margin: 0 auto;
@@ -190,7 +197,8 @@
   font-family: "lores-9-plus-wide", monospace;
   font-size: 1.8rem;
   font-weight: 700;
-  text-shadow: 1px 1px white, 2px 2px red, 3px 3px white, 4px 4px red, 5px 5px white, 6px 6px 4px red;
+  text-shadow: 1px 1px white, 2px 2px red, 3px 3px white, 4px 4px red,
+    5px 5px white, 6px 6px 4px red;
   text-transform: lowercase;
   line-height: 6.4rem;
   letter-spacing: -0.02rem;
@@ -231,25 +239,25 @@
 @media (width: 1180px) and (height: 820px) {
   .siteNav > .dropDown > button,
   .home {
-    padding: 11px 6px;
+    padding: 11px 7px;
     opacity: 0.9;
   }
 
   .siteNav > .dropDown > button {
-    margin-right: 15px;
+    margin-right: 2px;
   }
 }
 
 @media (width: 1080px) and (height: 810px) {
   .siteNav > .dropDown > button,
   .home {
-    padding: 16px 9px;
-    font-size: 0.67rem;
+    padding:9px 6px;
+    font-size: 0.7rem;
     opacity: 0.9;
   }
 
   .siteNav > .dropDown > button {
-    margin-right: 15px;
+    margin-right: 1px;
   }
 }
 
@@ -331,7 +339,7 @@
   }
 }
 
-@media (max-width: 928px) and (orientation: landscape) {
+@media (max-width: 932px) and (orientation: landscape) {
   .iconPlusSitebar > div {
     width: 25vw;
     height: 45vh;
@@ -340,16 +348,42 @@
     opacity: 0.9;
   }
 
+  .siteNav {
+    margin-top:1.5vh;
+  }
+
   .middle {
     width: 85vw;
   }
 
   .siteNav > .dropDown > button,
   .home {
-    padding: 6px 11px;
-    width: 6.9rem;
+    width: 6rem;
     font-size: 0.7rem;
-    opacity: 0.93;
+    padding: 3px 9px;
+    margin-bottom: 1vh;
+  }
+}
+
+@media (width: 912px) and (height: 1368px) {
+  .siteNav {
+    margin-right: 18vw;
+  }
+
+  .siteNav > .dropDown > button,
+  .home {
+    width: 8rem;
+    font-size: 1rem;
+    margin-bottom: 1.7vh;
+    padding: 9px 16px;
+    opacity: 0.9;
+  }
+
+  .home {
+    font-size: 0.82rem;
+    color: white;
+    text-shadow: 1px 1px gray;
+    margin-top: 0.1vh;
   }
 }
 
@@ -357,22 +391,152 @@
   .middle {
     width: 99vw;
   }
+  .siteNav > .dropDown > button,
+  .home {
+    padding: 3px 3px;
+  }
 
   .siteNav > .dropDown > button,
   .home {
-    width: 7rem;
-    font-size: 0.6rem;
+    font-size: 0.65rem;
+  }
+}
+
+@media (width: 853px) and (height: 1280px) {
+  .siteNav {
+    margin-right: 18vw;
+  }
+
+  .siteNav > .dropDown > button,
+  .home {
+    width: 8rem;
+    font-size: 1rem;
+    margin-bottom: 1.7vh;
+    padding: 9px 16px;
+    opacity: 0.9;
+  }
+
+  .home {
+    font-size: 0.82rem;
+    color: white;
+    text-shadow: 1px 1px gray;
+    margin-top: 0.1vh;
+  }
+}
+
+@media (width: 834px) and (height: 1194px) {
+  .siteNav {
+    margin-right: 18vw;
+  }
+
+  .siteNav > .dropDown > button,
+  .home {
+    width: 8rem;
+    font-size: 1rem;
+    margin-bottom: 1.7vh;
+    padding: 9px 16px;
+    opacity: 0.9;
+  }
+
+  .home {
+    font-size: 0.82rem;
+    color: white;
+    text-shadow: 1px 1px gray;
+    margin-top: 0.1vh;
+  }
+}
+
+@media (width: 820px) and (height: 1180px) {
+  .siteNav {
+    margin-right: 18vw;
+  }
+
+  .siteNav > .dropDown > button,
+  .home {
+    width: 8rem;
+    font-size: 1rem;
+    margin-bottom: 1.7vh;
+    padding: 9px 16px;
+    opacity: 0.9;
+  }
+
+  .home {
+    font-size: 0.82rem;
+    color: white;
+    text-shadow: 1px 1px gray;
+    margin-top: 0.1vh;
+  }
+}
+
+@media (width: 810px) and (height: 1080px) {
+  .siteNav {
+    margin-right: 18vw;
+  }
+
+  .siteNav > .dropDown > button,
+  .home {
+    width: 8rem;
+    font-size: 1rem;
+    margin-bottom: 1.7vh;
+    padding: 9px 16px;
+    opacity: 0.9;
+  }
+
+  .home {
+    font-size: 0.82rem;
+    color: white;
+    text-shadow: 1px 1px gray;
+    margin-top: 0.1vh;
+  }
+}
+
+@media (width: 800px) and (height: 1280px) {
+  .siteNav {
+    margin-right: 18vw;
+  }
+
+  .siteNav > .dropDown > button,
+  .home {
+    width: 8rem;
+    font-size: 1rem;
+    margin-bottom: 1.7vh;
+    padding: 9px 16px;
+    opacity: 0.9;
+  }
+
+  .home {
+    font-size: 0.82rem;
+    color: white;
+    text-shadow: 1px 1px gray;
+    margin-top: 0.1vh;
+  }
+}
+
+@media (width: 768px) and (height: 1024px) {
+  .siteNav {
+    margin-right: 18vw;
+  }
+
+  .siteNav > .dropDown > button,
+  .home {
+    width: 8rem;
+    font-size: 1rem;
+    margin-bottom: 1.7vh;
+    padding: 9px 16px;
+    opacity: 0.9;
+  }
+
+  .home {
+    font-size: 0.82rem;
+    color: white;
+    text-shadow: 1px 1px gray;
+    margin-top: 0.1vh;
   }
 }
 
 @media (max-width: 801px) and (orientation: landscape) {
   .darkTypeface {
     font-size: 1.5rem;
-  }
-
-  .siteNav > .dropDown > button,
-  .home {
-    font-size: 0.6rem;
   }
 }
 
@@ -383,7 +547,7 @@
 
   .siteNav > .dropDown > button,
   .home {
-    padding: 5px 3px;
+    padding: 1px 3px;
   }
 }
 
@@ -391,17 +555,27 @@
   .darkTypeface {
     font-size: 1.6rem;
   }
+  
 }
 
-@media (max-width: 654px) and (orientation: landscape) {
+@media (max-width: 668px) and (orientation: landscape) {
   .darkTypeface {
     font-size: 1.5rem;
   }
 }
 
-@media (max-width: 391px) and (orientation: portrait) {
+@media (max-width: 541px) and (orientation: portrait) {
   .darkTypeface {
     font-size: 1.35rem;
+  }
+
+  .siteNav {
+    margin-top:4vh;
+  }
+
+  .siteNav > .dropDown > button,
+  .home {
+    padding: 5px 3px;
   }
 }
 

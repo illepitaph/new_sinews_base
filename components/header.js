@@ -21,7 +21,6 @@ export default function Header(props) {
   const [booksDropdownClass, setBooksDropdownClass] =
     useState("issueContentClosed");
 
-
   return (
     <header
       className={`${styles.siteBarContainer} ${styles[props.headerBackground]}`}
@@ -94,8 +93,8 @@ export default function Header(props) {
               </Link>
               <Link href="/issue6/ihns" passHref>
                 <button>
-                  kai ihns_all properties of the house burning ++ in which
-                  you are appearing as its shape ++
+                  kai ihns_all properties of the house burning ++ in which you
+                  are appearing as its shape ++
                 </button>
               </Link>
               <Link href="/issue6/castingoff" passHref>
@@ -411,11 +410,17 @@ export default function Header(props) {
             }}
           >
             <Link href="/books" passHref>
-              <button><span className={styles.uppercase}>books</span></button>
+              <button>
+                <span className={styles.uppercase}>books</span>
+              </button>
             </Link>
             <div className={styles[booksDropdownClass]}>
               <Link href="/books/plane" passHref>
-                <button>_steve_barbaro_<br/>_plane_of_consummate_finitude_</button>
+                <button>
+                  _steve_barbaro_
+                  <br />
+                  _plane_of_consummate_finitude_
+                </button>
               </Link>
             </div>
           </div>

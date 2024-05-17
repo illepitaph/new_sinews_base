@@ -514,9 +514,9 @@ export default function Books() {
               <span className={styles.uppercase}>
                 <span className={styles.learnMoreSecondShadow}>
                   {" "}
-                  &#8681; &#8681; &#8681; 
+                  &#8681; &#8681; &#8681;
                 </span>
-                 click to learn more + order{" "}
+                click to learn more + order{" "}
                 <span className={styles.learnMoreSecondShadow}>
                   &#8681; &#8681; &#8681;
                 </span>{" "}
