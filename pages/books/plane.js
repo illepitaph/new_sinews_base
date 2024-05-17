@@ -134,10 +134,10 @@ export default function Plane() {
         Size: 8.5 X 6.5
         <br/>
         <br/>
-        Pages:98
+        Pages: 98
         <br/>
         <br/>
-        Price:$25
+        Price: $25
       </p>
       <br />
       <br />
