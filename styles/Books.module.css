@@ -189,6 +189,7 @@
 .bookInnerContainer {
   transition: 2s opacity;
   cursor: pointer;
+  text-align:center;
 }
 
 .bookInnerContainer:hover {
@@ -197,10 +198,10 @@
 
 .learnMore {
   display: inline-block;
-  font-size: 2.5rem;
+  font-size: 2.3rem;
   color: white;
   text-shadow: 1px 1px black, 4px 4px 16px black;
-  letter-spacing: 0.1rem;
+  letter-spacing: -0.3rem;
 }
 
 .learnMoreSecondShadow {
