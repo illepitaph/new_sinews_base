@@ -452,6 +452,28 @@
   }
 }
 
+@media (width: 912px) and (height: 1368px) {
+  .siteNav {
+    margin-right: 18vw;
+  }
+
+  .siteNav > .dropDown > button,
+  .about {
+    width: 8rem;
+    font-size: 1rem;
+    margin-bottom: 1.7vh;
+    padding: 9px 16px;
+    opacity: 0.9;
+  }
+
+  .home {
+    font-size: 0.82rem;
+    color: white;
+    text-shadow: 1px 1px gray;
+    margin-top: 0.1vh;
+  }
+}
+
 @media (max-width: 883px) and (orientation: landscape) {
   .siteNav > .dropDown > button,
   .home,
@@ -463,6 +485,138 @@
 
   .titleShadow {
     margin-top: 12vh;
+  }
+}
+
+@media (width: 853px) and (height: 1280px) {
+  .siteNav {
+    margin-right: 18vw;
+  }
+
+  .siteNav > .dropDown > button,
+  .about {
+    width: 8rem;
+    font-size: 1rem;
+    margin-bottom: 1.7vh;
+    padding: 9px 16px;
+    opacity: 0.9;
+  }
+
+  .home {
+    font-size: 0.82rem;
+    color: white;
+    text-shadow: 1px 1px gray;
+    margin-top: 0.1vh;
+  }
+}
+
+@media (width: 834px) and (height: 1194px) {
+  .siteNav {
+    margin-right: 18vw;
+  }
+
+  .siteNav > .dropDown > button,
+  .about {
+    width: 8rem;
+    font-size: 1rem;
+    margin-bottom: 1.7vh;
+    padding: 9px 16px;
+    opacity: 0.9;
+  }
+
+  .home {
+    font-size: 0.82rem;
+    color: white;
+    text-shadow: 1px 1px gray;
+    margin-top: 0.1vh;
+  }
+}
+
+@media (width: 820px) and (height: 1180px) {
+  .siteNav {
+    margin-right: 18vw;
+  }
+
+  .siteNav > .dropDown > button,
+  .about {
+    width: 8rem;
+    font-size: 1rem;
+    margin-bottom: 1.7vh;
+    padding: 9px 16px;
+    opacity: 0.9;
+  }
+
+  .home {
+    font-size: 0.82rem;
+    color: white;
+    text-shadow: 1px 1px gray;
+    margin-top: 0.1vh;
+  }
+}
+
+@media (width: 810px) and (height: 1080px) {
+  .siteNav {
+    margin-right: 18vw;
+  }
+
+  .siteNav > .dropDown > button,
+  .about {
+    width: 8rem;
+    font-size: 1rem;
+    margin-bottom: 1.7vh;
+    padding: 9px 16px;
+    opacity: 0.9;
+  }
+
+  .home {
+    font-size: 0.82rem;
+    color: white;
+    text-shadow: 1px 1px gray;
+    margin-top: 0.1vh;
+  }
+}
+
+@media (width: 800px) and (height: 1280px) {
+  .siteNav {
+    margin-right: 18vw;
+  }
+
+  .siteNav > .dropDown > button,
+  .about {
+    width: 8rem;
+    font-size: 1rem;
+    margin-bottom: 1.7vh;
+    padding: 9px 16px;
+    opacity: 0.9;
+  }
+
+  .home {
+    font-size: 0.82rem;
+    color: white;
+    text-shadow: 1px 1px gray;
+    margin-top: 0.1vh;
+  }
+}
+
+@media (width: 768px) and (height: 1024px) {
+  .siteNav {
+    margin-right: 18vw;
+  }
+
+  .siteNav > .dropDown > button,
+  .about {
+    width: 8rem;
+    font-size: 1rem;
+    margin-bottom: 1.7vh;
+    padding: 9px 16px;
+    opacity: 0.9;
+  }
+
+  .home {
+    font-size: 0.82rem;
+    color: white;
+    text-shadow: 1px 1px gray;
+    margin-top: 0.1vh;
   }
 }
 
