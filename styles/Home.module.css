@@ -160,7 +160,7 @@
 
 .uppercase {
   text-transform: uppercase;
-  text-shadow:1px 2px black;
+  text-shadow: 1px 2px black;
 }
 
 .graffiti {
@@ -222,27 +222,25 @@
 }
 
 @media (width: 1194px) and (height: 834px) {
-
-  .siteNav {    
+  .siteNav {
     margin-right: 1.5%;
   }
 
   .siteNav > .dropDown > button,
-.about {
-  font-size: 0.85rem;
-}
+  .about {
+    font-size: 0.85rem;
+  }
 }
 
 @media (width: 1180px) and (height: 820px) {
-
-  .siteNav {    
+  .siteNav {
     margin-right: 1%;
   }
 
   .siteNav > .dropDown > button,
-.about {
-  font-size: 0.85rem;
-}
+  .about {
+    font-size: 0.85rem;
+  }
 }
 
 @media (width: 1080px) and (height: 810px) {
@@ -283,9 +281,9 @@
   }
 
   .siteNav > .dropDown > button,
-.about {
-  font-size: 0.7rem;
-}
+  .about {
+    font-size: 0.7rem;
+  }
 
   .graffiti {
     margin: 19% 0 0 1%;
@@ -302,9 +300,9 @@
   }
 
   .siteNav > .dropDown > button,
-.about {
-  font-size: 0.7rem;
-}
+  .about {
+    font-size: 0.7rem;
+  }
 }
 
 @media (width: 1024px) and (height: 600px) and (orientation: landscape) {
@@ -317,9 +315,9 @@
   }
 
   .siteNav > .dropDown > button,
-.about {
-  font-size: 0.72rem;
-}
+  .about {
+    font-size: 0.72rem;
+  }
 }
 
 @media (max-width: 991.98px) {

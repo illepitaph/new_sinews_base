@@ -24,9 +24,8 @@ export default function Home() {
     useState("issueContentClosed");
   const [issueOneDropdownClass, setIssueOneDropdownClass] =
     useState("issueContentClosed");
-    const [booksDropdownClass, setBooksDropdownClass] =
+  const [booksDropdownClass, setBooksDropdownClass] =
     useState("issueContentClosed");
-
 
   return (
     <>
@@ -104,8 +103,8 @@ export default function Home() {
                   </Link>
                   <Link href="/issue6/ihns" passHref>
                     <button>
-                      kai ihns_all properties of the house burning ++ in
-                      which you are appearing as its shape ++
+                      kai ihns_all properties of the house burning ++ in which
+                      you are appearing as its shape ++
                     </button>
                   </Link>
                   <Link href="/issue6/castingoff" passHref>
@@ -423,29 +422,29 @@ export default function Home() {
                 </div>
               </div>
               <div
-              className={styles.dropDown}
-              onMouseEnter={() => {
-                setBooksDropdownClass("issueContentOpen");
-              }}
-              onMouseLeave={() => {
-                setBooksDropdownClass("issueContentClosed");
-              }}
-            >
-              <Link href="/books" passHref>
-                <button>
-                  <span className={styles.uppercase}>books</span>
-                </button>
-              </Link>
-              <div className={styles[booksDropdownClass]}>
-                <Link href="/books/plane" passHref>
+                className={styles.dropDown}
+                onMouseEnter={() => {
+                  setBooksDropdownClass("issueContentOpen");
+                }}
+                onMouseLeave={() => {
+                  setBooksDropdownClass("issueContentClosed");
+                }}
+              >
+                <Link href="/books" passHref>
                   <button>
-                    _steve_barbaro_
-                    <br />
-                    _plane_of_consummate_finitude_
+                    <span className={styles.uppercase}>books</span>
                   </button>
                 </Link>
+                <div className={styles[booksDropdownClass]}>
+                  <Link href="/books/plane" passHref>
+                    <button>
+                      _steve_barbaro_
+                      <br />
+                      _plane_of_consummate_finitude_
+                    </button>
+                  </Link>
+                </div>
               </div>
-            </div>
               <Link href="/about" passHref>
                 <button className={styles.about}>about</button>
               </Link>
