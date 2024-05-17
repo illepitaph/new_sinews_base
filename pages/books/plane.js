@@ -123,6 +123,21 @@ export default function Plane() {
         Barbaro&rsquo;s debut wanders from origins all the way back up to
         eternities in the midst of pitting eloquence against eloquence&rsquo;s
         own worst enemies.
+        <br/>
+        <br/>
+        Publication Date: 6/24/2024
+        <br/>
+        <br/>
+        ISBN: 979-8-9900257-0-7  
+        <br/>
+        <br/>
+        Size: 8.5 X 6.5
+        <br/>
+        <br/>
+        Pages:98
+        <br/>
+        <br/>
+        Price:$25
       </p>
       <br />
       <br />
