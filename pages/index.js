@@ -24,6 +24,9 @@ export default function Home() {
     useState("issueContentClosed");
   const [issueOneDropdownClass, setIssueOneDropdownClass] =
     useState("issueContentClosed");
+    const [booksDropdownClass, setBooksDropdownClass] =
+    useState("issueContentClosed");
+
 
   return (
     <>
@@ -419,6 +422,30 @@ export default function Home() {
                   </Link>
                 </div>
               </div>
+              <div
+              className={styles.dropDown}
+              onMouseEnter={() => {
+                setBooksDropdownClass("issueContentOpen");
+              }}
+              onMouseLeave={() => {
+                setBooksDropdownClass("issueContentClosed");
+              }}
+            >
+              <Link href="/books" passHref>
+                <button>
+                  <span className={styles.uppercase}>books</span>
+                </button>
+              </Link>
+              <div className={styles[booksDropdownClass]}>
+                <Link href="/books/plane" passHref>
+                  <button>
+                    _steve_barbaro_
+                    <br />
+                    _plane_of_consummate_finitude_
+                  </button>
+                </Link>
+              </div>
+            </div>
               <Link href="/about" passHref>
                 <button className={styles.about}>about</button>
               </Link>
