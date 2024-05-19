@@ -306,7 +306,7 @@ export default function Plane() {
             Posit
           </a>
         </i>
-        , , <i>Prelude</i> (
+        , <i>Prelude</i> (
         <a
           target="_blank"
           rel="noreferrer"
