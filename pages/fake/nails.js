@@ -5,6 +5,7 @@ import LeftBlackTitle from "../../components/leftBlackTitle.js";
 import StandardProse from "../../components/standardProse.js";
 import Image from "next/image";
 import Stough2 from "../../public/images/Stough2.jpg";
+import Stough3 from "../../public/images/Stough3.jpg";
 import Footer from "../../components/footer.js";
 import styles from "../../styles/Nails.module.css";
 Nails.title = "cary_stough ~ nails — new_sinews";
@@ -194,10 +195,10 @@ export default function Nails() {
         <br />
         <br />
         <br />
-        And it all, someday, will end. Which is to say, for an us. As it, I
-        would be remiss to mention, has been ending—and may have as well already
-        ended—for some, for those on the outer circle, what we call “bodies,”
-        concealing the guilt of how we’d previously identified them.
+        And it all, someday, will end. Which is to say, for an <i>us</i>. As it,
+        I would be remiss to mention, has been ending—and may have as well
+        already ended—for some, for those on the outer circle, what we call
+        “bodies,” concealing the guilt of how we’d previously identified them.
         <br />
         <br />
         <br />
@@ -295,7 +296,7 @@ export default function Nails() {
         <br />A day in the life of White Buddha: I name this particular
         performance{" "}
         <span className={styles.grayShadow}>
-          grateful to be living when nothing threatens my living
+          <i>grateful to be living when nothing threatens my living</i>
         </span>
         . Inhale bagel and coffee. Grateful to my living when all I do is
         threaten what is outside the status quo with obliteration. Image of a
@@ -373,9 +374,9 @@ export default function Nails() {
           <i>The Wild Hunt</i>
         </span>
         . What else could I do with my body to teach my body to learn? (Walking)
-        meditation should not have a goal, which doesn&rsquo;t preclude any other
-        incurred states of being an effectual standard. An expectation, I should
-        say. Anticipation?
+        meditation should not have a goal, which doesn&rsquo;t preclude any
+        other incurred states of being an effectual standard. An expectation, I
+        should say. Anticipation?
         <br />
         <br />
         <br />
@@ -457,11 +458,12 @@ export default function Nails() {
         <br />
         <br />
         <br />
-        From the blog Splintering Bone Ashes: “an aggressively enraged sense of
-        injustice, committed to the idea that, because I must endure
-        increasingly austere working conditions (wage freezes, loss of benefits,
-        declining pension pot, erasure of job security and increasing precarity)
-        then everyone else must too”).
+        From the blog{" "}
+        <span className={styles.grayShadow}>Splintering Bone Ashes</span>: “an
+        aggressively enraged sense of injustice, committed to the idea that,
+        because I must endure increasingly austere working conditions (wage
+        freezes, loss of benefits, declining pension pot, erasure of job
+        security and increasing precarity) then everyone else must too”).
         <br />
         <br />
         <br />
@@ -477,10 +479,10 @@ export default function Nails() {
         <br />
         <br />
         <span className={styles.grayShadow}>
-        May I have your address
-        <br />
-        <br />
-        May I have your home phone
+          May I have your address
+          <br />
+          <br />
+          May I have your home phone
         </span>
         <br />
         <br />
@@ -494,29 +496,29 @@ export default function Nails() {
         <br />
         <br />
         <br />
-        We called it a Death Cult because it only cared about sparing some 
-        of us, and because those of us who didn’t care believed we would be 
-        among those who would be spared because we believed it. 
+        We called it a Death Cult because it only cared about sparing some of
+        us, and because those of us who didn’t care believed we would be among
+        those who would be spared because we believed it.
         <br />
         <br />
         <br />
         <span className={styles.grayShadow}>
-        May I have ease of well being
-        <br />
-        <br />
-        May I have what was owed me
-        <br />
-        <br />
-        May I not have to justify my living while making my living
-        <br/>
-        <br/>
-        May I see it so clearly 
+          May I have ease of well being
+          <br />
+          <br />
+          May I have what was owed me
+          <br />
+          <br />
+          May I not have to justify my living while making my living
+          <br />
+          <br />
+          May I see it so clearly
         </span>
         <br />
         <br />
         <br />
-        This was a symptom of all we had to work with, which is
-        language, which is never enough.
+        This was a symptom of all we had to work with, which is language, which
+        is never enough.
         <br />
         <br />
         <br />
@@ -534,30 +536,146 @@ export default function Nails() {
         <br />
         <br />
         <br />
-        All of a sudden, the only way authority could operate was via
-        emergency powers: compensation came by way of “paid emergency
-        sick leave,” to which everyone was entitled and identified-by 
-        simultaneously.
+        All of a sudden, the only way authority could operate was via emergency
+        powers: compensation came by way of “paid emergency sick leave,” to
+        which everyone was entitled and identified-by simultaneously.
         <br />
         <br />
         <br />
-        People said: I would have never believed the public library 
-        a place of such bitter labor dispute. 
+        People said: I would have never believed the public library a place of
+        such bitter labor dispute.
         <br />
         <br />
         <br />
-        But this is how labor works everywhere. 
+        But this is how labor works everywhere.
         <br />
         <br />
         <br />
-        A library, unlike a University (in its current form), is 
-        a workplace. The University is still just a factory. A workplace
-        is carpeted, run by part-time, non-benefited ‘overqualified’ gig-workers. The
-        work-place, importantly, looks and sounds like a workplace.
+        A library, unlike a University (in its current form), is a workplace.
+        The University is still just a factory. A workplace is carpeted, run by
+        part-time, non-benefited ‘overqualified’ gig-workers. The work-place,
+        importantly, looks and sounds like a workplace.
         <br />
         <br />
         <br />
-        <span className={styles.grayShadow}><i>Auctoritas</i></span>.
+        <span className={styles.grayShadow}>
+          <i>Auctoritas</i>
+        </span>
+        .
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <span className={styles.sectionBreakSymbol}>~</span>
+        <br />
+        <br />
+        <br />I have nothing to say other than the <i>saying</i> of these
+        notations. Disenchantment doesn’t return the enchanted thing to its
+        original state. It edges
+        <br />
+        <br />
+        <br />
+        Notation as a non-totalizing way to go about theorizing from beneath the
+        bomb-shards of the Global Civil War. War enrages my impotence. I don’t
+        want to publish. I want to write fragments like the ones from the work
+        computer, titled{" "}
+        <span className={styles.grayShadow}>
+          <i>From the work computer, August 2020</i>
+        </span>{" "}
+        and{" "}
+        <span className={styles.grayShadow}>
+          <i>From the work computer, September 2020</i>
+        </span>
+        .
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <span className={styles.boldHeader}>2.4.21</span>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        Sweet, White Buddhism: the day after my birthday. We’d driven out West
+        (Western Mass) to, among other things, visit the Leverett Peace Pagoda.
+        Snowmelt. A statue, not far from the entrance. Woman and Serpent.
+        Cambodian Monastery means snakes galore. Though born a rural Missourian,
+        not my cup of tea.
+        <br />
+        <br />
+        <br />
+        <div>
+          <Image
+            src={Stough3}
+            width={80}
+            height={20}
+            layout={`responsive`}
+            alt="Cary Stough Picture of Cambodian Monastery in Western Massachusetts"
+          />
+        </div>
+        <br />
+        <br />
+        <br />
+        Call this performance Not necessarily knowing what to expect, though
+        certainly not expecting serpents, enlightenment, or either of the
+        passions of the tribe of calamities: the feeling of having just profaned
+        an ageless ritual, the feeling of having flubbed God’s instructions.
+        <br />
+        <br />
+        <br />
+        Is it correct/respectful to have said <i>Woman</i> and Serpent?
+        <br />
+        <br />
+        <br />
+        A tough layer of snow had covered mostly everything, except for some of
+        the statues which, seeing them uncovered, I imagined either resonated
+        enough internal heat or drew to their surfaces enough visual heat that
+        ice couldn’t take hold. The kind of imaginative flight I’m permitted on
+        vacation. New sights generate new physical logics.
+        <br />
+        <br />
+        <br />
+        N. claimed to remember the path to the pagoda with the vocal assurance
+        she uses in every claim, and so we parked and walked between what looked
+        like hastily fashioned cottages presumably for worshippers?
+        groundskeepers? I wasn’t sure how holy places worked. I wasn’t sure if
+        this was a holy place or the simulation of one. The ice further
+        alienated me.
+        <br />
+        <br />
+        <br />
+        The <i>way</i> to the pagoda led uphill, a boon to the non-traction my
+        Doc Martin’s lent my mobility.
+        <br />
+        <br />
+        <br />
+        Uphill in a foot of snow. Boots digging in and slipping further with
+        every. Snow really fucks with the so-thought unslippable surfaces of the
+        world.
+        <br />
+        <br />
+        <br />
+        There was the sense of seeing something we weren’t meant to see, as well
+        as the sense—the steeple of the pagoda lit up in gold and sunset
+        light—of seeing something ‘you don’t see every day.’
+        <br />
+        <br />
+        <br />
+        No one around but the presence of ritual, the space of ritual that lays
+        out a path. The pagoda is circular, meant to invite one to walk a
+        circumference in contemplation. And we did, through the snow. Every 45
+        degrees there sat a golden Buddha on different stages of his journey.
+        Who knew how to decipher it.
+        <br/>
+        <br/>
+        <br/>
+        Once around, I googled whether or not we’d done it right. We hadn’t.
         <br />
         <br />
         <br />
@@ -568,9 +686,28 @@ export default function Nails() {
         <br />
         <br />
         <br />
-        I have nothing to say other than the <i>saying</i> of these 
-        notations. Disenchantment doesn’t return the enchanted 
-        thing to its original state. It edges
+        White Buddhism allows for a pastiche of religiosities to compete
+        for the interpretant’s titling. Life, as most religions conclude, is
+        inherently (and eternally) wrong. I tend to believe that if your 
+        arm moves in a direction your arm moves in a direction that it
+        should. I tend to believe in Pragmatism as an anti-humanism, which
+        is antithetical to religion but not, as I’m reminded, religious
+        experience. 
+        <br/>
+        <br/>
+        <br/>
+        I remember first learning the word anathema in the metaphorical
+        relationship of a poet between a father and son. Seemed about
+        right. I remember learning the concept of sitting, or of 
+        meditating. Someone said, it’s like you’re balancing at the 
+        edge of the world. Whose world.  A woman I desperately wanted 
+        to be my one and only love relayed to me a description of 
+        meditating from Ginsberg: like a thumb wiping the dirt off 
+        a mirror (the brain). Later in life, Deleuze would call 
+        the brain a screen. 
+        <br/>
+        <br/>
+        <br/>
       </StandardProse>
       <Footer />
     </>
