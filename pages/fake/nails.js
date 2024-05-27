@@ -271,18 +271,182 @@ export default function Nails() {
         impartially to events in the life of the reader? As their eyes process
         the page data. <span className={styles.boldHeader}>1.17.21</span>. Like
         that.
-        <br/>
-        <br/>
-        <br/>
+        <br />
+        <br />
+        <br />
         Today I mourned, more personally, my grandfather. I walked around
-        Watertown with B. The froyo shop owner asked me to come back later
-        for a sample of something dairy-free. “It’s the oldest food known 
-        to man,” he said.  
-        <br/>
-        <br/>
-        <br/>
-        I feel like going against orders, but against whose command? God
-        came back in focus in a very God way. 
+        Watertown with B. The froyo shop owner asked me to come back later for a
+        sample of something dairy-free. “It’s the oldest food known to man,” he
+        said.
+        <br />
+        <br />
+        <br />
+        I feel like going against orders, but against whose command? God came
+        back in focus in a very God way.
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <span className={styles.sectionBreakSymbol}>~</span>
+        <br />
+        <br />
+        <br />A day in the life of White Buddha: I name this particular
+        performance{" "}
+        <span className={styles.grayShadow}>
+          grateful to be living when nothing threatens my living
+        </span>
+        . Inhale bagel and coffee. Grateful to my living when all I do is
+        threaten what is outside the status quo with obliteration. Image of a
+        canyon, introduced. Image of a white guy shirtlessly sitting in state,
+        in a state of calm, in a State of violence, to fend off the violence
+        that doesn’t even look his direction. I know my love is pure. I know my
+        love is only so pure.
+        <br />
+        <br />
+        <br />
+        <div>
+          <Image
+            src={Stough2}
+            width={80}
+            height={20}
+            layout={`responsive`}
+            alt="Cary Stough Headshot of The Author Amidst Daylit Windows"
+          />
+        </div>
+        <br />
+        <br />
+        <br />
+        Violence that he&rsquo;s known only in between those events in which
+        he&rsquo;s “let go.” When I pay attention to the love the State offers
+        me I’m held protected like a white couple’s child. Like a pooch in the
+        back of a Land Rover. Like a cake in the back of a Rav 4. Like a vegan
+        Christian Q-Shaman. I can be bad and pay for that being bad without
+        having to prove that I’m good. There&rsquo;s no such thing as it.
+        Anyway.
+        <br />
+        <br />
+        <br />
+        <span className={styles.grayShadow}>
+          May I let this cat in the house
+          <br />
+          <br />
+          May I please have a cat
+          <br />
+          <br />
+          May I be granted immunity
+          <br />
+          <br />
+          From harm
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <span className={styles.boldHeader}>1.24.21</span>
+        </span>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        This love (N.&rsquo;s love) exhausts: not financially, in the sense of
+        depleting the means of my purchasing power—although, at some point,
+        after all this mileage, I&rsquo;ll need a new car. Exhausts creatively,
+        or approaches that which I had thought of as the threshold of exhaustion
+        and obliteration (what one finds past the threshold takes three forms,
+        only one of them virtual: 1) more exhaustion, as in, the prolongation of
+        a limit [the outbounding of a multiplicity]; 2) sleep [we all know what
+        happens in sleep, what comes during and after, a person-less duration];
+        3) catatonia as the model for death, which necessarily does not include
+        dying, the actual act, the bye-bye, hush-hush). Pushes me to experiment,
+        which is to say, pulls wool over my eyes, then milk over the wool, naked
+        as a. Jaybird.
+        <br />
+        <br />
+        <br />
+        Walking had been a way to exhaust, or test a potential. I was replaying{" "}
+        <span className={styles.grayShadow}>
+          <i>The Wild Hunt</i>
+        </span>
+        . What else could I do with my body to teach my body to learn? (Walking)
+        meditation should not have a goal, which doesn&rsquo;t preclude any other
+        incurred states of being an effectual standard. An expectation, I should
+        say. Anticipation?
+        <br />
+        <br />
+        <br />
+        Some cold hard facts of my being have repeatedly cropped up in my
+        thinking, in those unusually clear hours of my commute, like:
+        <br />
+        <br />
+        <br />
+        I can no longer aim down the sight of a rifle due to an astigmatism in
+        my right eye.
+        <br />
+        <br />
+        <br />
+        What implications do such claims pose to my life I am living?
+        <br />
+        <br />
+        <br />
+        When I sit and place one hand to the other, crescents touching at their
+        tips, it’s as if I’m being cleaned.
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <span className={styles.boldHeader}>2.1.21</span>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        In the beginning, I tried but failed to grasp an impact of so many
+        deaths. That is, I couldn’t produce a reaction from within myself
+        adequate to the loss of life that I was enjoined, by Liberals and
+        Leftists alike, to bear witness. And not just any kind of witness, but
+        the witness of grief. Instead, my mind centered on precarity, on
+        layoffs. My own and others I cared about.
+        <br />
+        <br />
+        <br />I began, though not with the intention of drawing a connection, to
+        read memoirs of AIDS.{" "}
+        <span className={styles.grayShadow}>
+          <i>Close to the Knives</i>
+        </span>
+        ,{" "}
+        <span className={styles.grayShadow}>
+          <i>Crazy For Vincent</i>
+        </span>
+        . The latter contains one of the most tender moments, in a posthumous
+        archive of tenderness, involving a sage-like Foucault.
+        <br />
+        <br />
+        <br />
+        Unlike us, those who suffered AIDS at its frontline only had the tally
+        of their own ghostly abscesses to justify their grief. They reacted
+        politically, what we can call molarly political, to the cessation of the
+        political visibility of what we can call their molecular politics.
+        Wojnarowicz famously:{" "}
+        <i>I wake up every morning in this killing machine called america</i>.
+        <br />
+        <br />
+        <br />I watched the clip from David France’s{" "}
+        <span className={styles.grayShadow}>
+          <i>How To Survive A Plague</i>
+        </span>{" "}
+        (from PBS’s <i>Independent Lens</i>)—where the ACTUP members, as well as
+        other activists and family members of the dead, surrounding the Capitol
+        hoist one another up to toss the ashes of their lost onto the
+        Presidential Lawn, the chorus of “shame,” the chorus of “change,” the
+        chorus of “I love you, Mike”—one hundred thousand million times.
         <br />
         <br />
         <br />
@@ -293,81 +457,41 @@ export default function Nails() {
         <br />
         <br />
         <br />
-        A day in the life of White Buddha: I name this particular
-        performance <span className={styles.grayShadow}>grateful to be living
-        when nothing threatens my living</span>. Inhale bagel and coffee. Grateful
-        to my living when all I do is threaten what is outside the status
-        quo with obliteration. Image of a canyon, introduced. Image of
-        a white guy shirtlessly sitting in state, in a state of calm, in
-        a State of violence, to fend off the violence that doesn’t even
-        look his direction. I know my love is pure. I know my love is 
-        only so pure. 
+        From the blog Splintering Bone Ashes: “an aggressively enraged sense of
+        injustice, committed to the idea that, because I must endure
+        increasingly austere working conditions (wage freezes, loss of benefits,
+        declining pension pot, erasure of job security and increasing precarity)
+        then everyone else must too”).
         <br />
         <br />
         <br />
-        <div>
-        <Image
-            src={Stough2}
-            width={80}
-            height={20}
-            layout={`responsive`}
-            alt="Cary Stough Headshot of The Author Amidst Daylit Windows"
-          />
-        </div>
-        <br/>
-        <br/>
-        <br/>
-        Violence that he&rsquo;s known only in between those events in which 
-        he&rsquo;s “let go.” When I pay attention to the love the State 
-        offers me I’m held protected like a white couple’s child. Like
-        a pooch in the back of a Land Rover. Like a cake in the back
-        of a Rav 4. Like a vegan Christian Q-Shaman. I can be bad and
-        pay for that being bad without having to prove that I’m 
-        good. There&rsquo;s no such thing as it. Anyway.
-        <br/>
-        <br/>
-        <br/>
-        <span className={styles.grayShadow}>
-        May I let this cat in the house 
-        <br/>
-        <br/>
-        May I please have a cat
-        <br/>
-        <br/>
-        May I be granted immunity
-        <br/>
-        <br/>
-        From harm
+        But also <i>the glory</i>.
         <br />
         <br />
         <br />
+        I read more articles than ever before now, forced to work, and also
+        somewhat relieved to work, behind plexiglass shims with an iPad and a
+        clicker to count the people who wander in. Often unmasked. Often
+        perturbed by the apparatuses of biopolitical management made visible.
         <br />
         <br />
         <br />
-        <span className={styles.boldHeader}>1.24.21</span>
-        </span>
+        May I have your address
+        <br />
+        <br />
+        May I have your home phone
         <br />
         <br />
         <br />
+        Signature: n., the boundaries of usage considerably shifted while the
+        semantic material remains indifferently <i>there</i>.
         <br />
         <br />
         <br />
-        This love (N.&rsquo;s love) exhausts: not financially, in the sense
-        of depleting the means of my purchasing power—although, at some
-        point, after all this mileage, I&rsquo;ll need a new car. Exhausts
-        creatively, or approaches that which I had thought of as the
-        threshold of exhaustion and obliteration (what one finds past
-        the threshold takes three forms, only one of them virtual: 1) more
-        exhaustion, as in, the prolongation of a limit [the outbounding
-        of a multiplicity]; 2) sleep [we all know what happens in 
-        sleep, what comes during and after, a person-less 
-        duration]; 3) catatonia as the model for death, which necessarily
-        does not include dying, the actual act, the
-        bye-bye, hush-hush). Pushes me to experiment, which is to
-        say, pulls wool over my eyes, then milk over the wool, naked
-        as a. Jaybird.
-
-
+        Signature: n., as in heat, as in the residue we carry unaware.
+        <br />
+        <br />
+        <br />
       </StandardProse>
       <Footer />
     </>
