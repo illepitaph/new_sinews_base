@@ -476,10 +476,12 @@ export default function Nails() {
         <br />
         <br />
         <br />
+        <span className={styles.grayShadow}>
         May I have your address
         <br />
         <br />
         May I have your home phone
+        </span>
         <br />
         <br />
         <br />
