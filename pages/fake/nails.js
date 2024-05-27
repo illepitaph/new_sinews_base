@@ -673,9 +673,9 @@ export default function Nails() {
         circumference in contemplation. And we did, through the snow. Every 45
         degrees there sat a golden Buddha on different stages of his journey.
         Who knew how to decipher it.
-        <br/>
-        <br/>
-        <br/>
+        <br />
+        <br />
+        <br />
         Once around, I googled whether or not we’d done it right. We hadn’t.
         <br />
         <br />
@@ -687,33 +687,30 @@ export default function Nails() {
         <br />
         <br />
         <br />
-        White Buddhism allows for a pastiche of religiosities to compete
-        for the interpretant’s titling. Life, as most religions conclude, is
-        inherently (and eternally) wrong. I tend to believe that if your 
-        arm moves in a direction your arm moves in a direction that it
-        should. I tend to believe in Pragmatism as an anti-humanism, which
-        is antithetical to religion but not, as I’m reminded, religious
-        experience. 
-        <br/>
-        <br/>
-        <br/>
+        White Buddhism allows for a pastiche of religiosities to compete for the
+        interpretant’s titling. Life, as most religions conclude, is inherently
+        (and eternally) wrong. I tend to believe that if your arm moves in a
+        direction your arm moves in a direction that it should. I tend to
+        believe in Pragmatism as an anti-humanism, which is antithetical to
+        religion but not, as I’m reminded, religious experience.
+        <br />
+        <br />
+        <br />
         I remember first learning the word anathema in the metaphorical
-        relationship of a poet between a father and son. Seemed about
-        right. I remember learning the concept of sitting, or of 
-        meditating. Someone said, it’s like you’re balancing at the 
-        edge of the world. Whose world.  A woman I desperately wanted 
-        to be my one and only love relayed to me a description of 
-        meditating from Ginsberg: like a thumb wiping the dirt off 
-        a mirror (the brain). Later in life, Deleuze would call 
-        the brain a screen. 
-        <br/>
-        <br/>
-        <br/>
-        Screen upon which-is is projected, not a screen door one passes
-        through. Glass, as a child, acted a lot like speech: bisecting
-        one from the inside, and from within. This was not a 
-        transcendental synthesis yet, but the breaking one off from
-        a group of things. Like a statue.
+        relationship of a poet between a father and son. Seemed about right. I
+        remember learning the concept of sitting, or of meditating. Someone
+        said, it’s like you’re balancing at the edge of the world. Whose world.
+        A woman I desperately wanted to be my one and only love relayed to me a
+        description of meditating from Ginsberg: like a thumb wiping the dirt
+        off a mirror (the brain). Later in life, Deleuze would call the brain a
+        screen.
+        <br />
+        <br />
+        <br />
+        Screen upon which-is is projected, not a screen door one passes through.
+        Glass, as a child, acted a lot like speech: bisecting one from the
+        inside, and from within. This was not a transcendental synthesis yet,
+        but the breaking one off from a group of things. Like a statue.
         <br />
         <br />
         <br />
@@ -728,16 +725,16 @@ export default function Nails() {
         </div>
         <br />
         <br />
-        <br /> 
-        If meditation is a practice of courting multiplicity why does
-        there remain a trope of withdrawal? 
+        <br />
+        If meditation is a practice of courting multiplicity why does there
+        remain a trope of withdrawal?
         <br />
         <br />
-        <br /> 
-        I chose, as always, the Whitmanesque immersion over the
-        secluded, occluded denial of influence. Influence: abrasion, inculcation, implication
-        and contagion; of it all. Even the early Desert Fathers 
-        discovered retributive care only by remaining open to harm. 
+        <br />
+        I chose, as always, the Whitmanesque immersion over the secluded,
+        occluded denial of influence. Influence: abrasion, inculcation,
+        implication and contagion; of it all. Even the early Desert Fathers
+        discovered retributive care only by remaining open to harm.
         <br />
         <br />
         <br />
@@ -751,26 +748,90 @@ export default function Nails() {
         <br />
         <br />
         <br />
-        Washington Post: “First migrant facility for children opens under Biden.”
-        <br/>
-        <br/>
-        <br/>
-        White House Press Sec. Jen Psaki: “This is not kids being 
-        kept in cages. This is a facility that was opened, that’s 
-        going to follow the same standards as other HHS facilities.”
-        <br/>
-        <br/>
-        <br/>
+        Washington Post: “First migrant facility for children opens under
+        Biden.”
+        <br />
+        <br />
+        <br />
+        White House Press Sec. Jen Psaki: “This is not kids being kept in cages.
+        This is a facility that was opened, that’s going to follow the same
+        standards as other HHS facilities.”
+        <br />
+        <br />
+        <br />
         This is not ____ being kept in cages.
-        <br/>
-        <br/>
-        <br/>
+        <br />
+        <br />
+        <br />
         This is a _____ that was opened.
-        <br/>
-        <br/>
-        <br/>
-
-
+        <br />
+        <br />
+        <br />
+        I&rsquo;ve been practicing the five minute rule. If a task takes less than 5
+        minutes to do it, I do it.
+        <br />
+        <br />
+        <br />
+        “Compounding these smaller tasks,” says a stranger on Tik Tok, “creates
+        momentum to complete the bigger tasks.”
+        <br />
+        <br />
+        <br />
+        To the camp counselors (administrators of the United States government,
+        private contractors hired to build such structures—in this case, a
+        <i> shipping container</i> manufacturer—and individuals to watch the
+        detained—our <i>only</i> eyes, whose recorded data remains invisible to us)
+        their duty is to the stewardship of these extra-legal beings who are
+        nonetheless on their way to one of two ends: the extreme of so-defined
+        extra-legal exclusion (death), or expulsion from the between-space of
+        the camp.
+        <br />
+        <br />
+        <br />
+        “...an apparently innocuous space...actually delimits a space in which
+        the normal order is de facto suspended and in which whether or not
+        atrocities are committed depends not on law but on the civility and
+        ethical sense of the police who temporarily act as sovereign” (
+        <span className={styles.grayShadow}><i>
+          Homo Sacer: Soveriegn Power and Bare Life
+          </i>
+        </span>
+        , 174).
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <span className={styles.sectionBreakSymbol}>~</span>
+        <br />
+        <br />
+        <br />
+        Suffering. Not much more, goes my contention, should ever
+        be said about suffering. The apparatus through which so many
+        have justified. So much. 
+        <br />
+        <br />
+        <br />
+        People love being, being reminded. 
+        <br />
+        <br />
+        <br />
+        All the while, stepping back from their role as a witness. Where
+        do I place this in the narrative of <i>my</i> life? Modern life, such as
+        it’s mediated, can only see <i>deja vu</i>-vision. The immediate 
+        commodification that cuts off possibility from tasting of its 
+        divine place-taking. 
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <span className={styles.sectionBreakSymbol}>~</span>
+        <br />
+        <br />
+        <br />
 
       </StandardProse>
       <Footer />
