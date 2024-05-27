@@ -83,6 +83,17 @@
   text-transform: uppercase;
 }
 
+@media (max-width: 991.98px) {
+  
+  .headerIndent {
+    margin-left: 4.5vw;
+  }
+
+  .headerIndentTwo {
+    margin-left: 10vw;
+  }
+}
+
 @media (max-width: 431px) and (orientation: portrait) {
   .duskShadow,
   .duskShadowUppercase,
