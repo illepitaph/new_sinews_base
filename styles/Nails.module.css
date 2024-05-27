@@ -1,0 +1,113 @@
+.duskShadow {
+  display: inline-block;
+  margin-top:-11vh;
+  font-size: 4rem;
+  margin-left: 3rem;
+  font-style: italic;
+  color: snow;
+  text-shadow: 2px 2px black, 4px 4px snow, 6px 6px black, 8px 8px #aaf0d1,
+    12px 12px 18px black;
+}
+
+.inverse {
+  color: #aaf0d1;
+  text-shadow: 4px 4px snow, 6px 6px black;
+}
+
+.duskShadowUppercase {
+  display: inline-block;
+  font-size: 4rem;
+  margin-left: 3rem;
+  font-style: italic;
+  text-shadow: 2px 2px black, 4px 4px snow, 6px 6px black, 8px 8px #aaf0d1,
+    12px 12px 18px black;
+  text-transform: uppercase;
+  transform: skew(11deg, -3.4deg);
+}
+
+.inverseUppercase {
+  color: #aaf0d1;
+  text-shadow: 4px 4px snow, 6px 6px black;
+  text-transform: uppercase;
+}
+
+.headerIndent {
+  display: inline-block;
+  margin-left: 11.5vw;
+}
+
+.headerIndentTwo {
+  display: inline-block;
+  margin-left: 23vw;
+}
+
+.nameIndent {
+  display: inline-block;
+  margin-left: 2vw;
+}
+
+.nameSpacing {
+  display:flex;
+  justify-content: flex-end;
+  letter-spacing: -0.3rem;
+}
+
+.grayShadow {
+  font-family: "lores-9-plus-wide", monospace;
+  text-shadow: 1px 1px snow, 2px 2px #b0b0b0;
+}
+
+.sectionBreakSymbol {
+  font-size: 4rem;
+  color: #b0b0b0;
+  text-shadow: 2px 2px snow, 3px 3px red;
+}
+
+.boldHeader {
+  font-family: "lores-9-plus-wide", monospace;
+  font-size: 2rem;
+  font-weight: 900;
+  font-style: italic;
+  text-transform: lowercase;
+  text-shadow: 1px 1px snow, 2px 2px #b0b0b0;
+}
+
+.alternateCursive {
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-size: 9.3rem;
+  color: black;
+  text-shadow: 4px 4px snow, 8px 8px gainsboro;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+@media (max-width: 431px) and (orientation: portrait) {
+  .duskShadow,
+  .duskShadowUppercase,
+  .inverse,
+  .inverseUppercase {
+    font-size: 3.2rem;
+    margin-left: 0rem;
+  }
+}
+
+@media (max-width: 391px) and (orientation: portrait) {
+  .duskShadow,
+  .duskShadowUppercase,
+  .inverse,
+  .inverseUppercase {
+    font-size: 2.7rem;
+  }
+}
+
+@media (max-width: 281px) and (orientation: portrait) {
+  .duskShadow,
+  .duskShadowUppercase,
+  .inverse,
+  .duskShadowUppercaseFaint,
+  .inverseUppercase {
+    font-size: 2rem;
+  }
+}

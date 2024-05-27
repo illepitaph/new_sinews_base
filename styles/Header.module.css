@@ -418,6 +418,10 @@
   background-image: url("../public/images/DrugBackground.jpg");
 }
 
+.nailsBackground {
+  background-image: url("../public/images/NailsBackground.jpg");
+}
+
 @media (width: 1366px) and (height: 1024px) {
   .siteNav > .dropDown > button,
   .home,
