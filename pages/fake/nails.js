@@ -494,6 +494,83 @@ export default function Nails() {
         <br />
         <br />
         <br />
+        We called it a Death Cult because it only cared about sparing some 
+        of us, and because those of us who didn’t care believed we would be 
+        among those who would be spared because we believed it. 
+        <br />
+        <br />
+        <br />
+        <span className={styles.grayShadow}>
+        May I have ease of well being
+        <br />
+        <br />
+        May I have what was owed me
+        <br />
+        <br />
+        May I not have to justify my living while making my living
+        <br/>
+        <br/>
+        May I see it so clearly 
+        </span>
+        <br />
+        <br />
+        <br />
+        This was a symptom of all we had to work with, which is
+        language, which is never enough.
+        <br />
+        <br />
+        <br />
+        I am not thankful to be working.
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <span className={styles.boldHeader}>2.9.21</span>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        All of a sudden, the only way authority could operate was via
+        emergency powers: compensation came by way of “paid emergency
+        sick leave,” to which everyone was entitled and identified-by 
+        simultaneously.
+        <br />
+        <br />
+        <br />
+        People said: I would have never believed the public library 
+        a place of such bitter labor dispute. 
+        <br />
+        <br />
+        <br />
+        But this is how labor works everywhere. 
+        <br />
+        <br />
+        <br />
+        A library, unlike a University (in its current form), is 
+        a workplace. The University is still just a factory. A workplace
+        is carpeted, run by part-time, non-benefited ‘overqualified’ gig-workers. The
+        work-place, importantly, looks and sounds like a workplace.
+        <br />
+        <br />
+        <br />
+        <span className={styles.grayShadow}><i>Auctoritas</i></span>.
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <span className={styles.sectionBreakSymbol}>~</span>
+        <br />
+        <br />
+        <br />
+        I have nothing to say other than the <i>saying</i> of these 
+        notations. Disenchantment doesn’t return the enchanted 
+        thing to its original state. It edges
       </StandardProse>
       <Footer />
     </>
