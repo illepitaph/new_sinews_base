@@ -1005,21 +1005,160 @@ export default function Nails() {
         <br />
         <br />
         <br />
-        A month later, transcribing all of this, I’m compelled
-        to research the places we visited. 
+        A month later, transcribing all of this, I’m compelled to research the
+        places we visited.
+        <br />
+        <br />
+        <br />
+        To my interest and embarrassment, the place we’d visited had been
+        di-parate: a kind of Buddhist amusement park? The Cambodian monastery{" "}
+        <span className={styles.grayShadow}>Wat Kiryvongsa Bopharam</span>,
+        where we’d seen the snake divinities, the heads in the snow, the
+        sleeping Buddha; and the Nipponzan-Myōhōji Peace Pagoda, built by the
+        eponymous Japanese Buddhist Order.{" "}
+        <span className={styles.grayShadow}>Nichidatsu Fuji</span>, who founded
+        the order, I’ve found in my reading, was so deeply affected by the
+        bombings at Hiroshima and Nagasaki and dedicated the remainder of his
+        life to building these structures across the globe.
+        <br />
+        <br />
+        <br />
+        <span className={styles.grayShadow}>Wat Kiryvongsa Bopharam</span> had
+        been established after Nipponzan-Myōhōji, who were invited to Western
+        Massachusetts at the latter’s request. The Peace Pagoda won approval of
+        the town of Leverett in 1984, and very immediately construction began,
+        aided by local Catholic nuns. Should I change the essay or just tack on
+        a correction at the end, I text N., caught up as my accomplice, who
+        deemed our ignorance. N. texts: “The whitest Buddhism of all?”
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <span className={styles.sectionBreakSymbol}>~</span>
+        <br />
+        <br />
+        <br />
+        All of this.
+        <br />
+        <br />
+        <br />
+        All of this matters, though it doesn’t necessarily strategically{" "}
+        <i>mean</i>. Though it may someday, or already may for someone, whose
+        voice has never been given.
+        <br />
+        <br />
+        <br />
+        What can the monastery <i>be</i> in America but a mirror of 
+        defeat? A bare architecture gesturing to nothing substantially
+        timeless, though it purports to have access to that. To whom 
+        does it give this access other than a people whose trace is 
+        already in the process of being defiled? Can one sit here, can
+        one sit for an hour here.
         <br/>
         <br/>
         <br/>
-         To my interest and embarrassment, the place we’d visited
-        had been di-parate: a kind of Buddhist amusement park? The
-        Cambodian monastery Wat Kiryvongsa Bopharam, where we’d seen
-        the snake divinities, the heads in the snow, the sleeping
-        Buddha; and the Nipponzan-Myōhōji Peace Pagoda, built by
-        the eponymous Japanese Buddhist Order. Nichidatsu Fuji, who
-        founded the order, I’ve found in my reading, was so deeply
-        affected by the bombings at Hiroshima and Nagasaki and 
-        dedicated the remainder of his life to building these
-        structures across the globe. 
+        “To exist to be being, when I’m already being.” 
+        <br/>
+        <br/>
+        <br/>
+        <span className={styles.grayShadow}>
+        May I be free from pain
+        <br/>
+        <br/>
+        May I have
+        <br/>
+        <br/>
+        May I have freedom from pain
+        <br/>
+        <br/>
+        May I have not the shock, but the grief of pain
+        <br/>
+        <br/>
+        May I have something for which to show my forgiveness
+        <br/>
+        <br/>
+        <br/>
+        May I be aware of the Great Harmonic Disarticulation
+        <br/>
+        <br/>
+        May I have pencils
+        <br/>
+        <br/>
+        Pencils
+        <br/>
+        <br/>
+        May I have White Buddhism as a salve for burning real pragmatic
+        <br/>
+        <br/>
+        May I have <s>insurance, financial stability, the right to kill
+        with impunity, the right to suicide, a studio apartment and no 
+        rent, a pet gila monster, a vegetable garden in Brooklyn, the
+        lights on forever, the sound off forever, the water running, the
+        people who make me</s>.
+        </span>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <span className={styles.sectionBreakSymbol}>~</span>
+        <br />
+        <br />
+        <br />
+        <span className={styles.grayShadow}>
+        Tell him
+        <br/>
+        <br/>
+        That we who follow you
+        <br/>
+        <br/>
+        Invented forgiveness
+        <br/>
+        <br/>
+        <br/>
+        May I be 
+        <br/>
+        <br/>
+        May I have
+        <br/>
+        <br/> 
+        May I be
+        <br/>
+        <br/>
+        May I have
+        <br/>
+        <br/> 
+        May I be
+        <br/>
+        <br/>
+        May I be
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <span className={styles.sectionBreakSymbol}>~</span>
+        <br />
+        <br />
+        <br />
+        Futile — the winds —
+        <br />
+        <br />
+        <br />
+        <i>Hours before, we’d been on top of the covers in the Allen
+        House Inn (the William Morris Room) fearing we’d sullied
+        the doilied coverlet with our fluids. We’d been mistaken
+        as two on a honeymoon, so we followed suit. Pained — like
+        wet leaves blown onto a tree — conjoined, sharing 
+        a breathing. Whatever one of us bent over the other. Episodes
+        of Jeopardy in between. The ‘leaden donkey.’ The ‘load.’</i>
+
+
+        </span>
 
       </StandardProse>
       <Footer />
