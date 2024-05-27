@@ -106,9 +106,9 @@ export default function Nails() {
         campus—from the Radcliffe Quadrangle, through the square to Felipe’s, up
         Broadway—with L., with whom I was excited to meet again, though{" "}
         <i>not in the headspace</i> to continue, or make of our time a process.
-        A process I didn&rsquo;t wish to renew. Walking, one morning, across Perry
-        Park for iced coffee at Broadsheet with A. in the middle of the summer.
-        An agreement we’d made immediately, to acknowledge each other’s
+        A process I didn&rsquo;t wish to renew. Walking, one morning, across
+        Perry Park for iced coffee at Broadsheet with A. in the middle of the
+        summer. An agreement we’d made immediately, to acknowledge each other’s
         turn-ons. She told me to take my time with it. With what, presumably.
         She chipped a nail on my belt.
         <br />
@@ -141,11 +141,20 @@ export default function Nails() {
           <br />
           <br />
           <br />
+          <br />
+          <br />
+          <br />
           Make yourself at home.
           <br />
           <br />
           <br />
+          <br />
+          <br />
+          <br />
           Sincerely,
+          <br />
+          <br />
+          <br />
           <br />
           <br />
           <br />
@@ -199,11 +208,99 @@ export default function Nails() {
         <br />
         <br />
         “You did this type of breathing,” she said, and exhaled, slowly, twice
-        through her nose, “and so I thought you were asleep.” “I wasn’t
-        asleep,” I said, “I was emotional.”
+        through her nose, “and so I thought you were asleep.” “I wasn’t asleep,”
+        I said, “I was emotional.”
+        <br />
+        <br />
+        <br />I tried hard to think about what a world in which 2.1 million
+        people had died would look like but I couldn’t see anything. When they
+        say “no alternative”{" "}
+        <span className={styles.grayShadow}>(w/r/t Capitalism)</span>, I think
+        they mean no positive alternatives come to mind.
+        <br />
+        <br />
+        <br />
+        Are we in the disaster? We are. A reality we don’t need to read about.
+        We can’t even imagine how it could be worse than it is. We can’t even
+        imagine how bad it truly is half the time.
+        <br />
+        <br />
+        <br />
+        I set out to write my life as I was living it: like the ‘talking poem’
+        or ‘tape for the turn of the year,’ but, as I told myself, I wouldn’t
+        hold myself to a schedule. Whenever a writer says “schedule,” it means
+        that they don’t have a job. Academic poetry isn’t a job. Keeping
+        appointments isn’t a job. Running errands, even for family, isn’t a job.
+        <br />
+        <br />
+        <br />
+        To write one’s life off-schedule, so to speak, meant never talking about
+        what was important to the world at any point in time, because talking
+        about what is important feels too much like a job. And I already have
+        two. To write one’s life off-schedule: it meant a sex life, my vocation.
+        It meant not talking about the initial Quarantine, the Uprisings (all
+        over the world), the Great Harmonic Disarticulation, the Great
+        Concealment (and those who conceal), the virus, the so-called{" "}
+        <i>election</i>, the so-called <i>Insurgency</i>, the collective desire
+        to burn, the collective desire to break quarantine.
+        <br />
+        <br />
+        <br />
+        But rather sex, kissing people during a pandemic, learning to be lovable
+        again, walking, writing about walking, writing about{" "}
+        <span className={styles.grayShadow}>
+          {" "}
+          Gilles Deleuze, Felix Guattari, Henri Bergson, William James, Maurizio
+          Lazzarato, Ralph Waldo Emerson
+        </span>
+        .
+        <br />
+        <br />
+        <br />
+        Part of it? These words have not scaled the levels of memory high
+        enough—in my regard—to be considered poetic. This brings up troubling
+        distance, once again, between revolution and aesthetics. What I hoped to
+        show in my writings was the emergence in the <i>smaller</i> aspects of
+        life of a new sensibility, ethical <i>and</i> aesthetic, endemic to
+        time. Of a period.
+        <br />
+        <br />
+        <br />
+        Were I to add dates, I asked of my writing, would it correspond
+        impartially to events in the life of the reader? As their eyes process
+        the page data. <span className={styles.boldHeader}>1.17.21</span>. Like
+        that.
         <br/>
         <br/>
         <br/>
+        Today I mourned, more personally, my grandfather. I walked around
+        Watertown with B. The froyo shop owner asked me to come back later
+        for a sample of something dairy-free. “It’s the oldest food known 
+        to man,” he said.  
+        <br/>
+        <br/>
+        <br/>
+        I feel like going against orders, but against whose command? God
+        came back in focus in a very God way. 
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <span className={styles.sectionBreakSymbol}>~</span>
+        <br />
+        <br />
+        <br />
+        A day in the life of White Buddha: I name this particular
+        performance <span className={styles.grayShadow}>grateful to be living
+        when nothing threatens my living</span>. Inhale bagel and coffee. Grateful
+        to my living when all I do is threaten what is outside the status
+        quo with obliteration. Image of a canyon, introduced. Image of
+        a white guy shirtlessly sitting in state, in a state of calm, in
+        a State of violence, to fend off the violence that doesn’t even
+        look his direction. I know my love is pure. I know my love is 
+        only so pure. 
 
       </StandardProse>
       <Footer />
