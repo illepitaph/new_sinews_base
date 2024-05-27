@@ -6,6 +6,7 @@ import StandardProse from "../../components/standardProse.js";
 import Image from "next/image";
 import Stough2 from "../../public/images/Stough2.jpg";
 import Stough3 from "../../public/images/Stough3.jpg";
+import Stough4 from "../../public/images/Stough4.jpg";
 import Footer from "../../components/footer.js";
 import styles from "../../styles/Nails.module.css";
 Nails.title = "cary_stough ~ nails — new_sinews";
@@ -708,6 +709,69 @@ export default function Nails() {
         <br/>
         <br/>
         <br/>
+        Screen upon which-is is projected, not a screen door one passes
+        through. Glass, as a child, acted a lot like speech: bisecting
+        one from the inside, and from within. This was not a 
+        transcendental synthesis yet, but the breaking one off from
+        a group of things. Like a statue.
+        <br />
+        <br />
+        <br />
+        <div>
+          <Image
+            src={Stough4}
+            width={80}
+            height={20}
+            layout={`responsive`}
+            alt="Cary Stough Picture of Cambodian Monastery in Western Massachusetts"
+          />
+        </div>
+        <br />
+        <br />
+        <br /> 
+        If meditation is a practice of courting multiplicity why does
+        there remain a trope of withdrawal? 
+        <br />
+        <br />
+        <br /> 
+        I chose, as always, the Whitmanesque immersion over the
+        secluded, occluded denial of influence. Influence: abrasion, inculcation, implication
+        and contagion; of it all. Even the early Desert Fathers 
+        discovered retributive care only by remaining open to harm. 
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <span className={styles.boldHeader}>2.23.21</span>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        Washington Post: “First migrant facility for children opens under Biden.”
+        <br/>
+        <br/>
+        <br/>
+        White House Press Sec. Jen Psaki: “This is not kids being 
+        kept in cages. This is a facility that was opened, that’s 
+        going to follow the same standards as other HHS facilities.”
+        <br/>
+        <br/>
+        <br/>
+        This is not ____ being kept in cages.
+        <br/>
+        <br/>
+        <br/>
+        This is a _____ that was opened.
+        <br/>
+        <br/>
+        <br/>
+
+
+
       </StandardProse>
       <Footer />
     </>
