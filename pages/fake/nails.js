@@ -1135,6 +1135,7 @@ export default function Nails() {
         <br/>
         <br/>
         May I be
+        </span>
         <br />
         <br />
         <br />
@@ -1156,10 +1157,6 @@ export default function Nails() {
         wet leaves blown onto a tree — conjoined, sharing 
         a breathing. Whatever one of us bent over the other. Episodes
         of Jeopardy in between. The ‘leaden donkey.’ The ‘load.’</i>
-
-
-        </span>
-
       </StandardProse>
       <Footer />
     </>
