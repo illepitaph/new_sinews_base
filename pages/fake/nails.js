@@ -4,6 +4,7 @@ import LeftGrayTitle from "../../components/leftGrayTitle.js";
 import LeftBlackTitle from "../../components/leftBlackTitle.js";
 import StandardProse from "../../components/standardProse.js";
 import Image from "next/image";
+import Stough2 from "../../public/images/Stough2.jpg";
 import Footer from "../../components/footer.js";
 import styles from "../../styles/Nails.module.css";
 Nails.title = "cary_stough ~ nails — new_sinews";
@@ -301,6 +302,71 @@ export default function Nails() {
         a State of violence, to fend off the violence that doesn’t even
         look his direction. I know my love is pure. I know my love is 
         only so pure. 
+        <br />
+        <br />
+        <br />
+        <div>
+        <Image
+            src={Stough2}
+            width={80}
+            height={20}
+            layout={`responsive`}
+            alt="Cary Stough Headshot of The Author Amidst Daylit Windows"
+          />
+        </div>
+        <br/>
+        <br/>
+        <br/>
+        Violence that he&rsquo;s known only in between those events in which 
+        he&rsquo;s “let go.” When I pay attention to the love the State 
+        offers me I’m held protected like a white couple’s child. Like
+        a pooch in the back of a Land Rover. Like a cake in the back
+        of a Rav 4. Like a vegan Christian Q-Shaman. I can be bad and
+        pay for that being bad without having to prove that I’m 
+        good. There&rsquo;s no such thing as it. Anyway.
+        <br/>
+        <br/>
+        <br/>
+        <span className={styles.grayShadow}>
+        May I let this cat in the house 
+        <br/>
+        <br/>
+        May I please have a cat
+        <br/>
+        <br/>
+        May I be granted immunity
+        <br/>
+        <br/>
+        From harm
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <span className={styles.boldHeader}>1.24.21</span>
+        </span>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        This love (N.&rsquo;s love) exhausts: not financially, in the sense
+        of depleting the means of my purchasing power—although, at some
+        point, after all this mileage, I&rsquo;ll need a new car. Exhausts
+        creatively, or approaches that which I had thought of as the
+        threshold of exhaustion and obliteration (what one finds past
+        the threshold takes three forms, only one of them virtual: 1) more
+        exhaustion, as in, the prolongation of a limit [the outbounding
+        of a multiplicity]; 2) sleep [we all know what happens in 
+        sleep, what comes during and after, a person-less 
+        duration]; 3) catatonia as the model for death, which necessarily
+        does not include dying, the actual act, the
+        bye-bye, hush-hush). Pushes me to experiment, which is to
+        say, pulls wool over my eyes, then milk over the wool, naked
+        as a. Jaybird.
+
 
       </StandardProse>
       <Footer />
