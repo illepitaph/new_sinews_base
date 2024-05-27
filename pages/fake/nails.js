@@ -767,8 +767,8 @@ export default function Nails() {
         <br />
         <br />
         <br />
-        I&rsquo;ve been practicing the five minute rule. If a task takes less than 5
-        minutes to do it, I do it.
+        I&rsquo;ve been practicing the five minute rule. If a task takes less
+        than 5 minutes to do it, I do it.
         <br />
         <br />
         <br />
@@ -780,8 +780,8 @@ export default function Nails() {
         To the camp counselors (administrators of the United States government,
         private contractors hired to build such structures—in this case, a
         <i> shipping container</i> manufacturer—and individuals to watch the
-        detained—our <i>only</i> eyes, whose recorded data remains invisible to us)
-        their duty is to the stewardship of these extra-legal beings who are
+        detained—our <i>only</i> eyes, whose recorded data remains invisible to
+        us) their duty is to the stewardship of these extra-legal beings who are
         nonetheless on their way to one of two ends: the extreme of so-defined
         extra-legal exclusion (death), or expulsion from the between-space of
         the camp.
@@ -792,9 +792,8 @@ export default function Nails() {
         the normal order is de facto suspended and in which whether or not
         atrocities are committed depends not on law but on the civility and
         ethical sense of the police who temporarily act as sovereign” (
-        <span className={styles.grayShadow}><i>
-          Homo Sacer: Soveriegn Power and Bare Life
-          </i>
+        <span className={styles.grayShadow}>
+          <i>Homo Sacer: Soveriegn Power and Bare Life</i>
         </span>
         , 174).
         <br />
@@ -807,21 +806,20 @@ export default function Nails() {
         <br />
         <br />
         <br />
-        Suffering. Not much more, goes my contention, should ever
-        be said about suffering. The apparatus through which so many
-        have justified. So much. 
+        Suffering. Not much more, goes my contention, should ever be said about
+        suffering. The apparatus through which so many have justified. So much.
         <br />
         <br />
         <br />
-        People love being, being reminded. 
+        People love being, being reminded.
         <br />
         <br />
         <br />
-        All the while, stepping back from their role as a witness. Where
-        do I place this in the narrative of <i>my</i> life? Modern life, such as
-        it’s mediated, can only see <i>deja vu</i>-vision. The immediate 
-        commodification that cuts off possibility from tasting of its 
-        divine place-taking. 
+        All the while, stepping back from their role as a witness. Where do I
+        place this in the narrative of <i>my</i> life? Modern life, such as it’s
+        mediated, can only see <i>deja vu</i>-vision. The immediate
+        commodification that cuts off possibility from tasting of its divine
+        place-taking.
         <br />
         <br />
         <br />
@@ -832,6 +830,85 @@ export default function Nails() {
         <br />
         <br />
         <br />
+        These notations. In the beginning I still had the experiences of reading
+        Bellamy’s{" "}
+        <span className={styles.grayShadow}>
+          <i>Pink Steam</i>
+        </span>
+        , Tupitsyn’s{" "}
+        <span className={styles.grayShadow}>
+          <i>Picture Cycle</i>
+        </span>
+        , Lisa’s{" "}
+        <span className={styles.grayShadow}>
+          <i>
+            Occasional Works and Seven Walks from the Office of Soft
+            Architecture
+          </i>
+        </span>
+        , and of course{" "}
+        <span className={styles.grayShadow}>
+          <i>Dictee</i>
+        </span>
+        , engendering compositional possibilities.
+        <br />
+        <br />
+        <br />
+        I didn’t want to start a blog for the thousandth time. I wanted to
+        continue the Walk, as it had begun in my mind, with Guattari and
+        Oliveros, their coupling, their catastrophizing of my world, their
+        interlinking, their belief in belief.
+        <br />
+        <br />
+        <br />
+        Justification of the writing-machine, by and through which I attempt to
+        write my life as it is happening, comes from a desire to escape the
+        dipolic impulse of autobiographers to either relinquish singularity in
+        the form of a romantic universalizing by which the narrative of their
+        life could have an <i>end</i>, or produce a stultifying but nonetheless
+        en vogue archaeology of what one calls one’s trauma (which is not to
+        deny the presence—the ever-presence—of traumatic symptoms acting like
+        speed limit signs on the personological and its deterritorialization) in
+        the service, as far as I can see it, of amending the dominant “story of
+        history,” ultimately contributing to what will have become a{" "}
+        <i>truer</i> or <i>neglected</i> archive. City of lost toys.
+        <br/>
+        <br/>
+        <br/>
+        I likewise hesitate to call this writing fragmentary, because 
+        I believe ‘to fragment’ has lost all potency in such a stage
+        of compartmentalization of existential 
+        possibility. Paratactic, rather. That attests to the 
+        continual, renewable connection across a 
+        breakage, void-river. Paratactic, strobe-writing: void-<i>rover</i>. 
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <span className={styles.sectionBreakSymbol}>~</span>
+        <br />
+        <br />
+        <br />
+        I didn’t want to write about the plague years as they were
+        happening because, just a week ago, someone 
+        tweeted “I feel like we’re all just now beginning 
+        to process all of this.” As if process were revolutionary end. 
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <span className={styles.boldHeader}>2.4.21</span>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+
 
       </StandardProse>
       <Footer />
