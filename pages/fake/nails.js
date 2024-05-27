@@ -7,6 +7,7 @@ import Image from "next/image";
 import Stough2 from "../../public/images/Stough2.jpg";
 import Stough3 from "../../public/images/Stough3.jpg";
 import Stough4 from "../../public/images/Stough4.jpg";
+import Stough5 from "../../public/images/Stough5.jpg";
 import Footer from "../../components/footer.js";
 import styles from "../../styles/Nails.module.css";
 Nails.title = "cary_stough ~ nails — new_sinews";
@@ -872,15 +873,13 @@ export default function Nails() {
         the service, as far as I can see it, of amending the dominant “story of
         history,” ultimately contributing to what will have become a{" "}
         <i>truer</i> or <i>neglected</i> archive. City of lost toys.
-        <br/>
-        <br/>
-        <br/>
-        I likewise hesitate to call this writing fragmentary, because 
-        I believe ‘to fragment’ has lost all potency in such a stage
-        of compartmentalization of existential 
-        possibility. Paratactic, rather. That attests to the 
-        continual, renewable connection across a 
-        breakage, void-river. Paratactic, strobe-writing: void-<i>rover</i>. 
+        <br />
+        <br />
+        <br />I likewise hesitate to call this writing fragmentary, because I
+        believe ‘to fragment’ has lost all potency in such a stage of
+        compartmentalization of existential possibility. Paratactic, rather.
+        That attests to the continual, renewable connection across a breakage,
+        void-river. Paratactic, strobe-writing: void-<i>rover</i>.
         <br />
         <br />
         <br />
@@ -891,10 +890,10 @@ export default function Nails() {
         <br />
         <br />
         <br />
-        I didn’t want to write about the plague years as they were
-        happening because, just a week ago, someone 
-        tweeted “I feel like we’re all just now beginning 
-        to process all of this.” As if process were revolutionary end. 
+        I didn’t want to write about the plague years as they were happening
+        because, just a week ago, someone tweeted “I feel like we’re all just
+        now beginning to process all of this.” As if process were revolutionary
+        end.
         <br />
         <br />
         <br />
@@ -905,6 +904,63 @@ export default function Nails() {
         <br />
         <br />
         <br />
+        <br />
+        <br />
+        <br />
+        Trudging through the ever-melt, the renewing freeze, up to—what N.
+        assured me—was a structure that I would not, in my travels, want to
+        miss. Being in the presence of. There is a peace pagoda. Western
+        Massachusetts, like a Christmas Store, always stuck in season. Gold
+        light: “The Golden mountain is in California.”
+        <br />
+        <br />
+        <br />
+        Feeling as if I’d stumbled upon a secret. What is the form of the
+        secret, or is secret the form of the divine? The mystery and the
+        ministry. I feared what I was looking at, in being a place of worship,
+        was looking at me—or at least was
+        <i>visible</i>, in a way like a portal between places of seeing, the
+        world and the other world.
+        <br />
+        <br />
+        <br />
+        <div>
+          <Image
+            src={Stough5}
+            width={80}
+            height={20}
+            layout={`responsive`}
+            alt="Cary Stough Picture of Cambodian Monastery in Western Massachusetts"
+          />
+        </div>
+        <br />
+        <br />
+        <br />
+        Not the Pagoda. A pavilioned shrine. Statue of a figure with big 
+        bright green snakes peeking out from behind both shoulders. Candles
+        and smaller statues laid out. Strange coins in gold or silver 
+        bowls. A bunch of rugs laid down. A bunch of eyes, facing out
+        of the pavilion. On a post at one of its corners, a donation 
+        box, for dollar bills.
+        <br />
+        <br />
+        <br />
+        “Let’s walk a little further,” N. said, “But this doesn’t look familiar.”
+        <br/>
+        <br/>
+        <br/>
+        “Did you hear a car?”
+        <br/>
+        <br/>
+        <br/>
+         “No. Nothing.”
+         <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <span className={styles.sectionBreakSymbol}>~</span>
         <br />
         <br />
         <br />
