@@ -936,25 +936,25 @@ export default function Nails() {
         <br />
         <br />
         <br />
-        Not the Pagoda. A pavilioned shrine. Statue of a figure with big 
-        bright green snakes peeking out from behind both shoulders. Candles
-        and smaller statues laid out. Strange coins in gold or silver 
-        bowls. A bunch of rugs laid down. A bunch of eyes, facing out
-        of the pavilion. On a post at one of its corners, a donation 
-        box, for dollar bills.
+        Not the Pagoda. A pavilioned shrine. Statue of a figure with big bright
+        green snakes peeking out from behind both shoulders. Candles and smaller
+        statues laid out. Strange coins in gold or silver bowls. A bunch of rugs
+        laid down. A bunch of eyes, facing out of the pavilion. On a post at one
+        of its corners, a donation box, for dollar bills.
         <br />
         <br />
         <br />
-        “Let’s walk a little further,” N. said, “But this doesn’t look familiar.”
-        <br/>
-        <br/>
-        <br/>
+        “Let’s walk a little further,” N. said, “But this doesn’t look
+        familiar.”
+        <br />
+        <br />
+        <br />
         “Did you hear a car?”
-        <br/>
-        <br/>
-        <br/>
-         “No. Nothing.”
-         <br />
+        <br />
+        <br />
+        <br />
+        “No. Nothing.”
+        <br />
         <br />
         <br />
         <br />
@@ -964,7 +964,62 @@ export default function Nails() {
         <br />
         <br />
         <br />
-
+        Another pavilion, though boarded up. Technically a very large shed, like
+        the one in which my father built us four particle-board rooms to sleep
+        in during the summer-fall-winter of 1999, while we were building “the
+        house.” To the previous pavilion, there’d been steps within which we
+        could add out tread, but to this other—with its thin boarded walls and
+        cellophane windows—no artifact of past explorers existed. Maybe the
+        trail picked up elsewhere, beyond the structure. Possibly snow covered.
+        Looked like a construction site. Wondered what they were building. We
+        entered a doorframe and shuddered at the sight of a sleeping Buddha in
+        orange, made of plaster? Enormous. At least 15” high, 50” long.
+        <br />
+        <br />
+        <br />
+        “Is this the pagoda?”
+        <br />
+        <br />
+        <br />
+        “Absolutely not. This…”
+        <br />
+        <br />
+        <br />
+        “Is something else.”
+        <br />
+        <br />
+        <br />
+        How do you get to the top of this hill?
+        <br />
+        <br />
+        <br />
+        Through the trees, the golden top of the pagoda shone like a thumb just
+        taken out of a mouth, glistening.
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <span className={styles.sectionBreakSymbol}>~</span>
+        <br />
+        <br />
+        <br />
+        A month later, transcribing all of this, I’m compelled
+        to research the places we visited. 
+        <br/>
+        <br/>
+        <br/>
+         To my interest and embarrassment, the place we’d visited
+        had been di-parate: a kind of Buddhist amusement park? The
+        Cambodian monastery Wat Kiryvongsa Bopharam, where we’d seen
+        the snake divinities, the heads in the snow, the sleeping
+        Buddha; and the Nipponzan-Myōhōji Peace Pagoda, built by
+        the eponymous Japanese Buddhist Order. Nichidatsu Fuji, who
+        founded the order, I’ve found in my reading, was so deeply
+        affected by the bombings at Hiroshima and Nagasaki and 
+        dedicated the remainder of his life to building these
+        structures across the globe. 
 
       </StandardProse>
       <Footer />
