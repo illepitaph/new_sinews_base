@@ -7,7 +7,7 @@ import Footer from "../../components/footer.js";
 import styles from "../../styles/Harrier.module.css";
 Harrier.title = "julian_mithra ~ harrier — new_sinews";
 Harrier.pieceName = "julian_mithra ~ harrier — new_sinews";
-Harrier.description = "_JUALIAN MITHRA_fiction_HARRIER_new_sinews_issue6_";
+Harrier.description = "_JULIAN MITHRA_fiction_HARRIER_new_sinews_issue6_";
 Harrier.image = "https://www.newnewsinews.com/images/HarrierBackground.jpg";
 
 export default function Harrier() {
