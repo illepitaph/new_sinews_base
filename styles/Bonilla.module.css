@@ -35,14 +35,6 @@
     text-transform: uppercase;
   }
   
-  .mintAlternateTwo {
-    font-size: 4.1rem;
-    color: #aaf0d1;
-    text-shadow: 4px 4px snow, 5px 5px 15px black;
-    opacity: 0.6;
-    text-transform: lowercase;
-  }
-  
   .alternateCursive {
     font-family: "bickham-script-pro-3", sans-serif;
     font-size: 9.3rem;
