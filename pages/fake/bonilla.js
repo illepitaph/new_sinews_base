@@ -8,12 +8,12 @@ import styles from "../../styles/Bonilla.module.css";
 Bonilla.title = "israel_bonilla ~ harimàte — new_sinews";
 Bonilla.pieceName = "israel_bonilla ~ harimàte — new_sinews";
 Bonilla.description = "_ISRAEL BONILLA_fiction_HARIMÀTE_new_sinews_issue8_";
-Bonilla.image = "https://www.newnewsinews.com/images/HarrierBackground.jpg";
+Bonilla.image = "https://www.newnewsinews.com/images/HarimateBackground.jpg";
 
 export default function Bonilla() {
   return (
     <>
-      <Header headerBackground="harrierBackground" />
+      <Header headerBackground="harimateBackground" />
       <LeftGrayTitle>
         <span className={styles.titleSkew}>
           <span className={styles.mintAlternate}>h </span>

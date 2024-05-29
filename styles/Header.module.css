@@ -422,6 +422,10 @@
   background-image: url("../public/images/NailsBackground.jpg");
 }
 
+.harimateBackground {
+  background-image: url("../public/images/HarimateBackground.jpg");
+}
+
 @media (width: 1366px) and (height: 1024px) {
   .siteNav > .dropDown > button,
   .home,

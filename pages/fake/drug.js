@@ -9,7 +9,7 @@ Drug.title =
 Drug.pieceName =
   "valerie hsiung ~ it's giving off deep earth ++ to make a concertina the shape of a gasket ++ — new_sinews";
 Drug.description = "_Valerie Hsiung_poetry_9 POEMS_issue8_";
-Drug.image = "https://www.newnewsinews.com/images/FryBackground.jpg";
+Drug.image = "https://www.newnewsinews.com/images/DrugBackground.jpg";
 
 export default function Drug() {
   return (
