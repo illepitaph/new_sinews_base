@@ -34,11 +34,13 @@ export default function YrClimate() {
 
       <RightGrayTitle>
         _{" "}
+        <span className={styles.letterSpacing}>
         <span className={styles.titleShadow}>
           y<span className={styles.inverseShadow}>r</span>_ c
           <span className={styles.inverseShadowUppercase}>l</span> i{" "}
           <span className={styles.inverseShadow}>m</span> a{" "}
           <span className={styles.inverseShadowUppercase}>t</span>e _
+        </span>
         </span>
       </RightGrayTitle>
 

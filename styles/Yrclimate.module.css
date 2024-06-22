@@ -343,7 +343,20 @@
   }
 }
 
+@media (max-width: 391px) and (orientation: portrait) {
+  .letterSpacing {
+    letter-spacing:-0.1rem;
+  }
+  
+}
+
 @media (max-width: 376px) and (orientation: portrait) {
+
+  .letterSpacing {
+    letter-spacing:-0.2rem;
+  }
+
+
   .rightLineation {
     font-size: 0.9rem;
   }
@@ -394,4 +407,12 @@
   .extraExtraLargeTextWall {
     letter-spacing: 0.1vw;
   }
+}
+
+@media (max-width: 376px) and (orientation: portrait) {
+
+  .letterSpacing {
+    letter-spacing:-0.3rem;
+  }
+
 }
