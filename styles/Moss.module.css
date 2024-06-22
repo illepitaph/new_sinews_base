@@ -22,7 +22,7 @@
   text-transform: uppercase;
 }
 
-@media (max-width: 429px) and (orientation: portrait) {
+@media (max-width: 431px) and (orientation: portrait) {
   .title {
     font-size: 3.7rem;
   }
