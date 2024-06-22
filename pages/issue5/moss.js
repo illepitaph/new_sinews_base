@@ -41,9 +41,11 @@ export default function Moss() {
       </pre>
       <br />
       <CenterGrayTitle>
+      <span className={styles.authorName}>
         {" "}
         ... <i>samuel</i> ... <br />
         ... <i>moss</i> ...{" "}
+        </span>
       </CenterGrayTitle>
       <br />
       <br />

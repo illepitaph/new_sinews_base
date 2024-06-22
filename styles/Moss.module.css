@@ -26,6 +26,10 @@
   .title {
     font-size: 3.7rem;
   }
+
+  .authorName {
+    font-size: 3rem;
+  }
 }
 
 @media (max-width: 281px) and (orientation: portrait) {
