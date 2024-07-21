@@ -21,7 +21,7 @@
 
 .inverseShadowUppercase {
   color: snow;
-  text-shadow: 1px 1px black, 5px 7px #00ffff, 11px 12px 22px black;
+  text-shadow: 2px 2px #00ffff, 4px 4px white, 6px 6px #00ffff, 8px 8px black, 15px 15px #00ffff, 20px 20px 27px black;
   text-transform: uppercase;
 }
 
