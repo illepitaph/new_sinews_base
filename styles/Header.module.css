@@ -426,6 +426,10 @@
   background-image: url("../public/images/HarimateBackground.jpg");
 }
 
+.houcekBackground {
+  background-image: url("../public/images/HoucekBackground.jpg");
+}
+
 @media (width: 1366px) and (height: 1024px) {
   .siteNav > .dropDown > button,
   .home,
