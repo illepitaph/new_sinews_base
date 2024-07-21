@@ -248,7 +248,7 @@
   }
 }
 
-@media (max-width: 376px) and (orientation: portrait) {
+@media (max-width: 385px) and (orientation: portrait) {
   .titleShadow {
     font-size: 1.8rem;
   }
