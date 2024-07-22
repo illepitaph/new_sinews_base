@@ -374,7 +374,7 @@ a component of perception.`}
           width={90}
           height={80}
           layout={`responsive`}
-          alt="Up close blur of foliage behind a broader blurry horizon of treeline"
+          alt="Close up blur of foliage behind a broader blurry horizon of treeline"
         />
       </div>
 
@@ -447,6 +447,125 @@ I speak & I am wrong. I am wrong in the moment, less later.`}
           alt="Black and white photo depicting a blurry woodsy indefinite groundward view and the lower left leg of the photographer"
         />
       </div>
+
+      <br />
+      <br />
+
+      <div className={styles.poemBox}>
+        <pre className={styles.poem}>
+          {`When someone walks past me on the street — when I sense their life would refuse how I live, when 
+it is obvious each of their actions calcifies, rigid in its shell — then isn’t this life or death.
+          
+The way home, at night, grey heat in my body spooling into forms as it neared the colder edges of
+skin.
+
+None of the shapes could I recognize, though I looked.
+
+That woman was not my grandmother, she was my great aunt. She drains from beneath my skin.
+
+`}
+          <i>The power to construct oneself is a destiny</i>
+          {`.
+
+The lotus dissolved. The lotus root, it dissolved, all the strong fibers gone.
+
+The petal-distance deepened. All other actions grew long in the contraction, bordered eagerly along
+each edge. Flattened against the wall, the flower became a pool of thick, grey fluid.
+
+Our shadows stumbled inside.
+
+What they found was part of another order. Nothing is visible. The surface does not close nor
+respire. The deathmask beats on the breastplate, abrading the skin shadow beneath.
+
+The mandible cants in the afternoon.
+
+There was a language called German. We could it pick it up from cylinders in the marsh ground.
+
+Ich sage dir — `}
+          <i>unbekanntes Holz</i>
+          {`.
+
+`}
+          <i>Auseinander</i>
+          {`.
+
+`}
+          <i>Grün</i>
+          {`
+
+What do you mean?`}
+        </pre>
+      </div>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <h3 className={styles.poemTitle}>snakeskin</h3>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <div className={styles.poemBox}>
+        <pre className={styles.poem}>
+          {`Between the active voice, `}
+          <i>nomous tithénai</i>
+          {`, “to make laws”, as a lawmaker makes laws for the people,
+activity passing from lawmaker into
+                                                               the commons — &
+
+the middle voice, `}
+          <i>nomous tithéstai</i>
+          {`, “to make laws” while including oneself, to give laws also to oneself,
+act only
+              while acting on oneself, folding the subject back
+              
+into the verb’s process — between them, the polis’s street lined with little red flowers.
+
+...
+
+Maybe
+             you can tell the memory in my head by the way my eyelids at the edges pull inner, seeking to
+             be more involved in my blood’s circulation. Until then can I
+             
+             still sit next to you in the grass surging quietly through white bouts of stone, bitter with chalk
+             dust, this cemetery near Corinth & Colonus.
+             
+And, maybe,
+                     as far as language is concerned, as a whole — it is to do it inside language. No longer
+                     apply its force onto others, friends, but
+
+                     to work it from inside, within the closed volume, until the whole of that sheaf twists &
+                     reveals its dorsal surfaces.
+
+This application of a force within a volume. That twists the form of the volume. Which, twisting,
+twists as well
+                      what is around it. A new rule
+                      
+for action — up to now everything indecisive, cautious.
+
+Faced with the snakes in the thundering grove is there, why could there not be, a way to act that
+does not start with the snake.
+
+Around language, what is it that giant mass, darkly calcifying, now obdurate, but not unalterable.
+
+Later, it was the sun showing through long, cold cracks of train.`}
+        </pre>
+      </div>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
       <Footer />
     </>
   );
