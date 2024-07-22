@@ -5,9 +5,9 @@ import LeftBlackTitle from "../../components/leftBlackTitle.js";
 import Footer from "../../components/footer.js";
 import styles from "../../styles/Fry.module.css";
 Fry.title =
-  "logan fry ~ an If unfixed ++ all kinetic in rectitude ++ — new_sinews";
+  "logan_fry ~ an If unfixed ++ all kinetic in rectitude ++ — new_sinews";
 Fry.pieceName =
-  "logan fry ~ an If unfixed ++ all kinetic in rectitude ++ — new_sinews";
+  "logan_fry ~ an If unfixed ++ all kinetic in rectitude ++ — new_sinews";
 Fry.description = "_Logan Fry_poetry_6 POEMS_issue8_";
 Fry.image = "https://www.newnewsinews.com/images/FryBackground.jpg";
 

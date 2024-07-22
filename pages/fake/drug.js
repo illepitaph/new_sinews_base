@@ -5,9 +5,9 @@ import LeftBlackTitle from "../../components/leftBlackTitle.js";
 import Footer from "../../components/footer.js";
 import styles from "../../styles/Drug.module.css";
 Drug.title =
-  "valerie hsiung ~ it's giving off deep earth ++ to make a concertina the shape of a gasket ++ — new_sinews";
+  "valerie_hsiung ~ it's giving off deep earth ++ to make a concertina the shape of a gasket ++ — new_sinews";
 Drug.pieceName =
-  "valerie hsiung ~ it's giving off deep earth ++ to make a concertina the shape of a gasket ++ — new_sinews";
+  "valerie_hsiung ~ it's giving off deep earth ++ to make a concertina the shape of a gasket ++ — new_sinews";
 Drug.description = "_Valerie Hsiung_poetry_9 POEMS_issue8_";
 Drug.image = "https://www.newnewsinews.com/images/DrugBackground.jpg";
 

@@ -4,8 +4,8 @@ import LeftGrayTitle from "../../components/leftGrayTitle.js";
 import StandardProse from "../../components/standardProse.js";
 import Footer from "../../components/footer.js";
 import styles from "../../styles/FatherFigure.module.css";
-Father.title = "andrea harper ~ father figure — new_sinews";
-Father.pieceName = "andrea harper ~ father figure — new_sinews";
+Father.title = "andrea_harper ~ father_figure — new_sinews";
+Father.pieceName = "andrea_harper ~ father_figure — new_sinews";
 Father.description = "_Andrea Harper_fiction_FATHER FIGURE_news_sinews_issue8_";
 Father.image = "https://www.newnewsinews.com/images/FatherFigureBackground.jpg";
 

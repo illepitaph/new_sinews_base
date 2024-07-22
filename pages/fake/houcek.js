@@ -5,9 +5,9 @@ import LeftBlackTitle from "../../components/leftBlackTitle.js";
 import Footer from "../../components/footer.js";
 import styles from "../../styles/Houcek.module.css";
 Houcek.title =
-  "elise houcek ~ a frog that has depressed a bird ++ is the tone of cruel ++ — new_sinews";
+  "elise_houcek ~ a frog that has depressed a bird ++ is the tone of cruel ++ — new_sinews";
 Houcek.pieceName =
-  "elise houcek ~ a frog that has depressed a bird ++ is the tone of cruel ++ — new_sinews";
+  "elise_houcek ~ a frog that has depressed a bird ++ is the tone of cruel ++ — new_sinews";
 Houcek.description = "_Elise Houcek_poetry_8 POEMS_issue8_";
 Houcek.image = "https://www.newnewsinews.com/images/FryBackground.jpg";
 
