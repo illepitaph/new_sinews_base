@@ -3,6 +3,11 @@ module.exports = {
     return [
 
       {
+        source: "/maitonaut",
+        destination: "/books/maitonaut",
+      },
+
+      {
         source: "/plane",
         destination: "/books/plane",
       },
