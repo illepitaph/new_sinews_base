@@ -56,7 +56,7 @@ export default function Memory() {
             <br />
             <br />m<span className={styles.fadeUpper}>a</span>ne<i>u</i>
             <span className={styles.fade}>v</span>e
-            <span className={styles.uppercase}>r</span> ::
+            <span className={styles.uppercase}>r</span>
           </span>
           <br />
           <br />
@@ -67,7 +67,7 @@ export default function Memory() {
           <br />
           <br />c<span className={styles.fade}>o</span>n<i>s </i>t
           <span className={styles.uppercase}>a</span>
-          <span className={styles.fadeUpper}>n</span>cy ::{" "}
+          <span className={styles.fadeUpper}>n</span>cy //{" "}
           <span className={styles.moreSpace}>
             <i>s</i>
             <span className={styles.uppercase}>n</span>
@@ -122,12 +122,12 @@ export default function Memory() {
 
       <div className={styles.epigraphContainer}>
         <div>
-          <i>
+          
             Circles were more perfect, less tragic, and didn’t move her enough.
             Circles were the work of man, finished before death and not even God
             could finish them better. While straight, fine, freestanding lines —
             were like thoughts.
-          </i>
+          
           <br />
           <br />
           <br />
@@ -161,7 +161,7 @@ Charité, 1429.`}
           <span className={styles.boldHeader}>[ point #2 — ]</span>
           <br />
           {`in Clermont last summer the smell of the taxidermied animals seeped from the displays into the
- unventilated air, it formed a spiral of biological life. It pushed us out, we lived in an apartment on
+unventilated air, it formed a spiral of biological life. It pushed us out, we lived in an apartment on
 the ground floor of a shadowed impasse. The bedroom received, even at midday, no light; the mirror
 lit up.`}
           <br />
@@ -335,7 +335,8 @@ Then I wrote
 to Gabby I
 agree utopia
 is material it
-is material because it is
+is material because
+it is
 a component of perception.`}
         </pre>
       </div>
