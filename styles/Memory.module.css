@@ -401,6 +401,14 @@
   }
 }
 
+@media (width: 540px) and (height: 720px) {
+
+  .poem {
+    font-size: 1.1rem;
+    white-space:pre-wrap;
+  }
+}
+
 @media (max-width: 431px) and (orientation: portrait) {
 
   .boldHeader {
@@ -455,7 +463,7 @@
   }
 }
 
-@media (max-width: 321px) and (orientation: portrait) {
+@media (max-width: 345px) and (orientation: portrait) {
   .titleShadow {
     font-size: 1.7rem;
   }
