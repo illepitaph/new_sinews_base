@@ -125,15 +125,25 @@
     letter-spacing: 0.1rem;
     transform: rotate(2deg);
   }
+
+  .orderLink {
+    display: inline-block;
+    font-size: 2rem;
+    color: white;
+    text-shadow: 1px 1px black, 2px 2px white, 3px 3px black, 4px 4px white,
+      5px 5px black, 6px 6px white, 7px 7px 16px black;
+    letter-spacing: 0.1rem;
+    transform: rotate(2deg);
+  }
   
   .authorName,
-  .orderNow {
+  .orderLink {
     transition: 1s letter-spacing;
     cursor: pointer;
   }
   
   .authorName:hover,
-  .orderNow:hover {
+  .orderLink:hover {
     letter-spacing: 0.7rem;
   }
   

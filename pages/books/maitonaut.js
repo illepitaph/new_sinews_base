@@ -72,14 +72,32 @@ export default function Maitonaut() {
         </div>
         <br />
         <br />
+        <p className={styles.orderNow}>
+          <span className={styles.uppercase}>&#8681; order &#8681; now &#8681;</span>
+        </p>
+        <br />
+        <br />
         <a
-          href="https://newsinews.bigcartel.com/product/plane-of-consummate-finitude"
+          href="https://bookshop.org/p/books/maitonaut-kaisa-saarinen/21660638?ean=9798990025714"
           target="_blank"
           rel="noreferrer"
         >
-          <span className={styles.orderNow}>
+          <span className={styles.orderLink}>
             <span className={styles.uppercase}>
-              &#10132; order now &#8678;{" "}
+              &#10132; Bookshop &#8678;{" "}
+            </span>
+          </span>
+        </a>
+        <br />
+        <br />
+        <a
+          href="https://www.barnesandnoble.com/w/maitonaut-kaisa-saarinen/1146031614?ean=9798990025714"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <span className={styles.orderLink}>
+            <span className={styles.uppercase}>
+              &#10132; Barnes & Noble &#8678;{" "}
             </span>
           </span>
         </a>
@@ -88,18 +106,18 @@ export default function Maitonaut() {
         <br />
         <br />
         <div className={styles.bookInnerContainerTwo}>
-        <Image
-          src={ForestAngel}
-          width={600}
-          height={900}
-          alt="Picture of the poem WEE from the book PLANE OF CONSUMMATE FINITUDE by Steve Barbaro"
-        />
-        <Image
-          src={LateSpring}
-          width={600}
-          height={905}
-          alt="Picture of the poem WEE from the book PLANE OF CONSUMMATE FINITUDE by Steve Barbaro"
-        />
+          <Image
+            src={ForestAngel}
+            width={600}
+            height={900}
+            alt="Picture of the poem WEE from the book PLANE OF CONSUMMATE FINITUDE by Steve Barbaro"
+          />
+          <Image
+            src={LateSpring}
+            width={600}
+            height={905}
+            alt="Picture of the poem WEE from the book PLANE OF CONSUMMATE FINITUDE by Steve Barbaro"
+          />
         </div>
         <br />
         <br />
@@ -146,10 +164,10 @@ export default function Maitonaut() {
         Size: 6 X 9
         <br />
         <br />
-        Pages: 110
+        Pages: 112
         <br />
         <br />
-        Price: ?
+        Price: $15.00
       </p>
       <br />
       <br />
@@ -315,7 +333,7 @@ export default function Maitonaut() {
       <br />
       <RightBlackTitle>
         <span className={styles.bookClassification}>
-          the 3<span className={styles.uppercase}>r</span>d<br/> b
+          the 3<span className={styles.uppercase}>r</span>d<br /> b
           <span className={styles.uppercase}>o</span>o
           <span className={styles.uppercase}>k </span>
           of k<span className={styles.uppercase}>a</span>i
@@ -331,25 +349,25 @@ export default function Maitonaut() {
       <br />
       <br />
       <div className={styles.bookInnerContainerTwo}>
-          <Image
-            src={MaitonautCoverTwo}
-            width={400}
-            height={600}
-            alt="Back cover of the book of fiction and poems titled MAITONAUT by Kaisa Saarinen"
-          />
-          <Image
-            src={MaitonautCoverTwo}
-            width={400}
-            height={600}
-            alt="Back cover of the book of fiction and poems titled MAITONAUT by Kaisa Saarinen"
-          />
-          <Image
-            src={MaitonautCoverTwo}
-            width={400}
-            height={600}
-            alt="Back cover of the book of fiction and poems titled MAITONAUT by Kaisa Saarinen"
-          />
-        </div>
+        <Image
+          src={MaitonautCoverTwo}
+          width={400}
+          height={600}
+          alt="Back cover of the book of fiction and poems titled MAITONAUT by Kaisa Saarinen"
+        />
+        <Image
+          src={MaitonautCoverTwo}
+          width={400}
+          height={600}
+          alt="Back cover of the book of fiction and poems titled MAITONAUT by Kaisa Saarinen"
+        />
+        <Image
+          src={MaitonautCoverTwo}
+          width={400}
+          height={600}
+          alt="Back cover of the book of fiction and poems titled MAITONAUT by Kaisa Saarinen"
+        />
+      </div>
 
       <Footer />
     </>

@@ -6,6 +6,7 @@ import RightBlackTitle from "../../components/rightBlackTitle.js";
 import LeftBlackTitle from "../../components/leftBlackTitle.js";
 import Footer from "../../components/footer.js";
 import styles from "../../styles/Books.module.css";
+import MaitonautCover from "../../public/images/MaitonautCover.jpg";
 import PlaneCover from "../../public/images/PlaneCover.jpg";
 Books.title = "books — new_sinews";
 Books.pieceName = "new_sinews books page";
@@ -446,6 +447,110 @@ export default function Books() {
       </RightBlackTitle>
       <br />
       <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <div className={styles.bookInnerContainerZero}>
+        <br />
+        <Image
+          src={MaitonautCover}
+          width={400}
+          height={300}
+          alt="Cover of the book of stories and poems titled MAITONAUT by Kaisa Saarinen"
+        />
+        <Image
+          src={MaitonautCover}
+          width={200}
+          height={300}
+          alt="Cover of the book of stories and poems titled MAITONAUT by Kaisa Saarinen"
+        />
+        <Image
+          src={MaitonautCover}
+          width={100}
+          height={300}
+          alt="Cover of the book of stories and poems titled MAITONAUT by Kaisa Saarinen"
+        />
+        <Image
+          src={MaitonautCover}
+          width={200}
+          height={300}
+          alt="Cover of the book of stories and poems titled MAITONAUT by Kaisa Saarinen"
+        />
+        <Image
+          src={MaitonautCover}
+          width={400}
+          height={300}
+          alt="Cover of the book of stories and poems titled MAITONAUT by Kaisa Saarinen"
+        />
+      </div>
+      <RightBlackTitle>
+      <span className={styles.authorName}>
+            k<span className={styles.uppercase}>a</span>i
+            <span className={styles.uppercase}>sa</span> s
+            <span className={styles.uppercase}>aa</span>ri
+            <span className={styles.uppercase}>n</span>en
+          </span>
+        <br />
+        <br />
+        <span className={styles.bookName}>Maitonaut</span>
+        <br />
+        <br />
+        <span className={styles.bookClassification}>
+          ( fi<span className={styles.uppercase}>c</span>ti
+          <span className={styles.uppercase}>on</span> +++ P
+          <span className={styles.uppercase}>o</span>e
+          <span className={styles.uppercase}>m</span>s)
+        </span>
+      </RightBlackTitle>
+      <p className={styles.bookDescription}>
+      There is escapism, yes—but then there is transcendence. And the more{" "}
+        <span className={styles.maitonautName}>Maitonaut</span>self-reveals the
+        more we see hints of full blown eternity hidden within the blur of
+        modern everydayness. Mixing poems and fiction and narrators with the
+        fluidity of water becoming ice then vapor, Kaisa Saarinen&rsquo;s
+        collection self-escapes somehow in the midst of its very
+        self-materialization.
+      </p>
+      <LeftBlackTitle>
+        <Link href="/books/maitonaut" passHref>
+          <div className={styles.bookInnerContainer}>
+            <span className={styles.learnMore}>
+              <span className={styles.uppercase}>
+                <span className={styles.learnMoreSecondShadow}>
+                  {" "}
+                  &#8681; &#8681; &#8681;
+                </span>
+                click to learn more + order{" "}
+                <span className={styles.learnMoreSecondShadow}>
+                  &#8681; &#8681; &#8681;
+                </span>{" "}
+              </span>
+            </span>
+            <br />
+            <Image
+              src={MaitonautCover}
+              width={600}
+              height={900}
+              alt="Cover of the book of stories and poems titled MAITONAUT by Kaisa Saarinen"
+            />
+          </div>
+        </Link>
+      </LeftBlackTitle>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
       <div className={styles.bookInnerContainerZero}>
         <br />
         <Image
