@@ -445,8 +445,13 @@
     font-size: 1.7rem;
   }
 
+  .poemBox {
+    max-width: 100vw;
+    margin-left: 0.1rem;
+  }
+
   .poem {
-    font-size: 0.6rem;
+    font-size: 0.45rem;
   }
 }
 
