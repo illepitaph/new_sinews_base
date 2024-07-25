@@ -52,7 +52,7 @@
   }
 
   .grayShadowUpperTwo {
-    font-size: 1.7rem;
+    font-size: 1.51rem;
     font-family: "lores-9-plus-wide", monospace;
     text-shadow: 1px 1px snow, 2px 2px #b0b0b0;
     text-transform: uppercase;
@@ -64,7 +64,7 @@
   
   .compactProse {
     max-width: 30vw;
-    margin-left: 22.5vw;
+    margin-left: 20.5vw;
     line-height: 1.6rem;
   }
 
@@ -80,6 +80,13 @@
     text-align: center;
     margin-bottom:-0.007vh;
     text-shadow: 1px 1px snow, 2px 2px #b0b0b0;
+  }
+
+  .middleTextTwo {
+    text-align: center;
+    margin:-0.2vh 0 -0.007vh 0;
+    text-shadow: 1px 1px snow, 2px 2px #b0b0b0;
+
   }
 
   

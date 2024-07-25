@@ -197,15 +197,13 @@ export default function Credits() {
           <br />
           <br />
           <p className={styles.middleText}>WOMAN OF WONDER</p>
-          <p className={styles.middleText}>(adjusting her stars and stripes top)</p>
-          <br />
+          <p className={styles.middleTextTwo}>(adjusting her stars and stripes top)</p>
           I had some help. And hey...I was thinking...
           <br />
           <br />
           <br />
           <p className={styles.middleText}>QUIRKY NEUROBIOLOGIST</p>
-          <p className={styles.middleText}>(scooting closer to the WOMAN OF WONDER)</p>
-          <br />
+          <p className={styles.middleTextTwo}>(scooting closer to the WOMAN OF WONDER)</p>
           Yeah?
         </p>
         <br />
@@ -225,10 +223,8 @@ export default function Credits() {
         <br />
         <p className={styles.compactProse}>
           <p className={styles.middleText}>WOMAN OF WONDER</p>
-          <p className={styles.middleText}>(smiling)</p>
-          <br />
+          <p className={styles.middleTextTwo}>(smiling)</p>
           We had a war to win and a city to save.
-          <br />
         </p>
         <br />
         The camera pans outside the shop.
