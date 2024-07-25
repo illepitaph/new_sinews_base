@@ -434,7 +434,9 @@
   background-image: url("../public/images/MemoryBackground.jpg");
 }
 
-
+.creditsBackground {
+  background-image: url("../public/images/CreditsBackground.jpg");
+}
 
 @media (width: 1366px) and (height: 1024px) {
   .siteNav > .dropDown > button,

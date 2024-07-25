@@ -15,7 +15,7 @@ Credits.image = "https://www.newnewsinews.com/images/HarrierBackground.jpg";
 export default function Credits() {
   return (
     <>
-      <Header headerBackground="harrierBackground" />
+      <Header headerBackground="creditsBackground" />
       <br />
       <br />
       <LeftBlackTitle>
@@ -238,7 +238,7 @@ export default function Credits() {
         <br />
         <br />
         <p className={styles.grayShadowUpperTwo}>
-          Everything is grey. It takes a moment for the eye to focus on any one
+          Everything is gray. It takes a moment for the eye to focus on any one
           thing. The first thing is the hollowed-out buildings and the piles of
           rubble around them. Each former apartment, former bedroom, former
           kitchen, former closet, former bathroom, former doctor&#39;s office,
