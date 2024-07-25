@@ -10,7 +10,7 @@ Credits.title = "abigail_denton ~ post-credits scene — new_sinews";
 Credits.pieceName = "abigail_denton ~ post-credits scene — new_sinews";
 Credits.description =
   "_ABIGAIL DENTON_fiction_POST-CREDITS SCENE_new_sinews_issue8_";
-Credits.image = "https://www.newnewsinews.com/images/HarrierBackground.jpg";
+Credits.image = "https://www.newnewsinews.com/images/CreditsBackground.jpg";
 
 export default function Credits() {
   return (
