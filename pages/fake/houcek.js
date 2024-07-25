@@ -9,7 +9,7 @@ Houcek.title =
 Houcek.pieceName =
   "elise_houcek ~ a frog that has depressed a bird ++ is the tone of cruel ++ — new_sinews";
 Houcek.description = "_Elise Houcek_poetry_8 POEMS_issue8_";
-Houcek.image = "https://www.newnewsinews.com/images/FryBackground.jpg";
+Houcek.image = "https://www.newnewsinews.com/images/HoucekBackground.jpg";
 
 export default function Houcek() {
   return (

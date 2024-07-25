@@ -1,7 +1,5 @@
 import Head from "next/head";
 import Header from "../../components/header.js";
-import RightGrayTitle from "../../components/rightGrayTitle.js";
-import LeftGrayTitle from "../../components/leftGrayTitle.js";
 import LeftBlackTitle from "../../components/leftBlackTitle.js";
 import CenterBlackTitle from "../../components/centerBlackTitle.js";
 import Image from "next/image";
@@ -16,7 +14,7 @@ Memory.title =
 Memory.pieceName =
   "yongyu_chen ~ maybe you can tell the memory ++ is hurried, or foamed, or carving — new_sinews";
 Memory.description = "_YONGYU CHEN_poetry_5 POEMS_new_sinews_issue8_";
-Memory.image = "https://www.newnewsinews.com/images/DesireBackground.jpg";
+Memory.image = "https://www.newnewsinews.com/images/MemoryBackground.jpg";
 
 export default function Memory() {
   return (
