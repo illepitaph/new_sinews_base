@@ -18,6 +18,10 @@ export default function Credits() {
       <Header headerBackground="creditsBackground" />
       <br />
       <br />
+      <br />
+      <br />
+      <br />
+      <br />
       <LeftBlackTitle>
         <span className={styles.titleShadow}>p </span>
         <span className={styles.specialCursive}>o </span>
