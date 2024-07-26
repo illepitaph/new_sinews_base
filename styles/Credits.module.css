@@ -1,4 +1,5 @@
 .titleShadow {
+    display:inline-block;
     color: white;
     font-size: 3.3rem;
     text-shadow: 1px 1px black, 4px 4px 16px black;
@@ -91,6 +92,15 @@
 
   
   @media (max-width: 932px) and (orientation: landscape) {
+
+    .titleShadow {
+      font-size:2.5rem;
+    }
+
+    .blueAlternate, .blueAlternateTwo {
+      font-size:3.1rem;
+    }
+
     .compactProse,
     .compactProseTwo {
       max-width: 95vw;
@@ -104,6 +114,7 @@
   }
   
   @media (max-width: 913px) and (orientation: portrait) {
+
     .compactProse,
     .compactProseTwo {
       max-width: 95vw;
@@ -116,7 +127,12 @@
     }
   }
   
-  @media (max-width: 897px) and (orientation: landscape) {
+  @media (max-width: 901px) and (orientation: landscape) {
+
+    .specialCursive {
+      font-size:5rem;
+    }
+
     .box {
       margin-left: 17.5vw;
     }
@@ -129,6 +145,10 @@
     .blueAlternate,
     .blueAlternateTwo {
       font-size: 2.5rem;
+    }
+
+    .titleShadow {
+      line-height:5rem;
     }
   }
   

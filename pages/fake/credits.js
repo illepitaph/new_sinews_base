@@ -24,13 +24,13 @@ export default function Credits() {
       <br />
       <LeftBlackTitle>
         <span className={styles.titleShadow}>p </span>
-        <span className={styles.specialCursive}>o </span>
+        <span className={styles.specialCursive}> o </span>
         <span className={styles.blueAlternate}>
           <i>s </i>
         </span>
         <span className={styles.inverseShadowAlternate}> T </span>
         <span className={styles.titleShadow}>- </span>
-        <span className={styles.specialCursive}>c </span>
+        <span className={styles.specialCursive}> c </span>
         <span className={styles.titleShadow}>
           <i>r </i>
         </span>
