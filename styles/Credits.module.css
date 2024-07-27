@@ -151,6 +151,22 @@
       line-height:5rem;
     }
   }
+
+  @media (max-width: 361px) and (orientation: portrait) {
+    .titleShadow,
+    .inverseShadow,
+    .inverseShadowAlternate,
+    .blueAlternate,
+    .blueAlternateTwo {
+      font-size: 2.1rem;
+    }
+  }
+  
+  @media (max-width: 431px) and (orientation: portrait) {
+    .grayShadowUpper {
+      font-size:1.5rem;
+    }
+  }
   
   @media (max-width: 361px) and (orientation: portrait) {
     .titleShadow,

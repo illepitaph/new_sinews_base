@@ -111,7 +111,7 @@ export default function Credits() {
 
       <StandardProse>
         <p className={styles.grayShadowUpper}>
-          &#123; INTERNATIONAL SANDWICH SHOP — AFTERNOON &#125;
+          &#123; INT. SANDWICH SHOP — AFTERNOON &#125;
         </p>{" "}
         <br />
         <br />
