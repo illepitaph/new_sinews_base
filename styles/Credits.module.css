@@ -137,6 +137,14 @@
       margin-left: 17.5vw;
     }
   }
+
+  @media (max-width: 746px) and (orientation: landscape) {
+
+    .grayShadowUpper {
+      font-size:1.6rem;
+    }
+  }
+  
   
   @media (max-width: 541px) and (orientation: portrait) {
     .titleShadow,
