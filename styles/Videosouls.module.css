@@ -22,11 +22,10 @@
     text-transform: uppercase;
   }
   
-  .blueAlternate {
+  .mintAlternate {
     font-size: 4.1rem;
-    color: #00ffff;
-    text-shadow: 3px 3px snow, 5px 5px black, 7px 7px snow, 9px 9px 15px black;
-    opacity: 0.6;
+    color: snow;
+    text-shadow: 1px 1px black, 5px 5px #aaf0d1, 7px 9px black;
     text-transform: uppercase;
   }
 

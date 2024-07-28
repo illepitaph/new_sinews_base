@@ -21,7 +21,7 @@ export default function Video() {
       <br />
       <br />
       <RightBlackTitle>
-        <span className={styles.blueAlternate}>v </span>
+        <span className={styles.mintAlternate}>v </span>
         <br />
         <br />
         <br />
@@ -49,7 +49,7 @@ export default function Video() {
         <br />
         <br />
         <br />
-        <span className={styles.blueAlternate}>
+        <span className={styles.mintAlternate}>
           <i>s</i>{" "}
         </span>
         <br />
@@ -61,7 +61,7 @@ export default function Video() {
         <br />
         <br />
         <br />
-        <span className={styles.blueAlternate}>
+        <span className={styles.mintAlternate}>
           {" "}
           <i>u</i>{" "}
         </span>
