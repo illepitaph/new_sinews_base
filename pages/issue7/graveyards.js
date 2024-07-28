@@ -5,8 +5,8 @@ import RightGrayTitle from "../../components/rightGrayTitle.js";
 import LeftBlackTitle from "../../components/leftBlackTitle.js";
 import Footer from "../../components/footer.js";
 import styles from "../../styles/Graveyards.module.css";
-RivalGraveyards.title = "gabriel palacios ~ rival graveyards — new_sinews";
-RivalGraveyards.pieceName = "gabriel palacios ~ rival graveyards — new_sinews";
+RivalGraveyards.title = "gabriel_palacios ~ rival graveyards — new_sinews";
+RivalGraveyards.pieceName = "gabriel_palacios ~ rival graveyards — new_sinews";
 RivalGraveyards.description =
   "_Gabriel Palacios_poetry_RIVAL GRAVEYARDS_issue7_";
 RivalGraveyards.image =

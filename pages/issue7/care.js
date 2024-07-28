@@ -4,8 +4,8 @@ import LeftGrayTitle from "../../components/leftGrayTitle.js";
 import StandardProse from "../../components/standardProse.js";
 import Footer from "../../components/footer.js";
 import styles from "../../styles/Care.module.css";
-Care.title = "genta nishku ~ perpetual care — new_sinews";
-Care.pieceName = "genta nishku ~ perpetual care — new_sinews";
+Care.title = "genta_nishku ~ perpetual care — new_sinews";
+Care.pieceName = "genta_nishku ~ perpetual care — new_sinews";
 Care.description = "_Genta Nishku_fiction_PERPETUAL CARE_news_sinews_issue7_";
 Care.image = "https://www.newnewsinews.com/images/CareBackground.jpg";
 

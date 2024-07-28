@@ -1,0 +1,224 @@
+.titleShadow {
+    display:inline-block;
+    margin-right:3vw;
+    color: white;
+    font-size: 3.3rem;
+    text-shadow: 1px 1px black, 4px 4px 16px black;
+    text-transform: uppercase;
+    opacity: 0.6;
+  }
+  
+  .inverseShadow {
+    font-size: 3.6rem;
+    color: black;
+    text-shadow: 4px 4px snow, 6px 6px 16px dimgray;
+  }
+  
+  .inverseShadowAlternate {
+    font-size: 3.1rem;
+    color: black;
+    text-shadow: 4px 4px snow, 5px 5px black, 6px 6px gainsboro;
+    opacity: 0.8;
+    text-transform: uppercase;
+  }
+  
+  .blueAlternate {
+    font-size: 4.1rem;
+    color: #00ffff;
+    text-shadow: 4px 4px snow, 5px 5px 15px black;
+    opacity: 0.6;
+    text-transform: uppercase;
+  }
+  
+  .blueAlternateTwo {
+    font-size: 4.1rem;
+    color: #00ffff;
+    text-shadow: 4px 4px snow, 5px 5px 15px black;
+    opacity: 0.6;
+    text-transform: lowercase;
+  }
+
+  .specialCursive {
+    font-size: 7.5rem;
+    font-family: "bickham-script-pro-3", sans-serif;
+    font-weight: 400;
+  }
+
+  .rightMargin {
+    display: inline-block;
+    margin-right: 3vw;
+  }
+
+  .leftMargin {
+    display: inline-block;
+    margin-left:6vw;
+  }
+  
+  .grayShadowUpper {
+    font-size: 2rem;
+    color:white;
+    font-family: "lores-9-plus-wide", monospace;
+    text-shadow: 3px 3px black, 5px 5px white, 3px 3px 12px black;
+    text-transform: uppercase;
+    text-align: center;
+  }
+
+  .grayShadowUpperTwo {
+    font-size: 1.51rem;
+    font-family: "lores-9-plus-wide", monospace;
+    text-shadow: 1px 1px snow, 2px 2px #b0b0b0;
+    text-transform: uppercase;
+  }
+
+  .uppercase {
+    text-transform: uppercase;
+  }
+  
+  .compactProse {
+    max-width: 30vw;
+    margin-left: 20.5vw;
+    line-height: 1.6rem;
+  }
+
+  .box {
+    display: flex;
+    justify-content: space-between;
+    max-width: 35vw;
+    margin-left: 17.5vw;
+    line-height: 0.2rem;
+  }
+  
+  .middleText {
+    text-align: center;
+    margin-bottom:-0.007vh;
+    text-shadow: 1px 1px snow, 2px 2px #b0b0b0;
+  }
+
+  .middleTextTwo {
+    text-align: center;
+    margin:-0.2vh 0 -0.007vh 0;
+    text-shadow: 1px 1px snow, 2px 2px #b0b0b0;
+
+  }
+
+  
+  @media (max-width: 932px) and (orientation: landscape) {
+
+    .titleShadow {
+      font-size:2.5rem;
+    }
+
+    .blueAlternate, .blueAlternateTwo {
+      font-size:3.1rem;
+    }
+
+    .compactProse,
+    .compactProseTwo {
+      max-width: 95vw;
+      margin-left: 2.5vw;
+    }
+  
+    .box {
+      max-width: 55vw;
+      margin-left: 15.5vw;
+    }
+  }
+  
+  @media (max-width: 913px) and (orientation: portrait) {
+
+    .compactProse,
+    .compactProseTwo {
+      max-width: 95vw;
+      margin-left: 2.5vw;
+    }
+  
+    .box {
+      max-width: 95vw;
+      margin-left: 1.5vw;
+    }
+  }
+  
+  @media (max-width: 901px) and (orientation: landscape) {
+
+    .specialCursive {
+      font-size:5rem;
+    }
+
+    .box {
+      margin-left: 17.5vw;
+    }
+  }
+
+  @media (max-width: 746px) and (orientation: landscape) {
+
+    .grayShadowUpper {
+      font-size:1.6rem;
+    }
+  }
+  
+  
+  @media (max-width: 541px) and (orientation: portrait) {
+    .titleShadow,
+    .inverseShadow,
+    .inverseShadowAlternate,
+    .blueAlternate,
+    .blueAlternateTwo {
+      font-size: 2.5rem;
+    }
+
+    .titleShadow {
+      line-height:5rem;
+    }
+  }
+
+  @media (max-width: 361px) and (orientation: portrait) {
+    .titleShadow,
+    .inverseShadow,
+    .inverseShadowAlternate,
+    .blueAlternate,
+    .blueAlternateTwo {
+      font-size: 2.1rem;
+    }
+  }
+  
+  @media (max-width: 431px) and (orientation: portrait) {
+    .grayShadowUpper {
+      font-size:1.5rem;
+    }
+  }
+  
+  @media (max-width: 361px) and (orientation: portrait) {
+    .titleShadow,
+    .inverseShadow,
+    .inverseShadowAlternate,
+    .blueAlternate,
+    .blueAlternateTwo {
+      font-size: 2.1rem;
+    }
+  }
+  
+  @media (max-width: 321px) and (orientation: portrait) {
+    .titleShadow,
+    .inverseShadow,
+    .inverseShadowAlternate,
+    .blueAlternate,
+    .blueAlternateTwo {
+      font-size: 2rem;
+    }
+  
+    .box {
+      font-size: 1rem;
+      margin-left: 0.5vw;
+    }
+  }
+  
+  @media (max-width: 281px) and (orientation: portrait) {
+    .titleShadow,
+    .inverseShadow,
+    .inverseShadowAlternate,
+    .blueAlternate,
+    .blueAlternateTwo {
+      font-size: 1.7rem;
+    }
+  }
+  
