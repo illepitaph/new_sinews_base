@@ -21,20 +21,25 @@ export default function Video() {
       <br />
       <br />
       <RightBlackTitle>
-        <span className={styles.titleShadow}>v </span>
+        <span className={styles.blueAlternate}>v </span>
         <br />
-        <br />
-        <span className={styles.specialCursive}> i </span>
         <br />
         <br />
         <span className={styles.rightMargin}>
-          <span className={styles.blueAlternateTwo}>
+        <span className={styles.titleShadow}> i </span></span>
+        <br />
+        <br />
+        <br />
+        <span className={styles.rightMargin}>
+          <span className={styles.specialCursive}>
             <i>d </i>
           </span>
         </span>
         <br />
         <br />
+        <br />
         <span className={styles.inverseShadow}> e </span>
+        <br />
         <br />
         <br />
         <span className={styles.titleShadow}>
@@ -42,15 +47,17 @@ export default function Video() {
         </span>
         <br />
         <br />
-
+        <br />
         <span className={styles.blueAlternate}>
           <i>s</i>{" "}
         </span>
         <br />
         <br />
+        <br />
         <span className={styles.rightMargin}>
           <span className={styles.specialCursive}>o </span>
         </span>
+        <br />
         <br />
         <br />
         <span className={styles.blueAlternate}>
@@ -59,10 +66,12 @@ export default function Video() {
         </span>
         <br />
         <br />
+        <br />
         <span className={styles.leftMargin}>
         <span className={styles.titleShadow}>
           <i> l </i>
         </span></span>
+        <br />
         <br />
         <br />
         <span className={styles.inverseShadowAlternate}> s </span>

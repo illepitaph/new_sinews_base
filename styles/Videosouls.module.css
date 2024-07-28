@@ -25,17 +25,9 @@
   .blueAlternate {
     font-size: 4.1rem;
     color: #00ffff;
-    text-shadow: 4px 4px snow, 5px 5px 15px black;
+    text-shadow: 3px 3px snow, 5px 5px black, 7px 7px snow, 9px 9px 15px black;
     opacity: 0.6;
     text-transform: uppercase;
-  }
-  
-  .blueAlternateTwo {
-    font-size: 4.1rem;
-    color: #00ffff;
-    text-shadow: 4px 4px snow, 5px 5px 15px black;
-    opacity: 0.6;
-    text-transform: lowercase;
   }
 
   .specialCursive {
