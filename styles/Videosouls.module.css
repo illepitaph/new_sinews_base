@@ -47,7 +47,7 @@
   }
   
   .grayShadowUpper {
-    font-size: 2rem;
+    font-size: 2.2rem;
     color:white;
     font-family: "lores-9-plus-wide", monospace;
     text-shadow: 3px 3px black, 5px 5px white, 3px 3px 12px black;
@@ -56,28 +56,26 @@
   }
 
   .grayShadowUpperTwo {
+    font-size: 2.9rem;
+    font-family: "lores-9-plus-wide", monospace;
+    color:black;
+    text-shadow: 3px 3px white, 5px 5px black;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 0.6rem;
+  }
+
+  .grayShadowUpperThree {
     font-size: 1.51rem;
     font-family: "lores-9-plus-wide", monospace;
     text-shadow: 1px 1px snow, 2px 2px #b0b0b0;
     text-transform: uppercase;
   }
-
-  .uppercase {
-    text-transform: uppercase;
-  }
   
   .compactProse {
-    max-width: 30vw;
-    margin-left: 20.5vw;
+    max-width: 47vw;
+    margin-left: 10.5vw;
     line-height: 1.6rem;
-  }
-
-  .box {
-    display: flex;
-    justify-content: space-between;
-    max-width: 35vw;
-    margin-left: 17.5vw;
-    line-height: 0.2rem;
   }
   
   .middleText {
