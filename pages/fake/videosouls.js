@@ -343,9 +343,9 @@ export default function Video() {
         <i>shigellosis</i> I heard it was, over the loudspeaker, spread either
         through tainted food or sexual contact. <i>heart hands</i>. I find the
         rituals grotesque but I&rsquo;m a child in these airless corridors,
-        these barricaded roads. i don&rsquo;t know where my next meal will come
+        these barricaded roads. I don&rsquo;t know where my next meal will come
         from, and all that, but I know that I must pay for it by means of a
-        <i>leveraged buyout</i>. what are all the fundamental truths again and
+        <i> leveraged buyout</i>. what are all the fundamental truths again and
         do you still believe in them because these are the names of my case
         workers at the juvenile court-contracted call center that sentenced me,
         then shuttled me to this: Edgar Chayce, Cashier and Manateigh.
@@ -581,6 +581,8 @@ export default function Video() {
           made it seem like anything was possible for them. to be written off
           and come back. to have a dream and it comes true. and then you lose it
           but you dream
+          <br />
+          <br />
           <p className={styles.middleText}>
             MORGANA
             <p className={styles.middleTextTwo}>
