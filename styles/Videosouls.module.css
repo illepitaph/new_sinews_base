@@ -168,7 +168,7 @@
   }
 }
 
-@media (max-width: 385px) and (orientation: portrait) {
+@media (max-width: 391px) and (orientation: portrait) {
   .grayShadowUpper {
     font-size: 1.5rem;
   }
