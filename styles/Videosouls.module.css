@@ -144,6 +144,12 @@
   }
 }
 
+@media (max-width: 641px) and (orientation: landscape) {
+  .grayShadowUpper {
+    font-size: 1.4rem;
+  }
+}
+
 @media (max-width: 541px) and (orientation: portrait) {
   .titleShadow,
   .inverseShadow,
