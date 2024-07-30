@@ -580,7 +580,7 @@ export default function Video() {
           such a surprise and a fuck you to Lionel Richie and it just must have
           made it seem like anything was possible for them. to be written off
           and come back. to have a dream and it comes true. and then you lose it
-          but you dream
+          but you dream yourself right back.
           <br />
           <br />
           <p className={styles.middleText}>
@@ -590,10 +590,11 @@ export default function Video() {
             </p>
           </p>
           when I was small I dreamed of having my own phone and my own money and
-          ordering up a giant hero sandwich all for myself that I don&rsquo;t have to
-          share with no one and now that I&rsquo;m old, and I&rsquo;m a mother, I mean, I
-          could do that every day if I wanted to but shoot I&rsquo;ve maybe done it
-          once. hey. since when do you say fuck you in front of your mother?
+          ordering up a giant hero sandwich all for myself that I don&rsquo;t
+          have to share with no one and now that I&rsquo;m old, and I&rsquo;m a
+          mother, I mean, I could do that every day if I wanted to but shoot
+          I&rsquo;ve maybe done it once. hey. since when do you say fuck you in
+          front of your mother?
           <br />
           <br />
           <p className={styles.middleText}>
@@ -646,11 +647,11 @@ export default function Video() {
         police force to bring the bodies to a particular waste processing
         facility, but in their haste the sergeants misunderstood this
         instruction and utilized the public dump. the policemen were informed
-        that their cargo would be easy to find but on arriving they don&rsquo;t know
-        what to look for: everywhere, bodies are underfoot. it&rsquo;s now nearly 5
-        AM, the sun will soon be up, workers will arrive. the missing bodies
-        belong to a boy and his mother, whom the pair of sergeants mistook for
-        drug couriers they had meant to rob.
+        that their cargo would be easy to find but on arriving they don&rsquo;t
+        know what to look for: everywhere, bodies are underfoot. it&rsquo;s now
+        nearly 5 AM, the sun will soon be up, workers will arrive. the missing
+        bodies belong to a boy and his mother, whom the pair of sergeants
+        mistook for drug couriers they had meant to rob.
         <br />
         <br />
         <br />
@@ -679,7 +680,8 @@ export default function Video() {
           <br />
           <br />
           &#123; EXT. A NEON SIGN DISPLAYS TWO CURSIVE WORDS IN ALTERNATING RED
-          AND GREEN FLASHES: &lsquo;&lsquo;SEQUELISM,&rsquo;&rsquo; &lsquo;&lsquo;FLESHLESSNESS&rsquo;&rsquo; - BEFORE DAWN &#125;
+          AND GREEN FLASHES: &lsquo;&lsquo;SEQUELISM,&rsquo;&rsquo;
+          &lsquo;&lsquo;FLESHLESSNESS&rsquo;&rsquo; - BEFORE DAWN &#125;
         </p>{" "}
         <br />
         <br />
