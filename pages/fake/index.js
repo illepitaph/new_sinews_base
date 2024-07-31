@@ -12,29 +12,29 @@ export default function Issue8() {
     <>
       <Head />
       <div className={styles.bodyContainer}>
-      <div className={styles.topRow}>
-        <div className={styles.pageTitle}>
-          n<i> e </i>
-          w_s i n<i>e </i>w s
-        </div>
-        <div className={styles.siteShortcuts}>
-          <Link href="/" passHref>
-            <button className={styles.linkButton}>new sinews</button>
-          </Link>
-          <Link href="/about" passHref>
-            <button className={styles.linkButton}>about</button>
-          </Link>
-          <button className={styles.linkButton}>
-            <a
-              className={styles.twitterLinkTag}
-              href="https://twitter.com/new_sinews"
-              target="_blank"
-              rel="noreferrer"
-            >
-              tweeter
-            </a>
-          </button>
-        </div>
+        <div className={styles.topRow}>
+          <div className={styles.pageTitle}>
+            n<i> e </i>
+            w_s i n<i>e </i>w s
+          </div>
+          <div className={styles.siteShortcuts}>
+            <Link href="/" passHref>
+              <button className={styles.linkButton}>new sinews</button>
+            </Link>
+            <Link href="/about" passHref>
+              <button className={styles.linkButton}>about</button>
+            </Link>
+            <button className={styles.linkButton}>
+              <a
+                className={styles.twitterLinkTag}
+                href="https://twitter.com/new_sinews"
+                target="_blank"
+                rel="noreferrer"
+              >
+                tweeter
+              </a>
+            </button>
+          </div>
         </div>
         <div className={styles.issueContents}>
           <div className={styles.workColumn}>
@@ -159,11 +159,15 @@ export default function Issue8() {
             <Link href="/fake/album" passHref>
               <div className={styles.workLink}>
                 <br />
-                <br /> a<br />l<br />v_<br />i<br />n<br />
+                <br /> a<br />l<br />
+                v_
+                <br />i<br />n<br />
                 <br />
                 <br />
                 <br />
-                <br />l<br />u_<br />
+                <br />l<br />
+                u_
+                <br />
               </div>
             </Link>
           </div>
@@ -179,9 +183,15 @@ export default function Issue8() {
           <div className={styles.workColumn}>
             <Link href="/fake/houcek" passHref>
               <div className={styles.workLink}>
-                <br /> e<br />l<br />i_<br />s<br />e<br />
+                <br /> e<br />l<br />
+                i_
+                <br />s<br />e<br />
                 <br />
-                <br />h<br />o_<br />u<br />c_<br />e<br />k
+                <br />h<br />
+                o_
+                <br />u<br />
+                c_
+                <br />e<br />k
               </div>
             </Link>
           </div>
@@ -196,23 +206,37 @@ export default function Issue8() {
           <div className={styles.workColumn}>
             <Link href="/fake/videosouls" passHref>
               <div className={styles.workLink}>
-                g<br />a<br />b_<br />r<br />i<br />e<br />l<br />
-                <br />p<br />a<br />l<br />a_<br />c<br />i<br />o_<br />s
+                g<br />a<br />
+                b_
+                <br />r<br />i<br />e<br />l<br />
+                <br />p<br />a<br />l<br />
+                a_
+                <br />c<br />i<br />
+                o_
+                <br />s
               </div>
             </Link>
           </div>
           <div className={styles.workColumn}>
             <Link href="/fake/videosouls" passHref>
               <div className={styles.workLinkTwo}>
-                v<br />i<br />d<br />e<br />o<br />s<br />o<br />u<br />l<br />s
+                <br />
+                <br />
+                <br />v<br />i<br />d<br />e<br />o<br />s<br />o<br />u<br />l
+                <br />s
               </div>
             </Link>
           </div>
           <div className={styles.workColumn}>
             <Link href="/fake/bonilla" passHref>
               <div className={styles.workLink}>
-                <br />i<br />s<br />r<br />a_<br />e<br />l<br />
-                <br />b<br />o_<br />n<br />i<br />l<br />l<br />a_
+                <br />i<br />s<br />r<br />
+                a_
+                <br />e<br />l<br />
+                <br />b<br />
+                o_
+                <br />n<br />i<br />l<br />l<br />
+                a_
               </div>
             </Link>
           </div>
