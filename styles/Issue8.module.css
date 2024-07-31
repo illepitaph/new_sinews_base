@@ -153,13 +153,13 @@
   .workLinkTwo {
     color: white;
     font-family: "lores-12-narrow";
-    font-size: 2.7rem;
+    font-size: 2.4rem;
     font-weight: 700;
     text-shadow: 2px 2px black, 3px 3px white, 4px 4px black, 5px 5px white,
       6px 6px 12px #00ffff;
     text-transform: uppercase;
     letter-spacing: 0.1rem;
-    line-height:2.45rem;
+    line-height:2.25rem;
     cursor: pointer;
     font-style:italic;
     transition: 0.7s ease-in-out opacity;
