@@ -103,6 +103,12 @@
     animation: fadeIn ease-out 0.9s;
     overflow: hidden;
   }
+
+  .topRow {
+    display:flex;
+    flex-flow:row;
+    justify-content: space-around;
+  }
   
   .pageTitle {
     font-family: "lores-9-plus-wide-bold-alt", monospace;
@@ -139,39 +145,51 @@
       6px 6px 12px #00ffff;
     text-transform: uppercase;
     letter-spacing: 0.1rem;
+    line-height:2.55rem;
+    cursor: pointer;
+    transition: 1.4s ease opacity;
+  }
+
+  .workLinkTwo {
+    color: white;
+    font-family: "lores-12-narrow";
+    font-size: 2.6rem;
+    font-weight: 700;
+    text-shadow: 2px 2px black, 3px 3px white, 4px 4px black, 5px 5px white,
+      6px 6px 12px #00ffff;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
     line-height:2.7rem;
     cursor: pointer;
+    font-style:italic;
+    transition: 0.7s ease-in-out opacity;
   }
   
-  .workLink:hover {
-    opacity: 0;
-  }
-  
-  .specialAlign {
-    text-align: right;
-    text-transform: lowercase;
+  .workLink:hover, .workLinkTwo:hover {
+    opacity: 0.1;
   }
   
   .siteShortcuts {
     display: flex;
-    flex-flow: column;
-    row-gap: 1.2vw;
-    justify-content: space-around;
-    align-items: flex-start;
-    height: 18vh;
+    flex-flow: row;
+    column-gap: 1.2vw;
+    justify-content: space-between;
+    align-items: flex-end;
   }
   
   .siteShortcuts > .linkButton {
+    display:inline-block;
     width: 13vw;
+    margin-bottom:1.5vh;
     border: 0;
-    background-color: #f70d1a;
-    padding: 0.7vh 0.1vw;
+    background-color:gainsboro;
     font-size: 1.2rem;
     border-radius: 44px;
     letter-spacing: 0.1rem;
-    opacity: 0.38;
+    opacity: 0.88;
     font-family: "lores-9-plus-narrow", monospace;
     color: white;
+    text-shadow:1px 1px black;
     text-decoration: none;
     transition: 0.6s ease-in-out opacity;
     cursor: pointer;
