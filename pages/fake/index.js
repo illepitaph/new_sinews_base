@@ -239,8 +239,6 @@ export default function Issue8() {
                 <br />
                 <br />
                 <br />
-                <br />
-                <br />
                 <br />b<br />i<br />o<br />s
               </div>
             </Link>
