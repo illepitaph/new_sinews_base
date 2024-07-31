@@ -1,0 +1,461 @@
+@keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  
+  @-moz-keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  
+  @-webkit-keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  
+  @-o-keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  
+  @-ms-keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  
+  @keyframes fadeOut {
+    0% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
+  
+  @-moz-keyframes fadeOut {
+    0% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
+  
+  @-webkit-keyframes fadeOut {
+    0% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
+  
+  @-o-keyframes fadeOut {
+    0% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
+  
+  @-ms-keyframes fadeOut {
+    0% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
+  
+  .bodyContainer {
+    position: fixed;
+    background: url("../public/images/Issue8Cover.jpg") repeat left fixed;
+    background-size: contain;
+    min-height: 100%;
+    min-width: 100%;
+    margin: 0;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    overflow: hidden;
+    animation: fadeIn ease-out 0.9s;
+    overflow: hidden;
+  }
+  
+  .pageTitle {
+    font-family: "lores-9-plus-wide-bold-alt", monospace;
+    color: #00ffff;
+    text-shadow: 2px 2px white, 4px 4px black, 6px 6px white, 8px 8px black,
+      10px 10px white, 12px 12px black, 14px 14px 20px silver;
+    font-size: 3.6rem;
+    letter-spacing:0.4rem;
+    text-align: left;
+    margin: 0.7vh 2vw 0 2vw;
+    animation: fadeOut ease-out 2.9s infinite alternate;
+  }
+  
+  .issueContents {
+    position: absolute;
+    display: flex;
+    flex-flow: row wrap;
+    max-width: 98vw;
+    top: 90px;
+    left: 7vw;
+    font-family: "lores-22-bold-oakland", monospace;
+  }
+
+  .workColumn {
+    width:4.5vw;
+  }
+  
+  .workLink {
+    color: white;
+    font-family: "lores-12-narrow";
+    font-size: 2.6rem;
+    font-weight: 700;
+    text-shadow: 2px 2px black, 3px 3px white, 4px 4px black, 5px 5px white,
+      6px 6px 12px #00ffff;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    line-height:2.7rem;
+    cursor: pointer;
+  }
+  
+  .workLink:hover {
+    opacity: 0;
+  }
+  
+  .specialAlign {
+    text-align: right;
+    text-transform: lowercase;
+  }
+  
+  .siteShortcuts {
+    display: flex;
+    flex-flow: column;
+    row-gap: 1.2vw;
+    justify-content: space-around;
+    align-items: flex-start;
+    height: 18vh;
+  }
+  
+  .siteShortcuts > .linkButton {
+    width: 13vw;
+    border: 0;
+    background-color: #f70d1a;
+    padding: 0.7vh 0.1vw;
+    font-size: 1.2rem;
+    border-radius: 44px;
+    letter-spacing: 0.1rem;
+    opacity: 0.38;
+    font-family: "lores-9-plus-narrow", monospace;
+    color: white;
+    text-decoration: none;
+    transition: 0.6s ease-in-out opacity;
+    cursor: pointer;
+  }
+  
+  .siteShortcuts > .linkButton:hover {
+    opacity: 1;
+  }
+  
+  @media (width: 1368px) and (height: 912px) {
+    .siteShortcuts {
+      flex-flow: row;
+    }
+  
+    .siteShortcuts > .linkButton {
+      width: 20vw;
+      font-size: 1rem;
+    }
+  }
+  
+  @media (width: 1366px) and (height: 1024px) {
+    .siteShortcuts {
+      flex-flow: row;
+    }
+  
+    .siteShortcuts > .linkButton {
+      width: 20vw;
+      font-size: 1rem;
+    }
+  }
+  
+  @media (width: 1280px) and (height: 800px) {
+    .siteShortcuts {
+      flex-flow: row;
+    }
+  
+    .siteShortcuts > .linkButton {
+      width: 20vw;
+      font-size: 1rem;
+    }
+  }
+  
+  @media (width: 1194px) and (height: 834px) {
+    .siteShortcuts {
+      flex-flow: row;
+    }
+  
+    .siteShortcuts > .linkButton {
+      width: 20vw;
+      font-size: 1rem;
+    }
+  }
+  
+  @media (width: 1180px) and (height: 820px) {
+    .siteShortcuts {
+      flex-flow: row;
+    }
+  
+    .siteShortcuts > .linkButton {
+      width: 20vw;
+      font-size: 1rem;
+    }
+  }
+  
+  @media (width: 1080px) and (height: 810px) {
+    .siteShortcuts {
+      flex-flow: row;
+    }
+  
+    .siteShortcuts > .linkButton {
+      width: 20vw;
+      font-size: 1rem;
+    }
+  }
+  
+  @media (width: 1024px) and (height: 1366px) {
+    .siteShortcuts {
+      flex-flow: row;
+    }
+  
+    .siteShortcuts > .linkButton {
+      width: 20vw;
+      font-size: 1rem;
+    }
+  }
+  
+  @media (width: 1024px) and (height: 768px) {
+    .siteShortcuts {
+      flex-flow: row;
+    }
+  
+    .siteShortcuts > .linkButton {
+      width: 20vw;
+      font-size: 1rem;
+    }
+  }
+  
+  @media (width: 1024px) and (height: 600px) {
+    .siteShortcuts {
+      flex-flow: row;
+    }
+  
+    .siteShortcuts > .linkButton {
+      width: 20vw;
+      font-size: 1rem;
+    }
+  }
+  
+  @media (max-width: 998px) {
+    .workLink:hover {
+      opacity: 1;
+    }
+  }
+  
+  @media (max-width: 933px) and (orientation: landscape) {
+    .pageTitle,
+    .pageTitleTwo {
+      font-size: 1.7rem;
+    }
+  
+    .pageTitleTwo {
+      margin-top: 1vh;
+    }
+  
+    .issueContents {
+      top: 10px;
+    }
+  
+    .workLink {
+      font-size: 1.1rem;
+      letter-spacing: 0.4rem;
+      text-shadow: 2px 2px black, 3px 3px #f70d1a;
+    }
+  
+    .siteShortcuts {
+      flex-flow: row;
+    }
+  
+    .siteShortcuts > .linkButton {
+      width: 20vw;
+      font-size: 1rem;
+    }
+  }
+  
+  @media (width: 912px) and (height: 1368px) {
+    .siteShortcuts {
+      flex-flow: row;
+    }
+  
+    .siteShortcuts > .linkButton {
+      width: 20vw;
+      font-size: 1rem;
+    }
+  }
+  
+  @media (max-width: 855px) and (orientation: landscape) {
+    .pageTitle,
+    .pageTitleTwo {
+      line-height: 2.3rem;
+    }
+  
+    .workLink {
+      letter-spacing: 0.3rem;
+    }
+  }
+  
+  @media (max-width: 801px) and (orientation: landscape) {
+    .pageTitle,
+    .pageTitleTwo {
+      line-height: 2.1rem;
+    }
+  
+    .pageTitleTwo {
+      margin-top: 9vh;
+    }
+  
+    .workLink {
+      letter-spacing: 0.2rem;
+    }
+  }
+  
+  @media (max-width: 835px) and (orientation: portrait) {
+    .pageTitleTwo {
+      margin-top: 15vh;
+    }
+  
+    .workLink {
+      font-size: 1.5rem;
+      text-shadow: 2px 2px black, 3px 3px #f70d1a;
+    }
+  
+    .siteShortcuts {
+      flex-flow: row;
+      margin-top: 7.5vh;
+    }
+  
+    .siteShortcuts > .linkButton {
+      width: 20vw;
+    }
+  }
+  
+  @media (max-width: 668px) and (orientation: landscape) {
+    .pageTitle,
+    .pageTitleTwo {
+      line-height: 1.8rem;
+    }
+  
+    .workLink {
+      letter-spacing: 0.1rem;
+    }
+  
+    .siteShortcuts > .linkButton {
+      width: 23vw;
+    }
+  }
+  
+  @media (max-width: 653px) and (orientation: landscape) {
+    .pageTitle,
+    .pageTitleTwo {
+      line-height: 1.6rem;
+    }
+  
+    .issueContents {
+      top: 10px;
+    }
+  
+    .workLink {
+      font-size: 1rem;
+      letter-spacing: 0.02rem;
+    }
+  }
+  
+  @media (max-width: 541px) and (orientation: portrait) {
+    .workLink {
+      letter-spacing: 0.5rem;
+    }
+  
+    .siteShortcuts > .linkButton {
+      width: 25vw;
+      font-size: 0.88rem;
+      padding: 1vh 1.1vw;
+    }
+  }
+  
+  @media (max-width: 431px) and (orientation: portrait) {
+    .pageTitle,
+    .pageTitleTwo {
+      font-size: 2rem;
+    }
+  
+    .pageTitleTwo {
+      margin-top: 25vh;
+    }
+  
+    .issueContents {
+      line-height: 2.9vh;
+    }
+  
+    .workLink {
+      font-size: 1.5rem;
+      letter-spacing: 0.2rem;
+    }
+  
+    .siteShortcuts {
+      flex-flow: column;
+      margin-top: 1.5vh;
+    }
+  
+    .siteShortcuts > .linkButton {
+      width: 45vw;
+      font-size: 0.9rem;
+      padding: 0.4vh 1.1vw;
+    }
+  }
+  
+  @media (max-width: 321px) and (orientation: portrait) {
+    .issueContents {
+      line-height: 3.7vh;
+    }
+  }
+  
+  @media (max-width: 2811px) and (orientation: portrait) {
+    .workLink {
+      font-size:1.3rem;
+    }
+  }
+  
