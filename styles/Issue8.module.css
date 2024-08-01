@@ -165,12 +165,27 @@
     transition: 0.7s ease-in-out opacity;
   }
 
+  .workLinkBios {
+    color: white;
+    font-family: "lores-12-narrow";
+    font-size: 2.6rem;
+    font-weight: 700;
+    color: #00ffff;
+    text-shadow: 3px 3px white, 5px 5px black, 8px 8px 12px white,
+      6px 6px 12px #00ffff;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    line-height:2.15rem;
+    cursor: pointer;
+    transition: 1.4s ease opacity;
+  }
+
   .blueLetter {
     color:#00ffff;
     text-transform: lowercase;
   }
   
-  .workLink:hover, .workLinkTwo:hover {
+  .workLink:hover, .workLinkTwo:hover, .workLinkBios:hover {
     opacity: 0.1;
   }
   

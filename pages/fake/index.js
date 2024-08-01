@@ -308,8 +308,8 @@ export default function Issue8() {
             </Link>
           </div>
           <div className={styles.workColumn}>
-            <Link href="/issue7/care" passHref>
-              <div className={styles.workLink}>
+            <Link href="/fake/bios" passHref>
+              <div className={styles.workLinkBios}>
                 <br />
                 <br />
                 <br />
@@ -320,7 +320,9 @@ export default function Issue8() {
                 <br />
                 <br />
                 <br />
-                <br />b<br />i<br />o<br />s
+                <br />b<br />
+                <span className={styles.blueLetter}>i</span>
+                <br />o<br />s
               </div>
             </Link>
           </div>
