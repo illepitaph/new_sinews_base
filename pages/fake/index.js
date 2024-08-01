@@ -5,7 +5,7 @@ Issue8.title = "new_sinews issue8";
 Issue8.pieceName = "new_sinews issue8";
 Issue8.description =
   "_newsinews issue8_Andrea Harper+Yongyu Chen+Cary Stough+Logan Fry+Abigail Denton+Valerie Hsiung+Alvin Lu+Elise Houcek+Gabriel Palacios+Israel Bonilla";
-Issue8.image = "https://www.newnewsinews.com/images/Issue7CoverMeta.jpg";
+Issue8.image = "https://www.newnewsinews.com/images/Issue8CoverMeta.jpg";
 
 export default function Issue8() {
   return (
@@ -46,7 +46,7 @@ export default function Issue8() {
                 <br />e<br />a<br />
                 <br />h<br />a<br />r<br />p<br />
                 e_
-                <br />r
+                <br />r<br/>&#x21dd;
               </div>
             </Link>
           </div>
