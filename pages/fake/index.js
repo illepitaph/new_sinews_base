@@ -4,7 +4,7 @@ import styles from "../../styles/Issue8.module.css";
 Issue8.title = "new_sinews issue8";
 Issue8.pieceName = "new_sinews issue8";
 Issue8.description =
-  "_newsinews issue8_Andrea Harper+Yongyu Chen+Cary Stough+Logan Fry+Abigail Denton+Alvin Lu+Elise Houcek+Gabriel Palacios+Israel Bonilla";
+  "_newsinews issue8_Andrea Harper+Yongyu Chen+Cary Stough+Logan Fry+Abigail Denton+Valerie Hsiung+Alvin Lu+Elise Houcek+Gabriel Palacios+Israel Bonilla";
 Issue8.image = "https://www.newnewsinews.com/images/Issue7CoverMeta.jpg";
 
 export default function Issue8() {
@@ -54,7 +54,9 @@ export default function Issue8() {
             <Link href="/fake/father" passHref>
               <div className={styles.workLinkTwo}>
                 f<br />a<br />t<br />h<br />e<br />r<br />
-                <br />f<br />i<br />g<br />u<br />r<br />e
+                <br />f<br />
+                <span className={styles.blueLetter}>i</span>
+                <br />g<br />u<br />r<br />e
               </div>
             </Link>
           </div>
@@ -99,7 +101,9 @@ export default function Issue8() {
                 <br />
                 <br />
                 <br />
-                <br />n<br />a<br />i<br />
+                <br />n<br />a<br />
+                <span className={styles.blueLetter}>i</span>
+                <br />
                 <br />l<br />s
               </div>
             </Link>
@@ -119,18 +123,26 @@ export default function Issue8() {
           <div className={styles.workColumn}>
             <Link href="/fake/fry" passHref>
               <div className={styles.workLinkTwo}>
-                a<br />n<br />
-                <br />i<br />f<br />
-                <br />u<br />n<br />f<br />i<br />x<br />e<br />d
+              <br /><br /><br />a<br />n<br />
+                <br />
+                <span className={styles.blueLetter}>i</span>
+                <br />f<br />
+                <br />u<br />n<br />f<br />
+                <span className={styles.blueLetter}>i</span>
+                <br />x<br />e<br />d
               </div>
             </Link>
           </div>
           <div className={styles.workColumn}>
             <Link href="/fake/credits" passHref>
               <div className={styles.workLink}>
-                <br />a<br />b<br />i<br />g<br />
+                <br />a<br />b<br />
+                <span className={styles.blueLetter}>i</span>
+                <br />g<br />
                 a_
-                <br />i<br />l<br />
+                <br />
+                <span className={styles.blueLetter}>i</span>
+                <br />l<br />
                 <br />d<br />e<br />n<br />t<br />o<br />
                 n_{" "}
               </div>
@@ -140,18 +152,44 @@ export default function Issue8() {
             <Link href="/fake/credits" passHref>
               <div className={styles.workLinkTwo}>
                 p<br />o<br />s<br />t<br />
-                <br />
-                <br />c<br />r<br />e<br />d<br />i<br />t<br />s<br />
+                <br />cr<br />e<br />d<br />
+                <span className={styles.blueLetter}>i</span>
+                <br />t<br />s<br />
+                <br />s<br />c<br />e<br />n<br />e
               </div>
             </Link>
           </div>
           <div className={styles.workColumn}>
-            <Link href="/fake/credits" passHref>
+            <Link href="/fake/drug" passHref>
+              <div className={styles.workLink}>
+                <br />v<br />a<br />l<br />e<br />r{" "}
+                <span className={styles.blueLetter}>i</span>_
+                <br />e<br />
+                <br />h<br />s<br />
+                <span className={styles.blueLetter}>i</span>_
+                <br />u<br />n<br />g{" "}
+              </div>
+            </Link>
+          </div>
+          <div className={styles.workColumn}>
+            <Link href="/fake/drug" passHref>
               <div className={styles.workLinkTwo}>
+                g<br />
+                <span className={styles.blueLetter}>i</span>v
+                <span className={styles.blueLetter}>i</span>
+                <br />n<br />g<br />
                 <br />
+                o<br />
+                ff
                 <br />
-                <br />
-                <br />s<br />c<br />e<br />n<br />e
+                <br />d<br />
+                ee
+                <br />p<br />
+                <br />e<br />
+                a_
+                <br />r<br />
+                t_
+                <br />h
               </div>
             </Link>
           </div>
@@ -161,7 +199,9 @@ export default function Issue8() {
                 <br />
                 <br /> a<br />l<br />
                 v_
-                <br />i<br />n<br />
+                <br />
+                <span className={styles.blueLetter}>i</span>
+                <br />n<br />
                 <br />
                 <br />
                 <br />
@@ -175,7 +215,9 @@ export default function Issue8() {
             <Link href="/fake/album" passHref>
               <div className={styles.workLinkTwo}>
                 t<br />h<br />e<br />
-                <br />w<br />h<br />i<br />t<br />e<br />
+                <br />w<br />h<br />
+                <span className={styles.blueLetter}>i</span>
+                <br />t<br />e<br />
                 <br />a<br />l<br />b<br />u<br />m
               </div>
             </Link>
@@ -184,7 +226,7 @@ export default function Issue8() {
             <Link href="/fake/houcek" passHref>
               <div className={styles.workLink}>
                 <br /> e<br />l<br />
-                i_
+                <span className={styles.blueLetter}>i</span>_
                 <br />s<br />e<br />
                 <br />
                 <br />h<br />
@@ -199,7 +241,9 @@ export default function Issue8() {
             <Link href="/fake/houcek" passHref>
               <div className={styles.workLinkTwo}>
                 t<br />o<br />t<br />a<br />l<br />l<br />y<br />
-                <br />d<br />i<br />s<br />t<br />a<br />n<br />t<br />
+                <br />d<br />
+                <span className={styles.blueLetter}>i</span>
+                <br />s<br />t<br />a<br />n<br />t<br />
               </div>
             </Link>
           </div>
@@ -208,10 +252,14 @@ export default function Issue8() {
               <div className={styles.workLink}>
                 g<br />a<br />
                 b_
-                <br />r<br />i<br />e<br />l<br />
+                <br />r<br />
+                <span className={styles.blueLetter}>i</span>
+                <br />e<br />l<br />
                 <br />p<br />a<br />l<br />
                 a_
-                <br />c<br />i<br />
+                <br />c<br />
+                <span className={styles.blueLetter}>i</span>
+                <br />
                 o_
                 <br />s
               </div>
@@ -222,7 +270,9 @@ export default function Issue8() {
               <div className={styles.workLinkTwo}>
                 <br />
                 <br />
-                <br />v<br />i<br />d<br />e<br />o<br />s<br />o<br />u<br />l
+                <br />v<br />
+                <span className={styles.blueLetter}>i</span>
+                <br />d<br />e<br />o<br />s<br />o<br />u<br />l
                 <br />s
               </div>
             </Link>
@@ -230,12 +280,16 @@ export default function Issue8() {
           <div className={styles.workColumn}>
             <Link href="/fake/bonilla" passHref>
               <div className={styles.workLink}>
-                <br />i<br />s<br />r<br />
+                <br />
+                <span className={styles.blueLetter}>i</span>
+                <br />s<br />r<br />
                 a_
                 <br />e<br />l<br />
                 <br />b<br />
                 o_
-                <br />n<br />i<br />l<br />l<br />
+                <br />n<br />
+                <span className={styles.blueLetter}>i</span>
+                <br />l<br />l<br />
                 a_
               </div>
             </Link>

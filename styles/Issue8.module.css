@@ -128,12 +128,12 @@
     flex-flow: row wrap;
     max-width: 98vw;
     top: 90px;
-    left: 7vw;
+    left: 7.2vw;
     font-family: "lores-22-bold-oakland", monospace;
   }
 
   .workColumn {
-    width:4.5vw;
+    width:4.32vw;
   }
   
   .workLink {
@@ -163,6 +163,11 @@
     cursor: pointer;
     font-style:italic;
     transition: 0.7s ease-in-out opacity;
+  }
+
+  .blueLetter {
+    color:#00ffff;
+    text-transform: lowercase;
   }
   
   .workLink:hover, .workLinkTwo:hover {
@@ -196,7 +201,7 @@
   }
   
   .siteShortcuts > .linkButton:hover {
-    opacity: 1;
+    opacity: 0.2;
   }
   
   @media (width: 1368px) and (height: 912px) {
