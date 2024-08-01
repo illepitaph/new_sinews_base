@@ -319,29 +319,27 @@
   }
   
   @media (max-width: 998px) {
-    .workLink:hover {
+    .workLink:hover, .workLinkTwo:hover, .workLinkBios:hover {
       opacity: 1;
     }
   }
   
   @media (max-width: 933px) and (orientation: landscape) {
-    .pageTitle,
-    .pageTitleTwo {
+    .pageTitle {
       font-size: 1.7rem;
-    }
-  
-    .pageTitleTwo {
-      margin-top: 1vh;
+      letter-spacing: 0;
+      text-shadow: 2px 2px white, 8px 8px 20px black;
     }
   
     .issueContents {
-      top: 10px;
+      top: 8vh;
     }
   
-    .workLink {
+    .workLink, .workLinkTwo, .workLinkBios {
       font-size: 1.1rem;
       letter-spacing: 0.4rem;
-      text-shadow: 2px 2px black, 3px 3px #f70d1a;
+      line-height:1.4rem;
+      text-shadow:4px 4px 12px black;
     }
   
     .siteShortcuts {
@@ -349,7 +347,7 @@
     }
   
     .siteShortcuts > .linkButton {
-      width: 20vw;
+      width: 15vw;
       font-size: 1rem;
     }
   }
@@ -366,25 +364,13 @@
   }
   
   @media (max-width: 855px) and (orientation: landscape) {
-    .pageTitle,
-    .pageTitleTwo {
-      line-height: 2.3rem;
-    }
   
-    .workLink {
+    .workLink, .workLinkTwo, .workLinkBios {
       letter-spacing: 0.3rem;
     }
   }
   
   @media (max-width: 801px) and (orientation: landscape) {
-    .pageTitle,
-    .pageTitleTwo {
-      line-height: 2.1rem;
-    }
-  
-    .pageTitleTwo {
-      margin-top: 9vh;
-    }
   
     .workLink {
       letter-spacing: 0.2rem;
@@ -392,43 +378,41 @@
   }
   
   @media (max-width: 835px) and (orientation: portrait) {
-    .pageTitleTwo {
-      margin-top: 15vh;
+
+    .pageTitle {
+      font-size:2rem;
     }
   
-    .workLink {
+    .workLink, .workLinkTwo, .workLinkBios {
       font-size: 1.5rem;
-      text-shadow: 2px 2px black, 3px 3px #f70d1a;
+      text-shadow:2px 2px 12px black;
     }
   
     .siteShortcuts {
       flex-flow: row;
-      margin-top: 7.5vh;
     }
   
     .siteShortcuts > .linkButton {
-      width: 20vw;
+      width: 12vw;
+      font-size:1rem;
     }
   }
   
-  @media (max-width: 668px) and (orientation: landscape) {
-    .pageTitle,
-    .pageTitleTwo {
-      line-height: 1.8rem;
-    }
+  @media (max-width: 801px) and (orientation: landscape) {
   
-    .workLink {
+    .workLink, .workLinkTwo, .workLinkBios {
       letter-spacing: 0.1rem;
+      line-height:1.1rem;
     }
-  
+
     .siteShortcuts > .linkButton {
-      width: 23vw;
+      font-size: 0.8rem;
     }
+
   }
   
   @media (max-width: 653px) and (orientation: landscape) {
-    .pageTitle,
-    .pageTitleTwo {
+    .pageTitle {
       line-height: 1.6rem;
     }
   
@@ -436,40 +420,46 @@
       top: 10px;
     }
   
-    .workLink {
+    .workLink, .workLinkTwo, .workLinkBios {
       font-size: 1rem;
       letter-spacing: 0.02rem;
     }
   }
   
   @media (max-width: 541px) and (orientation: portrait) {
-    .workLink {
+
+    .pageTitle {
+      text-shadow: 2px 2px white, 8px 8px 20px black;
+    }
+
+    .workLink, .workLinkTwo, .workLinkBios {
       letter-spacing: 0.5rem;
+      line-height: 1.5rem;
+    }
+
+    .specialFormatting {
+      display:inline-block;
+      margin-top:40vh;
     }
   
     .siteShortcuts > .linkButton {
       width: 25vw;
       font-size: 0.88rem;
-      padding: 1vh 1.1vw;
     }
   }
   
   @media (max-width: 431px) and (orientation: portrait) {
-    .pageTitle,
-    .pageTitleTwo {
-      font-size: 2rem;
-    }
-  
-    .pageTitleTwo {
-      margin-top: 25vh;
+    .pageTitle {
+      font-size: 1.8rem;
+      letter-spacing: -0.02rem;
     }
   
     .issueContents {
       line-height: 2.9vh;
     }
   
-    .workLink {
-      font-size: 1.5rem;
+    .workLink, .workLinkTwo, .workLinkBios {
+      font-size: 1.7rem;
       letter-spacing: 0.2rem;
     }
   
@@ -479,9 +469,22 @@
     }
   
     .siteShortcuts > .linkButton {
-      width: 45vw;
-      font-size: 0.9rem;
-      padding: 0.4vh 1.1vw;
+      width: 25vw;
+      font-size: 0.7rem;
+    }
+  }
+
+  @media (max-width: 385px) and (orientation: portrait) {
+  
+    .pageTitle {
+      font-size:1.6rem;
+    }
+  }
+
+  @media (max-width: 361px) and (orientation: portrait) {
+  
+    .siteShortcuts > .linkButton {
+      font-size: 0.59rem;
     }
   }
   
@@ -492,7 +495,7 @@
   }
   
   @media (max-width: 2811px) and (orientation: portrait) {
-    .workLink {
+    .workLink, .workLinkTwo, .workLinkBios {
       font-size:1.3rem;
     }
   }

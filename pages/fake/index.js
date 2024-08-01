@@ -60,6 +60,7 @@ export default function Issue8() {
               </div>
             </Link>
           </div>
+          <span className={styles.specialFormatting}>
           <div className={styles.workColumn}>
             <Link href="/fake/memory" passHref>
               <div className={styles.workLink}>
@@ -73,6 +74,8 @@ export default function Issue8() {
               </div>
             </Link>
           </div>
+          </span>
+          <span className={styles.specialFormatting}>
           <div className={styles.workColumn}>
             <Link href="/fake/memory" passHref>
               <div className={styles.workLinkTwo}>
@@ -82,6 +85,7 @@ export default function Issue8() {
               </div>
             </Link>
           </div>
+          </span>
           <div className={styles.workColumn}>
             <Link href="/fake/nails" passHref>
               <div className={styles.workLink}>
@@ -109,6 +113,7 @@ export default function Issue8() {
             </Link>
           </div>
           <div className={styles.workColumn}>
+          <span className={styles.specialFormatting}>
             <Link href="/fake/fry" passHref>
               <div className={styles.workLink}>
                 <br />
@@ -119,10 +124,12 @@ export default function Issue8() {
                 <br />f<br />r<br />y{" "}
               </div>
             </Link>
+            </span>
           </div>
           <div className={styles.workColumn}>
             <Link href="/fake/fry" passHref>
               <div className={styles.workLinkTwo}>
+              <span className={styles.specialFormatting}>
                 <br />a<br />n<br />
                 <br />
                 <span className={styles.blueLetter}>i</span>
@@ -130,6 +137,7 @@ export default function Issue8() {
                 <br />u<br />n<br />f<br />
                 <span className={styles.blueLetter}>i</span>
                 <br />x<br />e<br />d
+                </span>
               </div>
             </Link>
           </div>
@@ -163,6 +171,7 @@ export default function Issue8() {
             </Link>
           </div>
           <div className={styles.workColumn}>
+          <span className={styles.specialFormatting}>
             <Link href="/fake/drug" passHref>
               <div className={styles.workLink}>
                 <br />v<br />a<br />l<br />e<br />r{" "}
@@ -173,8 +182,10 @@ export default function Issue8() {
                 <br />u<br />n<br />g{" "}
               </div>
             </Link>
+            </span>
           </div>
           <div className={styles.workColumn}>
+          <span className={styles.specialFormatting}>
             <Link href="/fake/drug" passHref>
               <div className={styles.workLinkTwo}>
                 g<br />
@@ -195,6 +206,7 @@ export default function Issue8() {
                 <br />h
               </div>
             </Link>
+            </span>
           </div>
           <div className={styles.workColumn}>
             <Link href="/fake/album" passHref>
@@ -226,6 +238,7 @@ export default function Issue8() {
             </Link>
           </div>
           <div className={styles.workColumn}>
+          <span className={styles.specialFormatting}>
             <Link href="/fake/houcek" passHref>
               <div className={styles.workLink}>
                 <br /> e<br />l<br />
@@ -239,8 +252,10 @@ export default function Issue8() {
                 <br />e<br />k
               </div>
             </Link>
+            </span>
           </div>
           <div className={styles.workColumn}>
+          <span className={styles.specialFormatting}>
             <Link href="/fake/houcek" passHref>
               <div className={styles.workLinkTwo}>
                 t<br />o<br />t<br />a<br />l<br />l<br />y<br />
@@ -249,6 +264,7 @@ export default function Issue8() {
                 <br />s<br />t<br />a<br />n<br />t<br />
               </div>
             </Link>
+            </span>
           </div>
           <div className={styles.workColumn}>
             <Link href="/fake/videosouls" passHref>
@@ -281,6 +297,7 @@ export default function Issue8() {
             </Link>
           </div>
           <div className={styles.workColumn}>
+          <span className={styles.specialFormatting}>
             <Link href="/fake/bonilla" passHref>
               <div className={styles.workLink}>
                 <br />
@@ -296,8 +313,10 @@ export default function Issue8() {
                 a_
               </div>
             </Link>
+            </span>
           </div>
           <div className={styles.workColumn}>
+          <span className={styles.specialFormatting}>
             <Link href="/fake/bonilla" passHref>
               <div className={styles.workLinkTwo}>
                 <br /> <br /> <br />
@@ -306,6 +325,7 @@ export default function Issue8() {
                 <br />m<br />à<br />t<br />e
               </div>
             </Link>
+            </span>
           </div>
           <div className={styles.workColumn}>
             <Link href="/fake/bios" passHref>
