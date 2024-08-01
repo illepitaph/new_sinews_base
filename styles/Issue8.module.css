@@ -141,7 +141,7 @@
     font-family: "lores-12-narrow";
     font-size: 2.6rem;
     font-weight: 700;
-    text-shadow: 1px 1px #00ffff, 8px 8px 20px black;
+    text-shadow: 2px 1px #00ffff, 8px 8px 20px black;
     text-transform: uppercase;
     letter-spacing: 0.1rem;
     line-height:2.15rem;
@@ -181,6 +181,7 @@
 
   .blueLetter {
     color:#00ffff;
+    text-shadow: 2px 1px black, 8px 8px 20px #00ffff;
     text-transform: lowercase;
   }
   
