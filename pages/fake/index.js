@@ -46,7 +46,7 @@ export default function Issue8() {
                 <br />e<br />a<br />
                 <br />h<br />a<br />r<br />p<br />
                 e_
-                <br />r<br/>&#x21dd;
+                <br />r
               </div>
             </Link>
           </div>
