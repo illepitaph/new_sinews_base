@@ -105,13 +105,13 @@ export default function Maitonaut() {
         <br />
         <br />
         <a
-          href="https://www.amazon.co.uk/Maitonaut-Kaisa-Saarinen/dp/B0D9RCJVTT/ref=sr_1_1?crid=1PBKL49V5XD69&dib=eyJ2IjoiMSJ9.oj6UAfNyoaFOQfQl_x-hqQ.fzig8VDy0oHWXTN8hTTPGnJGh1OSMIEjljIUe0P4e5I&dib_tag=se&keywords=maitonaut&qid=1721936253&sprefix=maitonau%2Caps%2C160&sr=8-1"
+          href="https://t.co/XKNRpsVbDV"
           target="_blank"
           rel="noreferrer"
         >
           <span className={styles.orderLink}>
             <span className={styles.uppercase}>
-              &#10132; Amazon UK &#8678;{" "}
+              &#10132; Waterstones UK &#8678;{" "}
             </span>
           </span>
         </a>
