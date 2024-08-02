@@ -703,7 +703,7 @@
   
     .siteShortcuts > .linkButton {
       width: 24vw;
-      font-size: 0.9rem;
+      font-size: 0.8rem;
       letter-spacing:0;
     }
   }
@@ -716,7 +716,7 @@
 
     .siteShortcuts > .linkButton {
       width:21vw;
-      font-size: 0.59rem;
+      font-size: 0.54rem;
     }
   }
 
