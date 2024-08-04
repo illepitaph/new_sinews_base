@@ -330,7 +330,7 @@ export default function Father() {
         cigarette butts and Big Gulp cups draining red fluid on the steps. He
         knocks on the plastic window of the door and a thin man with long black
         braids and bleached eyebrows opens it. <i>Welcome</i>, <i>comrade</i>!
-        He says, pulling Kept_Male in by the wrist. The other men turn their
+        he says, pulling Kept_Male in by the wrist. The other men turn their
         heads towards Kept_Male when he walks into the room where they are
         sitting cross-legged in a circle, pink plastic dolls lying at their
         feet. <i>Welcome</i>!!! <i>Hi Daddy</i>! <i>Ready 2 get 2 work</i>!? The
