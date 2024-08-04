@@ -176,8 +176,8 @@ export default function Nails() {
         value measured out in rice in a Tik Tok helped. 1.4 million Americans
         attempted suicide in 2020, I’m told by a graphic. I wasn’t one of them.
         You cannot count the desire. I feel nothing other than the hope of being
-        one of them at a point in time where I will be able to look back. 48,
-        334 suicided (in the US). 22,000 students enrolled at Harvard, across
+        one of them at a point in time where I will be able to look back. 48,334 
+        suicided (in the US). 22,000 students enrolled at Harvard, across
         the three schools. Birth rate of 11.990 in the US. How many is that?
         Google wouldn’t tell me, or doesn’t know. The truth is it’s all of them.
         It’s all.
