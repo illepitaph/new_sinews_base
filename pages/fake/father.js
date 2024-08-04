@@ -128,7 +128,7 @@ export default function Father() {
         club, walking slowly through bodies with lolling heads and flashing
         teeth, their arms and legs moving stiffly in time to the music. The
         blonde man and silver woman were trailing him, caressing his chest and
-        face whenever they get close enough to touch him.{" "}
+        face whenever they got close enough to touch him.{" "}
         <i>What are you looking for</i>, the blonde man asked, and Kept_Male
         liked how small he himself looked cradled in the blonde man’s arm, which
         was now circled around him. <i>I think he</i>’<i>s looking for me</i>,
