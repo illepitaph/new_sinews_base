@@ -228,8 +228,7 @@ To remove oneself from the market where sits food...
 
 I walk along the Kalamazoo
 River branched focus the jewels on spots real play
-To me the trees
-out-candied frontispieces 
+To me the trees out-candied frontispieces 
 alluded to from Sweden 
 I’ll ask 
 All below
