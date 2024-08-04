@@ -918,7 +918,7 @@ export default function Nails() {
         secret, or is secret the form of the divine? The mystery and the
         ministry. I feared what I was looking at, in being a place of worship,
         was looking at me—or at least was
-        <i>visible</i>, in a way like a portal between places of seeing, the
+        <i> visible</i>, in a way like a portal between places of seeing, the
         world and the other world.
         <br />
         <br />
