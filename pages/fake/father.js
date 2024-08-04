@@ -171,7 +171,7 @@ export default function Father() {
         unfinished condo, wishing he could fall asleep next to her in the tub.
         <br />
         <br />
-        Finally, now, PhoneBaby21 and Kept_Male announce their engagement at
+        And finally, now, PhoneBaby21 and Kept_Male announce their engagement at
         KruzKontrol. The blonde man and silver woman, who go by Leena and Claud,
         are in fact throwing them a lavish party. The space is full of balloons,
         and fresh flowers are strung from the ceilings, four-foot birds of
