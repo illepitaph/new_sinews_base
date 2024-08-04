@@ -1153,7 +1153,7 @@ export default function Nails() {
         <br />
         <i>
           Hours before, we’d been on top of the covers in the Allen House Inn
-          (the William Morris Room) fearing we’d sullied the doilied coverlet
+          </i> (<i>the William Morris Room</i>) <i>fearing we’d sullied the doilied coverlet
           with our fluids. We’d been mistaken as two on a honeymoon, so we
           followed suit. Pained — like wet leaves blown onto a tree — conjoined,
           sharing a breathing. Whatever one of us bent over the other. Episodes
