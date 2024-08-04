@@ -67,9 +67,8 @@ export default function Nails() {
         repeated the phrases:{" "}
         <span className={styles.grayShadow}>
           <i>
-            May I be free of danger, May I have mental happiness, May I have
-            physical happiness, May I have ease of well-being.
-          </i>
+            May I be free of danger</i>, <i>May I have mental happiness</i>, <i>May I have
+            physical happiness</i>, <i>May I have ease of well-being</i>.
         </span>{" "}
         I name this performance, I call it{" "}
         <span className={styles.grayShadow}>
@@ -584,11 +583,11 @@ export default function Nails() {
         want to publish. I want to write fragments like the ones from the work
         computer, titled{" "}
         <span className={styles.grayShadow}>
-          <i>From the work computer, August 2020</i>
+          <i>From the work computer</i>, <i>August 2020</i>
         </span>{" "}
         and{" "}
         <span className={styles.grayShadow}>
-          <i>From the work computer, September 2020</i>
+          <i>From the work computer</i>, <i>September 2020</i>
         </span>
         .
         <br />
