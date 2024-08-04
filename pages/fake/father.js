@@ -107,7 +107,7 @@ export default function Father() {
         her, his heart beating hard in his chest.
         <br />
         <br />
-        But soon after Kept_Male and PhoneBaby21 met, she disappeared for two weeks.
+        Yet soon after Kept_Male and PhoneBaby21 met, she disappeared for two weeks.
         Kept_Male wandered around her condo and sat in her tub, feeling sick and
         anxious. He visited KruzKontrol, and debated whether he should put
         Missing Persons fliers up around the club. He looked up pictures of the
