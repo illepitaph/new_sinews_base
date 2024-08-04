@@ -49,7 +49,7 @@ export default function Nails() {
           <span className={styles.uppercase}>
             <span className={styles.nameIndent}>a</span> r
           </span>{" "}
-          <span className={styles.nameIndent}>y </span> ... ... s
+          <span className={styles.nameIndent}>y ... </span> ... s
           <span className={styles.uppercase}>t</span>o u
           <span className={styles.uppercase}>g</span> h ... ...
         </span>
@@ -1050,53 +1050,55 @@ export default function Nails() {
         <br />
         <br />
         <br />
-        What can the monastery <i>be</i> in America but a mirror of 
-        defeat? A bare architecture gesturing to nothing substantially
-        timeless, though it purports to have access to that. To whom 
-        does it give this access other than a people whose trace is 
-        already in the process of being defiled? Can one sit here, can
-        one sit for an hour here.
-        <br/>
-        <br/>
-        <br/>
-        “To exist to be being, when I’m already being.” 
-        <br/>
-        <br/>
-        <br/>
+        What can the monastery <i>be</i> in America but a mirror of defeat? A
+        bare architecture gesturing to nothing substantially timeless, though it
+        purports to have access to that. To whom does it give this access other
+        than a people whose trace is already in the process of being defiled?
+        Can one sit here, can one sit for an hour here.
+        <br />
+        <br />
+        <br />
+        “To exist to be being, when I’m already being.”
+        <br />
+        <br />
+        <br />
         <span className={styles.grayShadow}>
-        May I be free from pain
-        <br/>
-        <br/>
-        May I have
-        <br/>
-        <br/>
-        May I have freedom from pain
-        <br/>
-        <br/>
-        May I have not the shock, but the grief of pain
-        <br/>
-        <br/>
-        May I have something for which to show my forgiveness
-        <br/>
-        <br/>
-        <br/>
-        May I be aware of the Great Harmonic Disarticulation
-        <br/>
-        <br/>
-        May I have pencils
-        <br/>
-        <br/>
-        Pencils
-        <br/>
-        <br/>
-        May I have White Buddhism as a salve for burning real pragmatic
-        <br/>
-        <br/>
-        May I have <s>insurance, financial stability, the right to kill
-        with impunity, the right to suicide, a studio apartment and no 
-        rent, a pet gila monster, a vegetable garden in Brooklyn, the
-        lights on forever, the sound off forever, the water running, the
-        people who make me</s>.
+          May I be free from pain
+          <br />
+          <br />
+          May I have
+          <br />
+          <br />
+          May I have freedom from pain
+          <br />
+          <br />
+          May I have not the shock, but the grief of pain
+          <br />
+          <br />
+          May I have something for which to show my forgiveness
+          <br />
+          <br />
+          <br />
+          May I be aware of the Great Harmonic Disarticulation
+          <br />
+          <br />
+          May I have pencils
+          <br />
+          <br />
+          Pencils
+          <br />
+          <br />
+          May I have White Buddhism as a salve for burning real pragmatic
+          <br />
+          <br />
+          May I have{" "}
+          <s>
+            insurance, financial stability, the right to kill with impunity, the
+            right to suicide, a studio apartment and no rent, a pet gila
+            monster, a vegetable garden in Brooklyn, the lights on forever, the
+            sound off forever, the water running, the people who make me
+          </s>
+          .
         </span>
         <br />
         <br />
@@ -1109,32 +1111,32 @@ export default function Nails() {
         <br />
         <br />
         <span className={styles.grayShadow}>
-        Tell him
-        <br/>
-        <br/>
-        That we who follow you
-        <br/>
-        <br/>
-        Invented forgiveness
-        <br/>
-        <br/>
-        <br/>
-        May I be 
-        <br/>
-        <br/>
-        May I have
-        <br/>
-        <br/> 
-        May I be
-        <br/>
-        <br/>
-        May I have
-        <br/>
-        <br/> 
-        May I be
-        <br/>
-        <br/>
-        May I be
+          Tell him
+          <br />
+          <br />
+          That we who follow you
+          <br />
+          <br />
+          Invented forgiveness
+          <br />
+          <br />
+          <br />
+          May I be
+          <br />
+          <br />
+          May I have
+          <br />
+          <br />
+          May I be
+          <br />
+          <br />
+          May I have
+          <br />
+          <br />
+          May I be
+          <br />
+          <br />
+          May I be
         </span>
         <br />
         <br />
@@ -1150,13 +1152,14 @@ export default function Nails() {
         <br />
         <br />
         <br />
-        <i>Hours before, we’d been on top of the covers in the Allen
-        House Inn (the William Morris Room) fearing we’d sullied
-        the doilied coverlet with our fluids. We’d been mistaken
-        as two on a honeymoon, so we followed suit. Pained — like
-        wet leaves blown onto a tree — conjoined, sharing 
-        a breathing. Whatever one of us bent over the other. Episodes
-        of Jeopardy in between. The ‘leaden donkey.’ The ‘load.’</i>
+        <i>
+          Hours before, we’d been on top of the covers in the Allen House Inn
+          (the William Morris Room) fearing we’d sullied the doilied coverlet
+          with our fluids. We’d been mistaken as two on a honeymoon, so we
+          followed suit. Pained — like wet leaves blown onto a tree — conjoined,
+          sharing a breathing. Whatever one of us bent over the other. Episodes
+          of Jeopardy in between. The ‘leaden donkey.’ The ‘load.’
+        </i>
       </StandardProse>
       <Footer />
     </>
