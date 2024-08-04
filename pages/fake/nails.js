@@ -464,7 +464,7 @@ export default function Nails() {
         aggressively enraged sense of injustice, committed to the idea that,
         because I must endure increasingly austere working conditions (wage
         freezes, loss of benefits, declining pension pot, erasure of job
-        security and increasing precarity) then everyone else must too”).
+        security and increasing precarity) then everyone else must too”.
         <br />
         <br />
         <br />
