@@ -113,7 +113,7 @@ export default function Father() {
         Missing Persons fliers up around the club. He looked up pictures of the
         Black Sea, wishing he could float in the dark salty water with
         PhoneBaby21. Towards the end of the second week, he decided it was time
-        to forgot about her. He flew to a nude beach, which was password
+        to forget about her. He flew to a nude beach, which was password
         protected. He participated in a lackluster three-way in the sand, a huge
         blonde man grabbing at his neck, while a silver-skinned woman pawed at
         his swim trunks. <i>You</i>’<i>re so handsome</i>, the blonde man told
