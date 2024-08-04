@@ -49,7 +49,7 @@ export default function Nails() {
           <span className={styles.uppercase}>
             <span className={styles.nameIndent}>a</span> r
           </span>{" "}
-          <span className={styles.nameIndent}>y</span> ... ... s
+          <span className={styles.nameIndent}>y </span> ... ... s
           <span className={styles.uppercase}>t</span>o u
           <span className={styles.uppercase}>g</span> h ... ...
         </span>
