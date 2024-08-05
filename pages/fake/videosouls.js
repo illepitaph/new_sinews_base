@@ -236,7 +236,7 @@ export default function Video() {
         it isn&rsquo;t clear what type of merchandise this store specializes in:
         there&rsquo;s simply no cohesion to the products offered up for sale.
         austerely displayed are wares like ration buckets, Giorgio perfume,
-        fishing rods, massagers, video rewinders, a 2. Casio SK-1 sampling
+        fishing rods, massagers, video rewinders, a Casio SK-1 sampling
         keyboard, one of each item set out on acrylic shelves latched to aisle
         walls, as in a catalog showroom. you&rsquo;re eyeballed then ignored by
         the proprietor, CONSTANTIN THE WET, fifty-five, with stripes of hair
@@ -717,7 +717,7 @@ export default function Video() {
         </i>
         , it says.
         <br />
-        shake your aspergillum at her cackling,
+        shake yr aspergillum at her cackling,
         <br />
         the fugitive rite.
         <br />
