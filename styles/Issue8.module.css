@@ -240,7 +240,7 @@
   
   @media (width: 1366px) and (height: 1024px) {
     .issueContents {
-      top: 10vh;
+      top: 8.5vh;
     }
   
     .siteShortcuts {
@@ -352,6 +352,10 @@
     .issueContents {
       top: 13vh;
     }
+
+    .issueContents {
+      top: 5vh;
+    }
   
     .siteShortcuts {
       flex-flow: row;
@@ -371,7 +375,7 @@
 
     .specialFormatting {
       display:inline-block;
-      margin-top:40vh;
+      margin-top:30vh;
     }
   }
   
@@ -566,7 +570,7 @@
 
     .specialFormatting {
       display:inline-block;
-      margin-top:40vh;
+      margin-top:30vh;
     }
   
   
@@ -687,13 +691,18 @@
     }
   
     .issueContents {
-      top:14vh;
+      top:10vh;
       line-height: 2.9vh;
     }
   
     .workLink, .workLinkTwo, .workLinkBios {
-      font-size: 1.7rem;
+      font-size: 1.6rem;
       letter-spacing: 0.2rem;
+      line-height:1.25rem;
+    }
+
+    .specialFormatting {
+      margin-top:30vh;
     }
   
     .siteShortcuts {
@@ -728,6 +737,10 @@
 
     .workLink, .workLinkTwo, .workLinkBios {
       font-size: 1.5rem;
+    }
+
+    .specialFormatting {
+      margin-top:40vh;
     }
   }
   
