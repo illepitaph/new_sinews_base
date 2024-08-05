@@ -329,7 +329,12 @@
     }
 
     .issueContents {
-      top: 13vh;
+      top: 9vh;
+    }
+
+    .specialFormatting {
+      display:inline-block;
+      margin-top:9vh;
     }
   
     .siteShortcuts {
@@ -459,7 +464,7 @@
     .workLink, .workLinkTwo, .workLinkBios {
       font-size: 1.1rem;
       letter-spacing: 0.4rem;
-      line-height:1.1rem;
+      line-height:0.85rem;
       text-shadow:2px 2px black;
     }
 
@@ -570,7 +575,7 @@
 
     .specialFormatting {
       display:inline-block;
-      margin-top:30vh;
+      margin-top:23vh;
     }
   
   
@@ -593,11 +598,6 @@
 
     .specialFormatting {
       margin-top:10vh;
-    }
-  
-    .workLink, .workLinkTwo, .workLinkBios {
-      letter-spacing: 0.1rem;
-      line-height:1.1rem;
     }
 
     .siteShortcuts > .linkButton {
@@ -736,7 +736,7 @@
     }
 
     .specialFormatting {
-      margin-top:40vh;
+      margin-top:30vh;
     }
   }
   
