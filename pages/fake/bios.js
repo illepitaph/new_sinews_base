@@ -32,7 +32,7 @@ export default function Issue8Bios() {
           href="https://www.andreadeonharper.net/"
         >
           {" "}
-          https://www.andreadeonharper.net/
+          www.andreadeonharper.net
         </a>.
         <br/>
         <br/>
