@@ -70,11 +70,11 @@ export default function Bonilla() {
         minimum wage and family loans permitted.
         <br />
         <br />
-        Leobardo determined Penelope was a coping mechanism that Heriberto
-        excogitated in an instant of despair, and therefore recurred to
-        relentless derision. Although the case for brotherly love was hard to
-        argue, Leobardo certainly imagined, consistent with his devious loyalty
-        to time-worn masculinity, that only through his aggressive deflation of
+        Leobardo determined Penelope was a coping mechanism that Heriberto had
+        excogitated in an instant of despair, and therefore derided the artless
+        Pygmalion. Although the case for brotherly love was hard to argue,
+        Leobardo certainly imagined, consistent with his devious loyalty to
+        time-worn masculinity, that only through his aggressive deflation of
         illusions he would open his brother’s eyes. But words are words,
         penurious stabs at passing air, and even Leobardo’s hebephrenic humor
         could not debark in Heriberto’s inner haven, truculent as it now was to
@@ -223,109 +223,95 @@ export default function Bonilla() {
         highlights only the worst in themselves, was a favorite of his.
         <br />
         <br />
-        I touched upon Inés and her reticence. Let it be known that I am
-        no imp who lives to saddle the wretched with additional
-        weights. No, that is not the course of my instinctual drives. Were
-        it so, doubt not I would follow it with great dignity and flair, and
-        thus I would have seduced Inés in order to thrust three outsiders
-        further to the margins just for the thrill. To be clear, I am
-        an imp who unsettles the stupor-scented, with qualification—I should
-        be unsettled as well, I should feel the moderate shock that compels
-        pause. The swashbuckling immoralist must crash. There is no place
-        for him; he belongs to the interstices. “All luxury ends in
-        slavery: even luxuriation in the purest love to the most
+        I touched upon Inés and her reticence. Let it be known that I am no imp
+        who lives to saddle the wretched with additional weights. No, that is
+        not the course of my instinctual drives. Were it so, doubt not I would
+        follow it with great dignity and flair, and thus I would have seduced
+        Inés in order to thrust three outsiders further to the margins just for
+        the thrill. To be clear, I am an imp who unsettles the stupor-scented,
+        with qualification—I should be unsettled as well, I should feel the
+        moderate shock that compels pause. The swashbuckling immoralist must
+        crash. There is no place for him; he belongs to the interstices. “All
+        luxury ends in slavery: even luxuriation in the purest love to the most
         sacred being.” I would leave Inés intact and barely involved.
-        <br/>
-        <br/>
-        Three more visits and a rough-hewn reconstruction of the brotherly
-        feud (a simple use of epithets: cunt-crazy Leobardo against
-        spirit-loving Heriberto) exacted enough sympathy for Inés
-        to agree to a benign intervention, which would consist in nothing
-        more than standing on guard while Leobardo assailed her with
-        preposterously doltish questions (why are you fucking him, why
-        do you keep going, do you like it, don’t you feel sorry) and
-        perhaps some commandments (stop fucking my brother, stop
-        answering, stop coddling). Having put all my trust in this
-        infatuating jade, I enlightened Leobardo on the evancalous
-        nature of his brother’s deipnosophist and blessed him on his
-        charette. He did not seem as eager as before. I suppose that
-        of his kaleidoscopic impulses there was only left at this point
-        a combination of saving face and the need for revenge. A natural
-        development in one who suckled on the factual. Not quite
-        the climax I expected for my sleuthing, yet fitting: was it
-        not mostly a tour in which I honored chastity? 
-        <br/>
-        <br/>
-        Now, one’s genius is not easily fooled. Hickey, with constrained
-        heart, saw his father’s tears and heard his earnest words; he even
-        resolved to seek a path hostile to his dissolute inclinations. Do
-        you remember the amount of time he managed? Never more than
-        a week. Then you had him toasting with criminals, crashing
-        a boat in a drunken rapture, and mounting the lover of a supercilious
-        noble. And there was no alternative. The world is a cutthroat mass
-        of possibilities, but all are not open; <i>au contraire</i>, most
-        are adamantine bolted doors. It matters little. We are perfectly
-        aware of our desires, though reluctant. We can cross and
-        instantiate. The silly geese who stand awestruck before
-        the myriad lives that are lived intensely and have no
-        unruly urge to carve their own must be destined for
-        spectatorship. There are crowds upon crowds without soul-searing
-        impulses. Rejoice, then, if your genitalia have plans other
-        than the adjustments called for by your hesitating 
-        mind, which, listen not to the dualists, is no separate
-        substance. Now, one’s genius is persistent. And its enablers
-        are always there. Leobardo was unconvinced, aggrieved. He
-        spoke of masculine intuitions, but really. One’s genius is
-        also perceptive.  	  
-        <br/>
-        <br/>
-        A last postprandial visit, alas! I looked into the neocratic
-        regime and witnessed its subtle yet iron rule. From
-        the glistening, half-corroded central pole, where
-        a dissociated middle-aged blonde vied to outdo
-        the twenty-year-old money-machine that preceded her, down
-        to the cornered comessation of adolescents, where a mildly
-        bored thirty-year-old slammed her cheeks against the birthday
-        boy, I saw it all; for, except the wizened bartender, no
-        person kept aloof of the alluring petrichor that promised
-        discharge. Hyperactive, bloody-eyed traffickers weaseled
-        their way to their sole piss-glazed territories: there, adding
-        a layer of sumptuous accent, rolled in the capacious wallet
-        and its sycophantic cortege; here, smog-showered and
-        sooty-limbed, a beggar stumbled in his stupor against
-        the sweaty bouncer, too much a prey of inaccessible perceptions
-       to ask for alms: hundreds of bodies, kinetic and worn-out, came
-        tumbling in with bulging peduncles, and went tumbling out
-        again with doused languid flowers. Do you know whether this
-        incessant <i>immunditia</i>, <i>macula</i>, <i>turpitudo</i>, <i>ignominia</i> will
-        ever cease its thrust? From violence, onwards to violence! This
-        is humanity stripped to its mercenary core. Are they all
-        not potential foot soldiers prowling the streets in search
-        of the weary and crushed so as to debase them further and gain
-        some short-lived energy? Lipsdick, the very tabernacle that preserves
-        callousness in times of skittish peace. Here one sees a living link
-        to the brutalities which ever trail over our
-        march. Laughable, certainly, that generic chastisement of bygone
-        periods in which battalions pillaged everything in sight and as
-        recreation stuck a linstock through half a village’s ass, or in
-        which a common thug forced Palioly’s Pear into an unsuspecting
-        civilian’s mouth while having no recollection of its key ever
-        existing, or in which tyrants ordered their devoted servants
-        into brazen bulls simply to kick-start the anguished bellows. The
-        permutations of pain increase in sophistication, and we are 
-        unwilling and unable to go back. Ah, but you had me there! Regal
-        in my detachment, scanning the caliginous sublime, erect, meeting
-        filth with dispassion, I let the surplus approach. And
-        then, abrupt, Inés and the anagnorisis in her dazed smile. She
-        knew. The finagler duped. Done. Riot cried aloud. Just as there
-        abound quacks, skinners, wetworkers, burglars, embezzlers, backyard
-        breeders, double-crossers, impersonators, flim-flams, money
-        mules, mochileros, pornographers, poachers, pimps, so too
-        martyrs and saints bloom. Here, again, resounded the basso 
-        continuo of my life: the lost with the lost; the upright with
-        the rest. All zealotry of conversion as transient as our nocturnal
-        emissions.
-
+        <br />
+        <br />
+        Three more visits and a rough-hewn reconstruction of the brotherly feud
+        (a simple use of epithets: cunt-crazy Leobardo against spirit-loving
+        Heriberto) exacted enough sympathy for Inés to agree to a benign
+        intervention, which would consist in nothing more than standing on guard
+        while Leobardo assailed her with preposterously doltish questions (why
+        are you fucking him, why do you keep going, do you like it, don’t you
+        feel sorry) and perhaps some commandments (stop fucking my brother, stop
+        answering, stop coddling). Having put all my trust in this infatuating
+        jade, I enlightened Leobardo on the evancalous nature of his brother’s
+        deipnosophist and blessed him on his charette. He did not seem as eager
+        as before. I suppose that of his kaleidoscopic impulses there was only
+        left at this point a combination of saving face and the need for
+        revenge. A natural development in one who suckled on the factual. Not
+        quite the climax I expected for my sleuthing, yet fitting: was it not
+        mostly a tour in which I honored chastity?
+        <br />
+        <br />
+        Now, one’s genius is not easily fooled. Hickey, with constrained heart,
+        saw his father’s tears and heard his earnest words; he even resolved to
+        seek a path hostile to his dissolute inclinations. Do you remember the
+        amount of time he managed? Never more than a week. Then you had him
+        toasting with criminals, crashing a boat in a drunken rapture, and
+        mounting the lover of a supercilious noble. And there was no
+        alternative. The world is a cutthroat mass of possibilities, but all are
+        not open; <i>au contraire</i>, most are adamantine bolted doors. It
+        matters little. We are perfectly aware of our desires, though reluctant.
+        We can cross and instantiate. The silly geese who stand awestruck before
+        the myriad lives that are lived intensely and have no unruly urge to
+        carve their own must be destined for spectatorship. There are crowds
+        upon crowds without soul-searing impulses. Rejoice, then, if your
+        genitalia have plans other than the adjustments called for by your
+        hesitating mind, which, listen not to the dualists, is no separate
+        substance. Now, one’s genius is persistent. And its enablers are always
+        there. Leobardo was unconvinced, aggrieved. He spoke of masculine
+        intuitions, but really. One’s genius is also perceptive.
+        <br />
+        <br />A last postprandial visit, alas! I looked into the neocratic
+        regime and witnessed its subtle yet iron rule. From the glistening,
+        half-corroded central pole, where a dissociated middle-aged blonde vied
+        to outdo the twenty-year-old money-machine that preceded her, down to
+        the cornered comessation of adolescents, where a mildly bored
+        thirty-year-old slammed her cheeks against the birthday boy, I saw it
+        all; for, except the wizened bartender, no person kept aloof of the
+        alluring petrichor that promised discharge. Hyperactive, bloody-eyed
+        traffickers weaseled their way to their sole piss-glazed territories:
+        there, adding a layer of sumptuous accent, rolled in the capacious
+        wallet and its sycophantic cortege; here, smog-showered and
+        sooty-limbed, a beggar stumbled in his stupor against the sweaty
+        bouncer, too much a prey of inaccessible perceptions to ask for alms:
+        hundreds of bodies, kinetic and worn-out, came tumbling in with bulging
+        peduncles, and went tumbling out again with doused languid flowers. Do
+        you know whether this incessant <i>immunditia</i>, <i>macula</i>,{" "}
+        <i>turpitudo</i>, <i>ignominia</i> will ever cease its thrust? From
+        violence, onwards to violence! This is humanity stripped to its
+        mercenary core. Are they all not potential foot soldiers prowling the
+        streets in search of the weary and crushed so as to debase them further
+        and gain some short-lived energy? Lipsdick, the very tabernacle that
+        preserves callousness in times of skittish peace. Here one sees a living
+        link to the brutalities which ever trail over our march. Laughable,
+        certainly, that generic chastisement of bygone periods in which
+        battalions pillaged everything in sight and as recreation stuck a
+        linstock through half a village’s ass, or in which a common thug forced
+        Palioly’s Pear into an unsuspecting civilian’s mouth while having no
+        recollection of its key ever existing, or in which tyrants ordered their
+        devoted servants into brazen bulls simply to kick-start the anguished
+        bellows. The permutations of pain increase in sophistication, and we are
+        unwilling and unable to go back. Ah, but you had me there! Regal in my
+        detachment, scanning the caliginous sublime, erect, meeting filth with
+        dispassion, I let the surplus approach. And then, abrupt, Inés and the
+        anagnorisis in her dazed smile. She knew. The finagler duped. Done. Riot
+        cried aloud. Just as there abound quacks, skinners, wetworkers,
+        burglars, embezzlers, backyard breeders, double-crossers, impersonators,
+        flim-flams, money mules, mochileros, pornographers, poachers, pimps, so
+        too martyrs and saints bloom. Here, again, resounded the basso continuo
+        of my life: the lost with the lost; the upright with the rest. All
+        zealotry of conversion as transient as our nocturnal emissions.
       </StandardProse>
 
       <Footer />
