@@ -258,13 +258,13 @@
 
     .specialFormatting {
       display:inline-block;
-      margin-top:29vh;
+      margin-top:19vh;
     }
   }
   
   @media (width: 1280px) and (height: 800px) {
     .issueContents {
-      top: 17vh;
+      top: 11vh;
     }
   
     .siteShortcuts {
@@ -298,6 +298,11 @@
 
     .workLink, .workLinkTwo, .workLinkBios {
       text-shadow:2px 2px black;
+    }
+
+    .specialFormatting {
+      display:inline-block;
+      margin-top:15vh;
     }
   }
   
@@ -359,7 +364,7 @@
     }
 
     .issueContents {
-      top: 5vh;
+      top: 8vh;
     }
   
     .siteShortcuts {
@@ -380,7 +385,7 @@
 
     .specialFormatting {
       display:inline-block;
-      margin-top:30vh;
+      margin-top:18vh;
     }
   }
   
@@ -486,7 +491,7 @@
   
   @media (width: 912px) and (height: 1368px) {
     .pageTitle {
-      font-size: 2.9rem;
+      font-size: 2.6rem;
       letter-spacing: 0;
       text-shadow: 2px 2px white, 8px 8px 20px black;
     }
@@ -503,7 +508,7 @@
 
     .specialFormatting {
       display:inline-block;
-      margin-top:40vh;
+      margin-top:26vh;
     }
   
     .siteShortcuts {
@@ -546,7 +551,7 @@
 
     .specialFormatting {
       display:inline-block;
-      margin-top:40vh;
+      margin-top:23vh;
     }
   
     .siteShortcuts {
@@ -563,7 +568,7 @@
   @media (max-width: 835px) and (orientation: portrait) {
 
     .pageTitle {
-      font-size:1.9rem;
+      font-size:1.6rem;
       letter-spacing:0.2rem;
     }
   
@@ -575,7 +580,7 @@
 
     .specialFormatting {
       display:inline-block;
-      margin-top:23vh;
+      margin-top:15vh;
     }
   
   
@@ -670,7 +675,7 @@
 
     .specialFormatting {
       display:inline-block;
-      margin-top:45vh;
+      margin-top:25vh;
     }
   
     .siteShortcuts {
@@ -686,7 +691,7 @@
   
   @media (max-width: 431px) and (orientation: portrait) {
     .pageTitle {
-      font-size: 1.8rem;
+      font-size: 1.5rem;
       letter-spacing: -0.02rem;
     }
   
@@ -720,7 +725,7 @@
   @media (max-width: 391px) and (orientation: portrait) {
   
     .pageTitle {
-      font-size:1.6rem;
+      font-size:1.3rem;
     }
 
     .siteShortcuts > .linkButton {

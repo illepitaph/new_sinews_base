@@ -25,6 +25,19 @@ export default function Issue8Bios() {
       <StandardProse>
         <br />
         <br />
+        <span className={styles.grayInverse}>ANDREA HARPER</span> works as a caregiver and sculptor in Texas. You can find her here: <a
+          className={styles.biosExternalLink}
+          target="_blank"
+          rel="noreferrer"
+          href="https://www.andreadeonharper.net/"
+        >
+          {" "}
+          https://www.andreadeonharper.net/
+        </a>.
+        <br/>
+        <br/>
+        <br/>
+
         <span className={styles.grayInverse}>CARY STOUGH</span> is a writer from
         the Missouri Ozarks. He is an English student at the University of Iowa
         and President of
