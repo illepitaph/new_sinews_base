@@ -43,7 +43,7 @@ export default function Issue8Bios() {
         <span className={styles.grayInverse}>YOUNGYU CHEN</span> lives in
         Cambridge, MA & their poems have appeared in journals including{" "}
         <i>Chicago Review</i>, <i>Lana Turner</i>, & <i>Poetry</i>. Their first
-        book is forthcoming wiht Nightboat.
+        book is forthcoming with Nightboat.
         <br />
         <br />
         <br />
