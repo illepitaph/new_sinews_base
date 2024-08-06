@@ -407,9 +407,9 @@ The aquatic creatures surround us, beached. They quicken our feelings.
 
 These are dangers.
 
-Remember I showed R, once, the faces in my family one by one. Footsteps quickened. We realized,
+Remember I showed us, once, the faces in my family one by one. Footsteps quickened. We realized,
 each face was accompanied by the silent face of a mouse. We were 19. An uncontrollable depression
-swept between the two of us, in R, then me, then again R. In the hours of its passage it colored the
+swept between the two of us, in you, then me, then again you. In the hours of its passage it colored the
 entire structure. The white blinds magnified the sun.
 
 Can I ask one last question?

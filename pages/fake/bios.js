@@ -25,7 +25,9 @@ export default function Issue8Bios() {
       <StandardProse>
         <br />
         <br />
-        <span className={styles.grayInverse}>ANDREA HARPER</span> works as a caregiver and sculptor in Texas. You can find her here: <a
+        <span className={styles.grayInverse}>ANDREA HARPER</span> works as a
+        caregiver and sculptor in Texas. You can find her here:{" "}
+        <a
           className={styles.biosExternalLink}
           target="_blank"
           rel="noreferrer"
@@ -33,11 +35,18 @@ export default function Issue8Bios() {
         >
           {" "}
           www.andreadeonharper.net
-        </a>.
-        <br/>
-        <br/>
-        <br/>
-
+        </a>
+        .
+        <br />
+        <br />
+        <br />
+        <span className={styles.grayInverse}>YOUNGYU CHEN</span> lives in
+        Cambridge, MA & their poems have appeared in journals including{" "}
+        <i>Chicago Review</i>, <i>Lana Turner</i>, & <i>Poetry</i>. Their first
+        book is forthcoming wiht Nightboat.
+        <br />
+        <br />
+        <br />
         <span className={styles.grayInverse}>CARY STOUGH</span> is a writer from
         the Missouri Ozarks. He is an English student at the University of Iowa
         and President of
@@ -132,10 +141,11 @@ export default function Issue8Bios() {
           href="https://fonografeditions.com/catalog/fono28-gabriel-palacios-a-ten-peso-burial-for-which-truth-i-sign-print-book/"
         >
           A Ten Peso Burial for Which Truth I Sign{" "}
-        </a> is available from
-        Fonograf Editions. <i>A Spectral Archive</i> and <i>Headboard Radio</i>,
-        two new releases from his musical project The Spanish Trail Motel are
-        forthcoming in Fall 2024 from Telecult Archive, Ltd.
+        </a>{" "}
+        is available from Fonograf Editions. <i>A Spectral Archive</i> and{" "}
+        <i>Headboard Radio</i>, two new releases from his musical project The
+        Spanish Trail Motel are forthcoming in Fall 2024 from Telecult Archive,
+        Ltd.
         <br />
         <br />
         <br />
