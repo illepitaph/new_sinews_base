@@ -83,6 +83,20 @@ export default function Issue8Bios() {
         <br />
         <br />
         <br />
+        <span className={styles.grayInverse}>LOGAN FRY</span> is the author of <i>Harpo Before the Opus</i> (Omnidawn, 2019), and of poetry in <i>Lana Turner</i>, <i>The New York Review of Books</i>, <i>Conjunctions</i>, <i>Fence</i>, <i>Prelude</i>, and the <i>Best American Experimental Writing</i> anthology. Find him at
+        <a
+          className={styles.biosExternalLink}
+          target="_blank"
+          rel="noreferrer"
+          href="https://www.loganfry.info/"
+        >
+          {" "}
+          loganfry.info
+        </a>
+        .
+        <br />
+        <br />
+        <br />
         <span className={styles.grayInverse}>ABIGAIL DENTON</span> (she/he) is a
         queer disabled writer who has been published in <i>Squawk Back</i>,{" "}
         <i>JAKE</i>, <i>Bull Lit Magazine</i>, <i>Corporeal</i>,{" "}
