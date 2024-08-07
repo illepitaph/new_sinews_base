@@ -914,6 +914,7 @@ export default function Album() {
         he was getting better at Japanese, and they were treating him like one
         of them finally.
         <br />
+        <br />
         They took shortcuts now, instead of going along the main street. They
         cut into a side alley, by a post office, and through an old shrine gate
         from Edo. The remains of a greater gate, painted vermillion, with a
