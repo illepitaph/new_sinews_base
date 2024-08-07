@@ -150,7 +150,7 @@ export default function Issue8Bios() {
           href="https://alvinlu.co/"
         >
           {" "}
-          alvin.co
+          alvinlu.co
         </a>
         <br />
         <br />
