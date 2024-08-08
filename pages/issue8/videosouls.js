@@ -9,7 +9,7 @@ import styles from "../../styles/Videosouls.module.css";
 Video.title = "gabriel_palacios ~ videosouls — new_sinews";
 Video.pieceName = "gabriel_palacios ~ videosouls — new_sinews";
 Video.description = "_GABRIEL PALACIOS_drama_VIDEOSOULS_new_sinews_issue8_";
-Video.image = "https://www.newnewsinews.com/images/CreditsBackground.jpg";
+Video.image = "https://www.newnewsinews.com/images/VideosoulBackground.jpg";
 
 export default function Video() {
   return (
