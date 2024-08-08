@@ -10,6 +10,8 @@ Home.description =
 Home.image = "https://www.newnewsinews.com/images/Issue7CoverMeta.jpg";
 
 export default function Home() {
+  const [issueEightDropdownClass, setIssueEightDropdownClass] =
+  useState("issueContentClosed");
   const [issueSevenDropdownClass, setIssueSevenDropdownClass] =
     useState("issueContentClosed");
   const [issueSixDropdownClass, setIssueSixDropdownClass] =
@@ -38,6 +40,59 @@ export default function Home() {
               <div className={styles.iconImage}></div>
             </Link>
             <nav className={styles.siteNav}>
+              <div
+                className={styles.dropDown}
+                onMouseEnter={() => {
+                  setIssueEightDropdownClass("issueContentOpen");
+                }}
+                onMouseLeave={() => {
+                  setIssueEightDropdownClass("issueContentClosed");
+                }}
+              >
+                <Link href="/issue8" passHref>
+                  <button>issue_8</button>
+                </Link>
+                <div className={styles[issueEightDropdownClass]}>
+                  <Link href="/issue8" passHref>
+                    <button>new_sinews_issue8</button>
+                  </Link>
+                  <Link href="/issue8/father" passHref>
+                    <button>andrea harper_father figure</button>
+                  </Link>
+                  <Link href="/issue8/memory" passHref>
+                    <button>yongyu chen_tell the memory</button>
+                  </Link>
+                  <Link href="/issue8/nails" passHref>
+                    <button>cary stough_nails</button>
+                  </Link>
+                  <Link href="/issue8/fry" passHref>
+                    <button>logan fry_an If unfixed</button>
+                  </Link>
+                  <Link href="/issue8/credits" passHref>
+                    <button>abigail denton_post-credits scene</button>
+                  </Link>
+                  <Link href="/issue8/drug" passHref>
+                    <button>
+                      valerie hsiung_giving off deep earth
+                    </button>
+                  </Link>
+                  <Link href="/issue8/album" passHref>
+                    <button>alvin lu_the white album</button>
+                  </Link>
+                  <Link href="/issue8/houcek" passHref>
+                    <button>elise houcek_totally distant</button>
+                  </Link>
+                  <Link href="/issue8/videosouls" passHref>
+                    <button>gabriel palacios_videosouls</button>
+                  </Link>
+                  <Link href="/issue8/bonilla" passHref>
+                    <button>israel bonilla_harimàte</button>
+                  </Link>
+                  <Link href="/issue8/bios" passHref>
+                    <button>issue8_bios</button>
+                  </Link>
+                </div>
+              </div>
               <div
                 className={styles.dropDown}
                 onMouseEnter={() => {
