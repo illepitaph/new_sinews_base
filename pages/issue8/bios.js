@@ -140,6 +140,19 @@ export default function Issue8Bios() {
         <br />
         <br />
         <br />
+        <span className={styles.grayInverse}>VALERIE HSIUNG</span> is a poet and
+        the author of eight collections of poetry, prose, and hybrid writing,
+        including <i>The Pedestrian</i> (Nightboat Books, forthcoming),{" "}
+        <i>The Naif</i> (Ugly Duckling Presse),{" "}
+        <i>The Only Name We Can Call It Now Is Not Its Only Name</i>{" "}
+        (Counterpath), <i>To Love An Artist</i> (Essay Press), and{" "}
+        <i>Outside Voices, Please</i> (CSU). Born in the Year of the Earth Snake
+        and raised by Chinese-Taiwanese immigrants in Cincinnati, Ohio, she now
+        lives in the mountains of Colorado where she makes fragrance & teaches
+        at Naropa’s Jack Kerouac School of Disembodied Poetics.
+        <br />
+        <br />
+        <br />
         <span className={styles.grayInverse}>ALVIN LU</span> lives in San
         Francisco and is the author of <i>The Hell Screens</i>. His new novel{" "}
         <i>Daydreamers</i> is being published next year by Fiction Collective 2.
