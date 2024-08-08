@@ -478,35 +478,41 @@ export default function Home() {
             <span className={styles.snowTypeface}>late empire new writing</span>
             <br />
             <br />
-            <span className={styles.lightTypeface}>_issue_seven_</span>
+            <span className={styles.lightTypeface}>_issue_eight_</span>
             <br />
             <br />
             <span className={styles.snowTypeface}>featuring</span>
             <br />
             <br />
             <span className={styles.lightTypeface}>
-              genta nishku
+              andrea harper
+              <br />
+              <br />
+              yongyu chen
+              <br />
+              <br />
+              cary stough
+              <br />
+              <br />
+              logan fry
+              <br />
+              <br />
+              abigail denton
+              <br />
+              <br />
+             valerie hsiung
+              <br />
+              <br />
+              alvin lu
+              <br />
+              <br />
+              elise houcek
               <br />
               <br />
               gabriel palacios
               <br />
               <br />
-              kelly krumrie
-              <br />
-              <br />
-              nora wall
-              <br />
-              <br />
-              atsushi ikeda
-              <br />
-              <br />
-              mike corrao
-              <br />
-              <br />
-              julia shiota
-              <br />
-              <br />
-              matthew moore
+              israel bonilla
               <br />
               <br />
             </span>

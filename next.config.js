@@ -443,6 +443,66 @@ module.exports = {
       },
 
       {
+        source: "/issue8",
+        destination: "/issue8/index",
+      },
+
+      {
+        source: "/father",
+        destination: "/issue8/father",
+      },
+
+      {
+        source: "/memory",
+        destination: "/issue8/memory",
+      },
+
+      {
+        source: "/nails",
+        destination: "/issue8/nails",
+      },
+
+      {
+        source: "/fry",
+        destination: "/issue8/fry",
+      },
+
+      {
+        source: "/credits",
+        destination: "/issue8/credits",
+      },
+
+      {
+        source: "/album",
+        destination: "/issue8/album",
+      },
+
+      {
+        source: "/drug",
+        destination: "/issue8/drug",
+      },
+
+      {
+        source: "/houcek",
+        destination: "/issue8/houcek",
+      },
+
+      {
+        source: "/videosouls",
+        destination: "/issue8/videosouls",
+      },
+
+      {
+        source: "/bonilla",
+        destination: "/issue8/bonilla",
+      },
+
+      {
+        source: "/issue8bios",
+        destination: "/issue8/bios",
+      },
+
+      {
         source: "/home",
         destination: "/",
       },

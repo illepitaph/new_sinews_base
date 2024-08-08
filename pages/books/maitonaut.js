@@ -105,7 +105,20 @@ export default function Maitonaut() {
         <br />
         <br />
         <a
-          href="https://t.co/XKNRpsVbDV"
+          href="https://blackwells.co.uk/bookshop/product/Maitonaut-by-Kaisa-Saarinen/9798990025714"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <span className={styles.orderLink}>
+            <span className={styles.uppercase}>
+              &#10132; Blackwells UK &#8678;{" "}
+            </span>
+          </span>
+        </a>
+        <br />
+        <br />
+        <a
+          href="https://www.waterstones.com/book/maitonaut/kaisa-saarinen/9798990025714"
           target="_blank"
           rel="noreferrer"
         >
