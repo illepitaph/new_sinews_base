@@ -328,7 +328,7 @@ export default function Issue8() {
             </span>
           </div>
           <div className={styles.workColumn}>
-            <Link href="/bios" passHref>
+            <Link href="/issue8bios" passHref>
               <div className={styles.workLinkBios}>
                 <br />
                 <br />
