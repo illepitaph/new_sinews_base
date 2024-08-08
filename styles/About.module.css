@@ -239,7 +239,7 @@
 @media (width: 1180px) and (height: 820px) {
   .siteNav > .dropDown > button,
   .home {
-    padding: 11px 7px;
+    padding: 11px 3px;
     opacity: 0.9;
   }
 
@@ -251,7 +251,7 @@
 @media (width: 1080px) and (height: 810px) {
   .siteNav > .dropDown > button,
   .home {
-    padding: 9px 6px;
+    padding: 9px 2px;
     font-size: 0.7rem;
     opacity: 0.9;
   }
@@ -280,6 +280,7 @@
   .siteNav > .dropDown > button,
   .home {
     font-size: 0.6rem;
+    padding: 9px 2px;
   }
 }
 
@@ -287,7 +288,7 @@
   .siteNav > .dropDown > button,
   .home {
     font-size: 0.84rem;
-    padding: 9px 5px;
+    padding: 9px 1px;
     opacity: 0.9;
   }
 }
@@ -296,7 +297,7 @@
   .siteNav > .dropDown > button,
   .home {
     font-size: 0.79rem;
-    padding: 9px 5px;
+    padding: 9px 3px;
     opacity: 0.9;
   }
 }
