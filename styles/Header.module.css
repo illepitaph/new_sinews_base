@@ -743,6 +743,7 @@
   .about {
     font-size: 0.6rem;
     padding: 1px 2px;
+    margin-bottom:0.1rem;
   }
 }
 
@@ -911,6 +912,15 @@
   }
 }
 
+@media (max-width: 659px) and (orientation: landscape) {
+  .siteNav > .dropDown > button,
+  .home,
+  .about {
+    font-size: 0.7rem;
+    margin-bottom: 0;
+  }
+}
+
 @media (width: 600px) and (height: 1024px) {
   .home {
     margin-bottom: 1.5vh;
@@ -927,7 +937,7 @@
   .about {
     width: 8rem;
     font-size: 1rem;
-    margin-bottom: 1.7vh;
+    margin-bottom: 1.1vh;
     padding: 2px 5px;
     opacity: 0.9;
   }
