@@ -153,9 +153,7 @@ export default function Issue8Bios() {
         <br />
         <br />
         <br />
-        <span className={styles.grayInverse}>ALVIN LU</span> lives in San
-        Francisco and is the author of <i>The Hell Screens</i>. His new novel{" "}
-        <i>Daydreamers</i> is being published next year by Fiction Collective 2.
+        <span className={styles.grayInverse}>ALVIN LU</span>{" "}
         <a
           className={styles.biosExternalLink}
           target="_blank"
@@ -163,8 +161,23 @@ export default function Issue8Bios() {
           href="https://alvinlu.co/"
         >
           {" "}
-          alvinlu.co
+          (alvinlu.co)
+        </a>{" "}
+        lives in San Francisco and is the author of <i>The Hell Screens</i>. His
+        new novel <i>Daydreamers</i> is being published next year by Fiction
+        Collective 2. Gracious thanks to the editors of
+        <a
+          className={styles.biosExternalLink}
+          target="_blank"
+          rel="noreferrer"
+          href="https://keyakibungaku.com/"
+        >
+          {" "}
+          Keyakibungaku
         </a>
+        , who first published  &lsquo;&lsquo;The White Album&rsquo;&rsquo; in Toshifumi Miyawaki&rsquo;s Japanese
+        translation. It makes its debut in its original English here in{" "}
+        <i>new_sinews</i>.
         <br />
         <br />
         <br />
