@@ -261,7 +261,7 @@
   .home,
   .about {
     font-size: 0.97rem;
-    padding: 6px 5px;
+    padding: 3px 0;
   }
 }
 
@@ -269,8 +269,8 @@
   .siteNav > .dropDown > button,
   .home,
   .about {
-    font-size: 0.97rem;
-    padding: 6px 5px;
+    font-size: 0.8rem;
+    padding: 5px 1px;
   }
 }
 
@@ -279,7 +279,7 @@
   .home,
   .about {
     font-size: 0.97rem;
-    padding: 6px 5px;
+    padding: 3px 0;
   }
 }
 
@@ -287,8 +287,8 @@
   .siteNav > .dropDown > button,
   .home,
   .about {
-    font-size: 0.87rem;
-    padding: 6px 2px;
+    font-size: 0.8rem;
+    padding: 3px 1px;
   }
 }
 
@@ -297,11 +297,11 @@
   .home,
   .about {
     font-size: 0.77rem;
-    padding: 6px 5px;
+    padding: 5px 1px;
   }
 
   .siteNav > .dropDown > button {
-    margin-right: 2px;
+    margin-right: 1vw;
   }
 }
 
@@ -309,12 +309,12 @@
   .siteNav > .dropDown > button,
   .home,
   .about {
-    font-size: 0.77rem;
-    padding: 6px 2px;
+    font-size: 0.7rem;
+    padding: 5px 1px;
   }
 
   .siteNav > .dropDown > button {
-    margin-right: 6px;
+    margin-right: 3px;
   }
 }
 
@@ -338,7 +338,7 @@
   .home,
   .about {
     font-size: 0.7rem;
-    padding: 7px 1px;
+    padding: 5px 1px;
   }
 }
 
@@ -347,12 +347,12 @@
   .home,
   .about {
     font-size: 0.7rem;
-    padding: 7px 3px;
+    padding: 3px 0;
     opacity: 0.9;
   }
 
   .siteNav > .dropDown > button {
-    margin-right: 1px;
+    margin-right: 5px;
   }
 }
 
@@ -361,7 +361,7 @@
   .home,
   .about {
     font-size: 0.7rem;
-    padding: 7px 3px;
+    padding: 7px 1px;
     opacity: 0.9;
   }
 }
@@ -420,14 +420,14 @@
   .siteNav > .dropDown > button,
   .home,
   .about {
-    padding: 2px 6px;
+    padding: 2px 1px;
     width: 6.9rem;
-    font-size: 0.8em;
+    font-size: 0.7em;
     opacity: 0.93;
   }
 
   .home {
-    padding: 2px 2px;
+    padding: 2px 0;
   }
 
   .bookInnerContainer {
@@ -443,7 +443,7 @@
   .siteNav > .dropDown > button,
   .home,
   .about {
-    padding: 5px 6px;
+    padding: 3px 1px;
   }
 
   .home {
@@ -454,6 +454,7 @@
 @media (width: 912px) and (height: 1368px) {
   .siteNav {
     margin-right: 18vw;
+    margin-top:10vh;
   }
 
   .siteNav > .dropDown > button,
@@ -471,12 +472,6 @@
 }
 
 @media (max-width: 883px) and (orientation: landscape) {
-  .siteNav > .dropDown > button,
-  .home,
-  .about {
-    padding: 3px 3px;
-    font-size: 0.8rem;
-  }
 
   .titleShadow {
     margin-top: 12vh;
@@ -486,6 +481,7 @@
 @media (width: 853px) and (height: 1280px) {
   .siteNav {
     margin-right: 18vw;
+    margin-top:10vh;
   }
 
   .siteNav > .dropDown > button,
@@ -561,6 +557,7 @@
 
 @media (width: 800px) and (height: 1280px) {
   .siteNav {
+    margin-top:9vh;
     margin-right: 18vw;
   }
 
@@ -598,14 +595,6 @@
   }
 }
 
-@media (max-width: 746px) and (orientation: landscape) {
-  .siteNav > .dropDown > button,
-  .home,
-  .about {
-    padding: 5px 3px;
-  }
-}
-
 @media (max-width: 431px) and (orientation: portrait) {
   .titleShadow {
     font-size: 2rem;
@@ -619,7 +608,7 @@
 
   .home {
     font-size: 0.65rem;
-    padding: 7px 2px;
+    padding: 3px 1px;
   }
 }
 
