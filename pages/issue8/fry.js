@@ -250,7 +250,7 @@ with a family of eleven networked keyboards circa 1990 IBM
 that the seven twigs plunked with dew still on and bent and singed just for this purpose say
 is key to growing marketshare in a plurality of tosses.
 The discourse: a treaty that a trick of light undoes. When I peer off toward what seems to be
-its edge’s lip, I meet in me a whirl of faceslooking aside and smirking intermittently, a grimace I can weave
+its edge’s lip, I meet in me a whirl of faces looking aside and smirking intermittently, a grimace I can weave
 a smile from. But do I want to? It’s like, if it were my heart, or not that but a hot lung pulled from me, being
 mindful to take off the sweatshirt first and only slip my head back thru it once the blood has crusted nice
 enough, there may then be a way to. I could regain a fond adherence to the medium.
