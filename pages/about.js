@@ -600,7 +600,7 @@ export default function About() {
 
         <p>
           meantime ... as for the magazine ... submissions remain open although
-          please be warned: the genesis of issue8 is taking a backseat to the
+          please be warned: the genesis of issue9 is taking a backseat to the
           expansion of <i>new_sinews</i> into the realms of book publication
         </p>
 
