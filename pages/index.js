@@ -7,7 +7,7 @@ Home.title = "new_sinews";
 Home.pieceName = "newnewsinews";
 Home.description =
   "new_sinews ~ late empire new writing ~ digital hub of poems & fiction";
-Home.image = "https://www.newnewsinews.com/images/Issue7CoverMeta.jpg";
+Home.image = "https://www.newnewsinews.com/images/SplashPage.jpg";
 
 export default function Home() {
   const [issueEightDropdownClass, setIssueEightDropdownClass] =
