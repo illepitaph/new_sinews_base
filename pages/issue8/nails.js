@@ -11,7 +11,7 @@ import Stough5 from "../../public/images/Stough5.jpg";
 import Footer from "../../components/footer.js";
 import styles from "../../styles/Nails.module.css";
 Nails.title = "cary_stough ~ nails — new_sinews";
-Nails.description = "_Cary Stough_lyric~memoir_NAILS_new_sinews_issue6_";
+Nails.description = "_Cary Stough_lyric~memoir_NAILS_new_sinews_issue8_";
 Nails.image = "https://www.newnewsinews.com/images/NailsBackgroundMeta.jpg";
 
 export default function Nails() {
