@@ -21,7 +21,9 @@ export default function Apollo() {
           <span className={styles.alternateTitleColor}>a</span>
           <span className={styles.inverseShadowUppercase}>p </span>
           <span className={styles.skewRight}>
-            <span className={styles.titleShadowUppercase}>o</span>
+            <span className={styles.skewDown}>
+              <span className={styles.titleShadowUppercase}>o</span>
+            </span>
           </span>
           <span className={styles.inverseShadowUppercase}>L </span>
           <span className={styles.skewRight}>
@@ -48,7 +50,7 @@ export default function Apollo() {
           <span className={styles.skewRight}>
             <span className={styles.inverseShadow}> _</span>
             <span className={styles.skewDown}>
-            <span className={styles.inverseShadowUppercase}> o</span>
+              <span className={styles.inverseShadowUppercase}> o</span>
             </span>
           </span>
         </span>
@@ -66,105 +68,145 @@ export default function Apollo() {
       <br />
       <br />
       <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+
+      <p className={styles.grayShadow}>
+        <i>Who loves the sun</i>. <i>Who cares that it makes plants grow</i>.
+      </p>
+
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+
       <StandardProse>
-        Kept_Male has a beautiful house. He built it himself after researching
-        plans for Falling Water, copying a blueprint he found online, spending
-        half his paycheck every month as he bought concrete, steel, and wood. He
-        keeps his property in spring all year round, and the hues from the trees
-        that circle the property bounce off the waterfall it’s built on, filling
-        the house with soft green light. PhoneBaby21 loves his home, and for a
-        good while now has been dropping little hints about moving in, says
-        she’s tired of her half-built condo, but for a good while now Kept_Male
-        has insisted he needs more time to think it over. He loves PhoneBaby21.
-        They met last year, when a mutual friend of theirs was DJing a techno
-        set at KruzKontrol, where the women all have long, thick thighs and
-        miniature waists, and most of them have enormous eyes that blink slowly,
-        their full lips pulling back over brilliantly white teeth. Kept_Male is
-        painfully shy, preferring to keep to the corners of the clubs and sex
-        dungeons, watching and waiting for someone to notice him. Mostly he
-        hoped they wouldn’t.
         <br />
         <br />
-        But PhoneBaby21 had sauntered up to him, pushing one froth-blonde
-        ponytail over her shoulder, <i>hey</i>, <i>I haven’t seen you before</i>
-        . The DJ was playing German house music, and there was a giant silver
-        helium face floating up near the ceiling. <i>I haven</i>’
-        <i>t learned to dance yet</i>, <i>sorry</i>. This usually turned women
-        away, a shrug, an eyeroll, but PhoneBaby21 extended one of her long
-        arms, her skin glowing pink in overhead lights. They’d moved around each
-        other in tight little circles, Kept_Male pushing back his hair from his
-        eyes, <i>wow you</i>’<i>re really good at this</i>, <i>sorry I suck</i>.
-        PhoneBaby21 told him about her new home, a split-level condo she was
-        building, adding to it whenever she could afford to. <i>For now</i>,{" "}
-        <i>I sleep in the bathtub</i>, <i>but it</i>’<i>s not that bad</i>.
-        Kept_Male loved Phonebaby21 for her optimism. He’d gone home with her
-        that night, to her half-built condo, which was really just one poorly
-        built room, construction materials scattered everywhere. He could see
-        people having sex in one of PhoneBaby’s unfinished rooms, a woman pushed
-        up against a wall, a man leaning and thrusting, his hands planted on
-        either side of her face. <i>Happens all the time</i>, PhoneBaby21 had
-        turned to him, smiling. <i>People just assume it</i>’<i>s abandoned</i>.
-        Kept_Male liked her for how little she cared. They didn’t have sex, but
-        just sat in the tub, cross-legged, facing one another, watching each
-        other’s mouths open and close, their fingers brushing each other’s hair,
-        PhoneBaby’s perfect face so near his own. <i>Are you really twenty</i>-
-        <i>one</i>? It excited him to be with someone so young, so shining and
-        happy. <i>A lady never tells her age</i>, PhoneBaby21 had said, her big
-        green eyes creasing slowly at the corners. They made plans to swim in
-        the Black Sea and fly to erotic night clubs, where they would dance
-        naked with strangers. <i>I really want a family</i>, PhoneBaby21 had
-        told him. <i>I</i>’<i>ll be your family</i>, he’d held his hands out to
-        her, his heart beating hard in his chest.
+        <br />
+        <span className={styles.alternateTitleColorFour}>01 </span>
+        Moved into a bright house, pale-oak timber (cannibalistic), numerous
+        rooms, spacious, airy, well-lit, sunbeams streaming in from yawning
+        windows, high rafters of cottage-style exposed beams, fresh-pine smell
+        emanating from decorative boughs (still living, un-slaughtered), main
+        hallway splitting off into royal staircases, white bannisters,
+        constructing a round circle, countless rooms, multiple bathrooms, dining
+        rooms, guest rooms, a nursery and playroom. The entirety of
+        squirrel-palace wraps around a sturdy old oak tree holding the home
+        aloft several stories above the forest floor with knotted, grandfather
+        arms. I want to stay for a long, long time. I ask mom if we can keep it
+        forever. She seems confused. <i>Not sure</i>, <i>honey</i>.
         <br />
         <br />
-        Yet soon after Kept_Male and PhoneBaby21 met, she disappeared for two
-        weeks. Kept_Male wandered around her condo and sat in her tub, feeling
-        sick and anxious. He visited KruzKontrol, and debated whether he should
-        put Missing Persons fliers up around the club. He looked up pictures of
-        the Black Sea, wishing he could float in the dark salty water with
-        PhoneBaby21. Towards the end of the second week, he decided it was time
-        to forget about her. He flew to a nude beach, which was password
-        protected. He participated in a lackluster three-way in the sand, a huge
-        blonde man grabbing at his neck, while a silver-skinned woman pawed at
-        his swim trunks. <i>You</i>’<i>re so handsome</i>, the blonde man told
-        him. <i>Do you know PhoneBaby21</i>? Kept_Male asked. The blonde man and
-        silver woman invited him to spend the rest of the evening with them, and
-        Kept_Male agreed, watching the muscles in the blonde man’s ab ripple as
-        he stroked his own penis. <i>We like a quiet guy</i>, the silver woman
-        said, adjusting the straps on her bikini top. Her eyes were wide-set and
-        blue, and she kept staring at Kept_Male. The couple agreed to accompany
-        him to KruzKontrol. The place was packed, with bodies flailing and
-        gyrating against each other, and Kept_Male left the couple to circle the
-        club, walking slowly through bodies with lolling heads and flashing
-        teeth, their arms and legs moving stiffly in time to the music. The
-        blonde man and silver woman were trailing him, caressing his chest and
-        face whenever they got close enough to touch him.{" "}
-        <i>What are you looking for</i>, the blonde man asked, and Kept_Male
-        liked how small he himself looked cradled in the blonde man’s arm, which
-        was now circled around him. <i>I think he</i>’<i>s looking for me</i>,
-        PhoneBaby21 said. Kept_Male was flooded with relief and love, but stayed
-        put in the blonde man’s bicep, taking in PhoneBaby’s endless legs and
-        perfect smile. The silver woman admired PhoneBaby’s breasts and platform
-        boots, and they went to the bar to get a drink. <i>I</i>’
-        <i>ve missed you</i>, Kept_Male said, feeling too shy to look directly
-        at PhoneBaby21. <i>I</i>’<i>m glad to hear that</i>, she said, one
-        eyelid sliding down in a wink. <i>Looks like you’ve been busy</i>. And
-        she gestured to the blonde man and silver woman, who were watching them
-        and licking their lips. <i>I miss your bathtub</i>, Kept_Male said,{" "}
-        <i>I</i>’<i>ve gone by your condo every day</i>,{" "}
-        <i>just to chase off anyone trying to move in</i>. PhoneBaby21 started
-        to cry, and hugged Kept_Male. Her enormous hair fell around them both,
-        and he felt safe there, like they were behind a thick velvet curtain. He
-        was ready to leave the club, to stay the night in PhoneBaby’s unfinished
-        condo, but she liked the blonde and silver couple, and Kept_Male watched
-        as she grinded against the blonde man on the dance floor while the
-        silver woman rode his back like a small child. It was daylight when they
-        opened the door out of the club, a gorgeous pink light glinting against
-        the glass buildings. <i>Let</i>’<i>s go to Kept_Male</i>’<i>s house</i>,
-        PhoneBaby21 said, and the blonde and silver woman asked if they’d like
-        to participate in a foursome. PhoneBaby21 covered her mouth as she
-        giggled, and they hailed a cab, the four of them crammed into the back
-        seat.
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+         <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <span className={styles.alternateTitleColorFour}>03 </span>
+        Apollo has been sending out invitations to friends and extended
+        acquaintances to stay in Tokyo over summer break with his mom and
+        Dennis. He has been shilling crypto with Dennis who owns a printing
+        factory harboring a stock of mining computers in the basement beside
+        lines of amphetamine. I’m not impressed. White powder clouds woodland
+        nostrils. Huffing sawdust, I’d prefer. Like the tragic puffing of timber
+        trunks sheared and shaved for smooth planks. Slaughterers in the woods,
+        harvesting thick, oak fruits for construction. But then we reascend the
+        dozen or so floors to the top where the balcony wraps around spills over
+        the side of the skyscraper into the wobbling neons deep below. I
+        half-spill myself over the railing and gulp in the twilight air mixing
+        with the soggy depths, cooler after summer sunset and thinner at maximum
+        elevation. And the vertigo almost nearly makes me forget I’m trapped in
+        concrete. This is <i>their</i> home city. The pedestrians who don’t
+        startle at the screaming machines or blaring, electric foliage yet
+        distress over the consumption of wild berries. <i>Dirty</i>, <i>bleh</i>
+        , <i>poison</i>! I’m distressed over the consumption. Preordained and
+        prepackaged. I have no homecity. I&rsquo;m no city-slicking woman though I&rsquo;m
+        looking like one in the tallest leather boots. I’m a berry forager. Nuts
+        and seeds too. Wild bird eggs scrambled or fried. The peas and carrots
+        peeking from community garden plots. Tree bark and leaf buds for the
+        texture and bitterness if bored. I’m a squirrel with tall shoes and a
+        long wig. But we met, me and the god of Sun and light, for the first
+        time in such a place, sharp and concrete, after I’d been dragged
+        half-willingly from the safe place with acorns to find an{" "}
+        <i>institution of learning</i>. Now maybe he’s hooked me. It’s really a
+        trap, just like they warned. But if I run in this overpopulated,
+        artificially-constructed environment, surely I’ll end up roadkill. I’ve
+        barely learned to read a red light. For the time being, I keep skimming
+        down the west coast, trying not to wallow.
+        <br />
+        <br />
+        One early evening, Apollo comes to visit me in a drafty,
+        minimalist-style condo with high ceilings and sparse, brutalist
+        furniture populated by crowds of strangers, also groomed in
+        minimalist-fashion. Silicone pillows in pairs, squeezed into black
+        tubes, bounce about in such plenitude as if punnily teasing the nickname
+        silicon valley. The mingling and champagne-sipping stifles my fragile,
+        forest lungs. Piss-tone bubbles swirling about skinny, glass flutes are
+        the only color against slate suits and black cocktail dresses. Oh, and
+        the occasional red lip, popping like cherries on vanilla ice over
+        bleached smiles. Teehee. I’m getting dizzy, dizzy. Following the tall,
+        bent silhouette somehow darker than the accent ottoman in obsidian. He
+        disappears and reappears behind the grand piano to steal an olive from a
+        stranger’s (distant acquaintance’s) glass, moping like a sprained-ankle
+        ballerino, as if the fallen locks half-obscuring gloomy eyes follows a
+        lost choreography, sulking like a greyhound on a muddy race-track after
+        the rain-cancellation. <i>Apollo</i>, <i>Apollo</i>. Never existed such
+        a perfect pout, so kissable, so delectable. Only drinks served at this
+        party. No catering. Dim lighting. The crystals of the unlit chandelier
+        sparkling, rather, under force of our Apollo. Poor, pouting baby. Let me
+        cheer you up. Allow me, please, within your vicinity. Catch you, tickle
+        you. Turn that frown… Some time alone my one aching desire. Bidding for
+        attention, serial failure. He&rsquo;s distracted and not in love. I&rsquo;m dejected
+        but not hopeless. I persist. Plainly before the crowds, I take my seat
+        beside him on the Eames sofa, a harmonious combination of rich walnut,
+        soft leather, and polished aluminum. I cannot raise my eyes, so much my
+        heart races and limbs tingle at the mere proximity. At least, I hear
+        none of the whispering expected, catch not a single peeved look. I
+        realize I&rsquo;ve sat next to the wrong tall guy, <i>oops</i>! At long last,
+        Apollo finds me himself, catches me at the doorway between one
+        lounge-space and another. We leave together as three, unfortunately
+        flanked by another distant acquaintance who swung unfavorably,
+        distastefully, into orbit at the last moment.
         <br />
         <br />
         Kept_Male’s house was shimmering in the morning light, and the couple
