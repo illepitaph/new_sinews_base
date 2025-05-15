@@ -15,7 +15,7 @@ export default function Apollo() {
     <>
       <Head />
 
-      <Header headerBackground="fatherFigureBackground" />
+      <Header headerBackground="apolloBackground" />
       <LeftGrayTitle>
         <span className={styles.titleShadow}>
           <span className={styles.alternateTitleColor}>a</span>
