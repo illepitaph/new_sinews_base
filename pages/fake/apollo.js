@@ -207,7 +207,7 @@ export default function Apollo() {
         cannot raise my eyes, so much my heart races and limbs tingle at the
         mere proximity. At least, I hear none of the whispering expected, catch
         not a single peeved look. I realize I&rsquo;ve sat next to the wrong
-        tall guy, <i>oops</i>! At long last, Apollo finds me himself, catches me
+        tall guy, <i>oops!</i> At long last, Apollo finds me himself, catches me
         at the doorway between one lounge-space and another. We leave together
         as three, unfortunately flanked by another distant acquaintance who
         swung unfavorably, distastefully, into orbit at the last moment.
@@ -303,16 +303,16 @@ export default function Apollo() {
         Someone faints and, before a neighbor can catch her, she lets slip from
         manicured hands her champagne flute into the pool beside the premature,
         floating corpse. <i>Poor</i>, <i>little baby</i>, someone whispers with
-        an audible slur. The party disperses at last once the pool boy–summoned
+        an audible slur. The party disperses at last once the pool boy—summoned
         by a sober server of especially statuesque biceps and a cascade of blond
-        rivulets–employs the bug net. Bodies mingle in the library, around the
+        rivulets—employs the bug net. Bodies mingle in the library, around the
         coffee tables. Only smokers retrace to the balcony and with reluctance
         to gaze downstairs at the patio and the unpleasant view of blue-lit
         chlorine. Conversation returns to the optimal vacation investments, the
         endearing achievements of progeniture rung off with feigned-humility, an
         exchanging critique of the hors-d&rsquo;oeuvres, punctuated by an aghast
-        clapping 5 of the chest in response to this or that overseas headline.
-        <i>Poor</i>, <i>poor</i>, <i>but what is to be done</i>? The only other
+        clapping 5 of the chest in response to this or that overseas headline.{" "}
+        <i> Poor</i>, <i>poor</i>, <i>but what is to be done</i>? The only other
         case of fainting that night followed the virgin inhalation of a
         recreational class of drugs of the alkyl nitrate family.
         <br />
@@ -351,12 +351,12 @@ export default function Apollo() {
         the dormitory, I’m starting to suspect my bunkmate above got the better
         deal. It’s tricky to make a conclusive appraisal between the convenience
         of having the bath so near the bottom bunk or, on the other hand, the
-        privacy of elevation. What&rsquo;s more, there&rsquo;s no walls between the
-        beds which fill the floor. Just one of the many architectural
+        privacy of elevation. What&rsquo;s more, there are no walls between
+        the beds which fill the floor. Just one of the many architectural
         inconsistencies typical of a filthy rich private school ruled by a
         gluttonous administration. My footsteps grow soggy as the bath, really a
         pool, begins to flood. Too many eager, bikini-clad girls and other
-        non-male students–jostling about for the best seats–have displaced a
+        non-male students—jostling about for the best seats—have displaced a
         turquoise wave of mineral-salty water like a tsunami in miniature over
         the carpet. I make haste flinging wet socks, stripping down to take
         advantage of their foolish oversight. Squirting a generous dollop of
@@ -431,7 +431,7 @@ export default function Apollo() {
         of horrors) passing the night in a hotel? I use binoculars to peep at
         the landing pad, pixelated like a video game. Nothing. The air guards
         scurry about giving the effect of haste without direction like drugged
-        ants. One large woman crossing the snow–an employee–pees herself and
+        ants. One large woman crossing the snow—an employee—pees herself and
         cries on the ground??? The others are a bit in shock, still others
         amused. I’m not in the worst mood considering I am stuck in this random
         place with no ticket.
@@ -467,7 +467,7 @@ export default function Apollo() {
         for chromatically contrasting coiffures. Noelle’s bob is black, mine
         more reddish in hue. Upon closer inspection–closer than any of these
         casting directors ever care to take, and nothing a little photoshop
-        can’t fix–the tights beneath my mini skirt conceal furry legs of the
+        can’t fix—the tights beneath my mini skirt conceal furry legs of the
         same color. We both stand taller than the average man, not including the
         stilettos, limbs extended like in a warped, horror-house mirror.
         Catching a glimpse in the reflective door, I imitate Noelle’s pout and
@@ -585,7 +585,7 @@ export default function Apollo() {
         minerals to replace cell walls and fill my void spaces. I’m gritting my
         teeth to remain pleasant. Still, I can’t avoid popping the question.
         Black cherry. Before he’s arrived, Apollo is gone, saying something
-        about guarding himself because it’s not real. <i>We’re not real</i>? If
+        about guarding himself because it’s not real. <i>We’re not real?</i> If
         only I could believe in myself more than the figmentary girlfriend. In
         the end, I’m feeling pretty off to put it mildly. I seek consolation in
         a candy store. Sugar rush. Saccharine speed. I’ve always harbored
@@ -722,7 +722,7 @@ export default function Apollo() {
         store for a snack. I tell him about the local landscape, how we don’t
         have convenience stores like in the city/suburbs but general stores like
         historic relics ornamented by antique signage, filled with farm-fresh
-        produce and locally-source goods like thistle cheddar, licorice twists,
+        produce and locally-sourced goods like thistle cheddar, licorice twists,
         blackberry soft-serve and cider donuts. I keep reminiscing until I’m
         alone. The sun has set.
         <br />
@@ -763,22 +763,22 @@ export default function Apollo() {
         king-size mattress wrapped in fresh linen sheets, engaging in
         intercourse with an androgynous figure who identifies as a female. Or
         was it vice versa. I&rsquo;m confused. Maybe it&rsquo;s the swollen
-        member that&rsquo;s disorienting me. Fear rises from my empty gut to overwhelm
-        all other emotions. I&rsquo;m scared of it. I try to avoid it. It fills me
-        with disgust. If I could fly, I’d be back in my treehouse. My woodland
-        palace. After all, I’m only a squirrel. Only a tufted, red squirrel with
-        a nose that twitches at the sound of loud footsteps in the crunchy,
-        fallen leaves blazing with all the colors of the sunset and a tail that
-        balances my nimble body as I scamper and leap between the bouncing
-        boughs of the forest canopy. But I’ve lost my tail, perhaps on the
-        metro, and have received in exchange this pair of long legs, smooth as
-        melted sugar that spread apart. With the aid of my hands, I close these
-        legs, so disproportionate, and stumble onto them standing, propped as if
-        between two marble columns. They quiver but hold strong. I can’t see
-        anything in the dark, only shifting forms. As forewarned, the medication
-        has significantly deteriorated my night-vision. Squinting like a blind
-        mole, a blind squirrel, I brace myself with two open palms as if for
-        impact.
+        member that&rsquo;s disorienting me. Fear rises from my empty gut to
+        overwhelm all other emotions. I&rsquo;m scared of it. I try to avoid it.
+        It fills me with disgust. If I could fly, I’d be back in my treehouse.
+        My woodland palace. After all, I’m only a squirrel. Only a tufted, red
+        squirrel with a nose that twitches at the sound of loud footsteps in the
+        crunchy, fallen leaves blazing with all the colors of the sunset and a
+        tail that balances my nimble body as I scamper and leap between the
+        bouncing boughs of the forest canopy. But I’ve lost my tail, perhaps on
+        the metro, and have received in exchange this pair of long legs, smooth
+        as melted sugar that spread apart. With the aid of my hands, I close
+        these legs, so disproportionate, and stumble onto them standing, propped
+        as if between two marble columns. They quiver but hold strong. I can’t
+        see anything in the dark, only shifting forms. As forewarned, the
+        medication has significantly deteriorated my night-vision. Squinting
+        like a blind mole, a blind squirrel, I brace myself with two open palms
+        as if for impact.
       </StandardProse>
 
       <Footer />
