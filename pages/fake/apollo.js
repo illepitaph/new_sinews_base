@@ -144,35 +144,35 @@ export default function Apollo() {
         <br />
         <span className={styles.alternateTitleColorFour}>03 </span>
         Apollo has been sending out invitations to friends and extended
-        acquaintances to stay in Tokyo over summer break with his mom and
-        Dennis. He has been shilling crypto with Dennis who owns a printing
-        factory harboring a stock of mining computers in the basement beside
-        lines of amphetamine. I’m not impressed. White powder clouds woodland
-        nostrils. Huffing sawdust, I’d prefer. Like the tragic puffing of timber
-        trunks sheared and shaved for smooth planks. Slaughterers in the woods,
-        harvesting thick, oak fruits for construction. But then we reascend the
-        dozen or so floors to the top where the balcony wraps around spills over
-        the side of the skyscraper into the wobbling neons deep below. I
-        half-spill myself over the railing and gulp in the twilight air mixing
-        with the soggy depths, cooler after summer sunset and thinner at maximum
-        elevation. And the vertigo almost nearly makes me forget I’m trapped in
-        concrete. This is <i>their</i> home city. The pedestrians who don’t
-        startle at the screaming machines or blaring, electric foliage yet
-        distress over the consumption of wild berries. <i>Dirty</i>, <i>bleh</i>
-        , <i>poison</i>! I’m distressed over the consumption. Preordained and
-        prepackaged. I have no homecity. I&rsquo;m no city-slicking woman though
-        I&rsquo;m looking like one in the tallest leather boots. I’m a berry
-        forager. Nuts and seeds too. Wild bird eggs scrambled or fried. The peas
-        and carrots peeking from community garden plots. Tree bark and leaf buds
-        for the texture and bitterness if bored. I’m a squirrel with tall shoes
-        and a long wig. But we met, me and the god of Sun and light, for the
-        first time in such a place, sharp and concrete, after I’d been dragged
-        half-willingly from the safe place with acorns to find an{" "}
-        <i>institution of learning</i>. Now maybe he’s hooked me. It’s really a
-        trap, just like they warned. But if I run in this overpopulated,
-        artificially-constructed environment, surely I’ll end up roadkill. I’ve
-        barely learned to read a red light. For the time being, I keep skimming
-        down the west coast, trying not to wallow.
+        acquaintances to stay in Tokyo over the upcoming summer break with his
+        mom and Dennis. Apollo has been shilling crypto with Dennis who owns a
+        printing factory harboring a stock of mining computers in the basement
+        beside lines of amphetamine. I’m not impressed. White powder clouds
+        woodland nostrils. Huffing sawdust, I’d prefer. Like the tragic puffing
+        of timber trunks sheared and shaved for smooth planks. Slaughterers in
+        the woods, harvesting thick, oak fruits for construction. But then we
+        reascend the dozen or so floors to the top where the balcony wraps
+        around spills over the side of the skyscraper into the wobbling neons
+        deep below. I half-spill myself over the railing and gulp in the
+        twilight air mixing with the soggy depths, cooler after summer sunset
+        and thinner at maximum elevation. And the vertigo almost nearly makes me
+        forget I’m trapped in concrete. This is <i>their</i> home city. The
+        pedestrians who don’t startle at the screaming machines or blaring,
+        electric foliage yet distress over the consumption of wild berries.{" "}
+        <i>Dirty</i>, <i>bleh</i>, <i>poison</i>! I’m distressed over the
+        consumption. Preordained and prepackaged. I have no homecity. I&rsquo;m
+        no city-slicking woman though I&rsquo;m looking like one in the tallest
+        leather boots. I’m a berry forager. Nuts and seeds too. Wild bird eggs
+        scrambled or fried. The peas and carrots peeking from community garden
+        plots. Tree bark and leaf buds for the texture and bitterness if bored.
+        I’m a squirrel with tall shoes and a long wig. But we met, me and the
+        god of Sun and light, for the first time in such a place, sharp and
+        concrete, after I’d been dragged half-willingly from the safe place with
+        acorns to find an <i>institution of learning</i>. Now maybe he’s hooked
+        me. It’s really a trap, just like they warned. But if I run in this
+        overpopulated, artificially-constructed environment, surely I’ll end up
+        roadkill. I’ve barely learned to read a red light. For the time being, I
+        keep skimming down the west coast, trying not to wallow.
         <br />
         <br />
         <br />
@@ -183,8 +183,7 @@ export default function Apollo() {
         minimalist-style condo with high ceilings and sparse, brutalist
         furniture populated by crowds of strangers, also groomed in
         minimalist-fashion. Silicone pillows in pairs, squeezed into black
-        tubes, bounce about in such plenitude as if punnily teasing the nickname
-        silicon valley. The mingling and champagne-sipping stifles my fragile,
+        tubes, bounce about in such obligatory plenitude. The mingling and champagne-sipping stifles my fragile,
         forest lungs. Piss-tone bubbles swirling about skinny, glass flutes are
         the only color against slate suits and black cocktail dresses. Oh, and
         the occasional red lip, popping like cherries on vanilla ice over
@@ -309,9 +308,9 @@ export default function Apollo() {
         coffee tables. Only smokers retrace to the balcony and with reluctance
         to gaze downstairs at the patio and the unpleasant view of blue-lit
         chlorine. Conversation returns to the optimal vacation investments, the
-        endearing achievements of progeniture rung off with feigned-humility, an
+        endearing achievements of progeniture rung off with feigned humility, an
         exchanging critique of the hors-d&rsquo;oeuvres, punctuated by an aghast
-        clapping 5 of the chest in response to this or that overseas headline.{" "}
+        clapping of the chest in response to this or that overseas headline.{" "}
         <i> Poor</i>, <i>poor</i>, <i>but what is to be done</i>? The only other
         case of fainting that night followed the virgin inhalation of a
         recreational class of drugs of the alkyl nitrate family.
@@ -351,8 +350,8 @@ export default function Apollo() {
         the dormitory, I’m starting to suspect my bunkmate above got the better
         deal. It’s tricky to make a conclusive appraisal between the convenience
         of having the bath so near the bottom bunk or, on the other hand, the
-        privacy of elevation. What&rsquo;s more, there are no walls between
-        the beds which fill the floor. Just one of the many architectural
+        privacy of elevation. What&rsquo;s more, there are no walls between the
+        beds which fill the floor. Just one of the many architectural
         inconsistencies typical of a filthy rich private school ruled by a
         gluttonous administration. My footsteps grow soggy as the bath, really a
         pool, begins to flood. Too many eager, bikini-clad girls and other
@@ -578,7 +577,7 @@ export default function Apollo() {
         birthday. I’m in a good mood when someone unwelcome leans in real close
         to whisper with hot, putrid-smelling breath,{" "}
         <i>wait until you meet his girlfriend</i>. Could that be the putridity
-        of jealousy or just my wishful 9 thinking, recoiling from the stench of
+        of jealousy or just my wishful thinking, recoiling from the stench of
         gossip. I fathom. My stomach sinks, not daring to believe she’s real but
         even more petrified to ask. We spent our first hours together like that,
         with me petrified as wood: lacking oxygen, slowly decaying, allowing
@@ -653,7 +652,7 @@ export default function Apollo() {
         unspoken assumption being that us, the foreign models just recently
         introduced and mixed in with the local staff beauties, constitute a key
         aspect of this “cultural experience” for the paying male clients,
-        fostering a sense of luxury and not to mention sensuality. Naomi says
+        fostering a sense of luxury not to mention sensuality. Naomi says
         it’s nice to be able to share pants that fit. She’s got a sweet smile
         that takes up most of her miniscule, ballerina face. I return the smile
         with a nose crinkle that twitches my whiskers. Teetering in my
