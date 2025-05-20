@@ -1,177 +1,225 @@
 .titleShadow {
-    display: block;
-    font-size: 4.1rem;
-    color: black;
-    text-shadow: 2px 2px #b2d3c2, 4px 4px black, 6px 6px #b2d3c2;
-    letter-spacing: 1rem;
-    text-align: right;
-    margin-right: 20vw;
-  }
-  
-  .inverseShadow {
-    color: snow;
-    text-shadow: 1px 1px black, 5px 7px #d3d2b2, 11px 12px 22px black;
-  }
-  
-  .titleShadowUppercase {
-    color: black;
-    text-shadow: 2px 2px snow, 4px 4px #b0b0b0;
-    text-transform: uppercase;
-  }
-  
-  .inverseShadowUppercase {
-    color: snow;
-    text-shadow: 2px 2px #d3d2b2, 4px 4px white, 6px 6px #b2d3c2, 8px 8px black, 15px 15px #b2d3c2, 20px 20px 27px black;
-    text-transform: uppercase;
-  }
-  
-  .alternateTitleColor {
-    font-family: "bickham-script-pro-3", sans-serif;
-    font-size: 6.3rem;
-    color: black;
-    text-shadow: 4px 4px snow, 8px 8px gainsboro;
-  }
-  
-  .alternateTitleColorBigger {
-    font-family: "bickham-script-pro-3", sans-serif;
-    font-size: 10.3rem;
-    color: black;
-    text-shadow: 4px 4px snow, 8px 8px gainsboro;
-  }
-  
-  .alternateTitleColorUppercase {
-    font-family: "bickham-script-pro-3", sans-serif;
-    font-size: 6.3rem;
-    color: black;
-    text-transform: uppercase;
-    text-shadow: 4px 4px snow, 8px 8px gainsboro;
-  }
+  display: block;
+  font-size: 4.1rem;
+  color: black;
+  text-shadow: 2px 2px #b2d3c2, 4px 4px black, 6px 6px #b2d3c2;
+  letter-spacing: 1rem;
+  text-align: right;
+  margin-right: 20vw;
+}
 
-  .alternateTitleColorTwo {
-    font-family: "bickham-script-pro-3", sans-serif;
-    font-size: 4.5rem;
-    color: #d3d2b2;
-    text-transform: uppercase;
-    text-shadow: 2px 2px black;
-  }
+.inverseShadow {
+  color: snow;
+  text-shadow: 1px 1px black, 5px 7px #d3d2b2, 11px 12px 22px black;
+}
 
-  .alternateTitleColorThree {
-    font-family: "bickham-script-pro-3", sans-serif;
-    font-size: 12.4rem;
-    color: #d3d2b2;
-    text-transform: lowercase;
-    text-shadow: 2px 2px black;
-  }
+.titleShadowUppercase {
+  color: black;
+  text-shadow: 2px 2px snow, 4px 4px #b0b0b0;
+  text-transform: uppercase;
+}
 
-    .alternateTitleColorFour {
-    font-family: "lores-9-plus", monospace;
-    font-size: 1.7rem;
-    color: #d3d2b2;
-    text-transform: lowercase;
-    text-shadow: 1px 1px white, 2px 2px black;
-  }
-  
-  .specialUnderscoreColor {
-    color: #d3d2b2;
-    text-shadow: 1px 2px white, 11px 12px 22px black;
-  }
-  
-  .skewRight {
-    display: inline-block;
-    transform: skew(-39deg, 4.4deg);
-  }
+.inverseShadowUppercase {
+  color: snow;
+  text-shadow: 2px 2px #d3d2b2, 4px 4px white, 6px 6px #b2d3c2, 8px 8px black,
+    15px 15px #b2d3c2, 20px 20px 27px black;
+  text-transform: uppercase;
+}
 
-  .skewLeft {
-    display: inline-block;
-    transform: skew(20deg, -30deg);
-  }
+.alternateTitleColor {
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-size: 6.3rem;
+  color: black;
+  text-shadow: 4px 4px snow, 8px 8px gainsboro;
+}
 
-  .skewLeftTwo {
-    display: inline-block;
-    transform: skew(20deg, -20deg);
-  }
+.alternateTitleColorBigger {
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-size: 10.3rem;
+  color: black;
+  text-shadow: 4px 4px snow, 8px 8px gainsboro;
+}
 
-  .skewUp {
-    display: inline-block;
-    transform: translateY(-2rem);
-  }
+.alternateTitleColorUppercase {
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-size: 6.3rem;
+  color: black;
+  text-transform: uppercase;
+  text-shadow: 4px 4px snow, 8px 8px gainsboro;
+}
 
-  .skewDown {
-    display: inline-block;
-    transform: translateY(4rem);
-  }
-  
-  .authorName {
-    font-size: 5.5rem;
-    font-family: "bickham-script-pro-3", sans-serif;
-    font-weight: 400;
-    text-align: left;
-    text-transform: lowercase;
-    letter-spacing: 0.3rem;
-    line-height: 0.8em;
-    margin: 1vh 0 7vh 7vw;
-  }
-  
-  .ellipses {
-    letter-spacing: 3rem;
-  }
+.alternateTitleColorTwo {
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-size: 4.5rem;
+  color: #d3d2b2;
+  text-transform: uppercase;
+  text-shadow: 2px 2px black;
+}
 
-  .grayShadow {
-      max-width: 90vw;
+.alternateTitleColorThree {
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-size: 12.4rem;
+  color: #d3d2b2;
+  text-transform: lowercase;
+  text-shadow: 2px 2px black;
+}
+
+.alternateTitleColorFour {
+  font-family: "lores-9-plus", monospace;
+  font-size: 1.7rem;
+  color: #d3d2b2;
+  text-transform: lowercase;
+  text-shadow: 1px 1px white, 2px 2px black;
+}
+
+.specialUnderscoreColor {
+  color: #d3d2b2;
+  text-shadow: 1px 2px white, 11px 12px 22px black;
+}
+
+.skewRight {
+  display: inline-block;
+  transform: skew(-39deg, 4.4deg);
+}
+
+.skewLeft {
+  display: inline-block;
+  transform: skew(20deg, -30deg);
+}
+
+.skewLeftTwo {
+  display: inline-block;
+  transform: skew(20deg, -20deg);
+}
+
+.skewUp {
+  display: inline-block;
+  transform: translateY(-2rem);
+}
+
+.skewDown {
+  display: inline-block;
+  transform: translateY(4rem);
+}
+
+.authorName {
+  font-size: 5.5rem;
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-weight: 400;
+  text-align: left;
+  text-transform: lowercase;
+  letter-spacing: 0.3rem;
+  line-height: 0.8em;
+  margin: 1vh 0 7vh 7vw;
+}
+
+.ellipses {
+  letter-spacing: 3rem;
+}
+
+.grayShadow {
+  max-width: 90vw;
   font-size: 1.7rem;
   font-family: "lores-9-plus-wide", monospace;
   text-shadow: 1px 1px snow, 2px 2px #b0b0b0;
   text-align: right;
 }
 
-  .grayShadowTwo {
+.grayShadowTwo {
   font-size: 1.2rem;
   font-family: "lores-9-plus-wide", monospace;
   text-shadow: 1px 1px snow, 2px 2px #b0b0b0;
 }
-  
-  @media (max-width: 927px) and (orientation: landscape) {
-    .titleShadow {
-      margin-right:12vw;
-      font-size: 3.7rem;
-      letter-spacing: 0.4rem;
-    }
+
+@media (max-width: 927px) and (orientation: landscape) {
+  .titleShadow {
+    margin-right: 12vw;
+    font-size: 3.7rem;
+    letter-spacing: 0.4rem;
   }
-  
-  @media (max-width: 541px) and (orientation: portrait) {
-  
-    .titleShadow {
-      margin-right:10vw;
-      font-size: 2.5rem;
-      letter-spacing: 0.4rem;
-    }
-  
-    .authorName {
-      font-size: 3.6rem;
-    }
+
+  .authorName {
+    font-size: 4.1rem;
   }
-  
-  @media (max-width: 321px) and (orientation: portrait) {
-  
-    .titleShadow {
-      font-size: 2.2rem;
-      letter-spacing: 0.1rem;
-    }
-  
-    .authorName {
-      font-size: 3.3rem;
-    }
+}
+
+@media (max-width: 821px) and (orientation: portrait) {
+  .alternateTitleColorBigger .alternateTitleColor .alternateTitleColorUppercase,
+  .alternateTitleColorTwo,
+  .alternateTitleColorThree {
+    font-size: 4.9rem;
   }
-  
-  @media (max-width: 281px) and (orientation: portrait) {
-  
-    .titleShadow {
-      font-size: 1.7rem;
-      letter-spacing: 0.1rem;
-    }
-  
-    .authorName {
-      font-size: 2.8rem;
-    }
+}
+
+@media (max-width: 761px) and (orientation: landscape) {
+  .titleShadow {
+    font-size: 3.4rem;
+    margin-right: 12vw;
   }
-  
+}
+
+@media (max-width: 541px) and (orientation: portrait) {
+  .titleShadow {
+    margin-right: 17vw;
+    font-size: 2.1rem;
+    letter-spacing: 0.1rem;
+  }
+
+  .alternateTitleColorBigger .alternateTitleColor .alternateTitleColorUppercase,
+  .alternateTitleColorTwo,
+  .alternateTitleColorThree {
+    font-size: 4.3rem;
+  }
+
+  .authorName {
+    margin: 6vh 0 7vh 17vw;
+    font-size: 2.6rem;
+    letter-spacing: 0.1rem;
+  }
+}
+
+@media (max-width: 421px) and (orientation: portrait) {
+  .grayShadow {
+    font-size: 1.1rem;
+  }
+}
+
+@media (max-width: 391px) and (orientation: portrait) {
+  .titleShadow {
+    font-size: 2rem;
+    letter-spacing: 0;
+    margin-right: 19vw;
+  }
+
+  .alternateTitleColorBigger .alternateTitleColor .alternateTitleColorUppercase {
+    font-size: 1.9rem;
+  }
+}
+
+@media (max-width: 361px) and (orientation: portrait) {
+  .alternateTitleColorBigger
+    .alternateTitleColor
+    .alternateTitleColorUppercase {
+    font-size: 1.6rem;
+  }
+
+  .alternateTitleColorTwo,
+  .alternateTitleColorThree {
+    font-size: 3.2rem;
+  }
+
+  .authorName {
+    font-size: 2.3rem;
+  }
+}
+
+@media (max-width: 281px) and (orientation: portrait) {
+  .titleShadow {
+    font-size: 1.7rem;
+    letter-spacing: 0.1rem;
+  }
+
+  .authorName {
+    font-size: 2.8rem;
+  }
+}
