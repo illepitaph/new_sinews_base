@@ -131,7 +131,7 @@
   text-shadow: 1px 1px snow, 2px 2px #b0b0b0;
 }
 
-@media (max-width: 927px) and (orientation: landscape) {
+@media (max-width: 933px) and (orientation: landscape) {
   .titleShadow {
     margin-right: 12vw;
     font-size: 3.7rem;
@@ -158,6 +158,13 @@
   }
 }
 
+@media (max-width: 668px) and (orientation: landscape) {
+  .titleShadow {
+    font-size: 3rem;
+    letter-spacing:0.2rem;
+  }
+}
+
 @media (max-width: 541px) and (orientation: portrait) {
   .titleShadow {
     margin-right: 17vw;
@@ -166,9 +173,12 @@
   }
 
   .alternateTitleColorBigger .alternateTitleColor .alternateTitleColorUppercase,
-  .alternateTitleColorTwo,
-  .alternateTitleColorThree {
+  .alternateTitleColorTwo {
     font-size: 4.3rem;
+  }
+
+  .alternateTitleColorThree {
+    font-size:5.3rem;
   }
 
   .authorName {
@@ -198,9 +208,12 @@
 
 @media (max-width: 361px) and (orientation: portrait) {
   .alternateTitleColorBigger
-    .alternateTitleColor
-    .alternateTitleColorUppercase {
+    .alternateTitleColor {
     font-size: 1.6rem;
+  }
+
+  .alternateTitleColorUppercase {
+    font-size:2.8rem;
   }
 
   .alternateTitleColorTwo,
