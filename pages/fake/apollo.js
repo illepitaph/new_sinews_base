@@ -8,7 +8,7 @@ Apollo.title = "amelia moriarty ~ apollo_in_tokyo — new_sinews";
 Apollo.pieceName = "amelia moriarty ~ apollo_in_tokyo — new_sinews";
 Apollo.description =
   "_Amelia Moriary_fiction_APOLLO IN TOKYO_news_sinews_issue9_";
-Apollo.image = "https://www.newnewsinews.com/images/FatherFigureBackground.jpg";
+Apollo.image = "https://www.newnewsinews.com/images/ApolloBackground.jpg";
 
 export default function Apollo() {
   return (
