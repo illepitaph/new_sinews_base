@@ -37,27 +37,27 @@
 }
 
 .specialCursiveOne {
-    font-size: 6.1rem;
+  font-size: 6.1rem;
   font-family: "bickham-script-pro-3", sans-serif;
   font-weight: 400;
   text-align: right;
   text-transform: uppercase;
   letter-spacing: 2.02rem;
   line-height: 0.8em;
-  color:white;
-  text-shadow:2px 2px 4px black, 3px 4px 8px #00ffff;
+  color: white;
+  text-shadow: 2px 2px 4px black, 3px 4px 8px #00ffff;
 }
 
 .specialCursiveTwo {
-    font-size: 9.1rem;
+  font-size: 9.1rem;
   font-family: "bickham-script-pro-3", sans-serif;
   font-weight: 400;
   text-align: right;
   text-transform: lowercase;
   letter-spacing: 5.02rem;
   line-height: 0.8em;
-  color:white;
-  text-shadow:2px 2px 4px black, 3px 4px 8px #00ffff;
+  color: white;
+  text-shadow: 2px 2px 4px black, 3px 4px 8px #00ffff;
 }
 
 .authorName {
@@ -69,8 +69,8 @@
   letter-spacing: 1.02rem;
   line-height: 0.8em;
   margin: 1vh 0 7vh 0;
-  color:white;
-  text-shadow:2px 2px 4px black, 3px 4px 8px #00ffff;
+  color: white;
+  text-shadow: 2px 2px 4px black, 3px 4px 8px #00ffff;
 }
 
 .ellipses {
@@ -83,112 +83,11 @@
   font-weight: 600;
   font-style: normal;
   font-size: 2.9rem;
- text-shadow: 5px 5px snow, 10px 10px #00ffff, 14px 14px gainsboro;
+  text-shadow: 5px 5px snow, 10px 10px #00ffff, 14px 14px gainsboro;
   letter-spacing: 0.3rem;
   line-height: 1.4em;
   margin-left: 8vw;
   text-transform: uppercase;
-}
-
-.poemBox {
-  max-width: 93vw;
-  font-family: "base-9-sans", sans-serif;
-  font-weight: 300;
-  font-style: normal;
-  text-shadow: 2px 2px gainsboro;
-  letter-spacing: -0.02rem;
-  line-height: 1.7em;
-  margin-left: 9vw;
-  white-space: pre-line;
-}
-
-.poem {
-  font-family: "base-9-sans", sans-serif;
-  font-weight: 300;
-  font-style: normal;
-  font-size: 1.25rem;
-  text-shadow: 2px 2px gainsboro;
-  letter-spacing: -0.02rem;
-}
-
-.boldHeader {
-  margin-left: 6vw;
-  font-size: 1.8rem;
-  font-weight: 700;
-  color: white;
-  text-shadow: 1px 1px black, 4px 4px 16px black;
-}
-
-@media (width: 1368px) and (height: 912px) {
-  .poemBox {
-    max-width: 97vw;
-    margin-left: 3vw;
-  }
-
-  .poem {
-    font-size: 1.1rem;
-    white-space:pre-wrap;
-  }
-}
-
-@media (width: 1366px) and (height: 1024px) {
-  .poemBox {
-    max-width: 97vw;
-    margin-left: 3vw;
-  }
-
-  .poem {
-    font-size: 1.1rem;
-    white-space:pre-wrap;
-  }
-}
-
-@media (width: 1280px) and (height: 853px) {
-  .poemBox {
-    max-width: 97vw;
-    margin-left: 3vw;
-  }
-
-  .poem {
-    font-size: 1.1rem;
-    white-space:pre-wrap;
-  }
-}
-
-@media (width: 1280px) and (height: 800px) {
-  .poemBox {
-    max-width: 97vw;
-    margin-left: 3vw;
-  }
-
-  .poem {
-    font-size: 1.1rem;
-    white-space:pre-wrap;
-  }
-}
-
-@media (width: 1194px) and (height: 834px) {
-  .poemBox {
-    max-width: 97vw;
-    margin-left: 3vw;
-  }
-
-  .poem {
-    font-size: 1.1rem;
-    white-space:pre-wrap;
-  }
-}
-
-@media (width: 1180px) and (height: 820px) {
-  .poemBox {
-    max-width: 97vw;
-    margin-left: 3vw;
-  }
-
-  .poem {
-    font-size: 1rem;
-    white-space:pre-wrap;
-  }
 }
 
 @media (width: 1080px) and (height: 810px) {
@@ -198,16 +97,6 @@
 
   .authorName {
     font-size: 5.1rem;
-  }
-
-  .poemBox {
-    max-width: 97vw;
-    margin-left: 3vw;
-  }
-
-  .poem {
-    font-size: 1rem;
-    white-space:pre-wrap;
   }
 }
 
@@ -219,16 +108,6 @@
   .authorName {
     font-size: 5.1rem;
   }
-
-  .poemBox {
-    max-width: 97vw;
-    margin-left: 3vw;
-  }
-
-  .poem {
-    font-size: 1rem;
-    white-space:pre-wrap;
-  }
 }
 
 @media (width: 1024px) and (height: 768px) {
@@ -238,16 +117,6 @@
 
   .authorName {
     font-size: 5.1rem;
-  }
-
-  .poemBox {
-    max-width: 97vw;
-    margin-left: 3vw;
-  }
-
-  .poem {
-    font-size: 1rem;
-    white-space:pre-wrap;
   }
 }
 
@@ -259,16 +128,6 @@
   .authorName {
     font-size: 5.1rem;
   }
-
-  .poemBox {
-    max-width: 97vw;
-    margin-left: 3vw;
-  }
-
-  .poem {
-    font-size: 1rem;
-    white-space:pre-wrap;
-  }
 }
 
 @media (max-width: 933px) and (orientation: landscape) {
@@ -278,20 +137,6 @@
 
   .authorName {
     font-size: 5.1rem;
-  }
-
-  .epigraphContainer {
-    font-size: 1rem;
-  }
-
-  .poemBox {
-    max-width: 95vw;
-    margin-left: 4vw;
-    white-space: pre-line;
-  }
-
-  .poem {
-    font-size: 0.9rem;
   }
 }
 
@@ -307,40 +152,15 @@
   .moreSpace {
     letter-spacing: 1.2rem;
   }
-
-  .epigraphContainer {
-    font-size: 1.1rem;
-  }
-
-
-  .poemBox {
-    max-width: 99vw;
-    margin-left:1vw;
-  }
-
-  .poem {
-    font-size:0.95rem;
-    white-space:pre-wrap;
-  }
 }
 
 @media (max-width: 896px) and (orientation: landscape) {
   .titleShadow {
     font-size: 2.5rem;
   }
-
-  .poemBox {
-    max-width: 99vw;
-    margin-left: 1vw;
-  }
-
-  .poem {
-    white-space: pre-line;
-  }
 }
 
 @media (max-width: 854px) and (orientation: landscape) {
-
   .boldHeader {
     font-size: 1.6rem;
   }
@@ -362,42 +182,11 @@
   .authorName {
     font-size: 4.1rem;
   }
-
-  .poemTitleContainer {
-    font-size: 1.7rem;
-  }
-
-  .poem {
-    font-size: 0.8rem;
-  }
-}
-
-@media (max-width: 769px) and (orientation: portrait) {
-  .poem {
-    font-size:0.9rem;
-  }
 }
 
 @media (max-width: 746px) and (orientation: landscape) {
   .titleShadow {
     font-size: 1.9rem;
-  }
-
-  .poem {
-    font-size: 0.6rem;
-  }
-}
-
-@media (max-width: 668px) and (orientation: landscape) {
-  .boldHeader {
-    font-size: 1.5rem;
-  }
-}
-
-@media (max-width: 605px) and (orientation: portrait) {
-
-  .epigraphContainer {
-    font-size: 1rem;
   }
 }
 
@@ -406,41 +195,15 @@
     font-size: 2.2rem;
   }
 
-  .moreSpace {
+  .moreSpace,
+  .moreMoreSpace,
+  .moreMoreMoreSpace,
+  .moreMoreMoreMoreSpace {
     letter-spacing: 0;
   }
 
   .authorName {
     font-size: 3.6rem;
-  }
-
-  .poemTitle {
-    font-size: 2rem;
-  }
-
-  .poemBox {
-    max-width: 99vw;
-    font-family: "base-9-sans", sans-serif;
-    margin-left: 1vw;
-  }
-
-  .boldHeader {
-    font-size: 1.3rem;
-  }
-}
-
-@media (width: 540px) and (height: 720px) {
-
-  .poem {
-    font-size: 1.1rem;
-    white-space:pre-wrap;
-  }
-}
-
-@media (max-width: 431px) and (orientation: portrait) {
-
-  .boldHeader {
-    font-size: 1.15rem;
   }
 }
 
@@ -448,61 +211,20 @@
   .titleShadow {
     font-size: 2rem;
   }
-
-  .poem {
-    font-size: 0.8rem;
-  }
-
-  .boldHeader {
-    font-size: 1rem;
-  }
 }
 
 @media (max-width: 376px) and (orientation: portrait) {
-
   .titleShadow {
     font-size: 1.5rem;
   }
 
-  .boldHeader {
-    font-size: 0.9rem;
-  }
-
   .ellipses {
     letter-spacing: 1rem;
-  }
-
-  .epigraphContainer {
-    font-size: 0.8rem;
-  }
-
-
-  .poemTitle {
-    font-size: 1.7rem;
-  }
-
-  .poemBox {
-    max-width: 100vw;
-    margin-left: 0.1rem;
-  }
-
-  .poem {
-    font-size: 0.45rem;
   }
 }
 
 @media (max-width: 345px) and (orientation: portrait) {
   .titleShadow {
     font-size: 1.7rem;
-  }
-
-  .poem {
-    font-size: 0.4rem;
-  }
-}
-
-@media (max-height: 281px) and (orientation: landscape) {
-  .poem {
-    max-width: 99%;
   }
 }
