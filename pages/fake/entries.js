@@ -233,7 +233,7 @@ export default function Entries() {
         corpse interred disturbs the ground surrounding it, reentrant in repose
         upending its previously salient state, so that instantiation no longer
         is merely an instance of regret, for it progresses toward repentance as
-        remorse is want to do, and further forward lies resent and just beyond
+        remorse is wont to do, and further forward lies resent and just beyond
         revilement is slowly approaching too, as a dandelion wilting toward
         disintegration, but not before sending a smaller sense of its self
         toward another, irradiated as a particle expelled passes into that other
