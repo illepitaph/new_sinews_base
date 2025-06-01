@@ -446,6 +446,10 @@
   background-image: url("../public/images/ApolloBackground.jpg");
 }
 
+.entriesBackground {
+  background-image: url("../public/images/EntriesBackground.jpg");
+}
+
 @media (width: 1366px) and (height: 1024px) {
   .siteNav > .dropDown > button,
   .home,

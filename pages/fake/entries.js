@@ -12,7 +12,7 @@ Entries.image = "https://www.newnewsinews.com/images/MemoryBackground.jpg";
 export default function Entries() {
   return (
     <>
-      <Header headerBackground="memoryBackground" />
+      <Header headerBackground="entriesBackground" />
       <br />
       <br />
       <br />
