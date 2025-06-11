@@ -311,7 +311,7 @@ export default function Entries() {
         then now the pattern has become thirty-two steps long, yet this says
         nothing of external factors fighting to affect the feel of my falling
         feet, a shift of pressure impressing itself in my way as I pick a path
-        through that star drenched place, bright lights glancing upon my retina
+        through that star-drenched place, bright lights glancing upon my retina
         refracting at an angle from the pavement slightly preceding my own
         displacement upon it, or was it concrete beneath my feet, with those
         cracks created by that star’s light radiated slight expansions emerged,
