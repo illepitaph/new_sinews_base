@@ -135,6 +135,15 @@
     font-size: 2.7rem;
   }
 
+  .moreSpace,
+  .moreMoreSpace,
+  .moreMoreMoreSpace,
+  .moreMoreMoreMoreSpace,
+  .specialCursiveOne,
+  .specialCursiveTwo {
+    letter-spacing: 2.5rem;
+  }
+
   .authorName {
     font-size: 5.1rem;
   }
@@ -160,17 +169,18 @@
   }
 }
 
-@media (max-width: 854px) and (orientation: landscape) {
-  .boldHeader {
-    font-size: 1.6rem;
+@media (max-width: 835px) and (orientation: portrait) {
+  .titleShadow {
+    font-size: 3.2rem;
   }
 
-  .epigraphContainer {
-    font-size: 0.8rem;
-  }
-
-  .poemTitle {
-    font-size: 2.1rem;
+  .moreSpace,
+  .moreMoreSpace,
+  .moreMoreMoreSpace,
+  .moreMoreMoreMoreSpace,
+  .specialCursiveOne,
+  .specialCursiveTwo {
+    letter-spacing: 1.5rem;
   }
 }
 
@@ -190,20 +200,46 @@
   }
 }
 
-@media (max-width: 541px) and (orientation: portrait) {
+@media (max-width: 668px) and (orientation: landscape) {
   .titleShadow {
-    font-size: 2.2rem;
+    font-size: 2.5rem;
   }
 
   .moreSpace,
   .moreMoreSpace,
   .moreMoreMoreSpace,
-  .moreMoreMoreMoreSpace {
+  .moreMoreMoreMoreSpace,
+  .specialCursiveOne,
+  .specialCursiveTwo {
+    letter-spacing: 1.5rem;
+  }
+}
+
+@media (max-width: 541px) and (orientation: portrait) {
+  .titleShadow {
+    font-size: 2.2rem;
     letter-spacing: 0;
   }
 
-  .authorName {
-    font-size: 3.6rem;
+  .moreSpace,
+  .moreMoreSpace,
+  .moreMoreMoreSpace,
+  .moreMoreMoreMoreSpace,
+  .specialCursiveOne,
+  .specialCursiveTwo {
+    letter-spacing: 0.5rem;
+  }
+
+  .authorName,
+  .ellipses {
+    letter-spacing: 0.4rem;
+  }
+
+  .sectionTitle {
+    max-width: 70vw;
+    font-size: 2rem;
+    letter-spacing: 0.1rem;
+    margin-left: 1vw;
   }
 }
 
@@ -213,13 +249,33 @@
   }
 }
 
-@media (max-width: 376px) and (orientation: portrait) {
+@media (max-width: 385px) and (orientation: portrait) {
   .titleShadow {
-    font-size: 1.5rem;
+    font-size: 1.8rem;
   }
 
+  .sectionTitle {
+    font-size: 1.8rem;
+  }
+}
+
+@media (max-width: 376px) and (orientation: portrait) {
+  .titleShadow {
+    font-size: 1.3rem;
+  }
+
+  .specialCursiveOne,
+  .specialCursiveTwo {
+    font-size: 3.6rem;
+  }
+
+  .authorName,
   .ellipses {
-    letter-spacing: 1rem;
+    letter-spacing: 0.2rem;
+  }
+
+  .sectionTitle {
+    font-size: 1.6rem;
   }
 }
 
