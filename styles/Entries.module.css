@@ -154,6 +154,15 @@
     font-size: 2.5rem;
   }
 
+   .moreSpace,
+  .moreMoreSpace,
+  .moreMoreMoreSpace,
+  .moreMoreMoreMoreSpace,
+  .specialCursiveOne,
+  .specialCursiveTwo {
+    letter-spacing: 3.4rem;
+  }
+
   .authorName {
     font-size: 5.1rem;
   }
@@ -169,7 +178,7 @@
   }
 }
 
-@media (max-width: 835px) and (orientation: portrait) {
+@media (max-width: 854px) and (orientation: portrait) {
   .titleShadow {
     font-size: 3.2rem;
   }
