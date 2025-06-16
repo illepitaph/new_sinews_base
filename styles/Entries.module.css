@@ -6,14 +6,18 @@
   line-height: 5rem;
 }
 
-.fade {
-  opacity: 0.3;
+.white {
+  color: snow;
+  text-shadow: 2px 3px black, 4px 5px white, 6px 7px black,
+    14px 14px 14px #00ffff;
 }
 
-.fadeUpper {
+.whiteUpper {
   font-size: 3.3rem;
+  color: snow;
+  text-shadow: 2px 3px black, 4px 5px white, 6px 7px black,
+    14px 14px 14px #00ffff;
   text-transform: uppercase;
-  opacity: 0.3;
 }
 
 .uppercase {
@@ -154,7 +158,7 @@
     font-size: 2.5rem;
   }
 
-   .moreSpace,
+  .moreSpace,
   .moreMoreSpace,
   .moreMoreMoreSpace,
   .moreMoreMoreMoreSpace,

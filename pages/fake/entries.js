@@ -21,7 +21,7 @@ export default function Entries() {
       <br />
       <LeftBlackTitle>
         <span className={styles.titleShadow}>
-          <span className={styles.fade}>e</span>
+          <span className={styles.white}>e</span>
           <span className={styles.specialCursiveOne}>n </span>
           <span className={styles.uppercase}>
             {" "}
@@ -30,7 +30,7 @@ export default function Entries() {
             </span>
           </span>
           <span className={styles.moreMoreMoreMoreSpace}>
-            <span className={styles.fadeUpper}>r</span>
+            <span className={styles.whiteUpper}>r</span>
             <span className={styles.moreSpace}>
               <span className={styles.specialCursiveTwo}>
                 <i>i</i>
@@ -40,7 +40,7 @@ export default function Entries() {
           <span className={styles.moreMoreMoreSpace}>
             <span className={styles.uppercase}>e</span>
           </span>
-          <span className={styles.fadeUpper}>
+          <span className={styles.whiteUpper}>
             <i>s</i>
           </span>
         </span>
