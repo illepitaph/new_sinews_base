@@ -32,24 +32,12 @@
   text-shadow: 4px 4px snow, 8px 8px gainsboro;
 }
 
-.alternateTitleColorBigger {
-  font-family: "bickham-script-pro-3", sans-serif;
-  font-size: 10.3rem;
-  color: black;
-  text-shadow: 4px 4px snow, 8px 8px gainsboro;
-}
-
 .alternateTitleColorUppercase {
   font-family: "bickham-script-pro-3", sans-serif;
   font-size: 6.3rem;
   color: black;
   text-transform: uppercase;
   text-shadow: 4px 4px snow, 8px 8px gainsboro;
-}
-
-.specialUnderscoreColor {
-  color: #00ffff;
-  text-shadow: 1px 2px white, 11px 12px 22px gray;
 }
 
 .skewRight {
@@ -61,15 +49,19 @@
   font-size: 5.5rem;
   font-family: "bickham-script-pro-3", sans-serif;
   font-weight: 400;
-  text-align: right;
   text-transform: lowercase;
   letter-spacing: -0.02rem;
   line-height: 0.8em;
-  margin: 1vh 7vw 7vh 0;
+  margin: 1vh 0 7vh 7vw;
 }
 
 .ellipses {
   letter-spacing: 3rem;
+}
+
+.ellipses {
+  display:inline-block;
+  margin-left:0.9rem;
 }
 
 @media (max-width: 927px) and (orientation: landscape) {
