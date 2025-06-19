@@ -450,6 +450,10 @@
   background-image: url("../public/images/EntriesBackground.jpg");
 }
 
+.actaeonBackground {
+  background-image: url("../public/images/ActaeonBackground.jpg");
+}
+
 @media (width: 1366px) and (height: 1024px) {
   .siteNav > .dropDown > button,
   .home,
@@ -480,7 +484,7 @@
   .siteNav > .dropDown > button,
   .home,
   .about {
-    font-size:0.9rem;
+    font-size: 0.9rem;
     padding: 6px 3px;
   }
 
@@ -500,7 +504,7 @@
   .siteNav > .dropDown > button,
   .home,
   .about {
-    font-size:0.8rem;
+    font-size: 0.8rem;
     padding: 6px 3px;
   }
 
@@ -520,10 +524,9 @@
   .siteNav > .dropDown > button,
   .home,
   .about {
-    font-size:0.8rem;
+    font-size: 0.8rem;
     padding: 6px 3px;
   }
-
 
   .siteNav > .dropDown > button,
   .home {
@@ -541,7 +544,7 @@
   .siteNav > .dropDown > button,
   .home,
   .about {
-    font-size:0.7rem;
+    font-size: 0.7rem;
     padding: 6px 3px;
   }
 
@@ -560,7 +563,7 @@
   .siteNav > .dropDown > button,
   .home,
   .about {
-    font-size:0.6rem;
+    font-size: 0.6rem;
     padding: 6px 3px;
   }
 
@@ -589,7 +592,7 @@
   .siteNav > .dropDown > button,
   .home,
   .about {
-    font-size:0.8rem;
+    font-size: 0.8rem;
     padding: 6px 3px;
   }
 
@@ -613,7 +616,7 @@
   .siteNav > .dropDown > button,
   .home,
   .about {
-    font-size:0.75rem;
+    font-size: 0.75rem;
     padding: 6px 3px;
   }
 
@@ -684,7 +687,6 @@
 }
 
 @media (max-width: 932px) and (orientation: landscape) {
-
   .iconImage {
     width: 55vw;
     height: 55vh;
@@ -751,7 +753,7 @@
   .about {
     font-size: 0.6rem;
     padding: 1px 2px;
-    margin-bottom:0.1rem;
+    margin-bottom: 0.1rem;
   }
 }
 
@@ -798,7 +800,6 @@
     opacity: 0.9;
   }
 
-
   .home {
     font-size: 0.8rem;
     color: white;
@@ -835,11 +836,9 @@
   .home,
   .about {
     font-size: 0.75rem;
-    padding:0;
+    padding: 0;
     opacity: 0.8;
   }
-
-  
 
   .siteNav {
     margin-top: 2vh;
@@ -870,9 +869,8 @@
 }
 
 @media (max-width: 801px) and (orientation: landscape) {
-
   .home {
-    font-size:0.6rem;
+    font-size: 0.6rem;
   }
 }
 

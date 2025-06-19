@@ -15,7 +15,7 @@ export default function Actaeon() {
     <>
       <Head />
 
-      <Header headerBackground="fatherFigureBackground" />
+      <Header headerBackground="actaeonBackground" />
       <CenterGrayTitle>
         <span className={styles.titleShadow}>
           <span className={styles.alternateTitleColor}>a</span>
