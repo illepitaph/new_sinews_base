@@ -7,7 +7,7 @@ import styles from "../../styles/Entries.module.css";
 Entries.title = "zachary_gary ~ entries — new_sinews";
 Entries.pieceName = "zachary_gary ~ entries — new_sinews";
 Entries.description = "_ZACHARY GARY_fiction_ENTRIES_new_sinews_issue9_";
-Entries.image = "https://www.newnewsinews.com/images/MemoryBackground.jpg";
+Entries.image = "https://www.newnewsinews.com/images/EntriesBackground.jpg";
 
 export default function Entries() {
   return (

@@ -8,7 +8,7 @@ Actaeon.title = "israel_bonilla ~ actaeon — new_sinews";
 Actaeon.pieceName = "israel_bonilla ~ actaeon — new_sinews";
 Actaeon.description = "_Israel Bonilla_fiction_ACTAEON_news_sinews_issue9_";
 Actaeon.image =
-  "https://www.newnewsinews.com/images/FatherFigureBackground.jpg";
+  "https://www.newnewsinews.com/images/ActaeonBackground.jpg";
 
 export default function Actaeon() {
   return (
