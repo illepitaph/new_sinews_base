@@ -1,0 +1,208 @@
+.titleShadow {
+  font-size: 2.6rem;
+  color: snow;
+  text-shadow: 1px 1px white, 3px 3px black, 4px 4px white, 5px 5px #e8e8e8,
+    6px 6px black, 7px 7px white, 8px 8px 16px black;
+  letter-spacing: 1rem;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.nameShadow {
+  font-size: 3.7rem;
+  text-shadow: 1px 2px white, 3px 3px #e8e8e8, 4px 6px white, 7px 8px black,
+    9px 12px white, 11px 13px 16px gray;
+  letter-spacing: 3rem;
+}
+
+.nameShadowUppercase {
+  font-size: 3.2rem;
+  text-shadow: 1px 2px white, 3px 3px #e8e8e8, 4px 6px white, 7px 8px black,
+    9px 12px white, 11px 13px 16px gray;
+  letter-spacing: 3rem;
+  text-transform: uppercase;
+}
+
+.inverseNameShadow {
+  font-size: 3.5rem;
+  color: white;
+  text-shadow: 4px 4px black, 6px 6px 16px dimgray;
+  text-transform: uppercase;
+}
+
+.specialCursive {
+  font-size: 5.5rem;
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-weight: 400;
+}
+
+.moreSpace {
+    display:inline-block;
+    margin-left:5vw;
+}
+
+.poemTitle {
+  max-width: 70vw;
+  font-family: "lores-9-plus-wide", monospace;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 3.6rem;
+  color: #e8e8e8;
+  text-shadow: 1px 2px black, 3px 3px #e8e8e8, 4px 6px white, 7px 8px black,
+    9px 12px white, 11px 13px 16px gray;
+  letter-spacing: 1rem;
+  line-height: 1.4em;
+  margin-left: 18vw;
+  text-transform: lowercase;
+  transform: rotate(-2deg);
+}
+
+.poemTitleTwo {
+  max-width: 70vw;
+  font-family: "lores-9-plus-wide", monospace;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 3.2rem;
+  color: #e8e8e8;
+  text-shadow: 1px 2px black, 3px 3px #e8e8e8, 4px 6px white, 7px 8px black,
+    9px 12px white, 11px 13px 16px gray;
+  letter-spacing: 1rem;
+  line-height: 1.4em;
+  margin-left: 18vw;
+  text-transform: uppercase;
+  transform: rotate(2deg);
+}
+
+.poem {
+  max-width: 70vw;
+  font-family: "base-9-sans", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 1.2rem;
+  text-shadow: 2px 2px gainsboro;
+  letter-spacing: -0.02rem;
+  line-height: 2.7em;
+  margin-left: 23vw;
+}
+
+.specialWrap {
+  white-space: pre-wrap;
+}
+
+@media (width: 1024px) and (height: 1366px) {
+  .poem {
+    max-width:90vw;
+    margin-left:9vw;
+  }
+}
+
+@media (width: 1024px) and (height: 768px) {
+  .poem {
+    max-width:90vw;
+    margin-left:9vw;
+  }
+}
+
+@media (width: 1024px) and (height: 600px) {
+  .poem {
+    max-width:90vw;
+    margin-left:9vw;
+  }
+}
+
+@media (max-width: 933px) and (orientation: landscape) {
+  .poem {
+    max-width: 94vw;
+    margin-left: 5vw;
+  }
+}
+
+@media (max-width: 913px) and (orientation: portrait) {
+  .poem {
+    max-width: 90vw;
+    font-size: 1.03rem;
+    margin-left: 9vw;
+  }
+}
+
+@media (max-width: 813px) and (orientation: landscape) {
+  .nameShadow {
+    letter-spacing: 0.4rem;
+  }
+
+  .poem {
+    margin-left: 3vw;
+    font-size: 1.1rem;
+  }
+}
+
+@media (max-width: 721px) and (orientation: landscape) {
+  .poem {
+    font-size: 0.96rem;
+  }
+}
+
+@media (max-width: 541px) and (orientation: portrait) {
+  .poem {
+    max-width: 94vw;
+    font-size: 0.79rem;
+    margin-left: 5vw;
+  }
+
+  .poemTitle,
+  .poemTitleTwo {
+    font-size: 2.9rem;
+  }
+}
+
+@media (max-width: 431px) and (orientation: portrait) {
+  .titleShadow {
+    font-size: 2.2rem;
+  }
+
+  .nameShadow {
+    font-size: 2.6rem;
+    letter-spacing: 0.1rem;
+  }
+
+  .titleShadow,
+  .nameShadowUppercase {
+    letter-spacing: 0.1rem;
+  }
+
+  .nameHeight {
+    line-height: 8vh;
+  }
+
+  .poemTitle,
+  .poemTitleTwo {
+    margin-left: 4vw;
+    font-size: 2.2rem;
+  }
+}
+
+@media (max-width: 405px) and (orientation: portrait) {
+  .poemTitle,
+  .poemTitleTwo {
+    font-size: 1.4rem;
+  }
+
+  .poem {
+    max-width: 96vw;
+    font-size: 0.61rem;
+    margin-left: 3vw;
+  }
+}
+
+@media (max-width: 354px) and (orientation: portrait) {
+  .poemTitle,
+  .poemTitleTwo {
+    font-size: 1.2rem;
+  }
+
+  .poem {
+    font-size: 0.55rem;
+  }
+}
