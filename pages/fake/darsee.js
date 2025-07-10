@@ -337,56 +337,17 @@ Until so muted the conversation becomes, two particles — become none!`}</pre>
 
       <br />
       <br />
-      <pre className={styles.poem}>{`i.
+      <pre className={styles.poem}>{`As I signify such opulent choices by way of description, brings me to the subject of voyeurism
       
-Portage, being the gross of all marches.
-The reverse military pageant detaches.
-Security sees the cowed parties off to sea.
-That sift over the waves to civilian death.
+Though I hold the lowly position of a memo typist, may we just observe a glass of sparkling water?
 
+And when you’re looking at me like a glass of sparkling water from across the open office
 
-The light, being the water’s excrement:
-Exile’s unction. Nowhere: agapē’s kiss;
-A cool breeze. Bora act. Then, a wind’s
-Marbled blue, and bone. No act. Zone.
+As you plan your strong walk over here and lean your crotch against my desk and drink
 
+When I finally raise my eyes, so engorged on fluorescents at this exceedingly late hour
 
-Wordlessly the sea keeps the occupation,
-Shores open, the prison gates stand agape.
-Impregnable, the Word hold. Portation
-Marches. Sufferings of movement are air.
-
-
-
-ii.
-
-The light, being the water’s excrement: 
-Shores open, the prison gates stand agape.
-Wordlessly the sea keeps the occupation,
-That sift, over the waves, to civilian death.
-
-
-Security sees the cowed parties off to sea.
-Marbled blue, and bone. No act. Zone.
-Impregnable, the Word hold. Portation:
-Exile’s unction. Nowhere: agapē’s kiss;
-
-
-A cool breeze. Bora act. Then, a wind’s
-Levantine. The forward military pageant
-Attaches. Portage being the gross of all
-Marches. Sufferings of movement are air.
-
-
-
-iii.
-
-I keep and you keep, without
-World through
-Revelations, without
-World through
-Reconciliation,
-The violations untouched.`}</pre>
+                                            I, too like the lights in water             `}<i> twitch — drip — vanish!</i></pre>
       <br />
       <br />
       <br />
@@ -396,7 +357,7 @@ The violations untouched.`}</pre>
       <br />
       <br />
 
-      <h3 className={styles.poemTitle}>sore</h3>
+      <h3 className={styles.poemTitle}>I make a beeline to the water cooler</h3>
       <br />
       <br />
       <pre className={styles.poem}>{`Old wound’s isinglass brightens to dying.
