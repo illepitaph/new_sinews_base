@@ -32,7 +32,8 @@ export default function Darsee() {
           <span className={styles.uppercase}>a</span>it ++
           <br />
           <br />
-          <br />i<span className={styles.uppercase}>f </span>sci
+          <br />i<span className={styles.uppercase}>f </span>s
+          <span className={styles.uppercase}>c</span>i
           <span className={styles.uppercase}>e</span>nce i
           <span className={styles.uppercase}>s </span> scie
           <span className={styles.uppercase}>n</span>ce // se
@@ -96,7 +97,7 @@ export default function Darsee() {
       <LeftBlackTitle>
         <span className={styles.nameHeight}>
           <span className={styles.inverseNameShadow}>z </span>
-          
+
           <span className={styles.specialCursive}>o</span>
           <span className={styles.inverseNameShadow}>
             {" "}
@@ -104,15 +105,25 @@ export default function Darsee() {
           </span>
           <br />
           <br />
-          <br /><i>d</i><span className={styles.inverseNameShadow}> a</span>
+          <br />
+          <i>d</i>
+          <span className={styles.inverseNameShadow}>
+            {" "}
+            <span className={styles.space}>a</span>
+          </span>
           <span className={styles.nameShadowUppercase}>
             {" "}
             <i>R</i>
           </span>
           <span className={styles.moreSpace}>
-          s <span className={styles.moreSpace}><span className={styles.inverseNameShadow}> e </span></span></span>
+            s{" "}
+            <span className={styles.moreSpace}>
+              <span className={styles.inverseNameShadow}> e </span>
+            </span>
+          </span>
           <span className={styles.moreSpace}>
-          <span className={styles.specialCursive}> e</span></span>
+            <span className={styles.specialCursive}> e</span>
+          </span>
           <br />
         </span>
       </LeftBlackTitle>
@@ -131,26 +142,30 @@ export default function Darsee() {
       <br />
       <br />
 
-      <h3 className={styles.poemTitle}>unction</h3>
+      <h3 className={styles.poemTitle}>disclaimer</h3>
       <br />
       <br />
-      <pre className={styles.poem}>{`Today could be last 
-Night.
-Spoke-dawn,
-Just so.
-Adige’s glass docks, for show,
-Arrive.
-Understandings
-Retreat.
-Little maiden bits and pieces.
-Against
-Dawn, mountains to
-House, beneath cool
-Noon, by the seaside.
-Chapter
-Of a sphere. Spatial enough to
-Hand you and I
-Longing. The hut. Earth’s lien.`}</pre>
+      <pre className={styles.poem}>{`The following was written on company time.
+
+The proceedings were composed in the company of contracted workers under oath.
+
+The consequence of violating our NDA is 5000 EUR, which is to be paid to the victim, which is the company.
+
+These questions may be exported to a PDF and emailed to the appropriate network for observation.
+
+In the hands of a lowly laborer, this process is time-tracked and will be subsequently deleted from the database.
+
+The research will be photographed, lit, delivered. The research will not be given blind approval.
+
+The research will be tried, tested, wobbled, fit, resized, teased, romanticised, willfully, and negotiated.
+
+Limits will be set. All litmus tests will be litigated.
+
+This is a controlled environment.
+
+A severed worker is therefore required to deny all prior affiliation with the company.
+
+Therefore, in the aftermath, this is an act of jacking off in the bathroom of the company.`}</pre>
       <br />
       <br />
       <br />
@@ -160,113 +175,58 @@ Longing. The hut. Earth’s lien.`}</pre>
       <br />
       <br />
 
-      <h3 className={styles.poemTitleTwo}>naxalite flight</h3>
+      <h3 className={styles.poemTitleTwo}>self-portrait</h3>
       <br />
       <br />
-      <pre className={styles.poem}>{`Were
-The
-Heart
-Not
-R
-U
-N
-On
-Sprung
-R
-H
-Y
-T
-H
-M
-Would
-The
-Heart
-Be
-R
-E
-D
-?
+      <pre className={styles.poem}>
+        {`This office was once a milk factory. Now it is filled with prodigal little worker girls.
+      
+A single open screen pours its artificial light into the open mouth of a typist, who chews
+gum as they are producing text. The text is generated using a thrusting motion by which
+a series of predetermined words are carefully arranged into different positions. The
+typist is turning them over and pushing them around, against the page, holding them
+there and waiting sometimes; sometimes rotating them and applying more or less force,
+in order to coax the most desired action from the consumer. It is this singular text,
+written over and over again, that teases the depth of a single original idea without ever
+brushing against it. It is a text that you will read many, many times. It is a text that arrives
+in your inbox, in your feed, in your window, in your throat, in your eyes, in your ears, in
+your mind and even in your asshole. It is like an ouroboric parasite. It is choking itself
+on the regurgitated belief in production. It is a text about the perfect leather bag.
 
+As the typist chews their gum they generate copious amounts of saliva. At one point it
+becomes so wet inside their mouth they must swallow or use it. Spit somewhere. They
+spit on
 
-Were
-The
-Forest
-Not
-F
-U
-G
-I
-T
-I
-V
-E
-Not
-A
-Verge,
-Would
-The
-Forest
-Hold
-Against
-The
-Police
-?
-The
-State
-?
-Were
-Food
-Not
-Gotten,
-S
-A
-T
-And
-H
-A
-D
-Together
-As
-G
-I
-V
-E
-N
-Would
-F
-O
-O
-D
-Be
-Food
-?
+the `}
+        <i>enter</i>
+        {` key and rub it in. It slides down the raised sides of the key and into the cracks
+between `}
+        <i>enter</i>
+        {` and `}
+        <i>delete</i>
+        {`. This will lubricate. `}
+        <i>This will transmit</i>
+        {`—
 
+`}
+        <i>
+          Spit will slide into the text and allow it to glide— It will slide
+          from the mouth to the fingers of the
+        </i>
+        {`
+`}
+        <i>
+          typist into all the girls who want a bag as easy and everyday as a
+          single breeze—
+        </i>
+        {`
 
-The
-Ice
-F
-L
-O
-W
-E
-R
-S
-Burn,
-Is
-Their
-O
-R
-A
-N
-G
-E
-Color
-What
-Burns
-R
-E
-D
-?`}</pre>
+`}
+        <i>
+          It will slide so effortlessly into the secret minds of the little
+          girls…
+        </i>
+      </pre>
       <br />
       <br />
       <br />
@@ -276,28 +236,24 @@ D
       <br />
       <br />
 
-      <h3 className={styles.poemTitle}>dead friends</h3>
+      <h3 className={styles.poemTitle}>if science is science</h3>
       <br />
       <br />
       <pre className={styles.poem}>
         <span className={styles.specialWrap}>
-          {`Rome’s alleys are washed in the blood of Fascist and anti-Fascist graffiti.
-Sentenced names. Fateful names. Helpless, the hands scrawl out fate.
-It is fate the perpetrators run guns for. Dead echoes. Carnate remnants.
-Heaven’s contingencies. Observation cannot allay breath’s prejudice.
-Thrush hides low in the heart’s bush, still, and beating, between thorns
-And dust, under the needle of the moon against the dungeon’s shaft,
-The four shafts, cut into the four walls, so narrow, each admits a thread
-Of moonlight, four needles weaving four threads for starlight’s dress,
-Dunning the floor of the dungeon for cloth-light, air clotted with vision.
-The dungeons are washed in the blood of anti-Fascists, and partisans,
-Of noms de guerre who La Decima tortured and killed, score after score.
-Fascism’s operatives are beholden to its targets and all its brigandries,
-Including love and torture, form its grammar, the lines its tongue trawls,
-On wanton ropes of blood, if sea snails and brass shells hug, noosing,
-By arms, and legs, and necks, asemic populations of breath, and hoisted up
-Corpses, enfleshed in every room by fires and knives mutilations hide,
-In every room no vacancy keeps, to parody, thus unite, a residence on earth.`}
+          {`Thus science is science and birth, birth.
+          
+Thinking of the light today, last year, etc. and the way time speaks
+exploding into frames of light on the sides of buildings
+I know a different science. At home in my lab
+in my big white hazmat suit I feel fluffy
+like a distraction yet with light I feel scientific
+`}
+          <i>and I use words like pastiche. I said into another box</i>
+          {`
+Now that I know the word pastiche I can use it
+Then I went into the meeting room and in my suit in my box I became the light
+exploding into frames of that that you can easily understand:`}
         </span>
       </pre>
       <br />
@@ -309,55 +265,42 @@ In every room no vacancy keeps, to parody, thus unite, a residence on earth.`}
       <br />
       <br />
 
-      <h3 className={styles.poemTitleTwo}>zone</h3>
+      <h3 className={styles.poemTitleTwo}>self-portrait</h3>
       <br />
       <br />
-      <pre className={styles.poem}>{`Words
-increase,
-they
-cannot
-be
-increased,
-they
-incarnate
-now
-to
-warrant
-due,
-as
-smoke-clouds
-on
-the
-mountain
-ash,
-beleaguer,
-in
-qualities
-as
-if
-snow.`}</pre>
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-
-      <h3 className={styles.poemTitle}>apsidal</h3>
-      <br />
-      <br />
-      <pre className={styles.poem}>{`Winter, the fire of clarity
-The once-hot-starred skies draw closer.
-      
-      
-Winter, the feudal desire
-The once-winkling irises fix, their steel.
-      
-      
-Winter, the hot and cold
-Blood’s Midas cannot ressurect breath.`}</pre>
+      <pre
+        className={styles.poem}
+      >{`THE BIOLOGY OF A BAG IS A SUCCINCT SYSTEM! BELIEVE ME, YOU
+DON’T WANT TO MISS THIS PRESENTATION! THE DELICATE SEAMS ARE
+A BORDERLINE DESCRIPTION OF THE WORLD, IN SHORT! THE
+VOLUMINOUS DELIVERY OF ITS ORGANIC GRACE IS A METAPHOR FOR
+FEMININITY! THESE SHAPES ARE SURE TO CREATE A SYMBIOTIC UNION
+OF RECIPROCAL USE-VALUE BETWEEN THE WEARER AND THE SHAPE!
+SPACE HAS AN EFFECT ON THE SHAPE OF OUR PERCEPTION OF TIME!
+TIMING AFFECTS OUR ATTRACTION TO OBJECTS AND CORPORATIONS
+BY SEEING THEM AS CHARACTERS! SOME OF THEM ARE EVEN FEMALE!
+NONE OF THEM ARE MALE! SUDDENLY A BAG JUST APPEARS!
+DANGLING FROM AN ARM IN FRONT OF A GREEN WALL! THESE
+MEMORIES ARE UNFORGETTABLE DUE TO OUR PARTICIPATION IN
+THEM! IN TIME AND SPACE! OUR COMPANY IS A CONSCIOUS CREATOR
+OF BAGS AS PARTICIPATORY EVENTS! WE KNOW THAT BODIES
+INEXPLICABLY FILL SPACE! WE KNOW THAT WHEN YOU ARE WEARING
+A BAG YOU ARE WEARING A COMPANION OF YOURSELF! IT IS LIKE
+VICTORY OVER A DOPPELGÄNGER! IT IS A TESTAMENT TO YOUR
+SUCCESS! IT IS PROOF OF YOUR EXISTENCE! REMEMBER HOW YOU GOT
+HERE! THE INTRODUCTION OF A PURCHASABLE OBJECT INTO THE
+WORLD IS AS MUCH AN OCCASION FOR ART AS IT IS AN OCCASION FOR
+CELEBRATION! IT IS A REIFICATION OF OUR BODIES IN SPACE! OUR
+COMPANY IS THE PERFECT REPRESENTATION OF OUR SHARED GLOBAL
+CONSCIOUSNESS! OUR BAGS ARE LIKE TREES! SOME OF THEM ARE
+EVEN GREEN! BELIEVE ME, YOU DON’T WANT TO LOSE CONTACT TO
+THE NATURAL WORLD! THAT’S WHY OUR BAGS ARE LEATHER! ALL THE
+COWS IN THE WORLD ARE FARTING INTO THE AIR FOR THE EXACT
+CULMINATION OF THIS COMPLEMENTARY MOMENT OF STYLE! THIS IS A
+STATEMENT! THE VOLUMINOUS BORDERLINE WORLD IS ONE THAT IS
+DELICATE! IT IS THE SHAPE OF A CORPORATION THAT CREATES AN
+INTRODUCTION! I WOULD LIKE TO INTRODUCE MYSELF! I AM AN
+OBJECT! I LOVE THE COLOR BLUE!`}</pre>
       <br />
       <br />
       <br />
@@ -367,7 +310,30 @@ Blood’s Midas cannot ressurect breath.`}</pre>
       <br />
       <br />
 
-      <h3 className={styles.poemTitleTwo}>poem for walter benjamin</h3>
+      <h3 className={styles.poemTitle}>self-portrait</h3>
+      <br />
+      <br />
+      <pre
+        className={styles.poem}
+      >{`From all this phosphorescent texting, allow me to open the curtain and expose my thorn!
+      
+That I came by way of a newspaper route is just evidence of our attachment to sign
+      
+So that an earlier struggle against getting too wet deleted us
+      
+And replaced my body with an emoji
+      
+Until so muted the conversation becomes, two particles — become none!`}</pre>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+
+      <h3 className={styles.poemTitleTwo}>self-portrait</h3>
 
       <br />
       <br />
