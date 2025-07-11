@@ -15,7 +15,7 @@ export default function Darsee() {
   return (
     <>
       <Head />
-      <Header headerBackground="mooreBackground" />
+      <Header headerBackground="darseeBackground" />
 
       <br />
       <br />

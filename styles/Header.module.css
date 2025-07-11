@@ -454,6 +454,10 @@
   background-image: url("../public/images/ActaeonBackground.jpg");
 }
 
+.darseeBackground {
+  background-image: url("../public/images/DarseeBackground.jpg");
+}
+
 @media (width: 1366px) and (height: 1024px) {
   .siteNav > .dropDown > button,
   .home,
