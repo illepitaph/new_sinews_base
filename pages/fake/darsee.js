@@ -224,7 +224,7 @@ between `}
 `}
         <i>
           It will slide so effortlessly into the secret minds of the little
-          girls…
+          girls...
         </i>
       </pre>
       <br />
@@ -360,11 +360,14 @@ When I finally raise my eyes, so engorged on fluorescents at this exceedingly la
       <h3 className={styles.poemTitle}>I make a beeline to the water cooler</h3>
       <br />
       <br />
-      <pre className={styles.poem}>{`Old wound’s isinglass brightens to dying.
-Life’s memories’ squat.
-Justification would-struck. Could’s mask
-Forecastles, (and mars)
-A counting-out-game. Old can of Christ.`}</pre>
+      <pre className={styles.poem}>{`I make a beeline to the water cooler. At the water cooler, office girls are getting their hair wet. They are
+getting it really wet and feeling all sorts of effortless and heavy all at the same time. Their hands are
+rather versatile today. They are exchanging their hands, taking them off and testing out the sizes and
+shapes of each other’s appendages, replacing thumbs with index fingers and pinkies. Their bodies are so
+spacious and voluminous they are transforming into stylish idioms, peaking with new shades of bliss and
+contemporary attachments. I have never seen them so luxuriously positioned for everyday use. I have
+never wanted to use them so badly… Position them over the water cooler and open up to see what’s
+inside...`}</pre>
       <br />
       <br />
       <br />
@@ -373,7 +376,68 @@ A counting-out-game. Old can of Christ.`}</pre>
       <br />
       <br />
       <br />
+      <h3 className={styles.poemTitleTwo}>self-portrait</h3>
 
+      <br />
+      <br />
+      <pre className={styles.poem}>{`After the meeting, you could have at least given me the pleasure of introducing myself!
+
+Just that I arrived late with clothes on and dripping in acid rain doesn’t make me avoidant
+
+But as I was pressing myself into the proof, that is a room, I nearly destroyed you
+
+For shattering such a lack of contact would give anyone a heart attack
+
+So loud that fluid glass between us becomes — it hardens into plastic!`}</pre>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <h3 className={styles.poemTitle}>no matter how hard it gets</h3>
+      <br />
+      <br />
+      <pre className={styles.poem}>{``}<i>No matter how hard it gets I can’t seem to get out of the office, no matter how wet I get I can’t seem to</i>{`
+
+`}<i>stop working, no matter how bad I get can’t seem to stop typing—writing these turgid little thoughts</i>...{`
+
+                                                                                              `}<i>and all the little office girls are watching me</i>...{`
+
+`}<i>Watching me unzip the handbags and pull out something hard and secret</i>...{`
+
+`}<i>I hold it in my soft hand</i>{`...`}</pre>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <h3 className={styles.poemTitleTwo}>self-portrait</h3>
+
+      <br />
+      <br />
+      <pre className={styles.poem}>{`Like a cock fuzzed and recoded onto hard material symbology
+This belief in the bag reinvented is but a symptom of the future
+With its dignifying frontal reforms, nylon alibis, and effortless transitions
+Here’s the clean base triangulated, the new and improved deep-dive into gashes, pockets
+The pregnant video where the hired slap its surface like some subordinate on a gurney
+And to reinvent the archive is like using a batch of cream saved from the morning coffee
+So yes, I do have the nerve to ask you tomorrow:
+How’s it feel to sit at your desk today?
+And must you bite your lip and think of where your typing hand has been — ?`}</pre>
+   <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
       <Footer />
     </>
   );

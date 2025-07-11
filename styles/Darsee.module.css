@@ -81,7 +81,7 @@
 }
 
 .poem {
-  max-width: 80vw;
+  max-width: 85vw;
   font-family: "base-9-sans", sans-serif;
   font-weight: 300;
   font-style: normal;
@@ -89,7 +89,7 @@
   text-shadow: 2px 2px gainsboro;
   letter-spacing: -0.02rem;
   line-height: 2.2em;
-  margin-left: 12vw;
+  margin-left: 10vw;
 }
 
 .specialWrap {
