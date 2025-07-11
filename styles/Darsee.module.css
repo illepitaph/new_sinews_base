@@ -81,7 +81,7 @@
 }
 
 .poem {
-  max-width: 80vw;
+  max-width: 85vw;
   font-family: "base-9-sans", sans-serif;
   font-weight: 300;
   font-style: normal;
@@ -90,6 +90,7 @@
   letter-spacing: -0.02rem;
   line-height: 2.2em;
   margin-left: 10vw;
+  white-space: pre-wrap;
 }
 
 .specialWrap {
