@@ -446,7 +446,7 @@ export default function Header(props) {
               </Link>
               <Link href="/issue1/evenflesh" passHref>
                 <button>
-                  even flesh seems a formality_or: vi khi nao&apos;s organic
+                  even flesh seems<br/>a formality_or: vi khi<br/>nao&apos;s organic
                   oscillations
                 </button>
               </Link>
