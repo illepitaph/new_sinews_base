@@ -181,7 +181,7 @@ Therefore, in the aftermath, this is an act of jacking off in the bathroom of th
       <pre className={styles.poem}>
         {`This office was once a milk factory. Now it is filled with prodigal little worker girls.
       
-A single open screen pours its artificial light into the open mouth of a typist, who chews
+A single monitor pours its artificial light into the open mouth of a typist, who chews
 gum as they are producing text. The text is generated using a thrusting motion by which
 a series of predetermined words are carefully arranged into different positions. The
 typist is turning them over and pushing them around, against the page, holding them
@@ -248,10 +248,10 @@ exploding into frames of light on the sides of buildings
 I know a different science. At home in my lab
 in my big white hazmat suit I feel fluffy
 like a distraction yet with light I feel scientific
+and I use words like pastiche. I said into another box
 `}
-          <i>and I use words like pastiche. I said into another box</i>
+          <i>Now that I know the word pastiche I can use it</i>
           {`
-Now that I know the word pastiche I can use it
 Then I went into the meeting room and in my suit in my box I became the light
 exploding into frames of that that you can easily understand:`}
         </span>
@@ -323,7 +323,7 @@ So that an earlier struggle against getting too wet deleted us
       
 And replaced my body with an emoji
       
-Until so muted the conversation becomes, two particles — become none!`}</pre>
+Until so muted the conversation becomes, two particles—become none!`}</pre>
       <br />
       <br />
       <br />
@@ -347,7 +347,7 @@ As you plan your strong walk over here and lean your crotch against my desk and 
 
 When I finally raise my eyes, so engorged on fluorescents at this exceedingly late hour
 
-                                            I, too like the lights in water             `}<i> twitch — drip — vanish!</i></pre>
+                                            I, too like the lights in water             `}<i> twitch— drip— vanish!</i></pre>
       <br />
       <br />
       <br />
@@ -388,7 +388,7 @@ But as I was pressing myself into the proof, that is a room, I nearly destroyed 
 
 For shattering such a lack of contact would give anyone a heart attack
 
-So loud that fluid glass between us becomes — it hardens into plastic!`}</pre>
+So loud that fluid glass between us becomes—it hardens into plastic!`}</pre>
       <br />
       <br />
       <br />
@@ -401,14 +401,13 @@ So loud that fluid glass between us becomes — it hardens into plastic!`}</pre>
       <br />
       <br />
       <pre className={styles.poem}>{``}<i>No matter how hard it gets I can’t seem to get out of the office, no matter how wet I get I can’t seem to</i>{`
-
 `}<i>stop working, no matter how bad I get can’t seem to stop typing—writing these turgid little thoughts</i>...{`
 
                                                                                               `}<i>and all the little office girls are watching me</i>...{`
 
 `}<i>Watching me unzip the handbags and pull out something hard and secret</i>...{`
 
-`}<i>I hold it in my soft hand</i>{`...`}</pre>
+                                                                                                            `}<i>I hold it in my soft hand</i>{`...`}</pre>
       <br />
       <br />
       <br />
@@ -429,7 +428,7 @@ The pregnant video where the hired slap its surface like some subordinate on a g
 And to reinvent the archive is like using a batch of cream saved from the morning coffee
 So yes, I do have the nerve to ask you tomorrow:
 How’s it feel to sit at your desk today?
-And must you bite your lip and think of where your typing hand has been — ?`}</pre>
+And must you bite your lip and think of where your typing hand has been— ?`}</pre>
    <br />
       <br />
       <br />
