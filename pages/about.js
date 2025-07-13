@@ -507,7 +507,7 @@ export default function About() {
                   <button>
                     _steve_barbaro_
                     <br />
-                    _plane_of_consummate_finitude_
+                    _plane_of_<br/>consummate_<br/>finitude_
                   </button>
                 </Link>
                 <Link href="/books/maitonaut" passHref>

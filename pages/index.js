@@ -495,7 +495,7 @@ export default function Home() {
                     <button>
                       _steve_barbaro_
                       <br />
-                      _plane_of_consummate_finitude_
+                      _plane_of_<br/>consummate_finitude_
                     </button>
                   </Link>
                   <Link href="/books/maitonaut" passHref>
