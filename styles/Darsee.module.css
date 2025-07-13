@@ -97,17 +97,32 @@
   white-space: pre-wrap;
 }
 
-@media (width: 1024px) and (height: 1366px) {
+@media (width: 1194px) and (height: 834px) {
+  .poem {
+    max-width:95vw;
+    margin-left:4vw;
+  }
+}
+
+@media (width: 1080px) and (height: 810px) {
   .poem {
     max-width:90vw;
     margin-left:9vw;
   }
 }
 
+@media (width: 1024px) and (height: 1366px) {
+  .poem {
+     max-width:95vw;
+    margin-left:4vw;
+  }
+}
+
 @media (width: 1024px) and (height: 768px) {
   .poem {
-    max-width:90vw;
-    margin-left:9vw;
+    max-width:95vw;
+    margin-left:3vw;
+    font-size:1.12rem;
   }
 }
 
@@ -122,14 +137,15 @@
   .poem {
     max-width: 94vw;
     margin-left: 5vw;
+    font-size:1rem;
   }
 }
 
 @media (max-width: 913px) and (orientation: portrait) {
   .poem {
-    max-width: 90vw;
-    font-size: 1.03rem;
-    margin-left: 9vw;
+    max-width: 96vw;
+    margin-left: 3vw;
+    font-size:1rem;
   }
 }
 
@@ -140,26 +156,33 @@
 
   .poem {
     margin-left: 3vw;
-    font-size: 1.1rem;
   }
 }
 
-@media (max-width: 721px) and (orientation: landscape) {
+@media (max-width: 801px) and (orientation: landscape) {
   .poem {
-    font-size: 0.96rem;
+    font-size:0.9rem;
+  }
+}
+
+@media (max-width: 668px) and (orientation: landscape) {
+  .poemTitle,
+  .poemTitleTwo {
+    letter-spacing: 0.5rem;
   }
 }
 
 @media (max-width: 541px) and (orientation: portrait) {
   .poem {
     max-width: 94vw;
-    font-size: 0.79rem;
+    font-size: 0.9rem;
     margin-left: 5vw;
   }
 
   .poemTitle,
   .poemTitleTwo {
     font-size: 2.9rem;
+    letter-spacing: 0.5rem;
   }
 }
 
@@ -186,6 +209,8 @@
   .poemTitleTwo {
     margin-left: 4vw;
     font-size: 2.2rem;
+    text-shadow: 2px 2px black, 3px 3px white, 4px 4px 12px black;
+
   }
 }
 
@@ -197,18 +222,13 @@
 
   .poem {
     max-width: 96vw;
-    font-size: 0.61rem;
     margin-left: 3vw;
   }
 }
 
-@media (max-width: 354px) and (orientation: portrait) {
-  .poemTitle,
-  .poemTitleTwo {
-    font-size: 1.2rem;
-  }
+@media (max-width: 361px) and (orientation: portrait) {
 
   .poem {
-    font-size: 0.55rem;
+    font-size:0.8rem;
   }
 }
