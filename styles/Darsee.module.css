@@ -104,10 +104,17 @@
   }
 }
 
+@media (width: 1180px) and (height: 820px) {
+  .poem {
+    max-width:95vw;
+    margin-left:4vw;
+  }
+}
+
 @media (width: 1080px) and (height: 810px) {
   .poem {
-    max-width:90vw;
-    margin-left:9vw;
+    max-width:95vw;
+    margin-left:4vw;
   }
 }
 
@@ -128,15 +135,16 @@
 
 @media (width: 1024px) and (height: 600px) {
   .poem {
-    max-width:90vw;
-    margin-left:9vw;
+    max-width:95vw;
+    margin-left:3vw;
+    font-size:1.12rem;
   }
 }
 
 @media (max-width: 933px) and (orientation: landscape) {
   .poem {
-    max-width: 94vw;
-    margin-left: 5vw;
+    max-width: 96vw;
+    margin-left: 3vw;
     font-size:1rem;
   }
 }
@@ -169,6 +177,17 @@
   .poemTitle,
   .poemTitleTwo {
     letter-spacing: 0.5rem;
+  }
+}
+
+@media (max-width: 641px) and (orientation: landscape) {
+  .poemTitle,
+  .poemTitleTwo {
+    letter-spacing: 0rem;
+  }
+
+  .poem {
+    font-size: 0.8rem;
   }
 }
 
