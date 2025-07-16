@@ -1,0 +1,124 @@
+.titleShadow {
+  display: block;
+  font-size: 4.1rem;
+  color: black;
+  text-shadow: 2px 2px #00ffff, 4px 4px black, 6px 6px #00ffff;
+  letter-spacing: 3rem;
+  text-align: right;
+  margin: -9vh 20vw 0 0;
+}
+
+.inverseShadow {
+  color: snow;
+  text-shadow: 1px 1px black, 5px 7px #00ffff, 11px 12px 22px black;
+}
+
+.titleShadowUppercase {
+  color: black;
+  text-shadow: 2px 2px snow, 4px 4px #b0b0b0;
+  text-transform: uppercase;
+}
+
+.inverseShadowUppercase {
+  color: snow;
+  text-shadow: 2px 2px #00ffff, 4px 4px white, 6px 6px #00ffff, 8px 8px black,
+    15px 15px #00ffff, 20px 20px 27px black;
+  text-transform: uppercase;
+}
+
+.alternateTitleColor {
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-size: 6.3rem;
+  color: black;
+  text-shadow: 4px 4px snow, 8px 8px gainsboro;
+}
+
+.alternateTitleColorUppercase {
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-size: 6.3rem;
+  color: black;
+  text-transform: uppercase;
+  text-shadow: 4px 4px snow, 8px 8px gainsboro;
+}
+
+.skewRight {
+  display: inline-block;
+  transform: skew(-39deg, 4.4deg);
+}
+
+.authorName {
+  font-size: 5.5rem;
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-weight: 400;
+  text-transform: lowercase;
+  letter-spacing: -0.02rem;
+  line-height: 0.8em;
+  margin: 1vh 0 7vh 7vw;
+}
+
+.ellipses {
+  letter-spacing: 3rem;
+}
+
+.ellipses {
+  display: inline-block;
+  margin-left: 0.9rem;
+}
+
+@media (max-width: 933px) and (orientation: landscape) {
+  .titleShadow {
+    margin-right: 12vw;
+    font-size: 3.7rem;
+    letter-spacing: 0.4rem;
+  }
+}
+
+@media (max-width: 913px) and (orientation: portrait) {
+  .titleShadow {
+    letter-spacing: 1rem;
+  }
+}
+
+@media (max-width: 541px) and (orientation: portrait) {
+  .titleShadow {
+    margin-right: 13vw;
+    font-size: 2.2rem;
+    letter-spacing: 0.4rem;
+  }
+
+  .alternateTitleColorUppercase {
+    font-size: 4.3rem;
+  }
+
+  .authorName {
+    font-size: 3.6rem;
+  }
+}
+
+@media (max-width: 361px) and (orientation: portrait) {
+  .titleShadow {
+    margin-right: 7vw;
+  }
+}
+
+@media (max-width: 321px) and (orientation: portrait) {
+  .titleShadow {
+    font-size: 2.2rem;
+    letter-spacing: 0.1rem;
+  }
+
+  .authorName {
+    font-size: 3.3rem;
+  }
+}
+
+@media (max-width: 281px) and (orientation: portrait) {
+  .titleShadow {
+    font-size: 1.7rem;
+    letter-spacing: 0.1rem;
+  }
+
+  .authorName {
+    font-size: 2.8rem;
+  }
+}

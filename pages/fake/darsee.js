@@ -5,9 +5,9 @@ import LeftBlackTitle from "../../components/leftBlackTitle.js";
 import Footer from "../../components/footer.js";
 import styles from "../../styles/Darsee.module.css";
 Darsee.title =
-  "zoe darsee ~ the once-hot-starred skies ++ the once-winkling irises ++ — new_sinews";
+  "zoe darsee ~ these shapes are sure to create a symbiotic union ++ choking itself on the regurgitated belief in production ++ — new_sinews";
 Darsee.pieceName =
-  "zoe darsee ~ the once-hot-starred skies ++ the once-winkling irises ++ — new_sinews";
+  "zoe darsee ~ these shapes are sure to create a symbiotic union ++ choking itself on the regurgitated belief in production ++ — new_sinews";
 Darsee.description = "_Zoe Darsee_poetry_10 POEMS_issue9_";
 Darsee.image = "https://www.newnewsinews.com/images/MooreBackground.jpg";
 
