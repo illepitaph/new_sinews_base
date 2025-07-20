@@ -150,6 +150,10 @@
   .authorName {
     font-size: 3.6rem;
   }
+
+  .nameSpacing {
+      letter-spacing: 0rem;
+    }
 }
 
 @media (max-width: 361px) and (orientation: portrait) {
