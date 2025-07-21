@@ -458,6 +458,10 @@
   background-image: url("../public/images/DarseeBackground.jpg");
 }
 
+.tationsBackground {
+  background-image: url("../public/images/TationsBackground.jpg");
+}
+
 @media (width: 1366px) and (height: 1024px) {
   .siteNav > .dropDown > button,
   .home,

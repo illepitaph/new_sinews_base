@@ -17,7 +17,7 @@ export default function Tations() {
     <>
       <Head />
 
-      <Header headerBackground="actaeonBackground" />
+      <Header headerBackground="tationsBackground" />
       <LeftGrayTitle>
         <span className={styles.titleShadow}>
           <span className={styles.inverseShadowUppercase}>f </span>
