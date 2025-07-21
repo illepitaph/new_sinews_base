@@ -1,10 +1,12 @@
 import Head from "next/head";
 import Header from "../../components/header.js";
+import Image from "next/image";
 import LeftGrayTitle from "../../components/leftGrayTitle.js";
 import RightBlackTitle from "../../components/rightBlackTitle.js";
 import StandardProse from "../../components/standardProse.js";
 import Footer from "../../components/footer.js";
 import styles from "../../styles/Tations.module.css";
+import Collage from "../../public/images/TationsCollage.jpg";
 Tations.title = "mandy-suzanne_wong ~ fragmen / lamen - tations — new_sinews";
 Tations.pieceName =
   "mandy-suzanne_wong ~ fragmen / lamen - tations — new_sinews";
@@ -132,7 +134,7 @@ export default function Tations() {
                 metaphor for fragments. Some analogy with shattered, scattered
                 pearls, and that look of his, oh I can’t bear it! <i>Tilly</i>,{" "}
                 <i>I know what to do</i>! <i>Remember we heard about those</i>,{" "}
-                <i>from China or</i>,<i>no</i>, <i>Japan</i>.
+                <i>from China or</i>, <i>no</i>, <i> Japan</i>.
                 <i> Some magazine</i>, <i>that man who said he</i>’
                 <i>d put a pearl necklace on every neck</i>,{" "}
                 <i>guess they can train oysters like cows or</i>—
@@ -147,11 +149,11 @@ export default function Tations() {
             <div className={styles.column}>
               <div className={styles.columnTwo}>
                 1853. The United States forced the Tokugawa shogunate in Japan
-                to accept unfair trade terms by send­ ing warships to threaten
+                to accept unfair trade terms by send­ing warships to threaten
                 Japan with cannon fire.
                 <br />
                 <br />
-                1893. Mikimoto Kōkichi, under the guid- ance of marine
+                1893. Mikimoto Kōkichi, under the guidance of marine
                 biologists, forced an oyster to produce a pearl by surgically
                 inserting an irritant (nucleus) into its soft tissues.
                 <br />
@@ -175,7 +177,7 @@ export default function Tations() {
                 <br />
                 <br />
                 c. 1916. In the US Midwest and South, button manufacture from
-                freshwater-mussel nacre, a multimillion-­ dollar industry, began
+                freshwater-mussel nacre, a multimillion-­dollar industry, began
                 its rapid decline, having decimated its mussel species of
                 choice.
                 <br />
@@ -554,7 +556,7 @@ export default function Tations() {
                 insides with the “graft lifter” and another terrible hook—“nucleus
                 lifter”—shoving—a horrid cuboid protobead from a dead mussel into your
                 insides with the piece of the other, whom you don’t even — — /— next
-                thing you know, the taste of ocean—~~—and a crowd in a cage, all of you
+                thing you know, the taste of ocean—&#126;&#126;—and a crowd in a cage, all of you
                 being sick—or if you’d rather think of it as rejection of a transplant
                 that you didn’t ask for, a wound with shrapnel stuck inside it — — the
                 spewing and disgorging taking several years if you survive
@@ -623,6 +625,18 @@ export default function Tations() {
             </div>
           </div>
         </div>
+        <br/>
+        <br/>
+        <br/>
+         <div>
+        <Image
+          src={Collage}
+          width={400}
+          height={240}
+          layout={`responsive`}
+          alt="Multidimensional Collage by Kathryn Eddy"
+        />
+      </div>
 
         <br />
         <br />
