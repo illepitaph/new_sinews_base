@@ -99,6 +99,7 @@ export default function Tations() {
                 <br />
                 <br />
                 <br />
+                 <div className={styles.columnOnePointFive}>
                 God in heaven, he’ll strangle me, no, he’ll lecture me, that’s
                 worse: How can I trust you with anything important if you can’t
                 even . . . I’ll blame the maid. Can’t blame the maid, he knows
@@ -144,6 +145,7 @@ export default function Tations() {
                 <i>re pearls like any other</i>, <i>right</i>?{" "}
                 <i>But when you need them</i>, <i>they show up on time</i>.{" "}
                 <i>Quick</i>, <i>go order a cab</i>!
+                </div>
               </div>
             </div>
             <div className={styles.column}>
@@ -238,6 +240,7 @@ export default function Tations() {
                 <br />
                 <br />
                 <br />
+                <div className={styles.columnOnePointFive}>
                 You’re having a snack on a day like any other with your hinge
                 snuggling down into the sediment, tasting waterborne morsels
                 with your cilia through parted shells as the river flows through
@@ -279,6 +282,7 @@ export default function Tations() {
                 you will be unrecognizable as having been a mussel having been a
                 living animal—except to those who inspect the nacreous
                 protobeads, nurdlish pollutants that they purchase by the ton.
+                </div>
               </div>
             </div>
             <div className={styles.column}>
@@ -373,6 +377,7 @@ export default function Tations() {
                 <br />
                 <br />
                 <br />
+                <div className={styles.columnOnePointFive}>
                 You say you want to marry me because you came on the ferry that
                 brings all those thousands of people to Pearl Island, and so you
                 are supporting me already. You say you watch from the island as
@@ -429,6 +434,7 @@ export default function Tations() {
                 want to marry an ama, you’d better get used to being spoken to
                 and spoken back to. Scattered she may be, but this ornament
                 supports herself.
+                </div>
               </div>
             </div>
             <div className={styles.column}>
@@ -528,6 +534,7 @@ export default function Tations() {
                 <br />
                 <br />
                 <br />
+                 <div className={styles.columnOnePointFive}>
                 First they make you think you’re suffocating, then the water
                 returns, and you gasp, you gape—&#x3c; &#x3e;—no sooner do you
                 part your shells than do they stick a peg between—!—and now
@@ -574,6 +581,7 @@ export default function Tations() {
                 memory / your very own nacre / you will beautify it as you do the
                 interior of your home / make it resemble something —( )— bearable / an
                 end, an end—Ω—// you will claim it to deny it / forget it forever: &#x3c;º&#x3e;.
+                </div>
               </div>
             </div>
             <div className={styles.column}>

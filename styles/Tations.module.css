@@ -1,12 +1,13 @@
 .titleShadow {
   display: inline-block;
-  margin-top:-11vh;
+  margin-top: -11vh;
   font-size: 4rem;
   margin-left: 3rem;
   font-style: italic;
   color: snow;
-  text-shadow: 1px 1px black, 3px 3px snow, 5px 5px black, 7px 7px snow, 9px 9px #aaf0d1;
-    letter-spacing:1rem;
+  text-shadow: 1px 1px black, 3px 3px snow, 5px 5px black, 7px 7px snow,
+    9px 9px #aaf0d1;
+  letter-spacing: 1rem;
 }
 
 .inverse {
@@ -27,7 +28,8 @@
 
 .inverseShadowUppercase {
   color: snow;
-  text-shadow: 1px 1px black, 3px 3px snow, 5px 5px black, 7px 7px snow, 9px 9px #aaf0d1;
+  text-shadow: 1px 1px black, 3px 3px snow, 5px 5px black, 7px 7px snow,
+    9px 9px #aaf0d1;
   text-transform: uppercase;
 }
 
@@ -122,29 +124,76 @@
   text-transform: uppercase;
 }
 
+@media (width: 1024px) and (height: 1366px) {
+  .titleShadow {
+    margin: 5vh 2vw 0 0;
+    font-size: 2.5rem;
+    letter-spacing: 1rem;
+  }
+ 
+}
+
+@media (width: 1024px) and (height: 768px) {
+  .titleShadow {
+    margin: 5vh 2vw 0 0;
+    font-size: 2.5rem;
+    letter-spacing: 1rem;
+  }
+ 
+}
+
 @media (max-width: 933px) and (orientation: landscape) {
   .titleShadow {
-    margin-right: 12vw;
-    font-size: 3.7rem;
+    margin: 5vh 2vw 0 0;
+    font-size: 3rem;
     letter-spacing: 0.4rem;
+  }
+
+     .columnOne {
+    width: 60vw;
   }
 }
 
 @media (max-width: 913px) and (orientation: portrait) {
   .titleShadow {
-    letter-spacing: 1rem;
+    margin:0;
+    font-size:3.3rem;
+    letter-spacing: 0;
+  }
+}
+
+@media (max-width: 801px) and (orientation: landscape) {
+  .titleShadow {
+    letter-spacing: 0.1rem;
+  }
+}
+
+@media (max-width: 769px) and (orientation: portrait) {
+  .titleShadow {
+    margin:0;
+    font-size:3rem;
+    letter-spacing: 0;
+  }
+
+    .columnOne {
+    width: 60vw;
   }
 }
 
 @media (max-width: 541px) and (orientation: portrait) {
   .titleShadow {
-    margin-right: 13vw;
-    font-size: 2.2rem;
-    letter-spacing: 0.4rem;
+    margin-left:0;
+    margin-right: 3vw;
+    font-size: 1.6rem;
+    letter-spacing: 0.2rem;
   }
 
-  .alternateTitleColorUppercase {
-    font-size: 4.3rem;
+  .alternateTitleColor, .alternateTitleColorUppercase {
+    font-size: 3.6rem;
+  }
+
+  .hyphenBlack {
+    font-size:1.5rem;
   }
 
   .authorName {
@@ -152,14 +201,33 @@
   }
 
   .nameSpacing {
-      letter-spacing: 0rem;
-    }
+    letter-spacing: 0rem;
+  }
+
+  .columnOne {
+    width: 60vw;
+  }
+
+  .columnOnePointFive {
+    font-size: 0.8rem;
+    line-height: 1.2rem;
+  }
+
+  .columnTwo {
+    font-size: 0.7rem;
+  }
 }
 
-@media (max-width: 361px) and (orientation: portrait) {
+@media (max-width: 391px) and (orientation: portrait) {
   .titleShadow {
-    margin-right: 7vw;
+   font-size: 1.2rem;
+   margin-right:0;
   }
+
+   .alternateTitleColor, .alternateTitleColorUppercase {
+    text-shadow:none;
+  }
+
 }
 
 @media (max-width: 321px) and (orientation: portrait) {
