@@ -1,7 +1,7 @@
-import Image from "next/image";
+import Image from "next/legacy/image";
 import Link from "next/link";
 import React, { useState } from "react";
-import styles from "../styles/Header.module.css";
+import styles from "../styles/header.module.css";
 
 export default function Header(props) {
   const [issueEightDropdownClass, setIssueEightDropdownClass] =

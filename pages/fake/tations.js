@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Header from "../../components/header.js";
-import Image from "next/image";
+import Image from "next/legacy/image";
 import LeftGrayTitle from "../../components/leftGrayTitle.js";
 import RightBlackTitle from "../../components/rightBlackTitle.js";
 import StandardProse from "../../components/standardProse.js";

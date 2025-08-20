@@ -3,7 +3,7 @@ import Header from "../../components/header.js";
 import LeftGrayTitle from "../../components/leftGrayTitle.js";
 import LeftBlackTitle from "../../components/leftBlackTitle.js";
 import StandardProse from "../../components/standardProse.js";
-import Image from "next/image";
+import Image from "next/legacy/image";
 import Stough2 from "../../public/images/Stough2.jpg";
 import Stough3 from "../../public/images/Stough3.jpg";
 import Stough4 from "../../public/images/Stough4.jpg";

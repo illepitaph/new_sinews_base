@@ -324,7 +324,8 @@ export function TombModel1RawText12() {
           <u>
             <span className={styles.bigGrayShadow}>THE MIRTH TUNNEL</span>
           </u>
-           
+          
+
         </h3>
         An underground tunnel connecting a school on a hill with a public works
         facility, i.e. a massive septic tank or water treatment facility or
@@ -392,7 +393,8 @@ export function TombModel1RawText15() {
       <GalleryProse>
         I don’t want my identity to be neutral, but I want it to be a process,
         it is a process, for which I feel a healthy amount of obscurity is
-        necessary—not oppositional, but interconnected. 
+        necessary—not oppositional, but interconnected.
+
         <br />
         <br />
         <br />
@@ -427,7 +429,8 @@ export function TombModel1RawText16() {
     <>
       <GalleryProse>
         <h3>
-          <span className={styles.bigGrayShadow}>SOLAR PROMINENCE</span> 
+          <span className={styles.bigGrayShadow}>SOLAR PROMINENCE</span>
+
         </h3>
         <br />
         <i>My ancestors, malevolent and smug, are trying to frighten me.</i> (
@@ -452,7 +455,8 @@ export function TombModel1RawText16() {
         <br />
         <br />
         <br />
-        CHINESE WHITE (?) 
+        CHINESE WHITE (?)
+
         <br />
         <br />
         <br />
@@ -576,7 +580,8 @@ export function TombModel1RawText21() {
   return (
     <>
       <GalleryProse>
-        <u>relingos</u>—unloved pockets of space in cities 
+        <u>relingos</u>—unloved pockets of space in cities
+
         <br />
         <br />
         <br />
@@ -1391,7 +1396,8 @@ export function TombModel2RawText8() {
         <br />
         <br />
         <br />
-        <span className={styles.grayShadow}>Oh good,</span> <br />
+        <span className={styles.grayShadow}>Oh good,</span>
+<br />
         <br />
         Another day embarrassed that I do not know what’s being said, I hear it,
         it sounds like my day wd be improved if I cd be improved It’s friendly,
@@ -1616,7 +1622,8 @@ export function TombModel2RawText16() {
         <br />
         <br />
         <br />
-        Matthew 27:7 
+        Matthew 27:7
+
         <br />
         <br />
         <span className={styles.arrows}>⬇</span>
@@ -1706,9 +1713,11 @@ export function TombModel2RawText19() {
           <span className={styles.grayShadow}>Little Boy</span>
         </u>
         <br />
-        20 oz. citrus vodka 
+        20 oz. citrus vodka
+
         <br />6 oz hard apple cider
-        <br />1 TB grenadine syrup 
+        <br />1 TB grenadine syrup
+
         <br />
         Pour Grenadine over ice in a highball. Add V. Fill with cider, and watch
         the lovely red ice cubes float up + down
@@ -1729,7 +1738,9 @@ export function TombModel2RawText20() {
         <br />
         <br />
         <br />
-        mutual annihilation  aka mutual assured destruction (MAD)
+        mutual annihilation
+ aka
+mutual assured destruction (MAD)
         <br />
         <br />
         <br />
@@ -1849,7 +1860,8 @@ export function TombModel3RawText2() {
     <>
       <GalleryProse>
         Lake M. Single image conforming a single chapter: white cloud (maiden)
-        floating over a mountain 
+        floating over a mountain
+
         <br />
         <br />
         <br />
@@ -1881,7 +1893,8 @@ export function TombModel3RawText3() {
           constitutes the specific offense of Auschwitz, the proper names of its
           horror.
         </i>
-         (72)
+        
+(72)
         <br />
         <br />
         <br />
@@ -1971,13 +1984,16 @@ export function TombModel3RawText6() {
           <i>Evening Oracle</i> alt. titles:
         </u>
         <br />
-        <i>Old Masters </i>
+        <i>Old Masters
+</i>
         <br />
         <i>I Am an Old Woman</i>
         <br />
-        <i>Old Woman </i>
+        <i>Old Woman
+</i>
         <br />
-        <i>Old Women </i>
+        <i>Old Women
+</i>
         <br />
         <i>An Old Woman</i>
         <br />
@@ -2594,14 +2610,16 @@ export function TombModel4RawText7() {
   return (
     <>
       <GalleryLineation>
-        {`I don’t remember any of the flowers or trees in Hiroshima ... `}
+        {`I don’t remember any of the flowers or trees in Hiroshima ...
+`}
         <br />
         <br />
         <br />
         <br />
         <br />
         {`Maybe it lacks a kind of truth——it does not find
-            itself in the upsweep ... `}
+            itself in the upsweep ...
+`}
         <br />
         <br />
         <br />
