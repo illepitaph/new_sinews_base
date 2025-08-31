@@ -12,7 +12,7 @@ Tations.pieceName =
   "mandy-suzanne_wong ~ fragmen / lamen - tations — new_sinews";
 Tations.description =
   "_Mandy-Suzanne Wong_essay_fragmen / lamen - tations_news_sinews_issue9_";
-Tations.image = "https://www.newnewsinews.com/images/ActaeonBackground.jpg";
+Tations.image = "https://www.newnewsinews.com/images/TationsBackground.jpg";
 
 export default function Tations() {
   return (
