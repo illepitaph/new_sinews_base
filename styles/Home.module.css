@@ -95,7 +95,7 @@
   position: relative;
 }
 
-.siteNav > .dropDown > button,
+.siteNav > .dropDown > a > button,
 .about {
   border: none;
   font-family: "lores-9-plus-narrow", monospace;
@@ -112,7 +112,7 @@
   transition: 1.2s background-color;
 }
 
-.siteNav > .dropDown > button {
+.siteNav > .dropDown > a > button {
   margin-right: 3px;
 }
 
@@ -124,7 +124,7 @@
   cursor: pointer;
 }
 
-.siteNav > .dropDown > button:hover,
+.siteNav > .dropDown > a > button:hover,
 .about:hover {
   background-color: black;
   color: white;
@@ -134,25 +134,25 @@
   display: flex;
   flex-flow: column wrap;
   position: absolute;
-  min-width: 18vw;
+  width:35vw;
 }
 
-.issueContentOpen > button {
+.issueContentOpen > a > button {
   border: 4px double #b0b0b0;
   font-family: "lores-9-plus-narrow", monospace;
   font-size: 0.8rem;
   background-color: black;
   color: snow;
   opacity: 0.9;
-  padding: 6px 16px;
+  padding: 6px 6px;
   text-align: left;
   text-transform: lowercase;
-  letter-spacing: 1.5px;
+  letter-spacing: 0.5px;
   cursor: pointer;
   z-index: 99;
 }
 
-.issueContentOpen > button:hover {
+.issueContentOpen > a > button:hover {
   background-color: snow;
   color: black;
   text-transform: uppercase;
