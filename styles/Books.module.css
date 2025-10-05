@@ -130,7 +130,7 @@
   display: flex;
   flex-flow: column wrap;
   position: absolute;
-  width: 35vw;
+  width: 21vw;
 }
 
 .issueContentOpen > a > button {
