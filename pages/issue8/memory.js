@@ -2,7 +2,7 @@ import Head from "next/head";
 import Header from "../../components/header.js";
 import LeftBlackTitle from "../../components/leftBlackTitle.js";
 import CenterBlackTitle from "../../components/centerBlackTitle.js";
-import Image from "next/image";
+import Image from "next/legacy/image";
 import Memory1 from "../../public/images/Memory1.jpg";
 import Memory2 from "../../public/images/Memory2.jpg";
 import Memory3 from "../../public/images/Memory3.jpg";

@@ -87,7 +87,7 @@
   position: relative;
 }
 
-.siteNav > .dropDown > button,
+.siteNav > .dropDown > a > button,
 .home,
 .about {
   border: none;
@@ -106,7 +106,7 @@
   z-index: 99;
 }
 
-.siteNav > .dropDown > button,
+.siteNav > .dropDown > a > button,
 .home {
   margin-right: 1px;
 }
@@ -119,7 +119,7 @@
   cursor: pointer;
 }
 
-.siteNav > .dropDown > button:hover,
+.siteNav > .dropDown > a > button:hover,
 .home:hover,
 .about:hover {
   background-color: #c0a5a5;
@@ -142,25 +142,25 @@
   display: flex;
   flex-flow: column wrap;
   position: absolute;
-  min-width: 18vw;
+  width: 21vw;
 }
 
-.issueContentOpen > button {
+.issueContentOpen > a > button {
   border: 4px double #c0a5a5;
   font-family: "lores-9-plus-narrow", monospace;
   font-size: 0.8rem;
   background-color: black;
   color: snow;
   opacity: 0.9;
-  padding: 6px 16px;
+  padding: 4px 7px;
   text-align: left;
   text-transform: lowercase;
-  letter-spacing: 1.5px;
+  letter-spacing: 0.2px;
   cursor: pointer;
   z-index: 99;
 }
 
-.issueContentOpen > button:hover {
+.issueContentOpen > a > button:hover {
   background-color: snow;
   color: black;
   text-transform: uppercase;
@@ -463,40 +463,40 @@
 }
 
 @media (width: 1366px) and (height: 1024px) {
-  .siteNav > .dropDown > button,
+  .siteNav > .dropDown > a > button,
   .home,
   .about {
     padding: 7px 8px;
   }
 
-  .siteNav > .dropDown > button,
+  .siteNav > .dropDown a > button,
   .home {
     margin-right: 3px;
   }
 }
 
 @media (width: 1368px) and (height: 912px) {
-  .siteNav > .dropDown > button,
+  .siteNav > .dropDown a > button,
   .home,
   .about {
     padding: 7px 8px;
   }
 
-  .siteNav > .dropDown > button,
+  .siteNav > .dropDown a > button,
   .home {
     margin-right: 3px;
   }
 }
 
 @media (width: 1280px) and (height: 853px) {
-  .siteNav > .dropDown > button,
+  .siteNav > .dropDown a > button,
   .home,
   .about {
     font-size: 0.9rem;
     padding: 6px 3px;
   }
 
-  .siteNav > .dropDown > button,
+  .siteNav > .dropDown a > button,
   .home {
     margin-right: 8px;
   }
@@ -509,14 +509,14 @@
 }
 
 @media (width: 1280px) and (height: 800px) {
-  .siteNav > .dropDown > button,
+  .siteNav > .dropDown a > button,
   .home,
   .about {
     font-size: 0.8rem;
     padding: 6px 3px;
   }
 
-  .siteNav > .dropDown > button,
+  .siteNav > .dropDown a > button,
   .home {
     margin-right: 8px;
   }
@@ -529,14 +529,14 @@
 }
 
 @media (width: 1194px) and (height: 834px) {
-  .siteNav > .dropDown > button,
+  .siteNav > .dropDown a > button,
   .home,
   .about {
     font-size: 0.8rem;
     padding: 6px 3px;
   }
 
-  .siteNav > .dropDown > button,
+  .siteNav > .dropDown a > button,
   .home {
     margin-right: 8px;
   }
@@ -549,14 +549,14 @@
 }
 
 @media (width: 1180px) and (height: 820px) {
-  .siteNav > .dropDown > button,
+  .siteNav > .dropDown a > button,
   .home,
   .about {
     font-size: 0.7rem;
     padding: 6px 3px;
   }
 
-  .siteNav > .dropDown > button {
+  .siteNav > .dropDown a > button {
     margin-right: 8px;
   }
 
@@ -568,14 +568,14 @@
 }
 
 @media (width: 1080px) and (height: 810px) {
-  .siteNav > .dropDown > button,
+  .siteNav > .dropDown a > button,
   .home,
   .about {
     font-size: 0.6rem;
     padding: 6px 3px;
   }
 
-  .siteNav > .dropDown > button {
+  .siteNav > .dropDown a > button {
     margin-right: 8px;
   }
 
@@ -597,7 +597,7 @@
     margin-right: 3%;
   }
 
-  .siteNav > .dropDown > button,
+  .siteNav > .dropDown a > button,
   .home,
   .about {
     font-size: 0.8rem;
@@ -621,7 +621,7 @@
     margin-right: 3%;
   }
 
-  .siteNav > .dropDown > button,
+  .siteNav > .dropDown a > button,
   .home,
   .about {
     font-size: 0.75rem;
@@ -646,7 +646,7 @@
     margin-right: 3%;
   }
 
-  .siteNav > .dropDown > button {
+  .siteNav > .dropDown a > button {
     font-size: 0.7rem;
     padding: 6px 6px;
   }
@@ -672,7 +672,7 @@
     margin: 7vh 6vw 0 0;
   }
 
-  .siteNav > .dropDown > button,
+  .siteNav > .dropDown a > button,
   .home,
   .about {
     width: 6rem;
@@ -705,7 +705,7 @@
     margin-right: 25%;
   }
 
-  .siteNav > .dropDown > button,
+  .siteNav > .dropDown a > button,
   .home,
   .about {
     width: 5rem;
@@ -734,7 +734,7 @@
     margin-right: 14vw;
   }
 
-  .siteNav > .dropDown > button,
+  .siteNav > .dropDown a > button,
   .home,
   .about {
     width: 8rem;
@@ -756,7 +756,7 @@
     margin-top: 1vw;
   }
 
-  .siteNav > .dropDown > button,
+  .siteNav > .dropDown a > button,
   .home,
   .about {
     font-size: 0.6rem;
@@ -770,7 +770,7 @@
     margin-right: 14vw;
   }
 
-  .siteNav > .dropDown > button,
+  .siteNav > .dropDown a > button,
   .home,
   .about {
     width: 8rem;
@@ -798,7 +798,7 @@
     margin-right: 18vw;
   }
 
-  .siteNav > .dropDown > button,
+  .siteNav > .dropDown a > button,
   .home,
   .about {
     width: 8rem;
@@ -821,7 +821,7 @@
     margin-right: 18vw;
   }
 
-  .siteNav > .dropDown > button,
+  .siteNav > .dropDown a > button,
   .home,
   .about {
     width: 8rem;
@@ -840,7 +840,7 @@
 }
 
 @media (max-width: 813px) and (orientation: landscape) {
-  .siteNav > .dropDown > button,
+  .siteNav > .dropDown a > button,
   .home,
   .about {
     font-size: 0.75rem;
@@ -858,7 +858,7 @@
     margin-right: 18vw;
   }
 
-  .siteNav > .dropDown > button,
+  .siteNav > .dropDown a > button,
   .home,
   .about {
     width: 8rem;
@@ -887,7 +887,7 @@
     margin-right: 18vw;
   }
 
-  .siteNav > .dropDown > button,
+  .siteNav > .dropDown a > button,
   .home,
   .about {
     width: 8rem;
@@ -909,7 +909,7 @@
     margin-right: 18vw;
   }
 
-  .siteNav > .dropDown > button,
+  .siteNav > .dropDown a > button,
   .home,
   .about {
     width: 8rem;
@@ -927,7 +927,7 @@
 }
 
 @media (max-width: 659px) and (orientation: landscape) {
-  .siteNav > .dropDown > button,
+  .siteNav > .dropDown a > button,
   .home,
   .about {
     font-size: 0.7rem;
@@ -946,7 +946,7 @@
     margin-right: 13vw;
   }
 
-  .siteNav > .dropDown > button,
+  .siteNav > .dropDown a > button,
   .home,
   .about {
     width: 8rem;
@@ -970,7 +970,7 @@
     margin: 8vh 0 0 12vw;
   }
 
-  .siteNav > .dropDown > button,
+  .siteNav > .dropDown a > button,
   .home,
   .about {
     margin-top: 1vh;
