@@ -165,7 +165,7 @@
   height: 18vh;
 }
 
-.siteShortcuts > .linkButton {
+.siteShortcuts > a > .linkButton {
   width: 13vw;
   border: 0;
   background-color: #f70d1a;
@@ -181,7 +181,7 @@
   cursor: pointer;
 }
 
-.siteShortcuts > .linkButton:hover {
+.siteShortcuts > a > .linkButton:hover {
   opacity: 1;
 }
 
@@ -459,6 +459,6 @@
 
 @media (max-width: 2811px) and (orientation: portrait) {
   .workLink {
-    font-size:1.3rem;
+    font-size: 1.3rem;
   }
 }
