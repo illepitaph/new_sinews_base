@@ -1,7 +1,7 @@
 import Head from "next/head";
 import Header from "../../components/header.js";
 import LeftGrayTitle from "../../components/leftGrayTitle.js";
-import LeftBlackTitle from "../../components/leftBlackTitle.js";
+import RightBlackTitle from "../../components/rightBlackTitle.js";
 import StandardProse from "../../components/standardProse.js";
 import Footer from "../../components/footer.js";
 import styles from "../../styles/Chronology.module.css";
@@ -69,20 +69,20 @@ export default function Chronology() {
       <br />
       <br />
       <br />
-      <LeftBlackTitle>
+      <RightBlackTitle>
         <span className={styles.nameSpacing}>
-          ... ... li
+          ... ... l i
           <span className={styles.uppercase}>
             <span className={styles.nameIndent}>s</span>a
           </span>{" "}
           <span className={styles.nameIndent}> ... </span> ... h
           <span className={styles.uppercase}>s</span>i
-          <span className={styles.uppercase}>a</span> o ... ...
-          <span className={styles.nameIndent}></span>ch
-          <span className={styles.uppercase}>en</span>
+          <span className={styles.uppercase}>a </span> o ... ...<br/>
+          <span className={styles.nameIndent}></span>ch 
+          <span className={styles.uppercase}> en</span>
           <span className={styles.nameIndent}> ... </span> ...
         </span>
-      </LeftBlackTitle>
+      </RightBlackTitle>
       <br />
       <br />
       <br />
@@ -348,6 +348,7 @@ export default function Chronology() {
         unravel fate, but the results are decidedly mixed—it becomes evident
         that what has happened in the past can’t be undone, only understood,
         like a procedural.
+         <br />
         <br />
         <br />
         <br />
@@ -364,16 +365,15 @@ export default function Chronology() {
         <br />
         <br />
         <br />
+        <span className={styles.specialCursiveThree}>2054</span>Public safety is maintained
+        by heavy surveillance and state-of-the-art biometric security systems. What’s more, three
+        wild-eyed, soggy clairvoyants and their predictive algorithms, so to speak, have made it
+        possible to prevent crimes before they even happen. Self-driving cars shoot upwards 
+        in vertical highways; screens are activated not by touch but by arm and hand gestures. Three-D
+        advertisements call us by our first names and offer bespoke consumer goods and experiences
+        to fulfill our desires and overcome our feelings of emptiness and inadequacy. 
+         <br />
         <br />
-        <span className={styles.specialCursiveThree}>2054</span>Public safety is
-        maintained by heavy surveillance and state-of-the-art biometric security
-        systems. What’s more, three wild-eyed, soggy clairvoyants and their
-        predictive algorithms, so to speak, have made it possible to prevent
-        crimes before they even happen. Self-driving cars shoot upwards in
-        vertical highways; screens are activated not by touch but by arm and
-        hand gestures. Three-D advertisements call us by our first names and
-        offer bespoke consumer goods and experiences to fulfill our desires and
-        overcome our feelings of emptiness and inadequacy.
         <br />
         <br />
         <br />
@@ -389,18 +389,17 @@ export default function Chronology() {
         <br />
         <br />
         <br />
+        <span className={styles.specialCursiveThree}>2084</span>There is no need to travel
+        anymore to take a vacation because you can pay a company to implant memories in your
+        brain of trips to thrilling destinations such as Mars, which is now a privatized
+        colony. You’ll save money, not to mention reduce your carbon footprint. This
+        technology, capable of implanting memories so real you won’t be able to distinguish
+        them from your actual experiences, can be abused in the wrong hands, it must be said. But
+        what a great leap forward from sixty years ago when the mediasphere was the only tool
+        we had to plant false information into people’s minds. 
+               <br />
         <br />
         <br />
-        <span className={styles.specialCursiveThree}>2084</span>There is no need
-        to travel anymore to take a vacation because you can pay a company to
-        implant memories in your brain of trips to thrilling destinations such
-        as Mars, which is now a privatized colony. You’ll save money, not to
-        mention reduce your carbon footprint. This technology, capable of
-        implanting memories so real you won’t be able to distinguish them from
-        your actual experiences, can be abused in the wrong hands, it must be
-        said. But what a great leap forward from sixty years ago when the
-        mediasphere was the only tool we had to plant false information into
-        people’s minds.
         <br />
         <br />
         <br />
@@ -415,17 +414,17 @@ export default function Chronology() {
         <br />
         <br />
         <br />
+        <span className={styles.specialCursiveThree}>2101</span>Humanoids powered by artificial
+        intelligence now service humanity’s need for menial labor, companionship, grief
+        management, and sexual gratification. Obsolete and otherwise damaged robots are 
+        relegated to a lawless circus called Flesh Fair where the robots are violently 
+        destroyed or tortured for entertainment. Meanwhile, global warming is causing sea
+        levels to rise and rise and it won’t be long before New York City is completely
+        underwater.  
+                <br />
         <br />
         <br />
         <br />
-        <span className={styles.specialCursiveThree}>2101</span>Humanoids
-        powered by artificial intelligence now service humanity’s need for
-        menial labor, companionship, grief management, and sexual gratification.
-        Obsolete and otherwise damaged robots are relegated to a lawless circus
-        called Flesh Fair where the robots are violently destroyed or tortured
-        for entertainment. Meanwhile, global warming is causing sea levels to
-        rise and rise and it won’t be long before New York City is completely
-        underwater.
         <br />
         <br />
         <br />
@@ -438,19 +437,19 @@ export default function Chronology() {
         <br />
         <br />
         <br />
+        <span className={styles.specialCursiveThree}>2122</span>A crew aboard a cargo ship on a
+        flightpath back to Earth responds to a distress signal emanating from another ship
+        on a distant moon. There are no signs of life aboard the derelict vessel, at least
+        that’s what everyone thinks until a squid-like creature manages to clamp itself 
+        on a crew member’s face, incubate inside him, and later burst forth from the man’s chest 
+        over dinner. The alien, whose blood burns like acid on contact, proceeds to wreak
+        havoc on the commercial space craft. It is possible to smoke cigarettes in outer space
+        and keep a pet cat.  
+                     <br />
         <br />
         <br />
         <br />
         <br />
-        <span className={styles.specialCursiveThree}>2122</span>A crew aboard a
-        cargo ship on a flightpath back to Earth responds to a distress signal
-        emanating from another ship on a distant moon. There are no signs of
-        life aboard the derelict vessel, at least that’s what everyone thinks
-        until a squid-like creature manages to clamp itself on a crew member’s
-        face, incubate inside him, and later burst forth from the man’s chest
-        over dinner. The alien, whose blood burns like acid on contact, proceeds
-        to wreak havoc on the commercial space craft. It is possible to smoke
-        cigarettes in outer space and keep a pet cat.
         <br />
         <br />
         <br />
@@ -462,19 +461,18 @@ export default function Chronology() {
         <br />
         <br />
         <br />
+        <span className={styles.specialCursiveThree}>2154</span>The Earth, ravaged by plague, overpopulation, and
+         resource depletion, is divided into the haves and have-nots: the one percent live on
+        a space colony with swimming pools and high-end fixtures; the rest of humanity struggles
+        to survive in parched, squalid environs. A marvelous invention, Med-Bay, exists, but 
+        only the rich have access. It resembles a CT scan machine and is capable of curing disease
+        and healing broken bones if not ennui and depression.
+                             <br />
         <br />
         <br />
         <br />
         <br />
         <br />
-        <span className={styles.specialCursiveThree}>2154</span>The Earth,
-        ravaged by plague, overpopulation, and resource depletion, is divided
-        into the haves and have-nots: the one percent live on a space colony
-        with swimming pools and high-end fixtures; the rest of humanity
-        struggles to survive in parched, squalid environs. A marvelous
-        invention, Med-Bay, exists, but only the rich have access. It resembles
-        a CT scan machine and is capable of curing disease and healing broken
-        bones if not ennui and depression.
         <br />
         <br />
         <br />
@@ -485,17 +483,17 @@ export default function Chronology() {
         <br />
         <br />
         <br />
+        <span className={styles.specialCursiveThree}>2274</span>Humanity now lives in underground
+        cities topped by geodesic domes. A supercomputer maintains this utopia in part by solving
+        the problem of overpopulation and overcrowding with a simple policy: Once you reach the age
+        of thirty, you are euthanized. 
+                                   <br />
         <br />
         <br />
         <br />
         <br />
         <br />
         <br />
-        <span className={styles.specialCursiveThree}>2274</span>Humanity now
-        lives in underground cities topped by geodesic domes. A supercomputer
-        maintains this utopia in part by solving the problem of overpopulation
-        and overcrowding with a simple policy: Once you reach the age of thirty,
-        you are euthanized.
         <br />
         <br />
         <br />
@@ -505,6 +503,14 @@ export default function Chronology() {
         <br />
         <br />
         <br />
+        <span className={styles.specialCursiveThree}>2293</span>Was it a war or an
+        ecological disaster? It’s never made clear, but the result is a society divided
+        between two classes: the Eternals, immortals who live in a gauzy paradise, bored
+        and louche and horrible as late-empire Roman elites; and the the Brutals, barbarians
+        in the hinterlands who worship a mysterious stone god and raise crops for the Eternals
+        without ever having set eyes on them. But it is the Brutals who are in possession
+        of the greatest gift: Death. 
+                                        <br />
         <br />
         <br />
         <br />
@@ -512,14 +518,6 @@ export default function Chronology() {
         <br />
         <br />
         <br />
-        <span className={styles.specialCursiveThree}>2293</span>Was it a war or
-        an ecological disaster? It’s never made clear, but the result is a
-        society divided between two classes: the Eternals, immortals who live in
-        a gauzy paradise, bored and louche and horrible as late-empire Roman
-        elites; and the the Brutals, barbarians in the hinterlands who worship a
-        mysterious stone god and raise crops for the Eternals without ever
-        having set eyes on them. But it is the Brutals who are in possession of
-        the greatest gift: Death.
         <br />
         <br />
         <br />
@@ -528,22 +526,13 @@ export default function Chronology() {
         <br />
         <br />
         <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <span className={styles.specialCursiveThree}>2500</span>The polar ice
-        caps have melted; the world is nearly entirely submerged except for a
-        handful of floating man-made islands built from salvaged materials. To
-        adapt to this new world, some have evolved by growing webbed feet and
-        gills; dirt is a valuable trade commodity. Still, cigarettes are
-        plentiful and a particularly notorious gang of pirates smokes them with
-        nihilistic disregard for their health.
-        <br />
+        <span className={styles.specialCursiveThree}>2500</span>The polar ice caps 
+        have melted; the world is nearly entirely submerged except for a handful of floating
+        man-made islands built from salvaged materials. To adapt to this new world, some
+        have evolved by growing webbed feet and gills; dirt is a valuable trade
+        commodity. Still, cigarettes are plentiful and a particularly notorious gang of
+        pirates smokes them with nihilistic disregard for their health.
+                                            <br />
         <br />
         <br />
         <br />
@@ -563,10 +552,9 @@ export default function Chronology() {
         entered what some call the era of full employment of memory. Every one
         of us, not only a select few, has photographic memory. Nothing is
         forgotten. This makes us better workers and more efficient at performing
-        certain domestic tasks, but over time, we come to realize that these
+        certain domestic tasks, but over time, we come to realize that these 
         cognitive powers come at a cost: We’ve lost the delirious melancholy of
-        half-remembering, the only state in which poetry and forgiveness are
-        possible.
+        half-remembering, the only state in which poetry and forgiveness are possible. 
       </StandardProse>
       <br />
       <br />
