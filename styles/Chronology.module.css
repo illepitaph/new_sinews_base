@@ -147,6 +147,12 @@
 }
 }
 
+@media (max-width: 668px) and (orientation: landscape) {
+ .alternateTitleColorBigger {
+  font-size:6.1rem;
+}
+}
+
 @media (max-width: 541px) and (orientation: portrait) {
 
   .titleShadow {
@@ -155,8 +161,12 @@
   margin-top:-10vh;
 }
 
-.alternateTitleColor, .alternateTitleColorBigger, .alternateTitleColorUppercase .alternateTitleColorTwo {
+.alternateTitleColor, .alternateTitleColorUppercase .alternateTitleColorTwo {
   font-size: 3.1rem;
+}
+
+.alternateTitleColorBigger {
+  font-size:6.1rem;
 }
 
 .nameIndent {
@@ -169,3 +179,36 @@
 }
 
 }
+
+@media (max-width: 376px) and (orientation: portrait) {
+
+    .titleShadow {
+  margin-top:15vh;
+}
+
+.alternateTitleColor, .alternateTitleColorUppercase .alternateTitleColorTwo {
+  font-size: 3.1rem;
+}
+
+.alternateTitleColorBigger {
+  font-size:5.1rem;
+}
+
+}
+
+@media (max-width: 321px) and (orientation: portrait) {
+
+.titleShadow {
+  font-size:1rem;
+}
+
+.specialCursiveOne, .alternateTitleColor, .alternateTitleColorUppercase {
+  font-size: 2.1rem;
+}
+
+.alternateTitleColorBigger {
+  font-size:4.1rem;
+}
+
+}
+
