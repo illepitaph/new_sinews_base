@@ -1,0 +1,169 @@
+.titleShadow {
+  display: block;
+  font-size: 3.1rem;
+  color: black;
+  text-shadow: 2px 2px #b2d3c2, 4px 4px black, 6px 6px #b2d3c2;
+  letter-spacing: 1rem;
+  text-align: right;
+  margin: -18vh 10vw 0 0;
+}
+
+.inverseShadow {
+  color: snow;
+  text-shadow: 2px 2px black, 4px 4px 12px silver;
+}
+
+.titleShadowUppercase {
+  color: black;
+  text-shadow: 2px 2px snow, 4px 4px #b0b0b0;
+  text-transform: uppercase;
+}
+
+.inverseShadowUppercase {
+  color: snow;
+  text-shadow: 2px 2px black, 3px 3px white, 4px 4px black, 5px 5px 12px silver;
+  text-transform: uppercase;
+}
+
+.alternateTitleColor {
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-size: 6.3rem;
+  color: black;
+  text-shadow: 4px 4px snow, 8px 8px gainsboro;
+}
+
+.alternateTitleColorBigger {
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-size: 10.3rem;
+  color: black;
+  text-shadow: 4px 4px snow, 8px 8px gainsboro;
+}
+
+.alternateTitleColorUppercase {
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-size: 6.3rem;
+  color: black;
+  text-transform: uppercase;
+  text-shadow: 4px 4px snow, 8px 8px gainsboro;
+}
+
+.alternateTitleColorTwo {
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-size: 5.1rem;
+  color: #d3d2b2;
+  text-transform: uppercase;
+  text-shadow: 2px 2px black;
+}
+
+.skewLeft {
+  display: inline-block;
+  transform: skew(20deg, -30deg);
+}
+
+.skewUp {
+  display: inline-block;
+  transform: translateY(-2rem);
+}
+
+.skewDown {
+  display: inline-block;
+  transform: translateY(2rem);
+}
+
+.marginRight {
+  display: inline-block;
+  margin-right:5vw;
+}
+
+.title {
+  display: block;
+  font-size: 3.1rem;
+  color: black;
+  text-shadow: 2px 2px white, 4px 4px black, 6px 6px black;
+  letter-spacing: 2rem;
+  text-align: right;
+  margin-right: 20vw;
+}
+
+.titleShadow {
+  text-shadow: 2px 2px snow, 4px 4px #b0b0b0, 6px 6px snow, 8px 8px #b0b0b0;
+}
+
+.inverseShadow {
+  color: black;
+  text-shadow: 4px 4px snow, 6px 6px black, 10px 10px 12px #b0b0b0;
+}
+
+.specialCursiveOne {
+  font-size: 6.1rem;
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-weight: 400;
+  text-align: right;
+  text-transform: uppercase;
+  letter-spacing: 2.02rem;
+  line-height: 0.8em;
+  color: white;
+  text-shadow: 2px 2px 4px black, 3px 4px 8px #d3d2b2;
+}
+
+.specialCursiveTwo {
+  font-size: 9.1rem;
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-weight: 400;
+  text-align: right;
+  text-transform: lowercase;
+  letter-spacing: 5.02rem;
+  line-height: 0.8em;
+  color: white;
+  text-shadow: 2px 2px 4px black, 3px 4px 8px #d3d2b2;
+}
+
+.specialCursiveThree {
+  font-size: 6.1rem;
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-weight: 400;
+  text-transform: lowercase;
+  letter-spacing: 0.52rem;
+  color: white;
+  text-shadow: 2px 2px 4px black, 3px 4px 8px #d3d2b2;
+}
+
+.nameIndent {
+  display: inline-block;
+  margin-left: 2vw;
+}
+
+.nameSpacing {
+  display:flex;
+  justify-content: flex-end;
+  letter-spacing: -0.3rem;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+@media (max-width: 431px) and (orientation: portrait) {
+
+  .authorName {
+    font-size: 3rem;
+  }
+}
+
+@media (max-width: 429px) and (orientation: portrait) {
+  .authorName {
+    font-size: 2.7rem;
+  }
+}
+
+@media (max-width: 391px) and (orientation: portrait) {
+  .authorName {
+    font-size: 2.4rem;
+  }
+}
+
+@media (max-width: 321px) and (orientation: portrait) {
+  .authorName {
+    font-size: 2rem;
+  }
+}
