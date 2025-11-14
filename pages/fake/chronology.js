@@ -11,14 +11,14 @@ Chronology.pieceName =
   "lisa_hsiao_chen ~ a_chronology_of_the_not-too-distant_future  — new_sinews";
 Chronology.description =
   "_Lisa Hsiao Chen_fiction_A CHRONOLOGY OF THE NOT-TOO-DISTANT FUTURE_new_sinews_issue9_";
-Chronology.image = "https://www.newnewsinews.com/images/MossBackground.jpg";
+Chronology.image = "https://www.newnewsinews.com/images/ChronologyBackground.jpg";
 
 export default function Chronology() {
   return (
     <>
       <Head />
 
-      <Header headerBackground="mossBackground" />
+      <Header headerBackground="chronologyBackground" />
       <LeftGrayTitle>
         <span className={styles.titleShadow}>
           <span className={styles.alternateTitleColor}>a </span>
