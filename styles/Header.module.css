@@ -466,6 +466,10 @@
   background-image: url("../public/images/ChronologyBackground.jpg");
 }
 
+.graffitoBackground {
+  background-image: url("../public/images/GraffitoBackground.jpg");
+}
+
 @media (width: 1366px) and (height: 1024px) {
   .siteNav > .dropDown > a > button,
   .home,

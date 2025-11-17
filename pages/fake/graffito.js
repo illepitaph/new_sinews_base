@@ -7,16 +7,16 @@ import Footer from "../../components/footer.js";
 import styles from "../../styles/Graffito.module.css";
 import AudioPlayer from "react-h5-audio-player";
 import "react-h5-audio-player/lib/styles.css";
-Graffito.title = "gabriel_palacios ~ rival graveyards — new_sinews";
-Graffito.pieceName = "gabriel_palacios ~ rival graveyards — new_sinews";
-Graffito.description = "_Gabriel Palacios_poetry_RIVAL GRAVEYARDS_issue7_";
+Graffito.title = "gabriel_palacios ~ fuck i look like fighting ++ that would-be datacenter — new_sinews";
+Graffito.pieceName = "gabriel_palacios ~ fuck i look like fighting ++ that would-be datacenter — new_sinews";
+Graffito.description = "_Gabriel Palacios_poetry_THREE POEMS_issue9_";
 Graffito.image = "https://www.newnewsinews.com/images/GraveyardsBackground.jpg";
 
 export default function Graffito() {
   return (
     <>
       <Head />
-      <Header headerBackground="graveyardsBackground" />
+      <Header headerBackground="graffitoBackground" />
 
       <br />
       <br />
@@ -34,7 +34,8 @@ export default function Graffito() {
           <span className={styles.uppercase}>
             {" "}
             <span className={styles.gap}></span>
-            <i>l e</i><br/> v
+            <i>l e</i>
+            <br /> v
           </span>{" "}
           <span className={styles.uppercase}>i S</span>i o<i>n</i>
           <br />
@@ -50,11 +51,17 @@ export default function Graffito() {
           <span className={styles.uppercase}>
             <i>f </i>
           </span>
-          f<br />i
+          fi
           <span className={styles.uppercase}>
             {" "}
             <i>t</i>
           </span>{" "}
+          <br />
+          <span className={styles.gap}></span>
+          <span className={styles.gap}></span>
+          <span className={styles.gap}></span>
+          <span className={styles.gap}></span>
+          <span className={styles.gap}></span>
           <span className={styles.uppercase}>o</span>
           <br />
           <br />
@@ -67,17 +74,16 @@ export default function Graffito() {
         <span className={styles.titleShadow}>
           ++ de<span className={styles.uppercase}>a</span>
           <span className={styles.uppercase}>
-            <i>r </i>
-          </span>
-          <br />s
+            <i>r </i> _ 
+          </span> s
           <span className={styles.uppercase}>
             <i>m</i>
           </span>
           a
           <span className={styles.uppercase}>
-            <i> r</i>
+            <i>r</i>
           </span>
-          t <br/>c<span className={styles.uppercase}>i</span>
+          t <br />c<span className={styles.uppercase}>i</span>
           <i> t</i>y
           <br />
           <br />t
@@ -258,9 +264,15 @@ She mouths to me through vapor ripples  
 walking from the Food Mart.  
  
 	what 
-        `}<i>the card the card’s declined</i>{` 
+        `}
+        <i>the card the card’s declined</i>
+        {` 
 	goddamn it 
-	`}<i>there’s a hundred dollar hold on the account for the gas that’s why</i>{`  
+	`}
+        <i>
+          there’s a hundred dollar hold on the account for the gas that’s why
+        </i>
+        {`  
 	hey I don’t know how much they hold 
 
 	it’s Cream of Wheat for dinner isn’t it. 
@@ -284,10 +296,18 @@ you’re running from.  
 It’s over. 
 Marlon Brando’s saying to Connie Chung
   
-`}<i>uh what’s the difference</i>{`    
-`}<i>see that’s part of</i>{`    
-`}<i>the sickness</i>{`    
-`}<i>in America</i>{`     
+`}
+        <i>uh what’s the difference</i>
+        {`    
+`}
+        <i>see that’s part of</i>
+        {`    
+`}
+        <i>the sickness</i>
+        {`    
+`}
+        <i>in America</i>
+        {`     
 (I think?— 
 the volume’s down) 
  
@@ -368,14 +388,14 @@ to know how missed I am before it passes.`}</pre>
       <br />
       <br />
 
-      <h3 className={styles.poemTitle}>Dear Smart City Telecom Of Celebration, Florida </h3>
+      <h3 className={styles.poemTitle}>
+        Dear Smart City Telecom Of Celebration, Florida 
+      </h3>
 
       <br />
       <br />
 
-            <pre
-        className={styles.poem}
-      >{`You heard I came up lacking  
+      <pre className={styles.poem}>{`You heard I came up lacking  
 the equipment to be critical of BOGO 
 propositions, 
 just thrilled to be alive  
@@ -391,7 +411,8 @@ on daiquirimachinelight.
 
 That nourishment kept pace with my  
 confabulation  
-of the names.     
+of the 
+names.     
 
 Names for every mall fern no one told me  
 to stop watering— 
