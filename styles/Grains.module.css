@@ -46,14 +46,16 @@
     letter-spacing: 1rem;
 }
 
-.shadowOne {
-  font-size: 1.9rem;
-  font-family: "lores-9-plus-wide", monospace;
-  font-weight: 700;
-  color: black;
-  text-shadow: 2px 2px white, 3px 3px black, 4px 4px white, 5px 5px black;
-  letter-spacing: 0.1rem;
-  text-transform: uppercase;
+.poem {
+  max-width: 70vw;
+  font-family: "base-9-sans", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 1.2rem;
+  text-shadow: 2px 2px gainsboro;
+  letter-spacing: -0.02rem;
+  line-height: 1.7em;
+  margin-left: 23vw;
 }
 
 @media (max-width: 933px) and (orientation: landscape) {
@@ -89,10 +91,6 @@
 }
 
 @media (max-width: 431px) and (orientation: portrait) {
-  .shadowOne {
-    font-size: 1.3rem;
-
-  }
 
     .boxSpacing {
         letter-spacing: 0;
