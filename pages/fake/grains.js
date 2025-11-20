@@ -15,37 +15,32 @@ export default function Grains() {
       <Head />
 
       <Header headerBackground="needleBackground" />
-      <br />
-      <br />
-      <br />
-      <br />
       <LeftGrayTitle>
         <span className={styles.titleShadow}>
-          <span className={styles.inverseShadowUppercase}>&#9744;</span>&#9744;
-          <span className={styles.inverseShadowUppercase}>&#9744;</span> b
-          <span className={styles.inverseShadowUppercase}>r</span>
+          <span className={styles.boxSpacing}>
+            <span className={styles.inverseShadowUppercase}>&#9744;</span>
+            <br />
+            &#9744;
+            <span className={styles.inverseShadowUppercase}>&#9744;</span>
+          </span>
+          <br />b<span className={styles.inverseShadowUppercase}>r</span>
+          <br />
           <span className={styles.inverseShadow}>
             <i>a </i>
           </span>
           <span className={styles.inverseShadowUppercase}>n</span>
+          <br />
           <span className={styles.titleShadowUppercase}>d</span>
           <span className={styles.inverseShadow}>o</span>
-          <span className={styles.titleShadowUppercase}>n</span>
           <br />
-          <span className={styles.titleShadowUppercase}>&#9744;</span>
-          <span className={styles.extraMarginOne}></span>
-          <span className={styles.inverseShadow}>&#9744;</span>
-          <span className={styles.titleShadowUppercase}>&#9744;</span>
-          <span className={styles.inverseShadow}>&#9744;</span>
-          <span className={styles.extraMarginOne}></span>
-          <span className={styles.titleShadowUppercase}>&#9744;</span>
-          <span className={styles.inverseShadow}>&#9744;</span>
-          <span className={styles.extraMarginOne}></span>
-          <span className={styles.titleShadowUppercase}>&#9744;</span>
-          <span className={styles.inverseShadow}>&#9744;</span>
-          <span className={styles.titleShadowUppercase}>&#9744;</span>
-          <span className={styles.extraMarginOne}></span>
-          <span className={styles.inverseShadow}>&#9744;</span>
+          <span className={styles.titleShadowUppercase}>n</span>
+          <span className={styles.inverseShadowUppercase}>&#9744;</span>
+          <br />
+          &#9744;
+          <br />
+          <br />
+          <br />
+          <br />
           <br />
           <span className={styles.inverseShadow}>s</span>
           <span className={styles.titleShadowUppercase}>h</span>
@@ -57,62 +52,124 @@ export default function Grains() {
           <span className={styles.inverseShadow}>
             <i>a</i>{" "}
           </span>
-          <span className={styles.inverseShadowUppercase}>&#9744;</span>&#9744;
-          <span className={styles.inverseShadowUppercase}>&#9744;</span>
+          <span className={styles.boxSpacing}>
+            &#9744;
+            <span className={styles.inverseShadowUppercase}>&#9744;</span>
+            &#9744;
+          </span>
         </span>
       </LeftGrayTitle>
       <br />
       <br />
+      <LeftGrayTitle>
+        <span className={styles.titleShadow}>
+          <span className={styles.boxSpacing}>
+            <span className={styles.titleShadowUppercase}>&#9744;</span>
+            <span className={styles.extraMarginOne}></span>
+            <span className={styles.inverseShadow}>&#9744;</span>
+            <span className={styles.titleShadowUppercase}>&#9744;</span>
+            <span className={styles.inverseShadow}>&#9744;</span>
+            <span className={styles.extraMarginOne}></span>
+            <span className={styles.titleShadowUppercase}>&#9744;</span>
+            <br />
+            <span className={styles.inverseShadow}>&#9744;</span>
+            <span className={styles.extraMarginOne}></span>
+            <span className={styles.titleShadowUppercase}>&#9744;</span>
+            <span className={styles.inverseShadow}>&#9744;</span>
+            <span className={styles.titleShadowUppercase}>&#9744;</span>
+            <span className={styles.extraMarginOne}></span>
+            <span className={styles.inverseShadow}>&#9744;</span>
+          </span>
+        </span>
+      </LeftGrayTitle>
       <br />
       <br />
       <LeftGrayTitle>
         <span className={styles.title}>
           <span className={styles.titleShadow}>
             <span className={styles.extraMarginTwo}>
-            <span className={styles.inverseShadow}> g </span>
-            <span className={styles.titleShadowUppercase}>r</span>
-            <span className={styles.inverseShadowUppercase}>a</span>
-            <span className={styles.inverseShadow}>
-              <i>i </i>
-            </span>
-            <span className={styles.titleShadowUppercase}>n</span>
-            <span className={styles.inverseShadow}>s </span>
+              <span className={styles.inverseShadow}> g </span>
+              <span className={styles.titleShadowUppercase}>r</span>
+              <span className={styles.inverseShadowUppercase}>a</span>
+              <span className={styles.inverseShadow}>
+                <i>i </i>
+              </span>
+              <span className={styles.titleShadowUppercase}>n</span>
+              <span className={styles.inverseShadow}>s </span>
             </span>
             <br />
-              <br />
+            <br />
 
-              
-              <span className={styles.inverseShadow}> o</span>
-              <span className={styles.titleShadowUppercase}>f</span>
-               <span className={styles.extraMarginOne}>
+            <span className={styles.inverseShadow}> o</span>
+            <span className={styles.titleShadowUppercase}>f</span>
+            <span className={styles.extraMarginOne}>
               <span className={styles.titleShadowUppercase}>&#9744;</span>
               <span className={styles.inverseShadow}>&#9744;</span>
               <span className={styles.extraMarginOne}></span>
               <span className={styles.titleShadowUppercase}>&#9744;</span>
               <span className={styles.inverseShadow}>&#9744;</span>
               <span className={styles.titleShadowUppercase}>&#9744;</span>
-                <span className={styles.extraMarginOne}>
-              <span className={styles.inverseShadow}>&#9744;</span>
-              <span className={styles.titleShadowUppercase}>&#9744;</span>
+              <span className={styles.extraMarginOne}>
+                <span className={styles.inverseShadow}>&#9744;</span>
+                <span className={styles.titleShadowUppercase}>&#9744;</span>
               </span>
             </span>
             <br />
-             <br />
+            <br />
             <span className={styles.extraMarginTwo}>
               <span className={styles.inverseShadowUppercase}>r</span>
-              </span>
-              <br/>
-              <span className={styles.extraMarginTwo}>
-              <i>i</i>
-              </span>
-              <br/>
-               <span className={styles.extraMarginTwo}>
-              <span className={styles.titleShadowUppercase}> c</span>
-              </span>
-              <br/>
-              <span className={styles.extraMarginTwo}>
-              <span className={styles.inverseShadow}>e</span>
-              </span>
+            </span>
+            <i>i</i>
+            <br />
+            <span className={styles.extraMarginTwo}>
+              <span className={styles.titleShadowUppercase}>c</span>
+            </span>
+              <span className={styles.inverseShadow}><i>e</i></span>
+          </span>
+        </span>
+      </LeftGrayTitle>
+      <br/>
+      <br/>
+       <LeftGrayTitle>
+        <span className={styles.titleShadowTwo}>
+          <span className={styles.boxSpacing}>
+            <span className={styles.titleShadowUppercase}>&#9744;</span>
+            <span className={styles.extraMarginOne}></span>
+            <span className={styles.inverseShadow}>&#9744;</span>
+            <span className={styles.titleShadowUppercase}>&#9744;</span>
+            <span className={styles.inverseShadow}>&#9744;</span>
+            <span className={styles.extraMarginOne}></span>
+            <span className={styles.titleShadowUppercase}>&#9744;</span>
+            <br />
+            <span className={styles.inverseShadow}>&#9744;</span>
+            <span className={styles.extraMarginOne}></span>
+            <span className={styles.titleShadowUppercase}>&#9744;</span>
+            <span className={styles.inverseShadow}>&#9744;</span>
+            <span className={styles.titleShadowUppercase}>&#9744;</span>
+            <span className={styles.extraMarginOne}></span>
+            <span className={styles.inverseShadow}>&#9744;</span>
+          </span>
+        </span>
+      </LeftGrayTitle>
+
+       <LeftGrayTitle>
+        <span className={styles.titleShadowTwo}>
+          <span className={styles.boxSpacing}>
+            <span className={styles.titleShadowUppercase}>&#9744;</span>
+            <span className={styles.extraMarginOne}></span>
+            <span className={styles.inverseShadow}>&#9744;</span>
+            <span className={styles.titleShadowUppercase}>&#9744;</span>
+            <span className={styles.inverseShadow}>&#9744;</span>
+            <span className={styles.extraMarginOne}></span>
+            <span className={styles.titleShadowUppercase}>&#9744;</span>
+            <br />
+            <span className={styles.inverseShadow}>&#9744;</span>
+            <span className={styles.extraMarginOne}></span>
+            <span className={styles.titleShadowUppercase}>&#9744;</span>
+            <span className={styles.inverseShadow}>&#9744;</span>
+            <span className={styles.titleShadowUppercase}>&#9744;</span>
+            <span className={styles.extraMarginOne}></span>
+            <span className={styles.inverseShadow}>&#9744;</span>
           </span>
         </span>
       </LeftGrayTitle>

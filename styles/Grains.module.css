@@ -3,10 +3,19 @@
   font-size: 4.3rem;
   color: black;
   text-shadow: 2px 2px snow, 6px 6px #00ffff;
-  letter-spacing: 0.7rem;
-  line-height:9rem;
-  transform: skew(19deg, 1.4deg);
+  letter-spacing: -0.1rem;
+  line-height:5rem;
 }
+
+.titleShadowTwo {
+  display: inline-block;
+  font-size: 4.3rem;
+  color: black;
+  text-shadow: 2px 2px snow, 6px 6px #00ffff;
+  letter-spacing: -0.1rem;
+  line-height:1rem;
+}
+
 
 .inverseShadow {
   color: snow;
@@ -30,7 +39,11 @@
 }
 
 .extraMarginTwo {
-  margin-left: 12.5vw;
+  margin-left: 7.5vw;
+}
+
+.boxSpacing {
+    letter-spacing: 1rem;
 }
 
 .shadowOne {
@@ -78,7 +91,12 @@
 @media (max-width: 431px) and (orientation: portrait) {
   .shadowOne {
     font-size: 1.3rem;
+
   }
+
+    .boxSpacing {
+        letter-spacing: 0;
+    }
 }
 
 @media (max-width: 394px) and (orientation: portrait) {
