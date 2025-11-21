@@ -470,6 +470,10 @@
   background-image: url("../public/images/GraffitoBackground.jpg");
 }
 
+.grainsBackground {
+  background-image: url("../public/images/GrainsBackground.jpg");
+}
+
 @media (width: 1366px) and (height: 1024px) {
   .siteNav > .dropDown > a > button,
   .home,

@@ -10,7 +10,7 @@ import "react-h5-audio-player/lib/styles.css";
 Graffito.title = "gabriel_palacios ~ fuck i look like fighting ++ that would-be datacenter — new_sinews";
 Graffito.pieceName = "gabriel_palacios ~ fuck i look like fighting ++ that would-be datacenter — new_sinews";
 Graffito.description = "_Gabriel Palacios_poetry_THREE POEMS_issue9_";
-Graffito.image = "https://www.newnewsinews.com/images/GraveyardsBackground.jpg";
+Graffito.image = "https://www.newnewsinews.com/images/GraffitoBackground.jpg";
 
 export default function Graffito() {
   return (
