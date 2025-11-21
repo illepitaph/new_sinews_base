@@ -58,16 +58,82 @@
   margin-left: 23vw;
 }
 
+@media (width: 1194px) and (height: 834px) {
+  .poem {
+    max-width: 90vw;
+    margin-left: 9vw;
+  }
+}
+
+@media (width: 1180px) and (height: 820px) {
+  .poem {
+    max-width: 90vw;
+    margin-left: 9vw;
+  }
+}
+
+@media (width: 1080px) and (height: 810px) {
+  .poem {
+    max-width: 90vw;
+    margin-left: 9vw;
+  }
+}
+
+@media (width: 1024px) and (height: 1366px) {
+  .poem {
+    max-width: 94vw;
+    margin-left: 6vw;
+  }
+}
+
+@media (width: 1024px) and (height: 768px) {
+  .poem {
+    max-width: 94vw;
+    margin-left: 6vw;
+  }
+}
+
+@media (width: 1024px) and (height: 600px) {
+  .poem {
+    max-width: 90vw;
+    margin-left: 9vw;
+  }
+}
+
 @media (max-width: 933px) and (orientation: landscape) {
   .titleShadow {
     font-size: 3.8rem;
+  }
+
+   .poem {
+    max-width: 90vw;
+    margin-left: 9vw;
+    white-space: pre-wrap;
   }
 }
 
 @media (max-width: 913px) and (orientation: portrait) {
   .titleShadow {
-    font-size: 3rem;
+    font-size: 3.8rem;
   }
+}
+
+@media (max-width: 813px) and (orientation: landscape) {
+
+
+  .poem {
+    font-size:1.1rem;
+  }
+  
+}
+
+@media (max-width: 761px) and (orientation: landscape) {
+
+
+  .poem {
+    font-size:1rem;
+  }
+  
 }
 
 @media (max-width: 668px) and (orientation: landscape) {
@@ -79,14 +145,21 @@
 
 @media (max-width: 541px) and (orientation: portrait) {
   .titleShadow {
+    font-size:3.1rem;
     margin-left: 1vw;
-    font-size: 2.3rem;
     letter-spacing: 0.3rem;
   }
 
   .inverseShadow,
   .inverseShadowUppercase {
     text-shadow: 1px 1px black, 3px 3px #aaf0d1, 5px 5px black;
+  }
+
+    .poem {
+    max-width: 98vw;
+    font-size: 0.95rem;
+    margin-left: 1vw;
+    white-space: pre-wrap;
   }
 }
 
@@ -99,19 +172,23 @@
 
 @media (max-width: 394px) and (orientation: portrait) {
   .titleShadow {
-    font-size: 2rem;
     letter-spacing: 0.3rem;
   }
 }
 
-@media (max-width: 354px) and (orientation: portrait) {
+@media (max-width: 391px) and (orientation: portrait) {
   .titleShadow {
-    font-size: 1.6rem;
+    font-size: 2.6rem;
+  }
+
+    .poem {
+    font-size: 0.87rem;
   }
 }
 
 @media (max-width: 281px) and (orientation: portrait) {
-  .titleShadow {
-    font-size: 1.3rem;
+
+    .poem {
+    font-size: 0.55rem;
   }
 }
