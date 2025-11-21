@@ -14,8 +14,9 @@ export default function Grains() {
   return (
     <>
       <Head />
-
       <Header headerBackground="grainsBackground" />
+          <br />
+    <br />
       <LeftGrayTitle>
         <span className={styles.titleShadow}>
           <span className={styles.boxSpacing}>
