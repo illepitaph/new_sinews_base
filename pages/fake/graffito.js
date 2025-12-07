@@ -26,7 +26,7 @@ export default function Graffito() {
 
       <RightBlackTitle>
         <span className={styles.titleShadow}>
-          s c<span className={styles.uppercase}>R</span>
+          z c<span className={styles.uppercase}>R</span>
           <span className={styles.uppercase}>
             <i>a </i>
           </span>
