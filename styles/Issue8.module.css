@@ -189,15 +189,15 @@
     opacity: 0.1;
   }
   
-  .siteShortcuts {
+  .siteShortcuts > a {
     display: flex;
     flex-flow: row;
-    column-gap: 1.2vw;
+    column-gap: 1.5vw;
     justify-content: space-between;
     align-items: flex-end;
   }
   
-  .siteShortcuts > .linkButton {
+  .siteShortcuts > a > .linkButton {
     display:inline-block;
     width: 13vw;
     margin-bottom:1.5vh;
@@ -215,7 +215,7 @@
     cursor: pointer;
   }
   
-  .siteShortcuts > .linkButton:hover {
+  .siteShortcuts > a > .linkButton:hover {
     opacity: 0.2;
   }
   
