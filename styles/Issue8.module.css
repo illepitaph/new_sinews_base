@@ -228,11 +228,11 @@
       text-shadow:2px 2px black;
     }
   
-    .siteShortcuts {
+    .siteShortcuts > a {
       flex-flow: row;
     }
   
-    .siteShortcuts > .linkButton {
+    .siteShortcuts > a > .linkButton {
       width: 12vw;
       font-size:1rem;
     }
@@ -243,11 +243,11 @@
       top: 8.5vh;
     }
   
-    .siteShortcuts {
+    .siteShortcuts > a {
       flex-flow: row;
     }
   
-    .siteShortcuts > .linkButton {
+    .siteShortcuts > a > .linkButton {
       width: 12vw;
       font-size:1rem;
     }
@@ -267,11 +267,11 @@
       top: 11vh;
     }
   
-    .siteShortcuts {
+    .siteShortcuts > a {
       flex-flow: row;
     }
   
-    .siteShortcuts > .linkButton {
+    .siteShortcuts > a > .linkButton {
       width: 12vw;
       font-size:1rem;
     }
@@ -287,11 +287,11 @@
       top: 13vh;
     }
   
-    .siteShortcuts {
+    .siteShortcuts > a {
       flex-flow: row;
     }
   
-    .siteShortcuts > .linkButton {
+    .siteShortcuts > a > .linkButton {
       width: 12vw;
       font-size:1rem;
     }
@@ -317,7 +317,7 @@
       top: 13vh;
     }
   
-    .siteShortcuts {
+    .siteShortcuts > a {
       flex-flow: row;
     }
 
@@ -342,7 +342,7 @@
       margin-top:9vh;
     }
   
-    .siteShortcuts {
+    .siteShortcuts > a {
       flex-flow: row;
     }
 
@@ -367,11 +367,11 @@
       top: 8vh;
     }
   
-    .siteShortcuts {
+    .siteShortcuts > a {
       flex-flow: row;
     }
   
-    .siteShortcuts > .linkButton {
+    .siteShortcuts > a > .linkButton {
       width: 12vw;
       font-size:1rem;
       letter-spacing: 0;
@@ -400,11 +400,11 @@
       top: 10vh;
     }
   
-    .siteShortcuts {
+    .siteShortcuts > a {
       flex-flow: row;
     }
 
-    .siteShortcuts > .linkButton {
+    .siteShortcuts > a > .linkButton {
       letter-spacing:0;
     }
 
@@ -434,11 +434,11 @@
       margin-top:9vh;
     }
   
-    .siteShortcuts {
+    .siteShortcuts > a {
       flex-flow: row;
     }
 
-    .siteShortcuts > .linkButton {
+    .siteShortcuts > a > .linkButton {
       letter-spacing:0;
     }
 
@@ -478,11 +478,11 @@
       margin-top:20vh;
     }
   
-    .siteShortcuts {
+    .siteShortcuts > a {
       flex-flow: row;
     }
   
-    .siteShortcuts > .linkButton {
+    .siteShortcuts > a > .linkButton {
       width: 12vw;
       font-size: 0.9rem;
       letter-spacing:0;
@@ -511,11 +511,11 @@
       margin-top:26vh;
     }
   
-    .siteShortcuts {
+    .siteShortcuts > a {
       flex-flow: row;
     }
 
-    .siteShortcuts > .linkButton {
+    .siteShortcuts > a > .linkButton {
       font-size:1rem;
       letter-spacing:0;
     }
@@ -527,7 +527,7 @@
       letter-spacing: 0.3rem;
     }
 
-    .siteShortcuts > .linkButton {
+    .siteShortcuts > a > .linkButton {
       font-size: 0.8rem;
     }
   }
@@ -554,12 +554,12 @@
       margin-top:23vh;
     }
   
-    .siteShortcuts {
+    .siteShortcuts > a {
       flex-flow: row;
       margin-top:2vh;
     }
 
-    .siteShortcuts > .linkButton {
+    .siteShortcuts > a > .linkButton {
       font-size:1rem;
       letter-spacing:0;
     }
@@ -584,12 +584,12 @@
     }
   
   
-    .siteShortcuts {
+    .siteShortcuts > a {
       flex-flow: row;
       margin-top:2vh;
     }
   
-    .siteShortcuts > .linkButton {
+    .siteShortcuts > a > .linkButton {
       width: 12vw;
       font-size:0.7rem;
     }
@@ -605,7 +605,7 @@
       margin-top:10vh;
     }
 
-    .siteShortcuts > .linkButton {
+    .siteShortcuts > a > .linkButton {
       font-size: 0.77rem;
     }
 
@@ -633,7 +633,7 @@
       letter-spacing: 0.02rem;
     }
 
-    .siteShortcuts > .linkButton {
+    .siteShortcuts > a > .linkButton {
       font-size: 0.6rem;
     }
   }
@@ -651,7 +651,7 @@
       line-height: 1.3rem;
     }
 
-    .siteShortcuts > .linkButton {
+    .siteShortcuts > a > .linkButton {
       width: 25vw;
       font-size: 0.88rem;
     }
@@ -678,11 +678,11 @@
       margin-top:25vh;
     }
   
-    .siteShortcuts {
+    .siteShortcuts > a {
       flex-flow: row;
     }
 
-    .siteShortcuts > .linkButton {
+    .siteShortcuts > a > .linkButton {
       width:auto;
       font-size:0.5rem;
       letter-spacing:0;
@@ -710,12 +710,12 @@
       margin-top:30vh;
     }
   
-    .siteShortcuts {
+    .siteShortcuts > a {
       flex-flow: column;
       margin-top: 1vh;
     }
   
-    .siteShortcuts > .linkButton {
+    .siteShortcuts > a > .linkButton {
       width: 24vw;
       font-size: 0.8rem;
       letter-spacing:0;
@@ -728,7 +728,7 @@
       font-size:1.3rem;
     }
 
-    .siteShortcuts > .linkButton {
+    .siteShortcuts > a > .linkButton {
       width:21vw;
       font-size: 0.54rem;
     }
@@ -751,7 +751,7 @@
       font-size: 1.2rem;
     }
 
-    .siteShortcuts > .linkButton {
+    .siteShortcuts > a > .linkButton {
       font-size: 0.49rem;
     }
   }
