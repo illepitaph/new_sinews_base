@@ -69,22 +69,22 @@ export default function Shortbread() {
       <pre className={styles.title}>
         <span className={styles.titleTwo}>
           <span className={styles.special}>z</span> e
-        <span className={styles.special}>b</span>u
-        <span className={styles.uppercase}> l</span>o
-        <span className={styles.uppercase}>n</span> 
-        <span className={styles.marginTwo}></span>
-        h<span className={styles.special}> o</span>
-        <span className={styles.uppercase}>r</span>{" "}
-        <span className={styles.specialTwo}>s </span>
-        <i>e</i>
+          <span className={styles.special}>b</span>u
+          <span className={styles.uppercase}> l</span>o
+          <span className={styles.uppercase}>n</span>
+          <span className={styles.marginTwo}></span>h
+          <span className={styles.special}> o</span>
+          <span className={styles.uppercase}>r</span>{" "}
+          <span className={styles.specialTwo}>s </span>
+          <i>e</i>
         </span>{" "}
         <span className={styles.margin}></span>
         <span className={styles.special}>z</span> e
         <span className={styles.special}>b</span>u
         <span className={styles.uppercase}> l</span>o
-        <span className={styles.uppercase}>n</span> 
-        <span className={styles.marginTwo}></span>
-        h<span className={styles.special}> o</span>
+        <span className={styles.uppercase}>n</span>
+        <span className={styles.marginTwo}></span>h
+        <span className={styles.special}> o</span>
         <span className={styles.uppercase}>r</span>{" "}
         <span className={styles.specialTwo}>s </span>
         <i>e</i>
@@ -114,195 +114,85 @@ export default function Shortbread() {
         <br />
         <br />
         <br />
-        The commute was subtly unpleasant, although there was no basis for
-        complaint. The passengers more than behaved themselves, refraining from
-        talking into their cell phones or, for that matter, to each other.
-        Queuing and boarding was a thing of beauty. For all the emphasis on
-        surfaces here, the vulnerability left for everyone to see in public
-        spaces, sleeping on trains, on doorsteps, or in a cafe, could be viewed
-        not as embarrassments of defeat, but celebrations of trust. Still, there
-        was a weariness. One time he found himself sitting across from a young
-        couple who were leaning into each other and giggling. Clearly they had
-        been at it all morning. It was nothing outrageous, just a reminder that
-        hardly anybody ever even smiled on the train.
+        Hey, Granddad, I called, swinging the batwing doors addorsed, I’ll have
+        one of yours—neat.
         <br />
         <br />
-        He learned to keep his feelings to himself as well. Sometimes he had his
-        head buried in a book, using a jacket cover so as not to alert his
-        fellow riders as to what he was reading, since it was not in Japanese
-        and might draw attention and disturb them, but later on he learned the
-        utility of just closing his eyes. So long as he did not open his mouth
-        to speak, particularly when he was wearing a suit, he was one of them.
-        This ability, if that was what it was, came into play here with more
-        complex rules of engagement than he encountered back home. People even
-        pegged him for Japanese in Taiwan, where he thought they should have
-        seen through him without hearing his accent. Was he, somehow, Japanese?
-        The atmosphere soaked into you. It became a part of you.
+        My own back was turned against the outgoing gust: lager vapor, and the
+        lingering tar of the nineties. The outside door of Olaf’s was hung out
+        of plumb, and took practiced maneuvers to pull to—which you had to do,
+        lest it spring back to smack against aluminum louvers on the shuttered
+        front of the shoestore next door. So inside, and in so doing—the
+        practiced maneuvers, I mean—I was always falling backward through the
+        batwings. And that night was no exception.
         <br />
         <br />
-        It was not a long ride. He could make it door-to-door in fifty minutes.
-        The precision of the trains made it possible to calculate his arrival
-        time exactly. It took seven minutes to walk from the subway platform to
-        his “mansion.” Coming home, it was up a gradual slope.
+        Even with the time it took to catch my fall, I caught Granddad’s scowl
+        when I turned around.
         <br />
         <br />
-        The kanji on the sign, which he could understand but not at first
-        pronounce, read, “fishing basket hill.” There was no river evident
-        nearby, but in premodern times, before Tokyo Bay was filled, the waves
-        of Shinagawa might have reached this far. Across from the subway station
-        were a ramen shop, a French bakery, and a mom-and-pop home electronics
-        store. It was a gray, quiet neighborhood with a profusion of temples.
-        One of them had its gate guarded by a trio of red-bibbed jizo statues.
-        Behind him, as he walked up the hill, was the very different,
-        science-fictional spectacle of Mori Tower. The Japanese seemed to refer
-        to it simply as “Roppongi Hills.” And although he could not perceive it
-        directly, if he looked into the upper story windows of certain apartment
-        buildings when the sun was shining, he saw the reflection of Tokyo
-        Tower.
+        And to what: turned out, to new stars fixed in the glittering firmament,
+        the heaven of bottles behind the bar. Granddad was cowled in glory,
+        stuck up at the head of an incandescent choir of brighter angels. A
+        constellation of startling colors: Aperol orange, Bombay sapphire and
+        the brilliant blue of curaçao. I spotted Campari’s limpid crimson, the
+        same red as broached the vermouth’s viridian throat: blazoned a plate
+        charged with a tart, or else the roundel sun, set within the inner Oort
+        cloud of an argent annulet, and rising on either side of its horizon—the
+        label sable over all. Or just, let’s say, the red of impressed wax on
+        Tanqueray. I was impressed, anyway. All these glowed within the warm
+        well whiskey golds of Early Times and the Olds—Forester, Granddad,
+        Overholt—and also, through thick and faceted glass, the pale algal green
+        of gin, the colorless clearness of cereal vodkas.
         <br />
         <br />
-        Only seven minutes. But it felt long going uphill, encumbered by his
-        dress shoes and handbag. It was the same, deliberate march of the other
-        men he saw making their way up and down the slope.
+        Granddad had been a couple of classes below me at Willard. I didn’t
+        remember his first name, but everyone knew his family: he was Olaf
+        Aldinger’s kid, and born to the establishment. Although you wouldn’t
+        know it from his aptitude. His attitude, maybe—Olaf never cared for me,
+        either. When first the younger Aldinger started behind the bar, I’d fall
+        through the doors, and call, Well whiskey, neat—and he always wanted to
+        know, Well, which. Whereas, if you can palm off the bottom of the bottom
+        shelf to someone who doesn’t care, like I don’t, don’t you just. I would
+        call out, <i>Well</i>, Granddad. So I call him Granddad—called him that.
         <br />
         <br />
-        The lobby, which had a spiral staircase descending into the middle of
-        it, was too dark and unadorned to convey the luxury that, he imagined,
-        was intended. It was immaculate. At the security desk was one of a staff
-        of senior men, who had a broad and open range of responsibilities. The
-        old man recognized Horace by now and activated the automatic doors by
-        pressing a button. He went by the spiral stairs up a level, crossed the
-        outdoor courtyard, with its raked stones and plum trees in full blossom,
-        and took the tower elevator to the fifth floor. The blossoms, hence the
-        entire courtyard, smelled of—he tried to think of it—Kool-Aid.
+        Hey, Merry, said Granddad—but still scowling—Merry Christmas, huh.
         <br />
         <br />
-        The apartment was on a dimly lit landing shared with only one other
-        unit. The door required a bit of a shove. The sound of the television.
-        Cartoon voices. He dropped his bag on the ground, took off his shoes,
-        and loosened his tie. The apartment was spacious for Tokyo. One of the
-        rooms had a tatami floor. The rest of the apartment was Western in
-        style. Still, it was smaller than their two-bedroom in Los Angeles. It
-        had taken a while for his kids to get used to it here.
+        He never talked much to me—nor looked at me, for that matter—and
+        although his dark look was <i>about</i> me, he wasn’t looking at me now.
+        His eyes were fixed on a twist of terrycloth mop he was wringing out,
+        which was wound in a seething ring around his fist, and on the soap suds
+        that ran in runnels past his wrist. On the other hand, I was the only
+        one there. I was the only one staring over the bar at his battery of new
+        bottles, like so many antique ornaments: baubles and Victorian tumblers,
+        strawberry bulbs, bubble lights. And all perfused with gold in luminous
+        filaments, in wires and molten lances. Gold shot through Crown Royal’s
+        diamond quilt, and gold hobnail in the cob of Nixta corn liquor, gold
+        hoop nails banding the Peerless glass barrel. Gold the peerless shooting
+        stars that all these bottles threw back on the bar, with the flash and
+        glint of tinsel. I glanced at Granddad.
         <br />
         <br />
-        From the living room, through a sliding glass door, was a balcony where
-        they hung the laundry, looking out toward the high rises of Shinagawa
-        and the bay. Phoebe was in the kitchen. A little more than a year ago,
-        she was on maternity leave. After the baby was born, she went back to
-        work for three months, then got laid off, that most American of
-        experiences. That presented the opportunity for them to go. In less than
-        six months, she had gone from being a career woman, to pregnant, to laid
-        off, to being a housewife in Japan.
+        It <i>is</i> pretty cool for August, I said, but I can’t afford to drink
+        at Christmas, so—
         <br />
         <br />
-        The two boys were in front of the television set. They were excited to
-        see him, as always. The excitement seemed to be waning lately, though,
-        as it was sinking in they were going to be here for a while. And the
-        oldest boy, for good reason, was anxious. Horace took off his tie and
-        jacket and went into the kitchen.
+        It’s <i>very</i> cool, said Granddad, <i>very</i> cool of them—it’s all
+        a gift.
         <br />
         <br />
-        Phoebe pointed to three opened liter milk cartons on the counter. They
-        were long and thin in shape, the biggest carton size they could find.
-        Given the amounts the boys drank, it was not unusual for them to go
-        through two cartons a day.
+        Oh, um—<i>them</i>, I said.
         <br />
         <br />
-        The kitchen was narrow too, where they felt the biggest squeeze. Back
-        home, there was plenty of counter space. But here, there was barely
-        enough to put down the cutting board, and the two of them, not large,
-        could not pass each other without one of them backing up. But at least
-        everything was in arm’s reach.
+        Granddad gave an exasperated sigh. He jerked his thumb to indicate far
+        down the bar, and—with the white rag flapping by flexions of his whiter
+        knuckles—he said, The Cookie Company. Kind of disgusted with me, like I
+        should know.
         <br />
         <br />
-        He picked up a pair of scissors and started cutting. The sensation of
-        pressing through the spongy cardboard with the dull scissors, and the
-        cramp he felt in his hand, would become one of his most vivid memories
-        of Japan. Maybe because he did it every fucking day. When Phoebe found
-        out it was apartment regulations to rinse used milk cartons, cut them
-        apart, and lay them flat before discarding them, she said, “You do it.
-        There’s no way I’m cutting up milk cartons every day.”
-        <br />
-        <br />
-        He took the elevator down. There were a lot of waste recycling and
-        disposal rules. When he had first looked at the manual, piecing it
-        together from his limited Japanese, the kanji and the katakana, he did
-        not believe people really peeled the labels off water bottles, washed
-        them, and separately disposed of the label, plastic cap, and PET bottle.
-        When he first walked into the tidy recycling area, arranged in eight
-        bins, he felt he had arrived at Tokyo’s heart of darkness. But of course
-        it was only a gateway.
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        It would be their first time to Kamakura. He had read{" "}
-        <i>Thousand Cranes</i>. They were going to catch the end of the cherry
-        blossoms. Every weekend they went somewhere new, and Tokyo in its
-        infinity was big enough to allow for that. It was as if they were on an
-        overseas vacation, if only on weekends. In between was the tedium, for
-        him, of work, and for her, staying at home with the baby. As for big
-        brother, it was waiting out the hours and the minutes at the school
-        where he did not understand a word being said.
-        <br />
-        <br />
-        Coming after central Tokyo for two months, Kita Kamakura was a shock. It
-        resembled those rural train stops in Taiwan between Taipei and Keelung
-        or in Nan-tou. Maybe a little neater. You exited onto a little platform,
-        came down, and crossed the track. A mass of people came out of the train
-        too, but soon dissolved into the hills. There were a lot of leaves on
-        the trees. He was afraid they had missed the blossoms. The air was
-        gentle. There was a hint of California and he was reminded they were
-        just on the other side of the same sea.
-        <br />
-        <br />
-        He could not remember where he had heard it before, the idea of one side
-        of the Pacific as dream, the other reality. But which was reality and
-        which dream? Or were you always the butterfly in the dream, dreaming of
-        reality? Nothing applied here. All of that had been expected, though.
-        What had not was that they were, the four of them, in it together. Apart
-        from one another, but somehow together. Although who knew what baby was
-        thinking. His next meal, probably. It would have been one thing if he
-        had come alone. It probably would not have been much different from the
-        two years he had spent in Taipei after college, when, now that he
-        thought about it, he had met Phoebe. It made it many times harder to go
-        through this with her and the kids. You observed your own reactions. You
-        observed your wife and children go through the same.
-        <br />
-        <br />
-        She was having a hard time. They did not have a clothes dryer. It was a
-        culture of watching the weather and hanging your laundry out on the
-        balcony.
-        <br />
-        <br />
-        They walked on the path to central Kamakura. They popped into some of
-        the larger, famous temples. Engakuji was the one in the Kawabata novel,
-        right? It was a really long trek, through winding hills and some pretty
-        narrow sidewalks that barely accommodated the American-sized stroller.
-        <br />
-        <br />
-        The trees around Hachimangu were shedding their blossoms. It was fubuki,
-        the snowstorm. The path was lined with pink petals, as if they had been
-        arranged.
-        <br />
-        <br />
-        They got unagi for lunch then headed over to the shrine. Baby got
-        excited and ran wild on the open grounds. He and his brother chased the
-        falling blossoms, grabbing piles of them and throwing them into the air.
-        They were so happy they looked like they were other people. People
-        watched them out of the corner of their eyes. A deep tiredness seemed to
-        come over his wife, under the eaves.
+        And there <i>was</i> someone else there.
         <br />
         <br />
         <br />
@@ -324,183 +214,189 @@ export default function Shortbread() {
         <p className={styles.sectionBreak}>#</p>
         <br />
         <br />
-        There was a woman, Uehara, whom the reorganization had transferred off
-        the team. No one knew where she had been placed. Was she working as an
-        assistant for the department chief? One rumor had it she was moving to
-        Atlanta, where her husband was studying.
+        Now, all that past winter, I had gone around town in this colorblock
+        toque—either Aldinger would have called it a shipple—which my mother had
+        dyed and knit. Whereas now, by August, she had just died.
         <br />
         <br />
-        Whatever, that night, the team took her out to dinner as a sendoff.
-        Horace joined, although he did not know her well. The eight of them took
-        her to an izakaya, where everyone got pretty sauced over beer and
-        shochu. From there, the night went on, over a deep selection of awamori.
-        Ookawa, who was built like a lightweight sumo wrestler, seemed
-        completely unfazed as the night went on.
+        The hat had been a Christmas gift. A watch cap, my mother had said,
+        because I’m watching out for you. Or, if she had caught me coming in
+        late from Olaf’s Outer Space—particularly, if I had fallen backward
+        through her undeniably level, plumb, and square front door—Because I’m
+        watching you. And then I would say—if saying was something I was
+        doing—Oh, you mean a <i>stalking</i> cap. And she would say, Yes,{" "}
+        <i>deer</i>—or, No shit, Sherlock. It was a whole routine, which said
+        something about my drinking—which she didn’t want to have to say. Which
+        I didn’t want to hear.
         <br />
         <br />
-        For weekday team bonding, it was a tame evening and ended early. Still,
-        the awamori came down like a hammer. Uehara was draped over Horace by
-        night’s end. The others elected him to carry her into a cab. Nakahira
-        went with her to make sure she got home in one piece.
+        The hat was knit of wool dyed in cochineal extract carmine—with an alum
+        premordant, and warmed with cream of tartar—and was lined with a pale
+        pink cotton cambric. She had colored the cloth in the yarn’s dyebath,
+        but the depth of red didn’t take. She said I could learn from her
+        mistakes. She said, Sometimes, madder is gladder. Probably, she’s why I
+        am this way. Anyway, for Christmas at Olaf’s, I was wearing that—it was
+        <i>very</i> cool for August.
         <br />
         <br />
-        Ookawa bought everybody little bottles of ukon from the 7-11. It was an
-        herbal hangover cure you drank before you went to sleep. Horace doubted
-        anything could be done about it, he did not put much stock into folk
-        remedies, but he thanked his boss and got an explanation on how to use
-        it.
+        Far down the bar, that someone else—the Cookie Company, I understood, or
+        its avatar—had just cocked back her head to drop a shock blue shot.
+        Cocked farther back was her own—frankly, unreasonable—hat. Hers was a
+        kettlebrim, and uncanny kin to my own in color: carmine in the deep
+        concavity, and carnation pink where the edges curled up. Seasonable for
+        summer—it was knit of paper raffia, in a knotted openwork stitch—but no
+        more reasonable, for that. The upcurve in the brim was steep, and gave
+        the lip to a libation bowl, with the shallow crown its omphalos—a
+        resurgent dome in the caldera of all of it. Or just, there’s a mushroom,
+        sarcoscypha coccinea—scarlet elf cup, I’d call it. And the Cookie
+        Company, she was wearing <i>that</i>.
         <br />
         <br />
-        The group dispersed on the street corner in the abrupt Tokyo manner.
-        They figured out who was going where, and those heading in the same
-        direction cleaved off by bowing and melting into the city. Horace was
-        left on his own. Through the closing window of his drunkenness, he tried
-        to figure out what part of town he was in and which train line to take.
+        No shit, she exclaimed, cutting her eyes sidewise across the rim of her
+        shot. Reversing the glass, she balanced it—at points of parallel
+        tangency—upon the false pontil marks of two already taken. These were
+        the founding stones of a transparent rampart, footed in rings and pools
+        of blue drink on the bar. Kicking off from the round rung, the Company
+        spun her seat to face me. Gesturing between us with one hand—and wiping
+        her upper lip with the other—she specified, The hats. This, in answer to
+        my unvoiced—but plainly, apparent—<i>Huh</i>, <i>what</i>. And she
+        tipped hers.
         <br />
         <br />
-        He had been through worse. There was the night, coming back from
-        Shinjuku from his “initiation,” when he had somehow made it home via
-        multiple transfers without remembering any of it.
+        The Company was otherwise swimming in a fractal camouflage chamois, with
+        overlong sleeves fairly frayed at the cuffs, and duffled shorts in a
+        drab green gabardine or duck. These fell to half calf, covering the
+        upper shaft of her buckskin boots through the scoop in the scallop. So,
+        no, the hat didn’t go. Did mine, though.
         <br />
         <br />
-        The long, pristine, and evacuated midtown blocks. One aspect of Tokyo’s
-        beauty was the celerity of its population’s movements. Suddenly you were
-        in a teeming mass of humanity, crowds unlike anywhere else in the world.
-        Then the same would be as deserted and as sterile as a suburban office
-        park, with everyone gone off to fill the interiors of those charmless
-        high rises. Life, in its unpredictability, took place inside those
-        structures. In vertical space. The streets, the train stops, the trains
-        themselves were nothing but theatrical stages.
+        She said, Want a cookie.
         <br />
         <br />
-        On the train the woman sitting next to him attempted to take off her
-        jacket, probably responding to the humidity in the car, made worse by
-        the dripping umbrellas, shoes, and coats. Because the jacket was also
-        slick with rain, she tried not to get him wet with any sudden activity,
-        which painfully drew out her movements. She withdrew her arm from its
-        sleeve. He could only see suggestions in the corner of his peripheral
-        vision. He felt more coherently her motion, erotic in that homely way
-        that struck him as a distinct Japanese taste.
+        And suddenly, I did—so much.
         <br />
         <br />
-        At home, having fought his way up the slope in the strengthening rain,
-        he was met at his front door with a note, probably from the concierge,
-        in language that went beyond polite, requesting the next time he bring
-        his wet umbrella indoors to dry off, instead of leaving it on the
-        landing.
         <br />
         <br />
-        Phoebe was still up, waiting for the laundry to dry. For some reason, it
-        had been hard to sleep since they arrived in Japan. In California they
-        went to bed early as couples with young children do, but here they
-        stayed up all hours. Was it the crowds and pollution? The otherwise
-        unheard hum of the city? Magnetic fields or the position on the earth?
         <br />
         <br />
-        The rain fell, unceasingly, against the window. Most of the high rises
-        around them had their lights off. She kicked her feet up on the chair.
-        Horace came in, at the opposite end of the long corridor, steps heavy
-        against spongy hardwood. The kids were asleep. It was the quietest time
-        of day.
         <br />
         <br />
-        He took off his rain-spattered jacket and loosened his tie and sat at
-        the adjacent corner of the dining table, where they always had their
-        conversations now.
         <br />
         <br />
-        “I thought today it’d be a good idea to pack him a carton of milk with
-        his lunch. But when lunch started, the teacher took the milk away,
-        didn’t give it back, and said he should drink tea like the other kids.
-        Tea! He told the teacher he didn’t drink tea, so she gave him warm water
-        instead.”
         <br />
         <br />
-        “It’s probably one of those Japanese conformity things. If someone
-        starts drinking milk, then someone else might want to bring milk to
-        school too, then what’s the world coming to?”
         <br />
         <br />
-        “Another thing. I’ve been packing him sandwiches but today he said he
-        wants bento boxes for lunch. I know he likes sandwiches. But he said the
-        other kids think it’s funny he’s eating sandwiches instead of from a
-        bento box. We don’t want him any more singled out than he already feels.
-        Maybe I should start making him a bento box. But it’s easier to make a
-        sandwich than a bento box. And I’m not even talking about the whole
-        ‘competitive bento box’ thing.”
         <br />
         <br />
-        “Look, these kids need to open their eyes and learn a little about
-        diversity. We come from a foreign culture. What if he gets used to
-        eating bento boxes? Then he’s going to go back to America and not want
-        to eat sandwiches anymore and eat bento boxes. He’ll be a laughingstock.
-        I’ve already made up my mind.”
         <br />
         <br />
-        “We can try again tomorrow, but if he’s still uncomfortable with it, I
-        think we should switch.”
+        <p className={styles.sectionBreak}>#</p>
         <br />
         <br />
-        “It’ll be a good experience for him to assert his will against the
-        herd.”
+        The Company brought forth a quart bag from somewhere under her shirt, of
+        slightly shattered shortbread biscuits. Around the decorative stamping
+        of its upper surface, an intact biscuit—ideal, but increate—displayed a
+        dentillated cornice of four embattled edges, invected at a single pair
+        of adjacent vertices. The underside was set in a fundament of black
+        fudge. The Company upended the bag, and began sorting shards on the bar,
+        puzzling pieces together into resemblance of this unrealized ideal.
+        Shortly, she turned back to me, to display a complete cookie in her open
+        palm. She jogged her hand, as she might under the heft of a halfdollar.
         <br />
         <br />
-        She looked up out the wet glass. A sock was floating in a pool of water.
-        She got up and came back with their laptop computer.
+        Solemnly, she said, A veritable and paramount shortbread.
         <br />
         <br />
-        “Before you forget, show me how to check the weather. It’s impossible to
-        do laundry in this country without a good weather forecast. I need one
-        that goes by the hour. The English sites are useless.”
+        Then she indicated the dentition, the pair of protruding corners—obround
+        as fingertips, or frogseyes. And she did say, Eight teeth to a side—and
+        two eyes.
         <br />
         <br />
-        “You’re right. The Japanese sites are a hundred percent. I don’t know
-        how they do it.”
+        I raised my eyebrows at that, but I took the veritable shortbread, when
+        it was proffered by the Company. I put it in my mouth.
         <br />
         <br />
-        “This fucking season. I put a load of laundry out this afternoon and
-        everything got drenched. It’s depressing. Doesn’t anyone use a dryer in
-        this country? Is it because every woman’s expected to hang laundry? When
-        I was bringing in the wet clothes, there was a woman over at the
-        building next door looking at me like I was an idiot. Show me how to use
-        the site.”
+        I made them myself, she said, and winked.
         <br />
         <br />
-        “Can this wait? Japanese sites are hard to navigate. They have a
-        different design aesthetic. Everything’s a brain teaser. I’ll show you
-        tomorrow.”
+        I stopped my jaw, crumbs of shortbread sanding my molars.
         <br />
         <br />
-        “I’ve got laundry to do every day. I need to know the few hours it
-        clears out tomorrow, otherwise we’re going to have soaked clothes piling
-        up around the house for days.”
+        Wait, I said, they’re not—
         <br />
         <br />
-        “Where’s the laundry now?”
+        She let my eyes widen a long moment, and laughed.
         <br />
         <br />
-        “In the bathroom. It’s so damp in there, it doesn’t help.”
+        No, no, it’s my job. I work at the Cookie Company—or worked, she said.
         <br />
         <br />
-        “I need to take a shower.”
+        No, I said, you <i>are</i> the Cookie Company, and cocked my head toward
+        behind the bar.
         <br />
         <br />
-        “Take the clothes out and put them back when you’re done.” She peered
-        outside. The moonlight was refracted through hundreds of gemlike
-        raindrops. “No point hanging them outside now.”
+        She laughed again. The cookie was very good.
         <br />
         <br />
-        “Look, I just need to sleep a little at least. I’ve got a three a.m. and
-        another ten a.m. call.”
+        How do you get that job, I said.
         <br />
         <br />
-        “You can’t tell them to leave you alone? What’s the point of sending you
-        out here if you’re on the phone with them every night?”
+        Pull up a seat, she said.
         <br />
         <br />
-        “Look, it can’t be helped.”
         <br />
         <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <p className={styles.sectionBreak}>#</p>
+        <br />
+        <br />
+        So I say to him, Look, Mac—
+        <br />
+        <br />
+        Look, <i>Mac</i>, I said.
+        <br />
+        <br />
+        Her eyes went teary, at that, and she looked beyond me—maybe to
+        Granddad, I thought.
+        <br />
+        <br />
+        Beyond the bartender, then.
+        <br />
+        <br />
+        Is that short for Mackenzie, I said.
+        <br />
+        <br />
+        McIntosh, she said. Anyway, I say to him, Look, Mac—
+        <br />
+        <br />
+        Wait, sorry—your name is Macintosh.
+        <br />
+        <br />
+        No, not my name, she said. Mac, like McIntosh Red—
+        <br />
+        <br />
+        The apple, I said. Why.
+        <br />
+        <br />
+        The apple, she said, because I was the apple of her eye.
+        <br />
+        <br />
+        <br/>
         “I know. They think we’re here on some kind of sabbatical. A family
         vacation. It’s anything but. If this keeps up … I don’t know how much
         longer I can hold out. Every day I remember why I wanted to get out of
