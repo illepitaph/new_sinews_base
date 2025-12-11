@@ -5,7 +5,8 @@ import Footer from "../../components/footer.js";
 import styles from "../../styles/Shortbread.module.css";
 Shortbread.title = "zebulon_horse ~ shortbread — new_sinews";
 Shortbread.pieceName = "zebulon_horse ~ shortbread — new_sinews";
-Shortbread.description = "_Zebulon Horse_fiction_SHORTBREAD_news_sinews_issue9_";
+Shortbread.description =
+  "_Zebulon Horse_fiction_SHORTBREAD_news_sinews_issue9_";
 Shortbread.image = "https://www.newnewsinews.com/images/AlbumBackground.jpg";
 
 export default function Shortbread() {
@@ -21,13 +22,21 @@ export default function Shortbread() {
       <br />
       <br />
       <br />
-      
-      <pre className={styles.title}>
 
-     <span className={styles.titleTwo}><span className={styles.special}>s</span> h<span className={styles.special}>o</span> <span className={styles.uppercase}>r</span>t br e <span className={styles.specialTwo}>a </span><i>d</i></span>
-        {" "}
+      <pre className={styles.title}>
+        <span className={styles.titleTwo}>
+          <span className={styles.special}>s</span> h
+          <span className={styles.special}>o</span>{" "}
+          <span className={styles.uppercase}>r</span>t br e{" "}
+          <span className={styles.specialTwo}>a </span>
+          <i>d</i>
+        </span>{" "}
         <span className={styles.margin}></span>
-       <span className={styles.special}>s</span> h<span className={styles.special}>o</span> <span className={styles.uppercase}>r</span>t br e <span className={styles.specialTwo}>a </span><i>d</i> 
+        <span className={styles.special}>s</span> h
+        <span className={styles.special}>o</span>{" "}
+        <span className={styles.uppercase}>r</span>t br e{" "}
+        <span className={styles.specialTwo}>a </span>
+        <i>d</i>
       </pre>
       <br />
       <br />
@@ -58,10 +67,27 @@ export default function Shortbread() {
       <br />
       <br />
       <pre className={styles.title}>
-        {" "}
-          {" "}
-        z <span className={styles.uppercase}>e</span> b u l o n
-        h o r s e
+        <span className={styles.titleTwo}>
+          <span className={styles.special}>z</span> e
+        <span className={styles.special}>b</span>u
+        <span className={styles.uppercase}> l</span>o
+        <span className={styles.uppercase}>n</span> 
+        <span className={styles.marginTwo}></span>
+        h<span className={styles.special}> o</span>
+        <span className={styles.uppercase}>r</span>{" "}
+        <span className={styles.specialTwo}>s </span>
+        <i>e</i>
+        </span>{" "}
+        <span className={styles.margin}></span>
+        <span className={styles.special}>z</span> e
+        <span className={styles.special}>b</span>u
+        <span className={styles.uppercase}> l</span>o
+        <span className={styles.uppercase}>n</span> 
+        <span className={styles.marginTwo}></span>
+        h<span className={styles.special}> o</span>
+        <span className={styles.uppercase}>r</span>{" "}
+        <span className={styles.specialTwo}>s </span>
+        <i>e</i>
       </pre>
       <br />
       <br />
@@ -86,7 +112,6 @@ export default function Shortbread() {
         <br />
         <br />
         <br />
-        <p className={styles.sectionBreak}>春</p>
         <br />
         <br />
         The commute was subtly unpleasant, although there was no basis for
@@ -296,7 +321,7 @@ export default function Shortbread() {
         <br />
         <br />
         <br />
-        <p className={styles.sectionBreak}>梅 雨</p>
+        <p className={styles.sectionBreak}>#</p>
         <br />
         <br />
         There was a woman, Uehara, whom the reorganization had transferred off

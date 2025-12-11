@@ -41,13 +41,18 @@
     margin-left: 22vw;
 }
 
+.marginTwo {
+    display:inline-block;
+    margin-left: 3vw;
+}
+
 .sectionBreak {
   font-family: "lores-9-plus-wide", monospace;
   font-weight: 700;
-  font-size: 4.2rem;
+  font-size: 9.2rem;
   color: white;
-  text-shadow: 3px 4px black, 6px 7px #00ffff, 9px 10px black, 12px 13px #00ffff,
-    15px 16px black, 19px 20px 9px #00ffff;
+  text-shadow: 1px 3px black, 3px 5px white, 5px 7px black, 7px 9px white,
+    9px 11px black, 11px 13px white, 13px 15px black;
   text-align: center;
 }
 
