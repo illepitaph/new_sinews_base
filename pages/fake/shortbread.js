@@ -7,14 +7,14 @@ Shortbread.title = "zebulon_horse ~ shortbread — new_sinews";
 Shortbread.pieceName = "zebulon_horse ~ shortbread — new_sinews";
 Shortbread.description =
   "_Zebulon Horse_fiction_SHORTBREAD_news_sinews_issue9_";
-Shortbread.image = "https://www.newnewsinews.com/images/AlbumBackground.jpg";
+Shortbread.image = "https://www.newnewsinews.com/images/ShortbreadBackground.jpg";
 
 export default function Shortbread() {
   return (
     <>
       <Head />
 
-      <Header headerBackground="albumBackground" />
+      <Header headerBackground="shortbreadBackground" />
       <br />
       <br />
       <br />
