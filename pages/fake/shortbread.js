@@ -619,55 +619,58 @@ export default function Shortbread() {
         <p className={styles.sectionBreak}>#</p>
         <br />
         <br />
-        Once, my mother and I attended the Aldinger Christmas party—an annual event, which
-        we would never again. Granddad’s older sister must have invited everyone in our
-        class, and also—I remember, because thence the presence of my mother—everyone’s plus
-        one. 
+        Once, my mother and I attended the Aldinger Christmas party—an annual
+        event, which we would never again. Granddad’s older sister must have
+        invited everyone in our class, and also—I remember, because thence the
+        presence of my mother—everyone’s plus one.
         <br />
         <br />
-        I was going through a medieval phase—and my mother, a daring early middle age—so our
-        party dress was in heraldic particolor. My dress was an actual doublet—very
-        oversize, in velour and velvet offcuts—which Mom had stitched to coordinate with
-        the colorblock on her secondhand skirt set. Which was Westwood Gold Label, and way 
-        too cool for Willard: Oh, Westwood, another parent at the party said, my mother-in-law
-        has their tea set.
+        I was going through a medieval phase—and my mother, a daring early
+        middle age—so our party dress was in heraldic particolor. My dress was
+        an actual doublet—very oversize, in velour and velvet offcuts—which Mom
+        had stitched to coordinate with the colorblock on her secondhand skirt
+        set. Which was Westwood Gold Label, and way too cool for Willard: Oh,
+        Westwood, another parent at the party said, my mother-in-law has their
+        tea set.
         <br />
         <br />
-        Also apparently by Westwood was Mrs. Aldinger’s punch ladle. A valuable antique, her
-        husband said, in ironstone transferware, and dating from the turn of the century. The
-        bonewhite handle—a very curved and hammerheaded affair—was presently swanning through
-        the slot in the Salvation Army kettle, which Olaf had expropriated for a punch bowl. My
-        mother wondered whether that was becoming of the Worshipful Master, who turned, in
-        turn, red as the kettle. Or red as his Santa Claus cap—Goddamned shipple, he
-        said—which was rapidly slipping down over his forehead. The Aldingers haven’t got
-        much of that, so he was all red toque, muttering that it was something he did for
-        the kids.
+        Also apparently by Westwood was Mrs. Aldinger’s punch ladle. A valuable
+        antique, her husband said, in ironstone transferware, and dating from
+        the turn of the century. The bonewhite handle—a very curved and
+        hammerheaded affair—was presently swanning through the slot in the
+        Salvation Army kettle, which Olaf had expropriated for a punch bowl. My
+        mother wondered whether that was becoming of the Worshipful Master, who
+        turned, in turn, red as the kettle. Or red as his Santa Claus
+        cap—Goddamned shipple, he said—which was rapidly slipping down over his
+        forehead. The Aldingers haven’t got much of that, so he was all red
+        toque, muttering that it was something he did for the kids.
         <br />
         <br />
-        As a kid, I didn’t care about the kettle—come to that, I didn’t care about
-        the other kids. As a kid, I cared about the punch, which—under the crackle
-        of conversation—I lifted the lid to see. The hinges gave an untuneful
-        complaint, a screech of disuse proper to the sally port, the postern gate. But 
-        just then, Olaf was loudly expounding on ironstone, and its inventors the
-        Masons—that was, the other Masons, namely Miles and Charles James. So no
-        parent noticed—or none who cared.
+        As a kid, I didn’t care about the kettle—come to that, I didn’t care
+        about the other kids. As a kid, I cared about the punch, which—under the
+        crackle of conversation—I lifted the lid to see. The hinges gave an
+        untuneful complaint, a screech of disuse proper to the sally port, the
+        postern gate. But just then, Olaf was loudly expounding on ironstone,
+        and its inventors the Masons—that was, the other Masons, namely Miles
+        and Charles James. So no parent noticed—or none who cared.
         <br />
         <br />
-        On a moat the color of cranberry glass—a cocktail of clear pop and inscrutable
-        juices—our hosts had floated brilliant bergs of sherbet. There were rainbow
-        floes, and also, those in the tuliptree tones of triple citrus: pollen
-        yellow, pith green, and the orange of nectaries, or nectarines. Everywhere, the
-        ice exuded an opalescent foam, billows and conflows that made their milky way
-        over the red waters, and up the red concave of the cauldron wall. 
+        On a moat the color of cranberry glass—a cocktail of clear pop and
+        inscrutable juices—our hosts had floated brilliant bergs of sherbet.
+        There were rainbow floes, and also, those in the tuliptree tones of
+        triple citrus: pollen yellow, pith green, and the orange of nectaries,
+        or nectarines. Everywhere, the ice exuded an opalescent foam, billows
+        and conflows that made their milky way over the red waters, and up the
+        red concave of the cauldron wall.
         <br />
+        <br />I <i>had</i> already been given a glass—I had, already, an
+        unmistakable sherbet moustache. But the first punch poured for me had
+        been a slurry, only sparsely strewn with the seed pearls of pink and
+        saffron frost, the glassy beads of green corn snow. I wanted a rainbow
+        berg—an intact and entire floe. And I had my empty cup, and no one’s
+        attention. Since the ladle was a valuable antique, I stood on tiptoe,
+        and put my arm into the kettle up to my elbow.
         <br />
-        I <i>had</i> already been given a glass—I had, already, an unmistakable sherbet
-        moustache. But the first punch poured for me had been a slurry, only sparsely 
-        strewn with the seed pearls of pink and saffron frost, the glassy beads of
-        green corn snow. I wanted a rainbow berg—an intact and entire floe. And I had
-        my empty cup, and no one’s attention. Since the ladle was a valuable antique, I 
-        stood on tiptoe, and put my arm into the kettle up to my elbow.
-         <br />
         <br />
         <br />
         <br />
@@ -689,29 +692,30 @@ export default function Shortbread() {
         <br />
         <br />
         My mother found me in the Aldinger’s yard, making a rigorous and very
-        red angel in the snow. 
+        red angel in the snow.
         <br />
         <br />
         Now she is total gules, she said, horribly tricked.
         <br />
         <br />
-       Or intoned, really—and then collapsed beside me in the snow. Between
-      streams of psychic tears as yet unfrozen, involuntary laughter crinkled my
-       nose—and then the effort of recalling <i>Macbeth</i>, my forehead.
+        Or intoned, really—and then collapsed beside me in the snow. Between
+        streams of psychic tears as yet unfrozen, involuntary laughter crinkled
+        my nose—and then the effort of recalling <i>Macbeth</i>, my forehead.
         <br />
         <br />
-       Yet, I said, who would have thought the old man to have so much blood in him. 
+        Yet, I said, who would have thought the old man to have so much blood in
+        him.
         <br />
         <br />
-        She giggled, and punched my shoulder. 
+        She giggled, and punched my shoulder.
         <br />
         <br />
         To have <i>had</i>, she said.
         <br />
         <br />
         Even through my doublet, her skin was cold—the Westwood suit had
-        shortsleeves. She set her shoulders in the snow, and turned her eyes
-        to the northern sky. 
+        shortsleeves. She set her shoulders in the snow, and turned her eyes to
+        the northern sky.
         <br />
         <br />
         Are we wishing on a star, she said.
@@ -721,24 +725,23 @@ export default function Shortbread() {
         <br />
         <br />
         Well, which, she said.
-        <br/>
-        <br/>
+        <br />
+        <br />
         Mrs. Aldinger’s little dipper, I said.
-        <br/>
-        <br/>
+        <br />
+        <br />
         Ah, she said, and are we having black and deep desires?
-        <br/>
-        <br/>
-        I punched her shoulder. Her skin was <i>really</i> cold. 
-        <br/>
-        <br/>
-        Come on, Mom, I said, let’s get you home. 
-        <br/>
-        <br/>
+        <br />
+        <br />I punched her shoulder. Her skin was <i>really</i> cold.
+        <br />
+        <br />
+        Come on, Mom, I said, let’s get you home.
+        <br />
+        <br />
         Sure, she said, and standing first, she hoisted me out of the snow. Then
-        she crinkled her nose. 
-        <br/>
-        <br/>
+        she crinkled her nose.
+        <br />
+        <br />
         Honestly, what kind of fruit is that, she said.
         <br />
         <br />
@@ -761,294 +764,136 @@ export default function Shortbread() {
         <p className={styles.sectionBreak}>#</p>
         <br />
         <br />
-        “Shinjuku 3-chome, in front of Isetan.”
+        When Granddad took the Company’s castle to the sink, I bet he swore. I
+        bet that for every glass that sunk under the water and struck the steel
+        basin, another dispersed as soon as it met the surface, foaming into
+        soap spume, and flowing up in fumes of steam. But then, in the
+        intervening years, I’ve held—and not—Cookie Company money. It’s all the
+        money I have to bet.
         <br />
         <br />
-        It was Ryo. Horace did not know he was in town.
         <br />
         <br />
-        No further explanation, so Horace told Phoebe his boss was calling to
-        meet him on a street corner in Shinjuku at ten o’clock on a weeknight.
-        At least the kids were already put to bed.
         <br />
         <br />
-        When he got there, by subway, Ryo was already on the corner, alone. The
-        department store’s doors were closed, although its Gothic lamps were
-        still on. The older man was wearing a scarf and overcoat. Instead of
-        motioning Horace to follow him somewhere, he stood his ground. He
-        explained they would wait here for a few more people to show up.
         <br />
         <br />
-        A minute later, a tall and very pretty woman, wearing a leather jacket
-        and boots, walked up to their spot on the corner. She had had her hair
-        waved and was wearing it loose. Dark complexion. Looked maybe to be in
-        her twenties. Ryo only introduced her by name, Misa. They seemed to
-        regard each other coldly and kept their distance from each other while
-        both of them smoked.
         <br />
         <br />
-        Apparently Ryo was somewhat buzzed and slurred, “When the others get
-        here and ask you who she is, just tell them she’s my cousin, from
-        Nagoya.”
         <br />
         <br />
-        No need for outright deception, Horace thought. Everyone would see right
-        through it anyway, so maybe it was more of a case of politeness? Who
-        knew about these things?
         <br />
         <br />
-        Ryo placed a call on his cell. About five minutes later, three men
-        arrived, one older, two younger. The older one, with metal glasses and a
-        few strands of hair on top of his head, was Shimamura. He was already
-        fairly blasted. Red in the face, stumbling over his steps. The younger
-        men, in suits like him, had to hold him up. They were junior financial
-        directors who reported to him. Horace had been told Shimamura was the
-        only one who had a full picture, and for that matter, any concrete
-        understanding, of the situation of the overseas branch. For that reason,
-        he was the only one in the organization who had any real authority to
-        decide on their standing. It was a vital relationship for Ryo. On the
-        other hand, it was just one of several he juggled and, to some likely
-        extent, played against one another.
         <br />
         <br />
-        Shimamura, who seemed to recognize Horace in his daze, came right at
-        him, ignoring Ryo and his guest, and almost fell on top of him.
-        Long-limbed, built like a basketball player, he put all his weight onto
-        Horace’s right shoulder. Then a stream of gibberish filled one ear,
-        which Horace, despite his improving language, could only guess was
-        Japanese.
         <br />
         <br />
-        The group moved north. Nobody asked about Misa. Yasukuni-dori was lit
-        up. The finance executive attached himself to Horace and kept on
-        babbling.
+        <p className={styles.sectionBreak}>#</p>
         <br />
         <br />
-        They crossed at the intersection with Meiji-dori. It was crowded with
-        matsuri booths and pushcarts. Tucked half a block down Meiji-dori was
-        the entrance to Hanazono Shrine, mobbed by people both trying to leave
-        and enter under a massive gate of paper lanterns. Squads of taxis parked
-        out front waited to cart off drunks.
+        The Company was shadowboxing under a sturgeon moon, weaving to and fro,
+        and bobbing up and down between sidewalk and street. At the bus stop—a
+        bench and awning, just without the edge of town—she dropped into a
+        crouch, and then exploded out, flourishing two of Granddad’s glasses in
+        her splayed right hand, and a flask in her left fist.
         <br />
         <br />
-        They made their way past the tightly arranged booths with men and women
-        in yukata selling traditional crafts. Ryo told Horace he would explain
-        later what they were. There were also ones featuring games like the
-        goldfish one he had played in the summer. They moved to the cordoned
-        food area and found a table that would seat all six of them. It was a
-        cold night, so that meant oden. Shimamura ordered three bottles of saké.
-        Horace tried making some conversation with Misa.
+        She filled each glass, the color of the dram indistinguishable by
+        moonlight—which flashed off the silver finish of the flask, and gave the
+        liquor a mercurial cast. She passed mine, and raised hers.
         <br />
         <br />
-        “You’re from Nagoya?”
+        You got the job, she said.
         <br />
         <br />
-        “Yeah.”
+        I drank, and felt funny.
         <br />
         <br />
-        “You live in Tokyo now?”
+        We sprawled out on the bench of the bus stop, under Welcome to Willard,
+        and sundry arms. I stared up at the sign, at the emblems and ensigns,
+        for a long time. There was the quatrefoil, the K, the cogs and spokes,
+        and the fleur-de-lys. There was the Girl Scout triplicate Hecate, and
+        the medallion of the American Legion, corroded by corner bolts into a
+        Canterbury cross. There was the Free and Accepted square and joined set,
+        the Geometer encompassed in the fading blades of unpinioned wings.
         <br />
         <br />
-        “Yeah. I just moved here, for school. My first year in school, though, I
-        lived in Nagoya.”
+        You a joiner, the Company said.
         <br />
         <br />
-        “You took the train every day?”
+        Hardly, I said, although I spend enough time around Granddad in an
+        apron.
         <br />
         <br />
-        “Once a week. It was a pain.”
+        Apron, she said.
         <br />
         <br />
-        “How do you like Tokyo?”
+        Oh, just—a bib, I said, gesturing toward the sign, I think the Masons
+        wear them.
         <br />
         <br />
-        “Compared to Nagoya?”
+        Weird, she said. And what are those triple links.
         <br />
         <br />
-        “Yeah.”
+        In the chainlink evenweave, there was a chain—a short but actual
+        chain—clipped to an upper corner, and in union colors. Odd Fellows, I
+        think.
         <br />
         <br />
-        “A lot better.”
+        What about you, I said.
         <br />
         <br />
-        The oden and the saké warmed them up thoroughly. Then they all went off
-        to see the freak show. It was the same show Horace had seen in the
-        summer, culminating with the Snake Woman. Same woman. Horace had to
-        admit the effect was largely lost the second time around. Ryo and the
-        others seemed to feel the same way, as it was probably old hat to them.
-        There was no expression or comment from any of them as they shuffled out
-        of the tent.
+        Oh, none of those, she said. I’m following another order.
         <br />
         <br />
-        Shimamura took his team for another round of drinks, while Ryo pulled
-        Horace and Misa aside. He led them down one of the wide aisles selling
-        what appeared to be gaudily decorated bouquets or wreaths, wrapped in
-        clear plastic. Ryo stared contemplatively at each booth’s offerings.
-        Misa kept her head down, hands in pockets. On closer look, it seemed to
-        Horace they were not wreaths but decorated rakes.
+        Back then, I heard Order—I mean Loyal, or Benevolent and Protective, or
+        Eastern Star. Star of the West would have been a better guess. Back
+        then, I thought, if we were Elk, we’d elect her Exalted Ruler. I
+        thought, imagine having that many friends. But also, imagine having them
+        for friends. No, I didn’t think she would—and not me: I was not
+        Aldinger, nor was meant to be. But odd fellows, in any case—in
+        lowercase—we were that, at least.
         <br />
         <br />
-        In fact that was what they were. Kumade, or “bear claws,” for clawing,
-        or raking, in money. Most of the people buying them were businessmen,
-        like themselves. Every year you bought one for success. More than that,
-        if your sales were going to grow at all that year, you bought one bigger
-        than the year before. That was why they came in all sizes. If it was
-        your first time, you started small, so you did not end up buying too big
-        of one too soon and maxing out. Ryo had gotten one every year except
-        last year, because he could not make it back to Japan in time. It was
-        this, more than anything, to which he attributed the disastrous
-        financial results they had just posted.
+        We should swap numbers, I said.
         <br />
         <br />
-        That was why, Ryo explained, Horace was being recalled to the States.
+        She grinned, and with long fingers, she plucked the cap from my head,
+        and replaced it with the kettlebrim. She turned her new hat inside out,
+        then pulled it down over her head, so that the red was hidden on the
+        underside, and the unfolded brim hooded her eyes.
         <br />
         <br />
-        Once he settled on something he liked, Misa became a lot more animated,
-        chatting and laughing with the vendor, using a completely different way
-        of speaking and looking suddenly a lot more at ease. Probably a dialect
-        she used with a fellow Nagoyite. The kumade was massive. Its pieces,
-        which included rice stalks and an otafuku mask, were stapled and glued
-        to a thick bamboo culm. It stood as tall as Horace’s shoulders. Ryo
-        explained he was going to have the vendor deliver it to Horace’s office.
-        From here, it was Horace’s task to figure out how to get it back to Los
-        Angeles.
         <br />
         <br />
-        “That’s your job now. It’s a very important one.”
         <br />
         <br />
-        Horace could not think of a solution for the moment, except to buy an
-        airplane seat for the thing.
         <br />
         <br />
-        The four of them, including the vendor, stood in a circle in front of
-        the booth, made a rapid chant, wishing for good business next year, and
-        clapped in time between chants. They all bowed.
         <br />
         <br />
-        Just as all three of them turned around, Shimamura and his two cronies
-        came shambling back up to them. Shimamura tripped over a rock and one of
-        the junior directors reached out to grab him before he crashed to the
-        ground.
         <br />
         <br />
-        Ryo gave the junior director a look, as if to ask, “Is he all right?”
-        The younger man returned the look and shook his head.
         <br />
         <br />
-        “Here.” Ryo pointed at Horace’s back.
         <br />
         <br />
-        They dragged the executive over. Horace slung him over his shoulders
-        like a jacket. “Put him in a taxi. Gogami-san will tell the driver where
-        to go. See you next time.” With that, he walked off with Misa, into the
-        lights and noise of the festival.
         <br />
         <br />
-        Horace dragged Shimamura to the gate, which was twice as mobbed as it
-        had been when they arrived. Nobody gave them a second glance. They
-        managed to hail a taxi, and he dropped Shimamura inside, who was still
-        gone to the world. Horace adjusted the glasses on his face, but could
-        not quite get them right. Gogami shouted some directions at the driver.
-        The door shut of its own accord. Gogami gave a curt goodbye, leaving
-        Horace alone in the night. It was too late to catch a train.
+        <p className={styles.sectionBreak}>#</p>
         <br />
         <br />
+        The bus was white and halfsize, and noiseless, when it arrived.
         <br />
         <br />
+        The Cookie Company nudged me aboard before her, crowding in some
+        whispered words to the driver, which I couldn’t catch. And then she was
+        backing off, and the bus was beginning to go. I made my way to the back,
+        to take an empty seat beside the window—to wave.
         <br />
         <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <p className={styles.sectionBreak}>新 年</p>
-        <br />
-        <br />
-        Phoebe had been sick since new year’s day, but she seemed to get over
-        her illness after they boarded the bullet train at Shinagawa. She
-        stopped coughing as soon as they got past Mount Fuji. It was the first
-        time any of them had ever seen it. It is little understood how hard it
-        is to get a glimpse of Mount Fuji from central Tokyo if not spending a
-        lot of time in the upper floors of skyscrapers. It probably should not
-        have come as a surprise that she recovered instantly. Whatever had been
-        plaguing her in Tokyo had not followed her out of it. While they were
-        concerned when they headed back, she did not suffer a relapse. The
-        spirit did not return.
-        <br />
-        <br />
-        Back in Tokyo, temple roofs were white with snow. Tokyo Tower was half
-        obscured in freezing rain.
-        <br />
-        <br />
-        Plum blossoms were starting to break. In Chinese aesthetics, they were
-        the more prized flower over cherry blossoms, for blooming in the wastes
-        of early spring. There was a stark beauty to them, in the courtyard, the
-        parks, buds on branches reaching over compound walls. The best place to
-        see them near their mansion was a public playground two blocks away. It
-        was interesting to Horace for its bizarre displays explaining the
-        prehistory of the district. There was even a lifesize diorama of a
-        neolithic hut, with mannequins. The plum garden was in bloom, very
-        precisely, as if by design. Each blossom the same proportion. After the
-        rain, their sugary-sweet smell drifted out the park into the street.
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        Last night.
-        <br />
-        <br />
-        They had shipped off everything that could be shipped and moved out of
-        their apartment.
-        <br />
-        <br />
-        They had to stay in a hotel. The plan was to get brunch in the morning
-        and head out from the station for Narita by noon.
-        <br />
-        <br />
-        They opened a bottle of pink champagne. It seemed a very Tokyo drink,
-        somehow. The kids were watching, and to some degree comprehending, a
-        food show on TV.
-        <br />
-        <br />
-        It was warm enough to stand out on the balcony. Earlier that day they
-        had taken a stroll through the hotel gardens. Camellias were in bloom,
-        and there was the very first hint of cherry buds.
-        <br />
-        <br />
-        From the balcony, Tokyo stretched before them. Red warning beacons
-        marked off the heights of that incomparable skyline. The moving lights
-        of trains and planes. To their left were the towers of Shinjuku. Right
-        in front of them, the core. Mori Tower. Tokyo Tower in orange hues. A
-        dark sea in the middle that was the Imperial Palace. On their right, the
-        Rainbow Bridge and the lights of Shiodome, Odaiba and, closer in,
-        Shinagawa.
-        <br />
-        <br />
-        Of all things, it was the ending of <i>Père Goriot</i> that came to him.
-        Maybe it was the champagne. Rastignac standing on that hill in
-        Père-Lachaise, looking over Paris. It occurred to him, he did not know
-        what lay ahead, but probably he would be back before long. But that
-        would be for meetings and presentations, as a business traveler. It
-        would not be anything like this.
+        The workers on the bus didn’t look anything like her. But then, in the
+        street grinning back at me, neither did she.
         <br />
         <br />
         <br />
