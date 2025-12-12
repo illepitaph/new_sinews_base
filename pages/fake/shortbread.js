@@ -396,559 +396,369 @@ export default function Shortbread() {
         The apple, she said, because I was the apple of her eye.
         <br />
         <br />
+        The castle of glasses was growing before her—stacked taller, I thought,
+        than we had been poured. She ordered up two more: well whiskey for me,
+        and the blue thing for her. What did she call it—errlight, I think.
+        Neutral spirits and curaçao, as far as I could tell—mostly curaçao, by
+        the color. But mostly spirits, by the smell.
+        <br />
+        <br />
+        She told me the rest of the story: August—
+        <br />
+        <br />
+        Last August?
+        <br />
+        <br />
+        Oh, no, she said, this is years—it’s a couple of years ago.
+        <br />
+        <br />
+        And it’s August, and she meets Mac at the intersection of State Route 99
+        and Egypt Road. She’s passing through, and she’s just waiting for
+        another ride. And this man wanders out of the trees, and into the lee of
+        the oneroom Egypt School of 1898. Within the shadows of pitch, and
+        white, and pitlolly pine, he’s gathering ramp seeds—nevermind that under
+        pines isn’t anywhere ramps should grow. He looks ridiculous, in a
+        peagreen trench, and the red hat—<i>her</i> hat, the scarlet elf cap.
+        But also, he looks a part of the landscape: his coat is the color of the
+        late summer lawns, and the parching boughs of pine. And irregularly
+        redded with flat barn and fence latex—an uneven coat of their own—the
+        lap planks of the schoolhouse match his hat.
+        <br />
+        <br />
+        He wanders out of the trees—out of the branches of the trees—the
+        scorched lawns—the spotty red siding. He wanders out of the landscape,
+        with his coat and his hat, and his good afternoon, and would she care
+        for a cookie.
+        <br />
+        <br />
+        And so she says to him, Look, Mac—
+        <br />
+        <br />
+        Like the apple—
+        <br />
+        <br />
+        If you’re gonna try to pick me up, you’re gonna need to have a truck.
+        <br />
+        <br />
+        But Mac didn’t, wasn’t trying to pick her up—he said there was shortly a
+        bus for that. Mac wanted to <i>hook</i> her up, and with a good job.
+        These cookies, right. His family made these—they ran the factory. Mac
+        told her that the bus that was coming was the company bus, bringing in
+        the night shift. And could she smell that, in among the dung, and hay,
+        and heat—the smell of cookies, brung in on the night breeze. And she
+        could, so much—and it smelled good. And she got—and now, she could get{" "}
+        <i>me</i>—the job.
+        <br />
+        <br />
+        What kind of hours.
+        <br />
+        <br />
+        Nights, of course, and the other workers—
+        <br />
+        <br />
+        They’re nice, I said.
+        <br />
+        <br />
+        They’re nice, she said, they’re just like me.
+        <br />
+        <br />
+        Nice, I said, that’s nice.
+        <br />
+        <br />
+        The Company put more blue back, and spun her seat to turn one, two,
+        three complete circuits. Her eyes were focused somewhere over my head
+        all the while—she was spotting a point in space. That was how I used to
+        look up at the stars, riding my bicycle in circles in the dark. It was
+        how I looked at the bottles behind the bar. When her seat stopped
+        spinning, the Company blew a stray black bang from her nose, and
+        levelled her gaze. Her eyes were the acid blue of the errlight, and
+        burning into mine.
+        <br />
+        <br />
+        So you want the job, she said.
+        <br />
+        <br />
+        Granddad snorted. They won’t stick with it, he said, and shook his head.
+        <br />
+        <br />
+        Maybe Granddad was right. I had <i>six</i> years at Bowling Green, but
+        nonconsecutive—two, and one, and then three—and which never did sum to
+        any intact degree. Where, my mom used to say, is your will to get out of
+        Willard.
+        <br />
+        <br />
+        The Company looked up.
+        <br />
+        <br />
+        They won’t, she said, repeating the words slowly. I didn’t know that was
+        an option.
+        <br />
+        <br />
+        I don’t know that it is, I said.
+        <br />
+        <br />
+        Her eyes swivelled back to me, and she smiled.
+        <br />
+        <br />
+        You want the job, she said.
+        <br />
+        <br />
+        For a moment, I didn’t say anything, and Granddad said, <i>I</i> want
+        the job.
+        <br />
+        <br />
+        Shut up, Granddad, I said.
+        <br />
+        <br />
+        Sorry, she said, without shifting her gaze from mine, they’ve got right
+        of first refusal. You want the job.
+        <br />
+        <br />
+        Okay, sure, I said.
+        <br />
+        <br />
+        You want the job, she said again—now my want was drawn out in her
+        wording, so that it had two syllables. She was showing me the backs of
+        her hands, and pinching the air in her fingers, all mafioso.
+        <br />
+        <br />
+        Sure, I said, yes.
+        <br />
+        <br />
+        You want the job, she said. This third time, most of the words were
+        polysyllabic, rung round with vowel daisy chains that should garland the
+        page.
+        <br />
+        <br />
+        I could see that she wanted me to shake her hand. I could see that she
+        had rather long nails, thick and lead blue. The color of deadman’s
+        fingers, when they’re heaving through the earth in the spring. Only
+        these were probably sharp, too. But I did want the job, and I said, Yes.
+        I said, I want the job, with all the extra syllables, and I gave her my
+        hand, although she took it strange, and her nails were sharp, and
+        pressed crescent moons into the inside of my wrist.
+        <br />
+        <br />
+        She put back another shot, and then, I’d have sworn she palmed the
+        glass—I mean shuffled it under her cuff, and up her sleeve—except that
+        directly, I saw her balance it at the center of the enceinte, in pride
+        of place. Her castle’s keep.
+        <br />
+        <br />
+        Come on, she said, you can catch the bus that’s coming.
+        <br />
+        <br />
+        Now, I said, I mean—tonight. And stammered, although somewhere in my
+        head, cash hammers rang already from register drawers.
+        <br />
+        <br />
+        Sure, she said, tonight. I’ll walk you to the stop.
+        <br />
+        <br />
+        Well, you know—I wanted the job. What could I do.
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <p className={styles.sectionBreak}>#</p>
+        <br />
+        <br />
+        Granddad had gone around the corner, into the kitchen. He was muttering
+        something about red hats and ringing bells—but I couldn’t hear clearly,
+        and it didn’t register. When the Company got up to leave, I looked
+        doubtfully at our crystal castle on the bar. But she just waved her
+        hand.
+        <br />
+        <br />
+        On me, she said, and I’ll pay when I come back. I’ve got—I’ll have
+        plenty of time.
+        <br />
+        <br />
+        Outside, the Company eased the door effortlessly into its frame. The
+        only noise she made was the grind of one bootheel in the gravel border,
+        barely off balance. After all those errlights. Old Granddad—I mean the
+        whiskey—had me swishing from side to side, entirely off the path and in
+        the gravel—and having stepped, I believe, on a paddle of the Aldingers’s
+        prized eastern prickly pear. I sighed, and cast a guilty glance back
+        into Olaf’s Outer Space. Granddad—I mean the Aldinger—had reappeared
+        behind the bar. His arms were at his side, and there was an unreadable
+        expression on his face: the fur trim of his father’s Santa Claus cap
+        completely obscured his eyes.
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <p className={styles.sectionBreak}>#</p>
+        <br />
+        <br />
+        Once, my mother and I attended the Aldinger Christmas party—an annual event, which
+        we would never again. Granddad’s older sister must have invited everyone in our
+        class, and also—I remember, because thence the presence of my mother—everyone’s plus
+        one. 
+        <br />
+        <br />
+        I was going through a medieval phase—and my mother, a daring early middle age—so our
+        party dress was in heraldic particolor. My dress was an actual doublet—very
+        oversize, in velour and velvet offcuts—which Mom had stitched to coordinate with
+        the colorblock on her secondhand skirt set. Which was Westwood Gold Label, and way 
+        too cool for Willard: Oh, Westwood, another parent at the party said, my mother-in-law
+        has their tea set.
+        <br />
+        <br />
+        Also apparently by Westwood was Mrs. Aldinger’s punch ladle. A valuable antique, her
+        husband said, in ironstone transferware, and dating from the turn of the century. The
+        bonewhite handle—a very curved and hammerheaded affair—was presently swanning through
+        the slot in the Salvation Army kettle, which Olaf had expropriated for a punch bowl. My
+        mother wondered whether that was becoming of the Worshipful Master, who turned, in
+        turn, red as the kettle. Or red as his Santa Claus cap—Goddamned shipple, he
+        said—which was rapidly slipping down over his forehead. The Aldingers haven’t got
+        much of that, so he was all red toque, muttering that it was something he did for
+        the kids.
+        <br />
+        <br />
+        As a kid, I didn’t care about the kettle—come to that, I didn’t care about
+        the other kids. As a kid, I cared about the punch, which—under the crackle
+        of conversation—I lifted the lid to see. The hinges gave an untuneful
+        complaint, a screech of disuse proper to the sally port, the postern gate. But 
+        just then, Olaf was loudly expounding on ironstone, and its inventors the
+        Masons—that was, the other Masons, namely Miles and Charles James. So no
+        parent noticed—or none who cared.
+        <br />
+        <br />
+        On a moat the color of cranberry glass—a cocktail of clear pop and inscrutable
+        juices—our hosts had floated brilliant bergs of sherbet. There were rainbow
+        floes, and also, those in the tuliptree tones of triple citrus: pollen
+        yellow, pith green, and the orange of nectaries, or nectarines. Everywhere, the
+        ice exuded an opalescent foam, billows and conflows that made their milky way
+        over the red waters, and up the red concave of the cauldron wall. 
+        <br />
+        <br />
+        I <i>had</i> already been given a glass—I had, already, an unmistakable sherbet
+        moustache. But the first punch poured for me had been a slurry, only sparsely 
+        strewn with the seed pearls of pink and saffron frost, the glassy beads of
+        green corn snow. I wanted a rainbow berg—an intact and entire floe. And I had
+        my empty cup, and no one’s attention. Since the ladle was a valuable antique, I 
+        stood on tiptoe, and put my arm into the kettle up to my elbow.
+         <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <p className={styles.sectionBreak}>#</p>
+        <br />
+        <br />
+        My mother found me in the Aldinger’s yard, making a rigorous and very
+        red angel in the snow. 
+        <br />
+        <br />
+        Now she is total gules, she said, horribly tricked.
+        <br />
+        <br />
+       Or intoned, really—and then collapsed beside me in the snow. Between
+      streams of psychic tears as yet unfrozen, involuntary laughter crinkled my
+       nose—and then the effort of recalling <i>Macbeth</i>, my forehead.
+        <br />
+        <br />
+       Yet, I said, who would have thought the old man to have so much blood in him. 
+        <br />
+        <br />
+        She giggled, and punched my shoulder. 
+        <br />
+        <br />
+        To have <i>had</i>, she said.
+        <br />
+        <br />
+        Even through my doublet, her skin was cold—the Westwood suit had
+        shortsleeves. She set her shoulders in the snow, and turned her eyes
+        to the northern sky. 
+        <br />
+        <br />
+        Are we wishing on a star, she said.
+        <br />
+        <br />
+        Sure, I said.
+        <br />
+        <br />
+        Well, which, she said.
         <br/>
-        “I know. They think we’re here on some kind of sabbatical. A family
-        vacation. It’s anything but. If this keeps up … I don’t know how much
-        longer I can hold out. Every day I remember why I wanted to get out of
-        Asia.”
+        <br/>
+        Mrs. Aldinger’s little dipper, I said.
+        <br/>
+        <br/>
+        Ah, she said, and are we having black and deep desires?
+        <br/>
+        <br/>
+        I punched her shoulder. Her skin was <i>really</i> cold. 
+        <br/>
+        <br/>
+        Come on, Mom, I said, let’s get you home. 
+        <br/>
+        <br/>
+        Sure, she said, and standing first, she hoisted me out of the snow. Then
+        she crinkled her nose. 
+        <br/>
+        <br/>
+        Honestly, what kind of fruit is that, she said.
         <br />
         <br />
-        “I’m on assignment. It’s not like I can roll it back on my own, after
-        all the trouble the company took getting us here.”
         <br />
         <br />
-        “Tell them I’m fed up. We’re making sacrifices here to make things work,
-        so you can experience working in Japan. It’s not just me. Your children!
-        They don’t see you anymore at night. You’re always coming home late …
-        They hate you. Just like a salaryman. Tell them that’s okay. That’s what
-        we signed up for. But these phone calls ... It’s got to stop. You’ve got
-        to sleep at least. And if they can’t cut it out, then I’m going to tell
-        them myself we’re going home.”
         <br />
         <br />
-        Phoebe was right, of course. It would be a relief to get the troubles in
-        Los Angeles off his mind, even if it meant abandoning his colleagues to
-        their fate. What was his obligation to them? They were just his
-        co-workers.
         <br />
         <br />
-        “I’ve already said I’d take this call tonight, but this will be the last
-        one. I’ll send Ryo an email first thing in the morning.”
         <br />
         <br />
-        “Good. Now show me how to use this weather site.”
         <br />
         <br />
-        In the end, Phoebe decided not to make their son a sandwich. She did not
-        have time to prepare a bento box, though. She told Horace to stop by the
-        onigiri shop, which was advantageously positioned at the end of the
-        alley, at the intersection with the main road facing the school. It was
-        barely a window, run by an old couple. The wife, wearing an apron and
-        rag on her head, took the order while her husband made rice balls by
-        hand. It was the last resort employed by other parents. The onigiri was
-        discreetly packaged in unmarked wrapping, so it did not look like you
-        had bought it at a convenience store.
         <br />
         <br />
-        He asked his kid if he knew how to eat one.
         <br />
         <br />
-        Yes, he said, he traded his sandwich for one yesterday.
         <br />
         <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <p className={styles.sectionBreak}>夏</p>
-        <br />
-        <br />
-        Every day he either ate at his desk or went out with his co-workers for
-        lunch. The conversations kept coming back to the same questions, about
-        was he getting used to Japan yet. Now that the rain had finally stopped,
-        though, he wanted to take a look outside, alone. It had suddenly turned
-        hot. The rain turned into steam. He kept to the back alleys because they
-        were in the shade and also because it was easy to get lost in there. Not
-        that he could not find his way back, although he figured the mazes were
-        deep enough it would take him weeks, with these short breaks, to really
-        get to know them. But he wanted to get lost in the other sense, of
-        himself being the thing lost, of becoming anonymous, which was different
-        than being invisible. Invisibility was something imposed upon you.
-        Anonymity had to be worked at.
-        <br />
-        <br />
-        Each shop contained no more than two aisles. The shelves ran out along
-        exterior walls, so people were browsing on the sidewalk and in the
-        alleys. The goal did not seem so much to sell, since the appeal was
-        limited to only a few obsessives anyway, as to organize with nostalgia
-        in mind: with space so limited, each shelf was impeccably curated. The
-        importance of the books lay not so much in what was in them as in what
-        had happened around them, in the lives of their former owners. He came
-        across a collection of Katue Kitasono’s, Pound’s old buddy. So
-        apparently he actually existed. Shiro no arubumu. Is that where the
-        White Album came from? Did Yoko know about it? He found Malevich and
-        Picabia monographs next to maps of old Edo. He made his way up the
-        wooden stairs, posters on either side of him, to what was more of a
-        gallery than a bookstore, with framed prints for sale. In one corner, in
-        a glass case that was like looking into a diorama, he saw some black and
-        white photos that seemed to be film stills. Next to them was a letter,
-        in English, on ruled paper written in pretty cursive like a young
-        girl’s. To the recipient, who lived in Colorado, it said, “I have also
-        enclosed some photographs of an authentic harakiri ceremony, which I
-        hope you find interesting.” Signed, Yukio Mishima.
-        <br />
-        <br />
-        Now he was in a café with high-end speakers on either side of the bar.
-        Behind the counter were shelves lined with spine-out LPs and bottles of
-        gin and whiskey. The bass line hit like blocks of concrete. Too loud to
-        talk, but that was not the point. He had come in for iced coffee, but
-        everyone else, all of them lone men in their fifties, was sitting facing
-        the speakers. What was the tune? He was not a head, like them. The LP
-        was thoughtfully displayed face out: Stanley Turrentine’s <i>Up at </i>‘
-        <i>Minton</i>’<i>s</i>’. He was now some four months into this
-        experiment. Words to explain were hard to find. Anxieties clustered in
-        the start-and-stop of tightening and release. Why did even he feel the
-        tentacles of Tokyo society? He had to be careful not to let the
-        seemingly unresolvable frustrations of the job (the one in California,
-        not the one here) color his perception of Japan or the Japanese, or let
-        that bleed over to his co-workers. Otherwise you stopped seeing them as
-        human beings, as in a war. Which would be unprofessional.
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        Once they heard he had never been to a matsuri, his co-workers were
-        determined to take him.
-        <br />
-        <br />
-        There would be some “ero-grotesque” surprises in store, they promised.
-        At Yasukuni Shrine, as it turned out. He knew what was there, just did
-        not know it was so close by. So were they talking about the kamikaze
-        stuff? No. His co-workers did not seem to think anything about that. To
-        them there was nothing to the place other than that it was where to go
-        this time of year for Mitama. The only hint of controversy, as they
-        ascended the mild grade past Budokan, was a lone protestor squatting at
-        the base of a tree, decrying former Taiwanese president Lee Teng-hui’s
-        brother for being inside, which, as Horace thought of it, was less of a
-        shot at Japanese militarism than an attempt to discredit Taiwanese
-        autonomy.
-        <br />
-        <br />
-        The long walking path past the first torii gate had been lined with
-        thousands of yellow lanterns, bobbing in the pleasant summer night. The
-        lanterns and booths, whose gaudiness contrasted with the gray politeness
-        of the office, created a disorienting effect and obscured almost
-        completely the shrine itself. It came through in hints, looming behind
-        the festival glow in the shadows of eaves and old pines. The sound of
-        the crowd, interwoven with the stylized patter of the booth hawkers,
-        felt as if it were emanating from the grounds themselves. He ate
-        skewered ayu and yakisoba from a flimsy paper plate. Somewhat against
-        his will, he played the game with the paper scooper where you got a
-        goldfish in a plastic bag. He walked around with the fish the rest of
-        the night. Past the second gate and the Shinmon, the festival turned
-        into a cloud of colors and smoke. In front of the main hall, as somewhat
-        of a prank put on him by his co-workers, he joined the bon odori in the
-        plaza, clapping his hands and moving in a halting rhythm with other
-        dancers, welcoming back the dead to the world of the living.
-        <br />
-        <br />
-        They went to the freak tent. A scruffy-looking girl (or child-sized
-        woman) in a yukata stood on a box jabbering musically at the hypnotized
-        crowd while her colleagues extracted bills from them. From the painted
-        images, it was obvious the Snake Woman was the main attraction, although
-        several other curiosities were advertised. At one point, from a balcony
-        above the entrance, the Snake Woman, in white robe, hair long and
-        straight, face pale and lips blood red, made a teasing appearance with
-        one of her pets held outstretched between her fingers. Then she
-        vanished.
-        <br />
-        <br />
-        They waited for the room to clear out the exit on the other side before
-        being let into the tent. He could not pick a spot. The crowd simply
-        pushed him around until it stopped. The ground was sloped, so he could
-        see above the heads in front of him. It was hard to breathe. At some
-        point, when the room was sufficiently packed, the doors closed, and the
-        stage became a tumbling series of skits involving fire and off-color
-        jokes before the Snake Woman, waiting until the situation had just about
-        become intolerable, emerged. Her snakes, black and rubbery, moved in and
-        out of her fingers, and mouth, before, with somewhat less ritual than he
-        had been expecting, she bit into one, ripping it in half and spraying
-        blood into the crowd. She swallowed its parts. The closing image of the
-        night, as they were shuffled out to make way for the next group, was the
-        lower portion of her face, drenched in blood.
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        There were expat markets in Hiroo and Azabu. They told themselves it was
-        for the kids, having even made it out to Disneyland twice just for the
-        buffet, when in fact the boys were taking to a Japanese diet faster than
-        they did. By midsummer they had stopped going to family restaurants.
-        Instead: fish, rice, tea, the muted palette from which the entire
-        Japanese world was born. No surprise the traditional seasonal
-        ingredients, squid and eggplant in summer, were the best bets to add
-        some variation. That purity was elementary once you grasped it, but
-        seemed like a great revelation; the diet rooted you to the soil.
-        <br />
-        <br />
-        She ventured further out. It was hot, but a relief to be able to explore
-        with no rain. She was still pushing the stroller, but now she did not
-        have to put that awkward plastic covering on to keep baby dry. He could
-        breathe. One of the tricks she learned was taking the side alleys
-        through which she could maneuver the bulky stroller. Along the larger
-        avenues, although they were easier to navigate, she was always dodging,
-        or running into, pedestrians and bicycles on the narrow sidewalks, and
-        she had to stay wary of the car traffic speeding by only a few inches
-        off the curb. But the side alleys were quiet, especially by midmorning.
-        She could walk in the middle of the street and her mind could wander.
-        <br />
-        <br />
-        She had been taking Meiji-dori under the expressway to Hiroo, which took
-        about an hour one-way. But now she had found another route, deep off the
-        main intersection, through a street of old shops, one of those hidden
-        behind layers of development, layers that did not sprawl outward, but,
-        like much of Tokyo, spiraled inward. In doing so she stumbled across a
-        lost continent. There seemed to be only locals, meaning the immediate
-        neighborhood, who frequented it. Someone had come up with the idea of
-        playing oldies from loudspeakers strung up on street lamps. The effect
-        was to lend the old shops even more melancholy than they already had.
-        <br />
-        <br />
-        Hiroo by contrast was stylish. It was popular with expats and Japanese
-        used to life abroad, which, even in Tokyo, connoted something luxurious.
-        In other words, it was the neighborhood where you could buy bread,
-        cheese, steak, and wine. Even though looking around there was not much
-        that looked especially “Western,” it went beyond wealth. The more
-        traditionally well off neighborhoods she had been to. You felt a deep
-        reserve there. Here were convertibles. She had taken to coming here the
-        first few months when she was feeling homesick, or just needed some
-        relief from the confinement of the apartment, but lately she had been
-        going less.
-        <br />
-        <br />
-        Instead of north and west toward Hiroo and Roppongi, she began to check
-        out the neighborhood at the bottom of the grade that headed northeast.
-        Eventually it merged with Sakurada-dori. Over this wide thoroughfare,
-        due north, stood Tokyo Tower. Because the street ended at its base, it
-        was the most unobstructed view of the tower in the city. She never
-        walked that far, though. The furthest she got with the baby was the
-        entrance to Keio University and the alleys populated by students around
-        it. Most of the time she browsed the drugstore, teaching herself
-        Japanese cosmetics.
-        <br />
-        <br />
-        Baby and stroller became a voyager, pulling her instead of the other way
-        around. The spongy grip on the handle, training muscles in the wrists
-        and hands. The wheels hugging Tokyo’s uneven pavement. The stilling of
-        momentum when she threw on the brake. Keeping her ears out for baby’s
-        gurgling messages. Once she started taking the subway, worlds awaited,
-        although she was still limited to lines and stations that provided
-        convenient enough elevator access. That was because she was not allowed
-        by regulation to take the stroller on the escalator, and there was no
-        way she was going to carry it up and down stairs.
-        <br />
-        <br />
-        July provided the excuse to go to Harajuku, for the semiannual clearance
-        sales. Getting there required two transfers, but the stations were
-        relatively easy to get around in, and there was a new and spacious
-        elevator at Omotesando. She never bought much clothes in America, but
-        here they were made for her body. She knew fabrics. Part of her mother’s
-        side of the family was in the textile business, and she had spent a few
-        summers working for them. Now in the sale racks she developed an
-        appreciation for the typically fine Japanese attention to line and cut
-        in even the cheapest clothes. She had been losing weight since arriving
-        in Japan, a combination of diet and lack of sleep.
-        <br />
-        <br />
-        Charcoal cleansers, collagen masks, and BB whiteners brightened the tone
-        and sheen of her face. Her hair blackened from eating black sesame
-        seeds. Her clothes began to fit. For the first time since college, she
-        wore dresses. She blossomed. With her newfound feminine air, she finally
-        began to blend in with the women around her.
-        <br />
-        <br />
-        By two she made it back to pick up her other son from school. It had not
-        occurred to her before, for some reason, but she thought she had better
-        take some pictures of her children. They posed in the schoolyard, in the
-        small dirt-lot playground on the walk home, in front of one of the
-        temple gates, and in their own apartment, where they were most free. She
-        dressed them up in summer yukata. When she took them out, the other
-        parents thought it was so charming, maybe because they would not send
-        out their own kids in public that way.
-        <br />
-        <br />
-        Her oldest son had gone silent for the first month or so after going to
-        school. She knew, because the teacher had told Horace. He did not talk
-        in class. Well, how could he? But he did not talk much when he came
-        home, either. Just shrugged when she asked him how was his day. He had
-        always been an outgoing kid, so she was afraid she was traumatizing him.
-        But around the beginning of summer, he changed. Not just talking, but
-        streams of Japanese. At first it was to his friends only, with whom he
-        had been speaking until then in that universal kids’ language. But then
-        it was to adults too, and he spoke it naturally with no accent. At home
-        he even started watching NHK and sentai shows. He put on puppet shows in
-        Japanese for his brother.
-        <br />
-        <br />
-        So she was the only one still having a tough time, even though she was,
-        she thought, making the best of it. She continued to keep her distance
-        from the other mothers. You could guess what kind of scene that was.
-        There was a woman who had spent some years in Australia and a Filipino
-        woman who could speak English. She avoided them.
-        <br />
-        <br />
-        It was more important, somehow, first to understand the messages being
-        sent to her in shops, on websites, in advertising in subway cars and
-        stations, and on television. That is, to be a consumer. This included
-        not only what was being said but what was behind it. Somehow it made her
-        feel more human. Of course it helped she could read kanji. Although she
-        could not speak, they did not regard her as a total foreigner for this.
-        <br />
-        <br />
-        What would happen to them when they returned? Neither she nor Horace
-        thought about it. In his case, it was a little clearer. In hers, the
-        entire trajectory of her working life over the past ten years had been
-        truncated. She was still collecting unemployment.
-        <br />
-        <br />
-        Everything she did not like about Taiwan was somehow worse here. There
-        was the smallness of minds, the pretension, the insufferableness of the
-        men, the pettiness of the women. Being the mother of a small child and a
-        housewife was a peculiar and devious kind of death sentence here. Her
-        health was probably suffering. Just as she had growing up, she had odd
-        pains here and there, and she never got a good night’s sleep. It may
-        have also been ghosts, the kind that belonged to East Asia, especially
-        during the summer.
-        <br />
-        <br />
-        Yet she could not say she disliked it. She found herself thinking of her
-        father and the time he spent as a college student in Japan. She stalked
-        his spirit and sentimentally felt closer to him for it. She was reminded
-        she should visit her sister in Osaka. It was assumed she would, when the
-        timing worked out, but she realized now it was no small matter to get to
-        Kansai. Somehow in Tokyo you never thought of it. It was only on the
-        subway, where the travel agencies and local tourism boards beckoned with
-        this or that escape. Mount Takao. Kawagoe. Nikko. Miura. Matsumoto.
-        Kumamoto. Okinawa. In her darker moods, especially those first few
-        months, she had thought of bringing the kids with her to live with her
-        mother in Taiwan, or with her sister in Kansai. At least now she could
-        say she did not think about that anymore.
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <p className={styles.sectionBreak}>秋</p>
-        <br />
-        <br />
-        One morning, with the decorum and alacrity with which everything was
-        done here, it was autumn. Beyond the sudden snap to the air, the store
-        displays, as if pulling a curtain, moved on to themes of colored leaves
-        and seasonal produce and fish. For Horace, there was an element of
-        nostalgia, in the underlying smoke in the air that reminded him of New
-        England.
-        <br />
-        <br />
-        For the first time he could remember, they were battling neither cold
-        nor rain nor heat on the morning walks to school. Maybe because of that,
-        the boy walked with more bounce, chatting about his friends and
-        teachers, whom he never talked about before. Maybe it was just because
-        he was getting better at Japanese, and they were treating him like one
-        of them finally.
-        <br />
-        <br />
-        They took shortcuts now, instead of going along the main street. They
-        cut into a side alley, by a post office, and through an old shrine gate
-        from Edo. The remains of a greater gate, painted vermillion, with a
-        tiled roof, rested in a field amid the modern mansions and narrow family
-        houses.
-        <br />
-        <br />
-        He let the boy walk at his own pace, while he stayed behind. What struck
-        him, but of course this would be the case, was that the boy did not
-        march off to school in a straight line, but wound around, taking his
-        sweet time. He would get distracted by a weed or a bug or a song.
-        <br />
-        <br />
-        They were brought up to the school entrance foyer to the step where the
-        boy took off his shoes and changed into his white sneakers. He had
-        traded in his summer straw boater for a felt bowler. It was getting just
-        cold enough in the mornings that Horace thought about putting a coat
-        over the boy’s uniform jacket. Now the boy did not hang around anymore.
-        He ran straight off to class without saying goodbye.
-        <br />
-        <br />
-        The principal caught him. He gave a deep bow. As far as he could tell,
-        he was the only adult man around. He took off his shoes and left them at
-        the step, pointed toward the door, and put on a pair of slippers. She
-        went to her desk. His son had been given a role in the school play. A
-        prominent role, some kind of animal, which meant he did not have
-        speaking lines. But she meant the boy was coming along well. She also
-        said in a couple of weeks there was going to be a Sunday family event, a
-        curry cookoff, and both mothers and fathers should come. She placed some
-        emphasis on this last point. Then she handed him a flier.
-        <br />
-        <br />
-        In the hall he could hear the teacher playing a stirring piano tune and
-        singing along with the children with real gusto. It struck him what they
-        asked these kindergarten teachers to do. They were all young women,
-        every one with a certain something to them. Big-sisterly was the best he
-        could put it. Piano and carrying a tune on a long list of requirements,
-        in addition to arts and crafts and keeping order among the children,
-        which they seemed preternaturally adept at doing.
-        <br />
-        <br />
-        Maybe because he no longer felt as if he were leaving the boy to a
-        potentially cruel fate, he went off to work more lighthearted too,
-        moving through the residential back alleys that saw the least traffic.
-        <br />
-        <br />
-        Baby was getting longer. At first he thought it was just he was getting
-        thinner. Unlike the older boy, he had not taken to the diet of fish and
-        rice. He ate—just enough. Nonetheless, clearly he was growing. There
-        were the clothes, hand-me-downs, that were just right for him now. His
-        arms and legs were getting firmer. Horace told Phoebe to stop taking the
-        stroller. Make him walk.
-        <br />
-        <br />
-        Without the stroller, their habits touring the city changed. No longer
-        confined only to those places that afforded them a wide berth, parks or
-        malls or places otherwise underpopulated, they could go more or less
-        where other people went. Certain train lines became newly accessible. It
-        was a revelation, for instance, how close Ginza was. They had taken a
-        roundabout path before, because they could not use stations that only
-        had stairs. But now baby was not only navigating steps pretty well, but
-        hills too. Where they would have only gone to Ginza on Sunday, when they
-        closed Chuo-dori to traffic, now they could have an early dinner on a
-        weekday, if he got home early enough, something he was doing more
-        frequently, and take off for an evening stroll among Tokyo’s most
-        storied shopping blocks and still make it back in time for bath and
-        bedtime. It seemed like a great luxury, and they suddenly felt like
-        civilized people, living in this, the world’s most civilized city.
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        Even where the leaves had not changed were signs of the season, such as
-        the sugidama, cedar balls, hanging outside saké shops; bound and tied
-        (plastic) Shanghai crab in the windows of Chinese restaurants; plastic
-        leaves tied to streetlights; and people wearing fall fashions still too
-        warm for the weather. There were natural signs too, such as the one the
-        older boy found so exciting, the dried husk of a cicada on the sidewalk.
-        This is what they looked like? Like robot armor? And its negative
-        complement: the silence in the trees. All conspired in a way that did
-        not feel so much like coercion, towards purchases or production, as
-        instruction. For the behavior asked for was strangely useless. It was an
-        awareness of the breaking of the rhythm of everyday pursuits, that is,
-        of time passing. Remembrances of what one was doing this time last year.
-        Allowing a breath to be taken. In this sense it was even more insidious
-        than mere advertising, not so much about control than propriety, not one{" "}
-        <i>must</i>, but one <i>should</i>. “In order to gain a better
-        appreciation …”
-        <br />
-        <br />
-        They were in Yoyogi Park on the weekend. Horace had brought the boys
-        here, with Phoebe taking her time at Harajuku Crossing. She joined them
-        later, not long after they found their way past the rockabilly greasers.
-        The boys zigzagged on the grass. The dull thud of a trance festival came
-        over the row of trees to their left. It was almost dusk. It had been
-        mild, a perfect day, days which only came in the short window of this
-        time of year, but with the sun going down, the air took on a chill, and
-        he was afraid they were not dressed for it.
-        <br />
-        <br />
-        Sunlight cut through the trees. A desert glow. Cold. Crows hopped out of
-        the trees in ominously larger and larger congregations. Then he began to
-        notice people laying blankets on the grass as they put on scarves and
-        warmer clothes. Some of them broke out bottles of beer. Was the festival
-        moving here for the night? But the people on the grass were older men
-        and women, some with children.
-        <br />
-        <br />
-        A crow was going through somebody’s backpack.
-        <br />
-        <br />
-        “Look up.”
-        <br />
-        <br />
-        The full moon was bright and clear.
-        <br />
-        <br />
-        He had forgotten it was the Mid-Autumn Festival. He did not know they
-        celebrated it in Japan too, or how.
-        <br />
-        <br />
-        “Too bad we don’t have any moon cakes,” Phoebe said. The Chinese custom
-        was to sit out on a clear autumn night and take in the moonlight. Eat
-        cakes and recite poetry.
-        <br />
-        <br />
-        “We could go to Yokohama. They sell them there year round.” It was a
-        kind of joke between them they did that.
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <p className={styles.sectionBreak}>酉 の 市</p>
+        <p className={styles.sectionBreak}>#</p>
         <br />
         <br />
         “Shinjuku 3-chome, in front of Isetan.”
