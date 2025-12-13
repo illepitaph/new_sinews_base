@@ -63,30 +63,51 @@
   line-height: 1.2rem;
 }
 
+@media (max-width: 835px) and (orientation: portrait) {
+  .margin, .marginTwo {
+    margin-left:5vw;
+  }
+
+}
+
+@media (max-width: 813px) and (orientation: landscape) {
+  .margin, .marginTwo {
+    margin-left:2vw;
+  }
+
+  .titleTwo {
+    font-size:0;
+    opacity:0;
+  }
+
+}
 
 @media (max-width: 541px) and (orientation: portrait) {
-  .title {
-    font-size: 1rem;
+  .margin, .marginTwo {
+    margin-left:2vw;
   }
 
-  .titleTwo {
-    font-size: 1.2rem;
+  .title, .special, .specialTwo {
+    font-size:1.8rem;
   }
+
+   .titleTwo {
+    font-size:0;
+    opacity:0;
+  }
+
 }
 
-@media (max-width: 321px) and (orientation: portrait) {
-
-  .titleTwo {
-    font-size: 1.1rem;
+@media (max-width: 361px) and (orientation: portrait) {
+  .title, .titleTwo, .special, .specialTwo {
+    font-size:1.7rem;
   }
+
 }
 
-@media (max-width: 281px) and (orientation: portrait) {
-  .title {
-    font-size: 0.9rem;
+@media (max-width: 361px) and (orientation: portrait) {
+  .title, .titleTwo, .special, .specialTwo {
+    font-size:1.5rem;
   }
 
-  .titleTwo {
-    font-size: 1rem;
-  }
 }
