@@ -9,12 +9,12 @@ Blazes.title = "hannah_brooks-motl ~ blazes (trails) — new_sinews";
 Blazes.pieceName = "hannah_brooks-motl ~ blazes (trails) — new_sinews";
 Blazes.description =
   "_HANNAH BROOKS-MOTL_poetry_BLAZES (TRAILS)_new_sinews_issue9_";
-Blazes.image = "https://www.newnewsinews.com/images/CreditsBackground.jpg";
+Blazes.image = "https://www.newnewsinews.com/images/BlazesBackground.jpg";
 
 export default function Blazes() {
   return (
     <>
-      <Header headerBackground="creditsBackground" />
+      <Header headerBackground="blazesBackground" />
       <br />
       <br />
       <br />

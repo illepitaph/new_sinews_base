@@ -478,6 +478,10 @@
   background-image: url("../public/images/ShortbreadBackground.jpg");
 }
 
+.blazesBackground {
+  background-image: url("../public/images/BlazesBackground.jpg");
+}
+
 @media (width: 1366px) and (height: 1024px) {
   .siteNav > .dropDown > a > button,
   .home,
