@@ -5,10 +5,10 @@ import LeftBlackTitle from "../../components/leftBlackTitle.js";
 import Footer from "../../components/footer.js";
 import styles from "../../styles/Darsee.module.css";
 Darsee.title =
-  "zoe darsee ~ these shapes are sure to create a symbiotic union ++ choking itself on the regurgitated belief in production ++ — new_sinews";
+  "zack darsee ~ these shapes are sure to create a symbiotic union ++ choking itself on the regurgitated belief in production ++ — new_sinews";
 Darsee.pieceName =
-  "zoe darsee ~ these shapes are sure to create a symbiotic union ++ choking itself on the regurgitated belief in production ++ — new_sinews";
-Darsee.description = "_Zoe Darsee_poetry_10 POEMS_issue9_";
+  "zack darsee ~ these shapes are sure to create a symbiotic union ++ choking itself on the regurgitated belief in production ++ — new_sinews";
+Darsee.description = "_Zack Darsee_poetry_10 POEMS_issue9_";
 Darsee.image = "https://www.newnewsinews.com/images/DarseeBackground.jpg";
 
 export default function Darsee() {
@@ -98,10 +98,10 @@ export default function Darsee() {
         <span className={styles.nameHeight}>
           <span className={styles.inverseNameShadow}>z </span>
 
-          <span className={styles.specialCursive}>o</span>
+          <span className={styles.specialCursive}>ac</span>
           <span className={styles.inverseNameShadow}>
             {" "}
-            <i>e</i>
+            <i>k</i>
           </span>
           <br />
           <br />
