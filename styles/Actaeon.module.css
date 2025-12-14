@@ -1,6 +1,6 @@
 .titleShadow {
   display: block;
-  font-size: 4.1rem;
+  font-size: 3.6rem;
   color: black;
   text-shadow: 2px 2px #00ffff, 4px 4px black, 6px 6px #00ffff;
   letter-spacing: 3rem;
@@ -68,7 +68,7 @@
 @media (max-width: 933px) and (orientation: landscape) {
   .titleShadow {
     margin-right: 12vw;
-    font-size: 3.7rem;
+    font-size: 3.5rem;
     letter-spacing: 0.4rem;
   }
 }
