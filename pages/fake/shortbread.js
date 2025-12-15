@@ -633,7 +633,7 @@ export default function Shortbread() {
         middle age—so our party dress was in heraldic particolor. My dress was
         an actual doublet—very oversize, in velour and velvet offcuts—which Mom
         had stitched to coordinate with the colorblock on her secondhand skirt
-        set. Which was Westwood Gold Label, and way too cool for Willard: Oh,
+        set. Which was Westwood Gold Label, and <i>way</i> too cool for Willard: Oh,
         Westwood, another parent at the party said, my mother-in-law has their
         tea set.
         <br />
