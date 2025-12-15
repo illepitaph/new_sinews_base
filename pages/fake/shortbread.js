@@ -267,7 +267,7 @@ export default function Shortbread() {
         overlong sleeves fairly frayed at the cuffs, and duffled shorts in a
         drab green gabardine or duck. These fell to half calf, covering the
         upper shaft of her buckskin boots through the scoop in the scallop. So,
-        no, the hat didn’t go. Did mine, though.
+        <i>no</i>, the hat didn’t go. Did mine, though.
         <br />
         <br />
         She said, Want a cookie.
