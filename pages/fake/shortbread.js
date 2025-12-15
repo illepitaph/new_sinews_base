@@ -7,7 +7,8 @@ Shortbread.title = "zebulon_horse ~ shortbread — new_sinews";
 Shortbread.pieceName = "zebulon_horse ~ shortbread — new_sinews";
 Shortbread.description =
   "_Zebulon Horse_fiction_SHORTBREAD_news_sinews_issue9_";
-Shortbread.image = "https://www.newnewsinews.com/images/ShortbreadBackground.jpg";
+Shortbread.image =
+  "https://www.newnewsinews.com/images/ShortbreadBackground.jpg";
 
 export default function Shortbread() {
   return (
@@ -373,6 +374,9 @@ export default function Shortbread() {
         <br />
         Her eyes went teary, at that, and she looked beyond me—maybe to
         Granddad, I thought.
+        <br />
+        <br />
+        Yeah, she said, Mac. My momma used to call me that.
         <br />
         <br />
         Beyond the bartender, then.
