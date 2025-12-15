@@ -125,7 +125,8 @@ open to the croon`}
         {`Porsche from Vermont
 Fit in Massachusetts 
 The problem is that of knowledge I knowwwww 
-No it’s about action inaction I’m waiting for a covid test it’s about Privilege always optimism when I’m  
+No it’s about action inaction I’m waiting for a covid test it’s about
+Privilege always optimism when I’m  
 In a thought about poetry “now” but need my hand to further it`}
       </pre>
       <br />
