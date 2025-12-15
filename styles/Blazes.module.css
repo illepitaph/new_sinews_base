@@ -1,68 +1,68 @@
 .titleShadow {
-    display:inline-block;
-    color: white;
-    font-size: 3.3rem;
-    text-shadow: 1px 1px black, 4px 4px 16px black;
-    text-transform: uppercase;
-    opacity: 0.6;
-  }
-  
-  .inverseShadow {
-    font-size: 3.6rem;
-    color: black;
-    text-shadow: 4px 4px snow, 6px 6px 16px dimgray;
-  }
-  
-  .inverseShadowAlternate {
-    font-size: 3.1rem;
-    color: black;
-    text-shadow: 4px 4px snow, 5px 5px black, 6px 6px gainsboro;
-    opacity: 0.8;
-    text-transform: uppercase;
-  }
-  
-  .blueAlternate {
-    font-size: 3.1rem;
-    color: #00ffff;
-    text-shadow: 4px 4px snow, 5px 5px 15px black;
-    opacity: 0.6;
-    text-transform: uppercase;
-  }
-  
-  .blueAlternateTwo {
-    font-size: 3.1rem;
-    color: #00ffff;
-    text-shadow: 4px 4px snow, 5px 5px 15px black;
-    opacity: 0.6;
-    text-transform: lowercase;
-  }
+  display: inline-block;
+  color: white;
+  font-size: 3.3rem;
+  text-shadow: 1px 1px black, 4px 4px 16px black;
+  text-transform: uppercase;
+  opacity: 0.6;
+}
 
-  .specialCursive {
-    font-size: 7.5rem;
-    font-family: "bickham-script-pro-3", sans-serif;
-    font-weight: 400;
-  }
-  
-  .grayShadowUpper {
-    font-size: 2rem;
-    color:white;
-    font-family: "lores-9-plus-wide", monospace;
-    text-shadow: 3px 3px black, 5px 5px white, 3px 3px 12px black;
-    text-align: center;
-  }
+.inverseShadow {
+  font-size: 3.6rem;
+  color: black;
+  text-shadow: 4px 4px snow, 6px 6px 16px dimgray;
+}
 
-  .grayShadowUpperTwo {
-    font-size: 1.51rem;
-    font-family: "lores-9-plus-wide", monospace;
-    text-shadow: 1px 1px snow, 2px 2px #b0b0b0;
-    text-transform: uppercase;
-  }
+.inverseShadowAlternate {
+  font-size: 3.1rem;
+  color: black;
+  text-shadow: 4px 4px snow, 5px 5px black, 6px 6px gainsboro;
+  opacity: 0.8;
+  text-transform: uppercase;
+}
 
-  .uppercase {
-    text-transform: uppercase;
-  }
+.blueAlternate {
+  font-size: 3.1rem;
+  color: #00ffff;
+  text-shadow: 4px 4px snow, 5px 5px 15px black;
+  opacity: 0.6;
+  text-transform: uppercase;
+}
 
-  .poem {
+.blueAlternateTwo {
+  font-size: 3.1rem;
+  color: #00ffff;
+  text-shadow: 4px 4px snow, 5px 5px 15px black;
+  opacity: 0.6;
+  text-transform: lowercase;
+}
+
+.specialCursive {
+  font-size: 7.5rem;
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-weight: 400;
+}
+
+.grayShadowUpper {
+  font-size: 2rem;
+  color: white;
+  font-family: "lores-9-plus-wide", monospace;
+  text-shadow: 3px 3px black, 5px 5px white, 3px 3px 12px black;
+  text-align: center;
+}
+
+.grayShadowUpperTwo {
+  font-size: 1.51rem;
+  font-family: "lores-9-plus-wide", monospace;
+  text-shadow: 1px 1px snow, 2px 2px #b0b0b0;
+  text-transform: uppercase;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.poem {
   max-width: 70vw;
   font-family: "base-9-sans", sans-serif;
   font-weight: 300;
@@ -72,110 +72,182 @@
   letter-spacing: -0.02rem;
   line-height: 1.7em;
   margin-left: 23vw;
+  white-space: pre-wrap;
 }
 
-
-  
-  @media (max-width: 932px) and (orientation: landscape) {
-
-    .titleShadow {
-      font-size:2.5rem;
-    }
-
-    .blueAlternate, .blueAlternateTwo {
-      font-size:3.1rem;
-    }
-  
-    .box {
-      max-width: 55vw;
-      margin-left: 15.5vw;
-    }
+@media (width: 1194px) and (height: 834px) {
+  .poem {
+    max-width: 90vw;
+    margin-left: 9vw;
   }
-  
-  @media (max-width: 913px) and (orientation: portrait) {
-  
-    .box {
-      max-width: 95vw;
-      margin-left: 1.5vw;
-    }
+}
+
+@media (width: 1180px) and (height: 820px) {
+  .poem {
+    max-width: 90vw;
+    margin-left: 9vw;
   }
-  
-  @media (max-width: 901px) and (orientation: landscape) {
+}
 
-    .specialCursive {
-      font-size:5rem;
-    }
-
-    .box {
-      margin-left: 17.5vw;
-    }
+@media (width: 1080px) and (height: 810px) {
+  .poem {
+    max-width: 90vw;
+    margin-left: 9vw;
   }
+}
 
-  @media (max-width: 746px) and (orientation: landscape) {
-
-    .grayShadowUpper {
-      font-size:1.6rem;
-    }
+@media (width: 1024px) and (height: 1366px) {
+  .poem {
+    max-width: 94vw;
+    margin-left: 6vw;
   }
-  
-  
-  @media (max-width: 541px) and (orientation: portrait) {
-    .titleShadow,
-    .inverseShadow,
-    .inverseShadowAlternate,
-    .blueAlternate,
-    .blueAlternateTwo {
-      font-size: 2.5rem;
-    }
+}
 
-    .titleShadow {
-      line-height:5rem;
-    }
+@media (width: 1024px) and (height: 768px) {
+  .poem {
+    max-width: 94vw;
+    margin-left: 6vw;
+  }
+}
+
+@media (width: 1024px) and (height: 600px) {
+  .poem {
+    max-width: 90vw;
+    margin-left: 9vw;
+  }
+}
+
+@media (max-width: 933px) and (orientation: landscape) {
+  .titleShadow {
+    font-size: 2.5rem;
   }
 
-  @media (max-width: 361px) and (orientation: portrait) {
-    .titleShadow,
-    .inverseShadow,
-    .inverseShadowAlternate,
-    .blueAlternate,
-    .blueAlternateTwo {
-      font-size: 2.1rem;
-    }
+  .blueAlternate,
+  .blueAlternateTwo {
+    font-size: 3.1rem;
   }
-  
-  @media (max-width: 431px) and (orientation: portrait) {
-    .grayShadowUpper {
-      font-size:1.5rem;
-    }
+
+  .poem {
+    max-width: 90vw;
+    margin-left: 9vw;
   }
-  
-  @media (max-width: 361px) and (orientation: portrait) {
-    .titleShadow,
-    .inverseShadow,
-    .inverseShadowAlternate,
-    .blueAlternate,
-    .blueAlternateTwo {
-      font-size: 2.1rem;
-    }
+}
+
+@media (width: 912px) and (height: 1368px) {
+  .poem {
+    max-width: 90vw;
+    margin-left: 9vw;
   }
-  
-  @media (max-width: 321px) and (orientation: portrait) {
-    .titleShadow,
-    .inverseShadow,
-    .inverseShadowAlternate,
-    .blueAlternate,
-    .blueAlternateTwo {
-      font-size: 2rem;
-    }
+}
+
+@media (max-width: 901px) and (orientation: landscape) {
+  .specialCursive {
+    font-size: 5rem;
   }
-  
-  @media (max-width: 281px) and (orientation: portrait) {
-    .titleShadow,
-    .inverseShadow,
-    .inverseShadowAlternate,
-    .blueAlternate,
-    .blueAlternateTwo {
-      font-size: 1.7rem;
-    }
+}
+
+@media (width: 853px) and (height: 1280px) {
+  .poem {
+    max-width: 90vw;
+    margin-left: 9vw;
   }
-  
+}
+
+@media (max-width: 835px) and (orientation: portrait) {
+  .poem {
+    max-width: 93vw;
+    margin-left: 6vw;
+  }
+}
+
+@media (max-width: 813px) and (orientation: landscape) {
+  .poem {
+    font-size: 1.1rem;
+  }
+}
+
+@media (max-width: 761px) and (orientation: landscape) {
+  .poem {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 746px) and (orientation: landscape) {
+  .grayShadowUpper {
+    font-size: 1.6rem;
+  }
+}
+
+@media (max-width: 541px) and (orientation: portrait) {
+  .titleShadow,
+  .inverseShadow,
+  .inverseShadowAlternate,
+  .blueAlternate,
+  .blueAlternateTwo {
+    font-size: 2.5rem;
+  }
+
+  .titleShadow {
+    line-height: 5rem;
+  }
+
+   .poem {
+    max-width: 98vw;
+    font-size: 0.79rem;
+    margin-left: 1vw;
+  }
+}
+
+@media (max-width: 431px) and (orientation: portrait) {
+
+   .poem {
+    font-size: 0.71rem;
+    }
+}
+
+@media (max-width: 431px) and (orientation: portrait) {
+  .grayShadowUpper {
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 391px) and (orientation: portrait) {
+
+    .poem {
+    font-size: 0.6rem;
+  }
+}
+
+@media (max-width: 361px) and (orientation: portrait) {
+  .titleShadow,
+  .inverseShadow,
+  .inverseShadowAlternate,
+  .blueAlternate,
+  .blueAlternateTwo {
+    font-size: 2.1rem;
+  }
+}
+
+@media (max-width: 321px) and (orientation: portrait) {
+  .titleShadow,
+  .inverseShadow,
+  .inverseShadowAlternate,
+  .blueAlternate,
+  .blueAlternateTwo {
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 281px) and (orientation: portrait) {
+  .titleShadow,
+  .inverseShadow,
+  .inverseShadowAlternate,
+  .blueAlternate,
+  .blueAlternateTwo {
+    font-size: 1.7rem;
+  }
+
+  .poem {
+    font-size: 0.5rem;
+  }
+}

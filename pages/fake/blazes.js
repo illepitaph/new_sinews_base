@@ -115,7 +115,9 @@ open to the croon`}
       <br />
       <br />
       <br />
-      <p className={styles.grayShadowUpper}>Maybe tuning</p>
+      <p className={styles.grayShadowUpper}>
+        M<span className={styles.uppercase}>a</span>ybe tuning
+      </p>
       <br />
       <br />
       <br />
@@ -198,7 +200,9 @@ Iris tips talons on railroad street`}
       <br />
       <br />
       <br />
-      <p className={styles.grayShadowUpper}>Lax flight</p>
+      <p className={styles.grayShadowUpper}>
+        L<span className={styles.uppercase}>a</span>x flight
+      </p>
       <br />
       <br />
       <br />
@@ -241,7 +245,10 @@ All dominoing spiraling out.`}
       <br />
       <br />
       <br />
-      <p className={styles.grayShadowUpper}>Baltimore secac</p>
+      <p className={styles.grayShadowUpper}>
+        B<span className={styles.uppercase}>a</span>ltimore sec
+        <span className={styles.uppercase}>a</span>c
+      </p>
       <br />
       <br />
       <br />
@@ -324,7 +331,9 @@ Next conference in Vancouver`}
       <br />
       <br />
       <br />
-      <p className={styles.grayShadowUpper}>Coffee tables</p>
+      <p className={styles.grayShadowUpper}>
+        Coffee t<span className={styles.uppercase}>a</span>bles
+      </p>
       <br />
       <br />
       <br />
@@ -346,7 +355,7 @@ Emily Gowers
 
 168 castle st`}
       </pre>
-       <br />
+      <br />
       <br />
       <br />
       <p className={styles.grayShadowUpper}>Philly</p>
@@ -373,18 +382,15 @@ the bad parts were so I skipped them. read valiantly of us.`}
       <br />
       <br />
       <br />
-      <p className={styles.grayShadowUpper}>Lorine24!
-</p>
+      <p className={styles.grayShadowUpper}>Lorine24!</p>
       <br />
       <br />
       <br />
-      <pre className={styles.poem}>
-        {`Apple`}
-      </pre>
-       <br />
+      <pre className={styles.poem}>{`Apple`}</pre>
       <br />
       <br />
-       <p className={styles.grayShadowUpper}>3429 rue Drummond</p>
+      <br />
+      <p className={styles.grayShadowUpper}>3429 rue Drummond</p>
       <br />
       <br />
       <br />
@@ -398,8 +404,9 @@ important truths about the mission of this`}
       <br />
       <br />
       <br />
-      <p className={styles.grayShadowUpper}>Laundry club
-</p>
+      <p className={styles.grayShadowUpper}>
+        L<span className={styles.uppercase}>a</span>undry club
+      </p>
       <br />
       <br />
       <br />
@@ -410,11 +417,12 @@ everyone can see me here anyone will know
 Because what is art, why is it art and not something else or what is the
 other thing that isn’t it but still`}
       </pre>
-       <br />
       <br />
       <br />
-       <p className={styles.grayShadowUpper}>Ora
-</p>
+      <br />
+      <p className={styles.grayShadowUpper}>
+        Or<span className={styles.uppercase}>a</span>
+      </p>
       <br />
       <br />
       <br />
@@ -428,11 +436,10 @@ right on it
 
 At the stop sign take a slight right turn onto highway 92`}
       </pre>
-       <br />
       <br />
       <br />
-      <p className={styles.grayShadowUpper}>Westie
-</p>
+      <br />
+      <p className={styles.grayShadowUpper}>Westie</p>
       <br />
       <br />
       <br />
@@ -443,11 +450,12 @@ Bettyhill—Betty
 Unapool—Una
 Iona—I`}
       </pre>
-       <br />
       <br />
       <br />
-      <p className={styles.grayShadowUpper}>Ora
-</p>
+      <br />
+      <p className={styles.grayShadowUpper}>
+        Or<span className={styles.uppercase}>a</span>
+      </p>
       <br />
       <br />
       <br />
@@ -457,11 +465,10 @@ Those who rested comfortably in the privacy of their talents
 That might sound surreal but if you actually look …
 Zing of unimpeded transmission—zingers`}
       </pre>
-        <br />
       <br />
       <br />
-      <p className={styles.grayShadowUpper}>St Ann
-</p>
+      <br />
+      <p className={styles.grayShadowUpper}>St Ann</p>
       <br />
       <br />
       <br />
@@ -478,8 +485,10 @@ God loves a cheerful giver`}
       <br />
       <br />
       <br />
-      <p className={styles.grayShadowUpper}>Outsider art fair
-</p>
+      <p className={styles.grayShadowUpper}>
+        Outsider <span className={styles.uppercase}>a</span>rt f
+        <span className={styles.uppercase}>a</span>ir
+      </p>
       <br />
       <br />
       <br />
@@ -489,11 +498,10 @@ brown kind of red and blue behind a red boat black sail orange clouds
 with cream in them a rope frame a carpet frame white horses painted
 by Purvis Young`}
       </pre>
-        <br />
       <br />
       <br />
-      <p className={styles.grayShadowUpper}>Bio soc
-</p>
+      <br />
+      <p className={styles.grayShadowUpper}>Bio soc</p>
       <br />
       <br />
       <br />
