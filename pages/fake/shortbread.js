@@ -521,7 +521,7 @@ export default function Shortbread() {
         Okay, sure, I said.
         <br />
         <br />
-        You want the job, she said again—now my want was drawn out in her
+        You want the job, she said again—now my <i>want</i> was drawn out in her
         wording, so that it had two syllables. She was showing me the backs of
         her hands, and pinching the air in her fingers, all mafioso.
         <br />
