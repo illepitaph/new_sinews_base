@@ -28,17 +28,21 @@ export default function Issue9() {
           <div className={styles.workLink}>
             <Link href="/fake/blazes" passHref>
               <div className={styles.workLink}>
+                ha<span className={styles.lowercase}>n</span>na
+                <span className={styles.lowercase}>h</span> broo
+                <span className={styles.lowercase}>k</span>s-mo
+                <span className={styles.lowercase}>t</span>l &#62;&#60;{" "}
                 <i>
-                  ha<span className={styles.lowercase}>n</span>na
-                  <span className={styles.lowercase}>h</span> broo
-                  <span className={styles.lowercase}>k</span>s-mo
-                  <span className={styles.lowercase}>t</span>l{" "}
+                  <span className={styles.lowercase}>b</span>la
+                  <span className={styles.lowercase}>z</span>es
+                </i>{" "}
+                (
+                <i>
+                  <span className={styles.lowercase}>t</span>ra
+                  <span className={styles.lowercase}>i</span>l
+                  <span className={styles.lowercase}>s</span>
                 </i>
-                &#62;&#60; <span className={styles.lowercase}>b</span>la
-                <span className={styles.lowercase}>z</span>es (
-                <span className={styles.lowercase}>t</span>ra
-                <span className={styles.lowercase}>i</span>l
-                <span className={styles.lowercase}>s</span>)
+                )
               </div>
             </Link>
           </div>
@@ -56,22 +60,22 @@ export default function Issue9() {
           </div>
           <div className={styles.workLink}>
             <Link href="/fake/chronology" passHref>
+              L<span className={styles.lowercase}>is</span>a{" "}
+              <span className={styles.lowercase}>t</span>s
+              <span className={styles.lowercase}>i</span>ao{" "}
+              <span className={styles.lowercase}>c</span>hen &#62;&#60;{" "}
               <i>
-                L<span className={styles.lowercase}>is</span>a{" "}
-                <span className={styles.lowercase}>t</span>s
-                <span className={styles.lowercase}>i</span>ao{" "}
-                <span className={styles.lowercase}>c</span>hen
-              </i>{" "}
-              &#62;&#60; A C<span className={styles.lowercase}>h</span>ron
-              <span className={styles.lowercase}>o</span>logy o
-              <span className={styles.lowercase}>f</span>{" "}
-              <span className={styles.lowercase}>t</span>h
-              <span className={styles.lowercase}>e</span> Not T
-              <span className={styles.lowercase}>oo d</span>i
-              <span className={styles.lowercase}>s</span>tan
-              <span className={styles.lowercase}>t</span> F
-              <span className={styles.lowercase}>u</span>tur
-              <span className={styles.lowercase}>e</span>
+                A C<span className={styles.lowercase}>h</span>ron
+                <span className={styles.lowercase}>o</span>logy o
+                <span className={styles.lowercase}>f</span>{" "}
+                <span className={styles.lowercase}>t</span>h
+                <span className={styles.lowercase}>e</span> Not T
+                <span className={styles.lowercase}>oo d</span>i
+                <span className={styles.lowercase}>s</span>tan
+                <span className={styles.lowercase}>t</span> F
+                <span className={styles.lowercase}>u</span>tur
+                <span className={styles.lowercase}>e</span>
+              </i>
             </Link>
           </div>
           <div className={styles.workLink}>
@@ -82,38 +86,97 @@ export default function Issue9() {
                 <span className={styles.lowercase}>im</span>o
                 <span className={styles.lowercase}>d</span>a
               </i>{" "}
-              &#60;&#62; <span className={styles.lowercase}>g</span>ra<span className={styles.lowercase}>i</span>n<span className={styles.lowercase}>s</span> o<span className={styles.lowercase}>f</span> Ri<span className={styles.lowercase}>c</span>e
+              &#60;&#62; <span className={styles.lowercase}>g</span>ra
+              <span className={styles.lowercase}>i</span>n
+              <span className={styles.lowercase}>s</span> o
+              <span className={styles.lowercase}>f</span> Ri
+              <span className={styles.lowercase}>c</span>e
             </Link>
           </div>
         </div>
         <div className={styles.issueContents}>
           <div className={styles.workLink}>
-            <Link href="/issue8/father" passHref>
-              Zachary Gary &#62;&#60; Entries
+            <Link href="/fake/entries" passHref>
+              Za<span className={styles.lowercase}>c</span>har
+              <span className={styles.lowercase}>y</span>{" "}
+              <span className={styles.lowercase}>g</span>ary &#62;&#60;{" "}
+              <i>
+                <span className={styles.lowercase}>e</span>n
+                <span className={styles.lowercase}>t</span>rie
+                <span className={styles.lowercase}>s</span>
+              </i>
             </Link>
           </div>
 
           <div className={styles.workLink}>
-            <Link href="/issue8/father" passHref>
-              Gabriel Palacios &#60;&#62; fuck i look like
+            <Link href="/fake/graffito" passHref>
+              <i>
+                <span className={styles.lowercase}>g</span>a
+                <span className={styles.lowercase}>b</span>ri
+                <span className={styles.lowercase}>e</span>l{" "}
+                <span className={styles.lowercase}>p</span>ala
+                <span className={styles.lowercase}>c</span>io
+                <span className={styles.lowercase}>s</span>
+              </i>{" "}
+              &#60;&#62; <span className={styles.lowercase}>f</span>u
+              <span className={styles.lowercase}>c</span>k{" "}
+              <span className={styles.lowercase}>i</span> l
+              <span className={styles.lowercase}>o</span>o
+              <span className={styles.lowercase}>k</span> l
+              <span className={styles.lowercase}>i</span>k
+              <span className={styles.lowercase}>e</span>
             </Link>
           </div>
 
           <div className={styles.workLink}>
-            <Link href="/issue8/father" passHref>
-              Amelia Moriarty &#62;&#60; Apollo in Tokyo
+            <Link href="/fake/apollo" passHref>
+              A<span className={styles.lowercase}>m</span>el
+              <span className={styles.lowercase}>i</span>a{" "}
+              <span className={styles.lowercase}>m</span>o
+              <span className={styles.lowercase}>r</span>iar
+              <span className={styles.lowercase}>ty</span> &#62;&#60;{" "}
+              <i>
+                ap<span className={styles.lowercase}>o</span>llo{" "}
+                <span className={styles.lowercase}>i</span>n{" "}
+                <span className={styles.lowercase}>t</span>o
+                <span className={styles.lowercase}>ky</span>o
+              </i>
             </Link>
           </div>
 
           <div className={styles.workLink}>
-            <Link href="/issue8/father" passHref>
-              Zack Darsee &#60;&#62; These Shapes Are Sure
+            <Link href="/fake/darsee" passHref>
+              <i>
+                <span className={styles.lowercase}>z</span>a
+                <span className={styles.lowercase}>c</span>k{" "}
+                <span className={styles.lowercase}>d</span>ars
+                <span className={styles.lowercase}>ee</span>
+              </i>{" "}
+              &#60;&#62; T<span className={styles.lowercase}>h</span>e
+              <span className={styles.lowercase}>s</span>e{" "}
+              <span className={styles.lowercase}>s</span>ha
+              <span className={styles.lowercase}>pe</span>s Ar
+              <span className={styles.lowercase}>e</span> S
+              <span className={styles.lowercase}>u</span>re
             </Link>
           </div>
 
           <div className={styles.workLink}>
-            <Link href="/issue8/father" passHref>
-              Mandy Suzanne Wong &#62;&#60; fragmen / lamen - tations
+            <Link href="/fake/tations" passHref>
+              <span className={styles.lowercase}>m</span>an
+              <span className={styles.lowercase}>d</span>y Su
+              <span className={styles.lowercase}>z</span>a
+              <span className={styles.lowercase}>nn</span>e{" "}
+              <span className={styles.lowercase}>w</span>on
+              <span className={styles.lowercase}>g</span> &#62;&#60;{" "}
+              <i>
+                <span className={styles.lowercase}>f</span>ra
+                <span className={styles.lowercase}>gm</span>en / la
+                <span className={styles.lowercase}>me</span>n -{" "}
+                <span className={styles.lowercase}>t</span>at
+                <span className={styles.lowercase}>i</span>on
+                <span className={styles.lowercase}>s</span>
+              </i>
             </Link>
           </div>
         </div>
