@@ -27,21 +27,21 @@ export default function Issue9() {
           </div>
           <div className={styles.workLink}>
             <Link href="/fake/blazes" passHref>
-                ha<span className={styles.lowercase}>n</span>na
-                <span className={styles.lowercase}>h</span> broo
-                <span className={styles.lowercase}>k</span>s-mo
-                <span className={styles.lowercase}>t</span>l &#62;&#60;{" "}
-                <i>
-                  <span className={styles.lowercase}>b</span>la
-                  <span className={styles.lowercase}>z</span>es
-                </i>{" "}
-                (
-                <i>
-                  <span className={styles.lowercase}>t</span>ra
-                  <span className={styles.lowercase}>i</span>l
-                  <span className={styles.lowercase}>s</span>
-                </i>
-                )
+              ha<span className={styles.lowercase}>n</span>na
+              <span className={styles.lowercase}>h</span> broo
+              <span className={styles.lowercase}>k</span>s-mo
+              <span className={styles.lowercase}>t</span>l &#62;&#60;{" "}
+              <i>
+                <span className={styles.lowercase}>b</span>la
+                <span className={styles.lowercase}>z</span>es
+              </i>{" "}
+              (
+              <i>
+                <span className={styles.lowercase}>t</span>ra
+                <span className={styles.lowercase}>i</span>l
+                <span className={styles.lowercase}>s</span>
+              </i>
+              )
             </Link>
           </div>
           <div className={styles.workLink}>
@@ -178,25 +178,26 @@ export default function Issue9() {
             </Link>
           </div>
         </div>
-         <div className={styles.workLinkBios}>
-            <Link href="/fake/bios" passHref>
-             &#60;bios&#62;
-            </Link>
-          </div>
-          <div className={styles.workLinkBios}>
-            <Link href="/" passHref>
-             &#60;new_sinews&#62;
-            </Link>
-          </div>
-          <div className={styles.workLinkBios}>
-            <Link href="/about" passHref>
-             &#60;about&#62;
-            </Link>
-          </div>
+        <div className={styles.workLinkBios}>
+          <Link href="/fake/bios" passHref>
+            &#60;bios&#62;
+          </Link>
+        </div>
+        <div className={styles.workLinkBios}>
+          <Link href="/" passHref>
+            &#60;new_sinews&#62;
+          </Link>
+        </div>
+        <div className={styles.workLinkBios}>
+          <Link href="/about" passHref>
+            &#60;about&#62;
+          </Link>
+        </div>
       </div>
       <div className={styles.pageTitle}>
-           n<span className={styles.uppercase}>e</span>w_si<span className={styles.uppercase}>n</span>ews
-          </div>
+        ne<span className={styles.uppercase}>w</span>_si
+        <span className={styles.uppercase}>n</span>ew<i>s</i>
+      </div>
     </>
   );
 }

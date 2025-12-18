@@ -90,10 +90,10 @@
 
 @keyframes spin {
   from {
-    transform: translate(20px, 0);
+    transform: translate(-10px, 0);
   }
   to {
-    transform: translate(-80px, 100%);
+    transform: translate(-210px, 100%);
 }
 }
 
