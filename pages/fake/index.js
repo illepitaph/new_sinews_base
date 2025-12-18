@@ -194,6 +194,9 @@ export default function Issue9() {
             </Link>
           </div>
       </div>
+      <div className={styles.pageTitle}>
+           n<span className={styles.uppercase}>e</span>w_si<span className={styles.uppercase}>n</span>ews
+          </div>
     </>
   );
 }
