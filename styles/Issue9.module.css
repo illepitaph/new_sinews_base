@@ -94,7 +94,7 @@
   }
   to {
     transform: translate(-210px, 100%);
-}
+  }
 }
 
 .bodyContainer {
@@ -141,9 +141,9 @@
 
 .workLink {
   color: white;
-  font-family:"lores-9-wide";
+  font-family: "lores-9-wide";
   font-size: 1.6rem;
-  font-weight:400;
+  font-weight: 400;
   text-shadow: 1px 1px gray, 2px 3px black, 3px 5px 4px #d10000;
   text-transform: uppercase;
   letter-spacing: 0;
@@ -164,17 +164,16 @@
 }
 
 .workLinkBios {
-  margin-left:5vw;
+  margin-left: 5vw;
   font-family: "lores-22-bold-oakland", monospace;
   font-size: 1.9rem;
-  text-shadow:1px 1px white, 2px 2px black, 3px 3px white, 4px 4px 14px black;
+  text-shadow: 1px 1px white, 2px 2px black, 3px 3px white, 4px 4px 14px black;
   text-transform: uppercase;
   letter-spacing: 0.1rem;
-  opacity:0.5;
+  opacity: 0.5;
   cursor: pointer;
   transition: 1.4s ease opacity;
 }
-
 
 .lowercase {
   text-transform: lowercase;
@@ -190,23 +189,24 @@
 }
 
 .workLinkBios:hover {
-  opacity:1;
+  opacity: 1;
 }
 
 .pageTitle {
-  position:absolute;
-  left:71vw;
-  top:10vh;
-  font-family:"lores-9-plus-wide";
+  position: absolute;
+  left: 71vw;
+  top: 10vh;
+  font-family: "lores-9-plus-wide";
   font-size: 3rem;
   font-weight: 700;
-  color:white;
-  text-shadow: 1px 2px black, 2px 3px white, 3px 4px black, 5px 6px 15px #d10000;
+  color: white;
+  text-shadow: 2px 3px black, 3px 4px white, 7px 8px black, 9px 10px white,
+    11px 12px black, 13px 14px white, 15px 16px 17px #d10000;
   display: inline-block;
-   animation-name: spin;
-  animation-duration: 29s; 
+  animation-name: spin;
+  animation-duration: 29s;
   animation-direction: alternate;
-  animation-iteration-count: infinite; 
+  animation-iteration-count: infinite;
   animation-timing-function: linear; /* Constant speed */
 }
 
