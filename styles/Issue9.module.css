@@ -516,7 +516,11 @@
 @media (max-width: 321px) and (orientation: portrait) {
   .workLink,
   .workLinkBios {
-    font-size: 1.2rem;
+    font-size: 1rem;
+  }
+
+   .issueContents {
+    top: 50vh;
   }
 }
 
