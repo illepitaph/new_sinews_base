@@ -90,10 +90,10 @@
 
 @keyframes spin {
   from {
-    transform: translate(-10px, 0);
+    transform: translate(-5vh, 0);
   }
   to {
-    transform: translate(-210px, 100%);
+    transform: translate(-20vh, 100%);
   }
 }
 
@@ -183,8 +183,7 @@
   text-transform: uppercase;
 }
 
-.workLink:hover,
-.workLinkTwo:hover {
+.workLink:hover {
   opacity: 0.1;
 }
 
@@ -207,74 +206,50 @@
   animation-duration: 29s;
   animation-direction: alternate;
   animation-iteration-count: infinite;
-  animation-timing-function: linear; /* Constant speed */
+  animation-timing-function: linear;
 }
 
 @media (width: 1368px) and (height: 912px) {
+  .pageTitle {
+    left: 51vw;
+    animation-name: none;
+  }
+
   .issueContents {
-    top: 17vh;
-  }
-
-  .workLink,
-  .workLinkTwo,
-  .workLinkBios {
-    text-shadow: 2px 2px black;
-  }
-
-  .siteShortcuts > a {
-    flex-flow: row;
-  }
-
-  .siteShortcuts > a > .linkButton {
-    width: 12vw;
-    font-size: 1rem;
+    top: 65vh;
   }
 }
 
 @media (width: 1366px) and (height: 1024px) {
+  .pageTitle {
+    left: 51vw;
+    animation-name: none;
+  }
+
   .issueContents {
-    top: 8.5vh;
+    top: 55vh;
+  }
+}
+
+@media (width: 1280px) and (height: 853px) {
+  .pageTitle {
+    left: 60vw;
+    animation-name: none;
   }
 
-  .siteShortcuts > a {
-    flex-flow: row;
-  }
-
-  .siteShortcuts > a > .linkButton {
-    width: 12vw;
-    font-size: 1rem;
-  }
-
-  .workLink,
-  .workLinkTwo,
-  .workLinkBios {
-    text-shadow: 2px 2px black;
-  }
-
-  .specialFormatting {
-    display: inline-block;
-    margin-top: 19vh;
+  .issueContents {
+    top: 65vh;
   }
 }
 
 @media (width: 1280px) and (height: 800px) {
+  .pageTitle {
+    left: 60vw;
+    animation-name: none;
+  }
+
   .issueContents {
-    top: 11vh;
-  }
-
-  .siteShortcuts > a {
-    flex-flow: row;
-  }
-
-  .siteShortcuts > a > .linkButton {
-    width: 12vw;
-    font-size: 1rem;
-  }
-
-  .workLink,
-  .workLinkTwo,
-  .workLinkBios {
-    text-shadow: 2px 2px black;
+    top: 65vh;
   }
 }
 
@@ -283,460 +258,235 @@
     top: 13vh;
   }
 
-  .siteShortcuts > a {
-    flex-flow: row;
+  .pageTitle {
+    left: 46vw;
+    animation-name: none;
   }
 
-  .siteShortcuts > a > .linkButton {
-    width: 12vw;
-    font-size: 1rem;
+  .issueContentsTwo {
+    top: 25vh;
   }
 
-  .workLink,
-  .workLinkTwo,
-  .workLinkBios {
-    text-shadow: 2px 2px black;
-  }
-
-  .specialFormatting {
-    display: inline-block;
-    margin-top: 15vh;
+  .issueContents {
+    top: 55vh;
   }
 }
 
 @media (width: 1180px) and (height: 820px) {
-  .pageTitle {
-    font-size: 2.9rem;
-    letter-spacing: 0;
-    text-shadow: 2px 2px white, 8px 8px 20px black;
-  }
-
   .issueContents {
     top: 13vh;
   }
 
-  .siteShortcuts > a {
-    flex-flow: row;
+  .pageTitle {
+    left: 46vw;
+    animation-name: none;
   }
 
-  .workLink,
-  .workLinkTwo,
-  .workLinkBios {
-    text-shadow: 2px 2px black;
+  .issueContentsTwo {
+    top: 25vh;
+  }
+
+  .issueContents {
+    top: 55vh;
   }
 }
 
 @media (width: 1080px) and (height: 810px) {
+  .issueContents {
+    top: 13vh;
+  }
+
   .pageTitle {
-    font-size: 2.9rem;
-    letter-spacing: 0;
-    text-shadow: 2px 2px white, 8px 8px 20px black;
+    left: 46vw;
+    animation-name: none;
+  }
+
+  .issueContentsTwo {
+    top: 25vh;
   }
 
   .issueContents {
-    top: 9vh;
-  }
-
-  .specialFormatting {
-    display: inline-block;
-    margin-top: 9vh;
-  }
-
-  .siteShortcuts > a {
-    flex-flow: row;
-  }
-
-  .workLink,
-  .workLinkTwo,
-  .workLinkBios {
-    text-shadow: 2px 2px black;
+    top: 55vh;
   }
 }
 
 @media (width: 1024px) and (height: 1366px) {
-  .pageTitle {
-    font-size: 2.9rem;
-    letter-spacing: 0;
-    text-shadow: 2px 2px white, 8px 8px 20px black;
-  }
-
   .issueContents {
     top: 13vh;
   }
 
+  .pageTitle {
+    left: 46vw;
+    animation-name: none;
+  }
+
+  .issueContentsTwo {
+    top: 25vh;
+  }
+
   .issueContents {
-    top: 8vh;
-  }
-
-  .siteShortcuts > a {
-    flex-flow: row;
-  }
-
-  .siteShortcuts > a > .linkButton {
-    width: 12vw;
-    font-size: 1rem;
-    letter-spacing: 0;
-  }
-
-  .workLink,
-  .workLinkTwo,
-  .workLinkBios {
-    letter-spacing: 0.4rem;
-    line-height: 1.9rem;
-    text-shadow: 2px 2px black;
-  }
-
-  .specialFormatting {
-    display: inline-block;
-    margin-top: 18vh;
+    left: 10vh;
+    top: 45vh;
   }
 }
 
 @media (width: 1024px) and (height: 768px) {
+  .issueContents {
+    top: 13vh;
+  }
+
   .pageTitle {
-    font-size: 2.9rem;
-    letter-spacing: 0;
-    text-shadow: 2px 2px white, 8px 8px 20px black;
+    left: 46vw;
+    animation-name: none;
+  }
+
+  .issueContentsTwo {
+    top: 25vh;
   }
 
   .issueContents {
-    top: 10vh;
-  }
-
-  .siteShortcuts > a {
-    flex-flow: row;
-  }
-
-  .siteShortcuts > a > .linkButton {
-    letter-spacing: 0;
-  }
-
-  .workLink,
-  .workLinkTwo,
-  .workLinkBios {
-    text-shadow: 2px 2px black;
-  }
-
-  .specialFormatting {
-    display: inline-block;
-    margin-top: 13vh;
+    top: 55vh;
   }
 }
 
 @media (width: 1024px) and (height: 600px) {
-  .pageTitle {
-    font-size: 2.9rem;
-    letter-spacing: 0;
-    text-shadow: 2px 2px white, 8px 8px 20px black;
-  }
-
   .issueContents {
     top: 13vh;
   }
 
-  .specialFormatting {
-    display: inline-block;
-    margin-top: 9vh;
+  .pageTitle {
+    left: 46vw;
+    animation-name: none;
   }
 
-  .siteShortcuts > a {
-    flex-flow: row;
+  .issueContentsTwo {
+    top: 25vh;
   }
 
-  .siteShortcuts > a > .linkButton {
-    letter-spacing: 0;
-  }
-
-  .workLink,
-  .workLinkTwo,
-  .workLinkBios {
-    font-size: 2rem;
-    text-shadow: 2px 2px black;
-    line-height: 1.7rem;
-  }
-}
-
-@media (max-width: 998px) {
-  .workLink:hover,
-  .workLinkTwo:hover,
-  .workLinkBios:hover {
-    opacity: 1;
+  .issueContents {
+    top: 55vh;
   }
 }
 
 @media (max-width: 933px) and (orientation: landscape) {
-  .pageTitle {
-    font-size: 1.7rem;
-    letter-spacing: 0;
-    text-shadow: 2px 2px white, 8px 8px 20px black;
+  .issueContentsTwo {
+    top: 18vh;
+    left: 5vw;
   }
 
   .issueContents {
-    top: 8vh;
+    top: 54vh;
+    left: 5vw;
   }
 
-  .workLink,
-  .workLinkTwo,
-  .workLinkBios {
+  .workLink {
+    margin-bottom: 1vh;
     font-size: 1.1rem;
-    letter-spacing: 0.4rem;
-    line-height: 0.85rem;
-    text-shadow: 2px 2px black;
   }
 
-  .specialFormatting {
-    display: inline-block;
-    margin-top: 20vh;
+  .workLinkBios {
+    font-size: 1.4rem;
+    opacity: 1;
   }
 
-  .siteShortcuts > a {
-    flex-flow: row;
-  }
-
-  .siteShortcuts > a > .linkButton {
-    width: 12vw;
-    font-size: 0.9rem;
-    letter-spacing: 0;
+  .pageTitle {
+    font-size: 1.7rem;
+    animation-name: none;
   }
 }
 
 @media (width: 912px) and (height: 1368px) {
-  .pageTitle {
-    font-size: 2.6rem;
-    letter-spacing: 0;
-    text-shadow: 2px 2px white, 8px 8px 20px black;
+  .workLink,
+  .workLinkBios {
+    font-size: 2.7rem;
+  }
+}
+
+@media (max-width: 912px) and (orientation: portrait) {
+  .issueContentsTwo {
+    top: 16vh;
   }
 
   .issueContents {
-    top: 13vh;
+    left: 5vw;
+    top: 51vh;
   }
 
-  .workLink,
-  .workLinkTwo,
+  .pageTitle {
+    top: 5vh;
+    left: 45vw;
+    animation-name: none;
+  }
+
+  .workLink {
+    margin-bottom: 2vh;
+    font-size: 1.9rem;
+  }
+
   .workLinkBios {
-    line-height: 1.7rem;
-    font-size: 2.7rem;
-    text-shadow: 2px 2px black;
-  }
-
-  .specialFormatting {
-    display: inline-block;
-    margin-top: 26vh;
-  }
-
-  .siteShortcuts > a {
-    flex-flow: row;
-  }
-
-  .siteShortcuts > a > .linkButton {
-    font-size: 1rem;
-    letter-spacing: 0;
+    opacity: 1;
   }
 }
 
 @media (max-width: 883px) and (orientation: landscape) {
-  .workLink,
-  .workLinkTwo,
-  .workLinkBios {
-    letter-spacing: 0.3rem;
+  .issueContentsTwo {
+    top: 16vh;
   }
 
-  .siteShortcuts > a > .linkButton {
-    font-size: 0.8rem;
-  }
-}
-
-@media (width: 853px) and (height: 1280px) {
-  .pageTitle {
-    font-size: 2.3rem;
-    letter-spacing: 0;
-    text-shadow: 2px 2px white, 8px 8px 20px black;
-  }
-
-  .issueContents {
-    top: 13vh;
-  }
-
-  .workLink,
-  .workLinkTwo,
-  .workLinkBios {
-    line-height: 1.7rem;
-    font-size: 2.7rem;
-    text-shadow: 2px 2px black;
-  }
-
-  .specialFormatting {
-    display: inline-block;
-    margin-top: 23vh;
-  }
-
-  .siteShortcuts > a {
-    flex-flow: row;
-    margin-top: 2vh;
-  }
-
-  .siteShortcuts > a > .linkButton {
+  .workLink {
     font-size: 1rem;
-    letter-spacing: 0;
-  }
-}
-
-@media (max-width: 835px) and (orientation: portrait) {
-  .pageTitle {
-    font-size: 1.6rem;
-    letter-spacing: 0.2rem;
+    margin-bottom: 0;
   }
 
-  .workLink,
-  .workLinkTwo,
-  .workLinkBios {
-    line-height: 1.7rem;
-    font-size: 2.3rem;
-    text-shadow: 2px 2px black;
-  }
-
-  .specialFormatting {
-    display: inline-block;
-    margin-top: 15vh;
-  }
-
-  .siteShortcuts > a {
-    flex-flow: row;
-    margin-top: 2vh;
-  }
-
-  .siteShortcuts > a > .linkButton {
-    width: 12vw;
-    font-size: 0.7rem;
-  }
-}
-
-@media (max-width: 801px) and (orientation: landscape) {
-  .issueContents {
-    top: 12vh;
-  }
-
-  .specialFormatting {
-    margin-top: 10vh;
-  }
-
-  .siteShortcuts > a > .linkButton {
-    font-size: 0.77rem;
-  }
-}
-
-@media (width: 720px) and (height: 540px) {
-  .specialFormatting {
-    display: inline-block;
-    margin-top: 31vh;
-  }
-}
-
-@media (max-width: 668px) and (orientation: landscape) {
-  .pageTitle {
-    line-height: 1.6rem;
-  }
-
-  .issueContents {
-    top: 5vhpx;
-  }
-
-  .workLink,
-  .workLinkTwo,
   .workLinkBios {
     font-size: 1rem;
-    letter-spacing: 0.02rem;
   }
 
-  .siteShortcuts > a > .linkButton {
-    font-size: 0.6rem;
+  .pageTitle {
+    left: 61vw;
   }
 }
 
-@media (max-width: 541px) and (orientation: portrait) {
-  .pageTitle {
-    text-shadow: 2px 2px white, 8px 8px 20px black;
-  }
-
-  .workLink,
-  .workLinkTwo,
-  .workLinkBios {
-    letter-spacing: 0.5rem;
-    line-height: 1.3rem;
-  }
-
-  .siteShortcuts > a > .linkButton {
-    width: 25vw;
-    font-size: 0.88rem;
-  }
-}
-
-@media (width: 540px) and (height: 720px) {
-  .pageTitle {
-    line-height: 1.1rem;
-    letter-spacing: 0;
+@media (max-width: 769px) and (orientation: portrait) {
+  .issueContentsTwo {
+    top: 14vh;
+    left: 5vw;
   }
 
   .issueContents {
-    top: 4vh;
+    top: 47vh;
+    left: 5vw;
   }
 
-  .workLink,
-  .workLinkTwo,
+  .workLink {
+    font-size: 1.3rem;
+    margin-bottom: 1vh;
+  }
+
   .workLinkBios {
-    line-height: 1.35rem;
-    font-size: 1.5rem;
-    text-shadow: 2px 2px black;
+    font-size: 1.3rem;
+    text-shadow: 1px 2px white, 5px 5px 12px black;
+    opacity: 1;
+    margin-bottom: 1.4vh;
   }
 
-  .specialFormatting {
-    display: inline-block;
-    margin-top: 25vh;
-  }
-
-  .siteShortcuts > a {
-    flex-flow: row;
-  }
-
-  .siteShortcuts > a > .linkButton {
-    width: auto;
-    font-size: 0.5rem;
-    letter-spacing: 0;
+  .pageTitle {
+    top: 2vh;
+    left: 40vw;
+    font-size: 1.9rem;
+    font-weight: 400;
+    text-shadow: 1px 2px black, 2px 3px white, 3px 4px black;
+    text-transform: uppercase;
   }
 }
 
-@media (max-width: 431px) and (orientation: portrait) {
-  .pageTitle {
-    font-size: 1.5rem;
-    letter-spacing: -0.02rem;
+@media (max-width: 412px) and (orientation: portrait) {
+   .issueContentsTwo {
+    top:11vh;
   }
 
   .issueContents {
-    top: 10vh;
-    line-height: 2.9vh;
-  }
-
-  .workLink,
-  .workLinkTwo,
-  .workLinkBios {
-    font-size: 1.6rem;
-    letter-spacing: 0.2rem;
-    line-height: 1.25rem;
-  }
-
-  .specialFormatting {
-    margin-top: 30vh;
-  }
-
-  .siteShortcuts > a {
-    flex-flow: column;
-    margin-top: 1vh;
-  }
-
-  .siteShortcuts > a > .linkButton {
-    width: 24vw;
-    font-size: 0.8rem;
-    letter-spacing: 0;
+    top: 48vh;
   }
 }
 
@@ -744,40 +494,28 @@
   .pageTitle {
     font-size: 1.3rem;
   }
-
-  .siteShortcuts > a > .linkButton {
-    width: 21vw;
-    font-size: 0.54rem;
-  }
 }
 
 @media (max-width: 376px) and (orientation: portrait) {
   .workLink,
-  .workLinkTwo,
   .workLinkBios {
-    font-size: 1.4rem;
+    font-size: 1.1rem;
   }
 
-  .specialFormatting {
-    margin-top: 30vh;
+  .issueContents {
+    top: 51vh;
   }
 }
 
 @media (max-width: 321px) and (orientation: portrait) {
   .workLink,
-  .workLinkTwo,
   .workLinkBios {
     font-size: 1.2rem;
-  }
-
-  .siteShortcuts > a > .linkButton {
-    font-size: 0.49rem;
   }
 }
 
 @media (max-width: 281px) and (orientation: portrait) {
   .workLink,
-  .workLinkTwo,
   .workLinkBios {
     font-size: 1rem;
   }
