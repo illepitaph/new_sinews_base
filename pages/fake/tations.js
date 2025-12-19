@@ -99,52 +99,55 @@ export default function Tations() {
                 <br />
                 <br />
                 <br />
-                 <div className={styles.columnOnePointFive}>
-                God in heaven, he’ll strangle me, no, he’ll lecture me, that’s
-                worse: How can I trust you with anything important if you can’t
-                even . . . I’ll blame the maid. Can’t blame the maid, he knows
-                she doesn’t touch my jewels. <i>There goes one under the</i>—
-                <i>catch it</i>,<i> you stupid girl</i>! Why he told her not to
-                touch. <i>Another one by the curtain</i>,{" "}
-                <i>the other curtain</i>, <i>see it</i>? First good gift he ever
-                gave me, first lecture too, his purity of affection, because,
-                you see, pearls symbolize purity and affection. And heaven.
-                Wealth and prestige of the nation. And maidenhood, God help us.
-                The timelessness of pearls, he said. No, that was at our tenth
-                anniversary when I wore . . . <i>Hang it</i>, <i>there</i>’
-                <i>s one right here under my slipper</i>. Ten years before that,
-                he already knew, he said. That’s why he gave me pearls. Elegance
-                both modest and exotic, he said. And if not the fashion, pearls
-                are always in fashion. That was on our twentieth, and I think it
-                was a quote.<i> For heaven</i>’<i>s sake</i>,{" "}
-                <i>how should I know how many</i>? And they’re all matched to
-                perfection, he said, all exactly alike, and how’s that for a
-                miracle of pure, wild nature. <i>Oh</i>, <i>Tilly</i>,{" "}
-                <i>you know that bit about </i>“<i>let no man put asunder</i>”?{" "}
-                <i>That</i>’<i>s what he said when he gave</i> . . .
-                <i>and now look what I </i>. . . Oh, I’m terrible, horrible, how
-                did I ever get so—oh, it doesn’t even look like a neck anymore,
-                it looks like a, like a blob about to explode! I’ve let him
-                down, it’s unforgivable, he hasn’t said a word. But he must’ve
-                liked my neck, all those years ago, to give it such exquisite .
-                . . Tilly’s laughing at me, I know it, she’ll tell everybody how
-                the mistress got out her pearl necklace, went to fasten it
-                around her fat blob of a neck, and then it popped and then the
-                pearls flying rolling scattering every which way, his first good
-                gift to her in fragments. Shattered! He’ll find some kind of
-                metaphor for fragments. Some analogy with shattered, scattered
-                pearls, and that look of his, oh I can’t bear it! <i>Tilly</i>,{" "}
-                <i>I know what to do</i>! <i>Remember we heard about those</i>,{" "}
-                <i>from China or</i>, <i>no</i>, <i> Japan</i>.
-                <i> Some magazine</i>, <i>that man who said he</i>’
-                <i>d put a pearl necklace on every neck</i>,{" "}
-                <i>guess they can train oysters like cows or</i>—
-                <i>cultured pearls</i>, <i>that</i>’<i>s it</i>.{" "}
-                <i>Even my piddly allowance</i> . . . <i>and he</i>’
-                <i>ll never know the difference</i>, <i>right</i>? <i>They</i>’
-                <i>re pearls like any other</i>, <i>right</i>?{" "}
-                <i>But when you need them</i>, <i>they show up on time</i>.{" "}
-                <i>Quick</i>, <i>go order a cab</i>!
+                <div className={styles.columnOnePointFive}>
+                  God in heaven, he’ll strangle me, no, he’ll lecture me, that’s
+                  worse: How can I trust you with anything important if you
+                  can’t even . . . I’ll blame the maid. Can’t blame the maid, he
+                  knows she doesn’t touch my jewels.{" "}
+                  <i>There goes one under the</i>—<i>catch it</i>,
+                  <i> you stupid girl</i>! Why he told her not to touch.{" "}
+                  <i>Another one by the curtain</i>, <i>the other curtain</i>,{" "}
+                  <i>see it</i>? First good gift he ever gave me, first lecture
+                  too, his purity of affection, because, you see, pearls
+                  symbolize purity and affection. And heaven. Wealth and
+                  prestige of the nation. And maidenhood, God help us. The
+                  timelessness of pearls, he said. No, that was at our tenth
+                  anniversary when I wore . . . <i>Hang it</i>, <i>there</i>’
+                  <i>s one right here under my slipper</i>. Ten years before
+                  that, he already knew, he said. That’s why he gave me pearls.
+                  Elegance both modest and exotic, he said. And if not the
+                  fashion, pearls are always in fashion. That was on our
+                  twentieth, and I think it was a quote.<i> For heaven</i>’
+                  <i>s sake</i>, <i>how should I know how many</i>? And they’re
+                  all matched to perfection, he said, all exactly alike, and
+                  how’s that for a miracle of pure, wild nature. <i>Oh</i>,{" "}
+                  <i>Tilly</i>, <i>you know that bit about </i>“
+                  <i>let no man put asunder</i>”? <i>That</i>’
+                  <i>s what he said when he gave</i> . . .
+                  <i>and now look what I </i>. . . Oh, I’m terrible, horrible,
+                  how did I ever get so—oh, it doesn’t even look like a neck
+                  anymore, it looks like a, like a blob about to explode! I’ve
+                  let him down, it’s unforgivable, he hasn’t said a word. But he
+                  must’ve liked my neck, all those years ago, to give it such
+                  exquisite . . . Tilly’s laughing at me, I know it, she’ll tell
+                  everybody how the mistress got out her pearl necklace, went to
+                  fasten it around her fat blob of a neck, and then it popped
+                  and then the pearls flying rolling scattering every which way,
+                  his first good gift to her in fragments. Shattered! He’ll find
+                  some kind of metaphor for fragments. Some analogy with
+                  shattered, scattered pearls, and that look of his, oh I can’t
+                  bear it! <i>Tilly</i>, <i>I know what to do</i>!{" "}
+                  <i>Remember we heard about those</i>, <i>from China or</i>,{" "}
+                  <i>no</i>, <i> Japan</i>.<i> Some magazine</i>,{" "}
+                  <i>that man who said he</i>’
+                  <i>d put a pearl necklace on every neck</i>,{" "}
+                  <i>guess they can train oysters like cows or</i>—
+                  <i>cultured pearls</i>, <i>that</i>’<i>s it</i>.{" "}
+                  <i>Even my piddly allowance</i> . . . <i>and he</i>’
+                  <i>ll never know the difference</i>, <i>right</i>? <i>They</i>
+                  ’<i>re pearls like any other</i>, <i>right</i>?{" "}
+                  <i>But when you need them</i>, <i>they show up on time</i>.{" "}
+                  <i>Quick</i>, <i>go order a cab</i>!
                 </div>
               </div>
             </div>
@@ -155,9 +158,9 @@ export default function Tations() {
                 Japan with cannon fire.
                 <br />
                 <br />
-                1893. Mikimoto Kōkichi, under the guidance of marine
-                biologists, forced an oyster to produce a pearl by surgically
-                inserting an irritant (nucleus) into its soft tissues.
+                1893. Mikimoto Kōkichi, under the guidance of marine biologists,
+                forced an oyster to produce a pearl by surgically inserting an
+                irritant (nucleus) into its soft tissues.
                 <br />
                 <br />
                 1899. Mikimoto’s first boutique opened in Tokyo, introducing
@@ -241,47 +244,48 @@ export default function Tations() {
                 <br />
                 <br />
                 <div className={styles.columnOnePointFive}>
-                You’re having a snack on a day like any other with your hinge
-                snuggling down into the sediment, tasting waterborne morsels
-                with your cilia through parted shells as the river flows through
-                you within you around you as it flows on days like this
-                throughout the season, when suddenly the world convulses in a
-                groan, the water is convulsing with the growl of a great strain,
-                the sediment itself is shuddering and writhing and what can you
-                do you only have one foot, you sense the contourless presence of
-                a huge thing, taste the metal in the water, and that taste is
-                known to you and dreaded although you cannot name it, the huge
-                thing penetrates the sediment with metal cilia hooked and
-                clawed, the thing as long as a tree is tall is dragging
-                thousands of crowfoot claws through the sediment, raking and
-                ripping your neighborhood from the riverbed, one of your
-                neighbors aborts all her growing babies in terror, a hook shoves
-                itself between your shells and you resist, resist in the only
-                way you know, clamp your shells together and wrestle with the
-                hook, you are wrestling the hook and being torn out of the
-                sediment, shooting through the water and flying through the air
-                in ways that you would never have believed, never in your
-                life—the hook rips out of you, a searing flash of pain, bits of
-                your flesh tossed overboard as you are thrown down on the deck,
-                so hard so dry where is the river the water the water, you hold
-                your shells together with all your might, keep what moisture you
-                have in you, hold on to the water, you are wounded, you’re in
-                pain, you are thrown hither and thither, crashing into dry hard
-                things and crazed with fear, you don’t even want to guess why
-                you have fallen, why it’s getting hotter and hotter, you don’t
-                understand that you are being cooked and it’s your insides
-                sizzling, twenty interminable minutes it will take for you to
-                die, and you will die with your shells open, the shells are all
-                they want, the softness of you ripped out of you they will
-                throw—toss your shell onto a heap of thousands, hundreds of
-                thousands of shelled relatives’ and strangers’ hollow corpses,
-                then more flying and somebody will cut your shell into
-                fragments, press each fragment between sheets of iron to grind
-                down its edges, grind away the final vestiges of your sharpness,
-                but by then you will not know yourself, you will be shattered,
-                you will be unrecognizable as having been a mussel having been a
-                living animal—except to those who inspect the nacreous
-                protobeads, nurdlish pollutants that they purchase by the ton.
+                  You’re having a snack on a day like any other with your hinge
+                  snuggling down into the sediment, tasting waterborne morsels
+                  with your cilia through parted shells as the river flows
+                  through you within you around you as it flows on days like
+                  this throughout the season, when suddenly the world convulses
+                  in a groan, the water is convulsing with the growl of a great
+                  strain, the sediment itself is shuddering and writhing and
+                  what can you do you only have one foot, you sense the
+                  contourless presence of a huge thing, taste the metal in the
+                  water, and that taste is known to you and dreaded although you
+                  cannot name it, the huge thing penetrates the sediment with
+                  metal cilia hooked and clawed, the thing as long as a tree is
+                  tall is dragging thousands of crowfoot claws through the
+                  sediment, raking and ripping your neighborhood from the
+                  riverbed, one of your neighbors aborts all her growing babies
+                  in terror, a hook shoves itself between your shells and you
+                  resist, resist in the only way you know, clamp your shells
+                  together and wrestle with the hook, you are wrestling the hook
+                  and being torn out of the sediment, shooting through the water
+                  and flying through the air in ways that you would never have
+                  believed, never in your life—the hook rips out of you, a
+                  searing flash of pain, bits of your flesh tossed overboard as
+                  you are thrown down on the deck, so hard so dry where is the
+                  river the water the water, you hold your shells together with
+                  all your might, keep what moisture you have in you, hold on to
+                  the water, you are wounded, you’re in pain, you are thrown
+                  hither and thither, crashing into dry hard things and crazed
+                  with fear, you don’t even want to guess why you have fallen,
+                  why it’s getting hotter and hotter, you don’t understand that
+                  you are being cooked and it’s your insides sizzling, twenty
+                  interminable minutes it will take for you to die, and you will
+                  die with your shells open, the shells are all they want, the
+                  softness of you ripped out of you they will throw—toss your
+                  shell onto a heap of thousands, hundreds of thousands of
+                  shelled relatives’ and strangers’ hollow corpses, then more
+                  flying and somebody will cut your shell into fragments, press
+                  each fragment between sheets of iron to grind down its edges,
+                  grind away the final vestiges of your sharpness, but by then
+                  you will not know yourself, you will be shattered, you will be
+                  unrecognizable as having been a mussel having been a living
+                  animal—except to those who inspect the nacreous protobeads,
+                  nurdlish pollutants that they purchase by the ton.
                 </div>
               </div>
             </div>
@@ -378,62 +382,64 @@ export default function Tations() {
                 <br />
                 <br />
                 <div className={styles.columnOnePointFive}>
-                You say you want to marry me because you came on the ferry that
-                brings all those thousands of people to Pearl Island, and so you
-                are supporting me already. You say you watch from the island as
-                the red-roofed boat takes me and other ama to the demonstration
-                grounds. You stand among the visitors and watch us carry on
-                “tradition.” You say I’m the loveliest pearl diver in Japan.
-                <br />
-                <br />
-                What do you know of me? My legs? My bottom? My white skirt
-                tumbling around my hips when I go down headfirst into the water?
-                Half the time, I’m holding my breath on the ocean floor, ten
-                meters below. The smile. I see. The smile. When I bring up an
-                oyster. Just one oyster, so all of you can see it in my hand as
-                I raise it high in triumph before dropping it in the bucket. We
-                ama are the true pearls of Pearl Island, yes, I know. All those
-                men from Tokyo and America, do you think they’re really
-                interested in watching my great-auntie muck around with
-                scalpels, sticking bits of imported mussel shell and bits of
-                local oysters into oysters?
-                <br />
-                <br />
-                You say that you and I already understand each other. But did
-                you know I’m not really a pearl diver? This morning a lot of us
-                went diving for seaweed. Soon it will be awabi season. And sea
-                cucumbers. And you know these oysters are good to eat. You’ll
-                say I think too much; but I do think, if you must harm an animal
-                or something, it better be for food, not flashy ornaments. I’m a
-                hunter. As we ama have been hunters for generations. Except at
-                Pearl Island. Here, I don’t know what I am. If that oyster I
-                raised high in triumph stood a chance of having a pearl, do you
-                think they’d let us use it in demonstrations?
-                <br />
-                <br />
-                My grandmother used to mother the oysters here. They really did
-                live on the bottom then. It was up to ama to make sure they were
-                healthy, not befouled by snails or algae. When they were old
-                enough, my grandmother ferried them to deeper water. Then
-                brought them ashore for their surgical operation. Nearly a
-                minute underwater; she used to try for ten oysters per breath.
-                Her mother hunted them in the wild and sold them alive to
-                Mikimoto-san. He calls oysters “mothers” too, you know. But
-                what’s growing in them isn’t life. And they aren’t mothered
-                anymore. They hang in cages from the cultivation rafts, and
-                Mikimoto-san has men to pull the cages out and lower them down.
-                Those men couldn’t hold their breath for as long as a blink.
-                They don’t even get their feet wet.
-                <br />
-                <br />
-                What am I? Oh, bits and pieces. Fragments of history and
-                emptiness. Those white costumes aren’t “traditional,” by the
-                way. I can’t think of anything more impractical for diving. It’s
-                for show. It’s what Westerners want to see, and it complements
-                the pearls. As do I. I’m an ornament for ornaments. And if you
-                want to marry an ama, you’d better get used to being spoken to
-                and spoken back to. Scattered she may be, but this ornament
-                supports herself.
+                  You say you want to marry me because you came on the ferry
+                  that brings all those thousands of people to Pearl Island, and
+                  so you are supporting me already. You say you watch from the
+                  island as the red-roofed boat takes me and other ama to the
+                  demonstration grounds. You stand among the visitors and watch
+                  us carry on “tradition.” You say I’m the loveliest pearl diver
+                  in Japan.
+                  <br />
+                  <br />
+                  What do you know of me? My legs? My bottom? My white skirt
+                  tumbling around my hips when I go down headfirst into the
+                  water? Half the time, I’m holding my breath on the ocean
+                  floor, ten meters below. The smile. I see. The smile. When I
+                  bring up an oyster. Just one oyster, so all of you can see it
+                  in my hand as I raise it high in triumph before dropping it in
+                  the bucket. We ama are the true pearls of Pearl Island, yes, I
+                  know. All those men from Tokyo and America, do you think
+                  they’re really interested in watching my great-auntie muck
+                  around with scalpels, sticking bits of imported mussel shell
+                  and bits of local oysters into oysters?
+                  <br />
+                  <br />
+                  You say that you and I already understand each other. But did
+                  you know I’m not really a pearl diver? This morning a lot of
+                  us went diving for seaweed. Soon it will be awabi season. And
+                  sea cucumbers. And you know these oysters are good to eat.
+                  You’ll say I think too much; but I do think, if you must harm
+                  an animal or something, it better be for food, not flashy
+                  ornaments. I’m a hunter. As we ama have been hunters for
+                  generations. Except at Pearl Island. Here, I don’t know what I
+                  am. If that oyster I raised high in triumph stood a chance of
+                  having a pearl, do you think they’d let us use it in
+                  demonstrations?
+                  <br />
+                  <br />
+                  My grandmother used to mother the oysters here. They really
+                  did live on the bottom then. It was up to ama to make sure
+                  they were healthy, not befouled by snails or algae. When they
+                  were old enough, my grandmother ferried them to deeper water.
+                  Then brought them ashore for their surgical operation. Nearly
+                  a minute underwater; she used to try for ten oysters per
+                  breath. Her mother hunted them in the wild and sold them alive
+                  to Mikimoto-san. He calls oysters “mothers” too, you know. But
+                  what’s growing in them isn’t life. And they aren’t mothered
+                  anymore. They hang in cages from the cultivation rafts, and
+                  Mikimoto-san has men to pull the cages out and lower them
+                  down. Those men couldn’t hold their breath for as long as a
+                  blink. They don’t even get their feet wet.
+                  <br />
+                  <br />
+                  What am I? Oh, bits and pieces. Fragments of history and
+                  emptiness. Those white costumes aren’t “traditional,” by the
+                  way. I can’t think of anything more impractical for diving.
+                  It’s for show. It’s what Westerners want to see, and it
+                  complements the pearls. As do I. I’m an ornament for
+                  ornaments. And if you want to marry an ama, you’d better get
+                  used to being spoken to and spoken back to. Scattered she may
+                  be, but this ornament supports herself.
                 </div>
               </div>
             </div>
@@ -534,53 +540,59 @@ export default function Tations() {
                 <br />
                 <br />
                 <br />
-                 <div className={styles.columnOnePointFive}>
-                First they make you think you’re suffocating, then the water
-                returns, and you gasp, you gape—&#x3c; &#x3e;—no sooner do you
-                part your shells than do they stick a peg between—!—and now
-                you’re stuck—stuck—your insides showing—you’d scream if you
-                weren’t a / you’d gasp if you weren’t stuck / writhe if you were
-                an animal capable of writhing, now you’re in a tray / how many
-                oysters back to back and back to front, you’re all standing on
-                your hinges like index cards in a catalog /////// every one of
-                you is stuck /!//!//!//!//!/ with your valves open, all of you
-                moving together, sweeping away all together, not as in a tsunami
-                but with an uncanny, deadly, the pitilessness of an octopus but
-                worse—you are not the one who’s having bits of their inside cut
-                off, fragments sliced off their mantle frill which makes their
-                shell they cannot make their shell without the mantle but there
-                goes a scalpel—!—agony without the luxury of screams, without
-                screams they just go on ignoring that you are a You, you are the
-                one who must receive — — on the desk, the brass “desk clamp” is
-                a horrible mockery clamping down on your back and
-                front—[&#x3c; &#x3e;]—as you’ve clamped down on the awful &#x3c;!&#x3e; peg
-                in sheer terror, now you must receive — — the “spatula” stroking your mantle
-                folds (you want to be sick, but they want you to take your time
-                with it), the “retractor hook” pulls on your foot and holds it down
-                and now you can’t even wiggle oh if you could faint—they’re forcing
-                into you the sliced-off fragment of the other one—another oyster just
-                like you, a fragment of their body going right into your body into your
-                insides with the “graft lifter” and another terrible hook—“nucleus
-                lifter”—shoving—a horrid cuboid protobead from a dead mussel into your
-                insides with the piece of the other, whom you don’t even — — /— next
-                thing you know, the taste of ocean—&#126;&#126;—and a crowd in a cage, all of you
-                being sick—or if you’d rather think of it as rejection of a transplant
-                that you didn’t ask for, a wound with shrapnel stuck inside it — — the
-                spewing and disgorging taking several years if you survive
-                the “convalescence raft” / even if you survive intact, you are
-                shattered, this violation that you don’t understand at all / wounding
-                for the sake of wounding, specifically to make you do what bodies do
-                when they are wounded or invaded / the fragments remaining of
-                yourself can’t understand a body existing to be broken / living in
-                order to be wounded and this isn’t even your first time // still
-                you, mollusk that you are, you are resilient, oceanic as you are you
-                cannot help but give of yourself—even to the thing /?/ the shrapnel
-                inside you must look decent before you spit it out into the ocean (you
-                still think that’s what will happen, you innocent soul), therefore you
-                 will varnish it with your mantle / your agony / your shattered
-                memory / your very own nacre / you will beautify it as you do the
-                interior of your home / make it resemble something —( )— bearable / an
-                end, an end—Ω—// you will claim it to deny it / forget it forever: &#x3c;º&#x3e;.
+                <div className={styles.columnOnePointFive}>
+                  First they make you think you’re suffocating, then the water
+                  returns, and you gasp, you gape—&#x3c; &#x3e;—no sooner do you
+                  part your shells than do they stick a peg between—!—and now
+                  you’re stuck—stuck—your insides showing—you’d scream if you
+                  weren’t a / you’d gasp if you weren’t stuck / writhe if you
+                  were an animal capable of writhing, now you’re in a tray / how
+                  many oysters back to back and back to front, you’re all
+                  standing on your hinges like index cards in a catalog ///////
+                  every one of you is stuck /!//!//!//!//!/ with your valves
+                  open, all of you moving together, sweeping away all together,
+                  not as in a tsunami but with an uncanny, deadly, the
+                  pitilessness of an octopus but worse—you are not the one who’s
+                  having bits of their inside cut off, fragments sliced off
+                  their mantle frill which makes their shell they cannot make
+                  their shell without the mantle but there goes a
+                  scalpel—!—agony without the luxury of screams, without screams
+                  they just go on ignoring that you are a You, you are the one
+                  who must receive — — on the desk, the brass “desk clamp” is a
+                  horrible mockery clamping down on your back and front—[&#x3c;
+                  &#x3e;]—as you’ve clamped down on the awful &#x3c;!&#x3e; peg
+                  in sheer terror, now you must receive — — the “spatula”
+                  stroking your mantle folds (you want to be sick, but they want
+                  you to take your time with it), the “retractor hook” pulls on
+                  your foot and holds it down and now you can’t even wiggle oh
+                  if you could faint—they’re forcing into you the sliced-off
+                  fragment of the other one—another oyster just like you, a
+                  fragment of their body going right into your body into your
+                  insides with the “graft lifter” and another terrible
+                  hook—“nucleus lifter”—shoving—a horrid cuboid protobead from a
+                  dead mussel into your insides with the piece of the other,
+                  whom you don’t even — — /— next thing you know, the taste of
+                  ocean—&#126;&#126;—and a crowd in a cage, all of you being
+                  sick—or if you’d rather think of it as rejection of a
+                  transplant that you didn’t ask for, a wound with shrapnel
+                  stuck inside it — — the spewing and disgorging taking several
+                  years if you survive the “convalescence raft” / even if you
+                  survive intact, you are shattered, this violation that you
+                  don’t understand at all / wounding for the sake of wounding,
+                  specifically to make you do what bodies do when they are
+                  wounded or invaded / the fragments remaining of yourself can’t
+                  understand a body existing to be broken / living in order to
+                  be wounded and this isn’t even your first time // still you,
+                  mollusk that you are, you are resilient, oceanic as you are
+                  you cannot help but give of yourself—even to the thing /?/ the
+                  shrapnel inside you must look decent before you spit it out
+                  into the ocean (you still think that’s what will happen, you
+                  innocent soul), therefore you will varnish it with your mantle
+                  / your agony / your shattered memory / your very own nacre /
+                  you will beautify it as you do the interior of your home /
+                  make it resemble something —( )— bearable / an end, an
+                  end—Ω—// you will claim it to deny it / forget it forever:
+                  &#x3c;º&#x3e;.
                 </div>
               </div>
             </div>
@@ -633,18 +645,23 @@ export default function Tations() {
             </div>
           </div>
         </div>
-        <br/>
-        <br/>
-        <br/>
-         <div>
-        <Image
-          src={Collage}
-          width={400}
-          height={240}
-          layout={`responsive`}
-          alt="Multidimensional Collage by Kathryn Eddy"
-        />
-      </div>
+        <br />
+        <br />
+        <br />
+        <div>
+          <Image
+            src={Collage}
+            width={400}
+            height={240}
+            layout={`responsive`}
+            alt="Multidimensional Collage by Kathryn Eddy"
+          />
+          <p>
+            <span className={styles.collageText}>
+              ( ... collage by Kathryn Eddy ... )
+            </span>
+          </p>
+        </div>
 
         <br />
         <br />

@@ -124,6 +124,11 @@
   text-transform: uppercase;
 }
 
+.collageText {
+  color: white;
+  text-shadow:1px 1px 3px black;
+}
+
 @media (width: 1080px) and (height: 810px) {
   .titleShadow {
     margin: 5vh 2vw 0 0;
