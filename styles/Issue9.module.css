@@ -93,7 +93,7 @@
     transform: translate(-5vh, 0);
   }
   to {
-    transform: translate(-20vh, 100%);
+    transform: translate(-45vh, 100%);
   }
 }
 
