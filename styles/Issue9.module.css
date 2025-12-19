@@ -480,7 +480,7 @@
   }
 }
 
-@media (max-width: 412px) and (orientation: portrait) {
+@media (max-width: 415px) and (orientation: portrait) {
    .issueContentsTwo {
     top:11vh;
   }
@@ -494,16 +494,21 @@
   .pageTitle {
     font-size: 1.3rem;
   }
+
+
+  .issueContents {
+    top: 51vh;
+  }
 }
 
-@media (max-width: 376px) and (orientation: portrait) {
+@media (max-width: 384px) and (orientation: portrait) {
   .workLink,
   .workLinkBios {
     font-size: 1.1rem;
   }
 
   .issueContents {
-    top: 51vh;
+    top: 53vh;
   }
 }
 
