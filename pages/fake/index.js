@@ -162,7 +162,7 @@ export default function Issue9() {
           <div className={styles.workLink}>
             <Link href="/fake/tations" passHref>
               <span className={styles.lowercase}>m</span>an
-              <span className={styles.lowercase}>d</span>y Su
+              <span className={styles.lowercase}>d</span>y-Su
               <span className={styles.lowercase}>z</span>a
               <span className={styles.lowercase}>nn</span>e{" "}
               <span className={styles.lowercase}>w</span>on
