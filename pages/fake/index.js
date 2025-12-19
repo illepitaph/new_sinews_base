@@ -59,7 +59,7 @@ export default function Issue9() {
           <div className={styles.workLink}>
             <Link href="/fake/chronology" passHref>
               L<span className={styles.lowercase}>is</span>a{" "}
-              <span className={styles.lowercase}>t</span>s
+              <span className={styles.lowercase}>h</span>s
               <span className={styles.lowercase}>i</span>ao{" "}
               <span className={styles.lowercase}>c</span>hen &#62;&#60;{" "}
               <i>
