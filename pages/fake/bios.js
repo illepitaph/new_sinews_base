@@ -25,21 +25,41 @@ export default function Issue9Bios() {
       <StandardProse>
         <br />
         <br />
-        <span className={styles.grayInverse}>ANDREA HARPER</span> works as a
-        caregiver and sculptor in Texas. You can find her here:{" "}
+        <span className={styles.grayInverse}>HANNAH BROOKS-MOTL</span>’s most
+        recent book of poetry is <i>Ultraviolet of the Genuine</i> (Song Cave,
+        2025).
+        <br />
+        <br />
+        <br />
+        <span className={styles.grayInverse}>LISA HSIAO CHEN</span> wrote a
+        novel, <i>Activities of Daily Living</i> (W.W. Norton), and a book of
+        poems, <i>Mouth</i> (Kaya Press). Born in Taipei, she now lives in
+        Brooklyn.
+        <br />
+        <br />
+        <br />
+        <span className={styles.grayInverse}>ZACHARY GARY</span> is a writer
+        from Southern Nevada with work in <i>Conjunctions</i> and <i>ergot</i>.
+        <br />
+        <br />
+        <br />
+        <span className={styles.grayInverse}>AMELIA MORIARTY</span> writes from
+        Paris where she paints, dances and models. Her writing has appeared in{" "}
+        <i>Midcult</i>, <i>Maudlin House</i>, <i>Poetries in English</i>,{" "}
+        <i>Taxi Society</i>, and others, with work forthcoming in{" "}
+        <i>Free State Review</i>. A finalist for the New Writers Flash Fiction
+        Competition, she is currently pursuing a masters in comparative
+        literature at the Sorbonne, while completing her first novel. You can
+        find her on instagram{" "}
         <a
           className={styles.biosExternalLink}
           target="_blank"
           rel="noreferrer"
-          href="https://www.andreadeonharper.net/"
+          href="https://www.instagram.com/milalamori/"
         >
-          {" "}
-          www.andreadeonharper.net
+          @milalamori
         </a>
         .
-        <br />
-        <br />
-        <br />
       </StandardProse>
       <Footer />
     </>
