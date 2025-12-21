@@ -440,11 +440,22 @@
   }
 
   .workLinkBios {
-    font-size: 1rem;
+    font-size: 0.9rem;
   }
 
   .pageTitle {
     left: 61vw;
+  }
+}
+
+@media (max-width: 813px) and (orientation: landscape) {
+
+  .workLink {
+    font-size: 0.8rem;
+  }
+
+  .workLinkBios {
+    font-size: 0.8rem;
   }
 }
 
@@ -469,6 +480,17 @@
     text-shadow: 1px 2px white, 5px 5px 12px black;
     opacity: 1;
     margin-bottom: 1.4vh;
+  }
+}
+
+@media (max-width: 746px) and (orientation: landscape) {
+
+  .workLink {
+    font-size: 0.7rem;
+  }
+
+  .workLinkBios {
+    font-size: 0.7rem;
   }
 }
 
