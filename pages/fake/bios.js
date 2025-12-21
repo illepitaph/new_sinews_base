@@ -59,7 +59,15 @@ export default function Issue9Bios() {
         >
           @milalamori
         </a>
-        .
+        .<br />
+        <br />
+        <br />
+         <span className={styles.grayInverse}>MANDY-SUZANNE WONG</span>’s novels and essay collections include <i>The Box</i>, <i>Daughter of Mother-of-Pearl</i>, and (forthcoming) <i>The Quiet Upwelling</i>, all published by Graywolf Press. She is a regular contributor to <i>Asymptote</i>.
+
+
+        <br />
+        <br />
+        <br />
       </StandardProse>
       <Footer />
     </>
