@@ -91,8 +91,8 @@ export default function Issue9Bios() {
         John Goodhue (<i>Cleveland Review of Books</i>) calls &ldquo;the glitch which
         reveals the dark data of a world that one has a moral imperative to
         rebuff.&rdquo; Extending this process into sound, he records as The Spanish
-        Trail Motel. His debut EP, <i>The Spanish Trail Motel Descrambler </i>,
-        <i>Issue 1</i> (2025), and follow-up <i>Vaporleonard</i> (2025), are
+        Trail Motel. His debut EP, <i>The Spanish Trail Motel Descrambler</i>,
+        <i> Issue 1</i> (2025), and follow-up <i>Vaporleonard</i> (2025), are
         available on all major streaming platforms.
         <br />
         <br />
