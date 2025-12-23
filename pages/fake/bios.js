@@ -50,6 +50,16 @@ export default function Issue9Bios() {
         <br />
         <br />
         <br />
+        <span className={styles.grayInverse}>ISRAEL BONILLA</span> lives in
+        Guadalajara, Jalisco. He is author of the micro-chapbook{" "}
+        <i>Landscapes</i> (Ghost City Press, 2021), the short story collection{" "}
+        <i>Sleep Decades</i> (Malarkey Books, 2024), and the pamphlet{" "}
+        <i>Phoretics</i> (Paradise Editions, 2025). His work has appeared in{" "}
+        <i>Your Impossible Voice</i>, <i>Firmament</i>, Exacting Clam,{" "}
+        <i>Minor Literature[s]</i>, <i>Keep Planning</i>, and elsewhere.
+        <br />
+        <br />
+        <br />
         <span className={styles.grayInverse}>LISA HSIAO CHEN</span> wrote a
         novel, <i>Activities of Daily Living</i> (W.W. Norton), and a book of
         poems, <i>Mouth</i> (Kaya Press). Born in Taipei, she now lives in
@@ -120,9 +130,9 @@ export default function Issue9Bios() {
         <br />
         <span className={styles.grayInverse}>ZACK DARSEE </span>was born about
         noon on a Tuesday. He is the author of{" "}
-        <i>From the Pocket of Agent Dickinson</i>, a lysergic neo-noir poet&rsquo;s
-        novel co-written with Elise Houcek, as well as a handful of quite-short
-        books. Together with Nadia Marcus, he is the co-founder of{" "}
+        <i>From the Pocket of Agent Dickinson</i>, a lysergic neo-noir
+        poet&rsquo;s novel co-written with Elise Houcek, as well as a handful of
+        quite-short books. Together with Nadia Marcus, he is the co-founder of{" "}
         <i>TABLOID Press</i>. This work continues.
         <br />
         <br />
