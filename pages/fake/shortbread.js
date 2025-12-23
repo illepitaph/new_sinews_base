@@ -237,7 +237,7 @@ export default function Shortbread() {
         but the depth of red didn’t take. She said I could learn from her
         mistakes. She said, Sometimes, madder is gladder. Probably, she’s why I
         am this way. Anyway, for Christmas at Olaf’s, I was wearing that—it was
-        <i>very</i> cool for August.
+        <i> very</i> cool for August.
         <br />
         <br />
         Far down the bar, that someone else—the Cookie Company, I understood, or
