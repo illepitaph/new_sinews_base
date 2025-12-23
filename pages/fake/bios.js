@@ -25,6 +25,25 @@ export default function Issue9Bios() {
       <StandardProse>
         <br />
         <br />
+        <span className={styles.grayInverse}>ZEBULON HORSE OR HOUSE</span> is a
+        white settler, and works as a librarian. They are the author of the
+        novel <i>The Psychic Surgeon Assists</i> (Calamari Archive, 2024), and
+        of short fiction appearing in <i>ergot.</i>,{" "}
+        <i>Lady Churchill’s Rosebud Wristlet</i>, <i>Minor Literature[s]</i>,{" "}
+        <i>Propagule</i>, and <i>Sleepingfish</i>. Find them online at{" "}
+        <a
+          className={styles.biosExternalLink}
+          target="_blank"
+          rel="noreferrer"
+          href="https://zebulon-hourse.xyz/"
+        >
+          {" "}
+          zebulon-hourse.xyz
+        </a>
+        .
+        <br />
+        <br />
+        <br />
         <span className={styles.grayInverse}>HANNAH BROOKS-MOTL</span>’s most
         recent book of poetry is <i>Ultraviolet of the Genuine</i> (Song Cave,
         2025).
@@ -38,8 +57,43 @@ export default function Issue9Bios() {
         <br />
         <br />
         <br />
+        <span className={styles.grayInverse}>BRANDON SHIMODA</span> is the
+        author and/or editor of several books, most recently{" "}
+        <i>The Afterlife Is Letting Go</i> (City Lights, 2025) and{" "}
+        <i>The Gate of Memory</i>:{" "}
+        <i>Poems by Descendants of Nikkei Wartime Incarceration</i> (co-edited
+        with Brynn Saito; Haymarket Books, 2025). "Grains of Rice" is a
+        poem/situation/experience he's been thinking about/accumulating for a
+        long, long time. More pertinent links can be found{" "}
+        <a
+          className={styles.biosExternalLink}
+          target="_blank"
+          rel="noreferrer"
+          href="https://linktr.ee/brandonshimoda"
+        >
+          {" "}
+          here.
+        </a>
+        <br />
+        <br />
+        <br />
         <span className={styles.grayInverse}>ZACHARY GARY</span> is a writer
         from Southern Nevada with work in <i>Conjunctions</i> and <i>ergot</i>.
+        <br />
+        <br />
+        <br />
+        <span className={styles.grayInverse}>GABRIEL PALACIOS</span> is the
+        author of <i>A Ten Peso Burial for Which Truth I Sign</i> (Fonograf
+        Editions, 2024) and <i>Lunar Hilton Elegy</i> (Kuhl House
+        Poets/University of Iowa Press, 2026). He works primarily in the
+        vaporpoem, a plunderphonic lyric mode that sample-collages the
+        aesthetics of late-analog and early-digital culture to diagnose what
+        John Goodhue (<i>Cleveland Review of Books</i>) calls "the glitch which
+        reveals the dark data of a world that one has a moral imperative to
+        rebuff." Extending this process into sound, he records as The Spanish
+        Trail Motel. His debut EP, <i>The Spanish Trail Motel Descrambler</i>,
+        <i>Issue 1</i> (2025), and follow-up <i>Vaporleonard</i> (2025), are
+        available on all major streaming platforms.
         <br />
         <br />
         <br />
@@ -62,9 +116,11 @@ export default function Issue9Bios() {
         .<br />
         <br />
         <br />
-         <span className={styles.grayInverse}>MANDY-SUZANNE WONG</span>’s novels and essay collections include <i>The Box</i>, <i>Daughter of Mother-of-Pearl</i>, and (forthcoming) <i>The Quiet Upwelling</i>, all published by Graywolf Press. She is a regular contributor to <i>Asymptote</i>.
-
-
+        <span className={styles.grayInverse}>MANDY-SUZANNE WONG</span>’s novels
+        and essay collections include <i>The Box</i>,{" "}
+        <i>Daughter of Mother-of-Pearl</i>, and (forthcoming){" "}
+        <i>The Quiet Upwelling</i>, all published by Graywolf Press. She is a
+        regular contributor to <i>Asymptote</i>.
         <br />
         <br />
         <br />
