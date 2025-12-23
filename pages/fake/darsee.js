@@ -5,9 +5,9 @@ import LeftBlackTitle from "../../components/leftBlackTitle.js";
 import Footer from "../../components/footer.js";
 import styles from "../../styles/Darsee.module.css";
 Darsee.title =
-  "zack darsee ~ these shapes are sure to create a symbiotic union ++ choking itself on the regurgitated belief in production ++ — new_sinews";
+  "zack darsee ~ oops,i— ++ — new_sinews";
 Darsee.pieceName =
-  "zack darsee ~ these shapes are sure to create a symbiotic union ++ choking itself on the regurgitated belief in production ++ — new_sinews";
+  "zack darsee ~ oops,i— ++ — new_sinews";
 Darsee.description = "_Zack Darsee_poetry_10 POEMS_issue9_";
 Darsee.image = "https://www.newnewsinews.com/images/DarseeBackground.jpg";
 

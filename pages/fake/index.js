@@ -150,12 +150,9 @@ export default function Issue9() {
                 <span className={styles.lowercase}>d</span>ars
                 <span className={styles.lowercase}>ee</span>
               </i>{" "}
-              &#60;&#62; T<span className={styles.lowercase}>h</span>e
-              <span className={styles.lowercase}>s</span>e{" "}
-              <span className={styles.lowercase}>s</span>ha
-              <span className={styles.lowercase}>pe</span>s Ar
-              <span className={styles.lowercase}>e</span> S
-              <span className={styles.lowercase}>u</span>re
+              &#60;&#62; <span className={styles.lowercase}>o</span>o
+              <span className={styles.lowercase}>p</span>s—
+              <span className={styles.lowercase}> i</span>
             </Link>
           </div>
 
