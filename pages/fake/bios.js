@@ -62,8 +62,8 @@ export default function Issue9Bios() {
         <i>The Afterlife Is Letting Go</i> (City Lights, 2025) and{" "}
         <i>The Gate of Memory</i>:{" "}
         <i>Poems by Descendants of Nikkei Wartime Incarceration</i> (co-edited
-        with Brynn Saito; Haymarket Books, 2025). "Grains of Rice" is a
-        poem/situation/experience he's been thinking about/accumulating for a
+        with Brynn Saito; Haymarket Books, 2025). &ldquo;Grains of Rice&rdquo; is a
+        poem/situation/experience he&rsquo;s been thinking about/accumulating for a
         long, long time. More pertinent links can be found{" "}
         <a
           className={styles.biosExternalLink}
@@ -88,9 +88,9 @@ export default function Issue9Bios() {
         Poets/University of Iowa Press, 2026). He works primarily in the
         vaporpoem, a plunderphonic lyric mode that sample-collages the
         aesthetics of late-analog and early-digital culture to diagnose what
-        John Goodhue (<i>Cleveland Review of Books</i>) calls "the glitch which
+        John Goodhue (<i>Cleveland Review of Books</i>) calls &ldquo;the glitch which
         reveals the dark data of a world that one has a moral imperative to
-        rebuff." Extending this process into sound, he records as The Spanish
+        rebuff.&rdquo; Extending this process into sound, he records as The Spanish
         Trail Motel. His debut EP, <i>The Spanish Trail Motel Descrambler</i>,
         <i>Issue 1</i> (2025), and follow-up <i>Vaporleonard</i> (2025), are
         available on all major streaming platforms.
