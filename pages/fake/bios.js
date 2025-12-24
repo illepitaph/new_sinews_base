@@ -8,7 +8,7 @@ import styles from "../../styles/Bios.module.css";
 Issue9Bios.title = "issue9_bios — new_sinews";
 Issue9Bios.pieceName = "issue9_bios — new_sinews";
 Issue9Bios.description = "_contributor bios_new sinews_issue9_";
-Issue9Bios.image = "https://www.newnewsinews.com/images/Issue8CoverMeta.jpg";
+Issue9Bios.image = "https://www.newnewsinews.com/images/Issue9CoverMeta.jpg";
 
 export default function Issue9Bios() {
   return (
