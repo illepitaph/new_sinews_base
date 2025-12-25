@@ -10,6 +10,8 @@ Home.description =
 Home.image = "https://www.newnewsinews.com/images/SplashPage.jpg";
 
 export default function Home() {
+  const [issueNineDropdownClass, setIssueNineDropdownClass] =
+    useState("issueContentClosed");
   const [issueEightDropdownClass, setIssueEightDropdownClass] =
     useState("issueContentClosed");
   const [issueSevenDropdownClass, setIssueSevenDropdownClass] =
@@ -40,6 +42,57 @@ export default function Home() {
               <div className={styles.iconImage}></div>
             </Link>
             <nav className={styles.siteNav}>
+              <div
+                className={styles.dropDown}
+                onMouseEnter={() => {
+                  setIssueNineDropdownClass("issueContentOpen");
+                }}
+                onMouseLeave={() => {
+                  setIssueNineDropdownClass("issueContentClosed");
+                }}
+              >
+                <Link href="/issue9" passHref>
+                  <button>issue_9</button>
+                </Link>
+                <div className={styles[issueNineDropdownClass]}>
+                  <Link href="/issue9" passHref>
+                    <button>new_sinews_issue9</button>
+                  </Link>
+                  <Link href="/issue9/shortbread" passHref>
+                    <button>zebulon horse_shortbread</button>
+                  </Link>
+                  <Link href="/issue9/blazes" passHref>
+                    <button>hannah brooks-motl_blazes (trails)</button>
+                  </Link>
+                  <Link href="/issue9/actaeon" passHref>
+                    <button>isreal bonilla_actaeon</button>
+                  </Link>
+                  <Link href="/issue9/chronology" passHref>
+                    <button>lisa hsiao chen_a chronology of the not too distant future</button>
+                  </Link>
+                  <Link href="/issue9/grains" passHref>
+                    <button>brandon shimoda_grains of rice</button>
+                  </Link>
+                  <Link href="/issue9/entries" passHref>
+                    <button>zachary gary_entries</button>
+                  </Link>
+                  <Link href="/issue9/graffito" passHref>
+                    <button>gabriel palacios_fuck i look like</button>
+                  </Link>
+                  <Link href="/issue9/apollo" passHref>
+                    <button>amelia moriarty_apollo in tokyo</button>
+                  </Link>
+                  <Link href="/issue9/darsee" passHref>
+                    <button>zack darsee_oops— i</button>
+                  </Link>
+                  <Link href="/issue9/tations" passHref>
+                    <button>mandy-suzanne wong_fragmen / lamen - tations</button>
+                  </Link>
+                  <Link href="/issue9/bios" passHref>
+                    <button>issue9_bios</button>
+                  </Link>
+                </div>
+              </div>
               <div
                 className={styles.dropDown}
                 onMouseEnter={() => {
