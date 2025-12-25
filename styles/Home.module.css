@@ -95,7 +95,7 @@
   position: relative;
 }
 
-.siteNav > .dropDown > a >button,
+.siteNav > .dropDown > a > button,
 .about {
   border: none;
   font-family: "lores-9-plus-narrow", monospace;
@@ -496,6 +496,14 @@
   }
 }
 
+@media (width: 740px) and (height: 360px) {
+
+  .siteNav > .dropDown > a > button,
+  .about {
+    margin-bottom: 1vh;
+  }
+}
+
 @media (max-width: 721px) and (orientation: portrait) {
   .graffiti {
     font-size: 1.8rem;
@@ -517,7 +525,7 @@
   }
 }
 
-@media (max-width: 481px) and (orientation: portrait) {
+@media (max-width: 541px) and (orientation: portrait) {
   .iconImage {
     width: 40vw;
     height: 40vh;
@@ -540,7 +548,7 @@
 
   .siteNav > .dropDown > a > button,
   .about {
-    margin-top: 1vh;
+    margin-bottom: 0.5rem;
     padding: 4px 8px;
   }
 }
@@ -556,6 +564,14 @@
 
   .snowTypeface {
     font-size: 1.7rem;
+  }
+}
+
+@media (max-width: 345px) and (orientation: portrait) {
+  
+  .siteNav > .dropDown > a > button,
+  .about {
+    padding: 2px 4px;
   }
 }
 
