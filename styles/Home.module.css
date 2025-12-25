@@ -567,7 +567,7 @@
   }
 }
 
-@media (max-width: 345px) and (orientation: portrait) {
+@media (max-width: 361px) and (orientation: portrait) {
   
   .siteNav > .dropDown > a > button,
   .about {
