@@ -4,7 +4,7 @@ import styles from "../../styles/Issue9.module.css";
 Issue9.title = "new_sinews issue9";
 Issue9.pieceName = "new_sinews issue9";
 Issue9.description =
-  "_newsinews issue8_Andrea Harper+Yongyu Chen+Cary Stough+Logan Fry+Abigail Denton+Valerie Hsiung+Alvin Lu+Elise Houcek+Gabriel Palacios+Israel Bonilla";
+  "_newsinews issue9_Zebulon Horse+Hannah Brooks-Motl+Israel Bonilla+Lisa Hsiao Chen+Brandon Shimoda+Zachary Gary+Gabriel Palacios+Amelia Moriarty+Zack Darsee+Mandy-Suzanne Wong";
 Issue9.image = "https://www.newnewsinews.com/images/Issue9CoverMeta.jpg";
 
 export default function Issue9() {
@@ -14,7 +14,7 @@ export default function Issue9() {
       <div className={styles.bodyContainer}>
         <div className={styles.issueContentsTwo}>
           <div className={styles.workLink}>
-            <Link href="/fake/shortbread" passHref>
+            <Link href="/issue9/shortbread" passHref>
               <i>
                 z<span className={styles.lowercase}>e</span>bul
                 <span className={styles.lowercase}>o</span>n h
@@ -26,7 +26,7 @@ export default function Issue9() {
             </Link>
           </div>
           <div className={styles.workLink}>
-            <Link href="/fake/blazes" passHref>
+            <Link href="/issue9/blazes" passHref>
               ha<span className={styles.lowercase}>n</span>na
               <span className={styles.lowercase}>h</span> broo
               <span className={styles.lowercase}>k</span>s-mo
@@ -45,7 +45,7 @@ export default function Issue9() {
             </Link>
           </div>
           <div className={styles.workLink}>
-            <Link href="/fake/actaeon" passHref>
+            <Link href="/issue9/actaeon" passHref>
               <i>
                 <span className={styles.lowercase}>i</span>sra
                 <span className={styles.lowercase}>e</span>l b
@@ -57,7 +57,7 @@ export default function Issue9() {
             </Link>
           </div>
           <div className={styles.workLink}>
-            <Link href="/fake/chronology" passHref>
+            <Link href="/issue9/chronology" passHref>
               L<span className={styles.lowercase}>is</span>a{" "}
               <span className={styles.lowercase}>h</span>s
               <span className={styles.lowercase}>i</span>ao{" "}
@@ -77,7 +77,7 @@ export default function Issue9() {
             </Link>
           </div>
           <div className={styles.workLink}>
-            <Link href="/fake/grains" passHref>
+            <Link href="/issue9/grains" passHref>
               <i>
                 <span className={styles.lowercase}>b</span>rand
                 <span className={styles.lowercase}>o</span>n Sh
@@ -94,7 +94,7 @@ export default function Issue9() {
         </div>
         <div className={styles.issueContents}>
           <div className={styles.workLink}>
-            <Link href="/fake/entries" passHref>
+            <Link href="/issue9/entries" passHref>
               Za<span className={styles.lowercase}>c</span>har
               <span className={styles.lowercase}>y</span>{" "}
               <span className={styles.lowercase}>g</span>ary &#62;&#60;{" "}
@@ -107,7 +107,7 @@ export default function Issue9() {
           </div>
 
           <div className={styles.workLink}>
-            <Link href="/fake/graffito" passHref>
+            <Link href="/issue9/graffito" passHref>
               <i>
                 <span className={styles.lowercase}>g</span>a
                 <span className={styles.lowercase}>b</span>ri
@@ -127,7 +127,7 @@ export default function Issue9() {
           </div>
 
           <div className={styles.workLink}>
-            <Link href="/fake/apollo" passHref>
+            <Link href="/issue9/apollo" passHref>
               A<span className={styles.lowercase}>m</span>el
               <span className={styles.lowercase}>i</span>a{" "}
               <span className={styles.lowercase}>m</span>o
@@ -143,7 +143,7 @@ export default function Issue9() {
           </div>
 
           <div className={styles.workLink}>
-            <Link href="/fake/darsee" passHref>
+            <Link href="/issue9/darsee" passHref>
               <i>
                 <span className={styles.lowercase}>z</span>a
                 <span className={styles.lowercase}>c</span>k{" "}
@@ -157,7 +157,7 @@ export default function Issue9() {
           </div>
 
           <div className={styles.workLink}>
-            <Link href="/fake/tations" passHref>
+            <Link href="/issue9/tations" passHref>
               <span className={styles.lowercase}>m</span>an
               <span className={styles.lowercase}>d</span>y-Su
               <span className={styles.lowercase}>z</span>a
@@ -176,7 +176,7 @@ export default function Issue9() {
           </div>
         </div>
         <div className={styles.workLinkBios}>
-          <Link href="/fake/bios" passHref>
+          <Link href="/issue9/bios" passHref>
             &#60;bios&#62;
           </Link>
         </div>

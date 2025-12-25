@@ -506,6 +506,67 @@ module.exports = {
         source: "/home",
         destination: "/",
       },
+
+      {
+        source: "/issue9",
+        destination: "/issue9/index",
+      },
+
+      {
+        source: "/shortbread",
+        destination: "/issue9/shortbread",
+      },
+
+      {
+        source: "/blazes",
+        destination: "/issue9/blazes",
+      },
+
+      {
+        source: "/actaeon",
+        destination: "/issue9/actaeon",
+      },
+
+      {
+        source: "/chronology",
+        destination: "/issue9/chronology",
+      },
+
+      {
+        source: "/grains",
+        destination: "/issue9/grains",
+      },
+
+      {
+        source: "/entries",
+        destination: "/issue9/entries",
+      },
+
+      {
+        source: "/graffito",
+        destination: "/issue9/graffito",
+      },
+
+      {
+        source: "/apollo",
+        destination: "/issue9/apollo",
+      },
+
+      {
+        source: "/darsee",
+        destination: "/issue9/darsee",
+      },
+
+      {
+        source: "/tations",
+        destination: "/issue9/tations",
+      },
+
+      {
+        source: "/issue9bios",
+        destination: "/issue9/bios",
+      },
+      
     ];
   },
 };

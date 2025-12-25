@@ -11,7 +11,7 @@ Home.image = "https://www.newnewsinews.com/images/SplashPage.jpg";
 
 export default function Home() {
   const [issueEightDropdownClass, setIssueEightDropdownClass] =
-  useState("issueContentClosed");
+    useState("issueContentClosed");
   const [issueSevenDropdownClass, setIssueSevenDropdownClass] =
     useState("issueContentClosed");
   const [issueSixDropdownClass, setIssueSixDropdownClass] =
@@ -72,9 +72,7 @@ export default function Home() {
                     <button>abigail denton_post-credits scene</button>
                   </Link>
                   <Link href="/issue8/drug" passHref>
-                    <button>
-                      valerie hsiung_giving off deep earth
-                    </button>
+                    <button>valerie hsiung_giving off deep earth</button>
                   </Link>
                   <Link href="/issue8/album" passHref>
                     <button>alvin lu_the white album</button>
@@ -495,16 +493,18 @@ export default function Home() {
                     <button>
                       _steve_barbaro_
                       <br />
-                      _plane_of_<br/>consummate_finitude_
+                      _plane_of_
+                      <br />
+                      consummate_finitude_
                     </button>
                   </Link>
                   <Link href="/books/maitonaut" passHref>
-                  <button>
-                    _kaisa_saarinen_
-                    <br />
-                    _maitonaut_
-                  </button>
-                </Link>
+                    <button>
+                      _kaisa_saarinen_
+                      <br />
+                      _maitonaut_
+                    </button>
+                  </Link>
                 </div>
               </div>
               <Link href="/about" passHref>
@@ -533,41 +533,41 @@ export default function Home() {
             <span className={styles.snowTypeface}>late empire new writing</span>
             <br />
             <br />
-            <span className={styles.lightTypeface}>_issue_eight_</span>
+            <span className={styles.lightTypeface}>_issue_nine_</span>
             <br />
             <br />
             <span className={styles.snowTypeface}>featuring</span>
             <br />
             <br />
             <span className={styles.lightTypeface}>
-              andrea harper
+              zebulon horse
               <br />
               <br />
-              yongyu chen
+              hannah brooks-motl
               <br />
               <br />
-              cary stough
+              israel bonilla
               <br />
               <br />
-              logan fry
+              lisa hsiao chen
               <br />
               <br />
-              abigail denton
+              brandon shimoda
               <br />
               <br />
-             valerie hsiung
-              <br />
-              <br />
-              alvin lu
-              <br />
-              <br />
-              elise houcek
+              zachary gary
               <br />
               <br />
               gabriel palacios
               <br />
               <br />
-              israel bonilla
+              amelia moriarty
+              <br />
+              <br />
+              zack darsee
+              <br />
+              <br />
+              mandy-suzanne wong
               <br />
               <br />
             </span>
