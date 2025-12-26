@@ -103,6 +103,12 @@
   transition: 1.2s background-color;
 }
 
+.home {
+  font-size: 0.76rem;
+  letter-spacing:-0.5px;
+  color:black;
+}
+
 .siteNav > .dropDown > a > button,
 .home {
   margin-right: 2px;
