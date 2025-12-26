@@ -199,7 +199,7 @@ export default function Actaeon() {
         <br />I could sense a growing feeling of command in her. Once again I
         confronted the Diana of the evening. Her autobiographical fragments were
         dangerously whole now. Dangerously, yes, for there is no strand of life
-        that escapes my imagination. I weave with and secure. The woman who is
+        that escapes my imagination. I weave <i>with</i> and secure. The woman who is
         momentarily restrained in motherhood then rebels edifies her progeny.
         More so, when the man withholds recognition. A drama of symbols, forever
         lodged in the inaccessible strata of the spectator’s psyche—heightened

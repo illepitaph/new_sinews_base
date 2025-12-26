@@ -55,7 +55,7 @@ export default function Issue9Bios() {
         <i>Landscapes</i> (Ghost City Press, 2021), the short story collection{" "}
         <i>Sleep Decades</i> (Malarkey Books, 2024), and the pamphlet{" "}
         <i>Phoretics</i> (Paradise Editions, 2025). His work has appeared in{" "}
-        <i>Your Impossible Voice</i>, <i>Firmament</i>, Exacting Clam,{" "}
+        <i>Your Impossible Voice</i>, <i>Firmament</i>, <i>Exacting Clam</i>,{" "}
         <i>Minor Literature[s]</i>, <i>Keep Planning</i>, and elsewhere.
         <br />
         <br />
