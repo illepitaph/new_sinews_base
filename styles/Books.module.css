@@ -79,7 +79,7 @@
   align-self: center;
   display: inline-flex;
   justify-content: flex-end;
-  margin-right: 4%;
+  margin-right: 2%;
   margin-top: 10vh;
 }
 
@@ -92,7 +92,7 @@
 .about {
   border: none;
   font-family: "lores-9-plus-narrow", monospace;
-  font-size: 0.9rem;
+  font-size: 0.86rem;
   background-color: #c0a5a5;
   color: white;
   text-shadow: 1px 2px black, 2px 3px white;
