@@ -1016,6 +1016,17 @@
   }
 }
 
+@media (max-width: 361px) and (orientation: portrait) {
+
+  .siteNav > .dropDown a > button,
+  .home,
+  .about {
+   font-size:0.59rem;
+   padding: 1px 1px;
+  }
+
+}
+
 @media (max-width: 321px) and (orientation: portrait) {
   .iconImage {
     margin: 12vh 0 0 12vw;
