@@ -101,7 +101,7 @@
   border: 2px groove white;
   border-radius: 45px;
   text-transform: uppercase;
-  letter-spacing: 1.5px;
+  letter-spacing: 0.5px;
   cursor: pointer;
   transition: 1.2s background-color;
 }
