@@ -4,8 +4,10 @@ import React, { useState } from "react";
 import styles from "../styles/Header.module.css";
 
 export default function Header(props) {
+  const [issueNineDropdownClass, setIssueNineDropdownClass] =
+    useState("issueContentClosed");
   const [issueEightDropdownClass, setIssueEightDropdownClass] =
-  useState("issueContentClosed");
+    useState("issueContentClosed");
   const [issueSevenDropdownClass, setIssueSevenDropdownClass] =
     useState("issueContentClosed");
   const [issueSixDropdownClass, setIssueSixDropdownClass] =
@@ -32,59 +34,110 @@ export default function Header(props) {
           <div className={styles.iconImage}></div>
         </Link>
         <nav className={styles.siteNav}>
-        <div
-                className={styles.dropDown}
-                onMouseEnter={() => {
-                  setIssueEightDropdownClass("issueContentOpen");
-                }}
-                onMouseLeave={() => {
-                  setIssueEightDropdownClass("issueContentClosed");
-                }}
-              >
-                <Link href="/issue8" passHref>
-                  <button>issue_8</button>
-                </Link>
-                <div className={styles[issueEightDropdownClass]}>
-                  <Link href="/issue8" passHref>
-                    <button>new_sinews_issue8</button>
-                  </Link>
-                  <Link href="/issue8/father" passHref>
-                    <button>andrea harper_father figure</button>
-                  </Link>
-                  <Link href="/issue8/memory" passHref>
-                    <button>yongyu chen_tell the memory</button>
-                  </Link>
-                  <Link href="/issue8/nails" passHref>
-                    <button>cary stough_nails</button>
-                  </Link>
-                  <Link href="/issue8/fry" passHref>
-                    <button>logan fry_an If unfixed</button>
-                  </Link>
-                  <Link href="/issue8/credits" passHref>
-                    <button>abigail denton_post-credits scene</button>
-                  </Link>
-                  <Link href="/issue8/drug" passHref>
-                    <button>
-                      valerie hsiung_giving off deep earth
-                    </button>
-                  </Link>
-                  <Link href="/issue8/album" passHref>
-                    <button>alvin lu_the white album</button>
-                  </Link>
-                  <Link href="/issue8/houcek" passHref>
-                    <button>elise houcek_totally distant</button>
-                  </Link>
-                  <Link href="/issue8/videosouls" passHref>
-                    <button>gabriel palacios_videosouls</button>
-                  </Link>
-                  <Link href="/issue8/bonilla" passHref>
-                    <button>israel bonilla_harimàte</button>
-                  </Link>
-                  <Link href="/issue8/bios" passHref>
-                    <button>issue8_bios</button>
-                  </Link>
-                </div>
-              </div>
+          <div
+            className={styles.dropDown}
+            onMouseEnter={() => {
+              setIssueNineDropdownClass("issueContentOpen");
+            }}
+            onMouseLeave={() => {
+              setIssueNineDropdownClass("issueContentClosed");
+            }}
+          >
+            <Link href="/issue9" passHref>
+              <button>issue_9</button>
+            </Link>
+            <div className={styles[issueNineDropdownClass]}>
+              <Link href="/issue9" passHref>
+                <button>new_sinews_issue9</button>
+              </Link>
+              <Link href="/issue9/shortbread" passHref>
+                <button>zebulon horse_shortbread</button>
+              </Link>
+              <Link href="/issue9/blazes" passHref>
+                <button>hannah brooks-motl_blazes (trails)</button>
+              </Link>
+              <Link href="/issue9/actaeon" passHref>
+                <button>isreal bonilla_actaeon</button>
+              </Link>
+              <Link href="/issue9/chronology" passHref>
+                <button>
+                  lisa hsiao chen_a chronology of the not too distant future
+                </button>
+              </Link>
+              <Link href="/issue9/grains" passHref>
+                <button>brandon shimoda_grains of rice</button>
+              </Link>
+              <Link href="/issue9/entries" passHref>
+                <button>zachary gary_entries</button>
+              </Link>
+              <Link href="/issue9/graffito" passHref>
+                <button>gabriel palacios_fuck i look like</button>
+              </Link>
+              <Link href="/issue9/apollo" passHref>
+                <button>amelia moriarty_apollo in tokyo</button>
+              </Link>
+              <Link href="/issue9/darsee" passHref>
+                <button>zack darsee_oops— i</button>
+              </Link>
+              <Link href="/issue9/tations" passHref>
+                <button>mandy-suzanne wong_fragmen / lamen - tations</button>
+              </Link>
+              <Link href="/issue9/bios" passHref>
+                <button>issue9_bios</button>
+              </Link>
+            </div>
+          </div>
+          <div
+            className={styles.dropDown}
+            onMouseEnter={() => {
+              setIssueEightDropdownClass("issueContentOpen");
+            }}
+            onMouseLeave={() => {
+              setIssueEightDropdownClass("issueContentClosed");
+            }}
+          >
+            <Link href="/issue8" passHref>
+              <button>issue_8</button>
+            </Link>
+            <div className={styles[issueEightDropdownClass]}>
+              <Link href="/issue8" passHref>
+                <button>new_sinews_issue8</button>
+              </Link>
+              <Link href="/issue8/father" passHref>
+                <button>andrea harper_father figure</button>
+              </Link>
+              <Link href="/issue8/memory" passHref>
+                <button>yongyu chen_tell the memory</button>
+              </Link>
+              <Link href="/issue8/nails" passHref>
+                <button>cary stough_nails</button>
+              </Link>
+              <Link href="/issue8/fry" passHref>
+                <button>logan fry_an If unfixed</button>
+              </Link>
+              <Link href="/issue8/credits" passHref>
+                <button>abigail denton_post-credits scene</button>
+              </Link>
+              <Link href="/issue8/drug" passHref>
+                <button>valerie hsiung_giving off deep earth</button>
+              </Link>
+              <Link href="/issue8/album" passHref>
+                <button>alvin lu_the white album</button>
+              </Link>
+              <Link href="/issue8/houcek" passHref>
+                <button>elise houcek_totally distant</button>
+              </Link>
+              <Link href="/issue8/videosouls" passHref>
+                <button>gabriel palacios_videosouls</button>
+              </Link>
+              <Link href="/issue8/bonilla" passHref>
+                <button>israel bonilla_harimàte</button>
+              </Link>
+              <Link href="/issue8/bios" passHref>
+                <button>issue8_bios</button>
+              </Link>
+            </div>
+          </div>
           <div
             className={styles.dropDown}
             onMouseEnter={() => {
@@ -446,8 +499,10 @@ export default function Header(props) {
               </Link>
               <Link href="/issue1/evenflesh" passHref>
                 <button>
-                  even flesh seems<br/>a formality_or: vi khi<br/>nao&apos;s organic
-                  oscillations
+                  even flesh seems
+                  <br />a formality_or: vi khi
+                  <br />
+                  nao&apos;s organic oscillations
                 </button>
               </Link>
               <Link href="/issue1/bios" passHref>
@@ -478,12 +533,12 @@ export default function Header(props) {
                 </button>
               </Link>
               <Link href="/books/maitonaut" passHref>
-                  <button>
-                    _kaisa_saarinen_
-                    <br />
-                    _maitonaut_
-                  </button>
-                </Link>
+                <button>
+                  _kaisa_saarinen_
+                  <br />
+                  _maitonaut_
+                </button>
+              </Link>
             </div>
           </div>
           <Link href="/" passHref>

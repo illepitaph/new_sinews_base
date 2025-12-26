@@ -689,7 +689,7 @@
     display: inline-flex;
     flex-flow: column wrap;
     justify-content: flex-end;
-    margin: 7vh 6vw 0 0;
+    margin: 2vh 6vw 0 0;
   }
 
   .siteNav > .dropDown a > button,
@@ -993,8 +993,8 @@
   .siteNav > .dropDown a > button,
   .home,
   .about {
-    margin-top: 1vh;
-    padding: 4px 2px;
+    margin: 0 0 1vh 0;
+    padding: 2px 1px;
   }
 
   .home {
