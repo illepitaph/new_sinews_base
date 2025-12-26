@@ -361,8 +361,8 @@
   .home {
     width: 6rem;
     font-size: 0.7rem;
-    padding: 3px 9px;
-    margin-bottom: 1vh;
+    padding: 1px 6px;
+    margin-bottom: 0.5vh;
   }
 }
 
@@ -392,10 +392,6 @@
   .middle {
     width: 99vw;
   }
-  .siteNav > .dropDown > a > button,
-  .home {
-    padding: 3px 3px;
-  }
 
   .siteNav > .dropDown > a > button,
   .home {
@@ -413,7 +409,7 @@
     width: 8rem;
     font-size: 1rem;
     margin-bottom: 1.7vh;
-    padding: 9px 16px;
+    padding: 2px 4px;
     opacity: 0.9;
   }
 
@@ -435,7 +431,7 @@
     width: 8rem;
     font-size: 1rem;
     margin-bottom: 1.7vh;
-    padding: 9px 16px;
+    padding: 2px 4px;
     opacity: 0.9;
   }
 
@@ -457,7 +453,7 @@
     width: 8rem;
     font-size: 1rem;
     margin-bottom: 1.7vh;
-    padding: 9px 16px;
+    padding: 2px 4px;
     opacity: 0.9;
   }
 
@@ -479,7 +475,7 @@
     width: 8rem;
     font-size: 1rem;
     margin-bottom: 1.7vh;
-    padding: 9px 16px;
+    padding: 2px 4px;
     opacity: 0.9;
   }
 
@@ -501,7 +497,7 @@
     width: 8rem;
     font-size: 1rem;
     margin-bottom: 1.7vh;
-    padding: 9px 16px;
+    padding: 2px 4px;
     opacity: 0.9;
   }
 
@@ -523,7 +519,7 @@
     width: 8rem;
     font-size: 1rem;
     margin-bottom: 1.7vh;
-    padding: 9px 16px;
+    padding: 2px 4px;
     opacity: 0.9;
   }
 
@@ -575,7 +571,17 @@
 
   .siteNav > .dropDown > a > button,
   .home {
-    padding: 5px 3px;
+    padding: 4px 2px;
+    margin-bottom: 1vh;
+  }
+}
+
+@media (max-width: 361px) and (orientation: portrait) {
+
+  .siteNav > .dropDown > a > button,
+  .home {
+    font-size:0.6rem;
+    padding: 3px 1px;
   }
 }
 
@@ -589,8 +595,7 @@
   .siteNav > .dropDown > a > button,
   .home {
     width: 5.3rem;
-    font-size: 0.6rem;
-    padding: 5px 9px;
+    padding: 1px 2px;
     margin-bottom: 4vh;
   }
 
