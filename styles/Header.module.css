@@ -80,7 +80,7 @@
   align-self: center;
   display: inline-flex;
   justify-content: flex-end;
-  margin-right: 6%;
+  margin-right: 2%;
 }
 
 .dropDown {
@@ -92,7 +92,7 @@
 .about {
   border: none;
   font-family: "lores-9-plus-narrow", monospace;
-  font-size: 0.87rem;
+  font-size: 0.81rem;
   background-color: black;
   color: #c0a5a5;
   opacity: 0.84;
