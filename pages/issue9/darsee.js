@@ -317,7 +317,7 @@ OBJECT! I LOVE THE COLOR BLUE!`}</pre>
         className={styles.poem}
       >{`From all this phosphorescent texting, allow me to open the curtain and expose my thorn!
       
-That I came by way of a newspaper route is just evidence of our attachment to sign
+That I came by way of a newspaper route is just evidence of our attachment to signs
       
 So that an earlier struggle against getting too wet deleted us
       
