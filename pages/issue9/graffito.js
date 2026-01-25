@@ -202,7 +202,7 @@ export default function Graffito() {
       <h3 className={styles.poemTitle}>scramblevision</h3>
 
       <AudioPlayer 
-      src="/music/scramblevision.wav"
+      src="/music/graffito.wav"
       onPlay={(e) => console.log("onPlay")} 
       className={styles.musicBox} />
 
