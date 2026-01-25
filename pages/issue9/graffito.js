@@ -201,6 +201,14 @@ export default function Graffito() {
 
       <h3 className={styles.poemTitle}>scramblevision</h3>
 
+  <AudioPlayer
+        autoPlay
+        src="https://cdn.freecodecamp.org/curriculum/js-music-player/scratching-the-surface.mp3"
+        onPlay={(e) => console.log("onPlay")}
+        className={styles.musicBox}
+        // other props here
+      />
+
       <br />
       <br />
       <pre className={styles.poem}>
