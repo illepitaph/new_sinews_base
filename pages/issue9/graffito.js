@@ -7,8 +7,10 @@ import Footer from "../../components/footer.js";
 import styles from "../../styles/Graffito.module.css";
 import AudioPlayer from "react-h5-audio-player";
 import "react-h5-audio-player/lib/styles.css";
-Graffito.title = "gabriel_palacios ~ fuck i look like fighting ++ that would-be datacenter — new_sinews";
-Graffito.pieceName = "gabriel_palacios ~ fuck i look like fighting ++ that would-be datacenter — new_sinews";
+Graffito.title =
+  "gabriel_palacios ~ fuck i look like fighting ++ that would-be datacenter — new_sinews";
+Graffito.pieceName =
+  "gabriel_palacios ~ fuck i look like fighting ++ that would-be datacenter — new_sinews";
 Graffito.description = "_Gabriel Palacios_poetry_THREE POEMS_issue9_";
 Graffito.image = "https://www.newnewsinews.com/images/GraffitoBackground.jpg";
 
@@ -74,8 +76,9 @@ export default function Graffito() {
         <span className={styles.titleShadow}>
           ++ de<span className={styles.uppercase}>a</span>
           <span className={styles.uppercase}>
-            <i>r </i> _ 
-          </span> s
+            <i>r </i> _
+          </span>{" "}
+          s
           <span className={styles.uppercase}>
             <i>m</i>
           </span>
@@ -201,9 +204,9 @@ export default function Graffito() {
 
       <h3 className={styles.poemTitle}>scramblevision</h3>
 
-  <AudioPlayer
+      <AudioPlayer
         autoPlay
-        src="../../public/music/scramblevision.wav"
+        src="/music/SCRAMBLEVISION.wav"
         onPlay={(e) => console.log("onPlay")}
         className={styles.musicBox}
         // other props here
@@ -271,7 +274,7 @@ walking from the Food Mart.  
         {`  
 	hey I don’t know how much they hold 
 
-	it’s Cream of Wheat for dinner isn’t it. 
+	it’s Cream of Wheat for dinner isn’t it.
 
  
 You’d dial something in that couldn’t  
@@ -338,37 +341,37 @@ Pray to god 
       <pre
         className={styles.poem}
       >{`Sometimes I test myself to see if I still got it.
-Fuck I look like fighting with show-ready dogs who 
-have accepted their revered and pampered station. 
-A barren building is the art 
+Fuck I look like fighting with show-ready dogs who
+have accepted their revered and pampered station.
+A barren building is the art
 these city fathers taught
 with blocks to babies, the art defended under lab lights
-with transcranial magnets and antique 
-amphetamines, 
+with transcranial magnets and antique
+amphetamines,
 a massacre undone
-by pardon here and there.	
+by pardon here and there.
 Tell me my hill is not a pyramid. My channels aren’t
-canals. Abandoned dogs float dead in space yet like a hand 
-out of the grave here comes another 
-lake house summer friend from youth of someone 
-brought onboard to find 
-efficiencies in 
+canals. Abandoned dogs float dead in space yet like a hand
+out of the grave here comes another
+lake house summer friend from youth of someone
+brought onboard to find
+efficiencies in
 care. To face the wall of selfie leaves
-at working brunch. Dog under table. 
+at working brunch. Dog under table.
 
-Dog let’s walk. 
+Dog let’s walk.
 Into the lurid colors
 of a cake
-with photoreal frosting, 
-an open box appliance store next door 
-that also plies 
+with photoreal frosting,
+an open box appliance store next door
+that also plies
 my people’s glut of esoteric Funkos. OPEN TO THE PUBLIC
 says the sign: you can’t be sure
-who wants you. 
+who wants you.
 
 And clusterings of ad hoc friends undone
-by tender tidings as they fold the free phone tarp. 
-It’s dark, a bus approaches, I still need  
+by tender tidings as they fold the free phone tarp.
+It’s dark, a bus approaches, I still need
 to know how missed I am before it passes.`}</pre>
       <br />
       <br />
@@ -407,7 +410,7 @@ on daiquirimachinelight.
 
 That nourishment kept pace with my  
 confabulation  
-of the 
+of the
 names.     
 
 Names for every mall fern no one told me  
