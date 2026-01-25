@@ -96,6 +96,11 @@
   margin-left: 23vw;
 }
 
+.musicBox {
+  background-color: gainsboro;
+  font-family: "lores-9-plus-wide", monospace;
+}
+
 @media (width: 1194px) and (height: 834px) {
   .poem {
     max-width: 90vw;

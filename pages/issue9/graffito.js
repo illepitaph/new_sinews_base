@@ -4,9 +4,9 @@ import RightGrayTitle from "../../components/rightGrayTitle.js";
 import LeftBlackTitle from "../../components/leftBlackTitle.js";
 import RightBlackTitle from "../../components/rightBlackTitle.js";
 import Footer from "../../components/footer.js";
-import styles from "../../styles/Graffito.module.css";
 import AudioPlayer from "react-h5-audio-player";
 import "react-h5-audio-player/lib/styles.css";
+import styles from "../../styles/Graffito.module.css";
 Graffito.title = "gabriel_palacios ~ fuck i look like fighting ++ that would-be datacenter — new_sinews";
 Graffito.pieceName = "gabriel_palacios ~ fuck i look like fighting ++ that would-be datacenter — new_sinews";
 Graffito.description = "_Gabriel Palacios_poetry_THREE POEMS_issue9_";
@@ -201,6 +201,11 @@ export default function Graffito() {
 
       <h3 className={styles.poemTitle}>scramblevision</h3>
 
+      <AudioPlayer 
+      autoPlay src="/music/scramblevision.wav"
+      onPlay={(e) => console.log("onPlay")} 
+      className={styles.musicBox} />
+
       <br />
       <br />
       <pre className={styles.poem}>
@@ -325,6 +330,11 @@ Pray to god 
 
       <h3 className={styles.poemTitle}>graffito</h3>
 
+      <AudioPlayer 
+      autoPlay src="/music/graffito.wav"
+      onPlay={(e) => console.log("onPlay")} 
+      className={styles.musicBox} />
+
       <br />
       <br />
       <pre
@@ -379,6 +389,11 @@ to know how missed I am before it passes.`}</pre>
       <h3 className={styles.poemTitle}>
         Dear Smart City Telecom Of Celebration, Florida 
       </h3>
+
+      <AudioPlayer 
+      autoPlay src="/music/dearsmartcity.wav"
+      onPlay={(e) => console.log("onPlay")} 
+      className={styles.musicBox} />
 
       <br />
       <br />
