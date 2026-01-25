@@ -202,7 +202,7 @@ export default function Graffito() {
       <h3 className={styles.poemTitle}>scramblevision</h3>
 
       <AudioPlayer 
-      autoPlay src="/music/scramblevision.wav"
+      src="/music/scramblevision.wav"
       onPlay={(e) => console.log("onPlay")} 
       className={styles.musicBox} />
 
@@ -331,7 +331,7 @@ Pray to god 
       <h3 className={styles.poemTitle}>graffito</h3>
 
       <AudioPlayer 
-      autoPlay src="/music/graffito.wav"
+      src="/music/graffito.wav"
       onPlay={(e) => console.log("onPlay")} 
       className={styles.musicBox} />
 
@@ -391,7 +391,7 @@ to know how missed I am before it passes.`}</pre>
       </h3>
 
       <AudioPlayer 
-      autoPlay src="/music/dearsmartcity.wav"
+      src="/music/dearsmartcity.wav"
       onPlay={(e) => console.log("onPlay")} 
       className={styles.musicBox} />
 
