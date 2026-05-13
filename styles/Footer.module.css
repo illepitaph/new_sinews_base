@@ -25,9 +25,9 @@
   text-transform: lowercase;
 }
 
-@media (max-width: 376px) and (orientation: portrait) {
+@media (max-width: 432px) and (orientation: portrait) {
   .socialLinkFooter {
-    font-size: 1.2rem;
+    font-size: 2.3rem;
   }
 }
 
