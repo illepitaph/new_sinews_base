@@ -5,5 +5,29 @@
   margin-top: 42vh;
   display: grid;
   place-items: center;
-  font-size: 4.7rem;
+  font-size: 3.2rem;
 }
+
+.socialLinkFooter > a {
+   color: #c8c8c8;
+  opacity: 1;
+  font-family: "lores-9-plus-wide", monospace;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 0.4em;
+  text-shadow: 2px 2px snow, 5px 5px black, 7px 7px snow, 10px 10px black;
+}
+
+.socialLinkFooter > a:hover {
+  color:black;
+  text-shadow: 2px 2px snow, 5px 5px #c8c8c8;
+  cursor: pointer;
+  text-transform: lowercase;
+}
+
+@media (max-width: 376px) and (orientation: portrait) {
+  .socialLinkFooter {
+    font-size: 1.2rem;
+  }
+}
+
