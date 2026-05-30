@@ -656,13 +656,12 @@ export default function About() {
         </p>
 
         <p>
-          meantime ... as for the magazine ... submissions remain open although
-          please be warned: the genesis of issue9 is taking a backseat to the
-          expansion of <i>new_sinews</i> into the realms of book publication
+          meantime ... as for the magazine ... submissions for issue10 (issue10!!)
+          are currently very much open
         </p>
 
         <p>
-          with that in mind ... per usual ... please send poems & fiction (very
+          please send poems & fiction (very
           much open to speculative/fantasy) or even aggressively creative
           nonfiction in a <code>word DOC</code> to be considered to:
         </p>
