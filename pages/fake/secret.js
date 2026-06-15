@@ -4,9 +4,11 @@ import RightGrayTitle from "../../components/rightGrayTitle.js";
 import LeftBlackTitle from "../../components/leftBlackTitle.js";
 import RightBlackTitle from "../../components/rightBlackTitle.js";
 import Footer from "../../components/footer.js";
-import styles from "../../styles/Ariadne.module.css";
-Secret.title = "rebecca_ariel_porte ~ constitutive mistakes amount to style ++ like a secret life — new_sinews";
-Secret.pieceName = "rebecca_ariel_porte ~ constitutive mistakes amount to style ++ like a secret life — new_sinews";
+import styles from "../../styles/Secret.module.css";
+Secret.title =
+  "rebecca_ariel_porte ~ constitutive mistakes amount to style ++ like a secret life — new_sinews";
+Secret.pieceName =
+  "rebecca_ariel_porte ~ constitutive mistakes amount to style ++ like a secret life — new_sinews";
 Secret.description = "_Rebecca Ariel Porte_poetry_THREE POEMS_issue10_";
 Secret.image = "https://www.newnewsinews.com/images/GraffitoBackground.jpg";
 
@@ -24,20 +26,26 @@ export default function Secret() {
 
       <RightBlackTitle>
         <span className={styles.titleShadow}>
+          <span className={styles.uppercase}>a</span>
+          <span className={styles.uppercase}> R</span>i
           <span className={styles.uppercase}>
-            a
-          </span><span className={styles.uppercase}> R</span>i
-          <span className={styles.uppercase}><span className={styles.fadeUpper}>
-            <i> a </i>
-          </span></span>
-          d<span className={styles.fade}>n</span><i>e</i>
+            <span className={styles.fadeUpper}>
+              <i> a </i>
+            </span>
+          </span>
+          d<span className={styles.fade}>n</span>
+          <i>e</i>
           <span className={styles.uppercase}>
             {" "}
-            <span className={styles.gap}></span>o<br/>
-            <span className={styles.fadeUpper}><i>f</i></span>
-            <br /> <br/>
-          </span>{" "}n
-          <span className={styles.uppercase}> a</span><span className={styles.fade}>x</span> o<i>s</i>
+            <span className={styles.gap}></span>o<br />
+            <span className={styles.fadeUpper}>
+              <i>f</i>
+            </span>
+            <br /> <br />
+          </span>{" "}
+          n<span className={styles.uppercase}> a</span>
+          <span className={styles.fade}>x</span> o<i>s</i>
+          <span className={styles.fade}>++</span>
           <br />
           <br />
           <br />
@@ -47,34 +55,57 @@ export default function Secret() {
 
       <LeftBlackTitle>
         <span className={styles.titleShadow}>
-          m<span className={styles.uppercase}><span className={styles.fadeUpper}>v </span></span>s<span className={styles.fade}>i</span>
+          <span className={styles.uppercase}>l </span>
           <span className={styles.uppercase}>
-            <i> c </i>a 
+            <span className={styles.fadeUpper}>u </span>
           </span>
-          <br/> du
+          t<span className={styles.fade}>e</span>
           <span className={styles.uppercase}>
-            <span className={styles.fadeUpper}>
-            {" "}l
-            </span>
-            <i>c </i>
-          </span>e{" "}
-           <span className={styles.gap}></span>
-            <span className={styles.gap}></span>
-          <span className={styles.titleShadow}>
-          <span className={styles.uppercase}>l a </span>b<span className={styles.fade}>o</span>
-          <span className={styles.uppercase}>
-            <i>r</i>v
+            <i> s </i>,
           </span>
-          </span> <span className={styles.fade}>m</span>
+          <br /> <span className={styles.uppercase}>l</span>
+          <span className={styles.uppercase}>
+            <span className={styles.fadeUpper}> a</span>
+            <i>u </i>
+          </span>
+          r
+          <span className={styles.uppercase}>
+            <span className={styles.fadeUpper}> e</span>
+            <i>l </i>
+            <span className={styles.fadeUpper}> <i>l </i></span>s
+            <span className={styles.fadeUpper}> ,</span>
+          </span>{" "}
+          <span className={styles.gap}></span>
+          <span className={styles.fade}>_</span> _{" "}
+          <span className={styles.fade}>_</span>
+          <br />
           <br />
           <span className={styles.gap}></span>
-            <span className={styles.gap}></span>
           <span className={styles.titleShadow}>
-          <span className={styles.uppercase}>l e </span><span className={styles.fade}>v</span>
-          <span className={styles.uppercase}>
-            <i>a </i>m
+            s
+            <span className={styles.uppercase}>
+              <i>e </i>
+              <span className={styles.fadeUpper}>a</span>{" "}
             </span>
-          </span><span className={styles.fade}>e</span> n
+            s<span className={styles.gap}></span>
+            <span className={styles.fade}>o</span>f<br />m{" "}
+            <span className={styles.fade}>i</span>
+            <span className={styles.uppercase}>
+              l<i>k</i>
+            </span>
+            ,
+          </span>{" "}
+          a<span className={styles.fadeUpper}>n</span> <i>d</i>
+          <br />
+          <span className={styles.titleShadow}>
+            s<span className={styles.uppercase}>h </span>i
+            <span className={styles.fade}>p</span>s o
+            <span className={styles.fadeUpper}>
+              f <span className={styles.gap}></span>
+              <i> a </i>
+            </span>
+            m be <span className={styles.fadeUpper}>r</span>
+          </span>
           <span className={styles.gap}></span>
           <span className={styles.gap}></span>
           <span className={styles.gap}></span>
@@ -89,20 +120,24 @@ export default function Secret() {
       </LeftBlackTitle>
 
       <RightBlackTitle>
-       <span className={styles.titleShadow}><span className={styles.fade}>f</span>
-          <span className={styles.uppercase}>
-            
-          </span><span className={styles.uppercase}> R </span>o
+        <span className={styles.titleShadow}>
+          <span className={styles.fade}>f</span>
+          <span className={styles.uppercase}></span>
+          <span className={styles.uppercase}> R </span>o
           <span className={styles.uppercase}>
             <i>m</i>
           </span>
-         
+          <span className={styles.gap}></span>
+          <span className={styles.gap}></span>
+          <span className={styles.fade}>{"//"}</span>
           <span className={styles.uppercase}>
             {" "}
-            <span className={styles.gap}></span>c
-            <i>o</i>
-          </span>{" "}m
-          <span className={styles.uppercase}> m </span><i><span className={styles.fade}>e</span></i>
+            <span className={styles.gap}></span>c<i>o</i>
+          </span>{" "}
+          m<span className={styles.uppercase}> m </span>
+          <i>
+            <span className={styles.fade}>e</span>
+          </i>
           <br />
           <br />
           <br />
@@ -117,67 +152,13 @@ export default function Secret() {
       <br />
 
       <LeftBlackTitle>
-        <span className={styles.nameHeight}>
-          <span className={styles.nameShadow}> g</span>
-          <br />
-          <br />
-          <span className={styles.specialCursive}> a </span>
-          <br />
-          <br />
-          <span className={styles.leftMargin}>
-            <span className={styles.inverseNameShadow}> b</span>
-            <br />
-            <br /> <span className={styles.nameShadow}>_</span>
-          </span>
-          <span className={styles.specialCursive}>r i</span>
-          <br />
-          <br />
-          <span className={styles.leftMarginTwo}>
-            <span className={styles.inverseNameShadow}> e </span>
-            <br />
-            <span className={styles.leftMarginThree}>
-              <span className={styles.nameShadowUppercase}>l</span>
-            </span>
-          </span>
+        <span className={styles.authorName}>
+          <span className={styles.ellipses}>...</span> rebecca <br />{" "}
+          <span className={styles.ellipses}>...</span> ariel
+          <br /> <span className={styles.ellipses}>...</span> porte
         </span>
       </LeftBlackTitle>
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <RightBlackTitle>
-        <span className={styles.specialCursive}>p</span>
-        <br />
-        <br />
-        <br />
-        <span className={styles.nameShadowUppercase}>a</span>
-        <br />
-        <br />
-        <br />
-        <span className={styles.rightMargin}>
-          <span className={styles.specialCursive}>la</span>
-        </span>
-        <br />
-        <br />
-        <span className={styles.leftMargin}>
-          <span className={styles.nameShadow}>c</span>
-          <br />
-          <br />
-          <span className={styles.rightMarginTwo}>
-            <span className={styles.specialCursive}>io</span>
-          </span>
-          <br />
-          <br />
-          <span className={styles.rightMargin}>
-            <span className={styles.inverseNameShadow}>
-              <i>s</i>
-            </span>
-          </span>
-        </span>
-        <br />
-      </RightBlackTitle>
+
       <br />
       <br />
       <br />
@@ -192,117 +173,43 @@ export default function Secret() {
       <br />
       <br />
 
-      <h3 className={styles.poemTitle}>scramblevision</h3>
-
-     
+      <h3 className={styles.poemTitle}>ariadne of naxos</h3>
+      <div className={styles.epigraphContainer}>
+        <div>
+          Ich habe nichts mit dieser Welt gemein! Wozu leben in ihr?
+          <br />
+        </div>
+      </div>
 
       <br />
       <br />
       <pre className={styles.poem}>
-        {`You’d tune the cable box to forty-seven, 
-VCR to four instead of three, 
-divine a phase jitter cascade  
-or conjure crosstalk— 
-flesh stretched cyan  
-and magenta. Felt  
-if not quite seen.  
-To be awake in house asleep.  
-To be awake—
-for any of these chemicals to work they must speak  
-meaner than the troubled vein—
-ice the region represented by  
-the redness.
-You can’t know how few  
-nights like this  
-remain to suffer  
-feeds of feasts of what  
- 
-you need.  
- 
-Sync pulse 
-pours in,  
-makes your hair stand.
-Night under your eyes.
-`}
-        <i>Breath-chatter-possession-garish</i>
-        {`  
-`}
-        <i>furniture</i>
-        {`— 
- 
-So much of it that none of it  
-should matter.  
- 
-You can only 
-only 
-pull your only body from the NTSC  
-snow and drive without your wallet, without  
-shoes.  
- 
-I’m trying not to watch the little screen that plays commercials  
-while the gas pumps.  
-This one has a Jeep with Texas plates in a savannah. A family in hunting garb. 
-What’s wrong.  
-She mouths to me through vapor ripples  
-walking from the Food Mart.  
- 
-	what 
-        `}
-        <i>the card the card’s declined</i>
-        {` 
-	goddamn it 
-	`}
-        <i>
-          there’s a hundred dollar hold on the account for the gas that’s why
-        </i>
-        {`  
-	hey I don’t know how much they hold 
+        {`Tonight, the opera seria or the harlequinade?
+Says the arbitrary master: why not both?
 
-	it’s Cream of Wheat for dinner isn’t it. 
+And the command is given:
+No farce without tragedy, 
 
- 
-You’d dial something in that couldn’t  
-be assessed, really. Or satisfy.  
- 
-If there was a single slowed 
-and saturated, gorging zebra by the water 
-in the trailcam-scope of the canned hunt 
-could you have murdered it? 
- 
-You'd tune the cable box to forty-seven, 
-VCR to four instead of three,  
-your poodle crunches underfoot the foil Big League Chew pouch  
-on the rug, like predawn bullhorns  
-in the hands of everyone 
-you’re running from.  
- 
-It’s over. 
-Marlon Brando’s saying to Connie Chung
-  
-`}
-        <i>uh what’s the difference</i>
-        {`    
-`}
-        <i>see that’s part of</i>
-        {`    
-`}
-        <i>the sickness</i>
-        {`    
-`}
-        <i>in America</i>
-        {`     
-(I think?— 
-the volume’s down) 
- 
-You need— 
- 
-It’s over.  
- 
-Pray to god 
- 
-               you get
+no action somber, complete, and of a certain magnitude 
+that does not end in violent absurdity and honey in the hair. 
 
-               to sleep`}
+The composer must, for the sake of our lives, 
+be persuaded that something is better than nothing. 
+
+Their pen, brutalizing the staves, is loud as a buzzsaw, 
+for the vision must yield to what can be executed.
+
+“So much for the immortality of art,” says 
+the columbina, pirouetting in her scarlet motley. 
+
+Ariadne, tired of improvisation, lies blankly on a dune,
+while the black sail speeds towards the island,
+
+bearing a god she does not want.
+In the actual world, the composer lifts their pen, muttering 
+
+(as if to themselves)
+“I have nothing in common with this world. Why should I live in it?”`}
       </pre>
       <br />
       <br />
@@ -318,8 +225,9 @@ Pray to god 
       <br />
       <br />
 
-      <h3 className={styles.poemTitle}>graffito</h3>
-
+      <h3 className={styles.poemTitle}>
+        Lutes, laurells, seas of milk, and ships of amber
+      </h3>
 
       <br />
       <br />
@@ -375,7 +283,6 @@ to know how missed I am before it passes.`}</pre>
       <h3 className={styles.poemTitle}>
         Dear Smart City Telecom Of Celebration, Florida 
       </h3>
-
 
       <br />
       <br />
