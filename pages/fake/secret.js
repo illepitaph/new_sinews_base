@@ -229,43 +229,76 @@ In the actual world, the composer lifts their pen, muttering
         Lutes, laurells, seas of milk, and ships of amber
       </h3>
 
+      <div className={styles.epigraphContainer}>
+        <div>
+          <br/>
+          <span className={styles.specialEpigraph}>
+        MVSICA DVLCE LABORVM LEVAMEN
+        </span>
+          <br />
+          <br />
+          —inscription on a painted double virginal by Ruckers in the Metropolitan Museum of Art
+
+        </div>
+      </div>
+
       <br />
       <br />
       <pre
         className={styles.poem}
-      >{`Sometimes I test myself to see if I still got it.
-Fuck I look like fighting with show-ready dogs who 
-have accepted their revered and pampered station. 
-A barren building is the art 
-these city fathers taught
-with blocks to babies, the art defended under lab lights
-with transcranial magnets and antique 
-amphetamines, 
-a massacre undone
-by pardon here and there.	
-Tell me my hill is not a pyramid. My channels aren’t
-canals. Abandoned dogs float dead in space yet like a hand 
-out of the grave here comes another 
-lake house summer friend from youth of someone 
-brought onboard to find 
-efficiencies in 
-care. To face the wall of selfie leaves
-at working brunch. Dog under table. 
+      >{`Among the early instruments, theorbos, archlutes, lutes, 
+great pears, afloat in their vitrines, this incised with laurels,
+that one fretted in materia fished from what seas?
+Nacre’s gleaming’s musical: pastel changes rung through milk.
+These hollow forms are portable ships,
+planed by age to dappled amber.
 
-Dog let’s walk. 
-Into the lurid colors
-of a cake
-with photoreal frosting, 
-an open box appliance store next door 
-that also plies 
-my people’s glut of esoteric Funkos. OPEN TO THE PUBLIC
-says the sign: you can’t be sure
-who wants you. 
+Some have sailed to Lethe and then back. We must remember 
+for them, broken consorts of instruments mixed: flutes,
+viols, rebecs, hautbois, with whom they sounded fellowships, 
+ferried the ear to fields baroccoed in strange florals,
+or haunted rooms with honey and milk.
+These are silent under glass jalousies,
 
-And clusterings of ad hoc friends undone
-by tender tidings as they fold the free phone tarp. 
-It’s dark, a bus approaches, I still need  
-to know how missed I am before it passes.`}</pre>
+though once I heard one played—some chord still seizes
+me, at times, before I know it, and the timbre
+of those antique courses, milk 
+of music, makes the blood run backwards, dilutes
+it with a dram or two of Beatriz de Dia, who spun hardships
+in love into a set of poets’ laurels,
+
+a singular achievement; less artful transformations come in plurals:
+chance advances endless sheaves of theses,
+avant-garde in composition, assembling strange relationships 
+from elements that mutually repel: grisamber
+whales expel to ease the passage of a knot of sharps that pains them (and pollutes 
+their grand intestines) may fix ensnaring scents or mix with milk
+
+to make ice cream, a delicacy fraught with risk, whose ilk 
+we cannot taste without high cost—slow rolls
+of seasick feeling ’til the opposition ceases. Volutes
+crumbling on their columns, uneven risers on a spiral stair, Helices
+of DNA, may move a life according to the secret, solemn burr
+of just one fault. A roof’s hips
+
+badly beveled, an error in a ship’s 
+log salvaged from a wreck, a flaw in lutestring silk,
+are like in kind if not degree. Across the room, a portly tambour
+draws admirers. Leaning on low rails,
+they learn the drum was never played, a species
+of sad innocence that’s hard to name in absolutes.
+
+And yet, constitutive mistakes amount to style; what convolutes 
+discriminates—ornament’s one note awry—as much as in the craftsmanship,
+the facture of a Delacroix may be discerned in taxis
+cutting through the rain, canary yellow, buttermilk:
+these cabs must radiate the violet shadows in the sallow rues
+of Paris, mused the painter, shivering in an arcade’s camber.
+
+n.b. More perverse than colored shadows, Otway’s Venice, loot for hordes of noble mobsters: 
+“Lutes, Laurells, Seas of Milk, and ships of Amber,” cries the heroine in fancies mad as cities 
+raised on water—later, in a wondrous mondegreen, a poet hears, for “laurels,” “lobsters.”
+`}</pre>
       <br />
       <br />
       <br />
@@ -281,77 +314,79 @@ to know how missed I am before it passes.`}</pre>
       <br />
 
       <h3 className={styles.poemTitle}>
-        Dear Smart City Telecom Of Celebration, Florida 
+        From<span className={styles.gap}></span> <i>Comme</i>
       </h3>
 
+      <div className={styles.epigraphContainer}>
+        <div>
+          <br/>
+        
+       a translation of all the similes in Marcel Proust’s <i>À la recherche du temps perdu</i>
+       
+
+        </div>
+      </div>
+
+
       <br />
       <br />
 
-      <pre className={styles.poem}>{`You heard I came up lacking  
-the equipment to be critical of BOGO 
-propositions, 
-just thrilled to be alive  
-as spiders in the Long John Silver’s  
-painted black. 
+      <pre className={styles.poem}>{`Like scales on my eyes
 
-I’ve done as love and angel dust requires 
-to my eyes.
+As, after metempsychosis, the thoughts of a prior existence
 
-Took feedings at the horn unholstered from  
-a thigh of only minerals that drift  
-on daiquirimachinelight.
+Like something without cause, incomprehensible, like something truly obscure
 
-That nourishment kept pace with my  
-confabulation  
-of the 
-names.     
+Like the song of a bird in a forest, marking the distances
 
-Names for every mall fern no one told me  
-to stop watering— 
-silk children  
-never clued into their spiritless 
-nature. Blossoming 
-through tabletops of food courts, 
-tremoloed  
-by undulating  
-concrete, yoked up in the winds 
-of permanence, inertia,
+Like the cheeks of our childhood
 
-the palms spaced so, the interstitial IP-branded manhole covers… 
-Designed with  
-math too certain for the marsh. 
-The slumped forward face of me.
+Such as when my great-uncle pulled me by the curls
 
-So I rent the truck, whipped cream  
-vodka brand ambassador 	 
-complicit in my nightclub  
-parking lot homicide,  
-I rent the truck to pull up on 
-the tracts  
-that would be datacenter.  
-Pull the fumes into my nostrils by the throat.
+As Eve was born from Adam’s side, a woman would be born during my sleep from a careless position of my thigh
 
-Swing set voices whistle through  
-the Caterpillars beached along the lot.
+So far away compared to this woman I had just left, only moments before
 
-How much am I selling off to tell you that my language  
-was that language  
-and my food  
-smelled like particular food? 
+Like those who leave on a voyage to see with their eyes a desired city and imagine they can taste in reality the charm of a dream
 
-Names without much half-life in the actual sun.  
-It’s gotten so that leaves 
-and doves— that what it is  
-you signify invoking their government names— 
-has gone  
-and roused failed organs of a victimhood 
-I keep.
+As can shiver in the depths of an animal
 
-You’ve heard I’ve joined the night parade  
-of childmonks  
+Like a rescue from on high to pull me out of a nothingness I couldn’t escape alone  
 
-who schlep around the U-Hauls of  
-your damaging ephemera.`}</pre>
+Like the tern who builds its nest deep underground in the warmth of the earth
+
+Like the chickadee the breeze balances on the tip of a sunbeam
+
+As if I hadn’t been there
+
+As in a stained glass window, wavering and transient
+
+As in a hotel room or a chalet where I had just arrived by rail for the first time
+
+Like a moth, in the light of the lamps of the little salon where the liquors were displayed on the gaming table
+
+Like a kiss from her eyes, which could not see anything they cherished without passionately caressing it with her gaze
+
+Almost mauve, like autumn’s labors
+
+Like the host for a communion of peace
+
+Like a mother who, to leaven it, passes her hand over her son’s hair, which the barber has flattened
+
+As though she had been hesitating among a great number of possible assailants
+
+You look as serious as a night cap
+
+Like Swann’s poor father
+
+As if composed of strict castes
+
+As in a bracket of tax-payers varying between this level of income and that
+
+Like a secret life
+
+As, for a more lettered woman, would have been the thought of being closely connected with Aristaeus and of learning that after conversing with her, he would plunge into the depths of the realm of Thetis, into an empire withheld from mortal eyes, and where Virgil portrays him, received with open arms; or, to set it out in an image that would have spoken more to her, for she had seen it painted on our petits fours plates at Combray, of having had Ali Baba to dinner, who, once he knew himself to be alone, would hasten into the cave, dazzled with unsuspected treasures
+`}</pre>
 
       <br />
       <br />
