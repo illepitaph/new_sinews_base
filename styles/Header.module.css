@@ -548,6 +548,26 @@
   }
 }
 
+@media (width: 1210px) and (height: 834px) {
+  .siteNav > .dropDown a > button,
+  .home,
+  .about {
+    font-size: 0.8rem;
+    padding: 6px 3px;
+  }
+
+  .siteNav > .dropDown a > button,
+  .home {
+    margin-right: 8px;
+  }
+
+  .home,
+  .about {
+    font-size: 0.7rem;
+    padding: 3px 5px;
+  }
+}
+
 @media (width: 1194px) and (height: 834px) {
   .siteNav > .dropDown a > button,
   .home,
@@ -573,6 +593,45 @@
   .home,
   .about {
     font-size: 0.7rem;
+    padding: 6px 3px;
+  }
+
+  .siteNav > .dropDown a > button {
+    margin-right: 8px;
+  }
+
+  .home,
+  .about {
+    font-size: 0.8rem;
+    padding: 3px 11px;
+  }
+}
+
+@media (width: 1138px) and (height: 712px) {
+  .siteNav > .dropDown a > button,
+  .home,
+  .about {
+    font-size: 0.6rem;
+    padding: 6px 3px;
+  }
+
+  .siteNav > .dropDown a > button {
+    margin-right: 8px;
+  }
+
+  .home,
+  .about {
+    font-size: 0.8rem;
+    padding: 3px 11px;
+  }
+}
+
+
+@media (width: 1133px) and (height: 744px) {
+  .siteNav > .dropDown a > button,
+  .home,
+  .about {
+    font-size: 0.6rem;
     padding: 6px 3px;
   }
 

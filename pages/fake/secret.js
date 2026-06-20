@@ -247,7 +247,7 @@ In the actual world, the composer lifts their pen, muttering
       <pre
         className={styles.poem}
       >{`Among the early instruments, theorbos, archlutes, lutes, 
-great pears, afloat in their vitrines, this incised with laurels,
+great pears, afloat in their vitrines, this one incised with laurels,
 that one fretted in materia fished from what seas?
 Nacre’s gleaming’s musical: pastel changes rung through milk.
 These hollow forms are portable ships,
