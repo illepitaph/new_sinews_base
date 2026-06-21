@@ -10,13 +10,13 @@ Secret.title =
 Secret.pieceName =
   "rebecca_ariel_porte ~ constitutive mistakes amount to style ++ like a secret life — new_sinews";
 Secret.description = "_Rebecca Ariel Porte_poetry_THREE POEMS_issue10_";
-Secret.image = "https://www.newnewsinews.com/images/GraffitoBackground.jpg";
+Secret.image = "https://www.newnewsinews.com/images/SecretBackground.jpg";
 
 export default function Secret() {
   return (
     <>
       <Head />
-      <Header headerBackground="graffitoBackground" />
+      <Header headerBackground="secretBackground" />
 
       <br />
       <br />

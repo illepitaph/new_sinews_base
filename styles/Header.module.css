@@ -482,6 +482,10 @@
   background-image: url("../public/images/BlazesBackground.jpg");
 }
 
+.secretBackground {
+  background-image: url("../public/images/SecretBackground.jpg");
+}
+
 @media (width: 1366px) and (height: 1024px) {
   .siteNav > .dropDown > a > button,
   .home,
