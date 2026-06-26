@@ -1,0 +1,122 @@
+.title {
+   font-family: "ubuntu", monospace;
+  font-size: 2.6rem;
+  font-weight: 600;
+  text-align: center;
+  text-shadow: 1px 1px white, 2px 2px black, 3px 3px white, 4px 4px black;
+  text-transform: lowercase;
+  white-space: pre-line;
+}
+
+.titleFour {
+  font-family: "ubuntu", monospace;
+  font-size: 3.4rem;
+  font-weight:700;
+  text-align: center;
+  color:white;
+  text-shadow: 2px 2px black, 4px 4px white, 6px 6px black;
+  text-transform: lowercase;
+  white-space: pre-line;
+}
+
+.uppercaseL {
+  text-transform: uppercase;
+  color:black;
+  text-shadow: 2px 2px white, 4px 4px black, 6px 6px white, 8px 8px black;
+}
+
+.grayShadow {
+  font-family: "lores-9-plus-wide", monospace;
+  text-shadow: 1px 1px snow, 2px 2px #b0b0b0;
+  font-style: italic;
+}
+
+.sectionBreak {
+  font-family: "ubuntu", monospace;
+  font-weight: 700;
+  font-size: 5.2rem;
+  color: black;
+  text-shadow:1px 1px white, 2px 2px black, 3px 3px white, 4px 4px black;
+  text-align: center;
+}
+
+.compactProse {
+  max-width: 45vw;
+  margin-left: 12.5vw;
+  font-size: 1rem;
+  line-height: 1.2rem;
+}
+
+@media (max-width: 745px) and (orientation: landscape) {
+
+  .titleThree {
+    font-size: 2.4rem;
+  }
+
+  .titleFour {
+    font-size: 2.8rem;
+  }
+}
+
+
+@media (max-width: 541px) and (orientation: portrait) {
+  .title {
+    font-size: 1rem;
+  }
+
+  .titleTwo {
+    font-size: 1.2rem;
+  }
+
+  .titleThree {
+    font-size: 1.4rem;
+  }
+
+  .titleFour {
+    font-size: 1.6rem;
+  }
+}
+
+@media (max-width: 375px) and (orientation: portrait) {
+
+  .titleThree {
+    font-size: 1.3rem;
+  }
+
+  .titleFour {
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 321px) and (orientation: portrait) {
+
+  .titleTwo {
+    font-size: 1.1rem;
+  }
+
+  .titleThree {
+    font-size: 1.22rem;
+  }
+
+  .titleFour {
+    font-size: 1.3rem;
+  }
+}
+
+@media (max-width: 281px) and (orientation: portrait) {
+  .title {
+    font-size: 0.9rem;
+  }
+
+  .titleTwo {
+    font-size: 1rem;
+  }
+
+  .titleThree {
+    font-size: 1.1rem;
+  }
+
+  .titleFour {
+    font-size: 1.2rem;
+  }
+}
