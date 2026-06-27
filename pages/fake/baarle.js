@@ -262,6 +262,15 @@ export default function Baarle() {
         Until it wasn’t anymore.
         <br />
         <br />
+        <br />
+        <br />
+        <br />
+        <p className={styles.sectionBreak}>~</p>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
         A popular saying is that it is easier to tear down things than to build
         them. That is certainly true, in general. But not for walls. Walls,
         especially those that grow up on borders, are extremely quick to set up.
@@ -375,7 +384,7 @@ export default function Baarle() {
         on both sides of her field of vision. Tall and uniform.
         <br />
         <br />
-        “What the-” She stopped there. Likely not to protect Emma’s
+        “What the—” She stopped there. Likely not to protect Emma’s
         impressionable brain from swearwords, but simply because not sure what
         to say. Or what to do.
         <br />
@@ -605,8 +614,8 @@ export default function Baarle() {
         H14 and H15—which will be later be known as “The Spiders,” due to all
         the crisscrossing cables, pulleys, cableways, suspended hurrying
         systems, gondolas, and various forms of wiring that had gone up to
-        connect them, to move stuff and sometimes people from one to the other –
-        were a notable example of such gentler walls. The Spiders were,
+        connect them, to move stuff and sometimes people from one to the other–were
+        a notable example of such gentler walls. The Spiders were,
         essentially, three squarish Belgian areas smack in the middle of the
         Dutch suburban allotment in the Northern quadrant of the town center. As
         a result, between ten and twenty dwellings, for each of them, were
@@ -635,7 +644,7 @@ export default function Baarle() {
         loud a direct descendance from Henry III of Nassau himself, even if no
         heraldic documents had ever been produced to substantiate the claim, got
         up that morning in their gaudy
-        <i>pied-à-terre</i>, just behind St. Remigiuskerk, and discovered that
+        <i> pied-à-terre</i>, just behind St. Remigiuskerk, and discovered that
         sleeping in separate bedrooms would become a rather permanent fixture.
         The wall now divided the East and the West wing of their mansion and
         confined them in two different countries. They briefly considered
@@ -653,14 +662,14 @@ export default function Baarle() {
         building was obliterated when the walls came up. The wall had found no
         way to exist without tearing down the building, so down it tore it.
         Luckily, due to the commercial nature of the building, only few people
-        died in the disaster of H9 – two security guards, a homeless person who
+        died in the disaster of H9–two security guards, a homeless person who
         had been given the permission to sleep under the awning at the entrance
         of the mall, and to whom the inhabitants of Werverstraat would take turn
         to bring hot meals, and a couple of tourists from Luxembourg who, for
         reasons that remain to this day a mystery, were stargazing on the roof
         of the mall. The disaster also killed the Boendies, a family of
         sovereign citizens who were living in a self-proclaimed counter-counter
-        enclave – unrecognized by Baarle-Nassau and Baarle-Hertog alike – next
+        enclave–unrecognized by Baarle-Nassau and Baarle-Hertog alike–next
         door to the mall. The irony of them dying due to a wall tearing through
         their self-declared autonomous region did not escape even the least
         cynical folks in the two Baarles. The H9 disaster was the wall-related
@@ -709,10 +718,10 @@ export default function Baarle() {
         phonic specificities in their respective accents. Dutch folks were
         encouraged to revert back to the hard g of their Northern compatriots,
         so that
-        <i>galanterie</i> became <i>khkhkhalanterie</i>, and <i>gracht</i>,
+        <i>galanterie</i> became <i> khkhkhalanterie</i>, and <i>gracht</i>,
         already not the most phonically romantic word to describe an otherwise
         romantic sight, became
-        <i>khkhkhracht</i>. Belgian folks, on the other hand, were asked to
+        <i> khkhkhracht</i>. Belgian folks, on the other hand, were asked to
         accentuate even further the softness in their gs, so that every word
         that started by that letter was uttered by a smirk that would cut their
         face in half horizontally.
@@ -1112,7 +1121,7 @@ export default function Baarle() {
         <br />
         <br />
         No, the enclave H11 was confiscated—“claimed,” they said, in retaliation
-        for the illegal annexation of N7, they later argued – by the Dutch, and
+        for the illegal annexation of N7, they later argued—by the Dutch, and
         turned into a prison. The idea was simple, actually. Just take a bunch
         of people you dislike particularly, put them into what was essentially a
         cube without a lid, stack a bunch a porta-potties in a corner, and throw
@@ -1123,7 +1132,7 @@ export default function Baarle() {
         people with a sense of humor, and who apparently had read, or at the
         very least skimmed, Bentham (but probably not Foucault), started calling
         it the
-        <i>Panoptikon</i>, which, as these things tend to do, stuck.
+        <i> Panoptikon</i>, which, as these things tend to do, stuck.
         <br />
         <br />
         The <i>Panoptikon</i> of course was supposed to be a temporary solution,
@@ -1145,7 +1154,7 @@ export default function Baarle() {
         <br />
         Mostly created in response to the establishment and continuous existence
         of the
-        <i>Panoptikon</i>—confirming the Chicken and Egg Universal Theory of All
+        <i> Panoptikon</i>—confirming the Chicken and Egg Universal Theory of All
         Human Matters, especially when it comes to politics and conflict—the
         Union for Incontestable Triumph was the brainchild of the legendary
         Robijn van de Hoofd. Before the whole matter with the walls, van de
@@ -1207,7 +1216,7 @@ E ho trovato il traditor`}
         <br />
         their adjusted version went. Changing the original <i>
           invasor
-        </i> for <i>traditor</i>
+        </i> for <i> traditor </i>
         almost worked in terms of metrics and rhyme. But it was not entirely
         clear what their former Dutch neighbors were accused of betraying. Their
         trust? Any of the 437 treaties, some of which were not really on this
@@ -1332,7 +1341,7 @@ E ho trovato il traditor`}
         later describes how at times the brouhaha and discordant singing of
         Bella Ciao coming from inside the walls of the <i>Panoptikon</i> was so
         loud that the digging and grinding of the heavy machines, intent in
-        trying to get under the wall, was almost drowned out. But there were no
+        trying to get <i>under</i> the wall, was almost drowned out. But there were no
         sufficient hours in the partly moonless night to dig so deeply. The
         wall, as any folk in Baarle-Nassau could have told them in all honesty,
         was going down into the ground at least three time as much as it was
@@ -1502,7 +1511,7 @@ E ho trovato il traditor`}
         sides were, kindly, asked to refrain from engaging in old protest songs.
         Bella Ciao and the equivalent Dutch song—the much less successful
         patriotic spin on
-        <i>Hannes loopt op klompen</i>—were, in other terms, a big no no at the
+        <i> Hannes loopt op klompen</i>—were, in other terms, a big no no at the
         event. But people were anyway, by then, fast losing taste for all of
         that silliness.
         <br />
@@ -1531,7 +1540,7 @@ E ho trovato il traditor`}
         As she was descending the bleachers on the Nassau side, Emma
         inadvertently locked eyes with Margrit De Smet, who was descending the
         stairs to get back to her Hertog side, and her two mules. Emma smiled,
-        and Margrit smiled back. And nodded. No stroopwafels this time. But,
+        and Margrit smiled back. And nodded. No <i>stroopwafels</i> this time. But,
         Emma understood, she soon would be able to bring some asparaghettis to
         Lulu without having to climb over the wall flanking Molenbaan.
         <br />
