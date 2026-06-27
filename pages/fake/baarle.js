@@ -748,10 +748,10 @@ export default function Baarle() {
         territory. On the second morning after the wall came up, as the good
         people in the two Baarles were starting to come to terms with what was
         going on, the loudspeakers traditionally used for emergency alerts,
-        which had not been used—beyond the regular tests at midnight each
-        double full Moon—since the bovine zombie crisis of the early 90s,
-        broadcasted a message intended for the folks their N1, N2, N4, N3/N5
-        (also known as “the Bison”), N6, and N7 enclaves.
+        which had not been used—beyond the regular tests at midnight each double
+        full Moon—since the bovine zombie crisis of the early 90s, broadcasted a
+        message intended for the folks their N1, N2, N4, N3/N5 (also known as
+        “the Bison”), N6, and N7 enclaves.
         <br />
         <br />
         “Stay calm. Stay at home. Drink plenty of fluids. Take some paracetamol.
@@ -936,51 +936,55 @@ export default function Baarle() {
         <br />
         It was the birds that alerted the good people of Baarle-Nassau, and also
         the less virtuous ones, that the Lamberts and old Armand Geybel, or what
-        was left of them, were now a pile of fast-spoiling meat, over there, just
-        across from Boshovenring. 
+        was left of them, were now a pile of fast-spoiling meat, over there,
+        just across from Boshovenring.
         <br />
         <br />
-        Cinereous vultures were not common in that part of the world. Emma had once
-        spent a whole morning reading about birds from southern Europe, hoping
-        to see some of them visiting the large natural reserve of De Biesbosch, which 
-        was her most favorite part of the whole world. Cinereous vultures, she
-        knew, were mostly living in Spain and Portugal. And in the Kingdom of
-        Andorra-Perpignan, of course—it was on their coat of arms, after all. Monk
-        vultures, they were also called. Which was a much better name, as far as Emma
-        was concerned. Unfortunately, to her deep chagrin, she had never seen any of
-        them, nor any of their famed cowls, around here. 
+        Cinereous vultures were not common in that part of the world. Emma had
+        once spent a whole morning reading about birds from southern Europe,
+        hoping to see some of them visiting the large natural reserve of De
+        Biesbosch, which was her most favorite part of the whole world.
+        Cinereous vultures, she knew, were mostly living in Spain and Portugal.
+        And in the Kingdom of Andorra-Perpignan, of course—it was on their coat
+        of arms, after all. Monk vultures, they were also called. Which was a
+        much better name, as far as Emma was concerned. Unfortunately, to her
+        deep chagrin, she had never seen any of them, nor any of their famed
+        cowls, around here.
         <br />
         <br />
         But in dire and dark times, like the ones that had befallen the two
         Baarles, carrion was not a scarce commodity. The vultures knew, and the
-        vultures came. 
+        vultures came.
         <br />
         <br />
         Once the remains were disposed of, in the way that all remains of people
-        who were once our friends and neighbors but were now our sort-of enemies are
-        usually disposed of, the question became what to do with H12. Discussions
-        took place in the Dutch part of town as to whether to turn the now uninhabited
-        enclave into a water reservoir. But water was not really something that that
-        part of the world was shy of—especially after the deluge—and the motion
-        submitted to the Emergency Municipal Council of Baarle-Nassau, the EMCBN, which
-        was the closer thing to a governance structure the Dutch part of town had been
-        able to scramble together since the wall came up, was brutally swept away. A
-        second motion, to turn H12 into a pool, was also unsuccessful. The passionate
-        speech that young Marcel made in front of the weekly assembly of the EMCBN, which
-        had taken over the building of the former <i>gemeente</i>, on Sint Annaplein, was not
-        sufficient to sway a majority of councilmen, and the motion lost by only a handful
-        of votes. Marcel’s main argument that water was to man as the sky was to birds, while
-        poetic, did not convince the more conservative faction of hardcore Calvinists, who
-        looked with suspicion any activity with even the small whiff of playfulness. <i>Ora
-        et labora</i> was not a reformed precept, but those shriveled old-timers certainly
-        were adhering to its general feel. 
+        who were once our friends and neighbors but were now our sort-of enemies
+        are usually disposed of, the question became what to do with H12.
+        Discussions took place in the Dutch part of town as to whether to turn
+        the now uninhabited enclave into a water reservoir. But water was not
+        really something that that part of the world was shy of—especially after
+        the deluge—and the motion submitted to the Emergency Municipal Council
+        of Baarle-Nassau, the EMCBN, which was the closer thing to a governance
+        structure the Dutch part of town had been able to scramble together
+        since the wall came up, was brutally swept away. A second motion, to
+        turn H12 into a pool, was also unsuccessful. The passionate speech that
+        young Marcel made in front of the weekly assembly of the EMCBN, which
+        had taken over the building of the former <i>gemeente</i>, on Sint
+        Annaplein, was not sufficient to sway a majority of councilmen, and the
+        motion lost by only a handful of votes. Marcel’s main argument that
+        water was to man as the sky was to birds, while poetic, did not convince
+        the more conservative faction of hardcore Calvinists, who looked with
+        suspicion any activity with even the small whiff of playfulness.{" "}
+        <i>Ora et labora</i> was not a reformed precept, but those shriveled
+        old-timers certainly were adhering to its general feel.
         <br />
         <br />
-        So H12 stood there, for the time being, full to the brim with rainwater, the
-        old wooden rural shacks of the Lamberts and the Geybels slowly rotting away
-        at its bottom, feathers and bones of the three turkeys, sacrificed on the
-        altar of hunger before the deluge, floating here and there on its surface. Not
-        that anyone was tall enough to see that, anyway.
+        So H12 stood there, for the time being, full to the brim with rainwater,
+        the old wooden rural shacks of the Lamberts and the Geybels slowly
+        rotting away at its bottom, feathers and bones of the three turkeys,
+        sacrificed on the altar of hunger before the deluge, floating here and
+        there on its surface. Not that anyone was tall enough to see that,
+        anyway.
         <br />
         <br />
         <br />
@@ -992,533 +996,548 @@ export default function Baarle() {
         <br />
         <br />
         <br />
-        So she was the only one still having a tough time, even though she was,
-        she thought, making the best of it. She continued to keep her distance
-        from the other mothers. You could guess what kind of scene that was.
-        There was a woman who had spent some years in Australia and a Filipino
-        woman who could speak English. She avoided them.
+        Of the two main Belgian enclaves, the Ghost, as H1 was known due to its
+        uncanny resemblance with a hooded screaming ghoul—N2 being the gaping
+        mouth, and indeed that it is how that counter-enclave was informally
+        often referred to, “the Mouth”—was facing a tricky situation. Its border
+        was much longer, overall, and much more convoluted, thus multiplying the
+        chances that delicate situations arose between former neighbors. It also
+        included the most Dutch counter-enclaves out of the seven that
+        existed—five, or, to be more precise, six, given that the Bison was
+        technically two separate enclaves touching by the tip—including Emma’s.
+        The cloudwalks were of course the main issue. While they did not affect
+        the life in the enclave per se, at least not when they worked as
+        expected, they nonetheless represented a constant reminder that they,
+        the good people of the Ghost, were in, and everybody else was out. Even
+        the people in the counter-enclaves within the Ghost were, at least on
+        paper, essentially free to move in and out their walled-in reality.
+        People living in the Ghost were not. The enclave was certainly big
+        enough to provide food and resources to sustain the basic needs of its
+        inhabitants. And while they certainly they had other moules to fry, the
+        motherland, just a few down kilometers South of Baarle but a universe
+        away, would occasionally parachute big boxes of goods, of various
+        provenance and utility, into the enclave. Even if not all of the
+        parachuted goods reached the intended destination—in more than one
+        occasion, also due to the strong winds, the parcels landed on the wrong
+        side of the wall; and, in one occasion, the parachute got stuck on the
+        steeple of St. Remigiuskerk, for all to see, on both side of the wall.
+        The dangling parcel reminded Emma, who had gone with her mum to have a
+        look, of poor Private Steele and his ordeal in Sainte-Mère-Église during
+        D-Day.
+        <br />
+        <br />
+        The situation in the Ghost, objectively, was not of the direst. But try
+        to tell people who feel walled in that actually their situation is not
+        too bad, and you will see that they might have the tendency to disagree
+        with you. Boisterously. And while the walls around the Ghost did not
+        move, per se, the ambient feeling among its folks was, increasingly,
+        that they were closing on them.
+        <br />
+        <br />
+        The second of the two main Belgian enclaves, H8—also known as “the
+        Whale” because, well, it really looked like one—had a much shorter and
+        straighter border overall, and only included the enclave of N7. But no
+        one lived in there. It was essentially a square parcel in the middle of
+        the hops field that had helped putting Famke and Olof Orval in the
+        center of the microbrewing Beneluxian scene since the public had started
+        to turn away from the various Heinekens and Jupilers and Leffes in the
+        70s. The enclave was, at first, simply ignored, if usually with a
+        grumble. Plowing the fields was, unsurprisingly, much less of an easy
+        task when a large squarish wall was standing in their middle. A couple
+        of months after the walls came up, seeing that their Dutch counterparts
+        had no interest in it, the Orvals committed what was, on paper, one of
+        the most egregious examples of international land grabs since the end of
+        the ballistic hostilities between Venezuela and Guyana, and simply
+        claimed N7 for themselves. And started to use it like their own dump.
+        The rotten fish smell that started coming out from N7 soon afterwards
+        had two immediate consequences. It soured all folks in the Whale against
+        the Orvals, who had to self-flagellate on the public podium that was
+        erected on Kastelein, every Sunday for a year, as penance. It also
+        provided an adequate olfactory counterpart to the name of the street,
+        just a few dozens of meters away, that crossed the Whale
+        vertically—Visweg, literally, fish road.
+        <br />
+        <br />
+        But, foul smell aside, and also thanks to the occasional parachuted
+        goods from the motherland, the Whale was doing much better than the
+        Ghost. What really made the situation at times untenable for the
+        inhabitants of the latter was the uncertainty about what to do with the
+        people who fell down from those
+        <i>cruyffverdomme</i> cloudwalks. Those who died on impact, or shortly
+        thereafter, were not the problem. Those who survived were. What to do
+        with them? Dispose of them had never been contemplated, not really—first
+        of all, how do even do that? It is not so easy to disappear a person,
+        especially when you live in a walled-in enclave. So they were kept
+        alive. Segregated away, however they were.
+        <br />
+        <br />
+        “We cannot let those <i>kaaskop</i> believe that we are kind with those
+        who fall down. They can sniff weakness, those people, and will take
+        advantage of us. Remember what happened during the <i>Beeldenstorm</i>!”
+        The iconoclastic rampage of 1566 was still, for some, an open wound.
+        <br />
+        <br />
+        But, so, decision was made to keep the Fallen. But that was easier said
+        than done. They had to be hidden from all onlooks, especially from
+        people who might be attempting a cloudwalk crossing. They had to be
+        prevented from trying to contact their kin oh the other side of the
+        wall. They had to be fed and sheltered. And they had to be shielded from
+        the handful of warmonger zealots who were looking for the tiny excuse to
+        bring out again gallows and guillotines. Over time, a some of them sort
+        of integrated into the community of their captives, and a few even
+        started romantic relationships with people from the Ghost, more or less
+        discretely.
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <p className={styles.sectionBreak}>~</p>
+        <br />
+        <br />
+        <br />
+        <br />
         <br />
+        People in H11 were also not doing that well.
         <br />
-        It was more important, somehow, first to understand the messages being
-        sent to her in shops, on websites, in advertising in subway cars and
-        stations, and on television. That is, to be a consumer. This included
-        not only what was being said but what was behind it. Somehow it made her
-        feel more human. Of course it helped she could read kanji. Although she
-        could not speak, they did not regard her as a total foreigner for this.
         <br />
+        It was a Belgian enclave, next to the roundabout on Alphenseweg. It was
+        basically pasture, so no-one lived there originally, and no one was in
+        there when the walls went up. So, for a while, a few months at least,
+        nothing happened over there. H11 was a little smaller than a football
+        field, which is why it could not have been considered for the Baarle
+        Joint Football Field of Forever Friendship—that was H6, which boasted
+        perfect proportions and superior location, and would later, much later,
+        become the BJFFFF.
         <br />
-        What would happen to them when they returned? Neither she nor Horace
-        thought about it. In his case, it was a little clearer. In hers, the
-        entire trajectory of her working life over the past ten years had been
-        truncated. She was still collecting unemployment.
         <br />
+        No, the enclave H11 was confiscated—“claimed,” they said, in retaliation
+        for the illegal annexation of N7, they later argued – by the Dutch, and
+        turned into a prison. The idea was simple, actually. Just take a bunch
+        of people you dislike particularly, put them into what was essentially a
+        cube without a lid, stack a bunch a porta-potties in a corner, and throw
+        in some food and water once a day. Easy peasy.
+        <br />
+        <br />
+        “It’s ok, it’s for the greater good,” they said to each other. Some
+        people with a sense of humor, and who apparently had read, or at the
+        very least skimmed, Bentham (but probably not Foucault), started calling
+        it the
+        <i>Panoptikon</i>, which, as these things tend to do, stuck.
         <br />
-        Everything she did not like about Taiwan was somehow worse here. There
-        was the smallness of minds, the pretension, the insufferableness of the
-        men, the pettiness of the women. Being the mother of a small child and a
-        housewife was a peculiar and devious kind of death sentence here. Her
-        health was probably suffering. Just as she had growing up, she had odd
-        pains here and there, and she never got a good night’s sleep. It may
-        have also been ghosts, the kind that belonged to East Asia, especially
-        during the summer.
+        <br />
+        The <i>Panoptikon</i> of course was supposed to be a temporary solution,
+        just a way to deal with some particularly annoying people. But ended up
+        being a much bigger deal than initially planned.
+        <br />
+        <br />
+        The first people thrown in there were people who had found themselves on
+        the wrong side of the wall and had behaved rowdily—perhaps, simply out
+        of distress for being separated from their loved ones and findings
+        themselves in a strange land. A very strange land. But, the moral
+        justification went, they were disruptive for the already very fragile
+        social peace that reigned in the area, and had thus to be dealt with.
         <br />
         <br />
-        Yet she could not say she disliked it. She found herself thinking of her
-        father and the time he spent as a college student in Japan. She stalked
-        his spirit and sentimentally felt closer to him for it. She was reminded
-        she should visit her sister in Osaka. It was assumed she would, when the
-        timing worked out, but she realized now it was no small matter to get to
-        Kansai. Somehow in Tokyo you never thought of it. It was only on the
-        subway, where the travel agencies and local tourism boards beckoned with
-        this or that escape. Mount Takao. Kawagoe. Nikko. Miura. Matsumoto.
-        Kumamoto. Okinawa. In her darker moods, especially those first few
-        months, she had thought of bringing the kids with her to live with her
-        mother in Taiwan, or with her sister in Kansai. At least now she could
-        say she did not think about that anymore.
+        But, soon, most of the people who ended up in there were members, real
+        or alleged, of the UIT.
         <br />
         <br />
+        Mostly created in response to the establishment and continuous existence
+        of the
+        <i>Panoptikon</i>—confirming the Chicken and Egg Universal Theory of All
+        Human Matters, especially when it comes to politics and conflict—the
+        Union for Incontestable Triumph was the brainchild of the legendary
+        Robijn van de Hoofd. Before the whole matter with the walls, van de
+        Hoofd was little more than a scoundrel, aligning petty theft with
+        alleged rebellious and insubordinate behavior towards the authorities
+        exercising the legitimate monopoly of political violence (aka, the
+        cops). He had, however, built a solid reputation in the underground
+        Baarle scene by winning three times in a row the Benelux slam
+        competition, and, as a result, by counting among the few people in the
+        area who could boast a social media followers tally of six-plus digits.
+        He was, in other terms, an alternative public figure, whatever that
+        meant.
         <br />
         <br />
+        Robijn van de Hoofd was also the offspring, a few generations removed,
+        of the most noble revolutionary stripe. His grandfather had been, no
+        less, one of the founders of the MRLG, who had shown people how things
+        were done, deep down into Belgium, all those years ago. Rebellion was in
+        his blood, and rebellion was is store for him.
         <br />
         <br />
+        The UIT, spurred by the charism of its leader, quickly became legendary.
+        Rumors in Baarle-Nassau about the resistance movement were manifold and
+        mostly widely inaccurate. The UIT was accused of infiltrating the
+        network of Dutch windmills that was peppering the countryside all around
+        town and pointing them at the cloudwalks, to bolster the gales and
+        increase the chances of mishaps with the passerelles—which was absurd,
+        some people argued, as windmills could not be rotated so easily (they
+        very much could); the fact that windmills were not actually creating any
+        wind per se, but only passively benefitting from it, is something that
+        few spent enough braincells to realize. The UIT was also accused of
+        adding subliminal messages into the 7G network, inserting nanobots for
+        mind control into the yearly boost against the bovine zombie virus,
+        rigging the jury votes of the Eurovision Song Contest, and being behind
+        the occasional bags of dog poop that were landing this side of the wall,
+        clearly thrown in by someone on the other side. That last one was
+        actually true.
+        <br />
+        <br />
+        In perhaps slightly dramatic fashion, the UIT adopted—culturally
+        appropriated, some might say—that famous protest folk song and made it
+        their anthem.
+        <br />
+        <br />
+        <br />
+        <br />
+        <pre className={styles.poem}>
+          {`Una mattina mi son svegliato
+
+Oh bella ciao, bella ciao, bella ciao, ciao, ciao
+
+Una mattina mi son svegliato
+
+E ho trovato il traditor`}
+        </pre>
+        <br />
+        <br />
+        <br />
+        <br />
+        their adjusted version went. Changing the original <i>
+          invasor
+        </i> for <i>traditor</i>
+        almost worked in terms of metrics and rhyme. But it was not entirely
+        clear what their former Dutch neighbors were accused of betraying. Their
+        trust? Any of the 437 treaties, some of which were not really on this
+        side of historical accurateness, that determined which parcel of land
+        was owned by whom in Baarle? It mattered not. Anthems, as it is always
+        the case, have more a figurative meaning anyway. No one really believes
+        that, literally, blood is nutritious enough to water the furrows.
+        Especially not the corrupted blood of enemies. Nor that the stars on the
+        banner that is spangled with them are literally, and not figuratively,
+        bright.
+        <br />
+        <br />
+        Anyway, the song quickly became a thing, even among people with only an
+        indirect affiliation with the UIT. The bells in Sint-Remigiuskerk were
+        tolling its melody, or a rather atonal and crude approximation of it,
+        every day before the all for mobilization and atonement. Kids on both
+        sides of the wall were singing it to each other when playing, a good
+        half of them likely not really understanding what they were taking a
+        stance on. And old-timers who had still a vague memory of the context
+        from which the original song came, took it as an excuse to ramble about
+        their distant youth whenever they heard it.
+        <br />
+        <br />
+        “Yes, grandpa, <i>Salò</i> was a mess. You told us.”
+        <br />
+        <br />
+        “Fascists, the lot of you.”
+        <br />
+        <br />
+        “Yes, grandpa. Eat your soup, now. It’s getting cold.”
+        <br />
+        <br />
+        The UIT was certainly also behind the numerous information and
+        disinformation campaigns that shifted the public discourse around the
+        walls, both on virtual media and IRL.
+        <br />
+        <br />
+        “KANT YOU SEE THAT THIS IS WRONG?” appeared one day spray-painted in
+        white on the outer walls of <i>Panoptikon</i>, in letters as tall as two
+        sacks of potatoes. Which meant two things. First, some members of the
+        resistance with a sense of humor had also read, or at the very least
+        skimmed, the work by prominent 18th century moral philosophers. One
+        could almost wonder whether those Enlightenment philosophy aficionados
+        on both sides of the divide were perhaps known to each other, if not
+        outright friends. Before the walls came up, that is.
+        <br />
+        <br />
+        Second, more worryingly, for the good people of Baarle-Nassau, at least,
+        this meant that people sympathetic with the UIT were living in their
+        midst. And that could not stand. Quickly after the writing on the wall,
+        literally, went up, the EMCBN convened an urgent meeting and
+        unanimously—minus Franz the Fablemaster, but he was always voting
+        against the majority out of principle, that one—decided to establish a
+        paramilitary force to try and snuff out any members of the resistance,
+        or any sympathizer of the latter, that were hiding on the virtuous side
+        of the wall. Unanimously, Alexander-Willem van het Paleis was named as
+        leader of the one-man taskforce mandated to conceive, design, recruit,
+        and implement the paramilitary force. While broadly applauded, van het
+        Paleis’ appointment was in all honesty not a particularly enlightened
+        choice for such a task and taskforce. Not if results were expected. He
+        was more of a man of thought than action, and spent many months
+        pondering about how best to proceed instead of, well, actually
+        proceeding. As a result, the paramilitary force to protect
+        Baarle-Nassau, for which he had at least found an excellent name—Stoic
+        Times for Rightful and Immensely Just Defense, or STRIJD—never came off
+        the ground. And that was certainly for the best.
+        <br />
+        <br />
+        To be fair to the EMCBN, and the born-dead STRIJD, it would be hard to
+        argue that the UIT had no radical streak in it. Due to its loose
+        hierarchical structure, several splinter cells advocating for armed
+        resistance self-spawned, often spending a good amount of revolutionary
+        energy to fight against each other. The most radical of all those cells,
+        which would eventually end up phagocytizing most of the other small ones
+        was the Rode Legerfractie, also named by their two main founders, Andi
+        Badkamer and Ursula Mijnhoofd. It was the Badkamer-Mijnhoofd Gang that
+        had been behind the bombing of the regional PostNL headquarter, in
+        nearby Tilburg, which had sowed chaos in all supply chains to and from
+        the Dutch counter-enclaves. It was also the Badkamer-Mijnhoofd Gang who
+        had concocted and executed the brazen kidnapping of a member of the
+        EMCBN. Unfortunately for them, they had, after several heated internal
+        consultations and voting procedures by raised hands, settled to kidnap
+        none else than Franz the Fablemaster. History books would later report
+        the occurrence as the only instance in which the actions of the radical
+        militant group and the preferences of their adversaries’ official
+        government had been perfectly aligned. Franz, himself, had never been
+        happier, and would in time become one of the main ideologues of the
+        UIT-RLF, even receiving the honorary Belgian citizenship.
+        <br />
+        <br />
+        It was unclear whether Robijn van de Hoofd, in all his revolutionary
+        wisdom, was condoning the actions of the Badkamer-Mijnhoofd Gang as a
+        whole. Converging evidence suggests however that he was very much
+        involved in the attempt by the latter to free all prisoners from the{" "}
+        <i>Panoptikon</i>. The plan was so simple that is was almost childish.
+        Sleeper agents loyal to the UIT-RLF living in Baarle-Nassau—of whom
+        there were plenty, many more so than the EMCBN would suspect even in its
+        darkest nightmares—had been able to infiltrate the BBB, a construction
+        company located in nearby H10, and had thus access to all sort of heavy
+        machinery, including skid steers and excavators. A few weeks after the
+        subtle infiltration, once the gullible executive governance of the Beter
+        Bouwen Bedrijf had granted them access to the shed where all machines
+        were stored, they sprung to action.
+        <br />
+        <br />
+        That night, the first moon was only a thin croissant, but the second
+        one, almost full, provided more than enough light to illuminate their
+        audacious endeavor. Around midnight, the two Pirotte siblings exited the
+        security guard shed that they had overwhelmed a few hours ago and, with
+        a high-pitched whistle, alerted the other members of the UIT-RLF that
+        the way was clear and the time for action ripe. Each of the two siblings
+        drove one of the two skid steers. And legend has it that Robijn van de
+        Hoofd himself drove the heavy excavator towards the Northern wall if the{" "}
+        <i>Panoptikon</i>, the farthest away from all Dutch settlements.
+        <br />
+        <br />
+        In hearing the rumbling machines nearing the prison, all souls confined
+        in it experienced a radical upsurge in hope and elation. Extemporaneous
+        accounts from Olivia Pirotte, who would eventually distance herself from
+        the radical struggle and recount her vicissitudes in her best-seller
+        memoir <i>Yes</i>, <i>I Was a Revolutionary Hothead</i>, <i>Sue Me</i>,
+        later describes how at times the brouhaha and discordant singing of
+        Bella Ciao coming from inside the walls of the <i>Panoptikon</i> was so
+        loud that the digging and grinding of the heavy machines, intent in
+        trying to get under the wall, was almost drowned out. But there were no
+        sufficient hours in the partly moonless night to dig so deeply. The
+        wall, as any folk in Baarle-Nassau could have told them in all honesty,
+        was going down into the ground at least three time as much as it was
+        sticking off from it. There was, quite simply, no going under it. The
+        crushed hopes on many of the prisoners, upon receiving the bad news,
+        likely explains why so many of them turned their backs to armed
+        revolution altogether and started contemplating cooperating with the{" "}
+        <i>kaaskopjes</i>.
         <br />
         <br />
+        All in all, that whole <i>Panoptikon</i> affair had been a big mess.
         <br />
         <br />
+        Once in, it was hard to get out. Physically. It had been quite easy to
+        throw people in, but fishing them out when they had to be legitimately
+        released was a whole different adventure. One could not really throw in
+        a rope and hope that only the relevant prisoner would come out, after
+        all. And finding volunteers to go actually into the <i>Panoptikon</i> to
+        sort things out proved to be surprisingly challenging. Long story short,
+        the more time passed, the less the good people of Baarle-Nassau knew
+        what to do, or how to deal with, the prison and all the people who were
+        in.
         <br />
         <br />
+        Emma could absolutely not think of any other example of prisons around
+        the word that were built in haste to deal with political insurgents and
+        alleged terrorists and were now a nightmare to deal with. No example
+        whatsoever.
         <br />
         <br />
         <br />
         <br />
         <br />
+        <p className={styles.sectionBreak}>~</p>
         <br />
-        <p className={styles.sectionBreak}>秋</p>
         <br />
         <br />
-        One morning, with the decorum and alacrity with which everything was
-        done here, it was autumn. Beyond the sudden snap to the air, the store
-        displays, as if pulling a curtain, moved on to themes of colored leaves
-        and seasonal produce and fish. For Horace, there was an element of
-        nostalgia, in the underlying smoke in the air that reminded him of New
-        England.
         <br />
         <br />
-        For the first time he could remember, they were battling neither cold
-        nor rain nor heat on the morning walks to school. Maybe because of that,
-        the boy walked with more bounce, chatting about his friends and
-        teachers, whom he never talked about before. Maybe it was just because
-        he was getting better at Japanese, and they were treating him like one
-        of them finally.
+        One year in this strange new reality passed. Then two. Then three. But
+        not all was dire and violent. In contrast to much of what was happening
+        elsewhere in the two Baarles, people in H13, H14 and H15—also known as
+        the Spiders—were doing quite ok. Thriving, really.
         <br />
         <br />
-        They took shortcuts now, instead of going along the main street. They
-        cut into a side alley, by a post office, and through an old shrine gate
-        from Edo. The remains of a greater gate, painted vermillion, with a
-        tiled roof, rested in a field amid the modern mansions and narrow family
-        houses.
+        It all had started quite innocently. Geertje and Beatrix, best friends
+        since their first summer camp, and distraught that they were now living
+        in two different walled-in areas, managed to set a wire strung between
+        H14 and H15. The idea was to find a way to send each other a little gift
+        in occasion of their ten-year birthday, which of course was happening on
+        the same day, only weeks after the walls came up. Their disappointment
+        in not being able to celebrate their birthday together had turned into
+        creative energy, and they had come up with the idea of using a kite,
+        once the wind was blowing in the right direction, to get one end of the
+        rope from Geertje’s H13 to Beatrix’ H15. It has worked surprisingly
+        well, and before long messages and small parcels started slinging back
+        and forth on the taut wire. What initially had been source of high
+        scorn, especially from Douwe, Geertje’s moody teenager brother, was
+        quickly seen as a very successful and low-tech way to stay in touch and
+        share this and that across close-by walled-in areas. In little more than
+        a month, the three enclaves were interwoven in a thick web of cables,
+        wires, chords, ropes, chains, and any other sort of filament, plus
+        related supports and fixtures. Hence, their nickname. Surprisingly, but
+        perhaps not that much so, the Dutch area in which the Spiders had webbed
+        their way into existence, North of the town center, had tolerated the
+        setup of the crisscrossing cables connecting them. Because these people
+        were once their friends and family and lovers and good neighbors.
+        Because it was easier to say yes than to say no. And because it allowed
+        them not to do anything about the three enclaves, for a bit. And in all
+        honesty, after a bit the absolutely unstructured mess of crisscrossing
+        cabled and robes even started to look good, a feature of the landscape.
+        In all history books, for centuries to come, photos of the Baarle
+        experiment would invariably include an aerial view of the Spiders, taken
+        undoubtedly from one of the hippos, looking like something between a
+        dreamcatcher and a handmade lace tabletop woven by someone under a heavy
+        dose of acid. It was a romantic, sanitized view of the crisis that had
+        separated in such a dramatic fashion the former neighbors and friends. A
+        partial and misleading one, in all honest. But also a wholesome one,
+        reminding all readers that even in dire times there is often the
+        opportunity to send out a lifeline. And that someone might pick up the
+        other end.
         <br />
         <br />
-        He let the boy walk at his own pace, while he stayed behind. What struck
-        him, but of course this would be the case, was that the boy did not
-        march off to school in a straight line, but wound around, taking his
-        sweet time. He would get distracted by a weed or a bug or a song.
         <br />
         <br />
-        They were brought up to the school entrance foyer to the step where the
-        boy took off his shoes and changed into his white sneakers. He had
-        traded in his summer straw boater for a felt bowler. It was getting just
-        cold enough in the mornings that Horace thought about putting a coat
-        over the boy’s uniform jacket. Now the boy did not hang around anymore.
-        He ran straight off to class without saying goodbye.
         <br />
+        <p className={styles.sectionBreak}>~</p>
         <br />
-        The principal caught him. He gave a deep bow. As far as he could tell,
-        he was the only adult man around. He took off his shoes and left them at
-        the step, pointed toward the door, and put on a pair of slippers. She
-        went to her desk. His son had been given a role in the school play. A
-        prominent role, some kind of animal, which meant he did not have
-        speaking lines. But she meant the boy was coming along well. She also
-        said in a couple of weeks there was going to be a Sunday family event, a
-        curry cookoff, and both mothers and fathers should come. She placed some
-        emphasis on this last point. Then she handed him a flier.
         <br />
         <br />
-        In the hall he could hear the teacher playing a stirring piano tune and
-        singing along with the children with real gusto. It struck him what they
-        asked these kindergarten teachers to do. They were all young women,
-        every one with a certain something to them. Big-sisterly was the best he
-        could put it. Piano and carrying a tune on a long list of requirements,
-        in addition to arts and crafts and keeping order among the children,
-        which they seemed preternaturally adept at doing.
         <br />
         <br />
-        Maybe because he no longer felt as if he were leaving the boy to a
-        potentially cruel fate, he went off to work more lighthearted too,
-        moving through the residential back alleys that saw the least traffic.
+        And then one day came the word that the main crisis had passed. Treaties
+        were signed, hands were shaken. <i>United again</i>, screamed the radio.{" "}
+        <i>United again</i>, could be read on the chyrons of all TV newscasts.{" "}
+        <i>United again</i>, could be seen on the banners attached to the small
+        planes circling over Baarle, some of which had an orange background.
         <br />
         <br />
-        Baby was getting longer. At first he thought it was just he was getting
-        thinner. Unlike the older boy, he had not taken to the diet of fish and
-        rice. He ate—just enough. Nonetheless, clearly he was growing. There
-        were the clothes, hand-me-downs, that were just right for him now. His
-        arms and legs were getting firmer. Horace told Phoebe to stop taking the
-        stroller. Make him walk.
+        On paper, the situation immediately reverted back to pre-wall times.
         <br />
         <br />
-        Without the stroller, their habits touring the city changed. No longer
-        confined only to those places that afforded them a wide berth, parks or
-        malls or places otherwise underpopulated, they could go more or less
-        where other people went. Certain train lines became newly accessible. It
-        was a revelation, for instance, how close Ginza was. They had taken a
-        roundabout path before, because they could not use stations that only
-        had stairs. But now baby was not only navigating steps pretty well, but
-        hills too. Where they would have only gone to Ginza on Sunday, when they
-        closed Chuo-dori to traffic, now they could have an early dinner on a
-        weekday, if he got home early enough, something he was doing more
-        frequently, and take off for an evening stroll among Tokyo’s most
-        storied shopping blocks and still make it back in time for bath and
-        bedtime. It seemed like a great luxury, and they suddenly felt like
-        civilized people, living in this, the world’s most civilized city.
+        But habits change much more slowly than laws. And the message of unity
+        was not successfully communicated to the wall. Which stayed put.
         <br />
         <br />
         <br />
         <br />
         <br />
+        <p className={styles.sectionBreak}>~</p>
         <br />
         <br />
         <br />
         <br />
         <br />
+        Another couple of years passed. Then another couple.
         <br />
         <br />
+        Little by little, very very slowly, things started to revert back to the
+        pre-wall situation even among the good people in Baarle. Eventually, the
+        UIT was disbanded, and the Badkamer-Mijnhoofd Gang denied ever existing.
+        A few years after the armistice the EMCBN voted unanimously—for real,
+        this time, Franz the Fablemaster being still MIA—to get rid of the E at
+        the beginning and the N at the end of their name, and be henceforth more
+        simply known as the Municipal Council of Baarle. A heartfelt invitation
+        to join their ranks was sent to what was left of the BHEMC, their
+        crisis-time Belgian counterpart, which had been little more than a
+        puppet under the real leadership of the UIT. Less than a week after the
+        invitation, who was cautiously accepted, new cross-Baarle legislation
+        was being drafted, reversing most segregationist laws and regulations
+        that had been enacted since the wall went up. A few months after,
+        getting a spot on any of the calendars of civil and spiritual
+        institutions offering cross-Baarle unions became more challenging than
+        petting Emile, the elusive cat of the De Boers, without losing a finger
+        or an eye.
         <br />
         <br />
-        Even where the leaves had not changed were signs of the season, such as
-        the sugidama, cedar balls, hanging outside saké shops; bound and tied
-        (plastic) Shanghai crab in the windows of Chinese restaurants; plastic
-        leaves tied to streetlights; and people wearing fall fashions still too
-        warm for the weather. There were natural signs too, such as the one the
-        older boy found so exciting, the dried husk of a cicada on the sidewalk.
-        This is what they looked like? Like robot armor? And its negative
-        complement: the silence in the trees. All conspired in a way that did
-        not feel so much like coercion, towards purchases or production, as
-        instruction. For the behavior asked for was strangely useless. It was an
-        awareness of the breaking of the rhythm of everyday pursuits, that is,
-        of time passing. Remembrances of what one was doing this time last year.
-        Allowing a breath to be taken. In this sense it was even more insidious
-        than mere advertising, not so much about control than propriety, not one{" "}
-        <i>must</i>, but one <i>should</i>. “In order to gain a better
-        appreciation …”
         <br />
         <br />
-        They were in Yoyogi Park on the weekend. Horace had brought the boys
-        here, with Phoebe taking her time at Harajuku Crossing. She joined them
-        later, not long after they found their way past the rockabilly greasers.
-        The boys zigzagged on the grass. The dull thud of a trance festival came
-        over the row of trees to their left. It was almost dusk. It had been
-        mild, a perfect day, days which only came in the short window of this
-        time of year, but with the sun going down, the air took on a chill, and
-        he was afraid they were not dressed for it.
         <br />
+        <p className={styles.sectionBreak}>~</p>
         <br />
-        Sunlight cut through the trees. A desert glow. Cold. Crows hopped out of
-        the trees in ominously larger and larger congregations. Then he began to
-        notice people laying blankets on the grass as they put on scarves and
-        warmer clothes. Some of them broke out bottles of beer. Was the festival
-        moving here for the night? But the people on the grass were older men
-        and women, some with children.
         <br />
         <br />
-        A crow was going through somebody’s backpack.
         <br />
         <br />
-        “Look up.”
+        Exactly one heptayear after the wall had come up, many folks from
+        Baarle-Nassau and Baarle-Hertog found themselves crammed in the tall
+        bleachers that had been erected around the former enclave of H6, now the
+        Baarle Joint Football Field of Forever Friendship. Ordaining the BJFFFF
+        into existence, and mandating the construction of the tall bleachers all
+        around it, who could be accessed from both sides of the wall, had been
+        one of the first acts of the new integrated MCB.
         <br />
         <br />
-        The full moon was bright and clear.
+        That day, like any other Sunday, the mixed team of the Nassau Meerkoets
+        was playing against the much more professional KVV DOSKO Baarle-Hertog.
+        Years later, when her death bed was closer than her crib, Emma would
+        discover that the mysterious acronym in the football club’s name
+        actually meant <i>door onderlinge samenspel komt overwinning</i>,
+        literally, <i>through mutual cooperation comes victory</i>. Something
+        like that, Emma thought, not even the author of this story could make
+        up.
         <br />
         <br />
-        He had forgotten it was the Mid-Autumn Festival. He did not know they
-        celebrated it in Japan too, or how.
+        To avoid generating another international deflagration, folks on both
+        sides were, kindly, asked to refrain from engaging in old protest songs.
+        Bella Ciao and the equivalent Dutch song—the much less successful
+        patriotic spin on
+        <i>Hannes loopt op klompen</i>—were, in other terms, a big no no at the
+        event. But people were anyway, by then, fast losing taste for all of
+        that silliness.
         <br />
         <br />
-        “Too bad we don’t have any moon cakes,” Phoebe said. The Chinese custom
-        was to sit out on a clear autumn night and take in the moonlight. Eat
-        cakes and recite poetry.
+        The game itself was rather uneventful. As always, the two teams changed
+        sides six times during it, so that they would both be equally affected
+        by the tall elm that was growing in the middle of the field, slightly
+        closer to the Ghost side of the BJFFFF. The referee, as always, came
+        from neutral Luxembourg—a country that, during the crisis, had been
+        unable to decide whether they preferred Dutch or Belgian people more;
+        allegedly, some people that clearly likely neither had been actively
+        lobbying for the country to turn the back to both belligerents and join
+        the French empire instead. But little of note could be said of the
+        referee as well. Few people would qualify as illegitimate the penalty he
+        conceded against KVV DOSKO, after good old Achterberg almost amputated
+        poor Bakker’s leg with a flying tackle in the defense area. The fact
+        that the penalty was not transformed into a goal, and that the game
+        ended on a consensual 9-9, helped make the event a joyful and
+        unconfrontational one.
         <br />
         <br />
-        “We could go to Yokohama. They sell them there year round.” It was a
-        kind of joke between them they did that.
+        When the crowd started dispersing, at the end of the game, people of
+        both Baarles went their own way, almost peacefully.
         <br />
         <br />
+        As she was descending the bleachers on the Nassau side, Emma
+        inadvertently locked eyes with Margrit De Smet, who was descending the
+        stairs to get back to her Hertog side, and her two mules. Emma smiled,
+        and Margrit smiled back. And nodded. No stroopwafels this time. But,
+        Emma understood, she soon would be able to bring some asparaghettis to
+        Lulu without having to climb over the wall flanking Molenbaan.
         <br />
         <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <p className={styles.sectionBreak}>酉 の 市</p>
-        <br />
-        <br />
-        “Shinjuku 3-chome, in front of Isetan.”
-        <br />
-        <br />
-        It was Ryo. Horace did not know he was in town.
-        <br />
-        <br />
-        No further explanation, so Horace told Phoebe his boss was calling to
-        meet him on a street corner in Shinjuku at ten o’clock on a weeknight.
-        At least the kids were already put to bed.
-        <br />
-        <br />
-        When he got there, by subway, Ryo was already on the corner, alone. The
-        department store’s doors were closed, although its Gothic lamps were
-        still on. The older man was wearing a scarf and overcoat. Instead of
-        motioning Horace to follow him somewhere, he stood his ground. He
-        explained they would wait here for a few more people to show up.
-        <br />
-        <br />
-        A minute later, a tall and very pretty woman, wearing a leather jacket
-        and boots, walked up to their spot on the corner. She had had her hair
-        waved and was wearing it loose. Dark complexion. Looked maybe to be in
-        her twenties. Ryo only introduced her by name, Misa. They seemed to
-        regard each other coldly and kept their distance from each other while
-        both of them smoked.
-        <br />
-        <br />
-        Apparently Ryo was somewhat buzzed and slurred, “When the others get
-        here and ask you who she is, just tell them she’s my cousin, from
-        Nagoya.”
-        <br />
-        <br />
-        No need for outright deception, Horace thought. Everyone would see right
-        through it anyway, so maybe it was more of a case of politeness? Who
-        knew about these things?
-        <br />
-        <br />
-        Ryo placed a call on his cell. About five minutes later, three men
-        arrived, one older, two younger. The older one, with metal glasses and a
-        few strands of hair on top of his head, was Shimamura. He was already
-        fairly blasted. Red in the face, stumbling over his steps. The younger
-        men, in suits like him, had to hold him up. They were junior financial
-        directors who reported to him. Horace had been told Shimamura was the
-        only one who had a full picture, and for that matter, any concrete
-        understanding, of the situation of the overseas branch. For that reason,
-        he was the only one in the organization who had any real authority to
-        decide on their standing. It was a vital relationship for Ryo. On the
-        other hand, it was just one of several he juggled and, to some likely
-        extent, played against one another.
-        <br />
-        <br />
-        Shimamura, who seemed to recognize Horace in his daze, came right at
-        him, ignoring Ryo and his guest, and almost fell on top of him.
-        Long-limbed, built like a basketball player, he put all his weight onto
-        Horace’s right shoulder. Then a stream of gibberish filled one ear,
-        which Horace, despite his improving language, could only guess was
-        Japanese.
-        <br />
-        <br />
-        The group moved north. Nobody asked about Misa. Yasukuni-dori was lit
-        up. The finance executive attached himself to Horace and kept on
-        babbling.
-        <br />
-        <br />
-        They crossed at the intersection with Meiji-dori. It was crowded with
-        matsuri booths and pushcarts. Tucked half a block down Meiji-dori was
-        the entrance to Hanazono Shrine, mobbed by people both trying to leave
-        and enter under a massive gate of paper lanterns. Squads of taxis parked
-        out front waited to cart off drunks.
-        <br />
-        <br />
-        They made their way past the tightly arranged booths with men and women
-        in yukata selling traditional crafts. Ryo told Horace he would explain
-        later what they were. There were also ones featuring games like the
-        goldfish one he had played in the summer. They moved to the cordoned
-        food area and found a table that would seat all six of them. It was a
-        cold night, so that meant oden. Shimamura ordered three bottles of saké.
-        Horace tried making some conversation with Misa.
-        <br />
-        <br />
-        “You’re from Nagoya?”
-        <br />
-        <br />
-        “Yeah.”
-        <br />
-        <br />
-        “You live in Tokyo now?”
-        <br />
-        <br />
-        “Yeah. I just moved here, for school. My first year in school, though, I
-        lived in Nagoya.”
-        <br />
-        <br />
-        “You took the train every day?”
-        <br />
-        <br />
-        “Once a week. It was a pain.”
-        <br />
-        <br />
-        “How do you like Tokyo?”
-        <br />
-        <br />
-        “Compared to Nagoya?”
-        <br />
-        <br />
-        “Yeah.”
-        <br />
-        <br />
-        “A lot better.”
-        <br />
-        <br />
-        The oden and the saké warmed them up thoroughly. Then they all went off
-        to see the freak show. It was the same show Horace had seen in the
-        summer, culminating with the Snake Woman. Same woman. Horace had to
-        admit the effect was largely lost the second time around. Ryo and the
-        others seemed to feel the same way, as it was probably old hat to them.
-        There was no expression or comment from any of them as they shuffled out
-        of the tent.
-        <br />
-        <br />
-        Shimamura took his team for another round of drinks, while Ryo pulled
-        Horace and Misa aside. He led them down one of the wide aisles selling
-        what appeared to be gaudily decorated bouquets or wreaths, wrapped in
-        clear plastic. Ryo stared contemplatively at each booth’s offerings.
-        Misa kept her head down, hands in pockets. On closer look, it seemed to
-        Horace they were not wreaths but decorated rakes.
-        <br />
-        <br />
-        In fact that was what they were. Kumade, or “bear claws,” for clawing,
-        or raking, in money. Most of the people buying them were businessmen,
-        like themselves. Every year you bought one for success. More than that,
-        if your sales were going to grow at all that year, you bought one bigger
-        than the year before. That was why they came in all sizes. If it was
-        your first time, you started small, so you did not end up buying too big
-        of one too soon and maxing out. Ryo had gotten one every year except
-        last year, because he could not make it back to Japan in time. It was
-        this, more than anything, to which he attributed the disastrous
-        financial results they had just posted.
-        <br />
-        <br />
-        That was why, Ryo explained, Horace was being recalled to the States.
-        <br />
-        <br />
-        Once he settled on something he liked, Misa became a lot more animated,
-        chatting and laughing with the vendor, using a completely different way
-        of speaking and looking suddenly a lot more at ease. Probably a dialect
-        she used with a fellow Nagoyite. The kumade was massive. Its pieces,
-        which included rice stalks and an otafuku mask, were stapled and glued
-        to a thick bamboo culm. It stood as tall as Horace’s shoulders. Ryo
-        explained he was going to have the vendor deliver it to Horace’s office.
-        From here, it was Horace’s task to figure out how to get it back to Los
-        Angeles.
-        <br />
-        <br />
-        “That’s your job now. It’s a very important one.”
-        <br />
-        <br />
-        Horace could not think of a solution for the moment, except to buy an
-        airplane seat for the thing.
-        <br />
-        <br />
-        The four of them, including the vendor, stood in a circle in front of
-        the booth, made a rapid chant, wishing for good business next year, and
-        clapped in time between chants. They all bowed.
-        <br />
-        <br />
-        Just as all three of them turned around, Shimamura and his two cronies
-        came shambling back up to them. Shimamura tripped over a rock and one of
-        the junior directors reached out to grab him before he crashed to the
-        ground.
-        <br />
-        <br />
-        Ryo gave the junior director a look, as if to ask, “Is he all right?”
-        The younger man returned the look and shook his head.
-        <br />
-        <br />
-        “Here.” Ryo pointed at Horace’s back.
-        <br />
-        <br />
-        They dragged the executive over. Horace slung him over his shoulders
-        like a jacket. “Put him in a taxi. Gogami-san will tell the driver where
-        to go. See you next time.” With that, he walked off with Misa, into the
-        lights and noise of the festival.
-        <br />
-        <br />
-        Horace dragged Shimamura to the gate, which was twice as mobbed as it
-        had been when they arrived. Nobody gave them a second glance. They
-        managed to hail a taxi, and he dropped Shimamura inside, who was still
-        gone to the world. Horace adjusted the glasses on his face, but could
-        not quite get them right. Gogami shouted some directions at the driver.
-        The door shut of its own accord. Gogami gave a curt goodbye, leaving
-        Horace alone in the night. It was too late to catch a train.
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <p className={styles.sectionBreak}>新 年</p>
-        <br />
-        <br />
-        Phoebe had been sick since new year’s day, but she seemed to get over
-        her illness after they boarded the bullet train at Shinagawa. She
-        stopped coughing as soon as they got past Mount Fuji. It was the first
-        time any of them had ever seen it. It is little understood how hard it
-        is to get a glimpse of Mount Fuji from central Tokyo if not spending a
-        lot of time in the upper floors of skyscrapers. It probably should not
-        have come as a surprise that she recovered instantly. Whatever had been
-        plaguing her in Tokyo had not followed her out of it. While they were
-        concerned when they headed back, she did not suffer a relapse. The
-        spirit did not return.
-        <br />
-        <br />
-        Back in Tokyo, temple roofs were white with snow. Tokyo Tower was half
-        obscured in freezing rain.
-        <br />
-        <br />
-        Plum blossoms were starting to break. In Chinese aesthetics, they were
-        the more prized flower over cherry blossoms, for blooming in the wastes
-        of early spring. There was a stark beauty to them, in the courtyard, the
-        parks, buds on branches reaching over compound walls. The best place to
-        see them near their mansion was a public playground two blocks away. It
-        was interesting to Horace for its bizarre displays explaining the
-        prehistory of the district. There was even a lifesize diorama of a
-        neolithic hut, with mannequins. The plum garden was in bloom, very
-        precisely, as if by design. Each blossom the same proportion. After the
-        rain, their sugary-sweet smell drifted out the park into the street.
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        Last night.
-        <br />
-        <br />
-        They had shipped off everything that could be shipped and moved out of
-        their apartment.
-        <br />
-        <br />
-        They had to stay in a hotel. The plan was to get brunch in the morning
-        and head out from the station for Narita by noon.
-        <br />
-        <br />
-        They opened a bottle of pink champagne. It seemed a very Tokyo drink,
-        somehow. The kids were watching, and to some degree comprehending, a
-        food show on TV.
-        <br />
-        <br />
-        It was warm enough to stand out on the balcony. Earlier that day they
-        had taken a stroll through the hotel gardens. Camellias were in bloom,
-        and there was the very first hint of cherry buds.
-        <br />
-        <br />
-        From the balcony, Tokyo stretched before them. Red warning beacons
-        marked off the heights of that incomparable skyline. The moving lights
-        of trains and planes. To their left were the towers of Shinjuku. Right
-        in front of them, the core. Mori Tower. Tokyo Tower in orange hues. A
-        dark sea in the middle that was the Imperial Palace. On their right, the
-        Rainbow Bridge and the lights of Shiodome, Odaiba and, closer in,
-        Shinagawa.
-        <br />
-        <br />
-        Of all things, it was the ending of <i>Père Goriot</i> that came to him.
-        Maybe it was the champagne. Rastignac standing on that hill in
-        Père-Lachaise, looking over Paris. It occurred to him, he did not know
-        what lay ahead, but probably he would be back before long. But that
-        would be for meetings and presentations, as a business traveler. It
-        would not be anything like this.
+        The next morning, even if no one really realized it, the wall was three
+        centimeters shorter than the day before.
         <br />
         <br />
         <br />

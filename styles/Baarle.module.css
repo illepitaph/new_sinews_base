@@ -47,6 +47,18 @@
   line-height: 1.2rem;
 }
 
+.poem {
+  font-family: "base-9-sans", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 1.2rem;
+  text-shadow: 2px 2px gainsboro;
+  letter-spacing: -0.02rem;
+  line-height: 1.5rem;
+  margin-left:5vw;
+  font-style: italic;
+}
+
 @media (max-width: 745px) and (orientation: landscape) {
 
   .titleThree {
