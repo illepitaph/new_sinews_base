@@ -13,7 +13,7 @@ export default function Baarle() {
     <>
       <Head />
 
-      <Header headerBackground="albumBackground" />
+      <Header headerBackground="baarleBackground" />
       <br />
       <br />
       <br />

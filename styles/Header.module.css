@@ -486,6 +486,10 @@
   background-image: url("../public/images/SecretBackground.jpg");
 }
 
+.baarleBackground {
+  background-image: url("../public/images/BaarleBackground.jpg");
+}
+
 @media (width: 1366px) and (height: 1024px) {
   .siteNav > .dropDown > a > button,
   .home,
