@@ -718,7 +718,7 @@ export default function Baarle() {
         phonic specificities in their respective accents. Dutch folks were
         encouraged to revert back to the hard g of their Northern compatriots,
         so that
-        <i>galanterie</i> became <i> khkhkhalanterie</i>, and <i>gracht</i>,
+        <i> galanterie</i> became <i> khkhkhalanterie</i>, and <i>gracht</i>,
         already not the most phonically romantic word to describe an otherwise
         romantic sight, became
         <i> khkhkhracht</i>. Belgian folks, on the other hand, were asked to
