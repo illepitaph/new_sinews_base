@@ -93,10 +93,15 @@
 
 }
 
-@media (max-width: 321px) and (orientation: portrait) {
+@media (max-width: 361px) and (orientation: portrait) {
 
-  .titleTwo {
+  .title, .titleTwo {
     font-size: 1.1rem;
+  }
+
+    .poem {
+    margin-left:0.2vw;
+    font-size:0.7rem;
   }
 
 }
