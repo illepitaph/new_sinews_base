@@ -57,7 +57,7 @@ export default function Baarle() {
       <br />
       <br />
       <br />
-      <pre className={styles.titleFour}>
+      <pre className={styles.titleTwo}>
         {" "}
         <b> ... </b> ...{" "}
         <b>

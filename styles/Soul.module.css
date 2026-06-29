@@ -1,0 +1,223 @@
+.titleShadow {
+  display: inline-block;
+  font-size: 4.1rem;
+  color: black;
+  text-shadow: 2px 2px snow, 6px 6px #aaf0d1;
+  letter-spacing: 1rem;
+  transform: skew(19deg, 1.4deg);
+}
+
+.inverseShadow {
+  color: snow;
+  text-shadow: 1px 1px black, 5px 5px #aaf0d1, 7px 9px black;
+}
+
+.titleShadowUppercase {
+  color: black;
+  text-shadow: 2px 2px snow, 4px 4px #b0b0b0;
+  text-transform: uppercase;
+}
+
+.inverseShadowUppercase {
+  color: snow;
+  text-shadow: 1px 1px black, 3px 5px #aaf0d1, 7px 9px black;
+  text-transform: uppercase;
+}
+
+.alternateTitleColor {
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-size: 6.3rem;
+  color: black;
+  text-shadow: 4px 4px snow, 8px 8px gainsboro;
+}
+
+.alternateTitleColorBigger {
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-size: 10.3rem;
+  color: black;
+  text-shadow: 4px 4px snow, 8px 8px gainsboro;
+}
+
+.authorName {
+  font-size: 5.5rem;
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-weight: 400;
+  text-align: right;
+  text-transform: lowercase;
+  letter-spacing: -0.02rem;
+  line-height: 0.8em;
+  margin: 1vh 7vw 7vh 0;
+}
+
+.ellipses {
+  letter-spacing: 3rem;
+}
+
+.grayShadow {
+  display: inline-block;
+  margin: 0 0.2vw;
+  font-size: 2.2rem;
+  color: silver;
+  font-family: "lores-9-plus-wide", monospace;
+  text-shadow: 1px 1px white, 3px 3px #aaf0d1, 5px 5px black;
+}
+
+@media (width: 1180px) and (height: 820px) {
+  .titleShadow {
+    font-size: 3.8rem;
+    letter-spacing: 0.8rem;
+  }
+}
+
+@media (width: 1080px) and (height: 810px) {
+  .titleShadow {
+    font-size: 3.5rem;
+    letter-spacing: 0.8rem;
+  }
+}
+
+@media (width: 1024px) and (height: 1366px) {
+  .titleShadow {
+    font-size: 3.3rem;
+    letter-spacing: 0.3rem;
+  }
+}
+
+@media (width: 1024px) and (height: 768px) {
+  .titleShadow {
+    font-size: 3.3rem;
+    letter-spacing: 0.3rem;
+  }
+}
+
+@media (width: 1024px) and (height: 600px) {
+  .titleShadow {
+    font-size: 3.3rem;
+    letter-spacing: 0.3rem;
+  }
+}
+
+@media (max-width: 933px) and (orientation: landscape) {
+  .titleShadow {
+    font-size: 3.4rem;
+    letter-spacing: 0.7rem;
+  }
+}
+
+@media (max-width: 913px) and (orientation: portrait) {
+  .titleShadow {
+    font-size: 2.9rem;
+    letter-spacing: 0.6rem;
+  }
+
+  .alternateTitleColor,
+  .alternateTitleColorBigger {
+    font-size: 4rem;
+  }
+}
+
+@media (max-width: 855px) and (orientation: landscape) {
+  .titleShadow {
+    font-size: 3.1rem;
+    letter-spacing: 0.5rem;
+  }
+
+  .alternateTitleColor,
+  .alternateTitleColorBigger {
+    font-size: 5.8rem;
+  }
+}
+
+@media (max-width: 801px) and (orientation: landscape) {
+  .titleShadow {
+    font-size: 2.8rem;
+    letter-spacing: 0.3rem;
+  }
+
+  .alternateTitleColor,
+  .alternateTitleColorBigger {
+    font-size: 5.3rem;
+  }
+}
+
+@media (max-width: 769px) and (orientation: portrait) {
+  .titleShadow {
+    font-size: 2.6rem;
+    letter-spacing: 0.4rem;
+  }
+}
+
+@media (max-width: 801px) and (orientation: landscape) {
+  .titleShadow {
+    font-size: 2.6rem;
+    letter-spacing: 0.2rem;
+  }
+
+  .alternateTitleColor,
+  .alternateTitleColorBigger {
+    font-size: 5.1rem;
+  }
+}
+
+@media (max-width: 667px) and (orientation: landscape) {
+  .titleShadow {
+    font-size: 2rem;
+  }
+
+  .alternateTitleColor,
+  .alternateTitleColorBigger {
+    font-size: 5rem;
+  }
+}
+
+@media (max-width: 541px) and (orientation: portrait) {
+  .titleShadow {
+    margin-left: 1vw;
+    font-size: 1.9rem;
+    letter-spacing: 0.3rem;
+  }
+
+  .inverseShadow,
+  .inverseShadowUppercase {
+    text-shadow: 1px 1px black, 3px 3px #aaf0d1, 5px 5px black;
+  }
+
+  .alternateTitleColor,
+  .alternateTitleColorBigger {
+    font-size: 3.3rem;
+  }
+
+  .authorName {
+    font-size: 2.5rem;
+  }
+}
+
+@media (max-width: 394px) and (orientation: portrait) {
+  .titleShadow {
+    margin-left: 1vw;
+    font-size: 1.7rem;
+  }
+
+  .alternateTitleColor,
+  .alternateTitleColorBigger {
+    font-size: 3rem;
+  }
+}
+
+@media (max-width: 321px) and (orientation: portrait) {
+  .titleShadow {
+    margin-left: 1vw;
+    font-size: 1.6rem;
+  }
+
+  .alternateTitleColor,
+  .alternateTitleColorBigger {
+    font-size: 2.5rem;
+  }
+}
+
+@media (max-width: 321px) and (orientation: portrait) {
+  .titleShadow {
+    font-size: 1.2rem;
+  }
+}

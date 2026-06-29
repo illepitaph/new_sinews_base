@@ -8,7 +8,7 @@
   white-space: pre-line;
 }
 
-.titleFour {
+.titleTwo{
   font-family: "ubuntu", monospace;
   font-size: 3.4rem;
   font-weight:700;
@@ -59,45 +59,38 @@
   font-style: italic;
 }
 
-@media (max-width: 745px) and (orientation: landscape) {
-
-  .titleThree {
-    font-size: 2.4rem;
+@media (max-width: 781px) and (orientation: landscape) {
+  .title {
+    font-size: 2.2rem;
   }
 
-  .titleFour {
-    font-size: 2.8rem;
+  .titleTwo {
+    font-size: 1.9rem;
+  }
+
+}
+
+@media (max-width: 769px) and (orientation: portrait) {
+  .titleTwo {
+    font-size: 2.2rem;
   }
 }
 
 
 @media (max-width: 541px) and (orientation: portrait) {
   .title {
-    font-size: 1rem;
+    font-size: 1.3rem;
   }
 
   .titleTwo {
     font-size: 1.2rem;
   }
 
-  .titleThree {
-    font-size: 1.4rem;
+  .poem {
+    margin-left:0.2vw;
+    font-size:0.9rem;
   }
 
-  .titleFour {
-    font-size: 1.6rem;
-  }
-}
-
-@media (max-width: 375px) and (orientation: portrait) {
-
-  .titleThree {
-    font-size: 1.3rem;
-  }
-
-  .titleFour {
-    font-size: 1.5rem;
-  }
 }
 
 @media (max-width: 321px) and (orientation: portrait) {
@@ -106,13 +99,6 @@
     font-size: 1.1rem;
   }
 
-  .titleThree {
-    font-size: 1.22rem;
-  }
-
-  .titleFour {
-    font-size: 1.3rem;
-  }
 }
 
 @media (max-width: 281px) and (orientation: portrait) {
@@ -122,13 +108,5 @@
 
   .titleTwo {
     font-size: 1rem;
-  }
-
-  .titleThree {
-    font-size: 1.1rem;
-  }
-
-  .titleFour {
-    font-size: 1.2rem;
   }
 }
