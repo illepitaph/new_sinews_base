@@ -1,52 +1,66 @@
-.titleShadow {
+.duskShadow {
   display: inline-block;
-  font-size: 4.1rem;
-  color: black;
-  text-shadow: 2px 2px snow, 6px 6px #aaf0d1;
-  letter-spacing: 1rem;
-  transform: skew(19deg, 1.4deg);
-}
-
-.inverseShadow {
+  margin-top:-11vh;
+  font-size: 4rem;
+  margin-left: 3rem;
+  font-style: italic;
   color: snow;
-  text-shadow: 1px 1px black, 5px 5px #aaf0d1, 7px 9px black;
+  text-shadow: 2px 2px black, 4px 4px snow, 6px 6px black, 8px 8px #aaf0d1,
+    12px 12px 18px black;
 }
 
-.titleShadowUppercase {
-  color: black;
-  text-shadow: 2px 2px snow, 4px 4px #b0b0b0;
+.inverse {
+  color: #aaf0d1;
+  text-shadow: 4px 4px snow, 6px 6px black;
+}
+
+.duskShadowUppercase {
+  display: inline-block;
+  font-size: 4rem;
+  margin-left: 3rem;
+  font-style: italic;
+  text-shadow: 2px 2px black, 4px 4px snow, 6px 6px black, 8px 8px #aaf0d1,
+    12px 12px 18px black;
+  text-transform: uppercase;
+  transform: skew(11deg, -3.4deg);
+}
+
+.inverseUppercase {
+  color: #aaf0d1;
+  text-shadow: 4px 4px snow, 6px 6px black;
   text-transform: uppercase;
 }
 
-.inverseShadowUppercase {
-  color: snow;
-  text-shadow: 1px 1px black, 3px 5px #aaf0d1, 7px 9px black;
-  text-transform: uppercase;
-}
-
-.alternateTitleColor {
+.alternateCursive {
   font-family: "bickham-script-pro-3", sans-serif;
-  font-size: 6.3rem;
+  font-size: 9.3rem;
   color: black;
   text-shadow: 4px 4px snow, 8px 8px gainsboro;
 }
 
-.alternateTitleColorBigger {
-  font-family: "bickham-script-pro-3", sans-serif;
-  font-size: 10.3rem;
-  color: black;
-  text-shadow: 4px 4px snow, 8px 8px gainsboro;
+.headerIndent {
+  display: inline-block;
+  margin-left: 11.5vw;
 }
 
-.authorName {
-  font-size: 5.5rem;
-  font-family: "bickham-script-pro-3", sans-serif;
-  font-weight: 400;
-  text-align: right;
-  text-transform: lowercase;
-  letter-spacing: -0.02rem;
-  line-height: 0.8em;
-  margin: 1vh 7vw 7vh 0;
+.headerIndentTwo {
+  display: inline-block;
+  margin-left: 23vw;
+}
+
+.nameIndent {
+  display: inline-block;
+  margin-left: 2vw;
+}
+
+.nameSpacing {
+  display:flex;
+  justify-content: flex-end;
+  letter-spacing: -0.3rem;
+}
+
+.uppercase {
+  text-transform: uppercase;
 }
 
 .ellipses {
