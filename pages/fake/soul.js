@@ -553,181 +553,442 @@ export default function Soul() {
         too late. He had spotted me.
         <br />
         <br />
-        “Can I help you?” he asked. I guessed that it must have looked like I was
-        waiting in line behind the woman, but then he added: “You’ve been here for
-        hours. Don’t think we haven’t noticed. What do you want? How can I help?”
-           <br />
+        “Can I help you?” he asked. I guessed that it must have looked like I
+        was waiting in line behind the woman, but then he added: “You’ve been
+        here for hours. Don’t think we haven’t noticed. What do you want? How
+        can I help?”
         <br />
-        “Listen,” I said, not interested in keeping up the charade any longer, “I’m a
-        journalist hoping to speak with you about last night.”
-           <br />
         <br />
-        The survivor made no reaction. Nothing moved on his face. No eye twitch, or
-        eyebrow raising, no lip pursing, or head tilting, he simply stared ahead at
-        me, standing there in front of him with a handful of certified letter slips
-        in my hand.
-           <br />
+        “Listen,” I said, not interested in keeping up the charade any longer,
+        “I’m a journalist hoping to speak with you about last night.”
         <br />
-        “I’m not interested in talking,” he said when he finally spoke. 
-   <br />
         <br />
-        “A quick conversation is all I need, so the public knows you are doing fine.”
-      <br/>
-      <br/>
-      “I am doing fine,” he repeated.
-      <br/>
-      <br/>
-      “I’m glad,” I said. “I work for the biggest newspaper in town,” I had to
-      add, “our circulation reaches everyone around here. Think of how quickly you
-      would announce to everyone who knows and cares about you that you survived this
-      tragedy.” 
-       <br/>
-      <br/>
-      “Everyone I know is already aware,” he said, then made a hand gesture for me to
-      come closer, but when I stepped forward, I ran into another person, someone I
-      hadn’t noticed was standing to my side on the fictitious line I had created, and 
-      who was the real object of that gesture. The survivor was eager to return to his
-      job, and if I wanted to play my cards right, I should let him get to it.
-       <br/>
-      <br/>
-      Back in my car, I couldn’t dampen my annoyance.
-      <br/>
-      <br/>
-      Why couldn’t he be more like Vesna Vulović? Her fall from the sky happened as
-      if a writer had imagined it. First, before she even fell, she had a premonition 
-      that something was off, she took note of her colleagues’ strange behavior, which 
-      would only make sense the next day, a day they wouldn’t survive. Everyone was
-      upset and no one knew the cause. Understand? Everyone grieved themselves, because
-      somehow, deep down, they could sense what was to come. Then, during the
-      flight, there was the curious behavior of certain passengers, which Vesna
-      also observed, her eye as keen as the most accomplished detective, a real
-      natural she was at this kind of thing, that if we had been contemporaries, I
-      would have begged her to work for our paper. Yes, the passengers who were
-      pacing too often and for too long, who had even boarded the plane without 
-      any luggage. Who does that? Only someone planning some trouble. 
-      <br/>
-      <br/>
-      And trouble came not too long after she noticed all this, though this part, she
-      really couldn’t remember, because Vesna fell those famous ten thousand meters, a
-      fall that would earn her a world record, though she couldn’t have known that
-      at the time. And when she finally landed on the ground below, she was not
-      only alive, but also in a town named after her very providence—Srbská
-      Kamenice—a Serbian quarry! 
-       <br/>
-      <br/>
-      So remarkable was this miraculous survival of a beautiful young woman dropping 
-      ten thousand meters from the sky that everyone forgot to ask about the curious
-      background of the kind-faced villager who found her in the wreckage, her body
-      half in the place, and half outside in the elements, her uniform a bloody
-      mess, her dead colleague on top of her, and the airplane’s food cart pinned 
-      closely against her spine, the coincidence that would make all the difference. 
-       <br/>
-      <br/>
-      No, no one questioned why this villager was so skilled at emergency 
-      situations, why he could identify Vesna’s injuries so clearly, why, when
-      it came time to be interviewed, he identified himself as a medic, a combat
-      medic, to be more precise, a combat medic who served in Germany during the
-      war, to tell things as they truly are, even though no one seemed to either
-      mind or care, if they even noticed anything other than the radiance of
-      Vesna’s face. She might have been a little worse for wear, but from the
-      first photos snapped of her amidst the wreckage, and then in her hospital
-      bed, her radiance was apparent. 
-      <br/>
-      <br/>
-      And indeed, the accumulated details that explained her unlikely escape from
-      death were made infinitely more compelling by the sweetness of Vesna’s
-      personality and her willingness to participate in any news segment proposed
-      to her. I envied the journalists who had been assigned her story, who were
-      gifted so much material, and who, without having to work for it at all, had
-      endless information to broadcast for the months and years that followed her fall. 
-       <br/>
-      <br/>
-      To start, the riveting assemblage of motivation and effect. Certainly, it was
-      the era of plane hijacking, but usually the stakes were much higher—national
-      liberation, oil interests, all that. Here they had the perfect variation. Not
-      a hijacking, but a bomb. And by whom? Yugoslav terrorists? Now that was 
-      interesting, intriguing, sexy, even! The public, and let’s face
-      it, journalists, and their lack of knowledge about this country was a useful 
-      factor in the dissemination of stories about Vesna. Whole paragraphs could
-      be spent explaining what this place was, where it was located, what deep-seated
-      antipathies existed between these terrorists and the systems they opposed, wrongly
-      or rightfully, that wouldn’t be the journalists’ place to decide. Historians, those
-      pretentious imitators of our ethos and style, would have to figure it out, but
-      later, much later. 
-      <br/>
-      <br/>
-      By then, only Vesna’s survival would be remembered. She would survive not only
-      the fall, but also the unforgiving passage of time and its dislocating whirlwind 
-      of events, people, places, the clashes between them, which only grew and demanded
-      attention. Because it wasn’t simply that she came out of that ordeal alive, but
-      that despite her broken bones, her paralyzed lower half, and the intensive coma 
-      she slipped into, she made an almost complete recovery. The only trace the plane
-      crash left on her body was a slight limp, noticeable only to an eye like mine, who
-      watched her walk herself to the stage of her variety shows, talk shows, the
-      tables of newsrooms, my gaze transfixed by her grace and all she gave to the
-      story, that most mythical entity.  
-      <br/>
-      <br/>
-      Enough about Vesna, my editor messaged me, focus on the survivor. 
-           <br/>
-      <br/>
-      I should have known not to express my real feelings to her. One way or 
-      another, she always made me regret it. I had hoped this time would be
-      different. I had hoped she would understand I was trying, I was really
-      trying to get a statement from this survivor, and that in lieu of the 
-      statement, one reminder of the pinnacle achievements of our professions
-      would inspire her, give her an idea about how to twist and turn our editorial
-      framing of this current incident so that something could be made of the
-      man’s reticence, without my needing to probe him any longer. Instead, she
-      let my calls go to voicemail, and then, probably played by message aloud 
-      to the newsroom, having a good laugh with everyone else at my expense. 
-<br/>
-      <br/>
-      It was afternoon, and our survivor still hadn’t taken his lunch break. I
-      cranked my neck out of the car window to pay better attention to the post 
-      office door. I would catch him stepping out to eat and accost him—friendly
-      as usual, of course—with an offer to ditch his sad meal and have something
-      delicious on the newspaper’s dime. For some reason, I felt absolutely 
-      certain that he would take his meal outside and not in whatever dark, moldy
-      break room the post office offered their workers. Sure, he was dedicated
-      enough to report to work the day after his brush with death, but there was
-      little chance anyone in his position would choose fluorescent lighting 
-      over the sun’s rejuvenating rays.
-<br/>
-      <br/>
-      A few minutes after thinking up this theory, I was proven right. The survivor
-      appeared at the door. He stood there tentatively, perhaps afraid of what I would
-      do. I removed my head from the window and closed it all the way. I wanted to
-      give him no suspicion of me as a threat, though I was dying to rush outside 
-      and intercept him before he disappeared behind some corner or the overgrown 
-      plant life typical of that neighborhood. It seemed that everyone there had
-      made a pact to allow weeds and invasive plant life to grow undisturbed. Every
-      street corner boasted a sizable growth of lambs quarter, and most 
-      curiously, devil’s trumpet, which grew in abundance, offering its thorny
-      seedpods to passersby, should anyone be brave enough to partake. They must
-      have known what they were doing, those who allowed these plants to grow in
-      this manner. Otherwise, their daily walks would be needlessly punctuated 
-      by dangers long since relegated to cautionary tales for children. Just as I 
-      suspected, the survivor crossed the street and made a quick turn behind a
-      corner, a large, tall cluster of devil’s trumpet concealing his footsteps. 
-      <br/>
-      <br/>
-      Thankfully, I had paid attention. 
-       <br/>
-      <br/>
-      Before long, I was on his tail, following him down two blocks of townhouses, the
-      proud property of the ​​petit bourgeoisie that had settled in these parts decades 
-      earlier, and which, thanks to the power of that property, had since done much
-      better for themselves than they could have anticipated. Interacting with them
-      all day at the post office, our survivor must have had interesting stories to
-      tell about their entitlement getting out of hand. If only he would stop and
-      talk to me, I would be willing to listen to anything he would share with
-      me. He could vent about his customers, and I would only support him, every
-      part of me opening up to become a receptor of his frustrations. 
-      <br/>
-      <br/>
+        The survivor made no reaction. Nothing moved on his face. No eye twitch,
+        or eyebrow raising, no lip pursing, or head tilting, he simply stared
+        ahead at me, standing there in front of him with a handful of certified
+        letter slips in my hand.
+        <br />
+        <br />
+        “I’m not interested in talking,” he said when he finally spoke.
+        <br />
+        <br />
+        “A quick conversation is all I need, so the public knows you are doing
+        fine.”
+        <br />
+        <br />
+        “I am doing fine,” he repeated.
+        <br />
+        <br />
+        “I’m glad,” I said. “I work for the biggest newspaper in town,” I had to
+        add, “our circulation reaches everyone around here. Think of how quickly
+        you would announce to everyone who knows and cares about you that you
+        survived this tragedy.”
+        <br />
+        <br />
+        “Everyone I know is already aware,” he said, then made a hand gesture
+        for me to come closer, but when I stepped forward, I ran into another
+        person, someone I hadn’t noticed was standing to my side on the
+        fictitious line I had created, and who was the real object of that
+        gesture. The survivor was eager to return to his job, and if I wanted to
+        play my cards right, I should let him get to it.
+        <br />
+        <br />
+        Back in my car, I couldn’t dampen my annoyance.
+        <br />
+        <br />
+        Why couldn’t he be more like Vesna Vulović? Her fall from the sky
+        happened as if a writer had imagined it. First, before she even fell,
+        she had a premonition that something was off, she took note of her
+        colleagues’ strange behavior, which would only make sense the next day,
+        a day they wouldn’t survive. Everyone was upset and no one knew the
+        cause. Understand? Everyone grieved themselves, because somehow, deep
+        down, they could sense what was to come. Then, during the flight, there
+        was the curious behavior of certain passengers, which Vesna also
+        observed, her eye as keen as the most accomplished detective, a real
+        natural she was at this kind of thing, that if we had been
+        contemporaries, I would have begged her to work for our paper. Yes, the
+        passengers who were pacing too often and for too long, who had even
+        boarded the plane without any luggage. Who does that? Only someone
+        planning some trouble.
+        <br />
+        <br />
+        And trouble came not too long after she noticed all this, though this
+        part, she really couldn’t remember, because Vesna fell those famous ten
+        thousand meters, a fall that would earn her a world record, though she
+        couldn’t have known that at the time. And when she finally landed on the
+        ground below, she was not only alive, but also in a town named after her
+        very providence—Srbská Kamenice—a Serbian quarry!
+        <br />
+        <br />
+        So remarkable was this miraculous survival of a beautiful young woman
+        dropping ten thousand meters from the sky that everyone forgot to ask
+        about the curious background of the kind-faced villager who found her in
+        the wreckage, her body half in the place, and half outside in the
+        elements, her uniform a bloody mess, her dead colleague on top of her,
+        and the airplane’s food cart pinned closely against her spine, the
+        coincidence that would make all the difference.
+        <br />
+        <br />
+        No, no one questioned why this villager was so skilled at emergency
+        situations, why he could identify Vesna’s injuries so clearly, why, when
+        it came time to be interviewed, he identified himself as a medic, a
+        combat medic, to be more precise, a combat medic who served in Germany
+        during the war, to tell things as they truly are, even though no one
+        seemed to either mind or care, if they even noticed anything other than
+        the radiance of Vesna’s face. She might have been a little worse for
+        wear, but from the first photos snapped of her amidst the wreckage, and
+        then in her hospital bed, her radiance was apparent.
+        <br />
+        <br />
+        And indeed, the accumulated details that explained her unlikely escape
+        from death were made infinitely more compelling by the sweetness of
+        Vesna’s personality and her willingness to participate in any news
+        segment proposed to her. I envied the journalists who had been assigned
+        her story, who were gifted so much material, and who, without having to
+        work for it at all, had endless information to broadcast for the months
+        and years that followed her fall.
+        <br />
+        <br />
+        To start, the riveting assemblage of motivation and effect. Certainly,
+        it was the era of plane hijacking, but usually the stakes were much
+        higher—national liberation, oil interests, all that. Here they had the
+        perfect variation. Not a hijacking, but a bomb. And by whom? Yugoslav
+        terrorists? Now that was interesting, intriguing, sexy, even! The
+        public, and let’s face it, journalists, and their lack of knowledge
+        about this country was a useful factor in the dissemination of stories
+        about Vesna. Whole paragraphs could be spent explaining what this place
+        was, where it was located, what deep-seated antipathies existed between
+        these terrorists and the systems they opposed, wrongly or rightfully,
+        that wouldn’t be the journalists’ place to decide. Historians, those
+        pretentious imitators of our ethos and style, would have to figure it
+        out, but later, much later.
+        <br />
+        <br />
+        By then, only Vesna’s survival would be remembered. She would survive
+        not only the fall, but also the unforgiving passage of time and its
+        dislocating whirlwind of events, people, places, the clashes between
+        them, which only grew and demanded attention. Because it wasn’t simply
+        that she came out of that ordeal alive, but that despite her broken
+        bones, her paralyzed lower half, and the intensive coma she slipped
+        into, she made an almost complete recovery. The only trace the plane
+        crash left on her body was a slight limp, noticeable only to an eye like
+        mine, who watched her walk herself to the stage of her variety shows,
+        talk shows, the tables of newsrooms, my gaze transfixed by her grace and
+        all she gave to the story, that most mythical entity.
+        <br />
+        <br />
+        Enough about Vesna, my editor messaged me, focus on the survivor.
+        <br />
+        <br />
+        I should have known not to express my real feelings to her. One way or
+        another, she always made me regret it. I had hoped this time would be
+        different. I had hoped she would understand I was trying, I was really
+        trying to get a statement from this survivor, and that in lieu of the
+        statement, one reminder of the pinnacle achievements of our professions
+        would inspire her, give her an idea about how to twist and turn our
+        editorial framing of this current incident so that something could be
+        made of the man’s reticence, without my needing to probe him any longer.
+        Instead, she let my calls go to voicemail, and then, probably played by
+        message aloud to the newsroom, having a good laugh with everyone else at
+        my expense.
+        <br />
+        <br />
+        It was afternoon, and our survivor still hadn’t taken his lunch break. I
+        cranked my neck out of the car window to pay better attention to the
+        post office door. I would catch him stepping out to eat and accost
+        him—friendly as usual, of course—with an offer to ditch his sad meal and
+        have something delicious on the newspaper’s dime. For some reason, I
+        felt absolutely certain that he would take his meal outside and not in
+        whatever dark, moldy break room the post office offered their workers.
+        Sure, he was dedicated enough to report to work the day after his brush
+        with death, but there was little chance anyone in his position would
+        choose fluorescent lighting over the sun’s rejuvenating rays.
+        <br />
+        <br />
+        A few minutes after thinking up this theory, I was proven right. The
+        survivor appeared at the door. He stood there tentatively, perhaps
+        afraid of what I would do. I removed my head from the window and closed
+        it all the way. I wanted to give him no suspicion of me as a threat,
+        though I was dying to rush outside and intercept him before he
+        disappeared behind some corner or the overgrown plant life typical of
+        that neighborhood. It seemed that everyone there had made a pact to
+        allow weeds and invasive plant life to grow undisturbed. Every street
+        corner boasted a sizable growth of lambs quarter, and most curiously,
+        devil’s trumpet, which grew in abundance, offering its thorny seedpods
+        to passersby, should anyone be brave enough to partake. They must have
+        known what they were doing, those who allowed these plants to grow in
+        this manner. Otherwise, their daily walks would be needlessly punctuated
+        by dangers long since relegated to cautionary tales for children. Just
+        as I suspected, the survivor crossed the street and made a quick turn
+        behind a corner, a large, tall cluster of devil’s trumpet concealing his
+        footsteps.
+        <br />
+        <br />
+        Thankfully, I had paid attention.
+        <br />
+        <br />
+        Before long, I was on his tail, following him down two blocks of
+        townhouses, the proud property of the ​​petit bourgeoisie that had
+        settled in these parts decades earlier, and which, thanks to the power
+        of that property, had since done much better for themselves than they
+        could have anticipated. Interacting with them all day at the post
+        office, our survivor must have had interesting stories to tell about
+        their entitlement getting out of hand. If only he would stop and talk to
+        me, I would be willing to listen to anything he would share with me. He
+        could vent about his customers, and I would only support him, every part
+        of me opening up to become a receptor of his frustrations.
+        <br />
+        <br />
+        <i>Wait a second</i>, I thought to myself,{" "}
+        <i>and stop while you’re ahead</i>,{" "}
+        <i>before you sanctify a stranger once again</i>.
+        <br />
+        <br />
+        Taking the first opportunity to sit down, the survivor entered a
+        children’s playground and made himself comfortable next to a swing-set.
+        It was undignified to watch him from a distance, as he unwrapped his
+        sandwich and started eating the smaller half, so I didn’t hesitate for
+        long.
+        <br />
+        <br />
+        “Excuse me,” I said while approaching, “I won’t bother you again. I just
+        had to try once more.”
+        <br />
+        <br />
+        “You’re interfering with a man’s right to eat,” he replied.
+        <br />
+        <br />
+        If this was a trace of humor, then I had achieved some kind of success
+        with this story. But if he was serious, like people usually were in
+        those days, I should have packed up my stuff and left.
+        <br />
+        <br />
+        “Are you joking?” I asked.
+        <br />
+        <br />
+        “Not really,” he said, “I don’t have that much to tell you.”
+        <br />
+        <br />
+        “How does a man,” I tried, “who survives unscathed an event that left
+        hundreds dead, go about his life every day after?”
+        <br />
+        <br />
+        “As normal,” he said, getting started on the second half of his
+        sandwich.
+        <br />
+        <br />
+        Tuna salad, I had been right. A piece of celery got stuck on his
+        mustache, but I said nothing. Once, a friend had advised me to use
+        silence to my advantage. Ask a question and wait until your subject
+        answers. Resist the urge to fill the space in between with useless,
+        distracting words. Withstand the awkwardness of those mute minutes. Give
+        no indication of your thoughts, will your face to express nothing. Just
+        wait, wait, and when you think you can wait no more, when you think you
+        must end the discomfort, pose another question to them, or even offer an
+        answer of your own, hoping it will trigger a response from them, as if
+        the only thing standing between you and their testimony, was the
+        encouragement of example.
+        <br />
+        <br />
+        Still, I waited, watching the survivor masticate with neither joy, nor
+        concern. He seemed to be in on my game, but unlike me, his silence was
+        not premeditated. It felt learned, rehearsed and perfected through daily
+        repetition. He was comfortable inside of it, so at home that he had no
+        need to venture outside of the perimeters silence set. First, there was
+        the most obvious: the lack of communication through verbal
+        pronouncement. His mouth, tongue, lips moved only in service of
+        finishing his food. Otherwise, their purpose was reduced to nothing.
+        Second, there was the prominence of the sounds that emerged as the
+        results of the silence. His chewing, of course. Whereas usually I would
+        have been spared from listening to that disturbing smacking and biting
+        thanks to the surrounding noise, which would have done me the great
+        favor of drowning out anything lesser than itself, in this case, I had
+        to hear it all, every opening, closing, tooth scraping, tongue flapping,
+        lip licking, on and on, until he was done. Third, the discomfort caused
+        by the first and the second observation, which sent waves of unease from
+        my feet up through my spine and all the way to my head, which started to
+        tingle in unexpected places and manners.
+        <br />
+        <br />
+        My ears were the first victims, then my eyebrows, my cheeks, and my
+        lips, twitched or reddened, it didn’t matter. I was letting myself get
+        out of control and soon enough, this man would get what he was after: my
+        capitulation. I thought of my friend’s words and tried to be stronger,
+        focus my sight and mind anywhere else, so I could lessen the growing
+        anxiety in my chest, the urge to say something and break the spell the
+        survivor had cast on me, the benches where we sat, and the air that
+        surrounded us. How could this be the ordinary person I had discovered
+        last night? How could this be conveyed succinctly and powerfully in
+        print? How could I make people care about what was happening to me in
+        the pursuit of this story?
+        <br />
+        <br />
+        I felt a drop of sweat trickle from my temple down to my jawline.
+        <br />
+        <br />
+        He must have known he was winning, because I noticed a grin.
+        <br />
+        <br />
+        “I don’t have all day,” I broke the spell.
+        <br />
+        <br />
+        “Well, why bother with me, then?” he said, folding the empty sandwich
+        wrapper into a neat square. First he wanted to drive me crazy with his
+        silence, and now he was using a pretense of ignorance to make me repeat
+        myself once again, and with that repetition, ensure my descent into
+        madness. Why else would he act like he didn’t know what I wanted from
+        him?
+        <br />
+        <br />
+        And then, I had a disturbing realization. I didn’t know, in truth, what
+        I was doing there with this stranger. Why, out of all the things I could
+        be doing, all the places I could be inhabiting, in this great, blue and
+        green world, I was there, precisely. Everything that surrounded us was
+        so ugly. The school was an orange rectangle, more similar to a prison
+        than a place that encourages thinking and learning. The yard where we
+        sat, an extension of this school, was just as dismal in appearance as
+        the building that loomed over it. Barbed wire would have looked more
+        picturesque than the dilapidated fence enclosing us in a space where,
+        despite all odds, children were supposed to play. And where were they
+        now? Why was the playground empty?
+        <br />
+        <br />I looked around again. Only tumbling pieces of crumpled papers
+        kept the two of us company in that landscape. The other benches were
+        empty. The swings and the monkey bars in the distance remained unused.
+        “Where is everyone?” I wanted to ask, but feared the question was too
+        off topic and risked offering my survivor a way out of my insistence for
+        an interview about his experience.
+        <br />
+        <br />
+        It was too late: he had noticed my curiosity and seized the opportunity
+        to discuss something else. So, as comprehensively as I had ever heard
+        anyone tell a story, he began detailing the history of this school, a
+        once fine institution, now fallen on hard times, so run down its halls
+        and classrooms, so overwhelmed its teachers, so underperforming its
+        students, that the city had made the executive decision to include it in
+        the list of schools to be stripped of licenses and recognition and this
+        very year, be turned into something else, perhaps centers for learning
+        trades, because these days, it was essential to have a skill, and less
+        than essential to write essays about one’s feelings, ones that usually
+        go <i>boohoo</i>, <i>somebody hurt me and now I can’t sleep at night</i>
+        . Everybody would be better off learning how to unclog a sink and a
+        toilet, than dwelling on all that cannot be changed, he said, and with
+        that statement, concluded his long, meandering answer to a question I
+        hadn’t even posed.
+        <br />
+        <br />
+        That afternoon, back in the comfort of my desk, watching the curious
+        eucalyptus tree outside the window swaying in the wind with unusual
+        softness, and writing a report of the day’s efforts with similar
+        laziness, I embellished the story as best as I could. The survivor was a
+        foreigner, I began. This much was clear by his peculiar name and
+        unassimilated way of speaking, an accent that was difficult to decipher,
+        especially when, under the weight of anxiety and panic caused by the
+        incident, it was triggered and became thicker. This foreignness, I
+        explained, was cause for many cultural misunderstandings, like the fact
+        of the survivor’s nonchalance at the scene of the accident, which many
+        other outlets reported as a product of deep shock, citing experts and
+        studies on the matter of trauma and its manifestations, none of whom had
+        heard of other countries and their different traditions. If something as
+        simple as preparing a cup of coffee varied from one place to the other,
+        I wrote, then how could anyone be surprised that the experience of deep,
+        devastating shock and pain could be expressed differently depending on
+        where one came from? Had we really remained so closed off to the world?
+        <br />
+        <br />
+        “The time for speculation is over,” my editor said, “and if you wanted
+        to weave a philosophical tale out of this tragedy, you should have done
+        it yesterday.”
+        <br />
+        <br />
+        The world was moving on. People were eager for new stories. Bodies upon
+        bodies of new victims crowded the front pages, whole or mutilated, and
+        the interest for our sole survivor dwindled. After all, he had survived,
+        an automatic disadvantage if we considered the cold, hard facts of our
+        business. I had to do something and there was no more time to waste. I
+        had no doubt that if the incident that had conferred to this man not
+        this role he seemed to detest for all its demands of representations,
+        but had thrown him into that pile of lifeless bodies that were keeping
+        the city’s morgues and funeral homes busy these days, then both our
+        problems would have been solved.
+        <br />
+        <br />
+        Perhaps it was the wrong decision, but I decided to do it anyway. I
+        scrapped the theory about foreignness and cultural sensitivity, and
+        began to write something new, spending the entire night in the office,
+        nothing but the bright, fluorescent lights keeping me company as I
+        typed. After a while, I embraced the trance in which I found myself,
+        writing with a confidence I rarely felt, even moving my body with the
+        fluidity of someone certain that they had something important to say and
+        they had found the most perfect, most compelling way to say it. I became
+        so energetic that I didn’t even need the help of coffee to keep going
+        during those late hours. Enveloped by silence again, I felt little
+        discomfort, as the sound of my fingers on the keyboard was enough to
+        keep me tethered to the reality I created without speaking, there on the
+        page.
+        <br />
+        <br />
+        In the morning, my colleagues found me sleeping on our big, wide table,
+        the one we used during all-staff meetings to hold the catering. By the
+        time I was done with the article, it was too late to go home, only two
+        or three hours were left until I had to be back at the office. Despite
+        the satisfaction of writing something so true that no one would have
+        been able to deny a connection with my words, regardless of whether they
+        found my arguments pleasant or not, I wasn’t bold enough to swing my
+        editor’s office door open and there, in that corner by the oversized
+        windows, find her couch and throw myself onto it. So, the table, then. I
+        rested underneath the permanent olive oil stain from a summer feast’s
+        unfortunate accident, an opened bottle tipped over and months later,
+        perhaps my hair was receiving a much needed deep conditioning treatment.
+        <br />
+        <br />
+        I straightened myself out under the judgmental looks of the people I
+        knew were ready to discuss my fall from grace the second I stepped out
+        of the room. I brushed my hair with my fingers, smoothed my blouse and
+        skirt with my hands, took a swig or two of the sparkling water from the
+        previous night, now flat, and called it tooth brushing, good enough
+        under the circumstances, and finally, when I felt ready, I hit print,
+        and out they came, twenty, riveting pages, yearning to be read.
+        <br />
+        <br />
+        “What did I say about the length?” my editor said, fresh faced from her
+        ten hours of sleep and a skin care regiment that could rival the most
+        accomplished actresses. “Have you not been listening?”
+        <br />
+        <br />
+        Still, she read it, and was transfixed. Yes, transfixed. I could tell
+        from the way she kept her eyes fixed on the page and how quickly she
+        forgot about my physical presence there in front of her. When she
+        finished, she simply said, this will do, but I knew her coldness was a
+        cover, and she was amazed, perhaps even proud. If you want me to be
+        truthful, at the moment, I didn’t really care. What mattered more to me
+        was that the ordeal was over, and I could move on with my life.
+        <br />
+        <br />
+        The final version approved, the copy sent up the command chain, then to
+        the printers, and in some hours, out to the world. I gathered my things,
+        my old backpack, the laptop with all the notes I could finally delete,
+        the digital camera that contained the only photograph I had been able to
+        capture of him, my man of the hour, his back to me as he walked ahead,
+        toward the post office, where we had returned after lunch in the
+        playground, and where he had allowed me one final question before he
+        returned to his work. Are you glad to be alive, I asked him, no, he
+        said, an answer from which everything else unraveled with relative calm
+        and perfect, unquestionable logic.
       </StandardProse>
-
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
       <Footer />
     </>
   );
