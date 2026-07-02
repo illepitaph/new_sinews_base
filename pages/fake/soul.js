@@ -15,7 +15,7 @@ export default function Soul() {
     <>
       <Head />
 
-      <Header headerBackground="careBackground" />
+      <Header headerBackground="soulBackground" />
       <LeftGrayTitle>
         <span className={styles.duskShadow}>
           <span className={styles.duskShadowUppercase}>s</span>

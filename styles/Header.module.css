@@ -490,6 +490,10 @@
   background-image: url("../public/images/BaarleBackground.jpg");
 }
 
+.soulBackground {
+  background-image: url("../public/images/SoulBackground.jpg");
+}
+
 @media (width: 1366px) and (height: 1024px) {
   .siteNav > .dropDown > a > button,
   .home,
