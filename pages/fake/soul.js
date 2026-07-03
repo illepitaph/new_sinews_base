@@ -128,7 +128,7 @@ export default function Soul() {
         exploration of other people’s suffering?
         <br />
         <br />
-        Because I couldn’t think of a fate worse than obsoleteness, I did what I
+        Because I couldn’t think of a fate worse than obsolescence, I did what I
         shouldn’t have done. I waited to make sure that no one was paying me any
         mind, then I walked to the crowd’s edge, slipped out of its cosmic pull,
         and in the open space that formed in front of me, I looked closely at
@@ -169,11 +169,11 @@ export default function Soul() {
         have felt.
         <br />
         <br />
-        What a leech! my own family would tell me when I used to practice my
-        profession on them, before it had even become my profession, reporting
-        on the indiscretions committed by this or that relative, information
-        which I had secured either through persuasion, the sweetness of my
-        childish face, the big eyes ready to attack, or more simply, by
+        <i>What a leech</i>! my own family would tell me when I used to practice
+        my profession on them, before it had even become my profession,
+        reporting on the indiscretions committed by this or that relative,
+        information which I had secured either through persuasion, the sweetness
+        of my childish face, the big eyes ready to attack, or more simply, by
         eavesdropping, in secret and with a certain style, so that until I
         showed them my hand, no one suspected I knew much more than I should.
         <br />
@@ -328,6 +328,20 @@ export default function Soul() {
         enjoy what they had while they still had it. <i>
           Don’t make plans
         </i>! <i>Relish your beauty</i>! and all that. <br />
+        <br />
+        Still, despite the similarities his name shared with these businessmen
+        and young people, the survivor’s actual name was uncommon. Usually, this
+        would have served me well, speeding up the investigative process and
+        pulling only relevant profiles and articles regarding the person of
+        interest. But this time it backfired because, though his first and last
+        name offered a combination I had never before encountered, his given
+        name happened to be the same as the name of a popular medication, while
+        his family name sounded nearly the same as a seaside town the other side
+        of the world, so the results of my search were a mishmash of
+        pharmaceutical companies trying to sell me a bottle of pills to remedy
+        the growing anxiety at the pit of my stomach, and photographs of a
+        marina, beautiful at all angles and all times of day and night.
+        <br />
         <br />
         Drifting to sleep, I wondered how farfetched it would be to link this
         man to the medication or the city, and create out of nothing, the buzz
@@ -496,17 +510,17 @@ export default function Soul() {
         besides a peanut butter and jelly sandwich, or maybe, tuna salad to
         celebrate the gift of one more day?
         <br />
-        <br />
-        I followed after him for the duration of his commute to work. Ten
+        <br />I followed after him for the duration of his commute to work. Ten
         minutes and forty seconds exactly, and there he was, entering the post
         office building, still empty of the public, but with a few other clerks
         milling around, opening the shades, sweeping the floor, that sort of
         thing. I got out of the car and stood across the street, peering inside
         with my binoculars, hoping I’d catch the survivor in the act of showing
-        off. Did you see me last night? Wasn’t I amazing? But he barely spoke to
-        anyone—a hello here, a thank you there, and he disappeared behind a door
-        with his small lunch bag, and what might have been a small, nearly
-        undetectable limp, the only trace of his unusual evening.
+        off. <i>Did you see me last night</i>? <i>Wasn</i>’<i>t I amazing</i>?
+        But he barely spoke to anyone—a hello here, a thank you there, and he
+        disappeared behind a door with his small lunch bag, and what might have
+        been a small, nearly undetectable limp, the only trace of his unusual
+        evening.
         <br />
         <br />
         I should have cut my losses and left then, but I was both curious and on
