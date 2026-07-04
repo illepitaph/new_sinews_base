@@ -1,0 +1,149 @@
+.titleShadow {
+  display: inline-block;
+  color: white;
+  font-size: 3.3rem;
+  text-shadow:
+    1px 1px black,
+    4px 4px 16px black;
+  text-transform: uppercase;
+  opacity: 0.6;
+}
+
+.inverseShadow {
+  font-size: 3.6rem;
+  color: black;
+  text-shadow:
+    4px 4px snow,
+    6px 6px 16px dimgray;
+}
+
+.inverseShadowAlternate {
+  font-size: 3.1rem;
+  color: black;
+  text-shadow:
+    4px 4px snow,
+    5px 5px black,
+    6px 6px gainsboro;
+  opacity: 0.8;
+  text-transform: uppercase;
+}
+
+.blueAlternate {
+  font-size: 4.1rem;
+  color: #00ffff;
+  text-shadow:
+    4px 4px snow,
+    5px 5px 15px black;
+  opacity: 0.6;
+  text-transform: uppercase;
+}
+
+.blueAlternateTwo {
+  font-size: 4.1rem;
+  color: #00ffff;
+  text-shadow:
+    4px 4px snow,
+    5px 5px 15px black;
+  opacity: 0.6;
+  text-transform: lowercase;
+}
+
+.specialCursive {
+  font-size: 7.5rem;
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-weight: 400;
+}
+
+.headerIndent {
+  display: inline-block;
+  margin-left: 7.5vw;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.sectionBreak {
+  font-family: "ubuntu", monospace;
+  font-weight: 700;
+  font-size: 5.2rem;
+  color: black;
+  text-shadow:
+    1px 1px white,
+    2px 2px black,
+    3px 3px white,
+    4px 4px black;
+  text-align: center;
+}
+
+.compactProse {
+  max-width: 45vw;
+  margin-left: 12.5vw;
+  font-size: 1rem;
+  line-height: 1.2rem;
+}
+
+.poem {
+  font-family: "base-9-sans", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 1.2rem;
+  text-shadow: 2px 2px gainsboro;
+  letter-spacing: -0.02rem;
+  line-height: 1.5rem;
+  margin-left: 5vw;
+  font-style: italic;
+}
+
+@media (max-width: 781px) and (orientation: landscape) {
+  .title {
+    font-size: 2.2rem;
+  }
+
+  .titleTwo {
+    font-size: 1.9rem;
+  }
+}
+
+@media (max-width: 769px) and (orientation: portrait) {
+  .titleTwo {
+    font-size: 2.2rem;
+  }
+}
+
+@media (max-width: 541px) and (orientation: portrait) {
+  .title {
+    font-size: 1.3rem;
+  }
+
+  .titleTwo {
+    font-size: 1.2rem;
+  }
+
+  .poem {
+    margin-left: 0.2vw;
+    font-size: 0.9rem;
+  }
+}
+
+@media (max-width: 361px) and (orientation: portrait) {
+  .title,
+  .titleTwo {
+    font-size: 1.1rem;
+  }
+
+  .poem {
+    margin-left: 0.2vw;
+    font-size: 0.7rem;
+  }
+}
+
+@media (max-width: 281px) and (orientation: portrait) {
+  .title {
+    font-size: 0.9rem;
+  }
+
+  .titleTwo {
+    font-size: 1rem;
+  }
+}
