@@ -18,7 +18,7 @@ export default function Continuous() {
     <>
       <Head />
 
-      <Header headerBackground="baarleBackground" />
+      <Header headerBackground="continuousBackground" />
       <br />
       <br />
       <LeftBlackTitle>
