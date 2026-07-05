@@ -96,54 +96,55 @@
 }
 
 @media (max-width: 781px) and (orientation: landscape) {
-  .title {
-    font-size: 2.2rem;
-  }
-
-  .titleTwo {
-    font-size: 1.9rem;
-  }
+  .titleShadow,
+    .inverseShadow,
+    .inverseShadowAlternate,
+    .blueAlternate,
+    .blueAlternateTwo {
+      font-size: 2.3rem;
+    }
 }
 
 @media (max-width: 769px) and (orientation: portrait) {
-  .titleTwo {
-    font-size: 2.2rem;
-  }
+  .titleShadow,
+    .inverseShadow,
+    .inverseShadowAlternate,
+    .blueAlternate,
+    .blueAlternateTwo {
+      font-size: 2rem;
+    }
 }
 
 @media (max-width: 541px) and (orientation: portrait) {
-  .title {
-    font-size: 1.3rem;
-  }
+  .titleShadow,
+    .inverseShadow,
+    .inverseShadowAlternate,
+    .blueAlternate,
+    .blueAlternateTwo {
+      font-size: 2rem;
+    }
 
-  .titleTwo {
-    font-size: 1.2rem;
-  }
-
-  .poem {
-    margin-left: 0.2vw;
-    font-size: 0.9rem;
-  }
+    .titleShadow {
+      line-height:5rem;
+    }
 }
 
-@media (max-width: 361px) and (orientation: portrait) {
-  .title,
-  .titleTwo {
-    font-size: 1.1rem;
+@media (max-width: 321px) and (orientation: portrait) {
+    .titleShadow,
+    .inverseShadow,
+    .inverseShadowAlternate,
+    .blueAlternate,
+    .blueAlternateTwo {
+      font-size: 2rem;
+    }
   }
-
-  .poem {
-    margin-left: 0.2vw;
-    font-size: 0.7rem;
-  }
-}
-
-@media (max-width: 281px) and (orientation: portrait) {
-  .title {
-    font-size: 0.9rem;
-  }
-
-  .titleTwo {
-    font-size: 1rem;
-  }
+  
+  @media (max-width: 281px) and (orientation: portrait) {
+    .titleShadow,
+    .inverseShadow,
+    .inverseShadowAlternate,
+    .blueAlternate,
+    .blueAlternateTwo {
+      font-size: 1.7rem;
+    }
 }
