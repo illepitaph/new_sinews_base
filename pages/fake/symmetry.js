@@ -33,6 +33,9 @@ export default function Symmetry() {
         <span className={styles.specialCursive}> n</span>
         <span className={styles.titleShadowUppercase}>o </span>
         <span className={styles.titleShadow}>
+            <br/>
+            <br/>
+             <br/>
           <span className={styles.marginRight}></span>
           <span className={styles.inverseShadowUppercase}>s </span>
           <span className={styles.skewDown}>

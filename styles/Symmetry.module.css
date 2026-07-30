@@ -172,6 +172,15 @@
 
 }
 
+@media (max-width: 361px) and (orientation: portrait) {
+
+.specialCursive {
+    font-size:5rem;
+}
+
+}
+
+
 @media (max-width: 321px) and (orientation: portrait) {
 
 .titleShadow {
