@@ -498,6 +498,10 @@
   background-image: url("../public/images/ContinuousBackground.jpg");
 }
 
+.symmetryBackground {
+  background-image: url("../public/images/SymmetryBackground.jpg");
+}
+
 @media (width: 1366px) and (height: 1024px) {
   .siteNav > .dropDown > a > button,
   .home,

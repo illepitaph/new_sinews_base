@@ -1,0 +1,189 @@
+.titleShadow {
+  display: block;
+  font-size: 3.1rem;
+  color: black;
+  text-shadow: 2px 2px #b2d3c2, 4px 4px black, 6px 6px #b2d3c2;
+  letter-spacing: 1rem;
+  text-align: right;
+  margin: -18vh 10vw 0 0;
+}
+
+.inverseShadow {
+  color: snow;
+  text-shadow: 2px 2px black, 4px 4px 12px silver;
+}
+
+.titleShadowUppercase {
+  color: black;
+  text-shadow: 2px 2px snow, 4px 4px #b0b0b0;
+  text-transform: uppercase;
+}
+
+.inverseShadowUppercase {
+  color: snow;
+  text-shadow: 2px 2px black, 3px 3px white, 4px 4px black, 5px 5px 12px silver;
+  text-transform: uppercase;
+}
+
+.alternateTitleColor {
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-size: 6.3rem;
+  color: black;
+  text-shadow: 4px 4px snow, 8px 8px gainsboro;
+}
+
+.alternateTitleColorBigger {
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-size: 10.3rem;
+  color: black;
+  text-shadow: 4px 4px snow, 8px 8px gainsboro;
+}
+
+.alternateTitleColorUppercase {
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-size: 6.3rem;
+  color: black;
+  text-transform: uppercase;
+  text-shadow: 4px 4px snow, 8px 8px gainsboro;
+}
+
+.alternateTitleColorTwo {
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-size: 5.1rem;
+  color: #d3d2b2;
+  text-transform: uppercase;
+  text-shadow: 2px 2px black;
+}
+
+.skewLeft {
+  display: inline-block;
+  transform: skew(20deg, -30deg);
+}
+
+.skewUp {
+  display: inline-block;
+  transform: translateY(-2rem);
+}
+
+.skewDown {
+  display: inline-block;
+  transform: translateY(2rem);
+}
+
+.marginRight {
+  display: inline-block;
+  margin-right:11vw;
+}
+
+.inverseShadow {
+  color: black;
+  text-shadow: 4px 4px snow, 6px 6px black, 10px 10px 12px #b0b0b0;
+}
+
+.specialCursive {
+  font-size: 9.1rem;
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-weight: 400;
+  text-align: right;
+  text-transform: lowercase;
+  letter-spacing: 5.02rem;
+  line-height: 0.8em;
+  color: white;
+  text-shadow: 2px 2px 4px black, 3px 4px 8px #d3d2b2;
+}
+
+.nameIndent {
+  display: inline-block;
+  margin-left: 2vw;
+}
+
+.nameSpacing {
+  letter-spacing: -0.3rem;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.poemlike {
+  max-width: 70vw;
+  font-family: "base-9-sans", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 1.2rem;
+  text-shadow: 2px 2px gainsboro;
+  letter-spacing: -0.02rem;
+  line-height: 1.7em;
+  white-space: pre-wrap;
+}
+
+@media (max-width: 933px) and (orientation: landscape) {
+    .titleShadow {
+  margin-top:15vh;
+}
+}
+
+@media (max-width: 668px) and (orientation: landscape) {
+ .alternateTitleColorBigger {
+  font-size:6.1rem;
+}
+}
+
+@media (max-width: 541px) and (orientation: portrait) {
+
+  .titleShadow {
+  font-size: 2.1rem;
+  letter-spacing: 0.1rem;
+  margin-top:-10vh;
+}
+
+.alternateTitleColor, .alternateTitleColorUppercase .alternateTitleColorTwo {
+  font-size: 3.1rem;
+}
+
+.alternateTitleColorBigger {
+  font-size:6.1rem;
+}
+
+.nameIndent {
+  margin:0;
+}
+
+.nameSpacing {
+  font-size:1.6rem;
+  letter-spacing: -0.2rem;
+}
+
+}
+
+@media (max-width: 376px) and (orientation: portrait) {
+
+    .titleShadow {
+  margin-top:15vh;
+}
+
+.alternateTitleColor, .alternateTitleColorUppercase .alternateTitleColorTwo {
+  font-size: 3.1rem;
+}
+
+.alternateTitleColorBigger {
+  font-size:5.1rem;
+}
+
+}
+
+@media (max-width: 321px) and (orientation: portrait) {
+
+.titleShadow {
+  font-size:1rem;
+}
+
+.specialCursiveOne, .alternateTitleColor, .alternateTitleColorUppercase {
+  font-size: 2.1rem;
+}
+
+.alternateTitleColorBigger {
+  font-size:4.1rem;
+}
+
+}
