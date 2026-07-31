@@ -502,6 +502,10 @@
   background-image: url("../public/images/SymmetryBackground.jpg");
 }
 
+.oldBackground {
+  background-image: url("../public/images/OldBackground.jpg");
+}
+
 @media (width: 1366px) and (height: 1024px) {
   .siteNav > .dropDown > a > button,
   .home,

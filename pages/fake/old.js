@@ -15,7 +15,7 @@ export default function Old() {
   return (
     <>
       <Head />
-      <Header headerBackground="drugBackground" />
+      <Header headerBackground="oldBackground" />
 
       <br />
       <br />
@@ -85,578 +85,309 @@ export default function Old() {
       <br />
       <br />
       <br />
-      <pre className={styles.poem}>{`
-the second you become a drug
-we’ll have to sterilize you
-won’t hesitate to
-she’s charming that way
-tells us everything she’s thinking
-and then turns the volume off
-for us so that we live inside
-a glass box when really
-there’s a glowing diamond
-inside her chest it’s really hot
-it’s giving off deep earth
-there is no life enough for her
-without the store window
-which is distant beetle to her as China
-`}</pre>
+      <h3 className={styles.poemTitle}>Blackberry Pomegranate Target-Brand Seltzers
+</h3>
+      <br />
+      <br />
+      <br />
+      <br />
+      <pre className={styles.poem}>{`Blackberry pomegranate Target-brand seltzers
+shelve a whole shelf in the overfull fridge. 
+Thus I lay away each crank
+unverified personal gnosis.
 
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
+Get more out of Outlook. 
+Alloy illusions around an unperceived
+realm of intelligent order
+another studio could never achieve. 
 
-      <pre className={styles.poemTwo}>
-        {`until that age I’ll be needed
-and will have to look for accommodations
-a hawk could knock me off
-a soldier in the background
-cane off with this dilapidation
-I am here to witness color
-partially it’s my choice
-partially out of abundant circulation
-whereas so many close
-undulate with heat packs
-on their routes will take out
-all their change for heat packs
-if we smash up the globe
-cut it up with scissors like its herbs
-for more surface area
-then I must become liquid
-solvent preservative
-in which to be dipped in
-do not approach the woman who says “Love”
-do not extend your hand with a handshake
-she has said love
-at our fingertips lightning
-not whoosh
-not even stakes holding up hundred year vine
-but to climb
-like a spider
-in the emergence of
-this immaculate port o potty
-be Sumerians now`}
-      </pre>
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <pre className={styles.poemThree}>{`I sit at the other end
-of the telephone
-there is not a cloud in the sky
-I tell myself to move
-slightly to the left
-on the other end
-of the telephone
-where what they have
-learned of me is not yet
-my sun my cloud
-our science fictions
-the child
-cannot be adulterated
-the child
-cannot be mistaken
-for beginner’s luck
-they will have their breath mints
-they will breathe onto the window
-begin the new germ`}</pre>
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <pre className={styles.poemFour}>{`one hippocratic oath to another
-behold an everyday theory
-to having our arms full
-I don’t like knowing where I came from
-but there it is
-you are like a painting
-I could’ve grown up with
-if I were plantagenet
-and wouldn’t replace the problems I had
-with the problems you would bring me
-the population there was unremarkable
-unaccounted for even by the census`}</pre>
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <pre className={styles.poemThree}>{`dextromorphically I’m skipping
-through the chords as index cards are chords
-tritrating newspapers searching for
-an advertisement for perfume
-each one fits exactly the terms
-of my search each one continues
-my search there is a room around you
-Valentina there is a room around you
-exactly the person I was married to
-could be not the person I was married to
-but always is and that is my impunity
-we could cut our sleeping bag in half
-all these sympathizers with jobs
-sharing a big room with bunk beds
-and us in half together
-I appear healthy! I mix powdered cheese
-onto the hot plate! I point to my stomach
-well did you find it?
-no because it turns out
-I am looking for an advertisement
-for perfume that is pre perfume`}</pre>
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <pre className={styles.poemTwo}>{`no one’s passed you by
-physically in the hallway
-then they’re metal
-the stairs leading from the street
-to inside the passageway isn’t
-dilated when all of us and me making eggs
-come through to you dilated
-the hand on the plaque
-with words gridlocked
-very correspondences hand you
-of the fair meters goldilocks
-the tree fell but just missed
-the neglect you come through
-the front door staggering visiting your
-earliest vestibular pigment I know your hand
-caught in a machine which is a human
-wielding a primitive tool
-but your body can’t close in on it
-with or without the only t-shirt`}</pre>
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <pre className={styles.poemFour}>{`all I ever wanted was to wake up
-be perfect
-be mean
-take my little dog to daycare
-instead my cuticles are ripped
-at the edges so that I see
-how outside of me I fan out
-like a gingko leaf
-which is delicate enough
-for lads to put on them
-but not the same way I jump
-out of prostitution where have I been
-when I have not showered
-when I have not spoken to no one
-for thirteen days`}</pre>
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
+All private gods and private ways
+and novel shapes of pizza slice. 
+Evil flies to hand. Mind’s ready-granted
+refusal of a level look at life.
+
+Send the project list. Please 
+search for your name. NO VACANCY sky
+filled with moments that fill you.
+Nothing is missing. Sky fills sky.`}</pre>
+ <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+       <h3 className={styles.poemTitleTwo}>Work On Perceiving More Clearly. 
+</h3>
+      <br />
+      <br />
+      <br />
+      <br />
+      <pre className={styles.poem}>{`I’ve been seeing live packaged crabs
+clawing free of their plastic.
+Four strangers split a pedicab
+that drives into oncoming traffic.
+Work on perceiving more clearly. 
+
+I’ve been seeing starlings in my trash. 
+Direct deposit is not as fun
+as finding misplaced cash. 
+Watch a hand drumming drums. 
+Work on perceiving more clearly.
+
+I’ve been seeing lists of evils
+ranked by how fun they are to do.
+Landscape paintings on easels
+aligned with the actual view.
+Work on perceiving more clearly.
+
+I’ve been seeing tons of text. 
+Text in my phone, text on the wall.
+Every moment melts whatever’s next. 
+I’m reading the print, all of it small.
+Work on perceiving more clearly.
+
+I’ve been seeing my days are numbered; 
+I’ve been weighed and found wanting.
+The funds we unencumbered 
+reduced our need for additional bonding.
+Work on perceiving more clearly.
+
+I’ve been seeing two horizons. 
+I heard of a dude who closed his eyes
+and was dark, and who with his rising
+brought back the sun to the skies.
+Work on perceiving more clearly.
+
+I’ve been seeing electric resistance 
+as rainbows rainbowing from wires.
+It’s always towards non-existence
+that every being aspires.
+Work on perceiving more clearly
+
+I’ve been seeing data and trends. 
+They want to build a new arena
+but they don’t want to spend. 
+Green grows the copper patina.
+Work on perceiving more clearly.
+
+I’ve been seeing the artist look sad
+after shaving his long-standing beard. 
+Being a bear isn’t so bad:
+a holy creature both eaten and feared.
+Work on perceiving more clearly.
+
+I’ve been seeing vegetables mimic death. 
+Initiation involves a unique skin bag 
+which issues the shaman’s breath
+and the novice takes a deep deep drag.
+Work on perceiving more clearly.
+
+I’ve been seeing industrial-strength
+zit removers work like a charm.
+Holding a viper at arm’s length
+won’t stop it from biting your arm.
+Work on perceiving more clearly. 
+
+I’ve been seeing little green corn. 
+We carried death out of the City
+and brought Life back. We learn
+about the slanted mound in Mississippi.
+Work on perceiving more clearly.
+
+I’ve been seeing vape smoke 
+in a dark room turn out to be a man 
+in a light colored shirt. A joke
+is no replacement for a plan. 
+Work on perceiving more clearly. 
+
+I’ve been seeing absent souls. 
+Such departures have occured
+without causing death. Control 
+the trees and you control the birds. 
+Work on perceiving more clearly.
+
+I’ve been seeing the pace of change
+Mean progress glutted and botched.
+All have brutal jobs and strange 
+millions of things to watch.
+Work on perceiving more clearly.
+
+I’ve been seeing dry chill air
+above a wet sidewalk, wet trees.
+Photons fall into disrepair;
+light shakes with the breeze. 
+Work on perceiving more clearly.
+
+I’ve been seeing temples that aren’t temples. 
+It’s only after a full year of working here
+that your benefits include dental. 
+Make sense? Dry your tears. 
+Work on perceiving more clearly.
+
+I’ve been seeing the first ear of corn
+reaped and mourned by the reapers. 
+The cost of never being born
+is the only thing that ever gets cheaper. 
+Work on perceiving more clearly. 
+
+I’ve been seeing falling snow and ice:
+the snow and ice has fallen on me.
+I’m speaking from under the snow and ice
+I looked for and did not see.
+Work on perceiving more clearly.
+
+I’ve been seeing I’m getting the gist. 
+There’s a duck inside. And an egg
+inside the duck, and when you break the egg
+it releases a luminous blue mist.
+Work on perceiving more clearly.
+
+I saw mistletoe cut with a golden sickle
+before they held me down and took my eyes out,  
+Replaced by a pair of nickels.
+I don’t sing, I just shout. 
+Work on perceiving more clearly.`}</pre>
+<br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+       <h3 className={styles.poemTitle}>Elegy Written in the Second of Two City Council Committee on Finance Subject Matter Hearings
+</h3>
+      <br />
+      <br />
+      <br />
+      <br />
+      <pre className={styles.poem}>{`I’m here about what I’m here for. 
+I welcome new change and mindfulness,
+and we lucked out finding such a cheap source.
+We don’t want wasted money, but
+when money is wasted, we want recourse.
+
+I’m here about what I’m here for.
+Recommendations don’t need to be language
+if they’re posted publicly.
+Sometimes the nature of the time that has passed
+calls for a city subsidy.
+
+I’m here about what I’m here for.
+We appreciate the enthusiasm 
+of the measure’s proponents
+for the opportunity of all embracing 
+a looming paradigm moment.
+
+I’m here about what I’m here for.
+You come in here horizontal
+like baby Cupids without wings
+looking for money when we elected you 
+to handle these things.
+
+I’m here about what I’m here for.
+The department heard feedback 
+about upcycling the “dryer lint.” 
+Each speaker will limit their remarks to build equity 
+in the built environment.
+
+I’m here about what I’m here for.
+Bond funding budgets works to close gaps.
+Meetings can’t begin until after that guy talks,
+so we don’t have any. I supported the bill 
+and now I have to beg for sidewalks.
+
+I’m here about what I’m here for.
+I forward continued engagement in process
+combining progressive diverse levels. 
+While these concerns don’t defeat the need for a
+lack of planning, I appreciate brake pedals.
+
+I’m here about what I’m here for.
+What is it in the document 
+that says what we build will last?
+that says I’m not losing money?
+We have a draft. I request the draft. 
+I’m here about what I’m here for.`}</pre>
+ <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+       <h3 className={styles.poemTitleTwo}>Wind On The Mic
+</h3>
+      <br />
+      <br />
+      <br />
+      <br />
+      <pre className={styles.poem}>{`Ocean wake, servants work. 
+White shirts unreal, 
+club music unreal 
+on the onboard mic. 
+
+Can I film the pretty dress? 
+A child conducting an orchestra; 
+climbing up his mom.
+Been pointless so long.
+
+There have always been bastards: but now 
+the bastards are sincere. 
+It's pointless as long
+as wind blows on the mic.
+
+Swat at window shadows. 
+Make fun of Balzac: I'll kill you. 
+The llama quits his job. 
+Bad sound outside.
+
+Mind borrows from matter 
+the perceptions it needs 
+for its own nourishment. 
+Wind harshes sound.
+
+We must put reality in reality. 
+Far from Byzantium, 
+a beautiful sunset, 
+wind on the mic.`}</pre>
+<br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <h3 className={styles.poemTitle}>The World Is Not That Old
+</h3>
+      <br />
+      <br />
+      <br />
+      <br />
+      <pre className={styles.poem}>{`Let me show you how I don’t think. 
+The key thing is the number of key things. 
+Eyes steer bad decisions, as
+Feathers fly the wing. 
+All of matter seeks to return to spirit,
+And spirit to return to matter. 
+The pleroma and us commingling 
+By fucking when we get cold. 
+You fix things by fixing things. 
+The world is not that old. 
+
+People forget important details, 
+Like, “did the flames take human shape?”
+Sunlight not shaken by wind,
+And all the leaves eventually escape. 
+Everyone else felt fine. 
+Every day laden with scraps from the last. 
+A guest who is the gift he brings;
+The teller is one with the told. 
+You fix things by fixing things. 
+The world is not that old.`}</pre>
+ <br />
       <br />
       <br />
       <br />
@@ -665,152 +396,7 @@ for thirteen days`}</pre>
       <br />
       <br />
 
-      <pre className={styles.poemTwo}>
-        {`heavenly heavenly heavenly
-numbers on hand ripped legal pad paper
-a vest in polycotton is asking
-you remember don’t you
-for the musket for the basket
-and for some cream
-I have never been so tempted
-as I think I have been tempted
-to make a concertina the shape of a gasket
-with all of its reproductive value
-fully entrenched how whatever
-grows on one fallen
-will fell another before long
-I bleed onto the stairs
-and then trays rush`}
-      </pre>
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-
-      <pre className={styles.poem}>
-        {`there have been times
-when you needed to race through traffic
-run down the street hailing hailing
-perhaps I’m an eruption too
-I certainly am overtaken
-by my idea of an uneventful morning
-the idea of it being all over
-can only remedy that by putting
-construction paper blue tape
-on the walls stepping back
-reaping the walls
-this happens when there’s no more
-blood left you’ve used it all up
-spit out everything 3/8 inch drill bit
-take the man who helped me
-home with me he’s in the squad now
-a spree will suffice
-a spree a spree come with me`}
-      </pre>
-
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-
+      
       <Footer />
     </>
   );

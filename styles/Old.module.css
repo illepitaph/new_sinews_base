@@ -1,8 +1,13 @@
 .titleShadow {
   font-size: 2.6rem;
   color: snow;
-  text-shadow: 2px 2px black, 4px 4px #00ffff, 6px 6px black, 8px 8px white,
-    10px 10px black, 12px 12px 26px black;
+  text-shadow:
+    2px 2px black,
+    4px 4px #00ffff,
+    6px 6px black,
+    8px 8px white,
+    10px 10px black,
+    12px 12px 26px black;
   letter-spacing: 1rem;
 }
 
@@ -13,7 +18,10 @@
 .nameShadow {
   font-size: 3.7rem;
   color: snow;
-  text-shadow: 2px 2px black, 5px 5px black, 7px 8px white,
+  text-shadow:
+    2px 2px black,
+    5px 5px black,
+    7px 8px white,
     15px 16px 17px #00ffff;
   letter-spacing: 3rem;
 }
@@ -22,7 +30,10 @@
   display: inline-block;
   font-size: 3.7rem;
   color: snow;
-  text-shadow: 2px 2px black, 5px 5px black, 7px 8px white,
+  text-shadow:
+    2px 2px black,
+    5px 5px black,
+    7px 8px white,
     15px 16px 17px #00ffff;
   letter-spacing: 3rem;
   text-transform: uppercase;
@@ -32,7 +43,10 @@
 .inverseNameShadow {
   font-size: 4.1rem;
   color: snow;
-  text-shadow: 1px 1px black, 5px 5px #00ffff, 7px 9px black;
+  text-shadow:
+    1px 1px black,
+    5px 5px #00ffff,
+    7px 9px black;
   text-transform: uppercase;
 }
 
@@ -45,7 +59,10 @@
 .nameShadowSpecial {
   font-size: 3.7rem;
   color: snow;
-  text-shadow: 2px 2px black, 5px 5px black, 7px 8px white,
+  text-shadow:
+    2px 2px black,
+    5px 5px black,
+    7px 8px white,
     15px 16px 17px #00ffff;
   letter-spacing: 2rem;
 }
@@ -53,6 +70,46 @@
 .rightMargin {
   display: inline-block;
   margin-right: 3vw;
+}
+
+.poemTitle {
+  max-width: 70vw;
+  font-family: "lores-9-plus-wide", monospace;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 2.9rem;
+  color: white;
+  text-shadow:
+    1px 2px black,
+    3px 4px #00ffff,
+    5px 6px black,
+    7px 8px white,
+    9px 10px 11px gray;
+  letter-spacing: 0.1rem;
+  line-height: 1.4em;
+  margin-left: 18vw;
+  text-transform: uppercase;
+  transform: rotate(-2deg);
+}
+
+.poemTitleTwo {
+max-width: 70vw;
+  font-family: "lores-9-plus-wide", monospace;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 2.9rem;
+  color: white;
+  text-shadow:
+    1px 2px black,
+    3px 4px #00ffff,
+    5px 6px black,
+    7px 8px white,
+    9px 10px 11px gray;
+  letter-spacing: 0.1rem;
+  line-height: 1.4em;
+  margin-left: 18vw;
+  text-transform: uppercase;
+  transform: rotate(2deg);
 }
 
 .poem {
@@ -67,75 +124,16 @@
   margin-left: 23vw;
 }
 
-.poemTwo {
-  max-width: 70vw;
-  font-family: "base-9-sans", sans-serif;
-  font-weight: 300;
-  font-style: normal;
-  font-size: 1.2rem;
-  text-shadow: 2px 2px gainsboro;
-  letter-spacing: -0.02rem;
-  line-height: 2.7em;
-  margin-left: 46vw;
-}
-
-.poemThree {
-  max-width: 70vw;
-  font-family: "base-9-sans", sans-serif;
-  font-weight: 300;
-  font-style: normal;
-  font-size: 1.2rem;
-  text-shadow: 2px 2px gainsboro;
-  letter-spacing: -0.02rem;
-  line-height: 2.7em;
-  margin-left: 12vw;
-}
-
-.poemFour {
-  max-width: 70vw;
-  font-family: "base-9-sans", sans-serif;
-  font-weight: 300;
-  font-style: normal;
-  font-size: 1.2rem;
-  text-shadow: 2px 2px gainsboro;
-  letter-spacing: -0.02rem;
-  line-height: 2.7em;
-  margin-left: 62vw;
-}
-
 @media (width: 1024px) and (height: 1366px) {
   .poem {
     margin-left: 6vw;
   }
 
-  .poemTwo {
-    margin-left: 18vw;
-  }
-
-  .poemThree {
-    margin-left: 32vw;
-  }
-
-  .poemFour {
-    margin-left: 44vw;
-  }
 }
 
 @media (width: 1024px) and (height: 768px) {
   .poem {
     margin-left: 6vw;
-  }
-
-  .poemTwo {
-    margin-left: 18vw;
-  }
-
-  .poemThree {
-    margin-left: 32vw;
-  }
-
-  .poemFour {
-    margin-left: 44vw;
   }
 }
 
@@ -143,63 +141,17 @@
   .poem {
     margin-left: 6vw;
   }
-
-  .poemTwo {
-    margin-left: 18vw;
-  }
-
-  .poemThree {
-    margin-left: 32vw;
-  }
-
-  .poemFour {
-    margin-left: 44vw;
-  }
 }
 
 @media (max-width: 933px) and (orientation: landscape) {
   .poem {
     margin-left: 6vw;
   }
-
-  .poemTwo {
-    margin-left: 18vw;
-  }
-
-  .poemThree {
-    margin-left: 32vw;
-  }
-
-  .poemFour {
-    margin-left: 44vw;
-  }
 }
 
 @media (max-width: 913px) and (orientation: portrait) {
   .poem {
     margin-left: 6vw;
-  }
-
-  .poemTwo {
-    margin-left: 18vw;
-  }
-
-  .poemThree {
-    margin-left: 30vw;
-  }
-
-  .poemFour {
-    margin-left: 42vw;
-  }
-}
-
-@media (max-width: 761px) and (orientation: landscape) {
-  .poemThree {
-    margin-left: 25vw;
-  }
-
-  .poemFour {
-    margin-left: 30vw;
   }
 }
 
@@ -208,39 +160,27 @@
     line-height: 3rem;
   }
 
-  .poem,
-  .poemTwo,
-  .poemThree,
-  .poemFour {
+  .poem {
     margin-left: 2vw;
     font-size: 1rem;
   }
 }
 
 @media (max-width: 391px) and (orientation: portrait) {
-  .poem,
-  .poemTwo,
-  .poemThree,
-  .poemFour {
+  .poem {
     margin-left: 1vw;
     font-size: 0.9rem;
   }
 }
 
 @media (max-width: 321px) and (orientation: portrait) {
-  .poem,
-  .poemTwo,
-  .poemThree,
-  .poemFour {
+  .poem {
     font-size: 0.78rem;
   }
 }
 
 @media (max-width: 281px) and (orientation: portrait) {
-  .poem,
-  .poemTwo,
-  .poemThree,
-  .poemFour {
+  .poem {
     font-size: 0.7rem;
   }
 }
