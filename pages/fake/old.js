@@ -203,7 +203,7 @@ is no replacement for a plan.
 Work on perceiving more clearly. 
 
 I’ve been seeing absent souls. 
-Such departures have occured
+Such departures have occurred
 without causing death. Control 
 the trees and you control the birds. 
 Work on perceiving more clearly.
