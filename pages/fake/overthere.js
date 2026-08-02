@@ -15,7 +15,7 @@ export default function Over() {
     <>
       <Head />
 
-      <Header headerBackground="personaeBackground" />
+      <Header headerBackground="overthereBackground" />
       <RightGrayTitle>
         <div className={styles.margin}>
           <span className={styles.faintShadowMain}>
@@ -302,7 +302,7 @@ export default function Over() {
         any mainland reports that he was a discard, a quitter. At the earliest
         opportunity, he’d offer his infiltration services. Counter-cells were
         inevitable, even over there. Half the passengers at the meetinghouse
-        could be plants, the sister top of the list.<i>Yeah</i>, <i>bitch</i>.{" "}
+        could be plants, the sister top of the list.<i> Yeah</i>, <i>bitch</i>.{" "}
         <i>I</i>’<i>ve got your number</i>. <i>You and the brother decoy</i>.
         When his legs cramped, his arms took over, treating the ocean as an
         enemy to be thwacked. A grandiose vision of himself as a loner who
