@@ -106,26 +106,19 @@
 }
 
 @media (max-width: 913px) and (orientation: portrait) {
-
-  .marginTwo {
-    margin: -12vh 0 -10vh 0;
-  }
   
 
-  .faintShadowMain, .faintShadowMainTwo, .faintShadowMainThree, .faintShadowMainFour {
-    font-size: 2.7rem;
-    letter-spacing: 0.2rem;
+  .faintShadowMain {
+    font-size: 3.7rem;
   }
 
   .uppercaseFaintShadow,
-  .uppercaseAlternateTitleColor,
-  .faintShadowAncillary,
-  .alternateTitleColorGray {
+  .uppercaseAlternateTitleColor {
     font-size: 2.9rem;
     letter-spacing: 0.2rem;
   }
 
-  .alternateTitleColor, .alternateTitleColorGray {
+  .alternateTitleColor {
     font-size:5.9rem;
   }
 
@@ -193,21 +186,12 @@
   }
 }
 
-@media (width: 540px) and (height: 720px) {
-  .margin {
-    margin-top:-5vh;
-  }
-}
-
-@media (max-width: 415px) and (orientation: portrait) {
-
-  .marginTwo {
-    margin: -12vh 0 -10vh 0;
-  }
+@media (max-width: 541px) and (orientation: portrait) {
   
 
-  .faintShadowMain, .faintShadowMainTwo, .faintShadowMainThree, .faintShadowMainFour {
-    font-size: 2.4rem;
+  .faintShadowMain {
+    margin-top:19vh;
+    font-size: 3.4rem;
     letter-spacing: 0.2rem;
   }
 
@@ -215,16 +199,16 @@
   .uppercaseAlternateTitleColor,
   .faintShadowAncillary,
   .alternateTitleColorGray {
-    font-size: 2.6rem;
+    font-size: 2.9rem;
     letter-spacing: 0.2rem;
   }
   
-  .alternateTitleColor, .alternateTitleColorGray {
+  .alternateTitleColor {
     font-size:3.9rem;
   }
 
-  .authorName {
-    font-size: 3.5rem;
+  .ellipses {
+    letter-spacing:1.3rem;
   }
 
 }
