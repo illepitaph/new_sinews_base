@@ -10,7 +10,9 @@
   display: inline-block;
   margin-left: 4.6vw;
   font-size: 4.9rem;
-  text-shadow: 5px 5px snow, 10px 10px gainsboro;
+  text-shadow:
+    5px 5px snow,
+    10px 10px gainsboro;
   letter-spacing: 1.4rem;
   transform: skew(12deg, 1.4deg);
 }
@@ -23,7 +25,9 @@
   font-family: "bickham-script-pro-3", sans-serif;
   font-size: 14.3rem;
   color: black;
-  text-shadow: 4px 4px snow, 8px 8px gainsboro;
+  text-shadow:
+    4px 4px snow,
+    8px 8px gainsboro;
 }
 
 .alternateTitleColorGray {
@@ -31,13 +35,17 @@
   margin-left: 4vw;
   font-family: "bickham-script-pro-3", sans-serif;
   font-size: 14.3rem;
-  text-shadow: 4px 4px snow, 8px 8px gainsboro;
+  text-shadow:
+    4px 4px snow,
+    8px 8px gainsboro;
 }
 
 .uppercaseAlternateTitleColor {
   font-size: 3.3rem;
   color: black;
-  text-shadow: 4px 4px snow, 8px 8px gainsboro;
+  text-shadow:
+    4px 4px snow,
+    8px 8px gainsboro;
   letter-spacing: 0.4rem;
   text-transform: uppercase;
 }
@@ -65,15 +73,13 @@
   text-align: center;
 }
 
-  .compactProse {
+.compactProse {
   max-width: 50vw;
   margin-left: 7.5vw;
   font-family: "lores-9-plus-wide", monospace;
-
 }
 
 @media (max-width: 933px) and (orientation: landscape) {
-
   .margin {
     margin: -10vh 0 0 7vw;
   }
@@ -81,23 +87,22 @@
   .marginTwo {
     margin: -6vh 0 -10vh 5vw;
   }
-  
 
-  .faintShadowMain, .faintShadowMainTwo, .faintShadowMainThree, .faintShadowMainFour {
-    font-size:3.4rem;
+  .faintShadowMain {
+    font-size: 3.4rem;
     letter-spacing: 1.2rem;
   }
 
   .uppercaseFaintShadow,
   .uppercaseAlternateTitleColor,
-  .faintShadowAncillary,
   .alternateTitleColorGray {
     font-size: 3.9rem;
     letter-spacing: 1.2rem;
   }
 
-  .alternateTitleColor, .alternateTitleColorGray {
-    font-size:8.9rem;
+  .alternateTitleColor,
+  .alternateTitleColorGray {
+    font-size: 8.9rem;
   }
 
   .authorName {
@@ -106,8 +111,6 @@
 }
 
 @media (max-width: 913px) and (orientation: portrait) {
-  
-
   .faintShadowMain {
     font-size: 3.7rem;
   }
@@ -119,7 +122,7 @@
   }
 
   .alternateTitleColor {
-    font-size:5.9rem;
+    font-size: 5.9rem;
   }
 
   .authorName {
@@ -127,9 +130,7 @@
   }
 }
 
-
 @media (max-width: 761px) and (orientation: landscape) {
-
   .margin {
     margin: -10vh 0 0 5vw;
   }
@@ -137,10 +138,12 @@
   .marginTwo {
     margin: -6vh 0 -10vh 3vw;
   }
-  
 
-  .faintShadowMain, .faintShadowMainTwo, .faintShadowMainThree, .faintShadowMainFour {
-    font-size:3.2rem;
+  .faintShadowMain,
+  .faintShadowMainTwo,
+  .faintShadowMainThree,
+  .faintShadowMainFour {
+    font-size: 3.2rem;
     letter-spacing: 1.2rem;
   }
 
@@ -152,13 +155,13 @@
     letter-spacing: 1.2rem;
   }
 
-  .alternateTitleColor, .alternateTitleColorGray {
-    font-size:8.2rem;
+  .alternateTitleColor,
+  .alternateTitleColorGray {
+    font-size: 8.2rem;
   }
 }
 
 @media (max-width: 721px) and (orientation: landscape) {
-
   .margin {
     margin: -10vh 0 0 5vw;
   }
@@ -166,10 +169,12 @@
   .marginTwo {
     margin: -6vh 0 -10vh 3vw;
   }
-  
 
-  .faintShadowMain, .faintShadowMainTwo, .faintShadowMainThree, .faintShadowMainFour {
-    font-size:3rem;
+  .faintShadowMain,
+  .faintShadowMainTwo,
+  .faintShadowMainThree,
+  .faintShadowMainFour {
+    font-size: 3rem;
     letter-spacing: 1rem;
   }
 
@@ -181,56 +186,54 @@
     letter-spacing: 1rem;
   }
 
-  .alternateTitleColor, .alternateTitleColorGray {
-    font-size:7.2rem;
+  .alternateTitleColor,
+  .alternateTitleColorGray {
+    font-size: 7.2rem;
   }
 }
 
 @media (max-width: 541px) and (orientation: portrait) {
-  
-
   .faintShadowMain {
-    margin-top:19vh;
+    margin-top: 19vh;
     font-size: 3.4rem;
     letter-spacing: 0.2rem;
   }
 
   .uppercaseFaintShadow,
   .uppercaseAlternateTitleColor,
-  .faintShadowAncillary,
   .alternateTitleColorGray {
     font-size: 2.9rem;
     letter-spacing: 0.2rem;
   }
-  
+
   .alternateTitleColor {
-    font-size:3.9rem;
+    font-size: 3.9rem;
   }
 
   .ellipses {
-    letter-spacing:1.3rem;
+    letter-spacing: 1.3rem;
   }
 
+  .compactProse {
+    max-width:90vw;
+    margin-left:1vw;
+    font-size: 1rem;
+  }
 }
 
 @media (max-width: 376px) and (orientation: portrait) {
-  
   .margin {
-    margin-top:-5vh;
+    margin-top: -5vh;
   }
-  
 }
 
 @media (max-width: 321px) and (orientation: portrait) {
-  
-
-  .faintShadowMain, .faintShadowMainTwo, .faintShadowMainThree, .faintShadowMainFour {
+  .faintShadowMain {
     font-size: 1.8rem;
   }
 
   .uppercaseFaintShadow,
   .uppercaseAlternateTitleColor,
-  .faintShadowAncillary,
   .alternateTitleColorGray {
     font-size: 2rem;
   }
@@ -238,19 +241,15 @@
   .authorName {
     font-size: 2.6rem;
   }
-
 }
 
 @media (max-width: 281px) and (orientation: portrait) {
-  
-
-  .faintShadowMain, .faintShadowMainTwo, .faintShadowMainThree, .faintShadowMainFour {
+  .faintShadowMain {
     font-size: 1.6rem;
   }
 
   .uppercaseFaintShadow,
   .uppercaseAlternateTitleColor,
-  .faintShadowAncillary,
   .alternateTitleColorGray {
     font-size: 1.8rem;
   }
@@ -258,8 +257,4 @@
   .authorName {
     font-size: 2.6rem;
   }
-
 }
-
-
-
