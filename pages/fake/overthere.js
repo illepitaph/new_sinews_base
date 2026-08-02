@@ -320,16 +320,16 @@ export default function Over() {
         shrill cry of a gull fully woke and reoriented her. She flipped onto her
         back where she was, waiting out the panic. The acrid smell of the camps
         was missing. The constant roil of voices was missing. The door hadn’t
-        been forced in the middle of the night. Okay. Okay. Okay. She was,
-        another day, okay. Okay, but desperately hungry. Spoiled fruit had
-        fueled her last day on the road but there was no more fruit, fresh or
-        spoiled, in her pack. Were they being underfed until the boat arrived on
-        principle or for greed? The caretaker didn’t seem to be a prosperous man
-        though he had treated their precious cash cavalierly, as if such funds
-        meant little to him. At the window she pushed aside the blackout curtain
-        to grey skies, a morning light hesitant and thin. The promised fish and
-        cornbread were hours away. Maybe reading would distract her, her
-        stomach. Maybe.
+        been forced in the middle of the night. <i>Okay</i>. <i>Okay</i>.{" "}
+        <i>Okay</i>. She was, another day, okay. Okay, but desperately hungry.
+        Spoiled fruit had fueled her last day on the road but there was no more
+        fruit, fresh or spoiled, in her pack. Were they being underfed until the
+        boat arrived on principle or for greed? The caretaker didn’t seem to be
+        a prosperous man though he had treated their precious cash cavalierly,
+        as if such funds meant little to him. At the window she pushed aside the
+        blackout curtain to grey skies, a morning light hesitant and thin. The
+        promised fish and cornbread were hours away. Maybe reading would
+        distract her, her stomach. Maybe.
         <br />
         <br />
         The brother left the sister coiled upon herself, furiously asleep.
@@ -744,6 +744,9 @@ export default function Over() {
         her vision, the limping girl read on.
         <br />
         <br />
+        Back in their drafty room, the sister continued to rail. 
+        <br/>
+        <br/>
         The brother dug through his gear for warmer, dryer clothes. His body
         wasn’t registering the race had finished.
         <br />
@@ -931,52 +934,49 @@ export default function Over() {
         Their final day the wind, tumultuous the midnight before, was
         nonexistent, the violet ocean slick as a lake. The old woman now had to
         carry the child when they walked. The child held onto her shoulders,
-        whimpering. <i>I see the moon and the moon sees me</i>, she sang to soothe him,
-        her concentration on and off hampered by the intrusion of the dead words
-        of dead poets. The factional’s head wound had begun to scab over; for
-        exercise now, he did pushups in the sand. The sister and brother had put
-        away their playing cards. In shifts they kept watch on the far end of
-        the beach, the fishermen’s route. In their minds it had become more
-        dangerous territory than the ridge above. Confident the boat would come
-        before dawn, the caretaker cooked what he took to be the final communal
-        meal for this group of passengers, looking forward to eating solo once
-        the job was done.
-        <br/>
-        <br/>
-        The limping girl had spent the afternoon barricaded in her new room, the 
+        whimpering. <i>I see the moon and the moon sees me</i>, she sang to
+        soothe him, her concentration on and off hampered by the intrusion of
+        the dead words of dead poets. The factional’s head wound had begun to
+        scab over; for exercise now, he did pushups in the sand. The sister and
+        brother had put away their playing cards. In shifts they kept watch on
+        the far end of the beach, the fishermen’s route. In their minds it had
+        become more dangerous territory than the ridge above. Confident the boat
+        would come before dawn, the caretaker cooked what he took to be the
+        final communal meal for this group of passengers, looking forward to
+        eating solo once the job was done.
+        <br />
+        <br />
+        The limping girl had spent the afternoon barricaded in her new room, the
         mattress shoved against the door. When twilight tarred the big room, the
-        rest of the passengers also retreated upstairs, the factional lagging 
-        behind. Outside the limping girl’s vacated room, he stopped, pushed opened 
-        the door, snickered. The mattress still stank of piss.
-        <br/>
-        <br/>
-        They were all sleeping when the boat’s bobbing lights appeared from behind
-        the rocks, even the sister. The limping girl had slipped into dream clutching 
-        the rusty screwdriver. To wake the lot the caretaker walked the corridor, banging 
-        two kitchen pans together.
-         <br/>
-        <br/>
-        “Hurry up!” the caretaker shouted.  
-          <br/>
-        <br/>
-        The mattress was in the limping girl’s way. She had to repack the beach 
+        rest of the passengers also retreated upstairs, the factional lagging
+        behind. Outside the limping girl’s vacated room, he stopped, pushed
+        opened the door, snickered. The mattress still stank of piss.
+        <br />
+        <br />
+        They were all sleeping when the boat’s bobbing lights appeared from
+        behind the rocks, even the sister. The limping girl had slipped into
+        dream clutching the rusty screwdriver. To wake the lot the caretaker
+        walked the corridor, banging two kitchen pans together.
+        <br />
+        <br />
+        “Hurry up!” the caretaker shouted.
+        <br />
+        <br />
+        The mattress was in the limping girl’s way. She had to repack the beach
         umbrellas sketch.
-         <br/>
-        <br/>
-        They assembled on the beach in the order they had arrived at the 
-        meetinghouse, the old woman and child, the sister and brother, the 
-        factional. Rushing past the caretaker, the limping girl did not realize 
+        <br />
+        <br />
+        They assembled on the beach in the order they had arrived at the
+        meetinghouse, the old woman and child, the sister and brother, the
+        factional. Rushing past the caretaker, the limping girl did not realize
         he had exchanged kitchen pans for a shovel. The old woman and child fell
-        first, together. The factional’s last expression was surprise, the 
-        sister’s fury, the brother’s something closer to regret. The limping 
-        girl had been running frantically toward the shoreline. Now she 
+        first, together. The factional’s last expression was surprise, the
+        sister’s fury, the brother’s something closer to regret. The limping
+        girl had been running frantically toward the shoreline. Now she
         frantically ran, tried to run, toward the slope in unhelpful sand. Even
-        from a rocking boat, even in darkness, the over there boatmen were expert 
-        marksmen. None required an unmoving target. Very likely they appreciated 
-        the challenge. She did not get far, the limping girl. 
-
-
-
+        from a rocking boat, even in darkness, the over there boatmen were
+        expert marksmen. None required an unmoving target. Very likely they
+        appreciated the challenge. She did not get far, the limping girl.
       </StandardProse>
       <br />
       <br />
