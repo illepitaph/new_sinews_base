@@ -159,6 +159,12 @@
   .alternateTitleColorGray {
     font-size: 8.2rem;
   }
+
+   .compactProse {
+    max-width:90vw;
+    margin-left:1vw;
+    font-size: 1rem;
+  }
 }
 
 @media (max-width: 721px) and (orientation: landscape) {
