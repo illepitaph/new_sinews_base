@@ -1,7 +1,14 @@
 .titleShadow {
   color: white;
   font-size: 7.9rem;
-  text-shadow: 1px 1px black, 2px 2px white, 3px 3px #aaf0d1, 4px 4px black, 5px 5px white, 6px 6px #aaf0d1, 4px 4px 22px black;
+  text-shadow:
+    1px 1px black,
+    2px 2px white,
+    3px 3px #aaf0d1,
+    4px 4px black,
+    5px 5px white,
+    6px 6px #aaf0d1,
+    4px 4px 22px black;
   text-transform: uppercase;
   opacity: 0.6;
 }
@@ -9,13 +16,25 @@
 .inverseShadow {
   font-size: 7.1rem;
   color: black;
-  text-shadow: 1px 1px snow, 2px 2px #00ffff, 3px 3px black, 4px 4px snow, 5px 5px #00ffff, 6px 6px black, 8px 8px #00ffff, 11px 11px white, 14px 14px 19px gainsboro;
+  text-shadow:
+    1px 1px snow,
+    2px 2px #00ffff,
+    3px 3px black,
+    4px 4px snow,
+    5px 5px #00ffff,
+    6px 6px black,
+    8px 8px #00ffff,
+    11px 11px white,
+    14px 14px 19px gainsboro;
 }
 
 .inverseShadowAlternate {
   font-size: 4.1rem;
   color: black;
-  text-shadow: 4px 4px snow, 5px 5px black, 6px 6px gainsboro;
+  text-shadow:
+    4px 4px snow,
+    5px 5px black,
+    6px 6px gainsboro;
   opacity: 0.8;
   text-transform: uppercase;
 }
@@ -23,7 +42,9 @@
 .mintAlternate {
   font-size: 4.1rem;
   color: #aaf0d1;
-  text-shadow: 4px 4px snow, 5px 5px 15px black;
+  text-shadow:
+    4px 4px snow,
+    5px 5px 15px black;
   opacity: 0.6;
   text-transform: uppercase;
 }
@@ -31,7 +52,9 @@
 .mintAlternateLarge {
   font-size: 6.8rem;
   color: #aaf0d1;
-  text-shadow: 4px 4px snow, 5px 5px 15px black;
+  text-shadow:
+    4px 4px snow,
+    5px 5px 15px black;
   opacity: 0.6;
   text-transform: uppercase;
 }
@@ -40,64 +63,80 @@
   font-family: "bickham-script-pro-3", sans-serif;
   font-size: 6.3rem;
   color: black;
-  text-shadow: 4px 4px snow, 8px 8px gainsboro;
+  text-shadow:
+    4px 4px snow,
+    8px 8px gainsboro;
 }
-
 
 .uppercase {
   text-transform: uppercase;
 }
 
 .pushLeft {
-  display:inline-block;
-  margin-right:23vw;
+  display: inline-block;
+  margin-right: 23vw;
 }
 
 .pushRight {
-  display:inline-block;
-  margin-left:17vw;
+  display: inline-block;
+  margin-left: 17vw;
 }
 
 .skew {
-    display: inline-block;
+  display: inline-block;
   transform: skew(19deg, 1.4deg);
 }
 
 .skew {
-    display: inline-block;
+  display: inline-block;
   transform: skew(-29deg, -1.4deg);
 }
 
-.poemTitleContainer {
+.poemTitle {
   max-width: 70vw;
-  font-size: 2rem;
   font-family: "lores-9-plus-wide", monospace;
-  text-shadow: 1px 1px snow, 8px 8px #aaf0d1;
-  margin-left: 7vw;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 2.6rem;
+  color:white;
+  text-shadow:
+    1px 1px black,
+    2px 2px white,
+    3px 3px #aaf0d1,
+    4px 4px black,
+    5px 5px white,
+    6px 6px #aaf0d1,
+    7px 7px white, 
+    8px 8px black,
+    11px 11px 22px black;
+
+  line-height: 1.4em;
+  margin-left: 18vw;
+  text-transform: lowercase;
 }
 
 .poemOne {
-  display:flex;
-  flex-flow:row wrap;
-  justify-content:center;
-  gap:4vw;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  gap: 4vw;
   max-width: 90vw;
-  margin-left:1vw;
+  margin-left: 1vw;
   font-family: "base-9-sans", sans-serif;
   font-weight: 300;
   font-style: normal;
   font-size: 3.7rem;
   text-shadow: 2px 2px gainsboro;
   letter-spacing: -0.02rem;
-  line-height: 1.7em;
+  line-height: 1.3em;
   text-align: center;
 }
 
 .poemTwo {
-     display:flex;
-  flex-flow:row wrap;
-  justify-content:center;
-  gap:4vw;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  gap: 4vw;
   max-width: 95vw;
   font-family: "base-9-sans", sans-serif;
   font-weight: 300;
@@ -105,52 +144,49 @@
   font-size: 3.7rem;
   text-shadow: 2px 2px gainsboro;
   letter-spacing: -0.02rem;
-  line-height: 1.7em;
+  line-height: 1.3em;
   text-align: center;
-
 }
 
 .poemThree {
-     display:flex;
-  flex-flow:row wrap;
-  justify-content:center;
-  gap:4vw;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  gap: 4vw;
   max-width: 75vw;
-  margin-left:10vw;
+  margin-left: 10vw;
   font-family: "base-9-sans", sans-serif;
   font-weight: 300;
   font-style: normal;
   font-size: 3.7rem;
   text-shadow: 2px 2px gainsboro;
   letter-spacing: -0.02rem;
-  line-height: 1.7em;
+  line-height: 1.3em;
   text-align: center;
-
 }
 
 .poemFour {
-     display:flex;
-  flex-flow:row wrap;
-  justify-content:flex-start;
-  gap:4vw;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+  gap: 4vw;
   max-width: 75vw;
-  margin-left:17vw;
+  margin-left: 11vw;
   font-family: "base-9-sans", sans-serif;
   font-weight: 300;
   font-style: normal;
   font-size: 3.7rem;
   text-shadow: 2px 2px gainsboro;
   letter-spacing: -0.02rem;
-  line-height: 1.7em;
+  line-height: 1.3em;
   text-align: center;
-
 }
 
 .poemFive {
-     display:flex;
-  flex-flow:row wrap;
-  justify-content:flex-end;
-  gap:4vw;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-end;
+  gap: 4vw;
   max-width: 85vw;
   font-family: "base-9-sans", sans-serif;
   font-weight: 300;
@@ -158,11 +194,9 @@
   font-size: 3.7rem;
   text-shadow: 2px 2px gainsboro;
   letter-spacing: -0.02rem;
-  line-height: 1.7em;
+  line-height: 1.3em;
   text-align: center;
-
 }
-
 
 .authorName {
   font-size: 6.1rem;
@@ -170,7 +204,7 @@
   font-weight: 400;
   text-align: right;
   text-transform: lowercase;
-  letter-spacing:1.5rem;
+  letter-spacing: 1.5rem;
 }
 
 .ellipses {

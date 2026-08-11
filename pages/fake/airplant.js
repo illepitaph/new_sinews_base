@@ -208,6 +208,10 @@ export default function Airplant() {
       <br />
       <br />
       <br />
+
+      <h3 className={styles.poemTitle}>date; time; chicago, il 60608</h3>
+      <br />
+      <br />
       <div className={styles.poemOne}>
         <div>part1</div>
         <div>part2</div>
@@ -239,6 +243,14 @@ export default function Airplant() {
         <div>part12</div>
         <div>part13</div>
       </div>
+   <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
 
       <Footer />
     </>
