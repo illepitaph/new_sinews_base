@@ -510,6 +510,10 @@
   background-image: url("../public/images/OverthereBackground.jpg");
 }
 
+.airplantBackground {
+  background-image: url("../public/images/AirplantBackground.jpg");
+}
+
 
 @media (width: 1366px) and (height: 1024px) {
   .siteNav > .dropDown > a > button,

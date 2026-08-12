@@ -14,7 +14,7 @@ Airplant.image = "https://www.newnewsinews.com/images/GriffinBackground.jpg";
 export default function Airplant() {
   return (
     <>
-      <Header headerBackground="griffinBackground" />
+      <Header headerBackground="airplantBackground" />
 
       <CenterGrayTitle>
         <span className={styles.titleShadow}>
