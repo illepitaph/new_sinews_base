@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "arrow-keys-react": "^1.0.6",
+    "axios": "^1.19.0",
     "next": "^14.2.33",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
