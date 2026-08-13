@@ -1,7 +1,10 @@
 import Head from "next/head";
 import "/styles/globals.css";
+import { QueryClient, QueryClientProvider } from "react-query";
 
 function MyApp({ Component, pageProps }) {
+  const queryClient = new QueryClient();
+
   return (
     <>
       <Head>
@@ -26,7 +29,9 @@ function MyApp({ Component, pageProps }) {
           key="ogtitle"
         />
       </Head>
-      <Component {...pageProps} />
+      <QueryClientProvider client={queryClient}>
+        <Component {...pageProps} />
+      </QueryClientProvider>
     </>
   );
 }
