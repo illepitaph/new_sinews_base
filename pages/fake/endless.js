@@ -17,23 +17,8 @@ export default function Endless() {
 
       <Header headerBackground="endlessBackground" />
       <br />
-      <br />
-      <br />
-      <br />
 
       <pre className={styles.title}>
-        <span className={styles.margin}></span>
-        <span className={styles.uppercase}>a</span>
-        <span className={styles.special}>
-          {" "}
-          <span className={styles.uppercase}>
-            <i>ll</i>
-          </span>
-        </span>
-        <br />
-        <br />
-        <br />
-        <br />
         <span className={styles.special}>
           <span className={styles.cursive}>
             <i>a</i>
@@ -68,10 +53,12 @@ export default function Endless() {
           <span className={styles.special}>s </span>
           <span className={styles.cursiveThree}>
             <span className={styles.uppercase}>s</span>
-            <br/>
+            <br />
             <span className={styles.marginFive}></span>
-            <span className={styles.special}>w </span> a
-            <span className={styles.cursiveTwo}> l</span>{" "}
+            <span className={styles.special}>
+              <span className={styles.uppercase}>w </span>
+            </span>{" "}
+            a<span className={styles.cursiveTwo}> l</span>{" "}
             <span className={styles.specialTwo}>l </span>
             <i>s</i>
           </span>
@@ -286,13 +273,13 @@ export default function Endless() {
         receding behind me.”
         <br />
         <br />
-        “And so—“
+        “And so—”
         <br />
         <br />
         “And so I was able to duck under as he sought to sunder, with his prick
         pressed against me, he fell to the side when we made that space between
         us, his hand slid to ground as I slipped just around and heard him
-        stumble. I hope his dick was dislodged on that wall when—“
+        stumble. I hope his dick was dislodged on that wall when—”
         <br />
         <br />
         “You heard me?”
@@ -300,14 +287,14 @@ export default function Endless() {
         <br />
         “Heard you? I heard you, felt you, too, feeding me those lines as if
         from offstage, or as an aside meant for my mind alone. I saw the subtext
-        and was able to—“
+        and was able to—”
         <br />
         <br />
         “You heard me . . .”
         <br />
         <br />
         “I already said I heard you. What is this, can you not hear me? Perhaps
-        see, then, or feel my foot on your shin—“
+        see, then, or feel my foot on your shin—”
         <br />
         <br />
         “Ow! What is this?”
@@ -330,7 +317,7 @@ export default function Endless() {
         our own, a heavier footfall racing to overtake us.
         <br />
         <br />
-        “Shit, I think I hear—“
+        “Shit, I think I hear—”
         <br />
         <br />
         “I hear it too. Allons-y, vite, or vamanos if you please, we must not
@@ -394,7 +381,7 @@ export default function Endless() {
         the scene of an office within.
         <br />
         <br />
-        “This looks like—“
+        “This looks like—”
         <br />
         <br />
         “Just get in.”
