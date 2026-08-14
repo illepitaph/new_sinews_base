@@ -15,7 +15,7 @@ export default function Endless() {
     <>
       <Head />
 
-      <Header headerBackground="shortbreadBackground" />
+      <Header headerBackground="endlessBackground" />
       <br />
       <br />
       <br />

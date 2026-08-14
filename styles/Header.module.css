@@ -514,6 +514,10 @@
   background-image: url("../public/images/AirplantBackground.jpg");
 }
 
+.endlessBackground {
+  background-image: url("../public/images/EndlessBackground.jpg");
+}
+
 
 @media (width: 1366px) and (height: 1024px) {
   .siteNav > .dropDown > a > button,
