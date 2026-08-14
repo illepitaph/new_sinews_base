@@ -44,7 +44,7 @@ export default function Airplant() {
         <br />
         <div className={styles.poemOne}>
           <div>{`${currentTempObject["physiologicalState"][Number(String(currentHumidity).slice(0, 1))]}`}</div>
-          <div>part2</div>
+          <div>{`${currentTempObject["affectiveState"][Number(String(currentHumidity).slice(1, 2))]}`}</div>
           <div>part3</div>
         </div>
         <br />
