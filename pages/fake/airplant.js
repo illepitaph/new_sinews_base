@@ -19,11 +19,15 @@ export default function Airplant() {
   // 51 Bacliff weather station
   const STATION_ID = "011CE";
 
+  function cToF(celsiusTemp) {
+    return (celsiusTemp * 9) / 5 + 32;
+  }
+
   function generatePoem(weatherData) {
     var currentProperties = weatherData.data.data["properties"];
 
     var currentHumidity = currentProperties["relativeHumidity"]["value"];
-    var currentTemp = currentProperties["temperature"]["value"];
+    var currentTemp = cToF(currentProperties["temperature"]["value"]);
     var currentTempObject = airPlantGrids["midTempGrid"];
 
     if (Number(currentTemp) > 75) {
