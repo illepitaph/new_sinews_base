@@ -68,6 +68,7 @@ export default function Endless() {
           <span className={styles.special}>s </span>
           <span className={styles.cursiveThree}>
             <span className={styles.uppercase}>s</span>
+            <br/>
             <span className={styles.marginFive}></span>
             <span className={styles.special}>w </span> a
             <span className={styles.cursiveTwo}> l</span>{" "}
