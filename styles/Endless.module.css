@@ -1,0 +1,185 @@
+.title {
+  font-family: "lores-9-minus-narrow";
+  font-size: 3.9rem;
+  text-align: center;
+  text-shadow:
+    1px 1px white,
+    2px 2px black,
+    3px 3px white,
+    4px 4px black;
+  text-transform: lowercase;
+}
+
+.titleTwo {
+  font-family: "lores-9-minus-narrow";
+  font-size: 2.6rem;
+  text-align: center;
+  text-shadow:
+    1px 1px white,
+    2px 2px black,
+    3px 3px white,
+    4px 4px black,
+    5px 5px white,
+    6px 6px black;
+  text-transform: uppercase;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.uppercaseEnlarged {
+  font-size: 3.9rem;
+  text-transform: uppercase;
+}
+
+.cursive {
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-size: 6.3rem;
+  color: black;
+  text-shadow:
+    4px 4px snow,
+    8px 8px gainsboro;
+}
+
+.cursiveTwo {
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-size: 6.3rem;
+  color: white;
+  text-shadow:
+    1px 1px black,
+    2px 2px white,
+    3px 3px 13px black;
+}
+
+.cursiveThree {
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-size: 6.3rem;
+  text-shadow:
+    1px 1px white,
+    2px 2px black;
+}
+
+.special {
+  font-family: "lores-9-plus-wide", monospace;
+  font-size: 2.6rem;
+  color: white;
+  text-shadow:
+    1px 1px black,
+    2px 2px white,
+    3px 3px black,
+    4px 4px white,
+    black 5px 5px;
+  text-transform: lowercase;
+}
+
+.specialTwo {
+  font-family: "lores-9-plus-wide", monospace;
+  font-size: 2.6rem;
+  color: white;
+  text-shadow:
+    1px 1px black,
+    2px 2px white,
+    3px 3px black,
+    4px 4px white,
+    black 5px 5px;
+  text-transform: uppercase;
+}
+
+.margin {
+  display: inline-block;
+  margin-left: 22vw;
+}
+
+.marginTwo {
+  display: inline-block;
+  margin-left: 3vw;
+}
+
+.marginThree {
+  display: inline-block;
+  margin-left: 29vw;
+}
+
+.marginFour {
+  display: inline-block;
+  margin-right: 49vw;
+}
+
+.sectionBreak {
+  font-family: "lores-9-plus-wide", monospace;
+  font-weight: 700;
+  font-size: 9.2rem;
+  color: white;
+  text-shadow:
+    1px 3px black,
+    3px 5px white,
+    5px 7px black,
+    7px 9px white,
+    9px 11px black,
+    11px 13px white,
+    13px 15px black;
+  text-align: center;
+}
+
+.compactProse {
+  max-width: 45vw;
+  margin-left: 12.5vw;
+  font-size: 1rem;
+  line-height: 1.2rem;
+}
+
+@media (max-width: 835px) and (orientation: portrait) {
+  .margin,
+  .marginTwo {
+    margin-left: 5vw;
+  }
+}
+
+@media (max-width: 813px) and (orientation: landscape) {
+  .margin,
+  .marginTwo {
+    margin-left: 2vw;
+  }
+
+  .titleTwo {
+    font-size: 0;
+    opacity: 0;
+  }
+}
+
+@media (max-width: 541px) and (orientation: portrait) {
+  .margin,
+  .marginTwo {
+    margin-left: 2vw;
+  }
+
+  .title,
+  .special,
+  .specialTwo {
+    font-size: 1.8rem;
+  }
+
+  .titleTwo {
+    font-size: 0;
+    opacity: 0;
+  }
+}
+
+@media (max-width: 361px) and (orientation: portrait) {
+  .title,
+  .titleTwo,
+  .special,
+  .specialTwo {
+    font-size: 1.7rem;
+  }
+}
+
+@media (max-width: 361px) and (orientation: portrait) {
+  .title,
+  .titleTwo,
+  .special,
+  .specialTwo {
+    font-size: 1.5rem;
+  }
+}
