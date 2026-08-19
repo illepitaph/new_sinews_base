@@ -28,22 +28,34 @@ export default function Spell() {
       <br />
       <CenterBlackTitle>
         <span className={styles.titleShadow}>
-          <span className={styles.uppercase}>l</span><br/>
-          <span className={styles.fade}>i</span><br/>
-          <i>o</i><br/>
-          <span className={styles.blueUpper}>l</span><br/>
-          <span className={styles.uppercase}><i>a</i></span><br/><br/><br/><br/>m
-          <span className={styles.fadeUpper}>a</span>
-          <i>t<span className={styles.blue}>t</span></i>
+          <span className={styles.uppercase}>l</span>
+          <br />
+          <span className={styles.fade}>i</span>
+          <br />
+          <i>o</i>
+          <br />
+          <span className={styles.blueUpper}>l</span>
+          <br />
+          <span className={styles.uppercase}>
+            <i>a</i>
+          </span>
+          <br />
+          <br />
+          <br />
+          <br />m<span className={styles.fadeUpper}>a</span>
+          <i>
+            t<span className={styles.blue}>t</span>
+          </i>
           <span className={styles.uppercase}>
             h<i>e </i>
           </span>
-         <span className={styles.blue}>i</span>
+          <span className={styles.blue}>i</span>
           <span className={styles.uppercase}>s</span>
           <span className={styles.fadeUpper}>++</span>
         </span>
       </CenterBlackTitle>
 
+      h<br />
       <br />
       <br />
       <br />
@@ -56,7 +68,6 @@ export default function Spell() {
       <br />
       <br />
       <br />
-           <br />
       <br />
       <br />
       <br />
@@ -68,7 +79,7 @@ export default function Spell() {
       <br />
       <br />
       <br />
-           <br />
+      <br />
       <br />
       <br />
       <br />
@@ -87,7 +98,7 @@ export default function Spell() {
       <br />
       <br />
       <br />
-          <br />
+      <br />
       <br />
       <br />
       <br />
@@ -96,7 +107,7 @@ export default function Spell() {
       <div className={styles.poemBox}>
         <pre className={styles.poem}>
           <br />
-          {`World without end!
+          {`World witout end!
 However it falls!
 The aesthetics of my politics are not for sale!
 I wonder about these mouldy webpages like all the time!
@@ -121,12 +132,12 @@ I see the double bind in the sky!
 And the rest is natural history!`}
         </pre>
       </div>
-        <br />
       <br />
       <br />
       <br />
       <br />
-          <br />
+      <br />
+      <br />
       <br />
       <br />
       <br />
@@ -142,12 +153,12 @@ And who am I to be horny tonight?
 Likewise?`}
         </pre>
       </div>
-       <br />
       <br />
       <br />
       <br />
       <br />
-          <br />
+      <br />
+      <br />
       <br />
       <br />
       <br />
@@ -190,7 +201,186 @@ All he could do was blow her nose`}
       <br />
       <br />
       <br />
-  
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+
+      <h3 className={styles.poemTitle}>[<span className={styles.fadeLower}>from</span> At The End of A Form]</h3>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <div className={styles.poemBox}>
+        <pre className={styles.poem}>
+          <br />
+          {`At the end of a form           a gift keeps on giving        the task keeps on taking    the
+shake keeps on shaking     timing keeps on timing       rhyming keeps on vibing
+           mining keeps the mine in   forming by forming in       shining keeps on
+dashing        the show keeps on showing          slowing on keeps speeding             the
+breaks keep on breaking    I keep on needing one                   keep on needing another
+           in the day that keeps on     dying the star keeps     on shivering in hope of the
+           gift that keeps on giving    love that keeps on loving  mother keeps mothering
+insistence insisting              the fuck keeps on fucking           the fucking on fucking
+           the take keeps on taking    shower keeps on showing               tangens keep on
+tangenting     the end keeps on ending   the sequence sequencing the elaborating
+           keeps on belabouring           the gift keeps on giving                 the giving and
+giving            the spell keeps on casting               the capture keeps on keeping`}
+        </pre>
+      </div>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+          <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+          <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+       <div className={styles.poemBox}>
+        <pre className={styles.poem}>
+          <br />
+          {`At the end of a formwhat weighs air      in the nigght oo      r what weiighs 1      d0wn
+thaet’s up      might be the scale lb                    off same same same
+            same sasame linen              the rokenness                  of the wager b a wor
+            king condition be    excsive jelly   tasti mhhm tas      ti abstract elli          I had
+been counting                     on some a raate                  dinners and yet        the sc1le
+hd congealed            EVERRYTHING                        into a cake bby vaas                    tli
+leavn out`}
+        </pre>
+      </div>
+         <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+          <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+          <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+       <div className={styles.poemBox}>
+        <pre className={styles.poem}>
+          <br />
+          {`At the end of a form         at that red tat at the         fat end that end that well
+            at that end that that ex     act that at that gnat’s cock        that bratty flat cat
+a          bit chit chat can’t kill that             form at said end went that            stable fable
+rata                 tata have you met yet                     well when was that you’ll have
+            to met again or meet            on my mark here’s the key                         to the end
+of that what             are we back snatched from scratch     snatched the snack
+perhaps per              chance there’s a mat a stale        stair mat on which one could
+           step step back and step step`}
+        </pre>
+      </div>
+ <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+
+      <h3 className={styles.poemTitle}>[At Night, Sleep Tight]</h3>
+      <br />
+      <br />
       <br />
       <br />
       <br />

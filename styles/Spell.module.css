@@ -22,6 +22,12 @@
   opacity: 0.3;
 }
 
+.fadeLower {
+  text-transform: lowercase;
+  opacity: 0.3;
+}
+
+
 .fadeUpper {
   text-transform: uppercase;
   opacity: 0.3;
