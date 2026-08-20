@@ -65,13 +65,14 @@
 
 .proseBox {
   max-width: 60vw;
+  margin-left: 19vw;
+  font-size:1.25rem;
   font-family: "base-9-sans", sans-serif;
   font-weight: 300;
   font-style: normal;
   text-shadow: 2px 2px gainsboro;
   letter-spacing: -0.02rem;
   line-height: 1.7em;
-  margin-left: 19vw;
 }
 
 .poem {

@@ -107,8 +107,7 @@ export default function Spell() {
 However it falls!
 The aesthetics of my politics are not for sale!
 I wonder about these mouldy webpages like all the time!
-In this archive you shall encounter some genuine lovers but don’t expect too many
-other things!
+In this archive you shall encounter some genuine lovers but don’t expect too many other things!
 It’s giving me the ick how you continue to grope that screen of yours!
 Can’t you just finally own up to the good life!
 It’s never too late to grow up!
@@ -331,7 +330,7 @@ leavn out`}
             at that end that that ex     act that at that gnat’s cock        that bratty flat cat
 a          bit chit chat can’t kill that             form at said end went that            stable fable
 rata                 tata have you met yet                     well when was that you’ll have
-            to met again or meet            on my mark here’s the key                         to the end
+            to met again or meet                       on my mark here’s the key              to the end
 of that what             are we back snatched from scratch     snatched the snack
 perhaps per              chance there’s a mat a stale        stair mat on which one could
            step step back and step step`}
