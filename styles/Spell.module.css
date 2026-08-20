@@ -74,6 +74,17 @@
   white-space: pre-line;
 }
 
+.proseBox {
+  max-width: 60vw;
+  font-family: "base-9-sans", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  text-shadow: 2px 2px gainsboro;
+  letter-spacing: -0.02rem;
+  line-height: 1.7em;
+  margin-left: 19vw;
+}
+
 .poem {
   font-family: "base-9-sans", sans-serif;
   font-weight: 300;

@@ -2,11 +2,7 @@ import Head from "next/head";
 import Header from "../../components/header.js";
 import LeftBlackTitle from "../../components/leftBlackTitle.js";
 import CenterBlackTitle from "../../components/centerBlackTitle.js";
-import Image from "next/legacy/image";
-import Memory1 from "../../public/images/Memory1.jpg";
-import Memory2 from "../../public/images/Memory2.jpg";
-import Memory3 from "../../public/images/Memory3.jpg";
-import Memory4 from "../../public/images/Memory4.jpg";
+import StandardProse from "../../components/standardProse.js";
 import Footer from "../../components/footer.js";
 import styles from "../../styles/Spell.module.css";
 Spell.title =
@@ -379,6 +375,7 @@ perhaps per              chance there’s a mat a stale        stair mat on whic
       <br />
 
       <h3 className={styles.poemTitle}>[At Night, Sleep Tight]</h3>
+ <br />
       <br />
       <br />
       <br />
@@ -388,7 +385,48 @@ perhaps per              chance there’s a mat a stale        stair mat on whic
       <br />
       <br />
       <br />
-      <br />
+      <div className={styles.proseBox}>
+        <StandardProse>
+          Cement rolls down the sturdy hills and it really doesn’t turn anyone on. I won’t
+remember that look in your eyes when you last told me to turn it down a bit. We both
+immediately knew it was a vibe, the sort that comes out of a blasted finisher. In the end
+there were no constraints and we were free to roam around your grandmother’s
+meticulously maintained diaries.
+<br/>
+<br/>
+In the archives, I found some mashed envelopes. They had no signature and no
+devotion, let alone benevolence, stamped onto their front. The backs however…That
+was a different story altogether and I didn’t dare to drag you into it. Nor did I drag the
+touchy subject we were dancing around in synch. Our rotations resembled the
+movement of the tongue fingering some unwanted debris from the towers of chalk.
+<br/>
+<br/>
+When all of this becomes too poetic, just run. You can run like a policewoman after
+being catcalled. This will block the noise, and it should elevate the tantrums thrown
+into the closet earlier as well as the stick figures I had made from scratch. In the caves
+shone the vivid light of a tank which was, you know, just passing by. We huddled into
+the corner, and believe it or not, the cracks in the air made for the night of our lives.
+<br/>
+<br/>
+Indeed, cracking was part of the theme you were commissioned to do a dance piece
+about. Not really about, rather on, or I’d even say over. You know: salacious at best,
+luscious at worst. When you first called me lukewarm, I knew we weren’t going to last.
+At least not much longer than the next commemoration meeting, until which I had to
+regain composure, at least to the outside world which, more often than not, I found by
+shoving the t-shirt up my nipples and inserting the glasses into my eyes.
+<br/>
+<br/>
+As if these words could touch anything in the interiority of your space, as if they could
+intrude into a private cabin which smelled as if it hadn’t been opened since the
+scholastic period! I bet they used to write the book of nature here when I last checked!
+These days, as you are painfully aware, I don’t have the time to check anything
+anymore amidst all the absenting I make myself go through every other month in the
+hope to not say anything but to do so verbosely, like the child who would run down the
+stairs over and over again just to inform their parents about their inability to sleep during
+the reels. I know you would not get involved and it was on me to sweep the shards that
+dropped from their skirt.
+        </StandardProse>
+      </div>
       <Footer />
     </>
   );
