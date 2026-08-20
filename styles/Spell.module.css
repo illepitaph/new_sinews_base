@@ -361,6 +361,10 @@
     font-size:0.95rem;
     white-space:pre-wrap;
   }
+
+  .proseBox {
+    font-size: 9.95rem;
+  }
 }
 
 @media (max-width: 854px) and (orientation: landscape) {
