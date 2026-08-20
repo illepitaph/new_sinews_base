@@ -15,7 +15,7 @@ Spell.image = "https://www.newnewsinews.com/images/MemoryBackground.jpg";
 export default function Spell() {
   return (
     <>
-      <Header headerBackground="memoryBackground" />
+      <Header headerBackground="spellBackground" />
       <br />
       <br />
       <br />
@@ -51,7 +51,7 @@ export default function Spell() {
         </span>
       </CenterBlackTitle>
 
-      h<br />
+      <br />
       <br />
       <br />
       <br />
@@ -386,7 +386,6 @@ perhaps per              chance there’s a mat a stale        stair mat on whic
       <br />
       <br />
       <div className={styles.proseBox}>
-        <StandardProse>
           Cement rolls down the sturdy hills and it really doesn’t turn anyone on. I won’t
 remember that look in your eyes when you last told me to turn it down a bit. We both
 immediately knew it was a vibe, the sort that comes out of a blasted finisher. In the end
@@ -425,7 +424,6 @@ hope to not say anything but to do so verbosely, like the child who would run do
 stairs over and over again just to inform their parents about their inability to sleep during
 the reels. I know you would not get involved and it was on me to sweep the shards that
 dropped from their skirt.
-        </StandardProse>
       </div>
       <Footer />
     </>

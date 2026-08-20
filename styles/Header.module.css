@@ -518,6 +518,10 @@
   background-image: url("../public/images/EndlessBackground.jpg");
 }
 
+.spellBackground {
+  background-image: url("../public/images/SpellBackground.jpg");
+}
+
 
 @media (width: 1366px) and (height: 1024px) {
   .siteNav > .dropDown > a > button,
