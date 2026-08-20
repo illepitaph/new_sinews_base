@@ -343,6 +343,7 @@
   .proseBox {
     max-width: 80vw;
     margin-left:9vw;
+    font-size: 1rem;
   }
 }
 
