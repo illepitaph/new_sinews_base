@@ -237,9 +237,6 @@
 }
 
 @media (width: 1080px) and (height: 810px) {
-  .titleShadow {
-    font-size: 2.7rem;
-  }
 
   .poemBox {
     max-width: 97vw;
@@ -259,9 +256,6 @@
 }
 
 @media (width: 1024px) and (height: 1366px) {
-  .titleShadow {
-    font-size: 2.8rem;
-  }
 
   .poemBox {
     max-width: 97vw;
@@ -281,9 +275,6 @@
 }
 
 @media (width: 1024px) and (height: 768px) {
-  .titleShadow {
-    font-size: 2.9rem;
-  }
 
   .poemBox {
     max-width: 97vw;
@@ -303,9 +294,6 @@
 }
 
 @media (width: 1024px) and (height: 600px) {
-  .titleShadow {
-    font-size: 2.9rem;
-  }
 
   .poemBox {
     max-width: 97vw;
