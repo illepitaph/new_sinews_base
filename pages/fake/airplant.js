@@ -23,12 +23,46 @@ export default function Airplant() {
     return (celsiusTemp * 9) / 5 + 32;
   }
 
-  function generatePoem(weatherData) {
-    var currentProperties = weatherData.data.data["properties"];
+  function kmhToMph(kmhSpeed) {
+    return (kmhSpeed * 5) / 3;
+  }
 
-    var currentHumidity = currentProperties["relativeHumidity"]["value"];
-    var currentTemp = cToF(currentProperties["temperature"]["value"]);
+  function generatePoem(weatherData, spaceData, uvData, aqiData, geoMagDate) {
+    var weatherProperties = weatherData.data.data["properties"];
+    var spaceProperties = spaceData.data.data[0];
+    var uvProperties = uvData.data.data[0];
+    var apiProperties = aqiData.data.data;
+    var geoMagProperties = geoMagQuery.data.data;
+
+    // Weather Values
+    var currentHumidity = weatherProperties["relativeHumidity"]["value"];
+    var currentTemp = cToF(weatherProperties["temperature"]["value"]);
     var currentTempObject = airPlantGrids["midTempGrid"];
+    var currentWindSpeed = kmhToMph(weatherProperties["windSpeed"]["value"]);
+    var airPressure = weatherProperties["barometricPressure"]["value"] || 0;
+    var magnetic = null;
+    var geoMagArray = geoMagProperties["values"][0]["values"];
+
+    for (var i = geoMagArray.length - 1; i > 0; i--) {
+      if (geoMagArray[i] != null) {
+        magnetic = geoMagArray[i];
+        break;
+      }
+    }
+
+    // Space Values
+    var solarWindBt = spaceProperties["bt"];
+    var subjectDeclensionColumn = Number(String(solarWindBt).slice(0, 1));
+    var solarWindBz = spaceProperties["bz_gse"];
+
+    // UV Property
+    var uvIndex = uvProperties["UV_INDEX"];
+
+    // AQI Data
+    // Using PM2.5 for now
+    // Get the last value in the aqi array, which should be the latest value
+    var aqiArray = apiProperties["monitors"][1]["aqi"];
+    var currentAqi = aqiArray[aqiArray.length - 1];
 
     if (Number(currentTemp) > 75) {
       currentTempObject = airPlantGrids["highTempGrid"];
@@ -45,33 +79,33 @@ export default function Airplant() {
         <div className={styles.poemOne}>
           <div>{`${currentTempObject["physiologicalState"][Number(String(currentHumidity).slice(0, 1))]}`}</div>
           <div>{`${currentTempObject["affectiveState"][Number(String(currentHumidity).slice(1, 2))]}`}</div>
-          <div>part3</div>
+          <div>{`${currentTempObject["subjectDeclension"][subjectDeclensionColumn]}`}</div>
         </div>
         <br />
         <br />
         <div className={styles.poemTwo}>
-          <div>part4</div>
-          <div>part5</div>
-          <div>part6</div>
-          <div>part7</div>
+          <div>{`${currentTempObject["subjectConjugation"][subjectDeclensionColumn]}`}</div>
+          <div>{`${currentTempObject["prefix"][Number(String(solarWindBz).slice(0, 1))]}`}</div>
+          <div>{`${currentTempObject["verb"][Number(String(currentWindSpeed).slice(0, 1))]}`}</div>
+          <div>{`${currentTempObject["direction"][Number(String(uvIndex).slice(0, 1))]}`}</div>
         </div>
         <br />
         <br />
         <div className={styles.poemThree}>
-          <div>part8</div>
-          <div>part9</div>
+          <div>{`${currentTempObject["subjectConjugation2"][subjectDeclensionColumn]}`}</div>
+          <div>{`${currentTempObject["verb2"][Number(String(airPressure).slice(0, 1))]}`}</div>
         </div>
         <br />
         <br />
         <div className={styles.poemFour}>
-          <div>part10</div>
-          <div>part11</div>
+          <div>{`${currentTempObject["object"][Number(String(currentAqi).slice(0, 1))]}`}</div>
+          <div>{`${currentTempObject["objectOrientation"][Number(String(currentAqi).slice(1, 2))]}`}</div>
         </div>
         <br />
         <br />
         <div className={styles.poemFive}>
-          <div>part12</div>
-          <div>part13_</div>
+          <div>{`${currentTempObject["qualityAdjective"][Number(String(magnetic).slice(3, 4))]}`}</div>
+          <div>{`${currentTempObject["transitionAdverb"][Number(String(magnetic).split(".")[1].slice(0, 1))]}`}</div>
         </div>
       </>,
     );
@@ -79,17 +113,73 @@ export default function Airplant() {
     return poem;
   }
 
-  const command = axios
+  const weatherCommand = axios
     .get(`https://api.weather.gov/stations/${STATION_ID}/observations/latest`)
     .then(function (response) {
       return response;
     });
 
-  const query = useQuery(["getWeather", STATION_ID], async () => {
-    return await command;
+  const spaceCommand = axios
+    .get(`https://services.swpc.noaa.gov/json/rtsw/rtsw_mag_1m.json`)
+    .then(function (response) {
+      return response;
+    });
+
+  const uvCommand = axios
+    .get(
+      `https://data.epa.gov/efservice/getEnvirofactsUVDaily/CITY/Chicago/STATE/IL/JSON`,
+    )
+    .then(function (response) {
+      return response;
+    });
+
+  const aqiCommand = axios
+    .get(`https://airnowgovapi.com/v2/andata/Sites/170314201.json`)
+    .then(function (response) {
+      return response;
+    });
+
+  const currentTime = new Date();
+  const currentTimeISOString = currentTime.toISOString();
+  var oneHourAgo = new Date(currentTime);
+  oneHourAgo.setUTCHours(currentTime.getUTCHours() - 1);
+  var oneHourAgoISOString = oneHourAgo.toISOString();
+
+  const geoMagCommand = axios
+    .get(
+      `https://geomag.usgs.gov/ws/data/?id=BRW&sampling_period=1&format=json&starttime_only=true&starttime=${oneHourAgoISOString}&endtime=${currentTimeISOString}&sampling_period=60`,
+    )
+    .then(function (response) {
+      return response;
+    });
+
+  const weatherQuery = useQuery(["getWeather", STATION_ID], async () => {
+    return await weatherCommand;
   });
 
-  if (query.isSuccess) {
+  const spaceQuery = useQuery(["getSpace"], async () => {
+    return await spaceCommand;
+  });
+
+  const uvQuery = useQuery(["getUv"], async () => {
+    return await uvCommand;
+  });
+
+  const aqiQuery = useQuery(["getAqi"], async () => {
+    return await aqiCommand;
+  });
+
+  const geoMagQuery = useQuery(["getGeoMag"], async () => {
+    return await geoMagCommand;
+  });
+
+  if (
+    weatherQuery.isSuccess &&
+    spaceQuery.isSuccess &&
+    uvQuery.isSuccess &&
+    aqiQuery.isSuccess &&
+    geoMagQuery.isSuccess
+  ) {
     return (
       <>
         <Header headerBackground="griffinBackground" />
@@ -286,7 +376,7 @@ export default function Airplant() {
         <br />
         <br />
         <br />
-        {generatePoem(query)}
+        {generatePoem(weatherQuery, spaceQuery, uvQuery, aqiQuery, geoMagQuery)}
         {/* Generate Poem Here
           <h3 className={styles.poemTitle}>date; time; chicago, il 60608</h3>
           <br />
@@ -335,9 +425,21 @@ export default function Airplant() {
         <Footer />
       </>
     );
-  } else if (query.isLoading) {
+  } else if (
+    weatherQuery.isLoading ||
+    spaceQuery.isLoading ||
+    uvQuery.isLoading ||
+    aqiQuery.isLoading ||
+    geoMagQuery.isLoading
+  ) {
     return <div>Loading</div>;
-  } else if (query.isError) {
+  } else if (
+    weatherQuery.isError ||
+    spaceQuery.isError ||
+    uvQuery.isError ||
+    aqiQuery.isError ||
+    geoMagQuery.isError
+  ) {
     return <div>Not found</div>;
   }
 }
