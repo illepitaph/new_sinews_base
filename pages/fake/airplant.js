@@ -27,88 +27,97 @@ export default function Airplant() {
     return (kmhSpeed * 5) / 3;
   }
 
-  function generatePoem(weatherData, spaceData, uvData, aqiData, geoMagDate) {
-    var weatherProperties = weatherData.data.data["properties"];
-    var spaceProperties = spaceData.data.data[0];
-    var uvProperties = uvData.data.data[0];
-    var apiProperties = aqiData.data.data;
-    var geoMagProperties = geoMagQuery.data.data;
-
-    // Weather Values
-    var currentHumidity = weatherProperties["relativeHumidity"]["value"];
-    var currentTemp = cToF(weatherProperties["temperature"]["value"]);
-    var currentTempObject = airPlantGrids["midTempGrid"];
-    var currentWindSpeed = kmhToMph(weatherProperties["windSpeed"]["value"]);
-    var airPressure = weatherProperties["barometricPressure"]["value"] || 0;
-    var magnetic = null;
-    var geoMagArray = geoMagProperties["values"][0]["values"];
-
-    for (var i = geoMagArray.length - 1; i > 0; i--) {
-      if (geoMagArray[i] != null) {
-        magnetic = geoMagArray[i];
-        break;
-      }
-    }
-
-    // Space Values
-    var solarWindBt = spaceProperties["bt"];
-    var subjectDeclensionColumn = Number(String(solarWindBt).slice(0, 1));
-    var solarWindBz = spaceProperties["bz_gse"];
-
-    // UV Property
-    var uvIndex = uvProperties["UV_INDEX"];
-
-    // AQI Data
-    // Using PM2.5 for now
-    // Get the last value in the aqi array, which should be the latest value
-    var aqiArray = apiProperties["monitors"][1]["aqi"];
-    var currentAqi = aqiArray[aqiArray.length - 1];
-
-    if (Number(currentTemp) > 75) {
-      currentTempObject = airPlantGrids["highTempGrid"];
-    } else if (Number(currentTemp) < 55) {
-      currentTempObject = airPlantGrids["lowTempGrid"];
-    }
-
+  function generatePoem(
+    weatherData,
+    spaceData,
+    uvData,
+    aqiData,
+    geoMagData,
+    complete,
+  ) {
     var poem = [];
-    poem.push(
-      <>
-        <h3 className={styles.poemTitle}>date; time; chicago, il 60608</h3>
-        <br />
-        <br />
-        <div className={styles.poemOne}>
-          <div>{`${currentTempObject["physiologicalState"][Number(String(currentHumidity).slice(0, 1))]}`}</div>
-          <div>{`${currentTempObject["affectiveState"][Number(String(currentHumidity).slice(1, 2))]}`}</div>
-          <div>{`${currentTempObject["subjectDeclension"][subjectDeclensionColumn]}`}</div>
-        </div>
-        <br />
-        <br />
-        <div className={styles.poemTwo}>
-          <div>{`${currentTempObject["subjectConjugation"][subjectDeclensionColumn]}`}</div>
-          <div>{`${currentTempObject["prefix"][Number(String(solarWindBz).slice(0, 1))]}`}</div>
-          <div>{`${currentTempObject["verb"][Number(String(currentWindSpeed).slice(0, 1))]}`}</div>
-          <div>{`${currentTempObject["direction"][Number(String(uvIndex).slice(0, 1))]}`}</div>
-        </div>
-        <br />
-        <br />
-        <div className={styles.poemThree}>
-          <div>{`${currentTempObject["subjectConjugation2"][subjectDeclensionColumn]}`}</div>
-          <div>{`${currentTempObject["verb2"][Number(String(airPressure).slice(0, 1))]}`}</div>
-        </div>
-        <br />
-        <br />
-        <div className={styles.poemFour}>
-          <div>{`${currentTempObject["object"][Number(String(currentAqi).slice(0, 1))]}`}</div>
-          <div>{`${currentTempObject["objectOrientation"][Number(String(currentAqi).slice(1, 2))]}`}</div>
-        </div>
-        <br />
-        <br />
-        <div className={styles.poemFive}>
-          <div>{`${currentTempObject["qualityAdjective"][Number(String(magnetic).slice(3, 4))]}`}</div>
-          <div>{`${currentTempObject["transitionAdverb"][Number(String(magnetic).split(".")[1].slice(0, 1))]}`}</div>
-        </div>
-      </>,
-    );
+
+    if (complete) {
+      var weatherProperties = weatherData.data.data["properties"];
+      var spaceProperties = spaceData.data.data[0];
+      var uvProperties = uvData.data.data[0];
+      var apiProperties = aqiData.data.data;
+      var geoMagProperties = geoMagData.data.data;
+
+      // Weather Values
+      var currentHumidity = weatherProperties["relativeHumidity"]["value"];
+      var currentTemp = cToF(weatherProperties["temperature"]["value"]);
+      var currentTempObject = airPlantGrids["midTempGrid"];
+      var currentWindSpeed = kmhToMph(weatherProperties["windSpeed"]["value"]);
+      var airPressure = weatherProperties["barometricPressure"]["value"] || 0;
+      var magnetic = null;
+      var geoMagArray = geoMagProperties["values"][0]["values"];
+
+      for (var i = geoMagArray.length - 1; i > 0; i--) {
+        if (geoMagArray[i] != null) {
+          magnetic = geoMagArray[i];
+          break;
+        }
+      }
+
+      // Space Values
+      var solarWindBt = spaceProperties["bt"];
+      var subjectDeclensionColumn = Number(String(solarWindBt).slice(0, 1));
+      var solarWindBz = spaceProperties["bz_gse"];
+
+      // UV Property
+      var uvIndex = uvProperties["UV_INDEX"];
+
+      // AQI Data
+      // Using PM2.5 for now
+      // Get the last value in the aqi array, which should be the latest value
+      var aqiArray = apiProperties["monitors"][1]["aqi"];
+      var currentAqi = aqiArray[aqiArray.length - 1];
+
+      if (Number(currentTemp) > 75) {
+        currentTempObject = airPlantGrids["highTempGrid"];
+      } else if (Number(currentTemp) < 55) {
+        currentTempObject = airPlantGrids["lowTempGrid"];
+      }
+
+      poem.push(
+        <>
+          <div className={styles.poemOne}>
+            <div>{`${currentTempObject["physiologicalState"][Number(String(currentHumidity).slice(0, 1))]}`}</div>
+            <div>{`${currentTempObject["affectiveState"][Number(String(currentHumidity).slice(1, 2))]}`}</div>
+            <div>{`${currentTempObject["subjectDeclension"][subjectDeclensionColumn]}`}</div>
+          </div>
+          <br />
+          <br />
+          <div className={styles.poemTwo}>
+            <div>{`${currentTempObject["subjectConjugation"][subjectDeclensionColumn]}`}</div>
+            <div>{`${currentTempObject["prefix"][Number(String(solarWindBz).slice(0, 1))]}`}</div>
+            <div>{`${currentTempObject["verb"][Number(String(currentWindSpeed).slice(0, 1))]}`}</div>
+            <div>{`${currentTempObject["direction"][Number(String(uvIndex).slice(0, 1))]}`}</div>
+          </div>
+          <br />
+          <br />
+          <div className={styles.poemThree}>
+            <div>{`${currentTempObject["subjectConjugation2"][subjectDeclensionColumn]}`}</div>
+            <div>{`${currentTempObject["verb2"][Number(String(airPressure).slice(0, 1))]}`}</div>
+          </div>
+          <br />
+          <br />
+          <div className={styles.poemFour}>
+            <div>{`${currentTempObject["object"][Number(String(currentAqi).slice(0, 1))]}`}</div>
+            <div>{`${currentTempObject["objectOrientation"][Number(String(currentAqi).slice(1, 2))]}`}</div>
+          </div>
+          <br />
+          <br />
+          <div className={styles.poemFive}>
+            <div>{`${currentTempObject["qualityAdjective"][Number(String(magnetic).slice(3, 4))]}`}</div>
+            <div>{`${currentTempObject["transitionAdverb"][Number(String(magnetic).split(".")[1].slice(0, 1))]}`}</div>
+          </div>
+        </>,
+      );
+    } else {
+      poem.push(<p>Loading</p>);
+    }
 
     return poem;
   }
@@ -174,12 +183,21 @@ export default function Airplant() {
   });
 
   if (
-    weatherQuery.isSuccess &&
-    spaceQuery.isSuccess &&
-    uvQuery.isSuccess &&
-    aqiQuery.isSuccess &&
-    geoMagQuery.isSuccess
+    weatherQuery.isError ||
+    spaceQuery.isError ||
+    uvQuery.isError ||
+    aqiQuery.isError ||
+    geoMagQuery.isError
   ) {
+    return <div>Not found</div>;
+  } else {
+    var complete =
+      weatherQuery.isSuccess &&
+      spaceQuery.isSuccess &&
+      uvQuery.isSuccess &&
+      aqiQuery.isSuccess &&
+      geoMagQuery.isSuccess;
+
     return (
       <>
         <Header headerBackground="griffinBackground" />
@@ -376,43 +394,21 @@ export default function Airplant() {
         <br />
         <br />
         <br />
-        {generatePoem(weatherQuery, spaceQuery, uvQuery, aqiQuery, geoMagQuery)}
-        {/* Generate Poem Here
-          <h3 className={styles.poemTitle}>date; time; chicago, il 60608</h3>
-          <br />
-          <br />
-          <div className={styles.poemOne}>
-            <div>part1</div>
-            <div>part2</div>
-            <div>part3</div>
-          </div>
-          <br />
-          <br />
-          <div className={styles.poemTwo}>
-            <div>part4</div>
-            <div>part5</div>
-            <div>part6</div>
-            <div>part7</div>
-          </div>
-          <br />
-          <br />
-          <div className={styles.poemThree}>
-            <div>part8</div>
-            <div>part9</div>
-          </div>
-          <br />
-          <br />
-          <div className={styles.poemFour}>
-            <div>part10</div>
-            <div>part11</div>
-          </div>
-          <br />
-          <br />
-          <div className={styles.poemFive}>
-            <div>part12</div>
-            <div>part13_</div>
-          </div>
-          */}
+        <h3 className={styles.poemTitle}>
+          {currentTime.toDateString()};{" "}
+          {currentTime.toLocaleTimeString("en-US", { timeZone: "CST" })};
+          chicago, il 60608
+        </h3>
+        <br />
+        <br />
+        {generatePoem(
+          weatherQuery,
+          spaceQuery,
+          uvQuery,
+          aqiQuery,
+          geoMagQuery,
+          complete,
+        )}
         <br />
         <br />
         <br />
@@ -425,21 +421,5 @@ export default function Airplant() {
         <Footer />
       </>
     );
-  } else if (
-    weatherQuery.isLoading ||
-    spaceQuery.isLoading ||
-    uvQuery.isLoading ||
-    aqiQuery.isLoading ||
-    geoMagQuery.isLoading
-  ) {
-    return <div>Loading</div>;
-  } else if (
-    weatherQuery.isError ||
-    spaceQuery.isError ||
-    uvQuery.isError ||
-    aqiQuery.isError ||
-    geoMagQuery.isError
-  ) {
-    return <div>Not found</div>;
   }
 }
