@@ -1,0 +1,432 @@
+.titleShadow {
+  display: inline-block;
+  font-size: 4.1rem;
+  color:white;
+  text-shadow: 2px 2px black, 4px 4px white, 6px 6px black, 8px 8px white, 10px 10px #FAA0A0, 12px 12px black, 14px 14px gainsboro;
+  letter-spacing: 1rem;
+  line-height: 9rem;
+}
+
+.blue {
+    color: #FAA0A0;
+
+}
+
+.blueUpper {
+    color: #FAA0A0;
+    text-transform: uppercase;
+
+}
+
+.fade {
+  opacity: 0.3;
+}
+
+.fadeLower {
+  text-transform: lowercase;
+  opacity: 0.3;
+}
+
+
+.fadeUpper {
+  text-transform: uppercase;
+  opacity: 0.3;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.storyTitle {
+  max-width: 12vw;
+  font-family: "lores-9-plus-wide", monospace;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 2.9rem;
+  color: white;
+  text-shadow: 3px 3px black, 5px 5px white, 6px 6px #FAA0A0, 9px 9px black, 14px 14px 4px #FAA0A0;
+  letter-spacing: 1rem;
+  line-height: 1.4em;
+  margin-left: 58vw;
+  text-transform: uppercase;
+}
+
+.proseBox {
+  max-width: 60vw;
+  margin-left: 19vw;
+  font-size:1.25rem;
+  font-family: "base-9-sans", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  text-shadow: 2px 2px gainsboro;
+  letter-spacing: -0.02rem;
+  line-height: 1.7em;
+}
+
+.boldHeader {
+    margin-left: 26vw;
+    font-size: 2.4rem;
+    color:black;
+    font-family: "lores-9-plus-wide", monospace;
+    text-shadow: 1px 1px white, 3px 3px #FAA0A0, 5px 5px white, 7px 7px 12px black;
+    text-transform: lowercase;
+    font-style: italic;
+}
+
+@media (width: 1368px) and (height: 912px) {
+  .poemBox {
+    max-width: 97vw;
+    margin-left: 3vw;
+  }
+
+  .poem {
+    font-size: 1.1rem;
+    white-space:pre-wrap;
+  }
+}
+
+@media (width: 1366px) and (height: 1024px) {
+  .poemBox {
+    max-width: 97vw;
+    margin-left: 3vw;
+  }
+
+  .poem {
+    font-size: 1.2rem;
+    white-space:pre-wrap;
+  }
+
+  .proseBox {
+    max-width: 80vw;
+    margin-left:10vw;
+    font-size:1.2rem;
+  }
+}
+
+@media (width: 1280px) and (height: 853px) {
+  .poemBox {
+    max-width: 97vw;
+    margin-left: 3vw;
+  }
+
+  .poem {
+    font-size: 1.2rem;
+    white-space:pre-wrap;
+  }
+
+  .proseBox {
+    max-width: 80vw;
+    margin-left:10vw;
+    font-size:1.1rem;
+  }
+}
+
+@media (width: 1280px) and (height: 800px) {
+  .poemBox {
+    max-width: 97vw;
+    margin-left: 3vw;
+  }
+
+  .poem {
+    font-size: 1.2rem;
+    white-space:pre-wrap;
+  }
+
+  .proseBox {
+    max-width: 80vw;
+    margin-left:10vw;
+    font-size:1.2rem;
+  }
+}
+
+@media (width: 1210px) and (height: 834px) {
+  .poemBox {
+    max-width: 97vw;
+    margin-left: 3vw;
+  }
+
+  .poem {
+    font-size: 1.2rem;
+    white-space:pre-wrap;
+  }
+
+  .proseBox {
+    max-width: 80vw;
+    margin-left:10vw;
+    font-size:1.1rem;
+  }
+}
+
+@media (width: 1194px) and (height: 834px) {
+  .poemBox {
+    max-width: 97vw;
+    margin-left: 3vw;
+  }
+
+  .poem {
+    font-size: 1.1rem;
+    white-space:pre-wrap;
+  }
+}
+
+@media (width: 1180px) and (height: 820px) {
+  .poemBox {
+    max-width: 97vw;
+    margin-left: 3vw;
+  }
+
+  .poem {
+    font-size: 1.2rem;
+    white-space:pre-wrap;
+  }
+
+   .proseBox {
+    max-width: 80vw;
+    margin-left:10vw;
+    font-size:1.2rem;
+  }
+}
+
+@media (width: 1138px) and (height: 712px) {
+  .poemBox {
+    max-width: 97vw;
+    margin-left: 3vw;
+  }
+
+  .proseBox {
+    max-width: 80vw;
+    margin-left:10vw;
+    font-size:1.2rem;
+  }
+}
+
+@media (width: 1133px) and (height: 744px) {
+  .poemBox {
+    max-width: 97vw;
+    margin-left: 3vw;
+  }
+
+  .proseBox {
+    max-width: 80vw;
+    margin-left:10vw;
+    font-size:1.2rem;
+  }
+}
+
+@media (width: 1080px) and (height: 810px) {
+
+  .poemBox {
+    max-width: 97vw;
+    margin-left: 3vw;
+  }
+
+  .poem {
+    font-size: 1rem;
+    white-space:pre-wrap;
+  }
+
+   .proseBox {
+    max-width: 80vw;
+    margin-left:10vw;
+    font-size:1.2rem;
+  }
+}
+
+@media (width: 1024px) and (height: 1366px) {
+
+  .poemBox {
+    max-width: 97vw;
+    margin-left: 3vw;
+  }
+
+  .poem {
+    font-size: 1.2rem;
+    white-space:pre-wrap;
+  }
+
+   .proseBox {
+    max-width: 80vw;
+    margin-left:10vw;
+    font-size:1.2rem;
+  }
+}
+
+@media (width: 1024px) and (height: 768px) {
+
+  .poemBox {
+    max-width: 97vw;
+    margin-left: 3vw;
+  }
+
+  .poem {
+    font-size: 1.2rem;
+    white-space:pre-wrap;
+  }
+
+  .proseBox {
+    max-width: 80vw;
+    margin-left:10vw;
+    font-size:1.2rem;
+  }
+}
+
+@media (width: 1024px) and (height: 600px) {
+
+  .poemBox {
+    max-width: 97vw;
+    margin-left: 3vw;
+  }
+
+  .poem {
+  font-size: 1.2rem;
+    white-space:pre-wrap;
+  }
+
+  .proseBox {
+    max-width: 80vw;
+    margin-left:10vw;
+    font-size:1.2rem;
+  }
+}
+
+@media (max-width: 957px) and (orientation: landscape) {
+
+  .poemBox {
+    max-width: 95vw;
+    margin-left: 4vw;
+    white-space: pre-line;
+  }
+
+  .poemTitle {
+    font-size:2.3rem;
+  }
+
+  .poem {
+    font-size: 1rem;
+  }
+
+  .proseBox {
+    max-width: 80vw;
+    margin-left:9vw;
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 913px) and (orientation: portrait) {
+  .titleShadow {
+    font-size: 4.5rem;
+  }
+
+  .poemBox {
+    max-width: 99vw;
+    margin-left:1vw;
+  }
+
+  .poem {
+    font-size:0.95rem;
+    white-space:pre-wrap;
+  }
+
+  .proseBox {
+    font-size: 0.95rem;
+  }
+}
+
+@media (max-width: 854px) and (orientation: landscape) {
+
+   .titleShadow {
+    font-size: 3.5rem;
+  }
+
+  .poemTitle {
+    margin-left:36vw;
+}
+
+}
+
+@media (max-width: 802px) and (orientation: portrait) {
+
+.poemTitle {
+    margin-left:12vw;
+}
+}
+
+@media (max-width: 781px) and (orientation: landscape) {
+
+  .poem {
+    font-size: 0.9rem;
+  }
+}
+
+@media (max-width: 668px) and (orientation: landscape) {
+
+  .poem {
+    font-size: 0.9rem;
+    white-space: pre-line;
+  }
+}
+
+@media (max-width: 541px) and (orientation: portrait) {
+  .titleShadow {
+    font-size: 2.7rem;
+  }
+
+  .authorName {
+    font-size: 3.6rem;
+  }
+
+  .poemTitle {
+    font-size: 2rem;
+  }
+
+  .poemBox {
+    max-width: 99vw;
+    font-family: "base-9-sans", sans-serif;
+    margin-left: 1vw;
+  }
+
+   .poem {
+    font-size: 0.9rem;
+  }
+
+   .proseBox {
+    max-width: 90vw;
+    font-size: 0.9rem;
+    margin-left:3vw;
+  }
+
+  .boldHeader {
+    font-size: 2.3rem;
+  }
+}
+
+@media (width: 540px) and (height: 720px) {
+
+  .poem {
+    font-size: 1.1rem;
+    white-space:pre-wrap;
+  }
+}
+
+@media (max-width: 376px) and (orientation: portrait) {
+
+
+  .poemTitle {
+    font-size: 1.7rem;
+  }
+
+  .poemBox {
+    margin-left: 0.1rem;
+  }
+}
+
+@media (max-width: 376px) and (orientation: portrait) {
+
+.titleShadow {
+    font-size: 2.5rem;
+  }
+
+  .poem, .proseBox {
+    font-size:0.55rem;
+  }
+}

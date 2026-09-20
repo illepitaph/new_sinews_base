@@ -4,15 +4,15 @@ import LeftBlackTitle from "../../components/leftBlackTitle.js";
 import CenterBlackTitle from "../../components/centerBlackTitle.js";
 import StandardProse from "../../components/standardProse.js";
 import Footer from "../../components/footer.js";
-import styles from "../../styles/Spell.module.css";
-Spell.title =
-  "liola_mattheis ~ the spell keeps on casting ++ forming by forming in — new_sinews";
-Spell.pieceName =
-  "liola_mattheis ~ the spell keeps on casting ++ forming by forming in — new_sinews";
-Spell.description = "_LIOLA MATTHEIS_poetry_5 POEMS_new_sinews_issue10_";
-Spell.image = "https://www.newnewsinews.com/images/MemoryBackground.jpg";
+import styles from "../../styles/Parties.module.css";
+Parties.title =
+  "chekwube_danladi ~ electrosexual ++ liberation pecan pie from a south central bakery — new_sinews";
+Parties.pieceName =
+  "chekwube_danladi ~ electrosexual ++ liberation pecan pie from a south central bakery — new_sinews";
+Parties.description = "_CHEKWUBE DANLADI_fiction_3 STORIES_new_sinews_issue10_";
+Parties.image = "https://www.newnewsinews.com/images/MemoryBackground.jpg";
 
-export default function Spell() {
+export default function Parties() {
   return (
     <>
       <Header headerBackground="spellBackground" />
@@ -24,30 +24,77 @@ export default function Spell() {
       <br />
       <CenterBlackTitle>
         <span className={styles.titleShadow}>
-          <span className={styles.uppercase}>l</span>
-          <br />
-          <span className={styles.fade}>i</span>
-          <br />
-          <i>o</i>
-          <br />
-          <span className={styles.blueUpper}>l</span>
-          <br />
+          <span className={styles.uppercase}>l </span>
+          <span className={styles.blueUpper}>o</span>
+          <i>s</i>
+          <span className={styles.fadeUpper}>++</span>
           <span className={styles.uppercase}>
             <i>a</i>
           </span>
-          <br />
-          <br />
-          <br />
-          <br />m<span className={styles.fadeUpper}>a</span>
+          <span className={styles.blueUpper}>N</span>g
+          <span className={styles.fadeUpper}>e</span>
           <i>
-            t<span className={styles.blue}>t</span>
+            <span className={styles.blueUpper}>l</span>
           </i>
-          <span className={styles.uppercase}>
-            h<i>e </i>
+          <i>e </i>
+          <span className={styles.blueUpper}>s</span>
+          <br />
+          <span className={styles.blueUpper}>
+            <i>p </i>
           </span>
-          <span className={styles.blue}>i</span>
-          <span className={styles.uppercase}>s</span>
+          <span className={styles.fadeUpper}>a</span>
+          <i>
+            <span className={styles.blueUpper}>r</span>t
+          </i>
+          <span className={styles.blue}> i</span>
+          <i>e </i>
+          <span className={styles.blueUpper}>s </span>
+          <span className={styles.fadeUpper}>##</span>
+        </span>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <span className={styles.titleShadow}>
+          s
+          <span className={styles.blueUpper}>
+            <i>m </i>
+          </span>
+          <span className={styles.fadeUpper}>a</span>
+          <i>
+            {" "}
+            <span className={styles.uppercase}>l</span>
+            <span className={styles.blueUpper}>l</span>w
+          </i>
+          <span className={styles.blueUpper}> o</span>
+          <i>r </i>
+          <span className={styles.fadeUpper}>&& </span>
+          <span className={styles.blueUpper}>l </span>d
           <span className={styles.fadeUpper}>++</span>
+        </span>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <span className={styles.titleShadow}>
+          f<span className={styles.fadeUpper}>e</span>
+          <span className={styles.blueUpper}>
+            <i>m </i>
+          </span>
+          m<span className={styles.blue}> e</span>
+          <span className={styles.uppercase}>4</span>
+          <span className={styles.blueUpper}>F</span>
+          <span className={styles.fade}>e</span>
+          <span className={styles.fadeUpper}>__</span>
+          <span className={styles.blue}> m</span>
+          <i>m </i>
+          <span className={styles.blueUpper}>e </span>
         </span>
       </CenterBlackTitle>
 
@@ -87,8 +134,13 @@ export default function Spell() {
       <br />
       <br />
       <br />
-
-      <h3 className={styles.poemTitle}>[No Big Deal!?.]</h3>
+      <LeftBlackTitle>
+        <span className={styles.ellipses}>...</span> c
+        <span className={styles.uppercase}>h</span>ekwube <br />{" "}
+        <span className={styles.ellipses}>...</span> d
+        <span className={styles.uppercase}>a</span>n
+        <span className={styles.uppercase}>la</span>di
+      </LeftBlackTitle>
       <br />
       <br />
       <br />
@@ -99,11 +151,50 @@ export default function Spell() {
       <br />
       <br />
       <br />
-      <span className={styles.boldHeader}>No !</span>
-      <div className={styles.poemBox}>
-        <pre className={styles.poem}>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <h3 className={styles.storyTitle}>[Los Angeles Parties]</h3>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <span className={styles.boldHeader}>
+        Roof<span className={styles.uppercase}>t</span>op Poo<span className={styles.uppercase}>l</span>side Sp<span className={styles.uppercase}>a</span>des
+      </span>
+      <div className={styles.proseBox}>
+       
           <br />
-          {`World without end!
+          World witout end!
 However it falls!
 The aesthetics of my politics are not for sale!
 I wonder about these mouldy webpages like all the time!
@@ -124,8 +215,7 @@ But what an adorable value you have entertained us with tonight!
 What a tiny leaflet thrown into my naughty bank account!
 Mail the list some squashy remedies!
 I see the double bind in the sky!
-And the rest is natural history!`}
-        </pre>
+And the rest is natural history!
       </div>
       <br />
       <br />
@@ -223,7 +313,9 @@ All he could do was blow her nose`}
       <br />
       <br />
 
-      <h3 className={styles.poemTitle}>[<span className={styles.fadeLower}>from</span> At The End of A Form]</h3>
+      <h3 className={styles.storyTitle}>
+        [<span className={styles.fadeLower}>from</span> At The End of A Form]
+      </h3>
       <br />
       <br />
       <br />
@@ -261,7 +353,6 @@ giving            the spell keeps on casting               the capture keeps on 
       <br />
       <br />
       <br />
-          <br />
       <br />
       <br />
       <br />
@@ -271,7 +362,6 @@ giving            the spell keeps on casting               the capture keeps on 
       <br />
       <br />
       <br />
-          <br />
       <br />
       <br />
       <br />
@@ -281,7 +371,9 @@ giving            the spell keeps on casting               the capture keeps on 
       <br />
       <br />
       <br />
-       <div className={styles.poemBox}>
+      <br />
+      <br />
+      <div className={styles.poemBox}>
         <pre className={styles.poem}>
           <br />
           {`At the end of a formwhat weighs air      in the nigght oo      r what weiighs 1      d0wn
@@ -293,7 +385,6 @@ hd congealed            EVERRYTHING                        into a cake bby vaas 
 leavn out`}
         </pre>
       </div>
-         <br />
       <br />
       <br />
       <br />
@@ -303,7 +394,6 @@ leavn out`}
       <br />
       <br />
       <br />
-          <br />
       <br />
       <br />
       <br />
@@ -313,7 +403,6 @@ leavn out`}
       <br />
       <br />
       <br />
-          <br />
       <br />
       <br />
       <br />
@@ -323,7 +412,10 @@ leavn out`}
       <br />
       <br />
       <br />
-       <div className={styles.poemBox}>
+      <br />
+      <br />
+      <br />
+      <div className={styles.poemBox}>
         <pre className={styles.poem}>
           <br />
           {`At the end of a form         at that red tat at the         fat end that end that well
@@ -336,7 +428,7 @@ perhaps per              chance there’s a mat a stale        stair mat on whic
            step step back and step step`}
         </pre>
       </div>
- <br />
+      <br />
       <br />
       <br />
       <br />
@@ -373,8 +465,8 @@ perhaps per              chance there’s a mat a stale        stair mat on whic
       <br />
       <br />
 
-      <h3 className={styles.poemTitle}>[At Night, Sleep Tight]</h3>
- <br />
+      <h3 className={styles.storyTitle}>[At Night, Sleep Tight]</h3>
+      <br />
       <br />
       <br />
       <br />
@@ -385,44 +477,52 @@ perhaps per              chance there’s a mat a stale        stair mat on whic
       <br />
       <br />
       <div className={styles.proseBox}>
-          Cement rolls down the sturdy hills and it really doesn’t turn anyone on. I won’t
-remember that look in your eyes when you last told me to turn it down a bit. We both
-immediately knew it was a vibe, the sort that comes out of a blasted finisher. In the end
-there were no constraints and we were free to roam around your grandmother’s
-meticulously maintained diaries.
-<br/>
-<br/>
-In the archives, I found some mashed envelopes. They had no signature and no
-devotion, let alone benevolence, stamped onto their front. The backs however…That
-was a different story altogether and I didn’t dare to drag you into it. Nor did I drag the
-touchy subject we were dancing around in synch. Our rotations resembled the
-movement of the tongue fingering some unwanted debris from the towers of chalk.
-<br/>
-<br/>
-When all of this becomes too poetic, just run. You can run like a policewoman after
-being catcalled. This will block the noise, and it should elevate the tantrums thrown
-into the closet earlier as well as the stick figures I had made from scratch. In the caves
-shone the vivid light of a tank which was, you know, just passing by. We huddled into
-the corner, and believe it or not, the cracks in the air made for the night of our lives.
-<br/>
-<br/>
-Indeed, cracking was part of the theme you were commissioned to do a dance piece
-about. Not really about, rather on, or I’d even say over. You know: salacious at best,
-luscious at worst. When you first called me lukewarm, I knew we weren’t going to last.
-At least not much longer than the next commemoration meeting, until which I had to
-regain composure, at least to the outside world which, more often than not, I found by
-shoving the t-shirt up my nipples and inserting the glasses into my eyes.
-<br/>
-<br/>
-As if these words could touch anything in the interiority of your space, as if they could
-intrude into a private cabin which smelled as if it hadn’t been opened since the
-scholastic period! I bet they used to write the book of nature here when I last checked!
-These days, as you are painfully aware, I don’t have the time to check anything
-anymore amidst all the absenting I make myself go through every other month in the
-hope to not say anything but to do so verbosely, like the child who would run down the
-stairs over and over again just to inform their parents about their inability to sleep during
-the reels. I know you would not get involved and it was on me to sweep the shards that
-dropped from their skirt.
+        Cement rolls down the sturdy hills and it really doesn’t turn anyone on.
+        I won’t remember that look in your eyes when you last told me to turn it
+        down a bit. We both immediately knew it was a vibe, the sort that comes
+        out of a blasted finisher. In the end there were no constraints and we
+        were free to roam around your grandmother’s meticulously maintained
+        diaries.
+        <br />
+        <br />
+        In the archives, I found some mashed envelopes. They had no signature
+        and no devotion, let alone benevolence, stamped onto their front. The
+        backs however…That was a different story altogether and I didn’t dare to
+        drag you into it. Nor did I drag the touchy subject we were dancing
+        around in synch. Our rotations resembled the movement of the tongue
+        fingering some unwanted debris from the towers of chalk.
+        <br />
+        <br />
+        When all of this becomes too poetic, just run. You can run like a
+        policewoman after being catcalled. This will block the noise, and it
+        should elevate the tantrums thrown into the closet earlier as well as
+        the stick figures I had made from scratch. In the caves shone the vivid
+        light of a tank which was, you know, just passing by. We huddled into
+        the corner, and believe it or not, the cracks in the air made for the
+        night of our lives.
+        <br />
+        <br />
+        Indeed, cracking was part of the theme you were commissioned to do a
+        dance piece about. Not really about, rather on, or I’d even say over.
+        You know: salacious at best, luscious at worst. When you first called me
+        lukewarm, I knew we weren’t going to last. At least not much longer than
+        the next commemoration meeting, until which I had to regain composure,
+        at least to the outside world which, more often than not, I found by
+        shoving the t-shirt up my nipples and inserting the glasses into my
+        eyes.
+        <br />
+        <br />
+        As if these words could touch anything in the interiority of your space,
+        as if they could intrude into a private cabin which smelled as if it
+        hadn’t been opened since the scholastic period! I bet they used to write
+        the book of nature here when I last checked! These days, as you are
+        painfully aware, I don’t have the time to check anything anymore amidst
+        all the absenting I make myself go through every other month in the hope
+        to not say anything but to do so verbosely, like the child who would run
+        down the stairs over and over again just to inform their parents about
+        their inability to sleep during the reels. I know you would not get
+        involved and it was on me to sweep the shards that dropped from their
+        skirt.
       </div>
       <Footer />
     </>
