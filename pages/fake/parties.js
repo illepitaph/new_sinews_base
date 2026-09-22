@@ -67,11 +67,11 @@ export default function Parties() {
           <i>
             {" "}
             <span className={styles.uppercase}>l</span>
-            <span className={styles.blueUpper}>l</span>w
+            <span className={styles.blueUpper}>l</span>
+            <br />w
           </i>
           <span className={styles.blueUpper}> o</span>
           <i>r </i>
-          <span className={styles.fadeUpper}>&& </span>
           <span className={styles.blueUpper}>l </span>d
           <span className={styles.fadeUpper}>++</span>
         </span>
@@ -189,33 +189,17 @@ export default function Parties() {
       <br />
       <br />
       <span className={styles.boldHeader}>
-        Roof<span className={styles.uppercase}>t</span>op Poo<span className={styles.uppercase}>l</span>side Sp<span className={styles.uppercase}>a</span>des
+        Roof<span className={styles.uppercase}>t</span>op Poo
+        <span className={styles.uppercase}>l</span>side Sp
+        <span className={styles.uppercase}>a</span>des
       </span>
       <div className={styles.proseBox}>
-       
-          <br />
-          World witout end!
-However it falls!
-The aesthetics of my politics are not for sale!
-I wonder about these mouldy webpages like all the time!
-In this archive you shall encounter some genuine lovers but don’t expect too many other things!
-It’s giving me the ick how you continue to grope that screen of yours!
-Can’t you just finally own up to the good life!
-It’s never too late to grow up!
-Damn right I run this book club on my own!
-Anyone would have made a French turn then!
-Every day is a new chance to be more feminine!
-We get to realize the baby!
-Now it’s time for us to fuck some hammocks into the ground!
-I’m only asking you to lend me a speculum!
-And take my dog for the walk of his life!
-I was going to get that golden handshake!
-The best way something pops must clearly be the berry in a gendered compound!
-But what an adorable value you have entertained us with tonight!
-What a tiny leaflet thrown into my naughty bank account!
-Mail the list some squashy remedies!
-I see the double bind in the sky!
-And the rest is natural history!
+        <br />A FUBU takeover of a rooftop hotel in Hollywood. Several tabletops
+        and open tournaments. And Uno and Bid Whist. Spades training for those
+        who don’t know how. “Why would anyone want to learn how to play this
+        generational trauma game?” Sasha says while sipping her pink drink.
+        There’s a mermaid weaving a course below legs, her teal and cerulean
+        tail whipping. 85 degrees out and the water’s perfect.
       </div>
       <br />
       <br />
@@ -227,303 +211,151 @@ And the rest is natural history!
       <br />
       <br />
       <br />
-      <span className={styles.boldHeader}>Big ?</span>
-      <div className={styles.poemBox}>
-        <pre className={styles.poem}>
-          <br />
-          {`Besides that lukewarm property?
-Is that a yes or are you still waiting to hear back?
-Did I ask you to turn around?
-And who am I to be horny tonight?
-Likewise?`}
-        </pre>
-      </div>
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <span className={styles.boldHeader}>deal .</span>
-      <div className={styles.poemBox}>
-        <pre className={styles.poem}>
-          <br />
-          {`I went diving, knees first.
-Water comes from the breasts.
-Like an unhinged simile.
-Later, a message would be text.
-Now that’s a problem if there ever was one.
-And yet, I’d make for a good photo.
-I feel like it’s grey and striped.
-Before the owner goes.
-Mostly another night.
-Let’s not be too hard on your disappointments.
-In fact, once someone had furnished a thorough assessment it was thorough enough to change.
-Ravishing, truly ravishing.
-Likewise.
-Whereas I always assumed the loveliest of them all would have come from far away.
-I wanna say fire.
-I mean I mean it.
-Everyone gets some and only some.
-And some is repeated in every child.
-For starters, I want something rich.
-I mean I need it.
-And so the acolytes flew in their face.
-All he could do was blow her nose`}
-        </pre>
-      </div>
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-
-      <h3 className={styles.storyTitle}>
-        [<span className={styles.fadeLower}>from</span> At The End of A Form]
-      </h3>
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <div className={styles.poemBox}>
-        <pre className={styles.poem}>
-          <br />
-          {`At the end of a form           a gift keeps on giving        the task keeps on taking    the
-shake keeps on shaking     timing keeps on timing       rhyming keeps on vibing
-           mining keeps the mine in   forming by forming in       shining keeps on
-dashing        the show keeps on showing          slowing on keeps speeding             the
-breaks keep on breaking    I keep on needing one                   keep on needing another
-           in the day that keeps on     dying the star keeps     on shivering in hope of the
-           gift that keeps on giving    love that keeps on loving  mother keeps mothering
-insistence insisting              the fuck keeps on fucking           the fucking on fucking
-           the take keeps on taking    shower keeps on showing               tangens keep on
-tangenting     the end keeps on ending   the sequence sequencing the elaborating
-           keeps on belabouring           the gift keeps on giving                 the giving and
-giving            the spell keeps on casting               the capture keeps on keeping`}
-        </pre>
-      </div>
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <div className={styles.poemBox}>
-        <pre className={styles.poem}>
-          <br />
-          {`At the end of a formwhat weighs air      in the nigght oo      r what weiighs 1      d0wn
-thaet’s up      might be the scale lb                    off same same same
-            same sasame linen              the rokenness                  of the wager b a wor
-            king condition be    excsive jelly   tasti mhhm tas      ti abstract elli          I had
-been counting                     on some a raate                  dinners and yet        the sc1le
-hd congealed            EVERRYTHING                        into a cake bby vaas                    tli
-leavn out`}
-        </pre>
-      </div>
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <div className={styles.poemBox}>
-        <pre className={styles.poem}>
-          <br />
-          {`At the end of a form         at that red tat at the         fat end that end that well
-            at that end that that ex     act that at that gnat’s cock        that bratty flat cat
-a          bit chit chat can’t kill that             form at said end went that            stable fable
-rata                 tata have you met yet                     well when was that you’ll have
-            to met again or meet                       on my mark here’s the key              to the end
-of that what             are we back snatched from scratch     snatched the snack
-perhaps per              chance there’s a mat a stale        stair mat on which one could
-           step step back and step step`}
-        </pre>
-      </div>
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-
-      <h3 className={styles.storyTitle}>[At Night, Sleep Tight]</h3>
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
+      <span className={styles.boldHeaderTwo}>
+        Sex<span className={styles.uppercase}>a</span>ge
+        <span className={styles.uppercase}>na</span>ry C
+        <span className={styles.uppercase}>a</span>ke i
+        <span className={styles.uppercase}>n</span> M
+        <span className={styles.uppercase}>a</span>r Vis
+        <span className={styles.uppercase}>t</span>
+        <span className={styles.uppercase}>a</span>
+      </span>
       <div className={styles.proseBox}>
-        Cement rolls down the sturdy hills and it really doesn’t turn anyone on.
-        I won’t remember that look in your eyes when you last told me to turn it
-        down a bit. We both immediately knew it was a vibe, the sort that comes
-        out of a blasted finisher. In the end there were no constraints and we
-        were free to roam around your grandmother’s meticulously maintained
-        diaries.
         <br />
-        <br />
-        In the archives, I found some mashed envelopes. They had no signature
-        and no devotion, let alone benevolence, stamped onto their front. The
-        backs however…That was a different story altogether and I didn’t dare to
-        drag you into it. Nor did I drag the touchy subject we were dancing
-        around in synch. Our rotations resembled the movement of the tongue
-        fingering some unwanted debris from the towers of chalk.
-        <br />
-        <br />
-        When all of this becomes too poetic, just run. You can run like a
-        policewoman after being catcalled. This will block the noise, and it
-        should elevate the tantrums thrown into the closet earlier as well as
-        the stick figures I had made from scratch. In the caves shone the vivid
-        light of a tank which was, you know, just passing by. We huddled into
-        the corner, and believe it or not, the cracks in the air made for the
-        night of our lives.
-        <br />
-        <br />
-        Indeed, cracking was part of the theme you were commissioned to do a
-        dance piece about. Not really about, rather on, or I’d even say over.
-        You know: salacious at best, luscious at worst. When you first called me
-        lukewarm, I knew we weren’t going to last. At least not much longer than
-        the next commemoration meeting, until which I had to regain composure,
-        at least to the outside world which, more often than not, I found by
-        shoving the t-shirt up my nipples and inserting the glasses into my
-        eyes.
-        <br />
-        <br />
-        As if these words could touch anything in the interiority of your space,
-        as if they could intrude into a private cabin which smelled as if it
-        hadn’t been opened since the scholastic period! I bet they used to write
-        the book of nature here when I last checked! These days, as you are
-        painfully aware, I don’t have the time to check anything anymore amidst
-        all the absenting I make myself go through every other month in the hope
-        to not say anything but to do so verbosely, like the child who would run
-        down the stairs over and over again just to inform their parents about
-        their inability to sleep during the reels. I know you would not get
-        involved and it was on me to sweep the shards that dropped from their
-        skirt.
+        Lanie’s turning 60! “And I’ll keep dragging this 60-year-old ass across
+        the globe as long as it’ll let me. A show of love in all the sweetness.
+        Liberation pecan pie from a South Central bakery. Tres leches by an old
+        friend I organized with in the 80’s. Sweet milk bread and taro root cake
+        from one of the only Koreatown bakeries to survive the riots. Red velvet
+        made by MoMo, her grandmama’s recipe,” and her face is flush from joyful
+        heat.
       </div>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <span className={styles.boldHeader}>
+        Tr<span className={styles.uppercase}>an</span>s P
+        <span className={styles.uppercase}>r</span>id
+        <span className={styles.uppercase}>e</span>{" "}
+        <span className={styles.uppercase}>a</span>fte
+        <span className={styles.uppercase}>r</span> P
+        <span className={styles.uppercase}>a</span>r
+        <span className={styles.uppercase}>t</span>y
+      </span>
+      <div className={styles.proseBox}>
+        <br />
+        Official afters in the gold painted loft in the Fashion District. Black
+        skin black leather blacklight Black QTs only, femmecentric,
+        paywhatyoucan nooneturnedawayforlackoffunds. Red roses in the dark. The
+        stripper pole in the center of the stage and behind it the projected
+        shifting grind of booty against strap. Before intermission, Mx. SuSu
+        shakes her ass and cheerleads while MamaSiren shows everyone that “FIYAH
+        PUSSY!”
+      </div>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <span className={styles.boldHeaderTwo}>
+        <span className={styles.uppercase}>a</span>lte
+        <span className={styles.uppercase}>r</span> m
+        <span className={styles.uppercase}>a</span>ki
+        <span className={styles.uppercase}>n</span>g wit
+        <span className={styles.uppercase}>h</span> sh
+        <span className={styles.uppercase}>r</span>o
+        <span className={styles.uppercase}>o</span>ms
+      </span>
+      <div className={styles.proseBox}>
+        <br />
+        Alisha’s grieving; thankful that a father can only die once. Though
+        there are ways to make him live forever. We need dusk’s settlement,
+        lavender and yellow candles, a healing incense blend from the botanica,
+        asking of the urban coyotes for night song, readied minds for the
+        earth’s generous offerings. Grief demands a feminine psylocibin strain.
+        Let’s all stand close while we chew the earthy slime caps. Lay hands on
+        Alisha, let her know we’re going nowhere.
+      </div>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <span className={styles.boldHeaderThree}>
+        u<span className={styles.uppercase}>n</span>d
+        <span className={styles.uppercase}>e</span>r
+        <span className={styles.uppercase}> a</span> b
+        <span className={styles.uppercase}>r</span>i
+        <span className={styles.uppercase}>d</span>ge o
+        <span className={styles.uppercase}>v</span>er t
+        <span className={styles.uppercase}>h</span>e
+        <span className={styles.uppercase}> LA </span> rive
+        <span className={styles.uppercase}>r</span>
+      </span>
+      <div className={styles.proseBox}>
+        <br />
+        Trust fund queers throwing a late-hour punk show to raise money for
+        anti-fascist protestors’ bail bonds. Signal boost the direct action
+        happening downtown tomorrow. Then next week, I’m going to New Zealand
+        with my family for vacation. They don’t know I believe in redistribution
+        of the wealth. Hey look, the next band is about to start their set. Do
+        you want some ketamine melts? My dad writes me prescriptions all the
+        time.
+      </div>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <span className={styles.boldHeaderTwo}>
+        420 d0
+        <span className={styles.uppercase}>g </span>b
+        <span className={styles.uppercase}>i</span>r
+        <span className={styles.uppercase}>th</span>d
+        <span className={styles.uppercase}>a</span>y
+      </span>
+      <div className={styles.proseBox}>
+        <br />
+        Cúco is the lovechild of a Mexican dyke from El Sereno and a drifter
+        stud from West Texas. They pray to a different G*d each morning,
+        hand-in-hand, and they both changed their last names to X. No marriage
+        in the state-sanctioned eyes of the law. “But it’s my weed baby’s
+        birthday,” one says, “and I’m in love with my girl.” BYOW and laid out
+        blankets on the green in Echo Park. People watching, heaven above
+        afternoon blue. Cúco eyeing the birds.
+      </div>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
       <Footer />
     </>
   );
