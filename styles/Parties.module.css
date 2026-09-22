@@ -51,6 +51,20 @@
   text-transform: uppercase;
 }
 
+.storyTitleTwo {
+  max-width: 12vw;
+  font-family: "lores-9-plus-wide", monospace;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 2.9rem;
+  color: white;
+  text-shadow: 3px 3px black, 5px 5px white, 6px 6px #FAA0A0, 9px 9px black, 14px 14px 4px #FAA0A0;
+  letter-spacing: 1rem;
+  line-height: 1.4em;
+  margin-left: 38vw;
+  text-transform: uppercase;
+}
+
 .proseBox {
   max-width: 70vw;
   margin-left: 15vw;

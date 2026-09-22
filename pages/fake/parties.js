@@ -216,7 +216,7 @@ export default function Parties() {
         <span className={styles.uppercase}>na</span>ry C
         <span className={styles.uppercase}>a</span>ke i
         <span className={styles.uppercase}>n</span> M
-        <span className={styles.uppercase}>a</span>r Vis
+        <span className={styles.uppercase}>ar</span> Vis
         <span className={styles.uppercase}>t</span>
         <span className={styles.uppercase}>a</span>
       </span>
@@ -356,6 +356,208 @@ export default function Parties() {
       <br />
       <br />
       <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <h3 className={styles.storyTitle}>[Small World]</h3>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <div className={styles.proseBox}>
+        <br />
+        Lovely knows Jaye through Myra; they finally met at the housewarming
+        party. Myra wanted to move to Bridgeport because “Edgewater is
+        insufferable. I’m fucking Mexican. All those White gay boys were just
+        itching to call the police on me.” Jaye wanted to limit their commute.
+        They make leather gear at this White lesbian’s factory in the South
+        Loop, and gifts the rejects to us, his friends. He gave me something
+        recently; ankle cuffs. I know Lovely through Spider. The two of them
+        used to date, and call each other best friends these days. Spider has a
+        wife now, Leti. They live together in a house in Humboldt Park. Leti and
+        Myra used to be best friends, until Leti fucked Gia. Gia and Myra used
+        to date. “You broke my heart, Leti, you fucking ruined me.” Jaye’s old
+        roommate, Shereen, moved to Chicago from rural Iowa, and always left the
+        front door unlocked. Jaye moved in with Myra because they both loved to
+        live with chronic disappointment, so the house was always going to be
+        clean enough but with something left to fix. Still, Myra is romantic,
+        waiting on a good time to play matchmaker with Lovely and Jaye. Jaye
+        likes hard femmes a lot. Lovely with all her tools and steel toe boots
+        and Fulani braids. Lovely likes broody queers with turquoise mullets who
+        are good with their hands. So they’ll do the good dyke thing, and
+        probably have a first date at a hardware store so that Lovely can build
+        Jaye a birdhouse, and they’ll go out for ice cream after.
+      </div>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <h3 className={styles.storyTitleTwo}>[femme4femme]</h3>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <span className={styles.boldHeader}>
+        o<span className={styles.uppercase}>la</span>-
+        <span className={styles.uppercase}>n</span>n
+        <span className={styles.uppercase}>a</span>
+      </span>
+      <div className={styles.proseBox}>
+        <br />
+        She’d chosen her own name when she got tired of her parent’s monstrosity
+        (Bethany Anabel). “I wanted a name with some shine in it. Twinkle
+        twinkle.” Then a smile showing off her tooth gem of the week. Drove the
+        same burgundy 90s Coupe de Ville as every granny in Alabama, I bet.
+        That’s who’d given her hers. “Plus,” she said, “I’m almost 100 that my
+        granny was a dyke. Turning out all those little females in her church.”
+        RIP to a real one. Maybe the superior ability to eat pussy was genetic.
+        Ola-nna could work her way around a cunt. Halloween night. No dress up
+        and risking candy, our teeth just as close to rot as when we were
+        children, but with no backup set. Saw some silly film—dead frat bros and
+        chainsaws, guts—and drank probiotic soda in the Coupe. Her hands found
+        me commando, and I let her do what she did best.
+      </div>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <span className={styles.boldHeaderTwo}>
+        c<span className={styles.uppercase}>o</span>m
+        <span className={styles.uppercase}>p</span>e
+        <span className={styles.uppercase}>n</span>s
+        <span className={styles.uppercase}>a</span>t
+        <span className={styles.uppercase}>i</span>o
+        <span className={styles.uppercase}>n</span>
+      </span>
+      <div className={styles.proseBox}>
+        <br />
+        It was third winter and the crusty stone snow was up in mounds.
+        Everything sucked I hate this place. Madness swallowed my luck and I had
+        gotten desperate. I was being fetishized by this biracial dyke artist
+        suffering from one of the most life-threatening cases of White Mommy
+        Syndrome&trade; I’ve ever encountered. Only fucked Black femmes. “Been
+        up in a White pussy once, I ain’t ever going back.” Braided her wispy
+        little hairs so tight her scalp blazed red. What was I worth? I was the
+        mothership giving her a ride to the motherland. Literal space cadet.
+        Confessed to me once that she’d been chosen by an alien race to
+        communicate their message to humanity through her art. What was the
+        message? Who cares. She told me she felt safe with me, “That’s why I can
+        tell you this. You understand.” She told me she loved me, “Come home and
+        meet my parents.” Drove five hours through shithole Indiana to some
+        nowhere place. Her White mother adored me while her Black father hated
+        Black people, afraid to look at me. When her parents went to bed, she
+        wanted to fuck. “Kinda weird but, I hope my parents hear us.”
+      </div>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <span className={styles.boldHeader}>
+        he
+        <span className={styles.uppercase}>l</span>me
+        <span className={styles.uppercase}>t</span> br
+        <span className={styles.uppercase}>a</span>i
+        <span className={styles.uppercase}>n</span> se
+        <span className={styles.uppercase}>x</span>
+      </span>
+      <div className={styles.proseBox}>
+        <br />
+        Quincy, a nerd who builds shit with twisted pieces of wire and circuit
+        boards. Talks a lot about Arduino and decolonizing code. Electrosexual.
+        “Sometimes I wish we could have sex remotely with VR, like the helmet
+        brain sex they had in Demolition Man. Like, still feel the sensations,
+        but without having to touch.” I’ve never seen their body naked, but
+        they’re really into seeing mine. Only on camera, each of us in other
+        rooms. Tonight, I come over. Soft amber light in all the lamps, which
+        dykes favor. Faux fur everything. Rug, blanket. They feed me, greens and
+        tofu patties. Red wine (malbec, just a touch) and damiana tea. “You go
+        into my bedroom, and I’ll stay out here in the living room. I already
+        set the camera and mic up.” The light in their room is light purple, my
+        skin absorbing it. “Get naked,” their voice coming through the wall. I
+        do everything they tell me to. I found out later that they used to be a
+        camgirl. Couldn’t shake it all the way out of their system. The morning
+        after, they texted me, “I luv u.” I texted back, “Maybe I can kiss you
+        next time,” and I never heard from them again.
+      </div>
       <Footer />
     </>
   );
