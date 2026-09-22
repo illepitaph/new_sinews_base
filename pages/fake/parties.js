@@ -15,7 +15,7 @@ Parties.image = "https://www.newnewsinews.com/images/MemoryBackground.jpg";
 export default function Parties() {
   return (
     <>
-      <Header headerBackground="spellBackground" />
+      <Header headerBackground="partiesBackground" />
       <br />
       <br />
       <br />
@@ -136,7 +136,8 @@ export default function Parties() {
       <br />
       <LeftBlackTitle>
         <span className={styles.ellipses}>...</span> c
-        <span className={styles.uppercase}>h</span>ekwube <br />{" "}
+        <span className={styles.uppercase}>h</span>ekwu
+        <span className={styles.uppercase}>b</span>e <br />{" "}
         <span className={styles.ellipses}>...</span> d
         <span className={styles.uppercase}>a</span>n
         <span className={styles.uppercase}>la</span>di
@@ -470,15 +471,7 @@ export default function Parties() {
         <span className={styles.uppercase}>a</span>
       </span>
       <div className={styles.proseBox}>
-        <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
-        <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
-        new_sinews issue10 is still in production ++ very dynamic ++ crazy ++ hype
-        <br /> <br /> <br /> <br /> <br />
-        1 thing: the issue feels like it could still use one longer weirder substantial poem 
-        <br /> <br /> <br /> <br /> <br /><span className={styles.uppercase}>or else</span>: a bigger prolonged substantial group of assuredly insistently odd poems  <br /> <br /> <br /> <br /> <br />
-        just putting that out there !! for you or anyone you know ... we are getting close<br /> <br /> <br /> <br /> <br />
-        newsinewsmag@gmail.com <br /> <br /> <br /> <br /> <br /> <br />
-        <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+        <br />
         She’d chosen her own name when she got tired of her parent’s monstrosity
         (Bethany Anabel). “I wanted a name with some shine in it. Twinkle
         twinkle.” Then a smile showing off her tooth gem of the week. Drove the

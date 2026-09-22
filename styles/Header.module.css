@@ -522,6 +522,10 @@
   background-image: url("../public/images/SpellBackground.jpg");
 }
 
+.partiesBackground {
+  background-image: url("../public/images/PartiesBackground.jpg");
+}
+
 
 @media (width: 1366px) and (height: 1024px) {
   .siteNav > .dropDown > a > button,
