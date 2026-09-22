@@ -110,106 +110,16 @@
     letter-spacing:0.3rem;
 }
 
-@media (width: 1366px) and (height: 1024px) {
-
-  .proseBox {
-    max-width: 80vw;
-    margin-left:10vw;
-    font-size:1.2rem;
-  }
-}
-
-@media (width: 1280px) and (height: 853px) {
-
-  .proseBox {
-    max-width: 80vw;
-    margin-left:10vw;
-    font-size:1.1rem;
-  }
-}
-
-@media (width: 1280px) and (height: 800px) {
-
-  .proseBox {
-    max-width: 80vw;
-    margin-left:10vw;
-    font-size:1.2rem;
-  }
-}
-
-@media (width: 1210px) and (height: 834px) {
-
-  .proseBox {
-    max-width: 80vw;
-    margin-left:10vw;
-    font-size:1.1rem;
-  }
-}
-
-@media (width: 1180px) and (height: 820px) {
-
-   .proseBox {
-    max-width: 80vw;
-    margin-left:10vw;
-    font-size:1.2rem;
-  }
-}
-
-@media (width: 1138px) and (height: 712px) {
-
-  .proseBox {
-    max-width: 80vw;
-    margin-left:10vw;
-    font-size:1.2rem;
-  }
-}
-
-@media (width: 1133px) and (height: 744px) {
-
-  .proseBox {
-    max-width: 80vw;
-    margin-left:10vw;
-    font-size:1.2rem;
-  }
-}
-
-@media (width: 1080px) and (height: 810px) {
-
-   .proseBox {
-    max-width: 80vw;
-    margin-left:10vw;
-    font-size:1.2rem;
-  }
-}
-
-@media (width: 1024px) and (height: 1366px) {
-
-   .proseBox {
-    max-width: 80vw;
-    margin-left:10vw;
-    font-size:1.2rem;
-  }
-}
-
-@media (width: 1024px) and (height: 768px) {
-
-  .proseBox {
-    max-width: 80vw;
-    margin-left:10vw;
-    font-size:1.2rem;
-  }
-}
-
-@media (width: 1024px) and (height: 600px) {
-
-  .proseBox {
-    max-width: 80vw;
-    margin-left:10vw;
-    font-size:1.2rem;
-  }
-}
-
 @media (max-width: 957px) and (orientation: landscape) {
+
+.titleShadow {
+  letter-spacing: 0.3rem;
+}
+
+.storyTitle, .storyTitleTwo {
+    margin-left:2vw;
+    letter-spacing:0.2rem;
+}
 
   .proseBox {
     max-width: 80vw;
@@ -220,23 +130,28 @@
 
 @media (max-width: 913px) and (orientation: portrait) {
   .titleShadow {
-    font-size: 4.5rem;
+    font-size: 3.5rem;
+    letter-spacing:0.2rem;
   }
 
-  .proseBox {
-    font-size: 0.95rem;
+  .storyTitle {
+    font-size:2.2rem;
+    letter-spacing:0.5rem;
+    margin-left:11vw;
+  }
+
+  .storyTitleTwo {
+     font-size:1.8rem;
+    letter-spacing:0rem;
+    margin-left:13vw;
   }
 }
 
 @media (max-width: 854px) and (orientation: landscape) {
 
    .titleShadow {
-    font-size: 3.5rem;
+    font-size: 3rem;
   }
-
-  .poemTitle {
-    margin-left:36vw;
-}
 
 }
 
@@ -245,25 +160,37 @@
     font-size: 2.7rem;
   }
 
-   .proseBox {
-    max-width: 90vw;
-    font-size: 0.9rem;
-    margin-left:3vw;
+  .boldHeader, .boldHeaderTwo, .boldHeaderThree {
+    font-size:1.6rem;
   }
 
-  .boldHeader {
+   .proseBox {
+    max-width: 90vw;
+    font-size: 1rem;
+    margin-left:5vw;
+  }
+}
+
+@media (max-width: 428px) and (orientation: portrait) {
+  .titleShadow {
     font-size: 2.3rem;
   }
 }
 
 
-@media (max-width: 376px) and (orientation: portrait) {
-
-.titleShadow {
-    font-size: 2.5rem;
-  }
-
-.proseBox {
-    font-size:0.55rem;
+@media (max-width: 375px) and (orientation: portrait) {
+  .titleShadow {
+    font-size: 2rem;
   }
 }
+
+@media (max-width: 361px) and (orientation: portrait) {
+  .titleShadow {
+    font-size: 1.7rem;
+  }
+
+   .boldHeader, .boldHeaderTwo, .boldHeaderThree {
+    font-size:1.4rem;
+  }
+}
+

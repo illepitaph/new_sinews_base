@@ -545,19 +545,19 @@ export default function Parties() {
         Quincy, a nerd who builds shit with twisted pieces of wire and circuit
         boards. Talks a lot about Arduino and decolonizing code. Electrosexual.
         “Sometimes I wish we could have sex remotely with VR, like the helmet
-        brain sex they had in Demolition Man. Like, still feel the sensations,
-        but without having to touch.” I’ve never seen their body naked, but
-        they’re really into seeing mine. Only on camera, each of us in other
-        rooms. Tonight, I come over. Soft amber light in all the lamps, which
-        dykes favor. Faux fur everything. Rug, blanket. They feed me, greens and
-        tofu patties. Red wine (malbec, just a touch) and damiana tea. “You go
-        into my bedroom, and I’ll stay out here in the living room. I already
-        set the camera and mic up.” The light in their room is light purple, my
-        skin absorbing it. “Get naked,” their voice coming through the wall. I
-        do everything they tell me to. I found out later that they used to be a
-        camgirl. Couldn’t shake it all the way out of their system. The morning
-        after, they texted me, “I luv u.” I texted back, “Maybe I can kiss you
-        next time,” and I never heard from them again.
+        brain sex they had in <i>Demolition Man</i>. Like, still feel the
+        sensations, but without having to touch.” I’ve never seen their body
+        naked, but they’re really into seeing mine. Only on camera, each of us
+        in other rooms. Tonight, I come over. Soft amber light in all the lamps,
+        which dykes favor. Faux fur everything. Rug, blanket. They feed me,
+        greens and tofu patties. Red wine (malbec, just a touch) and damiana
+        tea. “You go into my bedroom, and I’ll stay out here in the living room.
+        I already set the camera and mic up.” The light in their room is light
+        purple, my skin absorbing it. “Get naked,” their voice coming through
+        the wall. I do everything they tell me to. I found out later that they
+        used to be a camgirl. Couldn’t shake it all the way out of their system.
+        The morning after, they texted me, “I luv u.” I texted back, “Maybe I
+        can kiss you next time,” and I never heard from them again.
       </div>
       <Footer />
     </>
