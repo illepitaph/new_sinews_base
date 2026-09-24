@@ -14,7 +14,7 @@ export default function Jianghu() {
     <>
       <Head />
 
-      <Header headerBackground="endlessBackground" />
+      <Header headerBackground="jianghuBackground" />
       <br />
       <br />
       <br />

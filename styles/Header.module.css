@@ -526,6 +526,9 @@
   background-image: url("../public/images/PartiesBackground.jpg");
 }
 
+.jianghuBackground {
+  background-image: url("../public/images/JianghuBackground.jpg");
+}
 
 @media (width: 1366px) and (height: 1024px) {
   .siteNav > .dropDown > a > button,
