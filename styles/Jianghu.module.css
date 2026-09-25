@@ -11,31 +11,8 @@
   text-transform: lowercase;
 }
 
-.titleTwo {
-  font-family: "lores-9-minus-narrow";
-  font-size: 2.6rem;
-  text-align: center;
-  text-shadow:
-    1px 1px white,
-    2px 2px black,
-    3px 3px white,
-    4px 4px black,
-    5px 5px white,
-    6px 6px black;
-  text-transform: uppercase;
-}
-
 .uppercase {
   text-transform: uppercase;
-}
-
-.cursive {
-  font-family: "bickham-script-pro-3", sans-serif;
-  font-size: 6.3rem;
-  color: black;
-  text-shadow:
-    4px 4px snow,
-    8px 8px gainsboro;
 }
 
 .cursiveTwo {
@@ -69,136 +46,35 @@
   text-transform: lowercase;
 }
 
-.specialTwo {
-  font-family: "lores-9-plus-wide", monospace;
-  font-size: 2.6rem;
-  color: white;
-  text-shadow:
-    1px 1px black,
-    2px 2px white,
-    3px 3px black,
-    4px 4px white,
-    black 5px 5px;
-  text-transform: uppercase;
-}
-
-.margin {
-  display: inline-block;
-  margin-left: 22vw;
-}
-
-.marginTwo {
-  display: inline-block;
-  margin-left: 3vw;
-}
-
-.marginThree {
-  display: inline-block;
-  margin-left: 29vw;
-}
-
-.marginFour {
-  display: inline-block;
-  margin-right: 49vw;
-}
-
 @media (max-width: 813px) and (orientation: landscape) {
- .title, .titleTwo, .special, .specialTwo {
+ .title, .special {
     font-size:4rem;
   }
 
-    .cursive, .cursiveTwo, .cursiveThree {
+    .cursiveTwo, .cursiveThree {
     font-size:5rem;
   }
-
-  .marginThree {
-  display: inline-block;
-  margin-left: 9vw;
-}
-
-.marginFour {
-  display: inline-block;
-  margin-right: 4vw;
-}
 }
 
 @media (max-width: 541px) and (orientation: portrait) {
 
-  .title, .titleTwo, .special, .specialTwo {
+  .title, .special {
     font-size:3rem;
   }
 
-  .cursive, .cursiveTwo, .cursiveThree {
+  .cursiveTwo, .cursiveThree {
     font-size:4rem;
   }
 
-    .margin {
-  display: inline-block;
-  margin-left: 2vw;
-}
-
-.marginTwo {
-  display: inline-block;
-  margin-left: 2vw;
-}
-
-.marginThree {
-  display: inline-block;
-  margin-left: 4vw;
-}
-
-}
-
-@media (max-width: 361px) and (orientation: portrait) {
-
-  .margin {
-  display: inline-block;
-  margin-left: 2vw;
-}
-
-.marginTwo {
-  display: inline-block;
-  margin-left: 2vw;
-}
-
-.marginThree {
-  display: inline-block;
-  margin-left: 4vw;
-}
-
-.marginFour {
-  display: inline-block;
-  margin-right: 4vw;
-}
 }
 
 @media (max-width: 321px) and (orientation: portrait) {
 
-  .title, .titleTwo, .special, .specialTwo {
+  .title, .special, .specialTwo {
     font-size:2.5rem;
   }
 
-  .cursive, .cursiveTwo, .cursiveThree {
+  .cursiveTwo, .cursiveThree {
     font-size:3.5rem;
   }
-
-  .margin {
-  display: inline-block;
-  margin-left: 1vw;
-}
-
-.marginTwo {
-  display: inline-block;
-  margin-left: 1vw;
-}
-
-.marginThree {
-  display: inline-block;
-  margin-left: 3vw;
-}
-
-.marginFour {
-  display: inline-block;
-  margin-right: 3vw;
-}
 }

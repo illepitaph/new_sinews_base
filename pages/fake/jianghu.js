@@ -43,12 +43,10 @@ export default function Jianghu() {
       <br />
       <br />
       <LeftBlackTitle>
-        <span className={styles.bareHeader}>
           ... <span className={styles.uppercase}>a</span>l
           <span className={styles.uppercase}>v</span>i
           <span className={styles.uppercase}>n</span> ...
           <span className={styles.uppercase}> l</span>u ...
-        </span>
       </LeftBlackTitle>
       <br />
       <br />
