@@ -713,6 +713,30 @@
   }
 }
 
+@media (width: 1032px) and (height: 1376px) {
+  .iconImage {
+    width: 19vw;
+    height: 29vh;
+    margin: 12vh 0 0 5vw;
+  }
+
+  .siteNav {
+    margin-right: 3%;
+  }
+
+  .siteNav > .dropDown a > button,
+  .home,
+  .about {
+    font-size: 0.8rem;
+    padding: 6px 3px;
+  }
+
+  .home {
+    font-size: 0.49rem;
+    padding: 1px 3px;
+  }
+}
+
 @media (width: 1024px) and (height: 1366px) {
   .iconImage {
     width: 19vw;
