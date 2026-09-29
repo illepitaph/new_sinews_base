@@ -3,14 +3,14 @@ import Header from "../../components/header.js";
 import LeftGrayTitle from "../../components/leftGrayTitle.js";
 import StandardProse from "../../components/standardProse.js";
 import Footer from "../../components/footer.js";
-import styles from "../../styles/Apollo.module.css";
-Apollo.title = "amelia moriarty ~ apollo_in_tokyo — new_sinews";
-Apollo.pieceName = "amelia moriarty ~ apollo_in_tokyo — new_sinews";
-Apollo.description =
-  "_Amelia Moriarty_fiction_APOLLO IN TOKYO_news_sinews_issue9_";
-Apollo.image = "https://www.newnewsinews.com/images/ApolloBackground.jpg";
+import styles from "../../styles/Obliteration.module.css";
+Obliteration.title = "yanara friedland ~ obliteration — new_sinews";
+Obliteration.pieceName = "yanara friedland ~ obliteration — new_sinews";
+Obliteration.description =
+  "_Yanara Friedland_fiction_OBLITERATION_news_sinews_issue10_";
+Obliteration.image = "https://www.newnewsinews.com/images/ApolloBackground.jpg";
 
-export default function Apollo() {
+export default function Obliteration() {
   return (
     <>
       <Head />
@@ -18,49 +18,47 @@ export default function Apollo() {
       <Header headerBackground="apolloBackground" />
       <LeftGrayTitle>
         <span className={styles.titleShadow}>
-          <span className={styles.alternateTitleColor}>a</span>
-          <span className={styles.inverseShadowUppercase}>p </span>
+          <span className={styles.alternateTitleColor}>o</span>
+          <span className={styles.inverseShadowUppercase}>b </span>
           <span className={styles.skewRight}>
             <span className={styles.skewDown}>
-              <span className={styles.titleShadowUppercase}>o</span>
+              <span className={styles.titleShadowUppercase}>l</span>
             </span>
           </span>
-          <span className={styles.inverseShadowUppercase}>L </span>
+          <span className={styles.alternateTitleColorBigger}>i </span>
           <span className={styles.skewRight}>
-            <span className={styles.titleShadowUppercase}>l</span>
-          </span>
-          <span className={styles.alternateTitleColorTwo}>o</span>
-          <br />
-          <span className={styles.skewLeft}>
-            <span className={styles.alternateTitleColorBigger}>i </span>
-            <span className={styles.inverseShadowUppercase}>n </span>
-          </span>
-          <br />
-          <br />_{" "}
-          <span className={styles.skewLeftTwo}>
-            <span className={styles.inverseShadow}> _</span>
-            <span className={styles.alternateTitleColorThree}> t</span>
-          </span>
-          <span className={styles.inverseShadowUppercase}> o </span>
-          <span className={styles.skewUp}>
-            <span className={styles.titleShadowUppercase}>k </span>
-          </span>
-          <span className={styles.specialUnderscoreColor}> _ </span>
-          <span className={styles.alternateTitleColorUppercase}>y </span>
-          <span className={styles.skewRight}>
-            <span className={styles.inverseShadow}> _</span>
-            <span className={styles.skewDown}>
-              <span className={styles.inverseShadowUppercase}> o</span>
+             <span className={styles.skewDown}>
+            <span className={styles.alternateTitleColorThree}>t </span>
             </span>
+            <span className={styles.titleShadowUppercase}>e </span>
+            <span className={styles.inverseShadowUppercase}>r </span>
+            <span className={styles.alternateTitleColorThree}>a </span>
+             <span className={styles.skewDown}>
+              <span className={styles.titleShadowUppercase}>t</span>
+              </span>
+              <span className={styles.inverseShadow}>i </span>
+                <span className={styles.skewDown}>
+              <span className={styles.alternateTitleColorThree}>o</span>
+              </span>
+              <span className={styles.alternateTitleColorBigger}>n </span>
           </span>
+          <br />
         </span>
       </LeftGrayTitle>
       <br />
       <br />
+       <br />
+      <br />
+       <br />
+      <br />
+       <br />
+      <br />
+       <br />
+      <br />
       <div className={styles.authorName}>
         {" "}
-        <span className={styles.ellipses}>...</span> amelia <br />{" "}
-        <span className={styles.ellipses}>...</span>moriarty{" "}
+        <span className={styles.ellipses}>...</span> yanara <br />{" "}
+        <span className={styles.ellipses}>...</span>friedland{" "}
       </div>
       <br />
       <br />
