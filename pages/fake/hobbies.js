@@ -51,19 +51,19 @@ export default function Hobbies() {
           <br />
           <span className={styles.inverseNameShadow}>r </span>
           <br /><br />
-          <span className={styles.specialCursive}>a</span> <br />
+          <span className={styles.specialCursive}>a</span> <br /><br />
           <span className={styles.rightMargin}>
-            <span className={styles.inverseNameShadow}> p </span>
+            <span className={styles.inverseNameShadow}> <i>p</i> </span>
           </span>
            <br />
           <br />
           <span className={styles.specialCursive}> h </span>
-           <br />
+           <br /><br />
              <span className={styles.rightMargin}>
-          _ <span className={styles.specialCursive}>e</span></span>
+          _ <span className={styles.specialCursive}> e</span>_</span>
           <br />
           <br />
-            <span className={styles.inverseNameShadow}>l </span>
+            <span className={styles.inverseNameShadow}><i>l</i> </span>
           <br />
           <br />
           <span className={styles.inverseNameShadow}>&#10917;</span>
@@ -101,7 +101,7 @@ export default function Hobbies() {
       <br />
       <br />
       <br />
-      <pre className={styles.poem}>{`WOW said the baby when she saw the scooter
+      <pre className={styles.poem}><i>WOW</i>{` said the baby when she saw the scooter
 Even before it was out of the box. She knew it to be hers.
 A two-car house, Cozy Coupe makes three: yellow
 Roof, red chassis, Little Tykes. You know the one.
@@ -144,7 +144,7 @@ Good buys, then Good Bye.
 Anything’s affordable at the end of the world.
 Look what I found! GLOWIN’ THE GALAXY:
 A rare jawn, copped on Etsy. Then, its twin, WEARIN’ THE WORLD,
-Xmas, birthday, whatever–- I bought the lot, as is.
+Xmas, birthday, whatever–– I bought the lot, as is.
 Y/N? Big Y.
  
 Years go by. I grind in my sleep.
@@ -202,24 +202,24 @@ I made that up Ive been into ego death
                                                                 Did you even know about green spaces
 
 Its so lucky I can cultivate
-            NYCMiami really my hobby
-                    Is the greenest block in the world So
+             NYCMiami really my hobby
+                     Is the greenest block in the world So
  
                                   Im too busy to have hobbies habibi
                                               As in cubbies as in crafts as in
-                                                         I dont want to have to put it this way 
+                                                          I dont want to have to put it this way 
 
 But I did handweave this bucket tote 
              From scraps of the slaughterhouse tannery 
                         I mean I have a vegetal practice
 
                                      I mean I dont judge everyone so
-                                            Its so beautiful to journal I just
-                                                          I dont put it on socials you get it
+                                                 Its so beautiful to journal I just
+                                                              I dont put it on socials you get it
 
 Ive got it in my shoulders Im getting 
              Off on getting into cast iron getting to know
-                        Myself so much better from the inside
+                         Myself so much better from the inside
  
                                     My hobby is doctors I love to go to the MRI
                                               The intentionality of resetting my earscape
@@ -231,7 +231,7 @@ Im so invested in your hobbies tho
 
                                     Your hobby so far to the east you arrive
                                                 In Hobby Time Zone thirty minutes
-                                                         Extra each day for what you will
+                                                           Extra each day for what you will
 
 Tariffs on the bedsheets and freestanding kill`}</pre>
 <br />
