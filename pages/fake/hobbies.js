@@ -27,43 +27,55 @@ export default function Hobbies() {
       <RightBlackTitle>
         <span className={styles.nameHeight}>
           <span className={styles.inverseNameShadow}> a </span>
-          <br /><br />
+          <br />
+          <br />
           <span className={styles.specialCursive}>d</span>
           <br />
           <span className={styles.rightMargin}>
             <span className={styles.nameShadowUppercase}> r </span>
           </span>
           <br />
-         <span className={styles.specialCursive}>i</span>
+          <span className={styles.specialCursive}>i</span>
           <br />
           <span className={styles.rightMargin}>
-          <span className={styles.inverseNameShadow}>e</span></span>
+            <span className={styles.inverseNameShadow}>e</span>
+          </span>
           <br /> <span className={styles.specialCursive}>n</span>
           <br />
           <span className={styles.rightMargin}>
             <span className={styles.inverseNameShadow}>_ n</span>
           </span>
-           <br /><br />
+          <br />
+          <br />
           <span className={styles.specialCursive}>e</span>
           <br />
           <br />
           <br />
           <br />
           <span className={styles.inverseNameShadow}>r </span>
-          <br /><br />
-          <span className={styles.specialCursive}>a</span> <br /><br />
+          <br />
+          <br />
+          <span className={styles.specialCursive}>a</span> <br />
+          <br />
           <span className={styles.rightMargin}>
-            <span className={styles.inverseNameShadow}> <i>p</i> </span>
+            <span className={styles.inverseNameShadow}>
+              {" "}
+              <i>p</i>{" "}
+            </span>
           </span>
-           <br />
+          <br />
           <br />
           <span className={styles.specialCursive}> h </span>
-           <br /><br />
-             <span className={styles.rightMargin}>
-          _ <span className={styles.specialCursive}> e</span>_</span>
           <br />
           <br />
-            <span className={styles.inverseNameShadow}><i>l</i> </span>
+          <span className={styles.rightMargin}>
+            _ <span className={styles.specialCursive}> e</span>_
+          </span>
+          <br />
+          <br />
+          <span className={styles.inverseNameShadow}>
+            <i>l</i>{" "}
+          </span>
           <br />
           <br />
           <span className={styles.inverseNameShadow}>&#10917;</span>
@@ -95,13 +107,17 @@ export default function Hobbies() {
       <br />
       <br />
       <br />
-      <h3 className={styles.poemTitle}>SELF-PORTRAIT IN TWO TYVEK <span className={styles.tradeSpecial}>&trade;</span> WINDBREAKERS
-</h3>
+      <h3 className={styles.poemTitle}>
+        SELF-PORTRAIT IN TWO TYVEK{" "}
+        <span className={styles.tradeSpecial}>&trade;</span> WINDBREAKERS
+      </h3>
       <br />
       <br />
       <br />
       <br />
-      <pre className={styles.poem}><i>WOW</i>{` said the baby when she saw the scooter
+      <pre className={styles.poem}>
+        <i>WOW</i>
+        {` said the baby when she saw the scooter
 Even before it was out of the box. She knew it to be hers.
 A two-car house, Cozy Coupe makes three: yellow
 Roof, red chassis, Little Tykes. You know the one.
@@ -131,7 +147,9 @@ Adrienne, in this Adamless
 Eve. Where: Connecticut,
 Who else but Baby New Year’s, me! We might as well begin.
  
-God, I haven’t even confessed – `}<i>three</i>{` jackets!
+God, I haven’t even confessed – `}
+        <i>three</i>
+        {` jackets!
 Less than one week living in two apartments, lo, I
 Online shopped, set shipping – here?
 Where’d it go? – when Wes, who takes care, found one
@@ -162,8 +180,8 @@ Weeks. I’ll keep myself in the perpetual
 Off-season, even though there are seventy-two seasons,
 Let’s buy a new one every time. Wear the world!
 Great. I love decisions.
-`}</pre>
- <br />
+`}
+      </pre>
       <br />
       <br />
       <br />
@@ -171,13 +189,15 @@ Great. I love decisions.
       <br />
       <br />
       <br />
-       <h3 className={styles.poemTitleTwo}>My Hobbies
-</h3>
+      <br />
+      <h3 className={styles.poemTitleTwo}>My Hobbies</h3>
       <br />
       <br />
       <br />
       <br />
-      <pre className={styles.poem}>{`Im getting really into handstands
+      <pre className={styles.poem}>
+        {" "}
+        <span className={styles.poemSpecial}>{`Im getting really into handstands
               As a practice almost more mental than 
                             Well you know I have the physical
 
@@ -233,21 +253,22 @@ Im so invested in your hobbies tho
                                                 In Hobby Time Zone thirty minutes
                                                            Extra each day for what you will
 
-Tariffs on the bedsheets and freestanding kill`}</pre>
-<br />
+Tariffs on the bedsheets and freestanding kill`}</span>
+      </pre>
       <br />
       <br />
       <br />
       <br />
       <br />
       <br />
-       <h3 className={styles.poemTitle}>Blue
-</h3>
+      <br />
+      <h3 className={styles.poemTitle}>Blue</h3>
       <br />
       <br />
       <br />
       <br />
-      <pre className={styles.poem}>{`You have such beautiful blue eyes
+      <pre className={styles.poem}>
+        <span className={styles.poemSpecial}>{`You have such beautiful blue eyes
             I wonder if there are blues on both sides
                         Of course the baby would have blue eyes
 
@@ -325,8 +346,9 @@ Every morning I run past the Romantic Depot
 
 Or floating above my head, balloons
             Or I am a one-eyed seller of garlic, one blue eye
-                        With a hundred heads on my shoulder.`}</pre>
-     <br />
+                        With a hundred heads on my shoulder.`}</span>
+      </pre>
+      <br />
       <br />
       <br />
       <br />
@@ -334,7 +356,6 @@ Or floating above my head, balloons
       <br />
       <br />
 
-      
       <Footer />
     </>
   );
