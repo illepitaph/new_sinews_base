@@ -15,7 +15,7 @@ export default function Obliteration() {
     <>
       <Head />
 
-      <Header headerBackground="apolloBackground" />
+      <Header headerBackground="obliterationBackground" />
       <LeftGrayTitle>
         <span className={styles.titleShadow}>
           <span className={styles.alternateTitleColor}>o</span>

@@ -530,6 +530,10 @@
   background-image: url("../public/images/JianghuBackground.jpg");
 }
 
+.obliterationBackground {
+  background-image: url("../public/images/ObliterationBackground.jpg");
+}
+
 @media (width: 1366px) and (height: 1024px) {
   .siteNav > .dropDown > a > button,
   .home,
