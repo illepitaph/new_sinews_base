@@ -3,7 +3,7 @@
   color: snow;
   text-shadow:
     2px 2px black,
-    4px 4px #aaf0d1,
+    4px 4px #FAA0A0,
     6px 6px black,
     8px 8px white,
     10px 10px black,
@@ -22,7 +22,7 @@
     2px 2px black,
     5px 5px black,
     7px 8px white,
-    15px 16px 17px #aaf0d1;
+    15px 16px 17px #FAA0A0;
   letter-spacing: 3rem;
 }
 
@@ -34,7 +34,7 @@
     2px 2px black,
     5px 5px black,
     7px 8px white,
-    15px 16px 17px #aaf0d1;
+    15px 16px 17px #FAA0A0;
   letter-spacing: 3rem;
   text-transform: uppercase;
   transform: rotate(-12deg);
@@ -45,7 +45,7 @@
   color: snow;
   text-shadow:
     1px 1px black,
-    5px 5px #aaf0d1,
+    5px 5px #FAA0A0,
     7px 9px black;
   text-transform: uppercase;
 }
@@ -63,7 +63,7 @@
     2px 2px black,
     5px 5px black,
     7px 8px white,
-    15px 16px 17px #00ffff;
+    15px 16px 17px #FAA0A0;
   letter-spacing: 2rem;
 }
 
@@ -81,7 +81,7 @@
   color: white;
   text-shadow:
     1px 2px black,
-    3px 4px #aaf0d1,
+    3px 4px #FAA0A0,
     5px 6px black,
     7px 8px white,
     9px 10px 11px gray;
@@ -101,7 +101,7 @@
   color: white;
   text-shadow:
     1px 2px black,
-    3px 4px #aaf0d1,
+    3px 4px #FAA0A0,
     5px 6px black,
     7px 8px white,
     9px 10px 11px gray;

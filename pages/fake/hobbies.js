@@ -15,7 +15,7 @@ export default function Hobbies() {
   return (
     <>
       <Head />
-      <Header headerBackground="oldBackground" />
+      <Header headerBackground="hobbiesBackground" />
 
       <br />
       <br />

@@ -534,6 +534,10 @@
   background-image: url("../public/images/ObliterationBackground.jpg");
 }
 
+.hobbiesBackground {
+  background-image: url("../public/images/HobbiesBackground.jpg");
+}
+
 @media (width: 1366px) and (height: 1024px) {
   .siteNav > .dropDown > a > button,
   .home,
