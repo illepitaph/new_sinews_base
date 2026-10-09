@@ -167,6 +167,20 @@ export default function Obliteration() {
         itself. What was crowded out, through incessant hair brushing and
         grooming, might be called a susceptibility to attend to all that stood
         behind the shape, its animation and annihilation.
+
+
+
+
+
+
+
+
+      <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+        Death’s
+        indication is not cessation, not forgiveness, not fragmentation, but
+        rather a tropical fruit, enhanced processes of nature without
+        interference, which means with total interference. Such is the voice
+        narrating my corpse.
       </StandardProse>
 
       <Footer />
