@@ -54,7 +54,7 @@ export default function Coward() {
     <>
       <Head />
 
-      <Header headerBackground="kaputBackground" />
+      <Header headerBackground="cowardBackground" />
 
       <div className={styles.container}>
         <div className={styles.carousel}>

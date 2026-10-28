@@ -538,6 +538,10 @@
   background-image: url("../public/images/HobbiesBackground.jpg");
 }
 
+.cowardBackground {
+  background-image: url("../public/images/CowardBackground.jpg");
+}
+
 @media (width: 1366px) and (height: 1024px) {
   .siteNav > .dropDown > a > button,
   .home,
