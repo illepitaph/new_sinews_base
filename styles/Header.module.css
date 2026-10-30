@@ -542,6 +542,10 @@
   background-image: url("../public/images/CowardBackground.jpg");
 }
 
+.timeBackground {
+  background-image: url("../public/images/TimeBackground.jpg");
+}
+
 @media (width: 1366px) and (height: 1024px) {
   .siteNav > .dropDown > a > button,
   .home,

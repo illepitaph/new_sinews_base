@@ -5,9 +5,6 @@ import LeftBlackTitle from "../../components/leftBlackTitle.js";
 import StandardProse from "../../components/standardProse.js";
 import Image from "next/image";
 import Edge from "../../public/images/Time.jpg";
-import Stough3 from "../../public/images/Stough3.jpg";
-import Stough4 from "../../public/images/Stough4.jpg";
-import Stough5 from "../../public/images/Stough5.jpg";
 import Footer from "../../components/footer.js";
 import styles from "../../styles/Time.module.css";
 Time.title = "olga_mikolaivna ~ edge of time — new_sinews";
@@ -19,7 +16,7 @@ export default function Time() {
   return (
     <>
       <Head />
-      <Header headerBackground="nailsBackground" />
+      <Header headerBackground="timeBackground" />
       <LeftGrayTitle>
         <span className={styles.duskShadow}>
           <span className={styles.duskShadowUppercase}>e</span>
@@ -143,7 +140,7 @@ export default function Time() {
         <br />
         <br />
         The city has been built. Its ancient properties, currently focused on,
-        pondered; From her place, perspective.
+        pondered; from her place, perspective.
         <br />
         <br />
         <br />
@@ -236,7 +233,7 @@ export default function Time() {
         <br />
         <br />
         <br />
-        <span className={styles.headerIndentFour}>
+        <span className={styles.headerIndentOnePointSevenFive}>
           The sheen of past tense activity.
         </span>
         <br />
@@ -277,7 +274,8 @@ export default function Time() {
         I know I can take another step because I took the last.
         <br />
         <br />
-        <span className={styles.headerIndentFour}>This step is familiar.</span>
+        <br/>
+        <span className={styles.headerIndentOnePointSevenFive}>This step is familiar.</span>
         <br />
         <br />
         <span className={styles.headerIndent}>
@@ -303,20 +301,260 @@ export default function Time() {
         <span className={styles.headerIndentTwo}>
           i.e. looking at ancient Rome. She, he, they, we, or I; is/are/am.{" "}
         </span>
-        <br/>
-        <br/>
-         <span className={styles.headerIndent}>
-          The missing piece: to be.</span>
-        <br/>
-        <br/>
-        To be: looking at ancient Rome. To be: alive. To be: continuing a solid action.
-        <br/>
-        <br/>
-         <span className={styles.headerIndent}>
+        <br />
+        <br />
+        <span className={styles.headerIndent}>The missing piece: to be.</span>
+        <br />
+        <br />
+        To be: looking at ancient Rome. To be: alive. To be: continuing a solid
+        action.
+        <br />
+        <br />
+        <span className={styles.headerIndent}>
           To be / is to go on. Proceed in a timely or untimely fashion in time.
-        <br/>
-        <br/>
+          <br />
+          <br />
         </span>
+        <span className={styles.headerIndentFive}>
+          Destination undetermined.
+        </span>
+        <br />
+        <br />
+        Yet the past has preceded
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <div className={styles.imageBoxTwo}>
+          <Image
+            src={Edge}
+            layout={`responsive`}
+            alt="Cary Stough Headshot of The Author Amidst Daylit Windows"
+          />
+        </div>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <span className={styles.boldHeader}>two</span>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        Pupils expanding and retracting. Irises in motion. The imperfected
+        state.
+        <br />
+        <br />
+        My cat’s snake eyes dilate as he pounces on prey; in some cases the prey
+        is a live mouse he bats around the room.
+        <br />
+        <br />
+        In this game I have become a witness, and perhaps witnessing does not
+        include action, but perhaps a witness does. So, I catch the mouse in the
+        jar and let it outside, blockading the cat from pursual.
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        To see.
+        <br />
+        <br />
+        <br />
+        <span className={styles.headerIndent}></span>To truly see is to assert
+        against the ricochet of ease and superficial tidings, may be the only
+        gift to the apple of one’s eye.
+        <br />
+        <br />
+        <br />
+        In this case, there are multiple deriding eyes.
+        <br />
+        <br />
+        <br />
+        Defecation of eyesight, perceptive ( and captive ) qualities championed
+        by the object’s epistemological projection. Turns the projected upon
+        into a canvas – an object.
+        <br />
+        <span className={styles.headerIndentSix}></span>An apple.
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        How solid a vision may be – and how quickening and fleeting on the tip
+        and the grayscale of light.
+        <br />
+        <br />
+        Hildegard de Bignen had visions projected into her eyes.
+        <br />
+        <br />
+        <span className={styles.headerIndentTwo}></span>To project is also to
+        forecast:
+        <br />
+        <br />
+        Predictions coerced into a light thrown upon a subject matter, an
+        ability to perceive it.
+        <br />
+        <br />
+        <span className={styles.headerIndentSeven}>out throw.</span>
+        <br />
+        <br />
+        Her visions were cast down by God. She needed to speak them; finish the
+        procession and move on; go; in silence she became ill.
+        <br />
+        <br />
+        As if the stray, straying articulation wrapped in gusts, quandaries and
+        man-made piss quarries. Drilled into earth. Gaping eye holes.
+        <br />
+        <br />
+        <span className={styles.headerIndentOnePointFive}></span>Bignen’s
+        visions were closely related to speech. The word speech in Russian is
+        речь – an invocation of water, in close perimeters to river, a fluvial
+        state. Speech flows, and so do brooks, streams, and watery pathways.
+        They continue. Picking up headway in the thaw of spring. Retracting
+        again and dilating.
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        A scene before her.
+        <br />
+        <br />
+        <br />
+        <br />
+        <span className={styles.headerIndentTwo}></span>A scene, as though on
+        the stage. A spectacle to be watched. However, the scene, when my
+        neighbors are having another conflict, is heard.
+        <br />
+        <br />
+        <span className={styles.headerIndentOnePointSevenFive}></span>How to
+        name a scene of the ears?
+        <br />
+        <br />
+        A libretto?
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        Teju Cole: <i>Like speech</i>, <i>which leaves no mark in the air</i>,{" "}
+        <i>the arrangement of our bodies leaves no mark in space</i>.
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <span className={styles.headerIndentTwo}></span>Seen: the past tense
+        <br />
+        <br />
+        <br />
+        When Paul Celan wrote <i>no one</i> / <i>bears witness for the</i> / <i>witness</i>, the witness is stand alone.
+        <br />
+The witness<br />
+is its own line.
+<br />
+        <br />
+        <br />
+        To bear witness is to see. To be a part of the event. To be away, on the sideline, but this too is a
+witnessing. To have seen. To see from afar is, too, to witness. A collective responsibility is
+charted.
+<br />
+        <br />
+        <br />
+        To see. To be. Subjected into an accumulation of other eyes of past tense.
+<br />
+        <br />
+        <br /><br />
+        <br />
+        <br />
+
+        <span className={styles.headerIndentSix}></span><i>I’</i><i>ve seen some shit</i>.
+        <br />
+        <br />
+        <br /><br />
+        <br />
+        <br />
+        Paul Celan threw himself into the River Seine — submerged to the bottom of the flow.
+           <br />
+        <br />
+        <br /><br />
+        <br />
+        <br />
+        Although it is likely that the scene, in its aura, is ensconced in dramatic connotations, it is likely
+to believe the scene as an unfolding of an event. A rapture of time.
+<br />
+        <br />
+        <span className={styles.headerIndentSeven}>In time.</span>
+        <br />
+        <br /><br />
+        <br />
+        <br />
+        The scene before my eyes: that which I see —
+        <br />
+        <br /><br />
+        <br />
+        <br /><br />
+        <br /><br />
+        <br />
+        <br />
+        She stands looking at the past…
       </StandardProse>
       <Footer />
     </>

@@ -36,6 +36,16 @@
   margin-left: 11.5vw;
 }
 
+.headerIndentOnePointFive {
+  display: inline-block;
+  margin-left: 15.5vw;
+}
+
+.headerIndentOnePointSevenFive {
+  display: inline-block;
+  margin-left: 19vw;
+}
+
 .headerIndentTwo {
   display: inline-block;
   margin-left: 23vw;
@@ -51,6 +61,21 @@
   margin-left: 28vw;
 }
 
+.headerIndentFive {
+  display: inline-block;
+  margin-left: 43vw;
+}
+
+.headerIndentSix {
+  display: inline-block;
+  margin-left: 47vw;
+}
+
+.headerIndentSeven {
+  display: inline-block;
+  margin-left: 37vw;
+}
+
 .nameIndent {
   display: inline-block;
   margin-left: 2vw;
@@ -62,6 +87,14 @@
     width:30vw;
     height:50vh;
     opacity:0.8;
+}
+
+.imageBoxTwo {
+    position: absolute;
+    left:120px;
+    width:50vw;
+    height:30vh;
+    opacity:0.4;
 }
 
 .nameSpacing {
