@@ -98,8 +98,7 @@
 }
 
 .nameSpacing {
-  display:flex;
-  justify-content: flex-end;
+  text-align:right;
   letter-spacing: -0.3rem;
 }
 
@@ -152,6 +151,10 @@
     font-size: 3.2rem;
     margin-left: 0rem;
   }
+
+.headerIndentSix {
+  margin-left: 4vw;
+}
 }
 
 @media (max-width: 391px) and (orientation: portrait) {

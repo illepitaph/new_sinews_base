@@ -1,7 +1,7 @@
 import Head from "next/head";
 import Header from "../../components/header.js";
 import LeftGrayTitle from "../../components/leftGrayTitle.js";
-import LeftBlackTitle from "../../components/leftBlackTitle.js";
+import RightBlackTitle from "../../components/rightBlackTitle.js";
 import StandardProse from "../../components/standardProse.js";
 import Image from "next/image";
 import Edge from "../../public/images/Time.jpg";
@@ -59,18 +59,19 @@ export default function Time() {
       <br />
       <br />
       <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
-      <LeftBlackTitle>
+      <RightBlackTitle>
         <span className={styles.nameSpacing}>
           ... ... o
-          <span className={styles.uppercase}>
-            <span className={styles.nameIndent}>l</span> g
-          </span>{" "}
-          <span className={styles.nameIndent}>a ... </span> ... m
+         
+             <span className={styles.uppercase}>l</span>  g
+         {" "}
+          <span className={styles.uppercase}>a</span> ... ...<br/><br/>...  ... m
           <span className={styles.uppercase}>i</span>k o
           <span className={styles.uppercase}> la</span> i v n
-          <span className={styles.uppercase}>a </span> ... ...
+          <span className={styles.uppercase}>a ... ...
+            </span>
         </span>
-      </LeftBlackTitle>
+      </RightBlackTitle>
       <br />
       <br />
       <br />
