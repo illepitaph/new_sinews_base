@@ -151,12 +151,20 @@
   }
 }
 
-@media (max-width: 821px) and (orientation: portrait) {
+@media (max-width: 835px) and (orientation: portrait) {
   .alternateTitleColorBigger .alternateTitleColor .alternateTitleColorUppercase,
   .alternateTitleColorTwo,
   .alternateTitleColorThree {
     font-size: 6.9rem;
   }
+
+     .skewRight {
+    transform: skew(0);
+  }
+
+  .skewDown {
+  transform: translateY(0);
+}
 }
 
 @media (max-width: 761px) and (orientation: landscape) {
