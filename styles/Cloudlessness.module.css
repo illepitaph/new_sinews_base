@@ -40,29 +40,23 @@
   font-weight: 300;
 }
 
-.leftMargin {
-  display: inline-block;
-  margin-left: 3vw;
+.authorName {
+  font-size: 5.5rem;
+  font-family: "bickham-script-pro-3", sans-serif;
+  font-weight: 400;
+  text-transform: lowercase;
+  letter-spacing: -0.02rem;
+  line-height: 0.8em;
+  margin: 1vh 0 7vh 7vw;
 }
 
-.leftMarginTwo {
-  display: inline-block;
-  margin-left: 9vw;
+.ellipses {
+  letter-spacing: 3rem;
 }
 
-.leftMarginThree {
+.ellipses {
   display: inline-block;
-  margin-left: 9vw;
-}
-
-.rightMargin {
-  display: inline-block;
-  margin-right: 3vw;
-}
-
-.rightMarginTwo {
-  display: inline-block;
-  margin-right: 6vw;
+  margin-left: 0.9rem;
 }
 
 .gap {
@@ -71,6 +65,7 @@
 }
 
 .poemTitle {
+  display:inline-block;
   max-width: 70vw;
   font-family: "lores-9-plus-wide", monospace;
   font-weight: 600;
@@ -79,9 +74,10 @@
   color: white;
   text-shadow: 1px 1px black, 4px 4px 16px black;
   letter-spacing: -0.02rem;
-  line-height: 1.4em;
-  margin-left: 18vw;
+  line-height: 1.1em;
+  margin-left: 58vw;
   text-transform: uppercase;
+  transform: skew(5deg, 10deg);
 }
 
 .poem {
@@ -93,7 +89,7 @@
   text-shadow: 2px 2px gainsboro;
   letter-spacing: -0.02rem;
   line-height: 1.7em;
-  margin-left: 23vw;
+  margin-left: 20vw;
 }
 
 .musicBox {
