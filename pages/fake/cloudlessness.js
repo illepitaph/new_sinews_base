@@ -17,7 +17,7 @@ export default function Cloudlessness() {
   return (
     <>
       <Head />
-      <Header headerBackground="graffitoBackground" />
+      <Header headerBackground="cloudlessnessBackground" />
 
       <br />
       <br />
