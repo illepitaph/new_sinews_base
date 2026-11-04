@@ -476,7 +476,7 @@ Not even my invented confessions would, the pain, relieve the fact.
 Still, I went on—to invent more.
 The blue fall played the bone-white part—exposed parts of speech
 Part to the `}
-        <i>noli me tangere</i>
+        <i>noli me tangere </i>
         {`part.
 What do you want? Every part asked this, to the absolute certitude.
 Still, I went on—to invent more.
@@ -647,7 +647,7 @@ Love’s aims. I have made many a claim. I have written chips and a clam
 Roll to mean the stuff of life. I
 Sat for Sick Bacchus. I have written it to mean the Third Reich marched
 On its stomach. Sickly, you sat
-For the cross of light on the soldier’s armor in`}
+For the cross of light on the soldier’s armor in `}
         <i>The Denial of Saint Peter</i>
         {`.
 
@@ -765,7 +765,7 @@ The garden, ill with my word. If I covet forgiveness, I covet yours.
 
 Before I was led to the garden-scaffold, I opened my novel of the Third Reich
 With an extract from Nikolaus
-Wachsmann’s`}<i>KL</i>: <i>A History of the Nazi Concentration Camps</i>{`——:
+Wachsmann’s`}<i> KL</i>: <i>A History of the Nazi Concentration Camps</i>{`——:
 “Blooming flowers and well-tended lawns were everywhere,
 “Outside the barracks, around SS buildings, and alongside the main paths.”
 The crowds did gather around

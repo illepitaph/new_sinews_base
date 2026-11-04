@@ -41,6 +41,7 @@
 }
 
 .authorName {
+  display:inline-block;
   font-size: 5.5rem;
   font-family: "bickham-script-pro-3", sans-serif;
   font-weight: 400;
@@ -48,6 +49,7 @@
   letter-spacing: -0.02rem;
   line-height: 0.8em;
   margin: 1vh 0 7vh 7vw;
+transform: rotateZ(5deg);
 }
 
 .ellipses {
