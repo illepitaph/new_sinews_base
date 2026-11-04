@@ -136,6 +136,15 @@ transform: rotateZ(5deg);
   }
 }
 
+@media (max-width: 961px) and (orientation: portrait) {
+  .poem {
+    max-width: 98vw;
+    margin-left: 2vw;
+    font-size:1rem;
+    white-space: pre-wrap;
+  }
+}
+
 @media (max-width: 933px) and (orientation: landscape) {
   .nameHeight {
     line-height: 15vh;
@@ -148,15 +157,6 @@ transform: rotateZ(5deg);
   .poem {
     max-width: 97vw;
     margin-left: 2vw;
-    white-space: pre-wrap;
-  }
-}
-
-@media (max-width: 913px) and (orientation: portrait) {
-  .poem {
-    max-width: 98vw;
-    margin-left: 2vw;
-    font-size:1rem;
     white-space: pre-wrap;
   }
 }
