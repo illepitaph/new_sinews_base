@@ -9,7 +9,7 @@ Symmetry.title = "jancie_creaney ~ one_eyed, no_symmetry  — new_sinews";
 Symmetry.pieceName = "jancie_creaney ~ one_eyed, no_symmetry  — new_sinews";
 Symmetry.description =
   "_Jancie Creaney_fiction_ONE EYED, NO SYMMETRY_new_sinews_issue10_";
-Symmetry.image = "https://www.newnewsinews.com/images/ChronologyBackground.jpg";
+Symmetry.image = "https://www.newnewsinews.com/images/SymmetryBackground.jpg";
 
 export default function Symmetry() {
   return (

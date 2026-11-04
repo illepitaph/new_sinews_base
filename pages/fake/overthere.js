@@ -8,7 +8,7 @@ import styles from "../../styles/Over.module.css";
 Over.title = "kat meads ~ over there — new_sinews";
 Over.pieceName = "kat meads ~ over there — new_sinews";
 Over.description = "_Kat Meads_fiction_OVER THERE_news_sinews_issue10_";
-Over.image = "https://www.newnewsinews.com/images/PersonaeBackground.jpg";
+Over.image = "https://www.newnewsinews.com/images/OverthereBackground.jpg";
 
 export default function Over() {
   return (

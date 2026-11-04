@@ -8,7 +8,7 @@ Coward.title = "mike_corrao ~ coward — new_sinews";
 Coward.pieceName = "mike_corrao ~ coward — new_sinews";
 Coward.description =
   "_Mike_Corrao_poetry_COWARD_new_sinews_issue10_";
-Coward.image = "https://www.newnewsinews.com/images/KaputBackground.jpg";
+Coward.image = "https://www.newnewsinews.com/images/CowardBackground.jpg";
 
 export default function Coward() {
   const [textArrayIndex, setTextArrayIndex] = useState(0);

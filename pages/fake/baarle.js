@@ -6,7 +6,7 @@ import styles from "../../styles/Baarle.module.css";
 Baarle.title = "alex_nai ~ baarle — new_sinews";
 Baarle.pieceName = "alex_nai ~ baarle — new_sinews";
 Baarle.description = "_Alex Nai_fiction_BAARLE_news_sinews_issue10_";
-Baarle.image = "https://www.newnewsinews.com/images/AlbumBackground.jpg";
+Baarle.image = "https://www.newnewsinews.com/images/BaarleBackground.jpg";
 
 export default function Baarle() {
   return (

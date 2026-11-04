@@ -8,7 +8,7 @@ Obliteration.title = "yanara friedland ~ obliteration — new_sinews";
 Obliteration.pieceName = "yanara friedland ~ obliteration — new_sinews";
 Obliteration.description =
   "_Yanara Friedland_fiction_OBLITERATION_news_sinews_issue10_";
-Obliteration.image = "https://www.newnewsinews.com/images/ApolloBackground.jpg";
+Obliteration.image = "https://www.newnewsinews.com/images/ObliterationBackground.jpg";
 
 export default function Obliteration() {
   return (

@@ -10,7 +10,7 @@ Parties.title =
 Parties.pieceName =
   "chekwube_danladi ~ electrosexual ++ liberation pecan pie from a south central bakery — new_sinews";
 Parties.description = "_CHEKWUBE DANLADI_fiction_3 STORIES_new_sinews_issue10_";
-Parties.image = "https://www.newnewsinews.com/images/MemoryBackground.jpg";
+Parties.image = "https://www.newnewsinews.com/images/PartiesBackground.jpg";
 
 export default function Parties() {
   return (

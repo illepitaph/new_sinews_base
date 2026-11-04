@@ -9,7 +9,7 @@ Hobbies.title =
 Hobbies.pieceName =
   "adrienne raphel ~ i gave the orchids our lists of names ++ as in cubbies as in crafts ++ — new_sinews";
 Hobbies.description = "_Adrienne Raphel_poetry_3 POEMS_issue10_";
-Hobbies.image = "https://www.newnewsinews.com/images/DrugBackground.jpg";
+Hobbies.image = "https://www.newnewsinews.com/images/HobbiesBackground.jpg";
 
 export default function Hobbies() {
   return (

@@ -10,7 +10,7 @@ Spell.title =
 Spell.pieceName =
   "liola_mattheis ~ the spell keeps on casting ++ forming by forming in — new_sinews";
 Spell.description = "_LIOLA MATTHEIS_poetry_5 POEMS_new_sinews_issue10_";
-Spell.image = "https://www.newnewsinews.com/images/MemoryBackground.jpg";
+Spell.image = "https://www.newnewsinews.com/images/SpellBackground.jpg";
 
 export default function Spell() {
   return (

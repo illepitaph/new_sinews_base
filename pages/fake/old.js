@@ -9,7 +9,7 @@ Old.title =
 Old.pieceName =
   "brendan white ~ search for your name ++ for its own nourishment ++ — new_sinews";
 Old.description = "_Brendan White_poetry_5 POEMS_issue10_";
-Old.image = "https://www.newnewsinews.com/images/DrugBackground.jpg";
+Old.image = "https://www.newnewsinews.com/images/OldBackground.jpg";
 
 export default function Old() {
   return (

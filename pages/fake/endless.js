@@ -8,7 +8,7 @@ Endless.title = "zachary_gary ~ along these endless halls — new_sinews";
 Endless.pieceName = "zachary_gary ~ along these endless halls — new_sinews";
 Endless.description =
   "_Zachary Gary_fiction_ALONG THESE ENDLESS HALLS_news_sinews_issue10_";
-Endless.image = "https://www.newnewsinews.com/images/ShortbreadBackground.jpg";
+Endless.image = "https://www.newnewsinews.com/images/EndlessBackground.jpg";
 
 export default function Endless() {
   return (

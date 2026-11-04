@@ -10,7 +10,7 @@ import styles from "../../styles/Time.module.css";
 Time.title = "olga_mikolaivna ~ edge of time — new_sinews";
 Time.description =
   "_Olga Mikolaivna_lyric~essay_EDGE OF TIME_new_sinews_issue10_";
-Time.image = "https://www.newnewsinews.com/images/NailsBackgroundMeta.jpg";
+Time.image = "https://www.newnewsinews.com/images/TimeBackground.jpg";
 
 export default function Time() {
   return (

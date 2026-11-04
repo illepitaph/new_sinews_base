@@ -7,7 +7,7 @@ import styles from "../../styles/Endless.module.css";
 Jianghu.title = "alvin_lu ~ jiānghú — new_sinews";
 Jianghu.pieceName = "alvin_lu ~ jiānghú — new_sinews";
 Jianghu.description = "_Alvin Lu_fiction_JIĀNGHÚ_news_sinews_issue10_";
-Jianghu.image = "https://www.newnewsinews.com/images/ShortbreadBackground.jpg";
+Jianghu.image = "https://www.newnewsinews.com/images/JianghuBackground.jpg";
 
 export default function Jianghu() {
   return (
