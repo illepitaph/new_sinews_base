@@ -11,7 +11,7 @@ Cloudlessness.pieceName =
   "matthew_moore ~ meat falls off your bone ++ why didn't you write back to me — new_sinews";
 Cloudlessness.description = "_Matthew Moore_poetry_FIVE POEMS_issue10_";
 Cloudlessness.image =
-  "https://www.newnewsinews.com/images/GraffitoBackground.jpg";
+  "https://www.newnewsinews.com/images/CloudlessnessBackground.jpg";
 
 export default function Cloudlessness() {
   return (
@@ -464,7 +464,7 @@ But there are memory laws.
 The state of exception flowered with history at a remove and clotted.
 Nothing shall stop devotion.
 Degiorgis’s `}
-        <i>Hidden Islam</i>
+        <i> Hidden Islam </i>
         {`was a testament to loveliness on devotion.
 Taggart wrote—“roses piled
 To burn”—and veiled by the spirit I saw the circle close around You.

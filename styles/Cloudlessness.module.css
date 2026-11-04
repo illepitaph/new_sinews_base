@@ -83,7 +83,7 @@ transform: rotateZ(5deg);
 }
 
 .poem {
-  max-width: 70vw;
+  max-width: 85vw;
   font-family: "base-9-sans", sans-serif;
   font-weight: 300;
   font-style: normal;
@@ -92,11 +92,6 @@ transform: rotateZ(5deg);
   letter-spacing: -0.02rem;
   line-height: 1.7em;
   margin-left: 20vw;
-}
-
-.musicBox {
-  background-color: gainsboro;
-  font-family: "lores-9-plus-wide", monospace;
 }
 
 @media (width: 1194px) and (height: 834px) {
@@ -153,7 +148,6 @@ transform: rotateZ(5deg);
   .poem {
     max-width: 97vw;
     margin-left: 2vw;
-    font-size:1.1rem;
     white-space: pre-wrap;
   }
 }
@@ -188,9 +182,9 @@ transform: rotateZ(5deg);
   }
 
   .poem {
-    max-width: 99vw;
-    margin-left: 1vw;
-    font-size:1rem;
+    max-width: 95vw;
+    margin-left: 4vw;
+    font-size:1.1rem;
   }
   
 }
@@ -237,9 +231,13 @@ transform: rotateZ(5deg);
     margin-left: 1vw;
     white-space: pre-wrap;
   }
+
+  .authorName {
+    font-size:3rem;
+  }
 }
 
-@media (max-width: 391px) and (orientation: portrait) {
+@media (max-width: 403px) and (orientation: portrait) {
   .titleShadow {
     font-size: 1.7rem;
   }
@@ -248,6 +246,10 @@ transform: rotateZ(5deg);
     font-size: 1.8rem;
     margin-left: 9vw;
   }
+
+  .poem {
+    font-size: 0.55rem;  }
+
 }
 
 @media (max-width: 361px) and (orientation: portrait) {
@@ -262,7 +264,7 @@ transform: rotateZ(5deg);
   }
 
   .poem {
-    font-size: 0.6rem;
+    font-size: 0.52rem;
   }
 }
 
