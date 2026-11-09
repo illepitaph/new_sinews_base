@@ -212,57 +212,57 @@ export default function AirplantTwo() {
         <br />
         <br />
         <br />
-         <br /> <br />
+        <br /> <br />
         <br />
         <br />
         <br />
         <div className={styles.poemBox}>
-        {generatePoem(
-          weatherQuery,
-          spaceQuery,
-          uvQuery,
-          aqiQuery,
-          geoMagQuery,
-          complete,
-        )}
+          {generatePoem(
+            weatherQuery,
+            spaceQuery,
+            uvQuery,
+            aqiQuery,
+            geoMagQuery,
+            complete,
+          )}
         </div>
         <br />
         <br />
         <br />
         <br />
-         <br />
         <br />
         <br />
         <br />
-         <br />
         <br />
         <br />
         <br />
-         <br />
         <br />
         <br />
         <br />
-         <br />
         <br />
         <br />
         <br />
-         <br />
         <br />
         <br />
         <br />
-         <br />
         <br />
         <br />
         <br />
-         <br />
         <br />
         <br />
         <br />
-         <br />
         <br />
         <br />
         <br />
-        <h3 className={styles.poemTitle}>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <h3 className={styles.poemTitle} suppressHydrationWarning>
           {currentTime.toDateString()};{" "}
           {currentTime.toLocaleTimeString("en-US", {
             timeZone: "America/Chicago",
