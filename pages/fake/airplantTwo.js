@@ -6,7 +6,7 @@ import LeftGrayTitle from "../../components/leftGrayTitle.js";
 import CenterBlackTitle from "../../components/centerBlackTitle.js";
 import Footer from "../../components/footer.js";
 import styles from "../../styles/Airplant.module.css";
-import { airPlantGrids } from "../../lib/airPlantUtils.js";
+import { airPlantGrids, fakeGeoMagResults } from "../../lib/airPlantUtils.js";
 AirplantTwo.title = "brandan_griffin ~ airplant — new_sinews";
 AirplantTwo.pieceName = "brandan_griffin ~ airplant — new_sinews";
 AirplantTwo.description =
@@ -43,7 +43,9 @@ export default function AirplantTwo() {
       var spaceProperties = spaceData.data.data[0];
       var uvProperties = uvData.data.data[0];
       var apiProperties = aqiData.data.data;
-      var geoMagProperties = geoMagData.data.data;
+      var geoMagProperties = geoMagData?.data?.data
+        ? geoMagData.data.data
+        : fakeGeoMagResults;
 
       // Weather Values
       var currentHumidity = weatherProperties["relativeHumidity"]["value"];
@@ -161,6 +163,9 @@ export default function AirplantTwo() {
     )
     .then(function (response) {
       return response;
+    })
+    .catch(function () {
+      console.log("Geomag request has failed");
     });
 
   const weatherQuery = useQuery(["getWeather", STATION_ID], async () => {
