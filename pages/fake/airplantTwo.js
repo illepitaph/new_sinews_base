@@ -102,7 +102,7 @@ export default function AirplantTwo() {
           <br />
           <div className={styles.poemTwo}>
             <div>{`${currentTempObject["subjectConjugation"][subjectDeclensionColumn]}`}</div>
-            <div>{`${currentTempObject["prefix"][Number(String(solarWindBz).slice(0, 1))]}`}</div>
+            <div>{`${currentTempObject["prefix"][Number(String(Math.abs(solarWindBz)).slice(0, 1))]}`}</div>
             <div>{`${currentTempObject["verb"][Number(String(currentWindSpeed).slice(0, 1))]}`}</div>
             <div>{`${currentTempObject["direction"][Number(String(uvIndex).slice(0, 1))]}`}</div>
           </div>
