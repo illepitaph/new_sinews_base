@@ -54,7 +54,15 @@ export default function AirplantTwo() {
       var currentWindSpeed = kmhToMph(weatherProperties["windSpeed"]["value"]);
       var airPressure = weatherProperties["barometricPressure"]["value"] || 0;
       var magnetic = null;
-      var geoMagArray = geoMagProperties["values"][0]["values"];
+      var geoMagArray = geoMagProperties["values"][0]["values"].filter(
+        (value) => {
+          return value !== null && value !== undefined;
+        },
+      );
+
+      if (geoMagArray.length === 0) {
+        geoMagArray = fakeGeoMagResults["values"][0]["values"];
+      }
 
       for (var i = geoMagArray.length - 1; i > 0; i--) {
         if (geoMagArray[i] != null) {
