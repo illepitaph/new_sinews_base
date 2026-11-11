@@ -61,16 +61,13 @@ export default function AirplantTwo() {
       let thisWindSpeed = features[i]["properties"]["windSpeed"]["value"];
       let thisBarometricPressure =
         features[i]["properties"]["barometricPressure"]["value"];
-      if (
-        thisHumidity &&
-        thisTemperature &&
-        thisWindSpeed &&
-        thisBarometricPressure
-      ) {
+      if (thisHumidity && thisTemperature && thisWindSpeed) {
         weatherBlock["humidity"] = thisHumidity;
         weatherBlock["temperature"] = thisTemperature;
         weatherBlock["windSpeed"] = thisWindSpeed;
-        weatherBlock["barometricPressure"] = thisBarometricPressure;
+        if (thisBarometricPressure) {
+          weatherBlock["barometricPressure"] = thisBarometricPressure;
+        }
         break;
       }
     }
