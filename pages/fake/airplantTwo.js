@@ -13,6 +13,7 @@ AirplantTwo.description =
   "_BRANDAN GRIFFIN_poetry_AIRPLANT_new_sinews_issue10_";
 AirplantTwo.image = "https://www.newnewsinews.com/images/GriffinBackground.jpg";
 
+import { useState, useEffect } from "react";
 import { useQuery } from "react-query";
 import axios from "axios";
 
@@ -20,12 +21,60 @@ export default function AirplantTwo() {
   // 51 Bacliff weather station
   const STATION_ID = "011CE";
 
+  // Set the time values once on page load (client-side, to avoid hydration mismatch)
+  const [times, setTimes] = useState(null);
+
+  useEffect(() => {
+    const currentTime = new Date();
+    const oneHourAgo = new Date(currentTime);
+    oneHourAgo.setUTCHours(currentTime.getUTCHours() - 1);
+
+    setTimes({
+      currentTime,
+      currentTimeISOString: currentTime.toISOString(),
+      currentTimeISONoMs: currentTime.toISOString().split(".")[0] + "Z",
+      oneHourAgo,
+      oneHourAgoISOString: oneHourAgo.toISOString(),
+      oneHourAgoISOISONoMs: oneHourAgo.toISOString().split(".")[0] + "Z",
+    });
+  }, []);
+
   function cToF(celsiusTemp) {
     return (celsiusTemp * 9) / 5 + 32;
   }
 
   function kmhToMph(kmhSpeed) {
     return (kmhSpeed * 5) / 3;
+  }
+
+  function getGoodWeatherReading(features) {
+    var weatherBlock = {
+      humidity: 89.23,
+      temperature: 17.23,
+      windSpeed: 4.56,
+      barometricPressure: 102.111,
+    };
+
+    for (let i = 0; i < features.length; i++) {
+      let thisHumidity = features[i]["properties"]["relativeHumidity"]["value"];
+      let thisTemperature = features[i]["properties"]["temperature"]["value"];
+      let thisWindSpeed = features[i]["properties"]["windSpeed"]["value"];
+      let thisBarometricPressure =
+        features[i]["properties"]["barometricPressure"]["value"];
+      if (
+        thisHumidity &&
+        thisTemperature &&
+        thisWindSpeed &&
+        thisBarometricPressure
+      ) {
+        weatherBlock["humidity"] = thisHumidity;
+        weatherBlock["temperature"] = thisTemperature;
+        weatherBlock["windSpeed"] = thisWindSpeed;
+        weatherBlock["barometricPressure"] = thisBarometricPressure;
+        break;
+      }
+    }
+    return weatherBlock;
   }
 
   function generatePoem(
@@ -39,7 +88,7 @@ export default function AirplantTwo() {
     var poem = [];
 
     if (complete) {
-      var weatherProperties = weatherData.data.data["properties"];
+      var weatherProperties = weatherData.data.data.features;
       var spaceProperties = spaceData.data.data[0];
       var uvProperties = uvData.data.data[0];
       var apiProperties = aqiData.data.data;
@@ -48,11 +97,12 @@ export default function AirplantTwo() {
         : fakeGeoMagResults;
 
       // Weather Values
-      var currentHumidity = weatherProperties["relativeHumidity"]["value"];
-      var currentTemp = cToF(weatherProperties["temperature"]["value"]);
+      var goodWeatherValues = getGoodWeatherReading(weatherProperties);
+      var currentHumidity = goodWeatherValues["humidity"];
+      var currentTemp = cToF(goodWeatherValues["temperature"]);
       var currentTempObject = airPlantGrids["midTempGrid"];
-      var currentWindSpeed = kmhToMph(weatherProperties["windSpeed"]["value"]);
-      var airPressure = weatherProperties["barometricPressure"]["value"] || 0;
+      var currentWindSpeed = kmhToMph(goodWeatherValues["windSpeed"]);
+      var airPressure = goodWeatherValues["barometricPressure"] || 0;
       var magnetic = null;
       var geoMagArray = geoMagProperties["values"][0]["values"].filter(
         (value) => {
@@ -133,68 +183,54 @@ export default function AirplantTwo() {
     return poem;
   }
 
-  const weatherCommand = axios
-    .get(`https://api.weather.gov/stations/${STATION_ID}/observations/latest`)
-    .then(function (response) {
-      return response;
-    });
-
-  const spaceCommand = axios
-    .get(`https://services.swpc.noaa.gov/json/rtsw/rtsw_mag_1m.json`)
-    .then(function (response) {
-      return response;
-    });
-
-  const uvCommand = axios
-    .get(
-      `https://data.epa.gov/efservice/getEnvirofactsUVDaily/CITY/Chicago/STATE/IL/JSON`,
-    )
-    .then(function (response) {
-      return response;
-    });
-
-  const aqiCommand = axios
-    .get(`https://airnowgovapi.com/v2/andata/Sites/170314201.json`)
-    .then(function (response) {
-      return response;
-    });
-
-  const currentTime = new Date();
-  const currentTimeISOString = currentTime.toISOString();
-  var oneHourAgo = new Date(currentTime);
-  oneHourAgo.setUTCHours(currentTime.getUTCHours() - 1);
-  var oneHourAgoISOString = oneHourAgo.toISOString();
-
-  const geoMagCommand = axios
-    .get(
-      `https://geomag.usgs.gov/ws/data/?id=BRW&sampling_period=1&format=json&starttime_only=true&starttime=${oneHourAgoISOString}&endtime=${currentTimeISOString}&sampling_period=60`,
-    )
-    .then(function (response) {
-      return response;
-    })
-    .catch(function () {
-      console.log("Geomag request has failed");
-    });
-
-  const weatherQuery = useQuery(["getWeather", STATION_ID], async () => {
-    return await weatherCommand;
-  });
+  const weatherQuery = useQuery(
+    [
+      "getWeather",
+      STATION_ID,
+      times?.currentTimeISONoMs,
+      times?.oneHourAgoISOISONoMs,
+    ],
+    async () => {
+      return await axios.get(
+        `https://api.weather.gov/stations/${STATION_ID}/observations?start=${times.oneHourAgoISOISONoMs}&end=${times.currentTimeISONoMs}&limit=10`,
+      );
+    },
+    { enabled: !!times },
+  );
 
   const spaceQuery = useQuery(["getSpace"], async () => {
-    return await spaceCommand;
+    return await axios.get(
+      `https://services.swpc.noaa.gov/json/rtsw/rtsw_mag_1m.json`,
+    );
   });
 
   const uvQuery = useQuery(["getUv"], async () => {
-    return await uvCommand;
+    return await axios.get(
+      `https://data.epa.gov/efservice/getEnvirofactsUVDaily/CITY/Chicago/STATE/IL/JSON`,
+    );
   });
 
   const aqiQuery = useQuery(["getAqi"], async () => {
-    return await aqiCommand;
+    return await axios.get(
+      `https://airnowgovapi.com/v2/andata/Sites/170314201.json`,
+    );
   });
 
-  const geoMagQuery = useQuery(["getGeoMag"], async () => {
-    return await geoMagCommand;
-  });
+  const geoMagQuery = useQuery(
+    ["getGeoMag", times?.oneHourAgoISOString, times?.currentTimeISOString],
+    async () => {
+      return await axios
+        .get(
+          `https://geomag.usgs.gov/ws/data/?id=BRW&sampling_period=1&format=json&starttime_only=true&starttime=${
+            times.ISOString
+          }&endtime=${times.currentTimeISOString}&sampling_period=60`,
+        )
+        .catch(function () {
+          console.log("Geomag request has failed");
+        });
+    },
+    { enabled: !!times },
+  );
 
   if (
     weatherQuery.isError ||
@@ -275,13 +311,15 @@ export default function AirplantTwo() {
         <br />
         <br />
         <br />
-        <h3 className={styles.poemTitle} suppressHydrationWarning>
-          {currentTime.toDateString()};{" "}
-          {currentTime.toLocaleTimeString("en-US", {
-            timeZone: "America/Chicago",
-          })}
-          ; chicago, il 60608
-        </h3>
+        {times && (
+          <h3 className={styles.poemTitle} suppressHydrationWarning>
+            {times.currentTime.toDateString()};{" "}
+            {times.currentTime.toLocaleTimeString("en-US", {
+              timeZone: "America/Chicago",
+            })}
+            ; chicago, il 60608
+          </h3>
+        )}
         <br />
         <br />
         <br />
