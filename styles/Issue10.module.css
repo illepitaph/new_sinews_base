@@ -70,73 +70,90 @@
   bottom: 0px;
   left: 0px;
   font-family:"lores-9-plus-narrow";
-  font-size:0.9rem;
-  color: #00ffff;
-  text-shadow:
-    1px 1px white,
-    2px 2px black;
-}
-
-.boxTwo {
-  position: absolute;
-  background: url("../public/images/issue10Background.jpg");
-  height: 5%;
-  width: 5%;
-  top: 50vh;
-  opacity:0.5;
+  font-size:0.6rem;
+  color: white;
+    text-transform: uppercase;
 }
 
 .boxThree {
   position: absolute;
-  background: url("../public/images/issue10Background.jpg");
+  background-color: #aaf0d1;
   height: auto;
   width: auto;
-  top: 7vh;
-  left: 40vh;
+  top: 5vh;
+  left: 25vw;
   border: inset snow;
+  box-shadow: 3px 3px 10px black;
+  padding:0 5px;
+  text-shadow:1px 1px 5px black;
   animation: pulse 9s linear infinite;
 }
 
 .boxFour {
-  position: absolute;
-  background: url("../public/images/issue10Background.jpg");
+   position: absolute;
+  background-color: #00ffff;
   height: auto;
   width: auto;
-  left: 47vh;
-  top: 18vh;
-   border: inset snow;
+  left: 16vw;
+  top: 14vh;
+  border: inset snow;
+  box-shadow: 3px 3px 10px black;
+  padding:0 5px;
+  text-shadow:1px 1px 5px black;
   animation: pulse 9s linear infinite;
 }
 
 .boxFive {
-  position: absolute;
-  background: url("../public/images/issue10Background.jpg");
+   position: absolute;
+  background-color: #aaf0d1;
   height: auto;
   width: auto;
-  left: 27vh;
-  top: 29vh;
-   border: inset snow;
+  left: 23vw;
+  top: 23vh;
+  border: inset snow;
+  box-shadow: 3px 3px 10px black;
+  padding:0 5px;
+  text-shadow:1px 1px 5px black;
   animation: pulse 9s linear infinite;
 }
 
 .boxSix {
-  position: absolute;
-  background: url("../public/images/issue10Background.jpg");
+   position: absolute;
+  background-color: #00ffff;
   height: auto;
   width: auto;
-  left: 35vh;
-  top: 39vh;
+  left: 33vw;
+  top: 32vh;
    border: inset snow;
+   box-shadow: 3px 3px 10px black;
+padding:0 5px;
+  text-shadow:1px 1px 5px black;
+  animation: pulse 9s linear infinite;}
+
+.boxSeven {
+   position: absolute;
+  background-color: #aaf0d1;
+  height: auto;
+  width: auto;
+  left: 19vw;
+  top: 41vh;
+  border: inset snow;
+  box-shadow: 3px 3px 10px black;
+padding:0 5px;
+  text-shadow:1px 1px 5px black;
   animation: pulse 9s linear infinite;
 }
 
-.boxSeven {
-  position: absolute;
-  background: url("../public/images/issue10Background.jpg");
+.boxEight {
+   position: absolute;
+  background-color: #aaf0d1;
   height: auto;
   width: auto;
-  left: 35vh;
-  top: 50vh;
-   border: inset snow;
+  left: 27vw;
+  top: 51vh;
+  border: inset snow;
+  box-shadow: 3px 3px 10px black;
+padding:0 5px;
+  text-shadow:1px 1px 5px black;
   animation: pulse 9s linear infinite;
 }

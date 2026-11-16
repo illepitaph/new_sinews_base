@@ -16,10 +16,14 @@ export default function Issue10() {
         <div className={styles.boxTwo}>10++</div>
         <div className={styles.boxThree}>yanara friedland_obliteration</div>
         <div className={styles.boxFour}>matthew moore_cloudlessness</div>
-        <div className={styles.boxFive}>jancie creaney_one eyed, no symmetry</div>
+        <div className={styles.boxFive}>
+          jancie creaney_one eyed, no symmetry
+        </div>
         <div className={styles.boxSix}>chekwube o. danladi_electrosexual</div>
-        <div className={styles.boxSeven}>adrienne raphel_i gave the orchids our lists of names</div>
-        
+        <div className={styles.boxSeven}>
+          adrienne raphel_i gave the orchids our lists of names
+        </div>
+        <div className={styles.boxEight}>alex nai_baarle</div>
       </div>
     </>
   );
