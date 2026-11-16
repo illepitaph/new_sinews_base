@@ -510,6 +510,45 @@
   background-image: url("../public/images/OverthereBackground.jpg");
 }
 
+.airplantBackground {
+  background-image: url("../public/images/AirplantBackground.jpg");
+}
+
+.endlessBackground {
+  background-image: url("../public/images/EndlessBackground.jpg");
+}
+
+.spellBackground {
+  background-image: url("../public/images/SpellBackground.jpg");
+}
+
+.partiesBackground {
+  background-image: url("../public/images/PartiesBackground.jpg");
+}
+
+.jianghuBackground {
+  background-image: url("../public/images/JianghuBackground.jpg");
+}
+
+.obliterationBackground {
+  background-image: url("../public/images/ObliterationBackground.jpg");
+}
+
+.hobbiesBackground {
+  background-image: url("../public/images/HobbiesBackground.jpg");
+}
+
+.cowardBackground {
+  background-image: url("../public/images/CowardBackground.jpg");
+}
+
+.timeBackground {
+  background-image: url("../public/images/TimeBackground.jpg");
+}
+
+.cloudlessnessBackground {
+  background-image: url("../public/images/CloudlessnessBackground.jpg");
+}
 
 @media (width: 1366px) and (height: 1024px) {
   .siteNav > .dropDown > a > button,
@@ -694,6 +733,30 @@
   }
 }
 
+@media (width: 1032px) and (height: 1376px) {
+  .iconImage {
+    width: 19vw;
+    height: 29vh;
+    margin: 12vh 0 0 5vw;
+  }
+
+  .siteNav {
+    margin-right: 3%;
+  }
+
+  .siteNav > .dropDown a > button,
+  .home,
+  .about {
+    font-size: 0.8rem;
+    padding: 6px 3px;
+  }
+
+  .home {
+    font-size: 0.49rem;
+    padding: 1px 3px;
+  }
+}
+
 @media (width: 1024px) and (height: 1366px) {
   .iconImage {
     width: 19vw;
@@ -802,7 +865,7 @@
   }
 }
 
-@media (max-width: 932px) and (orientation: landscape) {
+@media (max-width: 957px) and (orientation: landscape) {
   .iconImage {
     width: 55vw;
     height: 55vh;

@@ -11,7 +11,7 @@ Continuous.pieceName =
   "alex_tretbar ~ in the future we will have been — new_sinews";
 Continuous.description =
   "_Alex Tretbar_fiction_IN THE FUTURE WE WILL HAVE BEEN_news_sinews_issue10_";
-Continuous.image = "https://www.newnewsinews.com/images/AlbumBackground.jpg";
+Continuous.image = "https://www.newnewsinews.com/images/ContinuousBackground.jpg";
 
 export default function Continuous() {
   return (

@@ -1,0 +1,196 @@
+.titleShadow {
+  display: inline-block;
+  font-size: 4.1rem;
+  color:white;
+  text-shadow: 2px 2px black, 4px 4px white, 6px 6px black, 8px 8px white, 10px 10px #FAA0A0, 12px 12px black, 14px 14px gainsboro;
+  letter-spacing: 1rem;
+  line-height: 9rem;
+}
+
+.blue {
+    color: #FAA0A0;
+
+}
+
+.blueUpper {
+    color: #FAA0A0;
+    text-transform: uppercase;
+
+}
+
+.fade {
+  opacity: 0.3;
+}
+
+.fadeLower {
+  text-transform: lowercase;
+  opacity: 0.3;
+}
+
+
+.fadeUpper {
+  text-transform: uppercase;
+  opacity: 0.3;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.storyTitle {
+  max-width: 12vw;
+  font-family: "lores-9-plus-wide", monospace;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 2.9rem;
+  color: white;
+  text-shadow: 3px 3px black, 5px 5px white, 6px 6px #FAA0A0, 9px 9px black, 14px 14px 4px #FAA0A0;
+  letter-spacing: 1rem;
+  line-height: 1.4em;
+  margin-left: 58vw;
+  text-transform: uppercase;
+}
+
+.storyTitleTwo {
+  max-width: 12vw;
+  font-family: "lores-9-plus-wide", monospace;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 2.9rem;
+  color: white;
+  text-shadow: 3px 3px black, 5px 5px white, 6px 6px #FAA0A0, 9px 9px black, 14px 14px 4px #FAA0A0;
+  letter-spacing: 1rem;
+  line-height: 1.4em;
+  margin-left: 38vw;
+  text-transform: uppercase;
+}
+
+.proseBox {
+  max-width: 70vw;
+  margin-left: 15vw;
+  font-size:1.25rem;
+  font-family: "base-9-sans", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  text-shadow: 2px 2px gainsboro;
+  letter-spacing: -0.02rem;
+  line-height: 1.7em;
+}
+
+.boldHeader {
+    margin-left: 26vw;
+    font-size: 2.4rem;
+    color:black;
+    font-family: "lores-9-plus-wide", monospace;
+    text-shadow: 1px 1px white, 3px 3px #FAA0A0, 5px 5px white, 7px 7px 12px black;
+    text-transform: lowercase;
+    font-style: italic;
+    letter-spacing:0.3rem;
+}
+
+.boldHeaderTwo {
+    margin-left: 21vw;
+    font-size: 2.4rem;
+    color:white;
+    font-family: "lores-9-plus-wide", monospace;
+    text-shadow: 2px 2px black, 3px 3px #FAA0A0, 5px 5px white, 7px 7px 12px black;
+    text-transform: lowercase;
+    font-style: italic;
+    letter-spacing:0.3rem;
+}
+
+.boldHeaderThree {
+    margin-left: 18vw;
+    font-size: 2.4rem;
+    color:black;
+    font-family: "lores-9-plus-wide", monospace;
+    text-shadow: 1px 1px white, 3px 3px #FAA0A0, 5px 5px white, 7px 7px 12px black;
+    text-transform: lowercase;
+    font-style: italic;
+    letter-spacing:0.3rem;
+}
+
+@media (max-width: 957px) and (orientation: landscape) {
+
+.titleShadow {
+  letter-spacing: 0.3rem;
+}
+
+.storyTitle, .storyTitleTwo {
+    margin-left:2vw;
+    letter-spacing:0.2rem;
+}
+
+  .proseBox {
+    max-width: 80vw;
+    margin-left:9vw;
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 913px) and (orientation: portrait) {
+  .titleShadow {
+    font-size: 3.5rem;
+    letter-spacing:0.2rem;
+  }
+
+  .storyTitle {
+    font-size:2.2rem;
+    letter-spacing:0.5rem;
+    margin-left:11vw;
+  }
+
+  .storyTitleTwo {
+     font-size:1.8rem;
+    letter-spacing:0rem;
+    margin-left:13vw;
+  }
+}
+
+@media (max-width: 854px) and (orientation: landscape) {
+
+   .titleShadow {
+    font-size: 3rem;
+  }
+
+}
+
+@media (max-width: 541px) and (orientation: portrait) {
+  .titleShadow {
+    font-size: 2.7rem;
+  }
+
+  .boldHeader, .boldHeaderTwo, .boldHeaderThree {
+    font-size:1.6rem;
+  }
+
+   .proseBox {
+    max-width: 90vw;
+    font-size: 1rem;
+    margin-left:5vw;
+  }
+}
+
+@media (max-width: 428px) and (orientation: portrait) {
+  .titleShadow {
+    font-size: 2.3rem;
+  }
+}
+
+
+@media (max-width: 375px) and (orientation: portrait) {
+  .titleShadow {
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 361px) and (orientation: portrait) {
+  .titleShadow {
+    font-size: 1.7rem;
+  }
+
+   .boldHeader, .boldHeaderTwo, .boldHeaderThree {
+    font-size:1.4rem;
+  }
+}
+

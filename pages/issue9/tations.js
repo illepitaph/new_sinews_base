@@ -115,7 +115,8 @@ export default function Tations() {
                   anniversary when I wore . . . <i>Hang it</i>, <i>there</i>’
                   <i>s one right here under my slipper</i>. Ten years before
                   that, he already knew, he said. That’s why he gave me pearls.
-                  Elegance both modest and exotic, he said. And if not <i>the </i>
+                  Elegance both modest and exotic, he said. And if not{" "}
+                  <i>the </i>
                   fashion, pearls are always in fashion. That was on our
                   twentieth, and I think it was a quote.<i> For heaven</i>’
                   <i>s sake</i>, <i>how should I know how many</i>? And they’re
@@ -662,23 +663,10 @@ export default function Tations() {
             </span>
           </p>
         </div>
-
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
         <br />
         <br />
         <br />
       </StandardProse>
-
       <Footer />
     </>
   );

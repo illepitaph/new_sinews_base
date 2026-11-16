@@ -8,7 +8,7 @@ import styles from "../../styles/Soul.module.css";
 Soul.title = "genta_nishku ~ sole survivor — new_sinews";
 Soul.pieceName = "genta_nishku ~ sole survivor — new_sinews";
 Soul.description = "_Genta Nishku_fiction_SOLE SURVIVOR_news_sinews_issue10_";
-Soul.image = "https://www.newnewsinews.com/images/CareBackground.jpg";
+Soul.image = "https://www.newnewsinews.com/images/SoulBackground.jpg";
 
 export default function Soul() {
   return (
