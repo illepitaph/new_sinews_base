@@ -24,6 +24,21 @@ export default function Issue10() {
           adrienne raphel_i gave the orchids our lists of names
         </div>
         <div className={styles.boxEight}>alex nai_baarle</div>
+        <div className={styles.boxNine}>
+          liola mattheis_the spell keeps on casting
+        </div>
+        <div className={styles.boxTen}>
+          zachary gary_along these endless halls
+        </div>
+        <div className={styles.boxEleven}>
+          brendan white_search for your name
+        </div>
+        <div className={styles.boxTwelve}>
+          alvin lu_jianghu
+        </div>
+         <div className={styles.boxThirteen}>
+          rebecca ariel porte_constitutive mistakes amount to style
+        </div>
       </div>
     </>
   );

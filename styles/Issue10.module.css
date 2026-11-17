@@ -70,7 +70,7 @@
   bottom: 0px;
   left: 0px;
   font-family:"lores-9-plus-narrow";
-  font-size:0.6rem;
+  font-size:0.57rem;
   color: white;
     text-transform: uppercase;
 }
@@ -80,7 +80,7 @@
   background-color: #aaf0d1;
   height: auto;
   width: auto;
-  top: 5vh;
+  top: 3vh;
   left: 25vw;
   border: inset snow;
   box-shadow: 3px 3px 10px black;
@@ -95,7 +95,7 @@
   height: auto;
   width: auto;
   left: 16vw;
-  top: 14vh;
+  top: 12vh;
   border: inset snow;
   box-shadow: 3px 3px 10px black;
   padding:0 5px;
@@ -109,7 +109,7 @@
   height: auto;
   width: auto;
   left: 23vw;
-  top: 23vh;
+  top: 21vh;
   border: inset snow;
   box-shadow: 3px 3px 10px black;
   padding:0 5px;
@@ -123,7 +123,7 @@
   height: auto;
   width: auto;
   left: 33vw;
-  top: 32vh;
+  top: 30vh;
    border: inset snow;
    box-shadow: 3px 3px 10px black;
 padding:0 5px;
@@ -136,7 +136,7 @@ padding:0 5px;
   height: auto;
   width: auto;
   left: 19vw;
-  top: 41vh;
+  top: 39vh;
   border: inset snow;
   box-shadow: 3px 3px 10px black;
 padding:0 5px;
@@ -146,11 +146,82 @@ padding:0 5px;
 
 .boxEight {
    position: absolute;
+  background-color: #00ffff;
+  height: auto;
+  width: auto;
+  left: 27vw;
+  top: 48vh;
+  border: inset snow;
+  box-shadow: 3px 3px 10px black;
+padding:0 5px;
+  text-shadow:1px 1px 5px black;
+  animation: pulse 9s linear infinite;
+}
+
+.boxNine {
+   position: absolute;
+  background-color: #aaf0d1;
+  height: auto;
+  width: auto;
+  left: 21vw;
+  top: 57vh;
+  border: inset snow;
+  box-shadow: 3px 3px 10px black;
+padding:0 5px;
+  text-shadow:1px 1px 5px black;
+  animation: pulse 9s linear infinite;
+}
+
+.boxTen {
+  position: absolute;
+  background-color: #00ffff;
+  height: auto;
+  width: auto;
+  left: 11vw;
+  top: 66vh;
+  border: inset snow;
+  box-shadow: 3px 3px 10px black;
+padding:0 5px;
+  text-shadow:1px 1px 5px black;
+  animation: pulse 9s linear infinite;
+}
+
+.boxEleven {
+  position: absolute;
   background-color: #aaf0d1;
   height: auto;
   width: auto;
   left: 27vw;
-  top: 51vh;
+  top: 75vh;
+  border: inset snow;
+  box-shadow: 3px 3px 10px black;
+padding:0 5px;
+  text-shadow:1px 1px 5px black;
+  animation: pulse 9s linear infinite;
+}
+
+
+.boxTwelve {
+  position: absolute;
+  background-color: #00ffff;
+  height: auto;
+  width: auto;
+  left: 33vw;
+  top: 84vh;
+  border: inset snow;
+  box-shadow: 3px 3px 10px black;
+padding:0 5px;
+  text-shadow:1px 1px 5px black;
+  animation: pulse 9s linear infinite;
+}
+
+.boxThirteen {
+  position: absolute;
+  background-color: #00ffff;
+  height: auto;
+  width: auto;
+  left: 27vw;
+  top: 92vh;
   border: inset snow;
   box-shadow: 3px 3px 10px black;
 padding:0 5px;
