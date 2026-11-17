@@ -1,0 +1,159 @@
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-moz-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-o-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-ms-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(1.95);
+  }
+  25% {
+    transform: scale(2.05); /* Scales the image up to 105% */
+  }
+  75% {
+    transform: scale(1.75);
+  }
+  100% {
+    transform: scale(1.95);
+  }
+}
+
+.bodyContainer {
+  position: fixed;
+  background: url("../public/images/issue10Background.jpg") repeat center fixed;
+  background-size: contain;
+  min-height: 100%;
+  min-width: 100%;
+  margin: 0;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  font-family:"lores-9-plus-narrow";
+  font-size:0.6rem;
+  color: white;
+    text-transform: uppercase;
+}
+
+.boxThree {
+  position: absolute;
+  background-color: #aaf0d1;
+  height: auto;
+  width: auto;
+  top: 5vh;
+  left: 25vw;
+  border: inset snow;
+  box-shadow: 3px 3px 10px black;
+  padding:0 5px;
+  text-shadow:1px 1px 5px black;
+  animation: pulse 9s linear infinite;
+}
+
+.boxFour {
+   position: absolute;
+  background-color: #00ffff;
+  height: auto;
+  width: auto;
+  left: 16vw;
+  top: 14vh;
+  border: inset snow;
+  box-shadow: 3px 3px 10px black;
+  padding:0 5px;
+  text-shadow:1px 1px 5px black;
+  animation: pulse 9s linear infinite;
+}
+
+.boxFive {
+   position: absolute;
+  background-color: #aaf0d1;
+  height: auto;
+  width: auto;
+  left: 23vw;
+  top: 23vh;
+  border: inset snow;
+  box-shadow: 3px 3px 10px black;
+  padding:0 5px;
+  text-shadow:1px 1px 5px black;
+  animation: pulse 9s linear infinite;
+}
+
+.boxSix {
+   position: absolute;
+  background-color: #00ffff;
+  height: auto;
+  width: auto;
+  left: 33vw;
+  top: 32vh;
+   border: inset snow;
+   box-shadow: 3px 3px 10px black;
+padding:0 5px;
+  text-shadow:1px 1px 5px black;
+  animation: pulse 9s linear infinite;}
+
+.boxSeven {
+   position: absolute;
+  background-color: #aaf0d1;
+  height: auto;
+  width: auto;
+  left: 19vw;
+  top: 41vh;
+  border: inset snow;
+  box-shadow: 3px 3px 10px black;
+padding:0 5px;
+  text-shadow:1px 1px 5px black;
+  animation: pulse 9s linear infinite;
+}
+
+.boxEight {
+   position: absolute;
+  background-color: #aaf0d1;
+  height: auto;
+  width: auto;
+  left: 27vw;
+  top: 51vh;
+  border: inset snow;
+  box-shadow: 3px 3px 10px black;
+padding:0 5px;
+  text-shadow:1px 1px 5px black;
+  animation: pulse 9s linear infinite;
+}
