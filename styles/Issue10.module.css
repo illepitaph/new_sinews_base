@@ -355,6 +355,12 @@ padding:0 5px;
   animation: pulse 9s linear infinite;
 }
 
+@media (max-width: 933px) and (orientation: landscape) {
+ .bodyContainer {
+    font-size:0.45rem;
+  }
+}
+
 @media (max-width: 912px) and (orientation: portrait) {
   .bodyContainer {
     font-size:0.4rem;
@@ -363,11 +369,13 @@ padding:0 5px;
 
  @media (max-width: 541px) and (orientation: portrait) {
  .boxFourteen {
+  left:45vw;
     top:17vh;
  }
 
   .boxFifteen {
     top:26vh;
+    left: 60vw;
  }
 
  .boxSeventeen {
