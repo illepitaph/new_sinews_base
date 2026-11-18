@@ -217,11 +217,137 @@ padding:0 5px;
 
 .boxThirteen {
   position: absolute;
-  background-color: #00ffff;
+  background-color: #aaf0d1;
   height: auto;
   width: auto;
   left: 27vw;
   top: 92vh;
+  border: inset snow;
+  box-shadow: 3px 3px 10px black;
+padding:0 5px;
+  text-shadow:1px 1px 5px black;
+  animation: pulse 9s linear infinite;
+}
+
+.boxFourteen {
+  position: absolute;
+  background-color: #aaf0d1;
+  height: auto;
+  width: auto;
+  left: 50vw;
+  top: 12vh;
+  border: inset snow;
+  box-shadow: 3px 3px 10px black;
+padding:0 5px;
+  text-shadow:1px 1px 5px black;
+  animation: pulse 9s linear infinite;
+}
+
+.boxFifteen {
+  position: absolute;
+  background-color: #00ffff;
+  height: auto;
+  width: auto;
+  left: 66vw;
+  top: 21vh;
+  border: inset snow;
+  box-shadow: 3px 3px 10px black;
+padding:0 5px;
+  text-shadow:1px 1px 5px black;
+  animation: pulse 9s linear infinite;
+}
+
+.boxSixteen {
+  position: absolute;
+  background-color: #aaf0d1;
+  height: auto;
+  width: auto;
+  left: 68vw;
+  top: 35vh;
+  border: inset snow;
+  box-shadow: 3px 3px 10px black;
+padding:0 5px;
+  text-shadow:1px 1px 5px black;
+  animation: pulse 9s linear infinite;
+}
+
+.boxSeventeen {
+  position: absolute;
+  background-color: #aaf0d1;
+  height: auto;
+  width: auto;
+  left: 55vw;
+  top: 48vh;
+  border: inset snow;
+  box-shadow: 3px 3px 10px black;
+padding:0 5px;
+  text-shadow:1px 1px 5px black;
+  animation: pulse 9s linear infinite;
+}
+
+.boxEighteen {
+  position: absolute;
+  background-color: #aaf0d1;
+  height: auto;
+  width: auto;
+  left: 59vw;
+  top: 79vh;
+  border: inset snow;
+  box-shadow: 3px 3px 10px black;
+padding:0 5px;
+  text-shadow:1px 1px 5px black;
+  animation: pulse 9s linear infinite;
+}
+
+.boxNineteen {
+  position: absolute;
+  background-color: #00ffff;
+  height: auto;
+  width: auto;
+  left: 70vw;
+  top: 89vh;
+  border: inset snow;
+  box-shadow: 3px 3px 10px black;
+padding:0 5px;
+  text-shadow:1px 1px 5px black;
+  animation: pulse 9s linear infinite;
+}
+
+.boxTwenty {
+  position: absolute;
+  background-color: #aaf0d1;
+  height: auto;
+  width: auto;
+  left: 89vw;
+  top: 49vh;
+  border: inset snow;
+  box-shadow: 3px 3px 10px black;
+padding:0 5px;
+  text-shadow:1px 1px 5px black;
+  animation: pulse 9s linear infinite;
+}
+
+.boxTwentyOne {
+  position: absolute;
+  background-color: #00ffff;
+  height: auto;
+  width: auto;
+  left: 88vw;
+  top: 59vh;
+  border: inset snow;
+  box-shadow: 3px 3px 10px black;
+padding:0 5px;
+  text-shadow:1px 1px 5px black;
+  animation: pulse 9s linear infinite;
+}
+
+.boxTwentyTwo {
+  position: absolute;
+  background-color: #aaf0d1;
+  height: auto;
+  width: auto;
+  left: 89vw;
+  top: 69vh;
   border: inset snow;
   box-shadow: 3px 3px 10px black;
 padding:0 5px;
