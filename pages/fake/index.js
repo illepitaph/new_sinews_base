@@ -91,15 +91,34 @@ export default function Issue10() {
           </Link>
         </div>
         <div className={styles.boxEighteen}>
-           <Link href="/fake/coward" passHref>mike corrao_coward</Link></div>
-        <div className={styles.boxNineteen}> <Link href="/fake/soul" passHref>
-          genta nishku_sole survivor</Link></div>
-<div className={styles.boxTwenty}> <Link href="/fake/issue10bios" passHref>
-          bios</Link></div>
-          <div className={styles.boxTwentyOne}> <Link href="/" passHref>
-          new_sinews</Link></div>
-          <div className={styles.boxTwentyTwo}> <Link href="/about" passHref>
-          about</Link></div>
+          <Link href="/fake/coward" passHref>
+            mike corrao_coward
+          </Link>
+        </div>
+        <div className={styles.boxNineteen}>
+          {" "}
+          <Link href="/fake/soul" passHref>
+            genta nishku_sole survivor
+          </Link>
+        </div>
+        <div className={styles.boxTwenty}>
+          {" "}
+          <Link href="/fake/issue10bios" passHref>
+            bios
+          </Link>
+        </div>
+        <div className={styles.boxTwentyOne}>
+          {" "}
+          <Link href="/" passHref>
+            new_sinews
+          </Link>
+        </div>
+        <div className={styles.boxTwentyTwo}>
+          {" "}
+          <Link href="/about" passHref>
+            about
+          </Link>
+        </div>
       </div>
     </>
   );

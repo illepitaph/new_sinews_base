@@ -69,10 +69,10 @@
   right: 0px;
   bottom: 0px;
   left: 0px;
-  font-family:"lores-9-plus-narrow";
-  font-size:0.57rem;
+  font-family: "lores-9-plus-narrow";
+  font-size: 0.57rem;
   color: white;
-    text-transform: uppercase;
+  text-transform: uppercase;
 }
 
 .boxThree {
@@ -84,13 +84,13 @@
   left: 25vw;
   border: inset snow;
   box-shadow: 3px 3px 10px black;
-  padding:0 5px;
-  text-shadow:1px 1px 5px black;
+  padding: 0 5px;
+  text-shadow: 1px 1px 5px black;
   animation: pulse 9s linear infinite;
 }
 
 .boxFour {
-   position: absolute;
+  position: absolute;
   background-color: #00ffff;
   height: auto;
   width: auto;
@@ -98,13 +98,13 @@
   top: 12vh;
   border: inset snow;
   box-shadow: 3px 3px 10px black;
-  padding:0 5px;
-  text-shadow:1px 1px 5px black;
+  padding: 0 5px;
+  text-shadow: 1px 1px 5px black;
   animation: pulse 9s linear infinite;
 }
 
 .boxFive {
-   position: absolute;
+  position: absolute;
   background-color: #aaf0d1;
   height: auto;
   width: auto;
@@ -112,26 +112,27 @@
   top: 21vh;
   border: inset snow;
   box-shadow: 3px 3px 10px black;
-  padding:0 5px;
-  text-shadow:1px 1px 5px black;
+  padding: 0 5px;
+  text-shadow: 1px 1px 5px black;
   animation: pulse 9s linear infinite;
 }
 
 .boxSix {
-   position: absolute;
+  position: absolute;
   background-color: #00ffff;
   height: auto;
   width: auto;
   left: 33vw;
   top: 30vh;
-   border: inset snow;
-   box-shadow: 3px 3px 10px black;
-padding:0 5px;
-  text-shadow:1px 1px 5px black;
-  animation: pulse 9s linear infinite;}
+  border: inset snow;
+  box-shadow: 3px 3px 10px black;
+  padding: 0 5px;
+  text-shadow: 1px 1px 5px black;
+  animation: pulse 9s linear infinite;
+}
 
 .boxSeven {
-   position: absolute;
+  position: absolute;
   background-color: #aaf0d1;
   height: auto;
   width: auto;
@@ -139,13 +140,13 @@ padding:0 5px;
   top: 39vh;
   border: inset snow;
   box-shadow: 3px 3px 10px black;
-padding:0 5px;
-  text-shadow:1px 1px 5px black;
+  padding: 0 5px;
+  text-shadow: 1px 1px 5px black;
   animation: pulse 9s linear infinite;
 }
 
 .boxEight {
-   position: absolute;
+  position: absolute;
   background-color: #00ffff;
   height: auto;
   width: auto;
@@ -153,13 +154,13 @@ padding:0 5px;
   top: 48vh;
   border: inset snow;
   box-shadow: 3px 3px 10px black;
-padding:0 5px;
-  text-shadow:1px 1px 5px black;
+  padding: 0 5px;
+  text-shadow: 1px 1px 5px black;
   animation: pulse 9s linear infinite;
 }
 
 .boxNine {
-   position: absolute;
+  position: absolute;
   background-color: #aaf0d1;
   height: auto;
   width: auto;
@@ -167,8 +168,8 @@ padding:0 5px;
   top: 57vh;
   border: inset snow;
   box-shadow: 3px 3px 10px black;
-padding:0 5px;
-  text-shadow:1px 1px 5px black;
+  padding: 0 5px;
+  text-shadow: 1px 1px 5px black;
   animation: pulse 9s linear infinite;
 }
 
@@ -181,8 +182,8 @@ padding:0 5px;
   top: 66vh;
   border: inset snow;
   box-shadow: 3px 3px 10px black;
-padding:0 5px;
-  text-shadow:1px 1px 5px black;
+  padding: 0 5px;
+  text-shadow: 1px 1px 5px black;
   animation: pulse 9s linear infinite;
 }
 
@@ -195,11 +196,10 @@ padding:0 5px;
   top: 75vh;
   border: inset snow;
   box-shadow: 3px 3px 10px black;
-padding:0 5px;
-  text-shadow:1px 1px 5px black;
+  padding: 0 5px;
+  text-shadow: 1px 1px 5px black;
   animation: pulse 9s linear infinite;
 }
-
 
 .boxTwelve {
   position: absolute;
@@ -210,8 +210,8 @@ padding:0 5px;
   top: 84vh;
   border: inset snow;
   box-shadow: 3px 3px 10px black;
-padding:0 5px;
-  text-shadow:1px 1px 5px black;
+  padding: 0 5px;
+  text-shadow: 1px 1px 5px black;
   animation: pulse 9s linear infinite;
 }
 
@@ -224,8 +224,8 @@ padding:0 5px;
   top: 92vh;
   border: inset snow;
   box-shadow: 3px 3px 10px black;
-padding:0 5px;
-  text-shadow:1px 1px 5px black;
+  padding: 0 5px;
+  text-shadow: 1px 1px 5px black;
   animation: pulse 9s linear infinite;
 }
 
@@ -238,8 +238,8 @@ padding:0 5px;
   top: 12vh;
   border: inset snow;
   box-shadow: 3px 3px 10px black;
-padding:0 5px;
-  text-shadow:1px 1px 5px black;
+  padding: 0 5px;
+  text-shadow: 1px 1px 5px black;
   animation: pulse 9s linear infinite;
 }
 
@@ -252,8 +252,8 @@ padding:0 5px;
   top: 21vh;
   border: inset snow;
   box-shadow: 3px 3px 10px black;
-padding:0 5px;
-  text-shadow:1px 1px 5px black;
+  padding: 0 5px;
+  text-shadow: 1px 1px 5px black;
   animation: pulse 9s linear infinite;
 }
 
@@ -266,8 +266,8 @@ padding:0 5px;
   top: 35vh;
   border: inset snow;
   box-shadow: 3px 3px 10px black;
-padding:0 5px;
-  text-shadow:1px 1px 5px black;
+  padding: 0 5px;
+  text-shadow: 1px 1px 5px black;
   animation: pulse 9s linear infinite;
 }
 
@@ -280,8 +280,8 @@ padding:0 5px;
   top: 59vh;
   border: inset snow;
   box-shadow: 3px 3px 10px black;
-padding:0 5px;
-  text-shadow:1px 1px 5px black;
+  padding: 0 5px;
+  text-shadow: 1px 1px 5px black;
   animation: pulse 9s linear infinite;
 }
 
@@ -294,8 +294,8 @@ padding:0 5px;
   top: 79vh;
   border: inset snow;
   box-shadow: 3px 3px 10px black;
-padding:0 5px;
-  text-shadow:1px 1px 5px black;
+  padding: 0 5px;
+  text-shadow: 1px 1px 5px black;
   animation: pulse 9s linear infinite;
 }
 
@@ -308,8 +308,8 @@ padding:0 5px;
   top: 89vh;
   border: inset snow;
   box-shadow: 3px 3px 10px black;
-padding:0 5px;
-  text-shadow:1px 1px 5px black;
+  padding: 0 5px;
+  text-shadow: 1px 1px 5px black;
   animation: pulse 9s linear infinite;
 }
 
@@ -322,8 +322,8 @@ padding:0 5px;
   top: 49vh;
   border: inset snow;
   box-shadow: 3px 3px 10px black;
-padding:0 5px;
-  text-shadow:1px 1px 5px black;
+  padding: 0 5px;
+  text-shadow: 1px 1px 5px black;
   animation: pulse 9s linear infinite;
 }
 
@@ -336,8 +336,8 @@ padding:0 5px;
   top: 59vh;
   border: inset snow;
   box-shadow: 3px 3px 10px black;
-padding:0 5px;
-  text-shadow:1px 1px 5px black;
+  padding: 0 5px;
+  text-shadow: 1px 1px 5px black;
   animation: pulse 9s linear infinite;
 }
 
@@ -350,45 +350,83 @@ padding:0 5px;
   top: 69vh;
   border: inset snow;
   box-shadow: 3px 3px 10px black;
-padding:0 5px;
-  text-shadow:1px 1px 5px black;
+  padding: 0 5px;
+  text-shadow: 1px 1px 5px black;
   animation: pulse 9s linear infinite;
 }
 
 @media (max-width: 933px) and (orientation: landscape) {
- .bodyContainer {
-    font-size:0.45rem;
+  .bodyContainer {
+    font-size: 0.45rem;
   }
 }
 
 @media (max-width: 912px) and (orientation: portrait) {
   .bodyContainer {
-    font-size:0.4rem;
+    font-size: 0.4rem;
   }
 }
 
- @media (max-width: 541px) and (orientation: portrait) {
- .boxFourteen {
-  left:45vw;
-    top:17vh;
- }
+@media (max-width: 847px) and (orientation: landscape) {
+  .bodyContainer {
+    font-size: 0.4rem;
+  }
+
+  .boxFourteen {
+    left: 70vw;
+  }
+
+  .boxNineteen {
+    left:78vw;
+  }
+}
+
+
+@media (max-width: 769px) and (orientation: portrait) {
+  .boxFourteen {
+    top: 17vh;
+  }
+}
+
+@media (max-width: 541px) and (orientation: portrait) {
+  .boxFourteen {
+    left: 45vw;
+    top: 17vh;
+  }
 
   .boxFifteen {
-    top:26vh;
+    top: 26vh;
     left: 60vw;
- }
+  }
 
- .boxSeventeen {
-  top:52vh;
-  left:40vw;
- }
+  .boxSeventeen {
+    top: 52vh;
+    left: 40vw;
+  }
 
- .boxNineteen {
-  top:88vh;
-  left:50vw;
- }
+  .boxNineteen {
+    top: 88vh;
+    left: 50vw;
+  }
 
   .boxTwentyOne {
-  left:84vw;
- }
+    left: 84vw;
+  }
+}
+
+@media (max-width: 430px) and (orientation: portrait) {
+
+   .boxFourteen {
+    left: 33vw;
+  }
+}
+
+@media (max-width: 361px) and (orientation: portrait) {
+  .bodyContainer {
+    font-size: 0.34rem;
+  }
+
+   .boxFourteen {
+    left: 33vw;
+  }
 }
