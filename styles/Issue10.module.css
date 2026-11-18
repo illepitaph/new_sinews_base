@@ -273,11 +273,11 @@ padding:0 5px;
 
 .boxSeventeen {
   position: absolute;
-  background-color: #aaf0d1;
+  background-color: #00ffff;
   height: auto;
   width: auto;
   left: 55vw;
-  top: 48vh;
+  top: 59vh;
   border: inset snow;
   box-shadow: 3px 3px 10px black;
 padding:0 5px;
@@ -353,4 +353,30 @@ padding:0 5px;
 padding:0 5px;
   text-shadow:1px 1px 5px black;
   animation: pulse 9s linear infinite;
+}
+
+@media (max-width: 912px) and (orientation: portrait) {
+  .bodyContainer {
+    font-size:0.4rem;
+  }
+}
+
+ @media (max-width: 541px) and (orientation: portrait) {
+ .boxFourteen {
+    top:17vh;
+ }
+
+  .boxFifteen {
+    top:26vh;
+ }
+
+ .boxSeventeen {
+  top:52vh;
+  left:40vw;
+ }
+
+ .boxNineteen {
+  top:88vh;
+  left:50vw;
+ }
 }

@@ -80,14 +80,14 @@ export default function Issue10() {
           </Link>
         </div>
         <div className={styles.boxSixteen}>
-          <Link href="/fake/airplant" passHref>
-            brandan griffin_airplant
+          <Link href="/fake/overthere" passHref>
+            kat meads_over there
           </Link>
         </div>
         <div className={styles.boxSeventeen}>
           {" "}
-          <Link href="/fake/overthere" passHref>
-            kat meads_over there
+          <Link href="/fake/airplant" passHref>
+            brandan griffin_airplant
           </Link>
         </div>
         <div className={styles.boxEighteen}>
