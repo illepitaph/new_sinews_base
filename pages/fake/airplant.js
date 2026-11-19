@@ -1,321 +1,306 @@
 import Head from "next/head";
-import Link from "next/link";
 import Header from "../../components/header.js";
+import Link from "next/link";
 import CenterGrayTitle from "../../components/centerGrayTitle.js";
 import RightGrayTitle from "../../components/rightGrayTitle.js";
 import LeftGrayTitle from "../../components/leftGrayTitle.js";
 import CenterBlackTitle from "../../components/centerBlackTitle.js";
 import Footer from "../../components/footer.js";
 import styles from "../../styles/Airplant.module.css";
-import { airPlantGrids } from "../../lib/airPlantUtils.js";
+import { airPlantGrids, fakeGeoMagResults } from "../../lib/airPlantUtils.js";
 Airplant.title = "brandan_griffin ~ airplant — new_sinews";
 Airplant.pieceName = "brandan_griffin ~ airplant — new_sinews";
 Airplant.description = "_BRANDAN GRIFFIN_poetry_AIRPLANT_new_sinews_issue10_";
 Airplant.image = "https://www.newnewsinews.com/images/GriffinBackground.jpg";
 
+import { useState, useEffect } from "react";
+import { useQuery } from "react-query";
+import axios from "axios";
+
 export default function Airplant() {
-  {
+  // 51 Bacliff weather station
+  const STATION_ID = "011CE";
+
+  // Set the time values once on page load (client-side, to avoid hydration mismatch)
+  const [times, setTimes] = useState(null);
+
+  useEffect(() => {
+    const currentTime = new Date();
+    const oneHourAgo = new Date(currentTime);
+    oneHourAgo.setUTCHours(currentTime.getUTCHours() - 1);
+
+    setTimes({
+      currentTime,
+      currentTimeISOString: currentTime.toISOString(),
+      currentTimeISONoMs: currentTime.toISOString().split(".")[0] + "Z",
+      oneHourAgo,
+      oneHourAgoISOString: oneHourAgo.toISOString(),
+      oneHourAgoISOISONoMs: oneHourAgo.toISOString().split(".")[0] + "Z",
+    });
+  }, []);
+
+  function cToF(celsiusTemp) {
+    return (celsiusTemp * 9) / 5 + 32;
+  }
+
+  function kmhToMph(kmhSpeed) {
+    return (kmhSpeed * 5) / 3;
+  }
+
+  function getGoodWeatherReading(features) {
+    var weatherBlock = {
+      humidity: 89.23,
+      temperature: 17.23,
+      windSpeed: 4.56,
+      barometricPressure: 102.111,
+    };
+
+    for (let i = 0; i < features.length; i++) {
+      let thisHumidity = features[i]["properties"]["relativeHumidity"]["value"];
+      let thisTemperature = features[i]["properties"]["temperature"]["value"];
+      let thisWindSpeed = features[i]["properties"]["windSpeed"]["value"];
+      let thisBarometricPressure =
+        features[i]["properties"]["barometricPressure"]["value"];
+      if (thisHumidity && thisTemperature && thisWindSpeed) {
+        weatherBlock["humidity"] = thisHumidity;
+        weatherBlock["temperature"] = thisTemperature;
+        weatherBlock["windSpeed"] = thisWindSpeed;
+        if (thisBarometricPressure) {
+          weatherBlock["barometricPressure"] = thisBarometricPressure;
+        }
+        break;
+      }
+    }
+    return weatherBlock;
+  }
+
+  function generatePoem(
+    weatherData,
+    spaceData,
+    uvData,
+    aqiData,
+    geoMagData,
+    complete,
+  ) {
+    var poem = [];
+
+    if (complete) {
+      var weatherProperties = weatherData.data.data.features;
+      var spaceProperties = spaceData.data.data[0];
+      var uvProperties = uvData.data.data[0];
+      var apiProperties = aqiData.data.data;
+      var geoMagProperties = geoMagData?.data?.data
+        ? geoMagData.data.data
+        : fakeGeoMagResults;
+
+      // Weather Values
+      var goodWeatherValues = getGoodWeatherReading(weatherProperties);
+      var currentHumidity = goodWeatherValues["humidity"];
+      var currentTemp = cToF(goodWeatherValues["temperature"]);
+      var currentTempObject = airPlantGrids["midTempGrid"];
+      var currentWindSpeed = kmhToMph(goodWeatherValues["windSpeed"]);
+      var airPressure = goodWeatherValues["barometricPressure"] || 0;
+      var magnetic = null;
+      var geoMagArray = geoMagProperties["values"][0]["values"].filter(
+        (value) => {
+          return value !== null && value !== undefined;
+        },
+      );
+
+      if (geoMagArray.length === 0) {
+        geoMagArray = fakeGeoMagResults["values"][0]["values"];
+      }
+
+      for (var i = geoMagArray.length - 1; i > 0; i--) {
+        if (geoMagArray[i] != null) {
+          magnetic = geoMagArray[i];
+          break;
+        }
+      }
+
+      // Space Values
+      var solarWindBt = spaceProperties["bt"];
+      var subjectDeclensionColumn = Number(String(solarWindBt).slice(0, 1));
+      var solarWindBz = spaceProperties["bz_gse"];
+
+      // UV Property
+      var uvIndex = uvProperties["UV_INDEX"];
+
+      // AQI Data
+      // Using PM2.5 for now
+      // Get the last value in the aqi array, which should be the latest value
+      var aqiArray = apiProperties["monitors"][1]["aqi"];
+      var currentAqi = aqiArray[aqiArray.length - 1];
+
+      if (Number(currentTemp) > 75) {
+        currentTempObject = airPlantGrids["highTempGrid"];
+      } else if (Number(currentTemp) < 55) {
+        currentTempObject = airPlantGrids["lowTempGrid"];
+      }
+
+      poem.push(
+        <>
+          <div className={styles.poemOne}>
+            <div>{`${currentTempObject["physiologicalState"][Number(String(currentHumidity).slice(0, 1))]}`}</div>
+            <div>{`${currentTempObject["affectiveState"][Number(String(currentHumidity).slice(1, 2))]}`}</div>
+            <div>{`${currentTempObject["subjectDeclension"][subjectDeclensionColumn]}`}</div>
+          </div>
+          <br />
+          <br />
+          <div className={styles.poemTwo}>
+            <div>{`${currentTempObject["subjectConjugation"][subjectDeclensionColumn]}`}</div>
+            <div>{`${currentTempObject["prefix"][Number(String(Math.abs(solarWindBz)).slice(0, 1))]}`}</div>
+            <div>{`${currentTempObject["verb"][Number(String(currentWindSpeed).slice(0, 1))]}`}</div>
+            <div>{`${currentTempObject["direction"][Number(String(uvIndex).slice(0, 1))]}`}</div>
+          </div>
+          <br />
+          <br />
+          <div className={styles.poemThree}>
+            <div>{`${currentTempObject["subjectConjugation2"][subjectDeclensionColumn]}`}</div>
+            <div>{`${currentTempObject["verb2"][Number(String(airPressure).slice(0, 1))]}`}</div>
+          </div>
+          <br />
+          <br />
+          <div className={styles.poemFour}>
+            <div>{`${currentTempObject["object"][Number(String(currentAqi).slice(0, 1))]}`}</div>
+            <div>{`${currentTempObject["objectOrientation"][Number(String(currentAqi).slice(1, 2))]}`}</div>
+          </div>
+          <br />
+          <br />
+          <div className={styles.poemFive}>
+            <div>{`${currentTempObject["qualityAdjective"][Number(String(magnetic).slice(3, 4))]}`}</div>
+            <div>{`${currentTempObject["transitionAdverb"][Number(String(magnetic).split(".")[1].slice(0, 1))]}`}</div>
+          </div>
+        </>,
+      );
+    } else {
+      poem.push(<p>Loading</p>);
+    }
+
+    return poem;
+  }
+
+  const weatherQuery = useQuery(
+    [
+      "getWeather",
+      STATION_ID,
+      times?.currentTimeISONoMs,
+      times?.oneHourAgoISOISONoMs,
+    ],
+    async () => {
+      return await axios.get(
+        `https://api.weather.gov/stations/${STATION_ID}/observations?start=${times.oneHourAgoISOISONoMs}&end=${times.currentTimeISONoMs}&limit=10`,
+      );
+    },
+    { enabled: !!times },
+  );
+
+  const spaceQuery = useQuery(["getSpace"], async () => {
+    return await axios.get(
+      `https://services.swpc.noaa.gov/json/rtsw/rtsw_mag_1m.json`,
+    );
+  });
+
+  const uvQuery = useQuery(["getUv"], async () => {
+    return await axios.get(
+      `https://data.epa.gov/efservice/getEnvirofactsUVDaily/CITY/Chicago/STATE/IL/JSON`,
+    );
+  });
+
+  const aqiQuery = useQuery(["getAqi"], async () => {
+    return await axios.get(
+      `https://airnowgovapi.com/v2/andata/Sites/170314201.json`,
+    );
+  });
+
+  const geoMagQuery = useQuery(
+    ["getGeoMag", times?.oneHourAgoISOString, times?.currentTimeISOString],
+    async () => {
+      return await axios
+        .get(
+          `https://geomag.usgs.gov/ws/data/?id=BRW&sampling_period=1&format=json&starttime_only=true&starttime=${
+            times.ISOString
+          }&endtime=${times.currentTimeISOString}&sampling_period=60`,
+        )
+        .catch(function () {
+          console.log("Geomag request has failed");
+        });
+    },
+    { enabled: !!times },
+  );
+
+  if (
+    weatherQuery.isError ||
+    spaceQuery.isError ||
+    uvQuery.isError ||
+    aqiQuery.isError ||
+    geoMagQuery.isError
+  ) {
+    return <div>Not found</div>;
+  } else {
+    var complete =
+      weatherQuery.isSuccess &&
+      spaceQuery.isSuccess &&
+      uvQuery.isSuccess &&
+      aqiQuery.isSuccess &&
+      geoMagQuery.isSuccess;
+
     return (
       <>
-        <Head />
         <Header headerBackground="griffinBackground" />
-
-        <CenterGrayTitle>
-          <span className={styles.titleShadow}>
-            <span className={styles.skew}>a</span>
-          </span>
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <span className={styles.inverseShadow}>
-            {" "}
-            <span className={styles.titleShadow}>_ </span>
-            <span className={styles.pushLeft}>
-              {" "}
-              <i>i</i>{" "}
-            </span>
-          </span>
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <span className={styles.titleShadow}>
-            <span className={styles.pushRight}>
-              <i>r</i>
-            </span>
-          </span>{" "}
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-        </CenterGrayTitle>
-
-        <RightGrayTitle>
-          <span className={styles.skew}>
-            <span className={styles.titleShadow}>p</span>
-            <span className={styles.inverseShadow}>
-              {" "}
-              <span className={styles.uppercase}>
-                <i>l </i>
-              </span>
-            </span>
-            <span className={styles.alternateTitleColor}>a </span>
-            <span className={styles.titleShadow}>
-              <i>n </i>
-            </span>
-            <span className={styles.mintAlternate}>t</span>
-          </span>
-        </RightGrayTitle>
-
         <br />
-        <br />
-
-        <br />
-        <br />
-
-        <br />
-        <br />
-
-        <br />
-        <br />
-
-        <br />
-        <br />
-
+        <br /> <br />
         <br />
         <br />
         <br />
         <br />
-
-        <br />
-        <br />
-
-        <br />
-        <br />
-
-        <br />
-        <br />
-
-        <br />
-        <br />
-
         <br />
         <br />
         <br />
-
-        <br />
-        <br />
-
-        <br />
-        <br />
-
-        <br />
-        <br />
-
-        <br />
-        <br />
-
-        <br />
-
-        <CenterBlackTitle>
-          <span className={styles.authorName}>
-            <span className={styles.ellipses}>...</span> bra
-            <span className={styles.uppercase}>n</span>dan
-            <span className={styles.ellipses}> ...</span> g
-            <span className={styles.uppercase}>r</span>i
-            <span className={styles.uppercase}>ff</span>in
-            <span className={styles.ellipses}> ...</span>
-          </span>
-                  </CenterBlackTitle>
- <div className={styles.introText}>
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <div className={styles.hexagon}></div>
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <div className={styles.hexagonTwo}></div>
-           <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <div className={styles.hexagonThree}></div>
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          Once upon a future time, words formed. <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          Or will form—the nouns +++ verbs +++ adjectives coming to comprise a
-          poem    <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />A poem indeed procedurally generated by the very
-          atmospheric +++ meteorological +++ astronomical conditions of the day
-          it was composed—much as a plant also depends on these precise
-          conditions.
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          When read aloud, the poem shall subsist aloft like a living
-          thing: an airplant.
-               <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <div className={styles.hexagonFour}></div>
-                <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          By using the numerical values of factors such as humidity +++ the
-          sun’s +++ earth’s magnetic fields +++ air pressure +++ UV index, the
-          poem’s path produces a matrix of word-parts coagulating into a
-          10-line stanza.
-               <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <div className={styles.hexagonFive}></div>
-                <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          Syntax +++ rhythm shall remain constant ... while the individual matrix
-          will be determined by temperature range, allowing the poem to reflect
-          the plant’s overall state ... cold or warm or hot— 
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          click
-          <Link href="/fake/airplantTwo" passHref>
-            <span className={styles.click}>h e r e</span>
-          </Link>
-          +++{" "}
-          <Link href="/fake/airplantTwo" passHref>
-            <span className={styles.click}>reclick</span>
-          </Link>{" "}
-          later +++{" "}
-          <Link href="/fake/airplantTwo" passHref>
-            <span className={styles.click}>reclick</span>
-          </Link>{" "}
-          later still to find the poem lose-become itself afresh
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
+        <div className={styles.poemBox}>
+          {generatePoem(
+            weatherQuery,
+            spaceQuery,
+            uvQuery,
+            aqiQuery,
+            geoMagQuery,
+            complete,
+          )}
         </div>
-
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        {times && (
+          <h3 className={styles.poemTitle} suppressHydrationWarning>
+            {times.currentTime.toDateString()};{" "}
+            {times.currentTime.toLocaleTimeString("en-US", {
+              timeZone: "America/Chicago",
+            })}
+            ; chicago, il 60608
+          </h3>
+        )}
+        <br />
+        <br />
+        <br />
+        <h3 className={styles.orientationText}>
+          {" "}
+          wait wait what on earth is this ??
+          <br />
+          <br />
+          click{" "}
+          <span className={styles.poemLink}>
+            <Link href="/fake/airplantTwo" passHref>
+              here
+            </Link>
+          </span>{" "}
+          to find out{" "}
+        </h3>
+        <br />
+        <br />
+        <br />
         <Footer />
       </>
     );

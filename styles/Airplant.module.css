@@ -95,7 +95,7 @@
 }
 
 .introText {
-  font-size: 4rem;
+  font-size: 3.2rem;
   font-family: "base-9-sans", sans-serif;
   color: #aaf0d1;
   text-shadow:
@@ -188,6 +188,35 @@
     6px 6px 15px black;
   text-transform: lowercase;
   text-align:center;
+}
+
+.orientationText {
+  max-width: 99vw;
+  font-size: 3rem;
+  font-family: "base-9-sans", sans-serif;
+  color: black;
+  text-shadow:
+    4px 4px white,
+    5px 5px #aaf0d1,
+    6px 6px 15px black;
+  text-transform: lowercase;
+  text-align:center;
+}
+
+.poemLink {
+  font-size: 3rem;
+  font-family: "base-9-sans", sans-serif;
+  color: white;
+  text-shadow:
+    4px 4px black,
+    5px 5px #aaf0d1,
+    6px 6px 15px black;
+  text-transform: lowercase;
+  transition: 1.4s ease opacity;
+}
+
+.poemLink:hover {
+  opacity:0.1;
 }
 
 .poemOne {
